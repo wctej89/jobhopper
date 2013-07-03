@@ -1,6 +1,6 @@
 %html
   %head
-    %title Test App
+    %title JobHopper
     = stylesheet_link_tag "application"
     = stylesheet_link_tag "custom"
     = javascript_include_tag "application"
@@ -11,5 +11,4 @@
       .container  
         =render 'shared/alerts'
         = yield
-      =debug(params) if Rails.env.development?
       = render 'shared/footer'
