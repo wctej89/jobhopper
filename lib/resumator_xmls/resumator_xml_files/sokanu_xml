@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Sokanu]]></company>
+			<job>
+			<id><![CDATA[job_20100909044857_78PIEOJ30QYRZJZM]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[C# Startup Software Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://sokanu.theresumator.com/apply/zzpuUO/C-Startup-Software-Developer.html]]></url>
+			<city><![CDATA[Vancouver]]></city>
+			<state><![CDATA[British Columbia]]></state>
+			<country><![CDATA[Canada]]></country>
+			<postalcode><![CDATA[V7K 3C9]]></postalcode>
+			<description><![CDATA[<p>
+	Who We Are</p>
+<p>
+	Sokanu is a social learning platform aimed at helping people find their passion in&nbsp;life. We believe that people have talents and are passionate about many things, but often don&#39;t know how to translate that passion into a career they love. Sokanu will combine a&nbsp;social networking platform with an adaptive learning engine to provide a unique experience to each user.</p>
+<p>
+	What We&#39;re Looking For</p>
+<p>
+	We are seeking a versatile and experienced software engineer to finish our alpha product&nbsp;with code that is clean, functional, and easy to maintain. You&#39;ll be extending Sokanu&rsquo;s content platforms in new directions, as well as streamlining and re-factoring our existing&nbsp;systems. We plan on growing by leaps and bounds, so candidates should thrive in&nbsp;dynamic environments where development is fast and the only constant is change. You&nbsp;should also believe in open platforms and want the development community at large to build off your successes via open standards and API&#39;s.</p>
+<p>
+	You should have in-depth knowledge of</p>
+<p>
+	&rArr; CMS best practices<br />
+	&rArr; The in&rsquo;s and out&rsquo;s of popular open source CMS and blog platforms<br />
+	&rArr; Collecting community-crafted content and how to integrate it with internal CMS workflows<br />
+	&rArr; Video platforms such as YouTube, Blip.tv, and others<br />
+	&rArr; Mass distribution email systems<br />
+	&rArr; Preferable knowledge in .NET, C# and SQL<br />
+	&rArr; Database scaling at the application level and caching approaches, from object caching&nbsp;to CDNs<br />
+	&rArr; RESTful web services APIs for developers, both building &amp; using them<br />
+	&rArr; Performance tuning web applications from the frontend to the backend<br />
+	&rArr; Scale and what it takes to be successful at a community-driven web site where the&nbsp;word &quot;millions&quot; is used frequently and in many contexts</p>
+<p>
+	Bonus experience</p>
+<p>
+	&rArr; HTML, CSS, JavaScript and associated frameworks (jQuery, prototype, YUI)<br />
+	&rArr; Artificial Intelligence knowledge, experience with Self-Organizing Maps/Kohonen Networks, Neural Networks, Adaptive Decision-Engines, etc...<br />
+	&rArr; Social networking applications and associated design patterns<br />
+	&rArr; Abuse and anti-spam approaches and technologies<br />
+	&rArr; Ideally, you hold a B.S. or M.S in Computer Science, or have equivalent self-directed&nbsp;study and experience.</p>
+<p>
+	Also important</p>
+<p>
+	&rArr; Shipping: you can point to products on the web today that you built and shipped<br />
+	&rArr; Love of the web and a sense of fascination with the endless possibilities it creates<br />
+	&rArr; Love creating products that are extremely easy to use and applying psychology to&nbsp;UX/UI<br />
+	&rArr; A sense of humour<br />
+	&rArr; Excellent communication skills</p>
+<p>
+	Next Steps</p>
+<p>
+	If you&#39;re interested in joining the team at Sokanu, please send a cover letter along with&nbsp;your resume to jobs@sokanu.com telling us what inspires you about Sokanu and why you think you are a perfect fit. If you contribute to an open source project, write a blog, or practice another craft besides software, that means something to us, and we would love&nbsp;to hear about it!</p>
+]]></description>
+			<type><![CDATA[Part Time to Full Time]]></type>
+			<experience><![CDATA[Student (High School)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/sokanu/zzpuUO"></script>]]></buttons>
+		</job>
+	</jobs>

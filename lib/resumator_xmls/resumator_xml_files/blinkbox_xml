@@ -1,0 +1,1012 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[blinkbox]]></company>
+			<job>
+			<id><![CDATA[job_20130214151248_900JPHM4BXS3C9LE]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Partner Marketing Manager]]></title>
+			<department><![CDATA[music - Marketing]]></department>
+			<team><![CDATA[Tesco]]></team>
+			<url><![CDATA[http://blinkbox.theresumator.com/apply/B6QrM5/Senior-Partner-Marketing-Manager.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[London]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[ECN1]]></postalcode>
+			<description><![CDATA[<p>
+Acquired by Tesco in 2012, We7 is a free music streaming service, with over 6.8 million music titles available in the UK. The We7 team is made up of experienced, creative, enthusiastic individuals who between them maintain, develop and improve our website, mobile and device applications.</p>
+<p>
+We are presenting an opportunity for a Senior Partner Marketing Manager to join our team at We7. As a&nbsp; Senior Partner Marketing Manager you will look after all partner marketing activity for WE7 which can be divided into three categories:&nbsp;<br />
+&nbsp;</p>
+<p>
+1) Tesco<br />
+2) Device &amp; Label Partners (i.e. Sony, LG, Samsung, Apple) and<br />
+3) Brand Partnerships.&nbsp;&nbsp;<br />
+&nbsp;</p>
+<p>
+As the Senior Partner Marketing Manager you will be responsible for defining the Partner Marketing plan, with support from the Marketing Director, and implementing all partner marketing campaigns and reporting (excluding Tesco activity where you will liaise with a specific in-house team).<br />
+&nbsp;</p>
+<p>
+In your role you will be responsible for the following:<br />
+&bull; Defining the Partner Marketing plan with input and direction from the Marketing Director.<br />
+&bull; Defining annual, quarterly and monthly partner marketing targets including brand tracking metrics, customer acquisition cost and customer &lsquo;life time value&rsquo; both at an aggregate, partner and campaign level<br />
+&bull; Creating proposals &amp; project summaries for each campaign, clearly articulating purpose and business benefit (relative to KPIs)<br />
+&bull; Managing the implementation of all partner campaigns including briefing and managing creative agencies, printers and distribution agencies<br />
+&bull; Analysing campaign data and creating reports to enable continued improvements and better performance<br />
+&bull; Collaborating closely with the blinkbox Partner Marketing team to leverage existing relationships with Device partners and ensure an integrated plan<br />
+&bull; Collaborating with Tesco / blinkbox Partner Marketing team to enable them to implement Tesco / WE7 activity<br />
+&bull; Owning all WE7 partner marketing events as relevant.</p>
+<p>
+<br />
+As a Senior Partner Marketing Manager you will need the following:<br />
+&bull; Excellent collaboration skills<br />
+&bull; Self-starter and highly resourceful<br />
+&bull; A good understanding of partners business drivers and strategies<br />
+&bull; Proven experience in a partner marketing role gained in either a retail / partnerships&nbsp; environment<br />
+&bull; Strong communication skills: written, verbal and presentation.<br />
+&bull; Innovative and creative thinking<br />
+&bull; Drives for results in prioritized manner<br />
+&bull; You will be analytical, have great attention to detail and be able to deliver projects on time and on budget.<br />
+&bull; Integrated marketing skills i.e. be digital marketing savvy, plus also understand &lsquo;retail&rsquo; and traditional marketing channels.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blinkbox/B6QrM5"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130125144539_ZJXACRAGY05X1XWG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Principal Performance Engineer - Software Development Focus]]></title>
+			<department><![CDATA[movies - Technology - Performance]]></department>
+			<team><![CDATA[blinkbox]]></team>
+			<url><![CDATA[http://blinkbox.theresumator.com/apply/lGvk4I/Principal-Performance-Engineer-Software-Development-Focus.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EC1N]]></postalcode>
+			<description><![CDATA[<p>
+ABOUT BLINKBOX<br />
+blinkbox is the UK&#39;s leading independent online film and TV aggregator. Since its launch the company has amassed a catalogue of over 9,000 of the world&#39;s best film and TV titles from top tier studios including BBC Worldwide, Warner Bros., Universal, Paramount, Sony Pictures Television International, Twentieth Century Fox and more than 15 leading independent producers such as FremantleMedia, All3Media, Revolver, Zig Zag and Aardman Animations.<br />
+With an audience of over 2 million unique users a month, blinkbox.com combines premium programming with leading edge technology into a simple user interface across multiple consumer platforms. The company offers both buy-to-own and watch-for-free services where consumers can buy or rent the latest releases or watch free TV, all streamed instantaneously to PC, Mac, TV and more recently, games consoles and mobile devices.<br />
+Based in London, blinkbox was founded by former Channel 4 and Vodafone senior executives, with a vision to create the only truly personalized and engaging entertainment service for communities passionate about TV and movies.</p>
+<p>
+ABOUT THE IT GROUP<br />
+The IT group is responsible for all IT hardware and software platforms within blinkbox Entertainment. This includes strategy, implementation and maintenance of systems serving the office users, through to our 2 million+ monthly customers.<br />
+The core production platform is based on Microsoft technologies atop commodity Wintel hardware and shared storage devices. Additional software by encoding and DRM providers completes the base software stack upon which the website is run.<br />
+No blinkbox IT services are outsourced, so engineers must be prolific trouble shooters, and comfortable with tackling a problem from detection to resolution. For the same reason, engineers must be highly capable in a number of fields and eager to learn the latest platforms and technologies as they emerge.</p>
+<p>
+ABOUT THE ENGINEERING GROUP<br />
+The development teams we have include database, services, front end web and player technologies. All engineers are required to be able to work across a wide range of technologies; from back end multithreaded encoding services through RESTful APIs to front end web development that targets specific low-resource consumer electronic devices.<br />
+The test team is dedicated to ensuring the code and solutions we ship are of the highest quality. Using manual and automated tests from simple code fragments up to automated smoke tests, they verify the quality of the shipping code across a wide range of devices. All of the engineering resources liaise with the Operations team to ensure smooth delivery and support of the blinkbox solution.<br />
+The architecture team is a small team that has input at all levels of the solution. The team ensure that all technology and information decisions are made with a full understanding of the impact across the wider technology group and the company as a whole.</p>
+<p>
+ABOUT THE PERFORMANCE TEAM<br />
+The performance team is a specialist function within the IT group, with the aim of providing a number of services to the wider Technology group.</p>
+<ul>
+<li>
+Assisting software developers in writing high performance code at every level</li>
+<li>
+Creating a toolset to monitor, measure, alert and report on performance trends and anomalies from the users&rsquo; perspective, and within the service and data layers</li>
+<li>
+Analysis of user feedback to identify areas of improvement</li>
+<li>
+Creating a set of standards within the Technology groups to maintain the creation of high performance services, systems and applications</li>
+</ul>
+<p>
+With all of the above in mind, the performance team must both lead by example, and influence stakeholders at every technical level to develop a culture of high performance throughout.<br />
+Since performance is a cross-cutting concern, team members are multi-skilled and have a broad view of the practicalities of building and running an application at web scale on the Microsoft platform. However, it is understood that applicants are likely to be from either a software development background or a systems and infrastructure background and so a degree of specialisation is expected, with applicants bringing deep skills in the areas appropriate to their specialism.</p>
+<p>
+ABOUT THE ROLE<br />
+blinkbox is characterized by an environment which is fast paced and flexible, highly professional and motivated. Overall we look for energy, intellect, and creativity, and ask that you share our core values: integrity, honesty, and a passion for customers and what technology can do for them.</p>
+<p>
+KEY CHALLENGES OF THE ROLE</p>
+<ul>
+<li>
+Work as part of a team of talented engineers to enhance and maintain the performance of the blinkbox application and supporting systems</li>
+<li>
+Implement the best technical solutions and procedures for measuring, reporting and improving the performance of our users&rsquo; experience</li>
+<li>
+Utilise your expertise in best practice and code efficiency to assist the Engineering teams in making their output as optimised and scalable as possible</li>
+<li>
+Work with the senior technology managers to specify and implement strategy for ensuring that our HD delivery experience is best in class to all devices</li>
+<li>
+Identify systems where performance improvement is possible, then execute and prove your improvements using empirical methods</li>
+<li>
+Plan, project manage and implement new products and features as required</li>
+<li>
+Work with the IT teams to provide a method of emergency escalation, for when they require expert assistance in dealing with highly complex issues</li>
+<li>
+With all of the above in mind, forge strong relationships with the Product, Engineering, and IT teams, to help them buy-in to these recommendations and best practices</li>
+</ul>
+<p>
+ESSENTIAL FUNCTIONAL/TECHNICAL SKILLS</p>
+<ul>
+<li>
+A Microsoft expert with deep knowledge and understanding of the core architecture of the modern Windows platform</li>
+<li>
+Experience of high performance web site delivery</li>
+<li>
+Strong understanding of IIS7 / 7.5</li>
+<li>
+Expertise in monitoring enterprise environments</li>
+<li>
+Knowledge of CDN infrastructure</li>
+<li>
+SQL Server administration/implementation</li>
+<li>
+Architecture and implementation of networks, including knowledge of all usual networking components (OSI model, TCP stack, load balancers, firewalls, DNS, HTTP etc.)</li>
+<li>
+SAN technologies and implementation</li>
+<li>
+Advanced, top-down troubleshooting skills, including experience of low-level diagnostic tools such as Wireshark, Fiddler</li>
+<li>
+Low level technical understanding of how web pages are served, end to end</li>
+<li>
+Technically astute with technical depth and breadth in more than one area</li>
+</ul>
+<p>
+ESSENTIAL FUNCTIONAL/TECHNICAL SKILLS</p>
+<ul>
+<li>
+A Microsoft platform expert with deep knowledge and understanding of the core architecture of modern Windows and the CLR</li>
+<li>
+Comfortable with unmanaged and managed code, very strong skills with at least one of C++, C++/CLI or C#</li>
+<li>
+Extensive experience of using IIS to deliver high performance web applications to a heterogeneous mix of targets</li>
+<li>
+Strong understanding of IIS7 or 7.5 and the ASP.NET platform</li>
+<li>
+Understanding of building high-performance applications against the SQL Server database engine</li>
+<li>
+Advanced, top-down troubleshooting skills, including experience of low-level diagnostic tools such as Wireshark, Fiddler and the Debugging Tools for Windows</li>
+<li>
+Low level technical understanding of how web pages are served, end to end</li>
+<li>
+Extensive experience of, and understanding of, the issues involved in writing high performance software in a highly concurrent multicore world</li>
+<li>
+Technically astute with technical depth and breadth in more than one area</li>
+<li>
+Experience of the complete software lifecycle</li>
+</ul>
+<p>
+DESIRED FUNCTIONAL / TECHNICAL SKILLS</p>
+<ul>
+<li>
+Previous experience with video encoding processes, standards and codecs.</li>
+<li>
+Previous experience with delivering large scale, high throughput IPTV video solutions to disparate consumer base</li>
+</ul>
+<p>
+EXPERIENCE</p>
+<ul>
+<li>
+7+ years development experience (as a Software Engineer and/or Architect)</li>
+<li>
+Experience of supporting software developers and IT engineers</li>
+<li>
+Demonstrable break/fix expertise across a wide variety of hardware and software</li>
+</ul>
+<p>
+PERSONAL ATTRIBUTES/COMPETENCIES</p>
+<ul>
+<li>
+Most importantly, you&#39;re a self-starter with a relentless focus on Getting Things Done</li>
+<li>
+You will have strong communication skills, as you&rsquo;ll be collaborating with other engineering, test and development teams</li>
+<li>
+Resilience and appetite to work under extreme pressure.</li>
+<li>
+Impact and influence</li>
+<li>
+Effective decision maker</li>
+<li>
+A desire to keep up to date with the latest products and Internet technologies</li>
+<li>
+Self-sufficient and autonomous to work in a new start-up environment</li>
+<li>
+Strong analytical and problem solving skills</li>
+<li>
+Teamwork &amp; cross-group collaboration</li>
+<li>
+Commitment to continuous learning</li>
+<li>
+A passion for movies and television</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blinkbox/lGvk4I"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130301114835_AYQKNS9XNNPEBMUE]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior iOS Software Engineer]]></title>
+			<department><![CDATA[music - Technology - Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://blinkbox.theresumator.com/apply/xNVlmX/Senior-IOS-Software-Engineer.html]]></url>
+			<city><![CDATA[Farringdon, London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EC1N 8TE]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About WE7</strong><br />
+We believe what you like is more important than what you know. So you don&#39;t have to trawl a massive catalogue - all you need to do is enter a single song, artist or genre to get started. From here the music you love keeps on coming - you get personalised radio stations full of songs that match this search. So if you search a specific artist, you&#39;ll get their songs, with other similar ones thrown in. As we get to know you it just gets better and better. It&#39;s completely free, easy and personalised - and potentially never-ending.<br />
+We work in an exciting industry, using cutting edge web technologies to provide high quality customer experiences. The team is made up of experienced, creative, enthusiastic individuals who between them maintain, develop and improve our website, mobile and device applications.<br />
+WE7 has an open, lively culture where every team member can make a difference. We enjoy regular social events, lunchtime football matches and printing things on our 3D printer!<br />
+Staff also run Geek meetings to improve their knowledge of a vast array of useful (and not so useful) technologies and topics. Job titles are important to us and the more ridiculous the better!</p>
+<p>
+<strong>Geek Herder</strong> - Reporting to the Head of Mobile<br />
+(Senior iOS Software Engineer)<br />
+&middot; A champion of software engineering best practices<br />
+&middot; Thrives under pressure in a fast moving, action oriented environment<br />
+&middot; Intrigued by new technology, a thirst for exploration and technological progress<br />
+&middot; Valued expert in your field</p>
+<p>
+<strong>Functional and Technical Expertise</strong><br />
+Can provide evidence and examples of:<br />
+Having developed a well-regarded application in the iTunes store</p>
+<p>
+Can provide extensive evidence and examples of working with:</p>
+<ul>
+<li>
+Open source technologies</li>
+<li>
+iOS/Objective-C/Cocoa Touch</li>
+<li>
+SQL (SQLite)</li>
+<li>
+Test driven development</li>
+<li>
+Git or svn</li>
+</ul>
+<p>
+<strong>Personal Attributes:</strong></p>
+<p>
+Passionate, energetic and immersed in the world of technology</p>
+<p>
+Your experience and expertise will enable you to make quick technical decisions and lead by example.<br />
+A successful candidate will hold at least a BSc level degree and have a good A-level results, and at least 5 years software industry experience in technical roles.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blinkbox/xNVlmX"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130311095250_R8D0LXAFGJT19WMB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Development Engineer - Database Team]]></title>
+			<department><![CDATA[movies - Technology - Development]]></department>
+			<team><![CDATA[blinkbox]]></team>
+			<url><![CDATA[http://blinkbox.theresumator.com/apply/wjfMyK/Development-Engineer-Database-Team.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[London]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+ABOUT THE ENGINEERING GROUP</p>
+<p>
+The Engineering group is responsible for the development and testing of the entire blinkbox solution.&nbsp; This includes the PC web site, all tablets and consumer devices, games consoles and connected TVs.&nbsp; It also includes the entire back-end systems that manage content ingestion, encoding, lifecycle management, recommendations engine, marketing, SEO and CRM to name a few.&nbsp; Nearly the entire codebase is written in-house; with only the core transcoding frameworks supplied by 3rd parties.</p>
+<p>
+The development teams we have include database, services, front end web and player technologies.&nbsp; However, the team is very small and therefore all engineers are required to be able to work across a wide range of technologies; from back end multithreaded encoding services through RESTful APIs to front end web development that targets specific low-resource consumer electronic devices.</p>
+<p>
+The test team is a small team dedicated to ensuring the code and solutions we ship are of the highest quality.&nbsp; Using manual and automated tests from simple code fragments up to automated smoke tests, they verify the quality of the shipping code across a wide range of devices.&nbsp; All of the engineering resources liaise with the operations team to ensure smooth delivery and support of the blinkbox solution.</p>
+<p>
+ABOUT THE ROLE</p>
+<p>
+Blinkbox is characterized by an environment which is fast paced and flexible, highly professional and motivated.&nbsp; Overall we look for energy, intellect and creativity, and ask that you share our core values: integrity, honesty, and a passion for customers and what technology can do for them.</p>
+<p>
+KEY CHALLENGES</p>
+<ul>
+<li>
+To assist with the planning, design and implementation of Reporting Services solutions</li>
+<li>
+You will be responsible for the implementation of key data services features based on Microsoft&rsquo;s SQL Server enterprise products and other supporting technologies</li>
+<li>
+You will design and implement outstanding MS SQL server solutions that the group can be proud of</li>
+</ul>
+<p>
+ESSENTIAL FUNCTIONAL / TECHNICAL SKILLS</p>
+<ul>
+<li>
+Operational knowledge of SQL Server</li>
+<li>
+Development and optimisation T-SQL stored procedures, functions and continuous process improvement through performance tuning</li>
+<li>
+Great understanding of relational database/schema design</li>
+<li>
+Design and implementation of SSRS solutions</li>
+<li>
+Developing data import, processing, and validation routines with an emphasis on automation</li>
+<li>
+Ad-hoc reporting and assisting other team members with data mining projects</li>
+<li>
+Assist in maintenance and production support functions</li>
+<li>
+Documentation, including experience developing and maintaining data models and data dictionary</li>
+<li>
+Ability to manage multiple, simultaneous issues</li>
+<li>
+Excellent communication and interpersonal skills</li>
+<li>
+Solid problem solving skills</li>
+<li>
+Ability to ship quality software at high speed</li>
+</ul>
+<p>
+DESIRED FUNCTIONAL / TECHNICAL SKILLS</p>
+<ul>
+<li>
+Proficiency with SSIS/SSRS</li>
+<li>
+Experience with OLAP/SSAS</li>
+<li>
+Knowledge in Financial, Marketing, Data warehouse</li>
+</ul>
+<p>
+PERSONAL ATTRIBUTES / COMPETENCIES</p>
+<ul>
+<li>
+Adaptability</li>
+<li>
+Resilience and appetite to work under extreme pressure</li>
+<li>
+Self-sufficient and autonomous to work in a new start-up environment</li>
+<li>
+Strong analytical and problem solving skills</li>
+<li>
+Excellent written and verbal communication skills</li>
+<li>
+Teamwork &amp; Cross-Group Collaboration</li>
+<li>
+Impact And Influence</li>
+<li>
+Effective decision maker</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blinkbox/wjfMyK"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130328103646_TFOKVY8ALLCMIAJF]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Head of Marketing]]></title>
+			<department><![CDATA[books - Marketing]]></department>
+			<team><![CDATA[Tesco]]></team>
+			<url><![CDATA[http://blinkbox.theresumator.com/apply/ZbYkgF/Head-Of-Marketing.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[London]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EC1M 5NR]]></postalcode>
+			<description><![CDATA[<p>
+Head of Sales &amp; Marketing, blinkbox Books</p>
+<p>
+ABOUT MOBCAST</p>
+<p>
+Tesco has established Tesco Digital Entertainment with the ambition of delivering a market leading digital entertainment service. To achieve speed to market and the necessary innovation, Tesco has acquired blinkbox Entertainment (Movies), we7 (Music) and Mobcast (ebooks) over the last 12 months and established a separate, highly entrepreneurial operating structure for digital entertainment.&nbsp; The Mobcast business has recently been rebranded as Blinkbox Books.</p>
+<p>
+Acquired by Tesco also in 2012, Blinkbox Books&nbsp; is a digital books platform, with a catalogue of over 130,000 books. Together, Blinkbox Books and Tesco will offer even more choice for the large and growing number of customers who want to buy and enjoy books on their digital devices whenever and wherever they want. In 2012, Blinkbox Books were awarded the &ldquo;Best Mobile Book Company&rdquo; award at the ME Awards in 2010 and were selected for the Guardian Tech Media Invest 100 list which showcases new and upcoming high-tech businesses.</p>
+<p>
+The Role</p>
+<p>
+The Head of Sales &amp; Marketing will be responsible for driving all marketing activity across blinkbox Books, including setting the strategy and leading day to day implementation, to address three major objectives:</p>
+<p>
+1) to establish blinkbox Books as the leading destination for ebooks in the UK;<br />
+2.) to drive customer acquisition and subsequent retention / repeat usage to hit revenue targets and;<br />
+3.) to build awareness of blinkbox Books across the UK market.&nbsp;</p>
+<p>
+The role will be responsible for key areas such as brand management, customer acquisition, sales, lifetime value, competitor intelligence, market segmentation, partnership management and communicating key value propositions through online and offline channels.</p>
+<p>
+These efforts will include ensuring consistency of brand messaging, positioning and execution across all internal and external audiences.&nbsp; The Head of Marketing will be responsible for leading and motivating the blinkbox Books Marketing team to deliver against customer acquisition and retention targets.&nbsp; The success of the Head of Sales &amp; Marketing will be measured against a number of key metrics: unique visitors, customers, revenue, 12mnth gross margin, marketing channel ROI, as well as inter-team relationships.</p>
+<p>
+A successful Head of Marketing will exhibit leadership skills, strategic thinking, innovative thinking, strong communication skills, an analytical approach to problem solving, a strong commercial understanding and a collaborative approach, working across all blinkbox Books, Group functions and partners to ensure marketing goals and objectives are met.</p>
+<p>
+The role is based in London at the blinkbox Books offices and will report directly to the Managing Director of blinkbox Books, with a dotted line to the Group Marketing Director, Tesco Digital Entertainment.</p>
+<p>
+Scope of Responsibilities</p>
+<p>
+The Head of Marketing will have overall responsibility for the day to day management of the blinkbox Books marketing budget and will have line management of 3 staff (total team 13), including roles focused on customer acquisition, &amp; customer retention (including email, social &amp; customer care). The role will cover six core areas of responsibility:</p>
+<p>
+1. Establish and lead the blinkbox Books marketing strategy<br />
+&bull; Define the overall marketing strategy which will establish blinkbox Books as&nbsp;the leading eBooks provider&nbsp;in the UK<br />
+&bull; Shape the overall customer value proposition and lead the execution multi-channel, including within the blinkbox Books device / app experience.<br />
+&bull; Establish a clear understanding of the ebooks competitive landscape, identify key competitive threats and define marketing strategies and initiatives to address them<br />
+&bull; Lead analytics to establish key customer metrics, set targets and manage channels to achieve them&nbsp;<br />
+&bull; Define the strategy to leverage all acquisition channels as relevant: digital, radio, TV, outdoor, Tesco etc.<br />
+&bull; Define the programme of work to derive &amp; apply insight on customer segmentation, demographics, media consumption and loyalty drivers to inform blinkbox Books marketing strategies.<br />
+&bull; Work closely with broader teams to ensure synergy across brands / strategies to leverage Tesco channels &amp; device relationships</p>
+<p>
+2. Deliver the Customer Brand Experience<br />
+&bull; Establish the messaging and integrated marketing efforts to deliver an exceptional experience for customers across all stages of the customer lifecycle &ndash; education, trial, activation, retention. Touch points include customer care, marketing communications, editorial, campaigns / offers etc<br />
+&bull; Influence &amp; input into the product experience to ensure the brand experience is consistent and delivering on the brand promise.</p>
+<p>
+3. Build blinkbox Books brand awareness<br />
+&bull; Serve as brand champion, ensuring all messaging, positioning and comms materials reflect appropriate brand imagery, style and tone of voice<br />
+&bull; Lead the delivery of integrated blinkbox Books communication across the organization</p>
+<p>
+4. Lead blinkbox Books marketing and comms activities<br />
+&bull; Lead the development, planning and creative management of daily, weekly and monthly marketing campaigns to drive acquisition and repeat usage of blinkbox Books<br />
+&bull; Identify and establish new partnerships to create value-add offerings to customers as relevant<br />
+&bull; Manage the delivery of campaign collateral including copy and artwork where required<br />
+&bull; Manage ongoing trade-offs between editorial, marketing and product requirements<br />
+&bull; Deliver on all blinkbox Books team requirements for marketing tools and collateral (e.g., online ads, brochures, demo videos, microsites, etc)&nbsp;<br />
+&bull; Ensure appropriate tone of voice, look &amp; feel and copy direction across all comms</p>
+<p>
+5. Lead CRM Activities &amp; customer insight / analytics<br />
+&bull; Define the CRM strategy and customer analysis requirements, and collaborate closely with blinkbox Head of Customer Engagement to agree system changes to deliver the blinkbox Books CRM programme.<br />
+&bull; Lead the implementation of all CRM activities including social media initiatives, registered user comms and initiatives to re-engage customers at various stages of lifecycle<br />
+&bull; Oversee the implementation of Blinkbox Books Customer Care, collaborating with Group customer care team</p>
+<p>
+6. External partnership management and internal collaboration<br />
+&bull; Work with retained agencies and manage all agency relationships including creative, media, PR and CRM<br />
+&bull; Work closely across the business with Partner marketing functions in other verticals to ensure Tesco and device partnerships are leveraged in an integrated way<br />
+&bull; Deliver on all device manufacturer requirements to support partnership initiatives<br />
+&bull; Build collaborative internal working relationships across blinkbox Books and Tesco Digital Entertainment</p>
+<p>
+<br />
+Skill Set &amp; Experience<br />
+&bull; Strong track record as a marketing professional, ideally with a mixture of start-up and well recognized consumer brand experience<br />
+&bull; 7 years&rsquo; experience in an online marketing capacity<br />
+&bull; At least 3 years line management experience<br />
+&bull; Experience developing strategic frameworks and problem solving<br />
+&bull; Demonstrable ability to prioritise and focus on the things that matter<br />
+&bull; Meaningful experience in successful e-commerce business<br />
+&bull; Proven ability to leverage analytics to inform and influence decision-making<br />
+&bull; Excellent project management skills<br />
+&bull; Experience operating in a rapidly changing and dynamic organization<br />
+&bull; Clear track record of delivery against tight deadlines<br />
+&bull; Experience in process development and ongoing optimization<br />
+&bull; Innovative and creative thinking (fresh, imaginative thinking)<br />
+&bull; Organizational leadership and team development (leads through influence)<br />
+&bull; Intellectual horsepower (highly analytical and strategic)<br />
+&bull; Drives for results in prioritized manner (balanced sense of urgency)<br />
+&bull; Listening skills, minimal ego (listen first, then respond)<br />
+&bull; Complex problem-solving (explores all options, then converges)<br />
+&bull; Organized and attention to detail approach (strong tactical execution)<br />
+&bull; Highly resourceful (stretched people and money; compresses time)<br />
+&bull; Collaborative (works with peers across many functions within the company)</p>
+<p>
+<br />
+Personality Profile<br />
+&bull; Self-directed/motivated<br />
+&bull; Flexible and adaptable<br />
+&bull; Results orientation<br />
+&bull; Sense of urgency<br />
+&bull; Enthusiastic<br />
+&bull; Strong work ethic<br />
+&bull; High integrity and trustworthy<br />
+&bull; Intellectually curious<br />
+&bull; Ego in-check</p>
+<p>
+Compensation</p>
+<p>
+Package according to experience.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Executive]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blinkbox/ZbYkgF"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130404161801_EHZKP2UW5R9DERPG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Head of Marketing]]></title>
+			<department><![CDATA[music - Marketing]]></department>
+			<team><![CDATA[Tesco]]></team>
+			<url><![CDATA[http://blinkbox.theresumator.com/apply/PeMCNg/Head-Of-Marketing.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[London]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EC1M 5NR]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role</strong></p>
+<p>
+The Marketing Director will be responsible for driving all marketing activity across WE7, including setting the strategy and leading the day to day implementation, to address three major objectives:</p>
+<p>
+1) to establish WE7 as the leading destination for personalised radio in the UK;<br />
+2.) to increase retention &amp; repeat usage from current customers and;<br />
+3.) to build awareness of WE7 across the UK market.&nbsp;</p>
+<p>
+The role will be responsible for key areas such as brand management, customer acquisition, lifetime &lsquo;value&rsquo;, competitor intelligence, market segmentation, partnership management and communicating key value propositions through online and offline channels.</p>
+<p>
+These efforts will include ensuring consistency of brand messaging, positioning and execution across all internal and external audiences.&nbsp; The Marketing Director will be responsible for leading and motivating the WE7 Marketing team to deliver against customer acquisition and retention targets.&nbsp; The success of the Marketing Director will be measured against a number of key metrics: unique visitors, registrants, listeners, repeat visits, marketing channel ROI, as well as inter-team relationships.</p>
+<p>
+A successful Marketing Director will exhibit leadership skills, innovative thinking, strong communication skills, an analytical approach to problem solving, a strong commercial understanding and a collaborative approach, working across all WE7 &amp; Tesco Digital Entertainment functions and partners to ensure marketing goals and objectives are met.</p>
+<p>
+The role is based in London at the WE7 offices and will report directly to the Group Marketing Director, Tesco Digital Entertainment. The role will also have a dotted line to the Managing Director of We7.</p>
+<p>
+<strong>Scope of Responsibilities</strong></p>
+<p>
+The Marketing Director will have overall responsibility for the day to day management of a the WE7 marketing budget and will have line management of 4-5 staff, including roles focused on customer acquisition &amp; customer retention (including email, social &amp; customer care). The role will include seven core areas of responsibility:</p>
+<p>
+1. Establish and lead the WE7 marketing strategy<br />
+&bull; Define the overall customer-centric marketing strategy: brand awareness / consideration, acquisition &amp; retention, which will establish WE7 as a leader in personalised radio in the UK and deliver against business KPIs<br />
+&bull; Shape the overall customer proposition and lead the execution multi-channel, including within the WE7 device experience.<br />
+&bull; Establish a clear understanding of the personalised radio / music on demand competitive landscape, identify key competitive threats and define marketing strategies and initiatives to address them<br />
+&bull; Establish key customer metrics, set targets and manage channels to achieve them&nbsp;<br />
+&bull; Collaborate closely with teams across the Group to ensure synergy between TDE strategies for Partnerships (particularly leveraging Tesco channels), acquisition &amp; retention.</p>
+<p>
+2. Lead the Customer Brand Experience<br />
+&bull; Establish the messaging and integrated marketing efforts to deliver an exceptional experience for customers across all stages of the customer lifecycle &ndash; education, trial, activation, retention. Touch points include customer care, marketing communications, editorial, campaigns / offers etc<br />
+&bull; Influence &amp; input into the product experience to ensure the brand experience is consistent and delivering on the brand promise.</p>
+<p>
+3. Build WE7 awareness<br />
+&bull; Serve as brand champion, ensuring all messaging, positioning and comms materials reflect appropriate brand imagery, style and tone of voice<br />
+&bull; Lead the delivery of integrated WE7 communication across the organization</p>
+<p>
+4. Lead WE7 marketing and comms activities<br />
+&bull; Lead the development, planning and creative management of daily, weekly and monthly marketing campaigns to drive acquisition and repeat usage of WE7<br />
+&bull; Identify and establish new partnerships to create value-add offerings to customers as relevant<br />
+&bull; Manage the delivery of campaign collateral including copy and artwork where required<br />
+&bull; Manage ongoing trade-offs between editorial, marketing and advertising sponsorship requirements<br />
+&bull; Deliver on all WE7 team requirements for marketing tools and collateral (e.g., online ads, brochures, demo videos, microsites, etc)&nbsp;<br />
+&bull; Ensure appropriate tone of voice, look &amp; feel and copy direction across all comms</p>
+<p>
+5. Lead acquisition activities and optimisation<br />
+&bull; Define and lead the customer acquisition strategy for WE7 across all digital and non-digital channels as relevant e.g. in-game, connected device, mobile, tablet, PPC, SEO, affiliates, display, DRTV, press, radio, Tesco media etc.<br />
+&bull; Lead the ongoing &lsquo;test &amp; learn&rsquo; strategies to continually optimum performance<br />
+&bull; Identify new opportunities to improve and exceed performance expectations</p>
+<p>
+6. Lead CRM Activities &amp; customer insight / analytics<br />
+&bull; Define the holistic CRM strategy &ndash; email, mobile, in-app, customer care, social etc - (being conscious of its fit with other Tesco Digital Entertainment brands), as well as customer analysis requirements and system changes to deliver the WE7 CRM programme.<br />
+&bull; Lead the implementation of all CRM activities including social media initiatives, registered user comms and initiatives to re-engage customers at various stages of lifecycle<br />
+&bull; Oversee the implementation of WE7 Customer Care, collaborating with Tesco Digital Entertainment customer care team</p>
+<p>
+7. External partnership management and internal collaboration<br />
+&bull; Work with retained TDE agencies and manage all agency relationships including creative, media, PR and CRM<br />
+&bull; Work closely with broader Partnership functions to ensure Tesco and device partnerships are leveraged in an integrated way<br />
+&bull; Deliver on all device manufacturer requirements to support partnership initiatives<br />
+&bull; Build collaborative internal working relationships across Ad Sales and Product Development functions within WE7</p>
+<p>
+<br />
+<strong>Skill Set &amp; Experience</strong></p>
+<p>
+&bull; Strong track record as a marketing professional, ideally with a mixture of start-up and well recognized consumer brand experience<br />
+&bull; Min 7 years&rsquo; experience in an online marketing capacity<br />
+&bull; At least 3 years line management experience<br />
+&bull; Proven experience developing strategic frameworks, problem solving and performance marketing in a highly results orientated / commercial environment, ideally ad-funded.<br />
+&bull; Highly creative and numerate<br />
+&bull; Ability to &lsquo;stand back and see the big picture&rsquo; and focus on the things that matter<br />
+&bull; Demonstrable track record of successful delivery measured against brand, customer retention and lifetime value metrics<br />
+&bull; Proven ability to leverage analytics to inform and influence decision-making<br />
+&bull; Experience operating in a rapidly changing and dynamic organization<br />
+&bull; Clear track record of delivery against tight deadlines<br />
+&bull; Experience in process development and ongoing optimization<br />
+&bull; Innovative and creative thinking (fresh, imaginative thinking)<br />
+&bull; Organizational leadership and team development (leads through influence)<br />
+&bull; Intellectual horsepower (highly analytical and strategic)<br />
+&bull; Drives for results in prioritized manner (balanced sense of urgency)<br />
+&bull; Listening skills, minimal ego (listen first, then respond)<br />
+&bull; Complex problem-solving (explores all options, then converges)<br />
+&bull; Organized and attention to detail approach (strong tactical execution)<br />
+&bull; Highly resourceful (stretched people and money; compresses time)<br />
+&bull; Collaborative (works with peers across many functions within the company)</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Senior Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blinkbox/PeMCNg"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130514165741_KUFA0XYTTAJCT7K1]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Technical Product Manager]]></title>
+			<department><![CDATA[books - Product]]></department>
+			<team><![CDATA[blinkbox]]></team>
+			<url><![CDATA[http://blinkbox.theresumator.com/apply/DC6Not/Technical-Product-Manager.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[Farringdon]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EC1M 5NR]]></postalcode>
+			<description><![CDATA[<p>
+Technical Product Manager</p>
+<p>
+About the job<br />
+As part of the Product Team you&#39;ll work closely with our business stakeholders, technology team and operational teams to research, design and take to market key features of our core product - all the while being the champion of our customers.</p>
+<p>
+Specific responsibilities include:<br />
+&bull; Contributing to the development of the overall product strategy, developing sound recommendations on how to improve product capabilities and REST APIs.<br />
+&bull; Data management/analysis e.g. recommendations<br />
+&bull; Taking ownership of specific product ideas, and driving their design and delivery<br />
+&bull; Understanding target audiences&#39; needs, tasks, and goals and translating them into creative concepts and ideas<br />
+&bull; Translating business requirements into sound product features, balancing the needs of different stakeholders to deliver a well-rounded product<br />
+&bull; Writing functional specifications, documenting key requirements for use by engineering team during development<br />
+&bull; Project Managing key product evolutions<br />
+&bull; Act as subject matter expert for appropriate product related enquiries</p>
+<p>
+You&rsquo;ll be expected to hit the ground running and make a real difference from day one.</p>
+<p>
+About you (Functional Knowledge, Skills and Competencies)<br />
+It is essential that you have a strong technical understanding of online platforms and web API&rsquo;s. You must have a technical background (computer science, development) and min of 4 years relevant experience.<br />
+You thrive in a highly dynamic, rapidly-changing environment where you get direct ownership and responsibility for product definition. You have a real desire to bring innovative services to that market.</p>
+<p>
+You&rsquo;ll need to have demonstrated experience of:<br />
+&bull; Strong technical product management, working across high volume traffic websites<br />
+&bull; Generation of innovative product ideas and concepts which meet business and product strategies (based on rigorous analysis of customer needs and competitive environment)<br />
+&bull; Authorship of functional specifications, and close collaboration with developers to ensure product features are delivered according to specifications<br />
+&bull; A high tolerance for ambiguity &ndash; and a real desire to manage it!<br />
+&bull; Experience working with in-house development teams using SCRUM, Kanban methodologies would be a real plus<br />
+&bull; Experience working for an ecommerce retailer would be a real plus</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blinkbox/DC6Not"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130409080347_DWP2AVGDTCFTBAL8]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Development Engineer - Reporting]]></title>
+			<department><![CDATA[music - Technology - Network Operations]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://blinkbox.theresumator.com/apply/Iw3jEC/Development-Engineer-Reporting.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[London]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EC1N 8TE]]></postalcode>
+			<description><![CDATA[<p>
+Working as part of the music network operations team you will be generating music usage reports to record labels and collection societies, as well as statistical analyses to support the internal teams in evaluating performance and developing plans.</p>
+<p>
+A successful candidate will hold at least a BSC level degree and have a good A level results.</p>
+<p>
+<strong>Personal Attributes:</strong></p>
+<ul>
+<li>
+Passionate, energetic and immersed in the world of technology</li>
+<li>
+Thrives under pressure in a fast moving, action oriented environment</li>
+<li>
+Takes pride in their work and driven to deliver high quality reporting</li>
+<li>
+Keep all communication clear, simple and well structured</li>
+</ul>
+<p>
+<strong>Functional and Technical Expertise</strong><br />
+Can provide evidence and examples of some of the following:</p>
+<ul>
+<li>
+At least two of Shell scripting, Perl and Python</li>
+<li>
+Good SQL knowledge, preferably with an understanding of Postgresql</li>
+<li>
+Data warehousing</li>
+<li>
+Hadoop</li>
+<li>
+Database performance tuning</li>
+<li>
+Experience of using statistics and visualisation to understand business and/or web-usage data</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blinkbox/Iw3jEC"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130514170022_T5HBSBVFDGBIUCMX]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Product Manager (Senior)]]></title>
+			<department><![CDATA[books - Product]]></department>
+			<team><![CDATA[blinkbox]]></team>
+			<url><![CDATA[http://blinkbox.theresumator.com/apply/jH4Duc/Product-Manager-Senior.html]]></url>
+			<city><![CDATA[Farringdon]]></city>
+			<state><![CDATA[Farringdon]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EC1M 5NR]]></postalcode>
+			<description><![CDATA[<p>
+(Senior) Product Manager</p>
+<p>
+About the job<br />
+As part of the Product Team you&#39;ll work closely with our business stakeholders, technology team and operational teams to research, design and take to market key features of our core product - all the while being the champion of our customers.</p>
+<p>
+Specific responsibilities include:<br />
+&bull; Contributing to the development of the overall product strategy, developing sound recommendations on how to increase user engagement.<br />
+&bull; Taking ownership of specific product ideas, and driving their design and delivery<br />
+&bull; Understanding target audiences&#39; needs, tasks, and goals and translating them into creative concepts and ideas<br />
+&bull; Translating business requirements into sound product features, balancing the needs of different stakeholders to deliver a well-rounded product<br />
+&bull; Writing functional specifications, documenting key requirements for use by engineering team during development<br />
+&bull; Project Managing key product evolutions</p>
+<p>
+You&rsquo;ll be expected to hit the ground running and make a real difference from day one.</p>
+<p>
+About you<br />
+It is essential that you have a proven track record in B2C digital product management (min 4 years relevant experience).<br />
+You thrive in a highly dynamic, rapidly-changing environment where you get direct ownership and responsibility for product definition. You have a good grasp of the ebooks market in the UK, and a real desire to bring innovative services to that market.</p>
+<p>
+You&rsquo;ll need to have demonstrated experience of:<br />
+&bull; Strong B2C digital product management, working across high volume traffic websites and/or mobile<br />
+&bull; Generation of innovative product ideas and concepts which meet business and product strategies (based on rigorous analysis of customer needs and competitive environment)<br />
+&bull; Design of web based products, including close involvement in user experience design<br />
+&bull; Authorship of functional specifications, and close collaboration with developers to ensure product features are delivered according to specifications<br />
+&bull; A high tolerance for ambiguity &ndash; and a real desire to manage it!<br />
+&bull; Experience working with in-house development teams using SCRUM, Kanban methodologies would be a real plus<br />
+&bull; Experience working for an ecommerce retailer would be a real plus</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Senior Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blinkbox/jH4Duc"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130618081817_7M9NFBJ9GOYGNG9N]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[PR Manager, blinkbox (contract)]]></title>
+			<department><![CDATA[blinkbox - PR]]></department>
+			<team><![CDATA[blinkbox]]></team>
+			<url><![CDATA[http://blinkbox.theresumator.com/apply/G3pRuv/PR-Manager-Blinkbox-contract.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[WC1X 8AQ]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The role</strong></p>
+<p>
+The PR Manager will help shape and manage PR activity for the new blinkbox digital entertainment services including blinkbox (movies and TV), blinkbox music, blinkbox books and Clubcard TV.&nbsp;The role involves day to day press office activity for these new services (music has launched in beta and books launches later in the year), development and execution of proactive integrated campaigns at key moments and the creation of collateral to help engage with media and other influencers.&nbsp;The role also includes management of external agencies and developing relationships with important stakeholders such as our parent company Tesco, movie studios, record labels and book publishers. The candidate will be expected to be very hands-on, relishing the chance to originate, develop and manage PR efforts.&nbsp;As the role is concerned with communicating about digital services, it&rsquo;s essential that applicants have solid experience of modern PR methodology, with a deep understanding of the impact of digital publishing and social media on communications.</p>
+<p>
+This contract role is based in Farringdon, London.&nbsp;</p>
+<p>
+<strong>Key responsibilities</strong></p>
+<p>
+Reporting to the Group Head of PR, your responsibilities will include:</p>
+<ul>
+<li>
+Development and management of PR plans for blinkbox music and blinkbox books.</li>
+<li>
+The writing and sharing of information covering key messages, service USPs and the market.</li>
+<li>
+Developing relations with opinion formers and media to deliver against the PR plan.</li>
+<li>
+Delivering against annual, quarterly and monthly targets including brand tracking metrics, key media and opinion former coverage, relationship development targets, and other campaign specific measurement criteria.</li>
+<li>
+Originating, developing and executing news and feature editorial opportunities.</li>
+<li>
+Working closely with marketing, social, CRM and editorial colleagues to develop joined up communications for multiple audiences.</li>
+<li>
+Preparing press materials and other collateral to support campaigns and activities.</li>
+<li>
+Helping to identify speaking and other opportunities for key executives.</li>
+<li>
+Actively monitoring the news to identify reactive PR opportunities and competitor developments.</li>
+<li>
+Developing trade and other partner activities</li>
+</ul>
+<p>
+<strong>Key competencies/behaviours</strong></p>
+<p>
+<strong>Personal</strong></p>
+<ul>
+<li>
+You will be comfortable liaising with and influencing stakeholders at all levels both internally and externally. You should be a good ambassador for blinkbox with excellent interpersonal skills.</li>
+<li>
+You will be consistent in your views, decisions and approach to your work.</li>
+<li>
+You will be outward looking but able to &lsquo;take people with you&rsquo; where there are complex decisions to be made.</li>
+<li>
+The successful candidate will have a tenacious &lsquo;can do, will do&rsquo; mentality. Whilst being personally robust and willing to challenge the status quo, you will work closely with other team members and must be able to work towards broader goals as a team.</li>
+<li>
+Creative, analytical and pragmatic, you will be able to provide recommendations and make decisions on behalf of the customer and the business.</li>
+<li>
+You will have a passion for putting the customer first and using insights to inform decisions.</li>
+</ul>
+<p>
+<strong>Professional</strong></p>
+<ul>
+<li>
+The successful candidate will have first class knowledge and experience of modern PR.</li>
+<li>
+You will have practical experience of planning and implementing social media activity and campaigns.</li>
+<li>
+You will be a natural planner, looking ahead, understanding business challenges, delivering creative solutions and meeting deadlines.</li>
+<li>
+Your written and verbal communication skills must be second to none.</li>
+<li>
+You will be very creative and also have an analytical approach to problem solving.</li>
+<li>
+You&rsquo;ll have an exceptional network of relationships with relevant media and other opinion formers.</li>
+<li>
+Extensive experience in managing cross functional teams to deliver against tight timescales.</li>
+<li>
+Experience in briefing and managing 3rd parties.</li>
+<li>
+Experience in operating in a smaller company environment where employees are expected to lead from the front.</li>
+</ul>
+<p>
+<strong>Experience and qualifications required</strong></p>
+<ul>
+<li>
+2:1 Degree or higher.</li>
+<li>
+3 to 5 years&rsquo; experience in consumer facing PR in an agency or client side.</li>
+<li>
+Experience of trade PR in the entertainment space.</li>
+<li>
+Exceptional experience and understanding of social media behaviour and platforms including Facebook and Twitter.</li>
+<li>
+A demonstrable track record of delivery against targets including brand awareness, key message delivery and relevant digital campaign metrics.&nbsp;</li>
+</ul>
+]]></description>
+			<type><![CDATA[Contracted]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blinkbox/G3pRuv"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130620150749_4D7O8BKAKNVXPA5X]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Community Manager]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[blinkbox]]></team>
+			<url><![CDATA[http://blinkbox.theresumator.com/apply/KzkqwO/Community-Manager.html]]></url>
+			<city><![CDATA[Central London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EC]]></postalcode>
+			<description><![CDATA[<p>
+The Role:<br />
+The Community Manager will support the implementation of the blinkbox Social &amp; Customer Care Strategies; managing engagement and interactivity with its customers across Facebook, Twitter, Google+, YouTube and responding directly to customers when they have escalated queries via Customer Care.</p>
+<p>
+The role will report directly to the Social Media Manager but will also work very closely with the Senior Customer Care Manager.&nbsp; Supporting the Social Manager is likely to be about two thirds of the role.</p>
+<p>
+Key responsibilities<br />
+&bull; Support the Social Media Manager and content creation agency to generate new ideas for social channels and emails<br />
+&bull; Scanning internet for relevant content and news stories that could be used to create reactive content<br />
+&bull; Managing the approvals process of all social content - liaising with the Social Media Manager, Editorial team, Head of Customer Engagement, copywriter, design &amp; agencies.&nbsp;<br />
+&bull; Help plan social content and own the content calendar to schedule upcoming activities and make sure the team is informed<br />
+&bull; Work with the Social Media Manager to write copy and create/curate content for Facebook, Twitter and Google+<br />
+&bull; Proactively engaging our fans and followers to help build a relationship with our social community<br />
+&bull; Co-ordinate and develop the weekly social media reports.&nbsp; Regularly feedback insights gained from customers via the social channels, sharing this with the wider team to help them evolve their strategies in a timely fashion<br />
+&bull; Support the Senior Customer Care Manager to respond to escalated customer queries in a timely fashion.&nbsp; This will involve co-ordinating and working with internal departments to resolve the queries.&nbsp; This is likely to be a third of the role.</p>
+<p>
+The person we are looking for<br />
+&bull; Extremely passionate about wanting to work in social media<br />
+&bull; University degree &ndash; minimum 2:1<br />
+&bull; Relevant work experience is preferred<br />
+&bull; Excellent organisational &amp; time management skills<br />
+&bull; Strong attention to detail<br />
+&bull; Enthusiastic about social media and keen to learn<br />
+&bull; Excellent grammar and English<br />
+&bull; Experience in writing (this could be from university)<br />
+&bull; Creative and ideas focussed<br />
+&bull; Friendly and approachable<br />
+&bull; Ability to work independently &amp; as part of a team<br />
+&bull; Passionate, honest and hardworking<br />
+&bull; Movie fan<br />
+&bull; Active on social platforms</p>
+<p>
+Contract initially but with the intention to go permanent</p>
+]]></description>
+			<type><![CDATA[Contracted to Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blinkbox/KzkqwO"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130625133248_A5P7VGI5AUC12DQC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Editorial & Content Sales Coordinator]]></title>
+			<department><![CDATA[movies - Editorial & Content Sales]]></department>
+			<team><![CDATA[blinkbox]]></team>
+			<url><![CDATA[http://blinkbox.theresumator.com/apply/cKvV0N/Editorial-Content-Sales-Coordinator.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EC1N 8TS]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Company</strong><br />
+blinkbox is a leading Film &amp; TV Video-On-Demand (VOD) service in the UK.&nbsp; Since its launch in April 2008, the company has amassed a catalogue of over 17,000 of the world&rsquo;s best Film and TV titles, available to purchase and rent.&nbsp; blinkbox customers can stream or download latest releases to their internet-connected devices, with no subscription required.&nbsp; blinkbox has Films and TV from the world&rsquo;s top producers, including:&nbsp; HBO, Warner Bros, Paramount Pictures, NBC Universal, Twentieth Century Fox, Sony Pictures, Disney, e-ONE Entertainment and BBC Worldwide.&nbsp; In April 2011, blinkbox was purchased by Tesco PLC.&nbsp; Tesco is driving a new, exciting phase of growth for the company.</p>
+<p>
+<strong>The Team</strong><br />
+The Editorial &amp; Content Sales team is responsible for six key areas:<br />
+- Editorial and sales strategy for all Film and TV content on the blinkbox service<br />
+- Maximising revenues via strategic editorial placement and cross-marketing<br />
+- Maximising margins by creating price-led sales campaigns<br />
+- Managing key relationships with content providers to ensure smooth flow of product to the blinkbox service and cooperation on price campaigns<br />
+- Sales forecasting and margin analysis<br />
+- Management of blinkbox blog</p>
+<p>
+<strong>The Role:&nbsp; Key Responsibilities</strong><br />
+The Editorial &amp; Content Sales Co-ordinator will have responsibility for 3 core areas:<br />
+- Maintenance of Editorial &amp; Content Sales calendars and planners (50% of time)</p>
+<p>
+o Liaise with external and internal stakeholders to ensure delivery and capture of business-critical information<br />
+o Continuously update all Editorial &amp; Sales department calendars and planning documents</p>
+<p>
+- Inter-departmental communications and co-ordination of joint activities (30% of time)</p>
+<p>
+o Co-ordinate with Content Providers, Editorial &amp; Content Sales Managers and blinkbox Design team to ensure timely delivery all graphic requests to deadline and within asset use guidelines.<br />
+o Weekly communication to all internal stakeholders detailing all relevant Editorial &amp; Content Sales activity.<br />
+o Co-ordinate with Content Operations team to track delivery status of all new Content and communicate to Editorial &amp; Content Sales team</p>
+<p>
+- Merchandising blinkbox.com (20% of time)</p>
+<p>
+o Support all Editorial &amp; Content Sales Managers in updating the blinkbox site across all pages and uploading the content into the Content Management Tool<br />
+o Support all Editorial &amp; Content Sales Managers in the planning and execution of Special Offers, including creating collections of Content,&nbsp; and re-pricing<br />
+o Support the blinkbox blog manager in posting features</p>
+<p>
+<strong>About you:</strong><br />
+The following experience and attributes are essential:<br />
+&bull; Recent graduate with at least one year working experience, preferably in the Home Entertainment or Digital Film/TV distribution industry<br />
+&bull; Excellent organisational skills<br />
+&bull; Excellent attention to detail<br />
+&bull; Passion for Film &amp; TV Content<br />
+&bull; A true team player<br />
+&bull; Excellent written and oral communication skills<br />
+&bull; Ability to handle external communications with tact<br />
+&bull; Detailed knowledge of MS office package<br />
+&bull; Basic knowledge of Google analytics</p>
+<p>
+The following experience is desirable, but not essential:<br />
+&bull; Experience working in/with a film or TV studio<br />
+&bull; Experience using CMT (Content Management Tools) for any web based business</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blinkbox/cKvV0N"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130625133657_HMTLWX1HJASYIMDQ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Editorial & Content Sales Manager]]></title>
+			<department><![CDATA[movies - Editorial & Content Sales]]></department>
+			<team><![CDATA[blinkbox]]></team>
+			<url><![CDATA[http://blinkbox.theresumator.com/apply/sSCFde/Editorial-Content-Sales-Manager.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EC1N 8TS]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Company</strong><br />
+blinkbox is a leading Film &amp; TV Video-On-Demand (VOD) service in the UK.&nbsp; Since its launch in April 2008, the company has amassed a catalogue of over 17,000 of the world&rsquo;s best Film and TV titles, available to purchase and rent.&nbsp; blinkbox customers can stream or download latest releases to their internet-connected devices, with no subscription required.&nbsp; blinkbox has Films and TV from the world&rsquo;s top producers, including:&nbsp; HBO, Warner Bros, Paramount Pictures, NBC Universal, Twentieth Century Fox, Sony Pictures, Disney, e-ONE Entertainment and BBC Worldwide.&nbsp; In April 2011, blinkbox was purchased by Tesco PLC.&nbsp; Tesco is driving a new, exciting phase of growth for the company.</p>
+<p>
+<br />
+<strong>The Team</strong><br />
+The Editorial &amp; Content Sales team is responsible for six key areas:<br />
+&bull; Editorial and sales strategy for all Film and TV content on the blinkbox service<br />
+&bull; Maximising revenues via strategic editorial placement and cross-marketing<br />
+&bull; Maximising margins by creating price-led sales campaigns<br />
+&bull; Managing key relationships with content providers to ensure smooth flow of product onto the blinkbox service and cooperation on price campaigns<br />
+&bull; Sales forecasting and margin analysis<br />
+&bull; Management of the blinkbox blog</p>
+<br />
+<p>
+<strong>The Role:&nbsp; Key responsibilities</strong></p>
+<p>
+Management of Content provider relationships (40% of time)<br />
+&bull; Day to day management and development of relationships with assigned content providers<br />
+&bull; Working with the Senior Content Manager to provide quarterly presentations to assigned content providers covering new release and library activity<br />
+&bull; Management of promotional activity with assigned content providers including briefing content providers on promotional planners, title selections, negotiating price reductions and reporting post-promotion analysis<br />
+&bull; Working with relevant internal teams in the production of materials in support of the above responsibilities within studio asset use guidelines</p>
+<br />
+<p>
+Forecasting and Analysis of blinkbox Content Sales (30% of time)<br />
+Support the Senior Manager, Editorial &amp; Content Sales in continual development of content sales forecasting tools.<br />
+&bull; Ensure delivery of the required market sales projections from assigned Content providers where required.<br />
+&bull; Forecasts sales for current titles from assigned content providers<br />
+&bull; Forecast sales for assigned price promotion activity are accurate</p>
+<p>
+Merchandising of blinkbox.com (30% of time)<br />
+&bull; Delivery of relevant, timely and effective merchandising across assigned categories on site<br />
+&bull; Production and execution of collections and special offers as agreed with the Senior Content Manager including builds and pricing<br />
+&bull; Manage the delivery of design collateral required for new release and library activity<br />
+&bull; Planning of genre pages ensuring latest library additions are promoted on relevant pages<br />
+&bull; Tracking and analysis of merchandising impact and traffic flow (google analytics)</p>
+<p>
+<strong>About you:</strong><br />
+You should have knowledge and awareness of the Home Entertainment market with a demonstrable understanding of the digital (VOD &amp; EST) proposition.<br />
+The following experience and attributes are essential:<br />
+&bull; Graduate with at least three years working experience, preferably in the Home Entertainment or Digital Film/TV distribution industry in a commercial role<br />
+&bull; Excellent organisational skills<br />
+&bull; Excellent attention to detail<br />
+&bull; Passion for Film &amp; TV Content<br />
+&bull; A true team player<br />
+&bull; Excellent written and oral communication skills<br />
+&bull; Ability to handle external communications with tact<br />
+&bull; Detailed knowledge of MS office package<br />
+&bull; Basic knowledge of Google analytics<br />
+&bull; Ability to work under pressure to tight deadlines</p>
+<p>
+The following experience is desirable, but not essential:<br />
+&bull; Experience working in/with a film or TV studio<br />
+&bull; Experience using CMT (Content Management Tools) for any web based business</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blinkbox/sSCFde"></script>]]></buttons>
+		</job>
+	</jobs>

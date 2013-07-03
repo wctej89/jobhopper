@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Pod1]]></company>
+			<job>
+			<id><![CDATA[job_20111219214614_ISTEEF4XGUSAYW5O]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Magento PHP Developer]]></title>
+			<department><![CDATA[Tech]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://pod1.theresumator.com/apply/WRSdq5/Magento-PHP-Developer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10012]]></postalcode>
+			<description><![CDATA[<p>
+	We are looking for brilliant individuals with the creativity, technical ability and the experience to take our clients&#39; brands forward. And more than this, we want people who share our values: people who are collaborative, intelligent, agile, results focused and plain speaking.</p>
+<p>
+	<strong>As a mid-weight Magento PHP Developer at Pod1, Inc, your role and responsibilities will consist of:</strong><br />
+	&bull; Designing, developing, implementing and maintaining web software applications under the direction of senior technical staff<br />
+	&bull; Debugging and troubleshooting software defects<br />
+	&bull; Creating and maintaining code documentation<br />
+	&bull; Participating in the review of business requirements and functional specifications providing analysis and feedback<br />
+	&bull; Delivering software code that is built to scope and within the agreed upon goals<br />
+	&bull; Working as a team member on large accounts, understanding how a team operates and what is expected of the various roles on the project<br />
+	&bull; Shifting between a creative and a technical focus depending on the project need and/or the type of project<br />
+	&bull; Rapidly producing interim deliverables (such as prototypes, proofs of concept, etc.) in addition to the final live site or application.<br />
+	&bull; Providing day-to-day support, troubleshooting and bug fixing for our existing clients (BAU)<br />
+	&bull; Reporting to project managers any risks or possible delays<br />
+	&bull; Taking initiative to research and learn emerging technologies</p>
+<p>
+	<strong>Required</strong><br />
+	&bull; 3+ years experience working with PHP5.x and MySQL<br />
+	&bull; 3+ years experience with MVC frameworks and CMS platforms (Drupal, Joomla, Wordpress, Symfony, Zend, etc)<br />
+	&bull; Good understanding of object oriented programming concepts<br />
+	&bull; Comfortable developing and debugging applications in a Unix/Linux environment<br />
+	&bull; Experience with AJAX techniques using modern JavaScript libraries<br />
+	&bull; Knowledge of web application security considerations<br />
+	&bull; Experience with source control software<br />
+	&bull; Comfortable documenting code<br />
+	&bull; Familiarity of usability and W3C AAA accessibility standards<br />
+	&bull; Comfortable working closely with a UX/IA team<br />
+	&bull; Basic Knowledge of SEO best practices<br />
+	&bull; Effective verbal and written communication skills<br />
+	&bull; Must be available to work on site.</p>
+<p>
+	<strong>Preferred</strong><br />
+	&bull; Experience with the Magento Platform<br />
+	&bull; Capable of debugging a web application from hardware to client browser<br />
+	&bull; Familiar with UML and ERD<br />
+	&bull; Experience with unit testing<br />
+	&bull; Interactive web agency experience<br />
+	&nbsp;</p>
+]]></description>
+			<type><![CDATA[Temporary to Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/pod1/WRSdq5"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20111219214803_WHC1BOJRZ6TYOE9Q]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Magento Developer]]></title>
+			<department><![CDATA[Tech]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://pod1.theresumator.com/apply/dV90Rf/Senior-Magento-Developer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10012]]></postalcode>
+			<description><![CDATA[<p>
+	We are looking for brilliant individuals with the creativity, technical ability and the experience to take our clients&#39; brands forward. And more than this, we want people who share our values: people who are collaborative, intelligent, agile, results focused and plain speaking.</p>
+<p>
+	Pod1 is looking for a Snr Magento PHP Developer with at least 5+ years of PHP5, object-oriented programming, MySQL. Advantageous extras include Zend and Magento.</p>
+<p>
+	This exciting and varied role will require a strong coder who is able to work under their own initiative and has experience building modular content management systems and e-commerce applications.<br />
+	The ideal candidate is capable of thinking the big picture when it comes to development, and able to code defensively. You are currently either a strong middleweight developer who wants to extend your skill set, or you are a senior developer in a small team who has loads of great ideas that you want to unleash.</p>
+<p>
+	You will be comfortable dealing with customers, but this will not be the core focus of this role.This is a hands on role that lies at the core of our organization requiring a true all rounder.</p>]]></description>
+			<type><![CDATA[Temporary to Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/pod1/dV90Rf"></script>]]></buttons>
+		</job>
+	</jobs>

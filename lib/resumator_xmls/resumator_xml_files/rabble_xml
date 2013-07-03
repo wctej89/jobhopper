@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Rabble]]></company>
+			<job>
+			<id><![CDATA[job_20110404161839_QBYL7PM1EUQHAD4J]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Webbstjärna]]></title>
+			<department><![CDATA[Rabble Utveckling]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://rabble.theresumator.com/apply/Zf2Zet/Webbstjrna.html]]></url>
+			<city><![CDATA[Stockholm]]></city>
+			<state><![CDATA[Stockholm]]></state>
+			<country><![CDATA[Sweden]]></country>
+			<postalcode><![CDATA[11360]]></postalcode>
+			<description><![CDATA[<p>
+	Rabble s&ouml;ker f&ouml;rst&auml;rkning p&aring; utvecklingssidan. Det vi letar efter &auml;r framf&ouml;r allt smarta och drivna m&auml;nniskor mer &auml;n formella kompetenser. Men &auml;r du den vi letar efter har du antagligen har du jobbat med de flesta vanliga webbteknikerna.</p>
+<p>
+	P&aring; Rabble kommer du f&aring; vara med om att ta v&aring;r mobilapplikation f&ouml;r rabatterbjudanden och kuponger till n&auml;sta niv&aring;. Du kommer att jobba med utbyggnad av de sociala funktionerna, integrering mot API:er, nya gr&auml;nssnittsfunktioner som g&ouml;r det &auml;nnu roligare att rabbla, utforska nya mobila plattformar och mycket mer.</p>
+<p>
+	Det kommer att vara varierande uppgifter och h&ouml;gt tempo, s&aring; vi beh&ouml;ver n&aring;gon som &auml;r snabb p&aring; att l&auml;ra sig nya saker och fungerar bra under stress. Och s&aring; social f&ouml;rm&aring;ga &ndash; vi &auml;r ett litet g&auml;ng och det &auml;r viktigt att man har roligt tillsammans! Vi ser att du &auml;r en person som f&aring;r din stolthet ur att veta att du g&ouml;r ett fantastiskt jobb varje dag snarare &auml;n att ha flashiga titlar.</p>
+<p>
+	<em><strong>Vi ser att du har:</strong></em></p>
+<ul>
+	<li>
+		En &ouml;verm&auml;nsklig f&ouml;rm&aring;ga att bygga h&auml;ftiga saker i Javascript</li>
+	<li>
+		Erfarenhet och vana i PHP, g&auml;rna MVC-frameworks</li>
+	<li>
+		Probleml&ouml;sningsf&ouml;rm&aring;ga och kreativitet &ndash; du kommer beh&ouml;va l&ouml;sa problem som vi &auml;nnu inte k&auml;nner till</li>
+	<li>
+		Initiativf&ouml;rm&aring;ga och stresst&aring;lighet &ndash; Tempot &auml;r h&ouml;gt, men arbetet &auml;r roligt!</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	<em><strong>Meriterande &auml;r erfarenheter av:</strong></em></p>
+<ul>
+	<li>
+		UX-design, g&auml;rna mobil s&aring;dan</li>
+	<li>
+		App-utveckling (iPhone/Android)</li>
+	<li>
+		WordPress</li>
+	<li>
+		Grafisk design (webb).</li>
+	<li>
+		Anst&auml;llningsformer:</li>
+	<li>
+		Anst&auml;llning heltid/deltid.</li>
+	<li>
+		H&ouml;r av dig! Visa oss vad du har gjort f&ouml;rut och ber&auml;tta vad du kan tillf&ouml;ra p&aring; Rabble!</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	Kontakta Sergej Kotliar, sergej@rabble.se, 070-4673367</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/rabble/Zf2Zet"></script>]]></buttons>
+		</job>
+	</jobs>

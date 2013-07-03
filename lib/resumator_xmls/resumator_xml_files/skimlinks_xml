@@ -1,0 +1,651 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Skimlinks]]></company>
+			<job>
+			<id><![CDATA[job_20110506125118_DGYTM4FW76ZXBKIL]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Graduate Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Tech]]></team>
+			<url><![CDATA[http://skimlinks.theresumator.com/apply/1f5bAv/Graduate-Developer.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EC1Y 2BP]]></postalcode>
+			<description><![CDATA[<p>
+Exciting opportunity for an enthusiastic graduate developer to join an award-winning VC-backed start-up during its rapid growth phase.<br />
+Skimlinks has been highlighted as an &#39;emerging leader&#39; by Saul Klein from Index Ventures, described by Techcrunch as one of London&rsquo;s leading startups, and voted in the top 10 of the Guardian Tech Media Invest.</p>
+<p>
+<strong>About the role</strong></p>
+<p>
+Skimlinks is a technology company. We have launched a range of unique, compelling products that have shaken up the online monetization space. We use some pretty cutting-edge technologies to handle over 1 billion pageviews/month, which also makes our data projects very interesting.&nbsp;We are looking for a graduate software developer with a start-up attitude to help build our product vision.</p>
+<p>
+This exciting role will require someone who cleverly possesses the following skills:</p>
+<ul>
+<li>
+<span style="font-size: 12px;">Experience of building web applications using LAMP architecture. This will require excellent knowledge of PHP5 &amp; OOP and MySQL5 and its surrounding technologies</span></li>
+<li>
+Broad interest and experience in other programming languages including Python</li>
+<li>
+Code XHTML and CSS to W3C standards, WAG accessibility, cross-platform compatibility and semantic coding would be highly regarded</li>
+<li>
+Javascript and JQuery</li>
+<li>
+API experience, including integration and API design would be very impressive (we are a bit fanatical about APIs)</li>
+<li>
+Experience of Mongo, Hadoop and HBase is advantageous. We love big data.</li>
+<li>
+Experience developing scalable web applications for high-volume sites is highly desirable</li>
+<li>
+Passion for Open Source technologies, active participation in the Open Source Community is very telling (in a positive way).</li>
+</ul>
+<p>
+The role is based in Shoreditch, London right in the middle of Silicon Roundabout. Our digs have a strong technology culture, lots of space and a high-spec setup.<br />
+<br />
+<strong>About you</strong></p>
+<p>
+Here at Skimlinks we value dedication, enthusiasm, and a love of innovation. We are disrupting the online monetization industry, and welcome candidates who want to be a part of this ambitious journey. But its not just hard work, we definitely appreciate a bit of quirkiness and fun along the way.</p>
+<ul>
+<li>
+You fit the bill of an experienced, innovative developer, with deep interest in Internet Technologies and a passion for building ground-breaking online tools. You are motivated, solutions driven, and eager to face the challenges that a startup requires.</li>
+<li>
+You like fixing problems but that&#39;s not enough. You&#39;re obsessed with knowing why it broke and committed to stop it happening in the future.</li>
+<li>
+You strive to push projects to the next level and give that special touch of quality, attentiveness and excellence.</li>
+<li>
+You are able to give accurate estimations of development times for projects, and organise your time to meet project deliverables and deadlines. You thrive in fast-paced environment that iterates quickly.</li>
+<li>
+You&#39;re interested in the challenges facing online publishers, and have an appreciation of the culture of content creation and blogging.</li>
+<li>
+You will love to code, think of it as recreation rather than work, and have a number of your own projects you have done just for fun.</li>
+<li>
+You will know the cURL library inside out and you will think a table with a million rows is rather puny.</li>
+<li>
+You love being part of a team.&nbsp;</li>
+<li>
+<span style="font-size: 12px;">You have a sense of humour, are ambitious, and love the thrill and madness of working in a start-up environment.</span></li>
+</ul>
+<p>
+<strong>About the Company</strong></p>
+<p>
+Founded in 2007, <a href="http://skimlinks.com">Skimlinks</a> is the London-based start-up behind an innovative service that helps online publishers make money from their editorial and user-generated content via affiliate marketing. Skimlinks products are part of an overall platform we&rsquo;re developing for publishers to monetize their content effectively, ethically and seamlessly, leaving them more time to focus on their content and their community.</p>
+<p>
+<span style="font-size: 12px;">Our clients include the world&rsquo;s leading online newspaper and content networks, including Hearst Digital, Conde Nast, Hachette Filipacchi, Future Publishing and over 10,000 more content sites, forums, web applications and blogs.</span></p>
+<p>
+<span style="font-size: 12px;">We have won a myriad of awards, including Linkshare Technology Genuis Award 2010, Best New Business and Special Award for Technological Innovation from New Media Age awards 2009. Check out our blog for more awards and media mentions at </span><a href="http://blog.skimlinks.com" style="font-size: 12px;">http://blog.skimlinks.com</a></p>
+<p>
+<span style="font-size: 12px;">Skimlinks is venture-backed by Sussex Place Ventures, The Accelerator Group and NESTA. This positions us ready to grow aggressively and innovative rapidly, to achieve our goal of being &lsquo;the Adsense of Affiliate Marketing&rsquo; and transform the way content sites monetize their content.</span></p>
+<p>
+<span style="font-size: 12px;">We are a friendly and dedicated team, genuinely excited by the prospect of disruptive innovation. We&rsquo;re looking to grow a team that shares that ethos.</span></p>
+<p>
+Find out more about what its like working at Skimlinks <a href="http://skimlinks.com/careers">http://skimlinks.com/careers</a></p>
+<p>
+<strong style="font-size: 12px;">How to apply</strong></p>
+<p>
+Please upload your CV and cover letter via our apply link. Also, please answer the following questions in your cover letter.</p>
+<ol>
+<li>
+Tell us your favourite web app and why?</li>
+<li>
+Tell us the web app you&#39;d most like to work on and why (it doesn&rsquo;t have to be Skimlinks!)?</li>
+</ol>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/skimlinks/1f5bAv"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20111012131407_JQGBTUKIQMFQSZLD]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Developer Internship (PHP, Python)]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Tech]]></team>
+			<url><![CDATA[http://skimlinks.theresumator.com/apply/sXwY5X/Developer-Internship-PHP-Python.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+Exciting opportunity for an enthusiastic graduate or undergrad developer to join an award-winning VC-backed start-up during its rapid growth phase.</p>
+<p>
+<strong>About the role</strong></p>
+<p>
+Skimlinks is a technology company. We have launched a range of unique, compelling products that have shaken up the online monetization space. We use some pretty cutting-edge technologies to handle over 1 billion pageviews/month, which also makes our data projects very interesting.&nbsp;We are looking for a graduate software developer with a start-up attitude to help build our product vision.&nbsp;This exciting role will require someone who cleverly possesses the following skills:</p>
+<ul>
+<li>
+Experience of building web applications using LAMP architecture. This will require excellent knowledge of PHP5 &amp; OOP and MySQL5 and its surrounding technologies</li>
+<li>
+Broad interest and experience in other programming languages including Python</li>
+<li>
+Code XHTML and CSS to W3C standards, WAG accessibility, cross-platform compatibility and semantic coding would be highly regarded</li>
+<li>
+Javascript and Jquery, Any Adobe AIR using Javascript is also advantageous</li>
+<li>
+API experience, including integration and API design would be very impressive (we are a bit fanatical about APIs)</li>
+<li>
+Experience developing scalable web applications for high-volume sites is also highly desirable</li>
+<li>
+Experience of search with Lucene/SOLR is advantageous - we search a lot of stuff</li>
+<li>
+Passion for Open Source technologies, active participation in the Open Source Community is very telling (in a positive way).</li>
+</ul>
+<p>
+<strong>About you</strong></p>
+<p>
+Here at Skimlinks we value dedication, enthusiasm, and a love of innovation. We are disrupting the online monetization industry, and welcome candidates who want to be a part of this ambitious journey. But its not just hard work, we definitely appreciate a bit of quirkiness and fun along the way.</p>
+<ul>
+<li>
+You fit the bill of an&nbsp;innovative developer, with deep interest in Internet Technologies and a passion for building ground-breaking online tools. You are motivated, solutions driven, and eager to face the challenges that a startup requires.</li>
+<li>
+You strive to push projects to the next level and give that special touch of quality, attentiveness and excellence.</li>
+<li>
+You are able to give accurate estimations of development times for projects, and organise your time to meet project deliverables and deadlines. You thrive in fast-paced environment that iterates quickly.</li>
+<li>
+You have a sense of humour, are ambitious, and love the thrill and madness of working in a start-up environment.</li>
+<li>
+You&#39;re interested in the challenges facing online publishers, and have an appreciation of the culture of content creation and blogging.</li>
+<li>
+You will love to code, think of it as recreation rather than work, and have a number of your own projects you have done just for fun.</li>
+<li>
+You will know the cURL library inside out and you will think a table with a million rows is rather puny.</li>
+</ul>
+<p>
+<strong>About us</strong></p>
+<p>
+Skimlinks is one of the most well-known UK-originated startups in the internet space, founded in London in 2007 and now with offices in San Francisco and New York. We have been described by Techcrunch as one of London&#39;s leading startups, and voted in the top 10 of the Guardian Tech Media Invest.</p>
+<p>
+Skimlinks offers blogs, forums and websites the ability to earn an income from their content, by paying them a commission if readers click through and make an online purchase.</p>
+<p>
+We consider ourselves a company that sells innovations, and in the last few years we have conceived and built a range of unique, compelling products that have shaken up the online monetization space.</p>
+<p>
+Find out about what&#39;s it like working at Skimlinks at http://skimlinks.com/careers</p>
+<p>
+<strong>The Internship</strong></p>
+<p>
+Internships are paid dependent on your skillset and experience.<br />
+Work dates: ongoing, internship periods are 3-12 months</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Internship]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/skimlinks/sXwY5X"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120601112801_DGPA81OUK9ROAUSA]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Office Assistant]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://skimlinks.theresumator.com/apply/8M9wuc/Office-Assistant.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+ABOUT THE COMPANY</p>
+<p>
+Skimlinks is one of the most well-known UK-originated startups in the internet space, founded in London in 2007 and now with offices in San Francisco and New York. We have been described by Techcrunch as one of London&#39;s leading startups, and voted in the top 10 of the Guardian Tech Media Invest.</p>
+<p>
+Skimlinks offers blogs, forums and websites the ability to earn an income from their content, by paying them a commission if readers click through and make an online purchase.</p>
+<p>
+We consider ourselves a company that sells innovations, and in the last few years we have conceived and built a range of unique, compelling products that have shaken up the online monetization space.</p>
+<p>
+Find out about what&#39;s it like working at Skimlinks at http://skimlinks.com/careers</p>
+<p>
+<br />
+ABOUT THE ROLE</p>
+<p>
+As an Office Assistant, you are at the heart of Skimlinks&rsquo; activities and you ensure that the team are focused on their work by being on top of everything office related and pouncing onto issues as they arise.</p>
+<p>
+This role will provide experience across multiple teams and you will learn in detail about affiliate marketing and online monetization. Most importantly, you&#39;ll gain experience of working in a rapidly growing technology startup, learning about all aspects of business and entrepreneurship.</p>
+<p>
+This role will involve the following:</p>
+<ul>
+<li>
+Act as a central personality to the whole UK team - be both the dedicated organiser saving us time and money; but also the party planner and general deliverer of fun!</li>
+<li>
+Perform an array of research &amp; admin tasks including travel booking, managing the team calendar, expense claims, answering the phone and ordering stationery.</li>
+<li>
+Coordinate team meetings and group events such as team outings, offsites, company events and birthday parties.</li>
+<li>
+Liaise with outside service providers and agencies.</li>
+<li>
+Support managers (in San Francisco and London) with different ad-hoc tasks.</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<span style="font-size: 12px;">ABOUT YOU</span></p>
+<p>
+This is the perfect role for a recent grad who has strong communication and organisational skills. You have experience working under pressure with a variety of people. You are well organised, efficient and work quickly while multi-tasking. You have a sense of humour, are ambitious, and love the thrill and madness of working in a start-up environment. In this role you&rsquo;ll be the main point of contact for the team.</p>
+<p>
+We&rsquo;re looking for someone with the following skills and qualifications:</p>
+<ul>
+<li>
+General problem solver &amp; kick-ass researcher with the attitude to help out anyone with anything at Skimlinks</li>
+<li>
+You have very strong organisational skills and are a deadly multi-tasker</li>
+<li>
+You are a &lsquo;people person&rsquo; and love helping others - you have a bubbly personality and a sunny disposition</li>
+<li>
+You have exceptional written and verbal communication skills - you know how to craft words to win over people</li>
+<li>
+You are a motivated self-starter and able to work with little supervision.</li>
+<li>
+You have that burning desire to work in a constantly changing start-up environment.</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<span style="font-size: 12px;">HOW TO APPLY</span></p>
+<p>
+Upload your CV/resume and include a cover letter that expresses your personality.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/skimlinks/8M9wuc"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120808111703_VWF0W4KTB0RTRRYC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front-End Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Tech]]></team>
+			<url><![CDATA[http://skimlinks.theresumator.com/apply/OLlfN4/FrontEnd-Developer.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EC1Y 2BP]]></postalcode>
+			<description><![CDATA[<p>
+Skimlinks is looking for a programmer (we&#39;re language agnostic) who&#39;s interested in joining and leading our front-end team.</p>
+<p>
+<strong>What will I be working on?</strong><br />
+We&#39;re building a single page analytics suite to give web publishers actionable information on how they are monetizing and how they can better monetize (hey you&rsquo;re helping keep the Internet&rsquo;s lights on) . Its powered with Backbone.js, require.js, Highcharts and SASS. We&#39;re open minded about trying new tools and technologies (any ClosureScript fans out there?). It&#39;s very Javascript focussed, built around our API, and we&#39;re out to make a fast, reliable (testing + CI) web app that feels of the web, rather than a Flash RIA circa 2003.</p>
+<p>
+While it&#39;s obviously simplest for someone who knows Javascript already, if you&#39;ve never seen a === (some equality operators require more equality than others ;) ) but love picking up new technologies we&#39;d like to hear from you.</p>
+<p>
+<strong>What it&rsquo;s like to work @Skimlinks?</strong></p>
+<ul>
+<li>
+Big screens and fast computers (Linux, OSX or PC, up to you)</li>
+<li>
+Sociable company - Friday drinks and regular team lunches</li>
+<li>
+Office right on Old Street roundabout - more hipster coffeeshops that you could possibly need</li>
+<li>
+Unix platform on AWS</li>
+<li>
+Standups and a lightweight process</li>
+<li>
+Testing and Jenkins CI</li>
+<li>
+QA team - ever had someone on your team to whose job it is to double check your end product and catch any errors before release? It&#39;s good.</li>
+<li>
+A product team that understands why you might want to spend a sprint refactoring</li>
+<li>
+Hackdays, big data access on what millions of people are clicking on and buying</li>
+</ul>
+<p>
+<strong>About the company</strong><br />
+Skimlinks is one of the most well-known UK-originated startups in the internet space, founded in London in 2007 and now with offices in San Francisco and New York. We have been described by Techcrunch as one of London&#39;s leading startups, and voted in the top 10 of the Guardian Tech Media Invest.</p>
+<p>
+Skimlinks offers blogs, forums and websites the ability to earn an income from their content, by paying them a commission if readers click through and make an online purchase.</p>
+<p>
+We consider ourselves a company that sells innovations, and in the last few years we have conceived and built a range of unique, compelling products that have shaken up the online monetization space.</p>
+<p>
+Find out about what&#39;s it like working at Skimlinks at http://skimlinks.com/careers</p>
+<p>
+<strong>How to apply</strong><br />
+Please upload your CV and a cover letter that expresses your personality and include a link to your github or wherever we can read your code.</p>
+<p>
+We&#39;ll be most interested in reading your code, regardless of experience. If you&#39;ve not got some code we can read, either bash out that project you&#39;ve been meaning to work on or ask us and we&#39;ll put together a quick project for you (it&#39;ll be something fun, maybe involving d3.js) which will take an hour or so.</p>
+<p>
+If you&#39;d like to come in and have a look around and meet the team pre-interview, get in touch.</p>
+<p>
+We look forward to meeting you!</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/skimlinks/OLlfN4"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130412160638_W8EACZJ1SMZNXPND]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Customer Support Executive]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Misc]]></team>
+			<url><![CDATA[http://skimlinks.theresumator.com/apply/HI0nCX/Customer-Support-Executive.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[London]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EC1Y 2BP]]></postalcode>
+			<description><![CDATA[<p>
+Exciting opportunity to join a dynamic international VC-backed startup as a Customer Support Executive during its rapid growth phase. The role will be based in the headquarter in London.</p>
+<p>
+<strong>About the role</strong></p>
+<p>
+As a Customer Support Executive at Skimlinks, you&#39;ll be the human-faced frosting to our tasty tech cake!</p>
+<p>
+The first point of contact for any of our existing publisher clients, you&#39;d be responsible for their day to day interaction with us: answering questions, helping new clients get installed and training them to use our selection of tools.</p>
+<p>
+Daily tasks could include:</p>
+<ul>
+<li>
+First line support over phone and email for inquiring publishers.</li>
+<li>
+Ensure enquiries received are responded to within deadlines.</li>
+<li>
+Diagnosing and resolving technical issues.</li>
+</ul>
+<p>
+The role is based in Shoreditch, London right in the middle of Silicon Roundabout. Our digs have a strong technology culture, lots of space and a high-spec setup.</p>
+<p>
+<strong>About you</strong></p>
+<p>
+This is the perfect role for a super smart graduate with a degree.&nbsp; We innovate rapidly in the exciting space of content monetization and we look for somebody who can keep up with our pace: someone who can solve problems creatively, learns quickly, and can present technical information in an easily understandable way. The ideal candidate will have the following skills and qualifications:</p>
+<ul>
+<li>
+You&#39;re personable, confident and articulate; happy to pick up the phone and get something dealt with there and then.</li>
+<li>
+You can work autonomously, are comfortable organizing your own working day and taking on a lot of personal responsibility.</li>
+<li>
+You&#39;ll have a good technical understanding (basic HTML skills) and you have to ability to learn technology at lightning speed.</li>
+<li>
+You&rsquo;re analytical and ask the right questions to identify and solve a technical issue.</li>
+<li>
+You have excellent communications skills (verbal and written) and are empathetic to customer requests.</li>
+<li>
+You&#39;ve helped run organizations or societies at college, consider yourself somewhat of an &#39;early-adopter&#39;, and are looking to gain experience in an innovative, entrepreneurial atmosphere.</li>
+<li>
+You&#39;ll want to make a big impact in a little company and be proud to help it grow into something much larger.</li>
+</ul>
+<p>
+Above all, you&#39;re full of initiative and can turn your hand to the new: we move quickly, and not knowing exactly what will need to be done each day is part of the excitement for you. If you want to be part of a fun, hardworking team who are friends first, colleagues second then apply for the role!</p>
+<p>
+<strong>About the company</strong></p>
+<p>
+Skimlinks is one of the most well-known UK-originated startups in the internet space, founded in London in 2007 and now with offices in San Francisco and New York. We have been described by Techcrunch as one of London&rsquo;s leading startups, and voted in the top 10 of the Guardian Tech Media Invest.</p>
+<p>
+Skimlinks offers blogs, forums and websites the ability to earn an income from their content, by paying them a commission if readers click through and make an online purchase.</p>
+<p>
+We consider ourselves a company that sells innovations, and in the last few years we have conceived and built a range of unique, compelling products that have shaken up the online monetization space. Find out about what&#39;s it like working at Skimlinks at http://skimlinks.com/careers</p>
+<p>
+<strong>How to apply</strong></p>
+<p>
+Please upload your CV, and include a cover letter that expresses your personality. Please also answer the questions in the attached questionnaire.</p>
+<p>
+&nbsp;</p>
+<p>
+&nbsp;</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/skimlinks/HI0nCX"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130403135121_O5O9OJDXZDMTUFYM]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Marketing Manager]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://skimlinks.theresumator.com/apply/hraa1n/Marketing-Manager.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94105]]></postalcode>
+			<description><![CDATA[<p>
+Exciting opportunity to join a dynamic international VC-backed startup as a Marketing Manager (or Marketing Coordinator) during its growth phase. The role will be based in San Francisco. Job title will depend on experience.</p>
+<p>
+<span style="font-size: 12px;">ABOUT THE ROLE</span></p>
+<p>
+As a Product Marketing Manager at Skimlinks, you are going to play a huge role in building the Skimlinks brand and ensuring the success of our product launches, customer acquisition, and external communication. You will work closely with our Marketing Director to execute these and other marketing projects such as writing thought leadership pieces, managing how our products are shaped/look/feel, executing online advertising campaigns, and more.</p>
+<p>
+ABOUT YOU</p>
+<p>
+This role is not for the faint of heart, but for someone who is incredibly driven and ready to push themselves to limits they did not know they could reach. You want to learn and grow with us and hop aboard a magical journey, but at the same time are confident in their abilities to dive in and contribute from day one.</p>
+<p>
+We&#39;re looking for:</p>
+<ul>
+<li>
+Someone who is an adept project manager, highly detail oriented and creative in their approach, you have a history driving projects from start to finish, navigating ambiguity and obstacles that arise, and getting things done with a smile.</li>
+<li>
+Copy-writing skills: You have a knack for distilling complex features into the most important benefits and phrasing them in a way that is easily understandable.</li>
+<li>
+Strong eye for design: you will be working on public facing marketing projects, so we want a person who knows how to make things look good.</li>
+<li>
+Likes the idea of weaving SEO into everything they do.</li>
+<li>
+Comfortable with negotiation: you will be responsible for booking and arranging orders related to events, so it&rsquo;s important that you are willing to push back and get Skimlinks the best deals.</li>
+<li>
+Comfortable communicating with customers, industry influencers, and the press via email, social, the phone, and face-to-face at events.</li>
+<li>
+You have that burning desire to work in a constantly changing start-up environment.</li>
+<li>
+Passion for technology: you love experimenting with new tools that come out - and can geek out with the best of &lsquo;em about things like productivity software.</li>
+<li>
+You are personable, confident, and articulate.</li>
+<li>
+You are familiar with online marketing tools (Google AdWords, retargeting platforms, social media).</li>
+</ul>
+<p>
+You can work autonomously, are comfortable organizing your own working day and taking on a lot of personal responsibility. You&#39;ve probably helped run organizations or societies at college, consider yourself somewhat of an &#39;early-adopter&#39;, and are looking to gain experience in an innovative, entrepreneurial atmosphere.</p>
+<p>
+Above all, you&#39;re full of initiative and can turn your hand to the new: we move quickly, and not knowing exactly what will need to be done each day is part of the excitement for you. You&#39;ll want to make a huge impact in a growing company and be proud to help it grow into something massive. You&#39;ll want to be part of a fun, hardworking team who are friends first, colleagues second.</p>
+<p>
+<span style="font-size: 12px;">WHAT WE OFFER</span></p>
+<p>
+* Competitive salary<br />
+* Full health coverage with vision &amp; dental (we&#39;re British, but not that British!)<br />
+* Generous vacation allowance<br />
+* Stunning views of the Bay Bridge and the Ferry Building from our fun/friendly office space<br />
+* More different accents in a company than you could dream of!</p>
+<p>
+<span style="font-size: 12px;">ABOUT THE COMPANY</span></p>
+<p>
+<span style="font-size: 12px;">Skimlinks is one of the most well-known UK-originated startups in the internet space, founded in London in 2007 and now with offices in San Francisco and New York. We have been described by Techcrunch as one of London&#39;s leading startups, and voted in the top 10 of the Guardian Tech Media Invest.</span></p>
+<p>
+Skimlinks offers blogs, forums and websites the ability to earn an income from their content, by paying them a commission if readers click through and make an online purchase. We&rsquo;ve recently expanded internationally and are now looking to make a splash in Europe &amp; Asia, as well as push new products we&rsquo;ve released such as Showcases (enhanced display ads) and much more to come.</p>
+<p>
+We consider ourselves a company that sells innovations, and in the last few years we have conceived and built a range of unique, compelling products that have shaken up the online monetization space. Find out about what&#39;s it like working at Skimlinks at http://skimlinks.com/careers</p>
+<p>
+HOW TO APPLY</p>
+<p>
+<span style="font-size: 12px;">Please upload your CV/resume and a writing sample.</span></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/skimlinks/hraa1n"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130425092438_X92GSX4LZJHSHGNK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Interface Designer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://skimlinks.theresumator.com/apply/HQQZ35/Interface-Designer.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+<span style="font-size: 12px;">Skimlinks is looking for an experienced interface and app/widget designer to lead the visual and UX design of (1) our products/product elements, (2) our user interfaces and (3) our company website/communications.</span></p>
+<p>
+<span style="font-size: 12px;"><strong>About the role</strong></span></p>
+<p>
+<span style="font-size: 12px;">Skimlinks&rsquo; monetization solutions are installed by a vast array of publishers on their websites to help them make money from their content in elegant, seamless ways. We aim to be be ad-like, but to be the connection between content and commerce. We believe that with the right visual and UX design, we can create solutions that are un-intrusive and complementary to the user experience. These solutions can take the form of in-text links, flyovers or product showcases that need to be designed by you to be helpful and enticing to users as they browse.</span></p>
+<p>
+These solutions also need beautiful user interfaces so publishers can discover them, customize them to their needs, and analyze and optimize their performance. We need your UI/UX wizardry to design interfaces that delight our customers and help them succeed with our technology.</p>
+<p>
+And we have a lot of customers to delight, with most of the top publishers in the world using our solutions. This means your designs will be viewed by hundreds of millions of users every month, via billions of page impressions and lead to hundreds of millions of clicks monthly. Hence your designs need to be world-class and widely appealing (and you will have a lot of data feedback!).</p>
+<p>
+The Design team (you and 1 junior designer you will manage) work very closely with the Product team - the core of Skimlinks.</p>
+<p>
+This exciting role&rsquo;s responsibilities include:</p>
+<ul>
+<li>
+Design beautiful, innovative, visual and interactive elements for our products. For example, something that:</li>
+<li>
+conveys information about retail products, and related information succinctly and in a visually appealing manner, without seeming ad-like</li>
+<li>
+feels complementary and &lsquo;native&rsquo; to publisher&rsquo;s content and user experience - without being intrusive or jarring</li>
+<li>
+is clever, ground-breaking and enticing to invite interaction &amp; engagement</li>
+<li>
+Rapidly iterate and improve designs &amp; interactions based on real-word feedback, e.g. comparing CTR through split-testing</li>
+<li>
+Lead the ongoing design and improvement of all our user interfaces, so we delight all our customers and partners whenever they interact with us</li>
+<li>
+Work with the Product team in the conceptualization, rapid prototyping, and delivery of new products and interfaces</li>
+<li>
+Design the next evolution of Skimlinks.com, as we develop our product suite and brand identity further</li>
+<li>
+Oversee the creation &amp; management of assets such as logos, icons, collateral, newsletters</li>
+<li>
+Manage our wonderful junior graphic designer</li>
+</ul>
+<p>
+An example of visual products we have launched include the SkimWords flyover and Showcases</p>
+<p>
+<strong>About you</strong></p>
+<p>
+<span style="font-size: 12px;">You will an experienced interface designer with a passion for beautiful UI/UX design and have:</span></p>
+<ul>
+<li>
+Significant experience in web UI/UX designs, either for B2C or B2B websites</li>
+<li>
+Experience in graphic design and interaction design of interactive and rich media web elements such as&nbsp; e.g. advertisements, banners, widgets (but you will have ideas for how they can be revolutionized to be beautiful and helpful)</li>
+<li>
+A bonus if you have worked designing digital advertisements or in ad tech businesses</li>
+<li>
+Ability to work swiftly in a fast-moving iterative environment</li>
+<li>
+Demonstrable experience of iterative design based on a feedback loop e.g. split testing or multivariate testing</li>
+<li>
+Strong written/verbal communication skills to collaborate with product managers &amp; developers</li>
+<li>
+Experience with all relevant tools i.e. Adobe suite, prototyping/wireframing tools</li>
+<li>
+Familiarity with HTML5/Javascript would be a bonus</li>
+<li>
+A passion for creating nifty interactions (via your designs) that users can&rsquo;t help but engage with</li>
+<li>
+A desire to transform boring data displays through clear visualisation</li>
+<li>
+Genuine excitement to make the web a better place for publishers and web browsers but helping publishers make money in a way that browsers love</li>
+</ul>
+<p>
+<strong>About the company</strong></p>
+<p>
+Skimlinks is one of the most well-known UK-originated startups in the internet space, founded in 2007 - now a team of over 50 with offices in London, San Francisco and New York.</p>
+<p>
+Skimlinks grew from a simple product offering web publishers e.g. blogs &amp; forums the ability to earn an income from their content, by paying them a commission if readers click through and make an online purchase.</p>
+<p>
+We consider ourselves a company that sells innovations, and in the last few years we have conceived and built a range of unique, compelling products that have shaken up the online monetization space.</p>
+<p>
+We regularly win or shortlisted for awards/lists such as London&#39;s leading startups (Techcrunch), Best UK Startups (Europas), International Excellence Award (Performance Marketing).</p>
+<p>
+We are a company that prides itself on its close-knit team and our own brand of Skimlinks culture.&nbsp; Find out about what&#39;s it like working at Skimlinks at http://skimlinks.com/careers</p>
+<p>
+<strong>How to apply</strong></p>
+<p>
+Upload your CV/resume (including links to your portfolio) and include a cover letter.&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/skimlinks/HQQZ35"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130524012832_6DJA7WJ4KRFXHEDW]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Advertiser Relations Associate]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://skimlinks.theresumator.com/apply/YRxAgN/Advertiser-Relations-Associate.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94105]]></postalcode>
+			<description><![CDATA[<p>
+We are on the lookout for candidates who want to be a part of a growing team at a leading tech start-up. This Advertiser Relations Associate role will provide the right person with a comprehensive understanding of the online advertising industry and the critical role e-commerce stores (online advertisers) play in it. You will be a part of a fast-paced start-up prominent in the UK and US, and rapidly growing internationally.<br />
+&nbsp;<br />
+<strong>About the role</strong></p>
+<p>
+As an Advertiser Relations Associate, you will be one of the faces of Skimlinks, showing online advertisers the wonders of Skimlinks and helping them with any questions.&nbsp; You will work on obtaining new e-commerce stores as clients, supporting our existing online advertiser clients, and optimising our relationships to e-commerce stores.<br />
+<br />
+This role will involve the following:</p>
+<ul>
+<li>
+Advertiser Support including answering inbound emails, pulling reports, monitoring progress on advertiser programs.</li>
+<li>
+Assisting in the development of relationships with new clients.</li>
+<li>
+Discussing the advertiser relationships we currently have and contributing to optimisation strategies.</li>
+<li>
+Contributing to the daily updates of advertiser announcements and offers.</li>
+<li>
+Setting up, monitoring &amp; logging advertiser progress.</li>
+<li>
+Pulling and analysing advertiser reports on activities with publishers.</li>
+<li>
+Analyzing revenue coming in from incentive programs.</li>
+<li>
+Setting up the statuses and checking up on progress of Preferred advertisers.</li>
+<li>
+Increasing advertisers&rsquo; exposure on the number of Publisher sites they are on.</li>
+<li>
+Researching new affiliate markets including defining top foreign advertisers, Publishers and Networks.</li>
+<li>
+Attending events and conferences as a representative of Skimlinks.</li>
+</ul>
+<p>
+<strong>About you</strong></p>
+<p>
+We value dedication, enthusiasm, and a love of innovation. We are disrupting the online monetisation industry, and welcome candidates who want to be a part of this ambitious journey. But it&rsquo;s not just hard work, we definitely appreciate a bit of quirkiness and fun along the way.</p>
+<ul>
+<li>
+You have a bachelor&rsquo;s degree and are passionate about working in a start-up.</li>
+<li>
+You possess strong written communication skills, fast typing skills and have the ability to get a point across quickly.</li>
+<li>
+You are detail-oriented, able to think one step ahead, and not afraid to ask questions</li>
+<li>
+You have a sense of humour, are ambitious, and love the thrill and madness of working in a start-up environment.</li>
+<li>
+You live, eat, breathe technology, are interested in the challenges facing online advertisers, and have an appreciation of the demands of e-commerce and brand presence on content sites.</li>
+</ul>
+<p>
+<span style="font-size: 12px;">You can work autonomously, are comfortable organizing your own working day and taking on a lot of personal responsibility. You consider yourself something of an &#39;early-adopter&#39;, and are looking to gain experience in an innovative, entrepreneurial atmosphere.</span></p>
+<p>
+Above all, you&#39;re full of initiative and can turn your hand to the new: we move quickly, and not knowing exactly what will need to be done each day is part of the excitement for you. You&#39;ll want to make a huge impact in a growing company and be proud to help it grow into something massive.</p>
+<p>
+<strong>About us</strong></p>
+<p>
+Skimlinks is one of the most well-known UK-originated startups in the internet space, founded in London in 2007 and now with offices in San Francisco and New York. We have been described by Techcrunch as one of London&#39;s leading startups, and voted in the top 10 of the Guardian Tech Media Invest.</p>
+<p>
+Skimlinks offers blogs, forums and websites the ability to earn an income from their content, by paying them a commission if readers click through and make an online purchase. We&rsquo;ve recently expanded internationally and are now looking to make a splash in Europe &amp; Asia, as well as push new products we&rsquo;ve released such as Showcases (enhanced display ads) and much more to come.</p>
+<p>
+We consider ourselves a company that sells innovations, and in the last few years we have conceived and built a range of unique, compelling products that have shaken up the online monetization space. Find out about what&#39;s it like working at Skimlinks at http://skimlinks.com/careers</p>
+<p>
+<strong>What we offer</strong></p>
+<p>
+* Competitive salary<br />
+* Full health coverage with vision &amp; dental (we&#39;re British, but not that British!)<br />
+* Generous vacation allowance<br />
+* Stunning views of the Bay Bridge and the Ferry Building from our fun/friendly office space<br />
+* More different accents in a company than you could dream of!</p>
+<p>
+<strong>To Apply</strong></p>
+<p>
+Use the online form to send us a cover letter about why you would like to work with us, and attach your resume.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/skimlinks/YRxAgN"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[The Collective]]></company>
+			<job>
+			<id><![CDATA[job_20120919085158_SIWFKVRTLBOOHI09]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Front-End Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://metacafe.theresumator.com/apply/6rcSJ3/Senior-FrontEnd-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+The Collective Digital Studio is building the premier next generation media company, offering premiums online video hits from today&rsquo;s top digital stars.&nbsp; The company is building out a video entertainment platform that enables our millennials audience to find the latest hits and discovery up-and-coming hits, delivers marketers targeted audiences in and around premium content and supports our creators in delivering their videos and building their brands through all forms of digital platforms.</p>
+<p>
+<br />
+About the job:</p>
+<ul>
+<li>
+Develop and improve the front end for our new video platform possible.&nbsp; With the traffic we handle, you will need expert Javascript skills and site optimization experience.</li>
+<li>
+Participate in architecture discussions, design decisions and provide input into all aspects of the product.</li>
+<li>
+Research new technologies to improve existing features or create new features.</li>
+<li>
+Maintain and troubleshoot existing web applications and site functionality (Improve the scalability and performance of our platform).</li>
+</ul>
+<br />
+<p>
+About you:</p>
+<ul>
+<li>
+Minimum 5 years experience designing and developing robust and scalable web applications.</li>
+<li>
+Solid experience in OO JavaScript programming.</li>
+<li>
+Working knowledge of source control software. (We use Git).</li>
+<li>
+Recent experience and strong competence in page development using XHTML 1.1, HTML, and CSS3.</li>
+<li>
+Self-motivated, results oriented, team player and with a passion for his/her work.</li>
+<li>
+Front-end site optimization experience and strategies.</li>
+<li>
+Deep understanding of the intricacies of rendering across browsers IE 7+ on Windows, Firefox, Chrome and Safari</li>
+<li>
+Some experience with Ruby, python or PHP frameworks.</li>
+<li>
+&nbsp;B.S. in Computer Science or equivalent degree</li>
+</ul>
+<p>
+<br />
+About The Collective</p>
+<ul>
+<li>
+An opportunity to define an entertainment platform and change the way people view videos.</li>
+<li>
+Camaraderie of a great team that values work life balance.</li>
+<li>
+Great SF office location near the ballpark. (If you don&rsquo;t live in SF, we&rsquo;ll move you here.)</li>
+<li>
+Excellent health, dental, vision and 401K plans.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/metacafe/6rcSJ3"></script>]]></buttons>
+		</job>
+	</jobs>

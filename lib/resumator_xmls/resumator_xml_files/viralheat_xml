@@ -1,0 +1,605 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Viralheat]]></company>
+			<job>
+			<id><![CDATA[job_20110821223749_4LOYD0DEVF58X8TK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Software Engineer C++]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://viralheat.theresumator.com/apply/Pg1hp8/Senior-Software-Engineer-C.html]]></url>
+			<city><![CDATA[San Mateo]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94404]]></postalcode>
+			<description><![CDATA[<p>
+	Viralheat is a venture-backed social media analytics and intelligence firm based in San Mateo, California. Viralheat is a powerful, simple, yet affordable way for brands, agencies, marketers and content producers to measure, analyze and engage the social web. Viralheat&#39;s intelligence platform is connecting businesses, large and small, to the social web and changing the way business is done.</p>
+<p>
+	We are looking for a Senior Software Engineer with a desire to build robust, scalable, and exciting social media intelligence platform. Thousands of small and medium businesses depends on Viralheat to draw actionable insights an understand how to engage with social media. Viralheat is aggregating data from the largest social media sites in the world, we aggregate and process over 200 million mentions a week today and it&#39;s growing at a mind boggling rate. We not only aggregate the data, we store, search, process and analyze the data in real-time. We push the edge of high scale cloud computing and deliver unparalleled data crunching power to our customers at a very low cost. You will be working on all aspects of our back-end technology stack including, aggregating new data sources, doing real-time search and computing analytics in real-time.</p>
+<p>
+	<strong>Responsibilities</strong></p>
+<p>
+	&bull; Develop the next generation social media intelligence platform.<br />
+	&bull; Drive and participate in requirements, architecture, and design specification reviews.<br />
+	&bull; Analyze and improve efficiency, scalability, and stability of real-time data collection, storage, and retrieval processes.<br />
+	&bull; Contribute to building an enterprise-class data storage, analysis and processing for Viralheat&rsquo;s cloud computing infrastructure.<br />
+	&bull; Collaborate with the engineering team to design and implement product features in a fast-paced environment following agile development methodology.<br />
+	&bull; Stay ahead of scalability and performance issues.<br />
+	&bull; Use noSQL and other cutting edge technologies for solving scalability challenges with massive data sets<br />
+	&bull; Work with the management to understand user requirements and design appropriate solutions to problems at hand.<br />
+	&bull; Evaluate and integrate emerging data analytics techniques, tools and technologies.<br />
+	&bull; Blog about tips, tricks and trends in big data analysis.</p>
+<p>
+	<strong>Requirements</strong></p>
+<p>
+	&bull; B.S, M.S., Phd Computer Science.<br />
+	&bull; Expert knowledge developing and debugging in C/C++, MySql.<br />
+	&bull; Strong experience with server-side programming.<br />
+	&bull; Experience in Memcached, Membase, Couchbase is a plus.<br />
+	&bull; Experience with scripting languages such as Perl, Python, PHP, Ruby and shell scripts.<br />
+	&bull; Extensive knowledge of Unix/Linux environments.<br />
+	&bull; Knowledge of TCP/IP and network programming.<br />
+	&bull; Experience with Git.</p>
+<p>
+	&bull; Proven ability to translate insights into business recommendations.<br />
+	&bull; Strong analytical and problem solving skills and a passion for debugging and problem investigation are a must.<br />
+	&bull; Must be able to independently design code and test major features, as well as work jointly with other team members to deliver complex changes.<br />
+	&bull; Highly motivated and self driven who can work with minimal oversight.</p>
+<p>
+	<strong>Salary / Benefits</strong></p>
+<p>
+	&bull; You will work directly with the co-founder&#39;s of the company.<br />
+	&bull; We offer competitive salaries and full benefits, including health, dental, vacation and stock options.<br />
+	&bull; You will be an early employee and will get to make a significant impact on evolution of the company.<br />
+	&nbsp;</p>
+<p>
+	<em>Viralheat is an Equal Opportunity Employer.</em></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/viralheat/Pg1hp8"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110821173651_2DDIJXDWVYVPC9XE]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Technical Customer Support Specialist]]></title>
+			<department><![CDATA[Customer Support]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://viralheat.theresumator.com/apply/yxjSBF/Technical-Customer-Support-Specialist.html]]></url>
+			<city><![CDATA[San Mateo]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94404]]></postalcode>
+			<description><![CDATA[<p>
+Viralheat is a venture-backed social media analytics and intelligence firm based in San Mateo, California. Viralheat is a powerful, simple, yet affordable way for brands, agencies, marketers and content producers to measure, analyze and engage the social web. Viralheat&#39;s intelligence platform is connecting businesses, large and small, to the social web and changing the way business is done.</p>
+<p>
+Viralheat is looking for a customer support specialist to join our team. You are the first to help when our customer base has questions and dedicate time to helping them, solving problems and improving customer satisfaction. We believe in preemptive support, our system will let you know when something is not right with an account and we reach out to help the customer even before they know they need help. Your daily tasks involve fielding incoming emails, phone calls, monitoring the system to for problems with customer accounts and gathering feedback. You should also be able to spot trends, gather usage patterns and analyze incoming customers requests for improvement in our product. We use customer feedback to guide our product roadmap so an analytical mindset and out-of-the-box thinking approach is absolutely critical.</p>
+<p>
+Our team is comprised of problem solvers and innovative people. We are looking for a creative, hard-working and analytical person with a positive outlook and a customer-driven DNA. You will be trusted to work autonomously, you&rsquo;ll get to express your skills creatively, have a great deal of control over your work, be a part of something bigger and have a great time doing it.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+A passion for social media, analytics and SaaS.</li>
+<li>
+Provide excellent customer service &ndash; the ability to be patient, accurate, compassionate, responsive and resourceful.</li>
+<li>
+An appreciation for easy to use, intuitive software.</li>
+<li>
+Ability to evaluate, troubleshoot, and follow-up on customer issues as well as replicate and document for further escalation.</li>
+<li>
+Fielding incoming emails and phone calls while increasing customer satisfaction levels.</li>
+<li>
+Understanding the product, systems and processes: features and functionality, pricing.</li>
+<li>
+Tracking bug fixes, feature updates,&nbsp;sales activities, customer interactions, and customer data within our internal systems.</li>
+<li>
+Weekly reporting on metrics.</li>
+<li>
+Authoring knowledge-base articles and FAQ&rsquo;s.</li>
+<li>
+WOWing our customers and building relationships.</li>
+</ul>
+<p>
+<strong>Experience / Skills</strong></p>
+<ul>
+<li>
+Good understanding of a customer support software like Assistly or Zendesk.</li>
+<li>
+Knowledge of PivotalTracker or other bug/feature tracking tool</li>
+<li>
+Highly adaptive, and a fast learner who will thrive in learning/working with new products.</li>
+<li>
+Ability to process a large volume of customer inquiries.</li>
+<li>
+Ability to multi-task, prioritize and complete workload.</li>
+<li>
+Strong communication &ndash; written and oral.</li>
+<li>
+Meticulous attention to detail.</li>
+<li>
+Analytical and problem solving.</li>
+<li>
+Strong computer skills.</li>
+<li>
+Both an independent worker and pro-active team player.</li>
+</ul>
+<p>
+<strong>Salary / Benefits</strong></p>
+<ul>
+<li>
+We offer competitive salaries and full benefits, including health, dental, vacation and stock options.</li>
+<li>
+You will work directly with the co-founders of the company.</li>
+<li>
+You will be an early employee and we can offer attractive equity.<br />
+&nbsp;</li>
+</ul>
+<p>
+<em>Viralheat is an Equal Opportunity Employer</em></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/viralheat/yxjSBF"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110821214358_QFLMDRJPKUR15JSV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Machine Learning Architect]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://viralheat.theresumator.com/apply/iIR3AN/Machine-Learning-Architect.html]]></url>
+			<city><![CDATA[San Mateo]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94404]]></postalcode>
+			<description><![CDATA[<p>
+	Viralheat is a venture-backed social media analytics and intelligence firm based in San Mateo, California. Viralheat is a powerful, simple, yet affordable way for brands, agencies, marketers and content producers to measure, analyze and engage the social web. Viralheat&#39;s intelligence platform is connecting businesses, large and small, to the social web and changing the way business is done.</p>
+<p>
+	We are looking for someone who can tear apart a problem and come up with creative solutions to solve them. You will head our efforts to do some of the most advanced analytics on social media.<br />
+	<br />
+	Our problems include Semantic Analysis of social data, (entity extraction, entity relation extraction and entity resolution, data classification, categorization, tagging, summarization and quality analysis) Data processing (HTML parsing, Section/Sentence/Word breaking and Encoding/Language detection) and Linguistic Analysis (POS tagging, Morphology, Phrase detection, Sentence parsing). You&#39;ll be given a datastore of hundreds of millions of pieces of content to work with, and you&#39;ll be tasked at using your ingenuity to create ways to structure the highly unstructured social data and pull out relevant and related information from over 200 million mentions that we are aggregating every week.</p>
+<p>
+	You are basically a NLP and machine learning guru. You also have the programming chops to implement your ideas. You can be both pragmatic about making immediate progress, understand long term gains, and set and meet appropriate metrics to show progress. You will be hands on, leading ideas, implementation and eventually a team of engineers.</p>
+<p>
+	<strong>Responsibilities</strong></p>
+<p>
+	&bull; Collaborate with co-founder&#39;s and engineering to define product.<br />
+	&bull; Improving sentiment and intent classification precision.<br />
+	&bull; Semantic analysis, Data parsing &amp; Linguistic analysis.<br />
+	&bull; Provide technical leadership and guidance in driving big data analytics.<br />
+	&bull; Apply machine learning techniques to massive data sets.<br />
+	&bull; Evaluate and integrate emerging data analytics techniques, tools and technologies.<br />
+	&bull; Blog about tips, tricks and trends in NLP, machine learning and big data analysis.</p>
+<p>
+	<strong>Requirements</strong></p>
+<p>
+	&bull; M.S. Computer Science. Ph.D. a plus. (with emphasis in data mining / machine learning / artificial intelligence / mathematics / statistics)<br />
+	&bull; Expert knowledge developing and debugging in C/C++, MySql.<br />
+	&bull; Experience in data mining, NLP and machine learning, data clustering and classification techniques is preferred.<br />
+	&bull; Experience with scripting languages such as Perl, Python, PHP, Ruby and shell scripts.<br />
+	&bull; Extensive knowledge of Unix/Linux environments.<br />
+	&bull; Knowledge of TCP/IP and network programming.</p>
+<p>
+	&bull; Proven ability to translate insights into business recommendations<br />
+	&bull; Strong analytical and problem solving skills and a passion for debugging and problem investigation are a must.<br />
+	&bull; Must be able to independently design code and test major features, as well as work jointly with other team members to deliver complex changes.<br />
+	&bull; Highly motivated and self driven who can work with minimal oversight.&nbsp;</p>
+<p>
+	<strong>Salary / Benefits</strong></p>
+<p>
+	&bull; We offer competitive salaries and full benefits, including health, dental, vacation and stock options.<br />
+	&bull; You will work directly with the co-founder&#39;s of the company.<br />
+	&bull; You will be an early employee and will get to make a significant impact on evolution of the company.<br />
+	&nbsp;</p>
+<p>
+	<em>Viralheat is an Equal Opportunity Employer<br />
+	&nbsp;</em></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/viralheat/iIR3AN"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120910072204_GUNQ5ZVI0PUHYLVI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Ruby on Rails Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://viralheat.theresumator.com/apply/06kAF2/Ruby-On-Rails-Developer.html]]></url>
+			<city><![CDATA[San Mateo]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94404]]></postalcode>
+			<description><![CDATA[<p>
+	Viralheat is a venture-backed highly disruptive social media analytics and intelligence firm based in San Mateo, California.</p>
+<p>
+	We are looking for experienced full-stack Ruby on Rails developers to join our application development team.</p>
+<p>
+	You will be working on a highly agile and diverse team, where everyone gets to see immediate benefits from their work. If you like to come in to work with passion and leave work with satisfaction, you&#39;ll fit right in! If you appreciate Agile and Lean development practices, focus on a business value and understand what continuous improvement means, this is the place for you!</p>
+<p>
+	We have disrupted the social media analytics industry and have democratized data analysis. Thousands of small and medium businesses depends on Viralheat to draw actionable insights an understand how to engage with social media. The challenge is to make data beautiful. You will be working on all aspects of our front-end and middle-tier technology stacks including the dashboard, notifications, email reports, Excel and PDF reports and the API&#39;s.</p>
+<p>
+	<strong>Responsibilities</strong></p>
+<ul>
+	<li>
+		Develop the next generation social media intelligence platform.</li>
+	<li>
+		Drive and participate in feature requirements, architecture, and design specification reviews.</li>
+	<li>
+		Collaborate with the engineering team to design and implement product features in a fast-paced environment following agile development methodology.</li>
+	<li>
+		Work with the management to understand user requirements and design elegant solutions to problems at hand.</li>
+	<li>
+		Participate in planning, estimating and scheduling activities</li>
+	<li>
+		Blog about tips, tricks and trends in ruby on rails development.</li>
+</ul>
+<p>
+	<strong>Requirements</strong></p>
+<ul>
+	<li>
+		Bachelor&#39;s or Master&#39;s degree in Computer Science (or related technical discipline)</li>
+	<li>
+		Extensive experience with Ruby on Rails. (We are primarily a rails shop)</li>
+	<li>
+		Strong SQL skills and knowledge of database concepts; familiarity with one of the major databases a plus (Oracle, PostgreSQL, MySQL)</li>
+	<li>
+		Experience with OAuth, integration of 3rd party services (Twitter, Facebook, YouTube) and dealing with APIs is a major plus.</li>
+	<li>
+		Passion for building modern, intuitive and elegant user interfaces.</li>
+	<li>
+		Expert level experience with JavaScript, CSS, and AJAX development.</li>
+	<li>
+		Extensive experience with JavaScript frameworks such as JQuery, JQuery UI.</li>
+	<li>
+		Solid understanding of techniques used to optimize web performance.</li>
+	<li>
+		Experience using Git version control</li>
+	<li>
+		Excellent communication and written skills</li>
+	<li>
+		PLUS : Test-driven Development skill set is a big plus</li>
+</ul>
+<p>
+	<strong>Salary / Benefits</strong></p>
+<ul>
+	<li>
+		You will work directly with the co-founder&#39;s of the company.</li>
+	<li>
+		We offer competitive salaries and full benefits, including health, dental, vacation and stock options.</li>
+	<li>
+		You will be an early employee and will get to make a significant impact on evolution of the company.</li>
+	<li>
+		We will offer relocation benefits (if you&rsquo;re not currently in the Bay area) for the right candidate.</li>
+</ul>
+<p>
+	<strong>Perks</strong></p>
+<ul>
+	<li>
+		Three weeks of Paid time off.</li>
+	<li>
+		Choose your own setup. Macbook Pros, Dual monitors make you more productive.</li>
+	<li>
+		Catered lunches.</li>
+	<li>
+		A fully stocked &amp; open kitchen.</li>
+	<li>
+		Office coffee machine with a wide variety of coffee and tea.</li>
+	<li>
+		Social events (like Happy hours).</li>
+	<li>
+		And much more!</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	<em>Viralheat is an Equal Opportunity Employer.</em></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/viralheat/06kAF2"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110823003547_CJMLML4ITTSCMZ0O]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Interface Designer]]></title>
+			<department><![CDATA[Design]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://viralheat.theresumator.com/apply/aWiKoT/Interface-Designer.html]]></url>
+			<city><![CDATA[San Mateo]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94404]]></postalcode>
+			<description><![CDATA[<p>
+	Viralheat is a venture-backed social media analytics and intelligence firm based in San Mateo, California. Viralheat is a powerful, simple, yet affordable way for brands, agencies, marketers and content producers to measure, analyze and engage the social web. Viralheat&#39;s intelligence platform is connecting businesses, large and small, to the social web and changing the way business is done.</p>
+<p>
+	We are seeking a passionate interface designer to join our front-end team. As a member of our multi-disciplinary team you will be responsible for crafting the future of our service. We pride ourselves on rethinking established paradigms and redefining elegance in software. By humanizing complicated systems, our aim is to perfect social media analytics, intelligence, and engagement as social interactions.</p>
+<p>
+	You will be working closely with engineers, analysts, product managers, and the rest of our growing company to ensure that designs are properly communicated and implemented.</p>
+<p>
+	<strong>Responsibilities</strong></p>
+<p>
+	&bull; Work closely with the rest of the product team.<br />
+	&bull; Guide the visual and interactive evolution of the product across multiple platforms.<br />
+	&bull; Translate complex ideas into elegant, intuitive designs<br />
+	&bull; Assist with requirements gathering and functional specification creation. <br />
+	&bull; Participate in planning, estimating and scheduling activities. <br />
+	&bull; Mentor and share knowledge with other technical and non-technical staff.<br />
+	&bull; Blog about tips, tricks and trends in UX and interface design.</p>
+<p>
+	<strong>Requirements</strong></p>
+<p>
+	&bull; Extensive experience designing beautiful, engaging user experiences for desktop, web, and mobile devices such as the iPhone, iPad, or Android.<br />
+	&bull; Well-versed in fundamental visual and interactive design disciplines and principles.<br />
+	&bull; Ability to visualize, own, and execute the creation of an experience from initial conception to collaborating with engineers on implementation.<br />
+	&bull; Must be capable of rendering gorgeous visuals &ndash; anything ranging from content layout to form elements and textures.<br />
+	&bull; Proficiency with the Adobe Creative Suite (Photoshop and Illustrator in particular).<br />
+	&bull; Ability to deliver solid designs on a tight deadline.<br />
+	&bull; Expert eye for detail and consistency; no detail is too small or insignificant.<br />
+	&bull; Comfortable with an iterative design process that includes accepting and managing feedback and constructive criticism.<br />
+	&bull; Self-motivated with the ability to work independently.<br />
+	&bull; Excellent collaborative skills.</p>
+<p>
+	<strong>Salary / Benefits</strong></p>
+<p>
+	&bull; You will work directly with the co-founder&#39;s of the company.<br />
+	&bull; We offer competitive salaries and full benefits, including health, dental, vacation and stock options.<br />
+	&bull; You will be an early employee and will get to make a significant impact on evolution of the company.<br />
+	<em><strong>&bull; We will offer relocation benefits (if you&rsquo;re not currently in the Bay area) for the right candidate.</strong></em></p>
+<p>
+	<em>Viralheat is an Equal Opportunity Employer.</em></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/viralheat/aWiKoT"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120109073954_XI7GWO44VXDN6HDG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Product Manager]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://viralheat.theresumator.com/apply/FSgIJ1/Senior-Product-Manager.html]]></url>
+			<city><![CDATA[San Mateo]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94404]]></postalcode>
+			<description><![CDATA[<p>
+	Viralheat is a venture-backed social media analytics and intelligence firm based in San Mateo, California. Viralheat is a powerful, simple, yet affordable way for brands, agencies, marketers and content producers to measure, analyze and engage the social web. Viralheat&#39;s intelligence platform is connecting businesses, large and small, to the social web and changing the way business is done.</p>
+<p>
+	We have disrupted the social media analytics industry and have democratized data analysis. Thousands of small and medium businesses depends on Viralheat to draw actionable insights an understand how to engage with social media. We&rsquo;re looking for a product manager to help us wrangle all the ideas we have, features we want and audiences we would like to serve.</p>
+<p>
+	<strong>Responsibilities</strong></p>
+<p>
+	&bull; Work with engineering and marketing to create the ideation, technical development, and launch of innovative products.<br />
+	&bull; Identify market opportunities, build business cases and define product plans and definitions.<br />
+	&bull; Foster a shared vision at Viralheat by building consensus on priorities leading to product execution.<br />
+	&bull; Drive product development with our team of awesome engineers.<br />
+	&bull; Integrate usability studies, research and market analysis into product requirements to enhance user satisfaction.<br />
+	&bull; Define and analyze metrics that inform the success of products.<br />
+	&bull; Understand Viralheat&rsquo;s strategic and competitive position and deliver products that are recognized best in the industry.<br />
+	&bull; Maximize efficiency in a constantly evolving environment where the process is fluid and creative solutions are the norm.</p>
+<p>
+	<strong>Requirements</strong></p>
+<p>
+	&bull; 3+ years product management or product design experience with a SAAS company managing web-based products.<br />
+	&bull; Expert knowledge of SaaS software development and Agile processes.<br />
+	&bull; Exceptional communication and presentation skills.<br />
+	&bull; Exceptional organizational and analytical skills.<br />
+	&bull; Understanding of the technical architecture of complex and highly scalable SaaS products.<br />
+	&bull; Experience designing simple and intuitive user interfaces &ndash; ability to create examples through wire frames and mock ups.<br />
+	&bull; Experience developing social products, technologies and platforms is strongly desired.<br />
+	&bull; Self-motivated strategic thinker with proven ability to manage multiple projects, set priorities, and meet deadlines.<br />
+	&bull; Love of analytics and startup life.<br />
+	&bull; Strong aptitude for determining the optimal way to position products in the market.<br />
+	&bull; Passion for technology with a technical understanding of web marketing, online applications, and internet services markets.<br />
+	&bull; BA/BS degree &ndash; CS/EE/Engineering degree preferred.</p>
+<p>
+	<strong>Salary &amp; Benefits</strong></p>
+<p>
+	&bull; You will work directly with the co-founder&#39;s of the company.<br />
+	&bull; We offer competitive salaries and full benefits, including health, dental, vacation and stock options.<br />
+	&bull; You will be an early employee and will get to make a significant impact on evolution of the company.<br />
+	<em><strong>&bull; We will offer relocation benefits (if you&rsquo;re not currently in the Bay area) for the right candidate.</strong></em></p>
+<p>
+	<em>Viralheat is an Equal Opportunity Employer.</em></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/viralheat/FSgIJ1"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120412213150_SUSWROB3ADIMCN0N]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Ruby on Rails Intern]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://viralheat.theresumator.com/apply/47YNDw/Ruby-On-Rails-Intern.html]]></url>
+			<city><![CDATA[San Mateo]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94404]]></postalcode>
+			<description><![CDATA[<p>
+	Viralheat is a venture-backed social media analytics and intelligence firm based in San Mateo, California. Viralheat is a powerful, simple, yet affordable way for brands, agencies, marketers and content producers to measure, analyze and engage the social web. Viralheat&#39;s intelligence platform is connecting businesses, large and small, to the social web and changing the way business is done.</p>
+<p>
+	We are looking for interns to join our front-end web development team. We have multiple openings for this position. We have disrupted the social media analytics industry and have democratized data analysis. Thousands of small and medium businesses depends on Viralheat to draw actionable insights an understand how to engage with social media. The challenge is to make data beautiful. You will be working on all aspects of our front-end technology stack including the dashboard, notifications, email reports, Excel and PDF reports and the API&#39;s.</p>
+<p>
+	<strong>Responsibilities</strong></p>
+<p>
+	&bull; Develop the front-end of the next generation social media intelligence platform.<br />
+	&bull; Drive and participate in feature requirements, architecture, and design specification reviews.<br />
+	&bull; Collaborate with the engineering team to design and implement product features in a fast-paced environment following agile development methodology.<br />
+	&bull; Work with the management to understand user requirements and design elegant solutions to problems at hand.<br />
+	&bull; Participate in planning, estimating and scheduling activities<br />
+	&bull; Blog about tips, tricks and trends in ruby on rails development.</p>
+<p>
+	<strong>Requirements</strong></p>
+<p>
+	&bull; Bachelor&#39;s or Master&#39;s degree in Computer Science (or related technical discipline)<br />
+	&bull; SQL skills and knowledge of database concepts; familiarity with one of the major databases a plus (Oracle, PostgreSQL, MySQL)<br />
+	&bull; Passion for building modern, intuitive and elegant user interfaces.<br />
+	&bull; Some experience with JavaScript, CSS, and AJAX development.<br />
+	&bull; Some experience with JavaScript frameworks such as JQuery, JQuery UI.<br />
+	&bull; Understanding of techniques used to optimize web performance.<br />
+	&bull; Experience using Git version control<br />
+	&bull; Excellent communication and written skills</p>
+<p>
+	<strong>Salary / Benefits</strong></p>
+<p>
+	&bull; You will work directly with the co-founder&#39;s of the company.<br />
+	&bull; We offer competitive salaries to all our interns.</p>
+<p>
+	<em>Viralheat is an Equal Opportunity Employer.&nbsp;</em></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/viralheat/47YNDw"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121227022637_ZKJ7AOW686TAXWJH]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sales Development Representative]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://viralheat.theresumator.com/apply/d6Vcgq/Sales-Development-Representative.html]]></url>
+			<city><![CDATA[San Mateo]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94404]]></postalcode>
+			<description><![CDATA[<p>
+<strong>COMPANY DESCRIPTION</strong></p>
+<p>
+<br />
+Viralheat is a social media and real time web analytics company offering a SaaS solution to businesses of all sizes. We are a growing and dynamic team, determined to create a powerful user experience.&nbsp;</p>
+<p>
+<strong>JOB DESCRIPTION</strong></p>
+<p>
+We are looking to grow our sales team here in the US. This is a rare opportunity to join a quickly growing startup with proven market demand and sales.<br />
+&nbsp;<br />
+Responsibilities include:<br />
+&nbsp;<br />
+- Quickly understanding the new social media technologies provided by Facebook, Twitter, LinkedIn and other major social platforms for third-party websites;</p>
+<p>
+<br />
+- Generating new business opportunities through outreach to targeted industries.<br />
+&nbsp;<br />
+- Conduct high level conversations with Senior Level executives<br />
+&nbsp;<br />
+- Utilize the best sales 2.0 technologies<br />
+&nbsp;<br />
+- Providing valuable market and product feedback to continue to drive Viralheat&#39;s business strategy.<br />
+&nbsp;<br />
+You will attain an incredible amount of experience with a premier start-up in Silicon Valley by working with a management team with a proven track record and high profile investors. You will ride the thrilling growth curve of scaling a SaaS business model within the online marketing space in the VERY hot segment of social media.</p>
+<p>
+<strong>QUALIFICATIONS</strong></p>
+<p>
+<br />
+4-year degree required<br />
+Strong written and verbal skills<br />
+Passion for technology<br />
+Ability to work in a fast-paced, team environment<br />
+Must be highly motivated, tenacious, and self-starters<br />
+&nbsp;<br />
+<strong>BONUS POINTS</strong><br />
+&nbsp;<br />
+Prior successful sales or lead qualification experience is a plus but not necessary<br />
+Language skills are a big bonus!</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/viralheat/d6Vcgq"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130110081407_X5UEVT1QDEGCSWQN]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sales Development Rep]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://viralheat.theresumator.com/apply/DZuhZj/Sales-Development-Rep.html]]></url>
+			<city><![CDATA[San Mateo, CA]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94404]]></postalcode>
+			<description><![CDATA[<p>
+<strong>COMPANY DESCRIPTION</strong></p>
+<p>
+<br />
+Viralheat is a social media and real time web analytics company offering a SaaS solution to businesses of all sizes. We are a growing and dynamic team, determined to create a powerful user experience.</p>
+<p>
+We offer excellent medical benefits, competitive compensation, equity positions and lunch delivered Monday through Wednesday. We&rsquo;re currently located in San Mateo, CA and we keep a fully stocked kitchen!<br />
+&nbsp;</p>
+<p>
+<strong>JOB DESCRIPTION</strong></p>
+<ul>
+<li>
+Prospect, educate, qualify, and develop accounts and inbound leads to create sales-ready leads and opportunities</li>
+<li>
+Interact with prospects via email</li>
+<li>
+Research accounts, identify key players, generate interest and develop accounts to stimulate opportunity</li>
+<li>
+Disseminate opportunities to appropriate account executive, educating rep as necessary about the opportunity</li>
+<li>
+Successfully manage and overcome prospect objections</li>
+<li>
+Become a trusted resource and develop superior relationships with prospects</li>
+<li>
+Update lead scoring and prospect interaction in salesforce.com to ensure efficient lead management</li>
+<li>
+Consistently achieve qualified opportunity quotas to ensure territory revenue objectives.</li>
+<li>
+Provide closed-loop feedback to ensure continuous process optimization</li>
+</ul>
+<p>
+<strong>QUALIFICATIONS</strong></p>
+<ul>
+<li>
+A self-starter with a track record of successful, credible lead follow-up and sales development at multiple executive levels within an organization; familiarity with marketing automation space a plus.</li>
+<li>
+Pre-call planning</li>
+<li>
+Opportunity qualification and objection handling</li>
+<li>
+Call structure and control</li>
+<li>
+Time and territory management</li>
+<li>
+Proven track record achieving measurable inside sales goals in an automated sales environment where accurate entry and management of lead data in a CRM system was required</li>
+<li>
+Ability to work in a high-energy sales team environment; team player</li>
+<li>
+Positive and energetic phone skills, excellent listening skills, strong writing skills</li>
+<li>
+The highest level of integrity</li>
+<li>
+Proficient with standard corporate productivity tools (email, voicemail, MS Office)</li>
+<li>
+4-year College degree required</li>
+<li>
+Sales training and salesforce.com experience a plus</li>
+</ul>
+<p>
+<strong>Salary / Benefits</strong></p>
+<ul>
+<li>
+You will work directly with the co-founder&#39;s of the company.</li>
+<li>
+We offer competitive salaries and full benefits, including health, dental, vacation and stock options.</li>
+<li>
+You will be an early employee and will get to make a significant impact on evolution of the company.</li>
+<li>
+We will offer relocation benefits (if you&rsquo;re not currently in the Bay area) for the right candidate.</li>
+</ul>
+<p>
+Viralheat is an Equal Opportunity Employer.<br />
+All your information will be kept confidential according to EEO guidelines.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/viralheat/DZuhZj"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[DoYouBuzz]]></company>
+			<job>
+			<id><![CDATA[job_20090823153412_UHN3A2I7NLKYLOAJ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[test]]></title>
+			<department><![CDATA[test]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://doyoubuzz.theresumator.com/apply/4KpFBt/Test.html]]></url>
+			<city><![CDATA[nantes]]></city>
+			<state><![CDATA[zzzz]]></state>
+			<country><![CDATA[France]]></country>
+			<postalcode><![CDATA[44000]]></postalcode>
+			<description><![CDATA[<p>rqefrff  zffee</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/doyoubuzz/4KpFBt"></script>]]></buttons>
+		</job>
+	</jobs>

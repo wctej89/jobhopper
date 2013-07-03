@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Zemanta]]></company>
+			<job>
+			<id><![CDATA[job_20120828193711_NNV72LLP0K9VEM6F]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Junior Data Integration Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://zemanta.theresumator.com/apply/tL5hAq/Junior-Data-Integration-Engineer.html]]></url>
+			<city><![CDATA[Ljubljana]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Slovenia]]></country>
+			<postalcode><![CDATA[1000]]></postalcode>
+			<description><![CDATA[<p>
+	Zemanta uses a large knowledge database to collect data on people and things the web writes about and from which our natural language processing engine can learn and suggest content to bloggers.<br />
+	Zemanta is looking for junior data engineer</p>
+<p>
+	Zemanta team having an awesome team building weekend.</p>
+<p>
+	Keeping this repository up to date with numerous sources from around the world is an exciting and challenging task and we are expanding our team with a junior engineer to work in this field.</p>
+<p>
+	Expect to be:</p>
+<p>
+	&nbsp;&nbsp;&nbsp; integrating databases from our partners using Google Refine and Freebase<br />
+	&nbsp;&nbsp;&nbsp; working on automatic reconciliation of entities, fusion of datasets, schema alignment<br />
+	&nbsp;&nbsp;&nbsp; linking Open Data<br />
+	&nbsp;&nbsp;&nbsp; crawling web APIs and an occasional screen-scrape<br />
+	&nbsp;&nbsp;&nbsp; learning about existing cutting-edge tools, open source or proprietary, enhancing them and creating new ones<br />
+	&nbsp;&nbsp;&nbsp; being ambushed by data, from Excel sheets to multi-million-row SQL databases<br />
+	&nbsp;&nbsp;&nbsp; making best-effort compromises in an imperfect world<br />
+	&nbsp;&nbsp;&nbsp; working closely with our sales team and our clients around the world solving technical difficulties and bridging technology gaps</p>
+<p>
+	You should have experience in software development and knowing Python, Perl, PHP or shell programming is a plus. You should also enjoy working with others to solve complex challenges and be self-reliant the rest of the time.</p>
+<p>
+	What we offer is an ability to work on an exciting global project, growing your knowledge and experience by competing with other global tech companies, some stress and adrenalin, flexible schedule, competitive pay, team of bright peers and cutting edge tech.</p>
+<p>
+	We&rsquo;re expecting applications in English. You should send a short CV and explain persuasively why we should hire you. We&rsquo;re especially interested in your hobby, student or open source side projects. This job is located in our Ljubljana, Slovenia headquarters. E-mail us at jobs@zemanta.com.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/zemanta/tL5hAq"></script>]]></buttons>
+		</job>
+	</jobs>

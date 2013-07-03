@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Polyvore]]></company>
+			<job>
+			<id><![CDATA[job_20120912230054_0LZ2QVXYOLRVLCX6]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sample Job]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://polyvore.theresumator.com/apply/ue4VZ7/Sample-Job.html]]></url>
+			<city><![CDATA[Pittsburgh]]></city>
+			<state><![CDATA[PA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[15212]]></postalcode>
+			<description><![CDATA[<p>
+You can enter a detailed, formatted description of your position.</p>
+<p>
+We have a fully featured WYSIWYG editor which enables you to craft that perfectly formatted bulleted list. So go get that new candidate!</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/polyvore/ue4VZ7"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120912230336_XQCUFA11XDWPZ9L2]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[test]]></title>
+			<department><![CDATA[engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://polyvore.theresumator.com/apply/pLxs7Y/Test.html]]></url>
+			<city><![CDATA[mountain view]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94041]]></postalcode>
+			<description><![CDATA[<p>
+	hello</p>
+]]></description>
+			<type><![CDATA[Part Time to Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/polyvore/pLxs7Y"></script>]]></buttons>
+		</job>
+	</jobs>

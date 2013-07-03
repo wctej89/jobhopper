@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Wheely]]></company>
+			<job>
+			<id><![CDATA[job_20110609132107_3WASD93XHGLNAYXQ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Android Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://wheely.theresumator.com/apply/ManVn7/Android-Developer.html]]></url>
+			<city><![CDATA[Moscow]]></city>
+			<state><![CDATA[119072]]></state>
+			<country><![CDATA[Russian Federation]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+	Wheely is eBookers for ground travel. It lets you book a taxi in a few clicks from your mobile phone. It is as easy as checking in on Foursquare.</p>
+<div class="header">
+	What you&#39;ll do:</div>
+<p>
+	You&#39;ll develop the Android client from scratch, including UI, design, implementation and testing, and will work closely with backend engineers and mobile developers on other platforms.</p>
+<div class="header">
+	What we look for:</div>
+<ul>
+	<li>
+		Working knowledge of one or more mobile SDKs, especially Android, BlackBerry, iOS</li>
+	<li>
+		Solid understanding of what happens on the server side</li>
+	<li>
+		Fluent in current UX&nbsp;practices on mobile platforms</li>
+</ul>
+<div class="header">
+	What you&#39;ll get:</div>
+<ul>
+	<li>
+		Office in the <a href="http://www.digitaloctober.com" target="_blank">Digital October</a> tech incubator (metro &quot;Borovitzkaya&quot;, &nbsp;&quot;Kropotinskaya&quot;, &quot;Polyanka&quot; or &quot;Tretyakovskaya&quot;)&nbsp;</li>
+	<li>
+		Cafeteria &amp; gym</li>
+	<li>
+		An Android device of your choice</li>
+	<li>
+		You&#39;ll be equipped with a 27&#39; iMac or a 15&#39; MacBook Pro and your very own Github&nbsp;coffee cup!</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/wheely/ManVn7"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110609104941_VYUFZF9CZJ6PZLSW]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://wheely.theresumator.com/apply/7eUhNV/Software-Engineer.html]]></url>
+			<city><![CDATA[Moscow]]></city>
+			<state><![CDATA[119072]]></state>
+			<country><![CDATA[Russian Federation]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+	Wheely is eBookers for ground travel. It lets you book a taxi in a few clicks from your mobile phone. It is as easy as checking in on Foursquare.</p>
+<div class="header">
+	What you&#39;ll do:</div>
+<p>
+	You&#39;ll work on our backend systems that integrates with taxi companies, supply chain,&nbsp;geolocation, internal tools for visualization/support and our mobile web client.</p>
+<div class="header">
+	What we look for:</div>
+<ul>
+	<li>
+		Experience with Ruby on Rails, or any other web technologies (PHP, Django, etc.) and the wish to switch to Ruby</li>
+	<li>
+		Excellent understanding of the underlying technologies (HTTP, databases, JS, NoSQL, etc.)</li>
+</ul>
+<div class="header">
+	What you&#39;ll get:</div>
+<ul>
+	<li>
+		We work with all of the latest craze: Ruby 1.9, Goliath, Mongo, Redis, Heroku, etc..</li>
+	<li>
+		Office in the <a href="http://www.digitaloctober.com" target="_blank">Digital October</a> tech incubator (metro &quot;Borovitzkaya&quot;, &nbsp;&quot;Kropotinskaya&quot;, &quot;Polyanka&quot; or &quot;Tretyakovskaya&quot;)&nbsp;</li>
+	<li>
+		Cafeteria &amp; gym</li>
+	<li>
+		You&#39;ll be equipped with a 27&#39; iMac or a 15&#39; MacBook Pro and your very own Github&nbsp;coffee cup!</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/wheely/7eUhNV"></script>]]></buttons>
+		</job>
+	</jobs>

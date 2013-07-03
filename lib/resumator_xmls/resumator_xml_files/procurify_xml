@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Procurify]]></company>
+			<job>
+			<id><![CDATA[job_20130624204516_BWKXEUTFE3LUXW2A]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Co-op Mobile Developer]]></title>
+			<department><![CDATA[Development Team]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://procurify.theresumator.com/apply/2GFfcr/Coop-Mobile-Developer.html]]></url>
+			<city><![CDATA[Richmond]]></city>
+			<state><![CDATA[British Columbia]]></state>
+			<country><![CDATA[Canada]]></country>
+			<postalcode><![CDATA[V6V 1J2]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Overview</strong></p>
+<p>
+Currently looking for a Co-Op student majoring either in Computer Science or Software Engineering to join on board for some hands-on learning and development of an mobile app utlizing our internal API from the cloud application.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Assets</strong></p>
+<ul>
+<li>
+Experience in Mobile development (iOS / Android)</li>
+<li>
+Experience in web protocols (RESTful APIs, MVC)</li>
+<li>
+Knowledge in HTML5</li>
+<li>
+Knowledge in Python</li>
+<li>
+Knowledge in responsive web</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/procurify/2GFfcr"></script>]]></buttons>
+		</job>
+	</jobs>

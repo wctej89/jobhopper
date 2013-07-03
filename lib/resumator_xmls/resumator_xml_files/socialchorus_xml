@@ -1,0 +1,692 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[SocialChorus]]></company>
+			<job>
+			<id><![CDATA[job_20120614235638_H37ZQZH9VYIUJUZO]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Ruby Engineer]]></title>
+			<department><![CDATA[Platform Development]]></department>
+			<team><![CDATA[Platform Development]]></team>
+			<url><![CDATA[http://socialchorus.theresumator.com/apply/0z0YyK/Ruby-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+<b>The short version:</b></p>
+<p>
+<span style="font-size: 12px;">Hi! We&#39;re hiring a Ruby Engineer here at SocialChorus</span><span style="font-size: 12px;">&nbsp;to work onsite at our office in </span><a href="https://maps.google.com/maps?q=703+Market+St+%23470,+San+Francisco,+CA&amp;hl=en&amp;sll=37.7577,-122.4376&amp;sspn=0.188375,0.417824&amp;oq=703&amp;hnear=703+Market+St+%23470,+San+Francisco,+California+94103&amp;t=m&amp;z=16" style="font-size: 12px;" target="_blank">San Francisco, CA</a><span style="font-size: 12px;">. This is a full time, regular position. &nbsp;We offer a market rate salary and the following: stock options, medical &amp; dental (we pay 100% of premiums), 401k. We actively promote diversity and encourage all qualified candidates to apply.</span></p>
+<p>
+<b style="font-size: 12px;">The company:</b></p>
+<p>
+<span style="font-size: 12px;">How cool would if a blogger with thousands of subscribers raved about your product or service in a blog post? Pretty sweet! Now imagine getting mentioned in 1,000 blogs, each with thousands of subscribers. (Pretty sweet!)^1000 is what we do here at SocialChorus.</span></p>
+<p>
+<span style="font-size: 12px;">SocialChorus is a cloud platform is for generating word of mouth advertising via social media. Got a cool product that needs more buzz? SocialChorus. While your competitors w/ boring products try to outspend each other on TV, Google, and newspaper ads (they still print newspapers?!), you&#39;re efficiently connecting with your customers where they spend time online: blogs, Pinterest, Twitter, Facebook, LinkedIn, etc.</span></p>
+<p>
+<span style="font-size: 12px;">It&#39;s a great time to join SocialChorus. Our sales are skyrocketing; leading companies with a mandate to generate revenue via social media are paying us to solve that problem. We&#39;re far enough along to be a real company and early enough to be interesting (post Series-A, pre-Series B). There&#39;s plenty of cash in the bank, we can ask for more when we need it, and we have a predictable growth plan.</span></p>
+<p>
+<b style="font-size: 12px;">The team:</b></p>
+<p>
+<span style="font-size: 12px;">As of today, there are 7 engineers on the team (3 women, 4 men) led by </span><a href="www.linkedin.com/pub/kane-baccigalupi/7/29b/916" style="font-size: 12px;" target="_blank">Kane</a><span style="font-size: 12px;">, our CTO. We enjoy working in an Agile way; we do quite a bit of pair programming, test driven development, and refactoring. There&#39;s also a nice balance between the how much we produce, the quality of our work, the fun we have as a team, and our ability to have lives outside of the office!</span></p>
+<p>
+<b style="font-size: 12px;">The role:</b></p>
+<p>
+<span style="font-size: 12px;">We need an Ruby Engineer with decent chops in JavaScript. While we do use Rails, we prefer pure Ruby when it&#39;s an option. Lately we&#39;ve been using Backbone.js and Node.js where it makes sense.</span></p>
+<p>
+<b style="font-size: 12px;">Stuff you&#39;ll be working on:</b></p>
+<p>
+<span style="font-size: 12px;">Building standalone web services as we grow. For example, a few months ago we needed to add functionality for our influencer app. We broke off a piece of code from our gnarled legacy Rails app and turned it into a shiny new Backbone.js app with great test coverage. We&#39;re quite proud of how well we&#39;ve been able to increase our velocity while doing some heavy refactoring.</span></p>
+<p>
+<span style="font-size: 12px;">We&#39;re currently building a REST API from the ground up. Our customers are quite excited about being able to transition from daily data dumps via spreadsheets to accessing their information on the fly and analyzing it in real time. This will be a fun project for people who enjoy how big data is used.</span></p>
+<p>
+<span style="font-size: 12px;">Exploring new technology options is a normal part of life here; we like using the best tool for the job. We&#39;re currently building an app in Node.js, our API is being written in a Ruby DSL called Grape, and anything else that makes sense is fair game. This includes traveling to your favorite tech conferences on our dime!</span></p>
+<p>
+<b style="font-size: 12px;">Almost done:</b></p>
+<p>
+<span style="font-size: 12px;">If you&#39;ve got questions and/or corny jokes, send us an </span><a href="mailto:michael.pope@socialchorus.com" rel="noreferrer" style="font-size: 12px;" target="_blank" title="[GMCP] Compose a new mail to email">email</a><span style="font-size: 12px;">! All inquiries receive a response.</span></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/socialchorus/0z0YyK"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121219004502_3ZFZXVY3DT65ZLTR]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Market Development Representative]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[Marketing Services]]></team>
+			<url><![CDATA[http://socialchorus.theresumator.com/apply/g8FA3O/Market-Development-Representative.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The company:</strong></p>
+<p>
+SocialChorus is the leading social word-of-mouth marketing solution for the brands that people love. SocialChorus customers, including dozens of Fortune 500 brands, inspire social advocates to deliver millions of trusted, social endorsements across all social channels.</p>
+<p>
+It&#39;s a great time to join SocialChorus. We have proven that 2-5% of a brand&rsquo;s social audience generates most of the social engagement, endorsement and referral; our solution powers those superfans to make it happen. Over 30 Fortune 500 brands have already implemented SocialChorus-powered marketing programs.</p>
+<p>
+We are leveraging the power of word-of-mouth with the scale and efficiency of the cloud, to deliver social ROI for our customers. We build and deliver everything with our amazing development and solution teams in San Francisco. We&#39;re far enough along to be a real company and early enough to be interesting (post Series-A, pre-Series B funding). We are backed by Kohlberg Ventures and relied on by brands like 3M, Intel, HTC and many others.</p>
+<p>
+<strong>The position:</strong></p>
+<p>
+SocialChorus is looking for a market development representative (MDR) to join our stellar team in downtown San Francisco and play a key role in our customer acquisition. The successful candidate will work with the marketing teams in three main capacities: lead generation, lead nurturing, and lead qualification via phone, social media and email.</p>
+<p>
+The MDR at SocialChorus will play a pivotal role as we continue to augment our sales and marketing teams to support our fast-growing business. You must be comfortable acting independently in an unstructured environment, operate proactively and have a true passion for SocialChorus&rsquo; vision and mission.</p>
+<p>
+An MDR is often the first point of customer contact and, as such, plays a vital role in establishing a very positive customer relationship, which will be maintained through the sales cycle and beyond. The successful candidate will be a self-starter, with a high-energy, positive phone presence, and a track record of effective, credible lead generation, follow-up and sales development.</p>
+<p>
+The Market Development Representative will be responsible for the following:</p>
+<ul>
+<li>
+Lead generation through target account selling, outbound cold calling, and calling on marketing-generated and inbound leads in order to set meetings for our sales executives.</li>
+<li>
+High quality and high volume outreach is a must.</li>
+<li>
+Disseminate opportunities to the sales team, educating sales team as necessary about the opportunity.</li>
+<li>
+Schedule appointments for sales team with suitable qualified leads.</li>
+<li>
+Provide weekly accurate, qualified sales opportunities to the sales team.</li>
+<li>
+Input and track all prospecting and lead management activities in Salesforce.com.</li>
+<li>
+Demonstrate thorough knowledge of SocialChorus product line and value proposition.</li>
+<li>
+Proactively look for opportunities to improve and optimize end-to-end lead management and other sales and marketing processes.</li>
+<li>
+Identify and understand trends within industries and customers, what makes a sales/marketing campaign successful and apply this knowledge to help generate further new business.</li>
+<li>
+Applicants should have a passion for&mdash;and basic understanding of&mdash;the social marketing space, with a desire to learn more.</li>
+<li>
+Remain knowledgeable and up-to-date on product, industry changes, and competitive landscape.</li>
+</ul>
+<p>
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+Minimum 1 year of lead generation or inside sales experience. Warm and cold calling experience required.</li>
+<li>
+College degree required</li>
+<li>
+Experience selling social and/or software-as-a-service preferred</li>
+<li>
+Must have strong organizational skills</li>
+<li>
+Must have great phone skills</li>
+<li>
+Experience with salesforce.com or other CRM system</li>
+<li>
+Ability to listen to customers and tailor future correspondence to address their needs.</li>
+<li>
+Aggressively hunt for new sales opportunities and follows-up leads in a professional manner.</li>
+<li>
+Desire and ability to think creatively, solve problems and use professional judgment</li>
+<li>
+Comfortable learning on the fly</li>
+<li>
+Must be independent, self-motivated and success-driven, yet willing to work within a team environment.</li>
+</ul>
+<p>
+<strong>Almost done:</strong></p>
+<p>
+This is a full-time, salaried position offering stock options, paid vacation, and benefits: medical, dental and 401k. You&#39;ll be working onsite at our office in San Francisco, CA. We actively promote diversity and encourage all qualified candidates to apply. If you&#39;ve got questions or want tell a corny joke, please send us an email.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/socialchorus/g8FA3O"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121205002450_LFKZEVXXH4RAYUXZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Product Manager]]></title>
+			<department><![CDATA[Product Management]]></department>
+			<team><![CDATA[Platform Development]]></team>
+			<url><![CDATA[http://socialchorus.theresumator.com/apply/FwR8zh/Product-Manager.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Industry:</strong></p>
+<p>
+Word-of-mouth marketing is the new advertising. &nbsp;Except rather than relying on Mad Men like ad execs, our customers believe that the best form of advertising is happy customers telling good stories about great products. &nbsp;That&#39;s what we call a social endorsement and it&#39;s far more likely to influence people than a fancy superbowl ad.</p>
+<p>
+<b>The company:</b></p>
+<p>
+SocialChorus is the leading social word-of-mouth marketing solution for the brands that people love. Our customers use our platform to inspire social advocates and deliver millions of trusted social endorsements across all social channels. &nbsp;Our platform does by combining the power of word-of-mouth with the scale and efficiency of the cloud, to deliver social ROI for our customers.</p>
+<p>
+We build and deliver everything with our amazing development and solution teams in San Francisco. We&#39;re far enough along to be a real company and early enough to be interesting (post Series-A, pre-Series B funding). We are backed by Kohlberg Ventures and relied on by brands like 3M, Intel, HTC and many others.</p>
+<p>
+<b>The position:</b></p>
+<p>
+<a href="http://www.linkedin.com/pub/gal-josefsberg/0/730/728" target="_blank">Gal Josefsberg</a>, our VP Products, is looking for a social media superstar w/ a strong interest in product management. Ideally we&#39;d find someone w/ 1-3 years as a product manager, but depth in social media is our primary need.</p>
+<p>
+We need someone who&#39;s built, worked with or managed a social site or application so when we ask you questions like &quot;what type of leaderboard should we build?&quot;, &quot;what calls to action work best in social?&quot; or &quot;do images or text work better in social?&quot; you should already know the answer rather than have to research it. &nbsp; That means folks who&#39;ve run social media marketing, program managers who ran advocacy campaigns in an agency or product managers who&#39;ve worked on a social product.</p>
+<p>
+<b>Projects ready and waiting for you:</b></p>
+<p>
+<u>Dashboard</u>: We collect an enormous amount of data and we&#39;re looking for better ways in which we can show this data to our customers and their influencers. You&#39;ll work with customer reps and our internal program managers to figure out what works and what doesn&#39;t. You&#39;ll also work with parter programs for most of the major social networks on how to get this information and what it means.</p>
+<p>
+<u>Gamification</u>: Our brand customers have loyal fans who are willing to act on their behalf, that&#39;s the whole point of Word-Of-Mouth marketing. How do we make these actions fun for them so they&#39;ll do even more? Should we implement badges? Point accumulation? Leaderboards? You&#39;ll survey actual fans and influencers to see what motivates them plus do extensive market research on gamification to see which models are best suited for our needs.</p>
+<p>
+<u>Facebook Open Graph Data</u>: There&#39;s a lot of data in Facebook, almost too much. Which data points are valuable? Which ones should we collect? How do we get the right data while also being sensitive to the privacy needs of our customers and influencers? This is your chance to become a thoughtleader in an exciting and new space that&#39;s going to be extremely important in the future.</p>
+<p>
+<b>The details:</b></p>
+<p>
+This is a full-time, salaried position offering stock options, paid vacation, and benefits: medical, dental, 401k. You&#39;ll be working onsite at <a href="https://maps.google.com/maps?q=703+Market+Street+Unit+470,+San+Francisco,+ca+94103&amp;hl=en&amp;sll=37.269174,-119.306607&amp;sspn=12.126169,26.762695&amp;hnear=703+Market+St+%23470,+San+Francisco,+California+94103&amp;t=m&amp;z=16&amp;iwloc=A" rel="nofollow" target="_blank">our office</a> in San Francisco, CA. We actively promote diversity and encourage all qualified candidates to apply. &nbsp;If you&#39;ve got questions or want tell a corny joke, please send us an <a href="mailto:michael.pope@socialchorus.com" target="_blank">email</a>.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/socialchorus/FwR8zh"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130325234407_LRMLPBKOZ6CZ5SM8]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sr. Ruby Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://socialchorus.theresumator.com/apply/5C8Pby/Sr-Ruby-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About SocialChorus:</strong><br />
+How cool would it be if a blogger with thousands of subscribers raved about your product or service in a blog post? Pretty sweet! Now imagine getting mentioned in 1,000 blogs, each with thousands of subscribers. (Pretty sweet!)^1000 is what we do here at SocialChorus.</p>
+<p>
+SocialChorus is a cloud platform is for generating word of mouth advertising via social media. Got a cool product that needs more buzz? SocialChorus. While your competitors with boring products try to outspend each other on TV, Google, and newspaper ads (they still print newspapers?!), you&#39;re efficiently connecting with your customers where they spend time online: blogs, Pinterest, Twitter, Facebook, LinkedIn, etc.</p>
+<p>
+It&#39;s a great time to join SocialChorus. Our sales are skyrocketing; leading companies with a mandate to generate revenue via social media are paying us to solve that problem. We&#39;re far enough along to be a real company and early enough to be interesting (post Series-A, pre-Series B). There&#39;s plenty of cash in the bank, we can ask for more when we need it, and we have a predictable growth plan.</p>
+<p>
+<strong>The Team:</strong><br />
+As of today, there are seven engineers on the team (three women &amp; four men) led by Kane, our CTO. We enjoy working in an Agile environment; we do quite a bit of pair programming, test driven development and refactoring. There&#39;s also a nice balance between how much we produce, the quality of our work, the fun we have as a team, and our ability to have lives outside of the office!</p>
+<p>
+<strong>The Position:</strong><br />
+This position is about optimizing the app for change. Moving from a Megarails app to a service-oriented architecture. You&#39;ll help us tackle A-synchronicity issues, and help with refactoring and adding new features. We&#39;re currently refactoring and doing pure object-oriented coding, and getting away from the edges of Rails and doing a smaller, more modular architecture. We&#39;re not looking for banging together a quick prototype so much as someone who wants to do things the best way - we&#39;re a lot less interested in rock stars than steady climbers!</p>
+<p>
+We pair 100% of time, so while you&#39;ll have to work regular business hours, you won&#39;t have to work outside of regular business hours. :)</p>
+<p>
+<strong>Our Ideal Candidate Has:</strong><br />
+* At least 1 professional project with Ruby. Not RoR per se, but Ruby. More of course is better!<br />
+* 3+ years of experience doing OO software engineering.</p>
+<p>
+<strong>Bonus Points For:</strong><br />
+* A history of refactoring or fixing legacy code.<br />
+* Being a Polyglot! - someone who likes to use the best tool or language for a job.<br />
+* Having stayed with a startup long enough to see refactoring take place.<br />
+* Did we mention refactoring? The more experience and enthusiasm for refactoring, the better!</p>
+<p>
+<strong>Almost Done:</strong><br />
+This is a full-time, salaried position offering stock options, paid vacation, and benefits: medical, dental and 401k. You&#39;ll be working onsite at our office in San Francisco, CA. We actively promote diversity and encourage all qualified candidates to apply. If you want tell us a corny joke, please include it in the blurb when you apply!</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/socialchorus/5C8Pby"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130408224232_4OV9MGCGEGX3YIWF]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Director of Customer Success]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://socialchorus.theresumator.com/apply/XVbDWj/Director-Of-Customer-Success.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The company:</strong></p>
+<p>
+SocialChorus is the leading social word-of-mouth marketing solution for the brands that people love. SocialChorus customers, including dozens of Fortune 500 brands, inspire social advocates to deliver millions of trusted, social endorsements across all social channels.</p>
+<p>
+It&#39;s a great time to join SocialChorus. We have proven that 2-5% of a brand&rsquo;s social audience generates most of the social engagement, endorsement and referral; our solution powers those superfans to make it happen. Over 30 Fortune 500 brands have already implemented SocialChorus-powered marketing programs.</p>
+<p>
+We are leveraging the power of word-of-mouth with the scale and efficiency of the cloud, to deliver social ROI for our customers. We build and deliver everything with our amazing development and solution teams in San Francisco. We&#39;re far enough along to be a real company and early enough to be interesting (post Series-A, pre-Series B funding). We are backed by Kohlberg Ventures and relied on by brands like 3M, Intel, HTC and many others.</p>
+<p>
+<strong>The position:</strong></p>
+<p>
+SocialChorus is seeking a Director of Customer Success in San Francisco to manage a growing customer success team running social word-of-mouth marketing campaigns on the SocialChorus platform. The director will ensure delivery of KPIs across all programs for Fortune 1000 brands and put processes in place to increase scalability and renewals.</p>
+<p>
+As Director of Customer Success, you will be responsible for the following:</p>
+<ul>
+<li>
+Deliver on all program KPIs for Fortune 1000 brands</li>
+<li>
+Maximize renewals; minimize customer churn</li>
+<li>
+Continue enhancing program scalability</li>
+<li>
+Develop onboarding and training processes and documentation</li>
+<li>
+Make processes more efficient</li>
+<li>
+Manage and grow the customer success team</li>
+<li>
+Close working relationship with the product team to ensure our product allows brands to efficiently run social word-of-mouth marketing programs</li>
+</ul>
+<p>
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+7+ years experience in account management and/or customer success</li>
+<li>
+Proven experience running customer success for a SaaS company</li>
+<li>
+SaaS marketing platform experience</li>
+<li>
+Managing to program KPIs, reducing churn</li>
+<li>
+Social marketing (advocacy, word-of-mouth) preferred</li>
+<li>
+Thrives in a start-up environment</li>
+<li>
+Excellent communication and organizational skills</li>
+</ul>
+<p>
+<strong>Almost done:</strong></p>
+<p>
+This is a full-time, salaried position offering stock options, paid vacation, and benefits: medical, dental and 401k. You&#39;ll be working onsite at our office in San Francisco, CA. We actively promote diversity and encourage all qualified candidates to apply. If you&#39;ve got questions or want tell a corny joke, please send us an email.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Senior Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/socialchorus/XVbDWj"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130408225352_BZRKXWFV9ZF9MM0Y]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Director of Business Development]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://socialchorus.theresumator.com/apply/3CL2Uj/Director-Of-Business-Development.html]]></url>
+			<city><![CDATA[New York City]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10001]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The company:</strong></p>
+<p>
+SocialChorus is the leading social word-of-mouth marketing solution for the brands that people love. SocialChorus customers, including dozens of Fortune 500 brands, inspire social advocates to deliver millions of trusted, social endorsements across all social channels.</p>
+<p>
+It&#39;s a great time to join SocialChorus. We have proven that 2-5% of a brand&rsquo;s social audience generates most of the social engagement, endorsement and referral; our solution powers those superfans to make it happen. Over 30 Fortune 500 brands have already implemented SocialChorus-powered marketing programs.</p>
+<p>
+We are leveraging the power of word-of-mouth with the scale and efficiency of the cloud, to deliver social ROI for our customers. We build and deliver everything with our amazing development and solution teams in San Francisco. We&#39;re far enough along to be a real company and early enough to be interesting (post Series-A, pre-Series B funding). We are backed by Kohlberg Ventures and relied on by brands like 3M, Intel, HTC and many others.</p>
+<p>
+<strong>The position:</strong></p>
+<p>
+The Director of Business Development will help to accelerate customer acquisition, success, and retention through the development of strategic relationships with advertising agencies and other resellers.</p>
+<p>
+The successful candidate will help identify, assess, and sign high-potential partners, build a strategic plan that prioritizes the opportunities and manage partnership development that directly contributes to growth targets. The ideal candidate will have a deep understanding of leading enterprise technology companies, a track record of prioritizing and executing on game-changing partnerships and excellent communication skills.</p>
+<p>
+The Director of Business Development will be responsible for the following:</p>
+<ul>
+<li>
+Identify opportunities to drive top-line revenue across all partnerships.</li>
+<li>
+Develop and own the strategic plan for the business development function.</li>
+<li>
+Socialize objectives internally to build consensus and support across functional teams to gather the necessary resources to make these relationships a success.</li>
+<li>
+Manage a pipeline of relationships and provide regular updates to the executive team on the progress and expected impact on customer acquisition and revenue growth targets.</li>
+</ul>
+<p>
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+5+ years of successful enterprise sales</li>
+<li>
+5+ years of business development experience</li>
+<li>
+Working knowledge of social media marketing</li>
+<li>
+Direct or alliance sales experience selling enterprise solutions</li>
+<li>
+Exceptional communication, presentation and negotiation skills</li>
+<li>
+Self-starter with great time management skills</li>
+<li>
+Able to develop and nurture key relationships with executives and sales teams</li>
+<li>
+Must execute program objectives both as a thought leader and individual contributor in a fast-paced, rapidly changing environment.</li>
+<li>
+Willingness to travel</li>
+</ul>
+<p>
+<strong>Almost done:</strong></p>
+<p>
+This is a full-time, salaried position offering stock options, paid vacation, and benefits: medical, dental and 401k. You&#39;ll be working onsite at our office in San Francisco, CA. We actively promote diversity and encourage all qualified candidates to apply. If you&#39;ve got questions or want tell a corny joke, please send us an email.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/socialchorus/3CL2Uj"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130410003043_ZK4YMIMMFAHTGN5H]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Enterprise Sales Executive]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://socialchorus.theresumator.com/apply/MlVcyV/Enterprise-Sales-Executive.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The company:</strong></p>
+<p>
+SocialChorus is the leading social word-of-mouth marketing solution for the brands that people love. SocialChorus customers, including dozens of Fortune 500 brands, inspire social advocates to deliver millions of trusted, social endorsements across all social channels.</p>
+<p>
+It&#39;s a great time to join SocialChorus. We have proven that 2-5% of a brand&rsquo;s social audience generates most of the social engagement, endorsement and referral; our solution powers those superfans to make it happen. Over 30 Fortune 500 brands have already implemented SocialChorus-powered marketing programs.</p>
+<p>
+We are leveraging the power of word-of-mouth with the scale and efficiency of the cloud, to deliver social ROI for our customers. We build and deliver everything with our amazing development and solution teams in San Francisco. We&#39;re far enough along to be a real company and early enough to be interesting (post Series-A, pre-Series B funding). We are backed by Kohlberg Ventures and relied on by brands like 3M, Intel, HTC and many others.</p>
+<p>
+<strong>The position:</strong></p>
+<p>
+The Enterprise Sales Executive is responsible for closing deals with brands people love. We have an incredible lead gen marketing team bringing in leads and the Sales Exec will take the leads from opportunities to close. The Sales Exec will have a quarterly and annual quota.</p>
+<p>
+The ideal candidate should have a strong sales background at a social marketing SaaS company and looking for an entrepreneurial environment in which to thrive.</p>
+<p>
+The Enterprise Sales Exec will be responsible for the following:</p>
+<ul>
+<li>
+Turning marketing qualified leads into sales qualified leads into closed deals</li>
+<li>
+Working closely with marketing team, mainly Market Development Reps, who will be qualifying leads</li>
+<li>
+Pitching social media managers and brand managers on the SocialChorus social word-of-mouth marketing solution &ndash; combination of strategic managed services and technology</li>
+<li>
+Learning the SocialChorus solution</li>
+<li>
+Giving SocialChorus platform demos</li>
+<li>
+Selling annual software + service solutions packages over the phone</li>
+<li>
+Utilizing SocialChorus sales materials from marketing, tailoring when needed</li>
+<li>
+Closing profitable deals in accordance with finance guidelines</li>
+<li>
+Meeting quarterly and annual quota</li>
+</ul>
+<p>
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+Bachelor&rsquo;s Degree</li>
+<li>
+Minimum 1 year sales experience, maximum 4 years</li>
+<li>
+Experience in sales at a social marketing SaaS company</li>
+<li>
+Excel at social selling</li>
+<li>
+Credible seller in social marketing space</li>
+<li>
+Demonstrated success in selling SaaS marketing solution over the phone</li>
+<li>
+Salesforce expert</li>
+<li>
+Power point guru</li>
+<li>
+Must be a self starter, articulate and posses excellent verbal and written skills</li>
+</ul>
+<p>
+<strong>Almost done:</strong></p>
+<p>
+This is a full-time, salaried position offering stock options, paid vacation, and benefits: medical, dental and 401k. You&#39;ll be working onsite at our office in San Francisco, CA. We actively promote diversity and encourage all qualified candidates to apply. If you&#39;ve got questions or want tell a corny joke, please send us an email.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/socialchorus/MlVcyV"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130604223951_ISA6N5QIB3YZK7RH]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Business Development Intern]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://socialchorus.theresumator.com/apply/LLxI1U/Business-Development-Intern.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+SocialChorus is seeking a Business Development Intern who will be responsible for supporting the Business Development team in acquiring new brand clients and drive revenue. The role includes helping move opportunities throughout the sales cycle, from a marketing opportunity to signature.</p>
+<br />
+<p>
+Responsibilities:</p>
+<p>
+- Help manage opportunity pipeline and prospect communication<br />
+- Research prospective clients and appropriate contacts<br />
+- Identify relevant new market information to support sales process<br />
+- Create custom marketing materials for sales opportunities<br />
+- Update and maintain Salesforce<br />
+- Work cross-functionally with Business Development, Marketing, Legal and other internal organizations across SocialChorus to forge, support, and manage new opportunities</p>
+<p>
+Requirements:</p>
+<p>
+- 1-3 years relevant work/coursework experience (social, digital, advertising, internships included)<br />
+- Highly organized and detail oriented<br />
+- Strong interpersonal skills, and ability to work well in a team environment<br />
+- Available to work 40+ hours per week<br />
+- Three month internship with possible opportunity for full-time employment<br />
+- Passionate and knowledgeable about social media from both a personal and professional standpoint</p>
+<p>
+Hourly compensation.&nbsp;Reports to Senior Manager, Business Development.</p>
+]]></description>
+			<type><![CDATA[Internship]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/socialchorus/LLxI1U"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130612005447_H4XPHMKBNHQA5MSA]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Manager - Strategic Accounts]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Sales]]></team>
+			<url><![CDATA[http://socialchorus.theresumator.com/apply/dl7LgP/Senior-Manager-Strategic-Accounts.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The company:</strong></p>
+<p>
+SocialChorus is the leading social advocate marketing solution for the brands that people love. SocialChorus customers, including dozens of Fortune 500 brands, inspire social advocates to deliver millions of trusted, social endorsements across all social channels.</p>
+<p>
+It&#39;s a great time to join SocialChorus. We have proven that 2-5% of a brand&rsquo;s social audience generates most of the social engagement, endorsement and referral; our solution powers those superfans to make it happen. Over 30 Fortune 500 brands have already implemented SocialChorus-powered marketing programs.</p>
+<p>
+We are leveraging the power of word-of-mouth with the scale and efficiency of the cloud, to deliver social ROI for our customers. We build and deliver everything with our amazing development and solution teams in San Francisco. We&#39;re far enough along to be a real company and early enough to be interesting (post Series-A, pre-Series B funding). We are backed by Kohlberg Ventures and relied on by brands like 3M, Intel, HTC and many others.</p>
+<p>
+<strong>The position:</strong></p>
+<p>
+The Senior Manager, Strategic Account is responsible for being the day-to-day client partner to ensure all business needs are delivered against and met. Working with clients to develop an upfront, insight-driven strategy and then managing through execution, all the while growing a meaningful, strategic relationship with the client is the essence of the position.</p>
+<p>
+The role requires candidates to bring a creative and strategic approach throughout the delivery of advocate marketing campaigns and the ability to continually collaborate on ideas that optimize and ultimately maximize program results. Strong communication is a must as the Senior Manager, Strategic Account manages daily client conversation and email outreach. The ideal candidate should have a strong grasp and love for social marketing; understand the social media landscape and demonstrated success contributing to the planning and execution of social//advocate marketing programs.</p>
+<p>
+The Senior Manager, Strategic Account will be responsible for the following:</p>
+<ul>
+<li>
+Owning day-to-day communication and relationship building with clients; developing a value-add, strategic partnership with all managed brands</li>
+<li>
+Leading creative ideation around activation strategies, messaging and social currency tactics that will resonate with the target influencers and brand advocates</li>
+<li>
+Working closely with the program management team to create and foster influencer and brand advocate relationships</li>
+<li>
+Developing a deep understanding of key client brands and brand-specific verticals to position yourself and SocialChorus as an expert in the category</li>
+<li>
+Passion and curiosity around digital and social marketing that drives continual learning within the space</li>
+<li>
+Maintaining flawless, client-facing quality of work</li>
+</ul>
+<p>
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+Bachelor&#39;s Degree</li>
+<li>
+Minimum of 3 years experience in social media, digital PR, WOM and/or blogger outreach/management</li>
+<li>
+Past and current ownership of client relationships with Fortune 500 companies</li>
+<li>
+Specific experience planning and managing blogger programs a plus</li>
+<li>
+Desire and ability to think strategically, solve problems, and use professional judgment</li>
+<li>
+Keen understanding of social media and how to it supports and enhances marketing strategies of Fortune 500 brands</li>
+<li>
+Must be a self starter, articulate and possess excellent written skills</li>
+<li>
+Strong communication and presentation skills</li>
+<li>
+Comfortable learning on the fly and navigating a customized technology platform</li>
+</ul>
+<p>
+<strong>Almost done:</strong></p>
+<p>
+This is a full-time, salaried position offering stock options, paid vacation, and benefits: medical, dental and 401k. You&#39;ll be working onsite at our office in San Francisco, CA. We actively promote diversity and encourage all qualified candidates to apply. If you&#39;ve got questions or want tell a corny joke, please send us an email.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/socialchorus/dl7LgP"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130618215354_EULCHTLMTW8RWHYP]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Social Media Reporting Intern]]></title>
+			<department><![CDATA[Client Success Team]]></department>
+			<team><![CDATA[Sales]]></team>
+			<url><![CDATA[http://socialchorus.theresumator.com/apply/q4FdUh/Social-Media-Reporting-Intern.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The company:</strong></p>
+<p>
+SocialChorus is the leading social advocate marketing solution for the brands that people love. SocialChorus customers, including dozens of Fortune 500 brands, inspire social advocates to deliver millions of trusted, social endorsements across all social channels.</p>
+<p>
+It&#39;s a great time to join SocialChorus. We have proven that 2-5% of a brand&rsquo;s social audience generates most of the social engagement, endorsement and referral; our solution powers those superfans to make it happen. Over 30 Fortune 500 brands have already implemented SocialChorus-powered marketing programs.</p>
+<p>
+We are leveraging the power of word-of-mouth with the scale and efficiency of the cloud, to deliver social ROI for our customers. We build and deliver everything with our amazing development and solution teams in San Francisco. We&#39;re far enough along to be a real company and early enough to be interesting (post Series-A, pre-Series B funding). We are backed by Kohlberg Ventures and relied on by brands like 3M, Intel, HTC and many others.</p>
+<p>
+<strong>The position:</strong></p>
+<p>
+The Social Media Reporting Intern is responsible for supporting the Client Success Team in collecting, organizing, and presenting social media program metrics to our customers. In this role, he or she will be expected to perform both manual and software based analysis of social media activities driven by SocialChorus programs.</p>
+<p>
+The Social Media Reporting Intern will work closely with Program Managers to streamline reporting of social marketing programs for Fortune 500 accounts.&nbsp; Other key responsibilities include advocate identification and vetting, customer support, research on existing social media platforms, management of brand advocate communities and ongoing analysis around program activities.</p>
+<p>
+The ideal candidate will be able to multi-task and thrive in a fast-paced start-up environment.</p>
+<p>
+The Social Media Reporting Intern will be responsible for the following:</p>
+<ul>
+<li>
+Day-to-day collection, review and analysis of social media program metrics</li>
+<li>
+Provide Program Managers with social media metrics and be able to analyze data and make suggestions for program improvement</li>
+<li>
+Streamline processes and document best practices for existing and upcoming program reporting</li>
+<li>
+Research and become an expert on current and new social media trends and technologies</li>
+</ul>
+<p>
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+Bachelor&#39;s Degree</li>
+<li>
+Possess a deep understanding of social media and have knowledge of social media platforms and tools</li>
+<li>
+Very proficient in Excel and PowerPonit.</li>
+<li>
+Desire to leverage, organize, and understand social data</li>
+<li>
+High attention to detail with the ability to follow pre-designed processes to ensure consistent and accurate delivery of metrics</li>
+<li>
+Quick learner who is able to pick up new technologies easily and comfortable learning on the fly</li>
+<li>
+Must be a self starter and creative thinker&nbsp;</li>
+<li>
+Excellent written and verbal communication skills&nbsp;</li>
+</ul>
+<p>
+<strong>Almost done:</strong></p>
+<p>
+This is not a summer internship. &nbsp;This is a 3-month contract position with the opportunity to be hired on as a Program Manager after 3 months. You&#39;ll be working onsite at our office in San Francisco, CA. We actively promote diversity and encourage all qualified candidates to apply. If you&#39;ve got questions or want tell a corny joke, please send us an email.</p>
+]]></description>
+			<type><![CDATA[Contracted to Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/socialchorus/q4FdUh"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130618223216_V9ZXDNVYO4XZA225]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Talent Acquisition Specialist]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Platform Development]]></team>
+			<url><![CDATA[http://socialchorus.theresumator.com/apply/PVDO9R/Talent-Acquisition-Specialist.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The company:</strong></p>
+<p>
+SocialChorus is the leading advocate marketing solution for the brands that people love. SocialChorus customers, including dozens of Fortune 500 brands, inspire social advocates to deliver millions of trusted, social endorsements across all social channels.</p>
+<p>
+It&#39;s a great time to join SocialChorus. We have proven that 2-5% of a brand&rsquo;s social audience generates most of the social engagement, endorsement and referral; our solution powers those superfans to make it happen. Over 30 Fortune 500 brands have already implemented SocialChorus-powered marketing programs.</p>
+<p>
+We are leveraging the power of word-of-mouth with the scale and efficiency of the cloud, to deliver social ROI for our customers. We build and deliver everything with our amazing development and solution teams in San Francisco. We&#39;re far enough along to be a real company and early enough to be interesting (post Series-A, pre-Series B funding). We are backed by Kohlberg Ventures and relied on by brands like 3M, Intel, HTC and many others.</p>
+<p>
+<strong>The position:</strong></p>
+<p>
+SocialChorus is searching for a recent grad who is looking for an entryway into the lucrative world of recruiting and talent searches. We are looking for someone who can help us land the employees we&#39;re looking for and manage the candidate pipeline to fill future positions.</p>
+<p>
+This isn&rsquo;t you&rsquo;re normal HR position. In this role you will create campaigns, manage assets, track conversions and do all the things that marketing usually does, but for talent recruitment.&nbsp; This person will research and source from You tell us which ads works, which boards we should publish on, which meet-ups we should attend, and where to find the best candidates.</p>
+<p>
+We&#39;re particularly interested in recruiting technical candidates such as developers, which is why this position reports to the VP Products. Some technical knowledge is helpful, but not necessarily required. We&#39;re primarily looking for a bright individual who thinks outside the box and is motivated to develop innovative ideas and campaigns for recruiting talent.&nbsp;</p>
+<p>
+You&rsquo;ll be developing skills that are in high demand in today&#39;s tech industry. Everyone is looking for talent, and the people who can find that talent are few and far between.&nbsp; You&#39;ll learn how to find exceptional people and run great recruitment campaigns.&nbsp; You&#39;ll also be joining a hot start up in the social marketing space, which means you&#39;ll have plenty of opportunity for growth and get to enjoy a fast-paced and fun startup culture.</p>
+<p>
+The Talent Acquisition Specialist will be responsible for the following:</p>
+<ul>
+<li>
+Create and maintain talent pools of appropriate candidates &ndash; heavy on the tech side, but may include other positions as well</li>
+<li>
+Manage prospective candidate outreach and networking to increase awareness about SocialChorus brand, culture, and opportunities</li>
+<li>
+Generate engaging recruitment campaigns to drive candidate interest and excitement</li>
+<li>
+Manage relationships with various internal and external stakeholders, including recruitment firms and companies&nbsp;</li>
+<li>
+Communicate with candidates through various stages of the hiring process from initial outreach and prescreening to hire</li>
+</ul>
+<p>
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+Desire and ability to think creatively, solve problems, and use professional judgment</li>
+<li>
+Must be a self starter, who can take some initial instructions and develop those into a working plan</li>
+<li>
+Excellent written and verbal communication skills. You are very comfortable on the phone and capable of talking to just about anyone and have the ability to write fun and engaging copy.</li>
+<li>
+Very organized with great project management skills.</li>
+<li>
+Exceptional interpersonal relationship skills with the ability to establish positive relationships with internal and external stakeholders</li>
+</ul>
+<p>
+<strong>Almost done:</strong></p>
+<p>
+If you&#39;re interested, send us a resume and tell us why we should hire you. Remember, we&#39;re not looking for any specific experience, we&#39;re more interested in your original thinking and creative solutions, so prove to us you have that rather than telling us which job you had in the summer between your junior and senior years.</p>
+<p>
+This is a 3-month contract position with a strong possibility of being hired on full time at the end of the 3 months. You&#39;ll be working onsite at our office in San Francisco, CA. We actively promote diversity and encourage all qualified candidates to apply. If you&#39;ve got questions or want tell a corny joke, please send us an email.</p>
+]]></description>
+			<type><![CDATA[Contracted to Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/socialchorus/PVDO9R"></script>]]></buttons>
+		</job>
+	</jobs>

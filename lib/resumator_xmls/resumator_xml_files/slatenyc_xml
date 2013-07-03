@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Slate NYC]]></company>
+			<job>
+			<id><![CDATA[job_20130619135031_C107BU4EMS4MUOYZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Chief Happiness Officer]]></title>
+			<department><![CDATA[Customer Relations]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://slatenyc.theresumator.com/apply/R3FBY2/Chief-Happiness-Officer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10014]]></postalcode>
+			<description><![CDATA[<p>
+Test</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/slatenyc/R3FBY2"></script>]]></buttons>
+		</job>
+	</jobs>

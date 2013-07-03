@@ -1,0 +1,254 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[NoWait]]></company>
+			<job>
+			<id><![CDATA[job_20130325195712_RVOON0SLXIGJ8VPL]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Operations Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://nowait.theresumator.com/apply/WaimA4/Operations-Engineer.html]]></url>
+			<city><![CDATA[Pittsburgh]]></city>
+			<state><![CDATA[PA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[15219]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About Us:</strong></p>
+<p>
+NoWait is a cloud based wait list management and customer engagement service for restaurants.&nbsp; NoWait allows a host to manage the wait list on an iPad and notify guests with a text message when their table is ready.</p>
+<p>
+<strong>About This Position:</strong></p>
+<p>
+We are seeking a talented AWS-based Infrastructure Engineer to manage our web hosting infrastructure to ensure performance, and availability as we continue to experience rapid growth.&nbsp; You will be tasked with managing our entire hosting infrastructure across development, staging and production environments. The ideal candidate will have experience designing, configuring and managing high-availability hosting environments that are secure, and scalable.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Own and manage NoWait&#39;s global cloud infrastructure.</li>
+<li>
+Help design, develop and deploy secure cloud infrastructure for high availability, low latency and scalability across availability zones.</li>
+<li>
+Develop and implement strategies to automate system installation, configuration, code deployment, and management</li>
+<li>
+Develop and manage data backup and replication strategies</li>
+<li>
+Configure and tune all subsystems including firewalls, load balancers, hypervisors, OS, database, storage subsystems, networks, caching systems, etc.</li>
+<li>
+Work with development and QA teams to develop procedures and test routines to asses infrastructure performance, capacity, and security</li>
+<li>
+Deploy real time and trend monitoring of system performance and error logging</li>
+<li>
+Availability to participate in a 24/7 environment including on call responsibilities</li>
+<li>
+Work with development team on strategies for managing system failures and recovery</li>
+<li>
+Architect and manage development/staging/production environments</li>
+<li>
+Provide recommendations to development team on how to improve security, availability, reliability, scalability</li>
+<li>
+Daily analysis of system error logs, performance issues, and security risks</li>
+<li>
+Assist with QA testing, and test automation</li>
+<li>
+Assist with development tasks as time permits</li>
+</ul>
+<p>
+<strong>Qualifications:</strong></p>
+<ul>
+<li>
+5+ years experience</li>
+<li>
+Advanced Linux system administration with an understanding of all layers of Linux.</li>
+<li>
+Production cloud-based LAMP (Linux/Apache/MySQL/PHP) in large scale, mission critical environments.</li>
+<li>
+High availability configurations and replication methodology both from a systems and software perspective.</li>
+<li>
+Experience developing and deploying real time and trend monitoring of system performance into a production environment.</li>
+<li>
+Administration experience with MySQL (advanced features such as MySQL replication is a plus)</li>
+<li>
+Experience with server and code configuration/deployment tools (Chef, Knife, Puppet)</li>
+<li>
+Web software development experience(preferably HTML, javascript, PHP, MySQL)</li>
+</ul>
+<p>
+<strong>Bonus Points</strong></p>
+<ul>
+<li>
+Familiarity with any of the following technologies: MongoDB, Redis, New Relic, Capistrano.</li>
+<li>
+Experience in a startup environment.</li>
+</ul>
+<p>
+<strong>Benefits:</strong></p>
+<p>
+NoWait offers a competitive salary and a full list of benefits, including health, vision and dental coverage. You will work in a fun and creative environment with a talented group of individuals that have a passion for changing the world.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/NoWait/WaimA4"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130418141322_IMI0WH1LYX3J9J7P]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Account Manager]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://nowait.theresumator.com/apply/P9MxRv/Account-Manager.html]]></url>
+			<city><![CDATA[Pittsburgh]]></city>
+			<state><![CDATA[PA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[15219]]></postalcode>
+			<description><![CDATA[<p>
+<strong>JOB DESCRIPTION</strong></p>
+<p>
+<strong>Title:&nbsp;&nbsp; Account Manager<br />
+Department(s): Sales<br />
+Reports To (Title): Vice President of Sales</strong></p>
+<br />
+<p>
+<strong>Job Purpose:</strong><br />
+A NoWait Account Manager works alongside Leads and Accounts to help them discover NoWait&rsquo;s added value through customization, answering inquiries, and training.&nbsp; By following a weekly process of calls, demonstrations, and emails, the Account Manager coordinates subscription details such as price tier, length, and billing information.&nbsp; On going, each of those subscriptions reports directly to the Account Manager for customizations and questions.</p>
+<p>
+<strong>Summary of essential job functions:</strong><br />
+An Account Manager will:<br />
+&bull; Consistently call Leads and Opportunities according to weekly process<br />
+&bull; Answer customer inquiries which come by inbound calls, SnapEngage, and general emails<br />
+&bull; Have the ability to respond to customer concerns with proper answers<br />
+&bull; Meet weekly and quarterly quotas of subscription agreements<br />
+&bull; Utilize calls and emails to ensure proper account creation and usage<br />
+&bull; Train accounts on how to optimally use NoWait<br />
+&bull; Customize messaging and account information<br />
+&bull; Facilitate subscription by receiving proper billing and agreement information<br />
+&bull; Update Account statuses on the NoWait Admin Page<br />
+&bull; Record all Sales and Account Activity in Salesforce.com</p>
+<p>
+<strong>Skills and Experience Required:</strong><br />
+&bull; 2-3 years general sales experience<br />
+&bull; 1 year industry sales experience<br />
+&bull; Restaurant training<br />
+&bull; Success in following a weekly communication plan</p>
+<p>
+<strong>Minimum Educational Requirements:</strong><br />
+&bull; Bachelors in business</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/NoWait/P9MxRv"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130418142746_SXIGYMKSVWPQRYUB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Customer Success Manager]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://nowait.theresumator.com/apply/cQ2U8P/Customer-Success-Manager.html]]></url>
+			<city><![CDATA[Pittsburgh]]></city>
+			<state><![CDATA[PA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[15219]]></postalcode>
+			<description><![CDATA[<p>
+<strong>JOB DESCRIPTION</strong></p>
+<p>
+<strong>Title:&nbsp;&nbsp; Customer Success Manager<br />
+Department(s): Sales<br />
+Reports To (Title): Vice President of Sales</strong></p>
+<br />
+<p>
+<strong>Job Purpose:</strong><br />
+A NoWait Customer Success Manager works alongside new and existing Leads and Accounts to help them discover NoWait&rsquo;s added value through customization, answering inquiries, and training.&nbsp; To ensure successful adoption and expansion of NoWait into certain brands, opportunities may call for on-site training and implementation. A Customer Success Manager will be responsible to communicate &ndash; through phone, email, and on-site events &ndash; NoWait&rsquo;s Return On Investment for wider adoption.</p>
+<p>
+<strong>Summary of essential job functions:</strong><br />
+A Customer Success Manager will:<br />
+&bull; Utilize calls, emails, and appointments to discover potential growth into existing accounts<br />
+&bull; Be considered an expert trainer on all customer-facing aspects of NoWait<br />
+&bull; Have the ability to respond to customer concerns with proper answers<br />
+&bull; Meet weekly and quarterly quotas<br />
+&bull; Train accounts on how to optimally use NoWait<br />
+&bull; Customize messaging and account information<br />
+&bull; Record all Sales and Account Activity in Salesforce.com</p>
+<p>
+<strong>Skills and Experience Required:</strong><br />
+&bull; 2-3 years general sales experience<br />
+&bull; 1 year industry sales experience<br />
+&bull; Restaurant training<br />
+&bull; Success in following a weekly communication plan</p>
+<p>
+<strong>Minimum Educational Requirements:</strong><br />
+&bull; Bachelors in business</p>
+<p>
+&nbsp;</p>
+<p>
+Disclaimer: The above statements are intended to describe the general nature and level of work being performed by people assigned to this classification.&nbsp; They are not to be considered as an exhaustive list of all responsibilities, duties, and skills required of personnel so classified.&nbsp; All personnel may be required to perform duties outside of their normal responsibilities from time to time, as needed.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/NoWait/cQ2U8P"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130617142818_OHKW6GU9L6D3LKIO]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Billing Manager]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://nowait.theresumator.com/apply/IYSFWC/Billing-Manager.html]]></url>
+			<city><![CDATA[Pittsburgh]]></city>
+			<state><![CDATA[PA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[15219]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Job Purpose:</strong></p>
+<p>
+The Billing Manager will manage all day-to-day billing and collections operations, and will manage projects and initiatives to streamline the company&#39;s billing systems and processes. The Billing Manager will have an opportunity to interact with all major functions within the company, including sales, service delivery, product development &amp; engineering, and business information systems.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+Responsible for the day-to day billing and collections functions</li>
+<li>
+Manage and streamline billing and collections systems and processes</li>
+<li>
+Review and reconcile internal billing reports and resolve any discrepancies and invoicing adjustments</li>
+<li>
+Reconciliation of credit card receipts, charge-backs, and refunds</li>
+<li>
+Review and process monthly revenue accruals/JE entries within the billing cycle</li>
+<li>
+Maintain and update weekly collections report</li>
+<li>
+Interact with customers and partners, including fielding customer calls in relation to billing inqueries and requests</li>
+</ul>
+<p>
+The position is based in Pittsburgh and reports to the VP Finance.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Qualifications:</strong></p>
+<ul>
+<li>
+One to three years of experience in accounting/finance required, preferably in a billing department, demonstrating knowledge of billing procedures and various automated accounting systems</li>
+<li>
+Excellent communication skills both verbal and written</li>
+<li>
+Excellent analytical and problem solving skills</li>
+<li>
+Ability to manage multiple projects concurrently</li>
+<li>
+College Degree in accounting/business management preferred</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/NoWait/IYSFWC"></script>]]></buttons>
+		</job>
+	</jobs>

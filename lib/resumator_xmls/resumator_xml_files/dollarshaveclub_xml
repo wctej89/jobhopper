@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Dollar Shave Club.com]]></company>
+			<job>
+			<id><![CDATA[job_20120606040016_CCDNI9JYCJFOUCFD]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Php/LAMP Web Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://dollarshaveclub.theresumator.com/apply/gQd18C/PhpLAMP-Web-Developer.html]]></url>
+			<city><![CDATA[Santa Monica]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90401]]></postalcode>
+			<description><![CDATA[<p><strong>Overview</strong></p><p>Hot new Santa Monica-based subscription-commerce startup seeks a Php Developer<br />to help carry our business to the next level. You will work with DSC CTO to progress<br />our technological platform and infrastructure. You will develop on Drupal, Magento and help support the business with day to day operations.</p><p>DollarShaveClub.com is backed by Science Media, an LA-based startup incubation<br />studio. Working inside the Science offices, you will have the opportunity to collaborate<br />&amp; interface with Science partners; some of the brightest, most-experienced minds in the<br />business.</p><p><strong>Required Skills</strong></p><p>PHP5 - Candidate should be a &nbsp;PHP5 developer capable of creating and debugging modules in Drupal &amp; Magento<br />MySQL - Modern database development expertise, ability to debug and develop queries<br />XHTML/CSS/Javascript/AJAX - Proficiency in Javascript/XHTML/CSS development will be necessary. jQuery experience preferred.<br />Object Oriented Development / CS Background - Ideal candidates should understand object oriented development, and apply OO concepts to everything they do. Formal CS background or experience preferred.<br />Self-Starter - Looking for candidates who can jump in quickly without a lot of direction.</p><p><strong>Experience</strong></p><p>This is a senior position; we&#39;re looking for somebody who has at least 2+ years of web development experience.<br />Must live in, or be willing to relocate to Los Angeles</p><p><strong>Compensation</strong></p><p>Competitive salary and a full list of benefits</p><p>You will work in a fun and creative environment with a talented group of individuals that have a passion for building a great business.&nbsp;We are open to local candidates only. Although you are welcome to work from home on occasion, you&#39;ll need to be in the office in Santa Monica&nbsp;on a regular basis.</p><p>&nbsp;</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/dollarshaveclub/gQd18C"></script>]]></buttons>
+		</job>
+	</jobs>

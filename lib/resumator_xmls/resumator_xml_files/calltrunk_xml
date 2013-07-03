@@ -1,0 +1,340 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Calltrunk]]></company>
+			<job>
+			<id><![CDATA[job_20130523170514_XP2YZ5NGVBJ1YPM1]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front-end Application Developer]]></title>
+			<department><![CDATA[Development]]></department>
+			<team><![CDATA[Development]]></team>
+			<url><![CDATA[http://calltrunk.theresumator.com/apply/P56p4M/Frontend-Application-Developer.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[E1 2HA]]></postalcode>
+			<description><![CDATA[<p>
+Calltrunk is an exciting start-up specializing in cloud-based call recording services. We&#39;ve won several awards for our innovative technology (ARGOsearch). For more information on what we do, please visit https://www.calltrunk.com/us/en/ and read all about us.&nbsp; If you would like your work to have a direct and immediate influence, now is the time to join!</p>
+<p>
+We are looking for a Front-end Application Developer to work on existing Calltrunk websites and web-apps as well as building new ones.&nbsp; Some web projects are heavily client-based and require excellent client-side skills. The successful candidate will be working with the following technologies:</p>
+<ul>
+<li>
+Django web framework</li>
+<li>
+Phyton</li>
+<li>
+JavaScript</li>
+<li>
+AJAX</li>
+<li>
+JQuery</li>
+<li>
+Backbone</li>
+<li>
+JSON</li>
+<li>
+HTML5</li>
+<li>
+CSS</li>
+</ul>
+<p>
+<strong>Along with an attention to detail, the following knowledge is a definite asset:</strong></p>
+<ul>
+<li>
+MySQL and other databases</li>
+<li>
+Experience with JSON web-service APIs</li>
+<li>
+Standards-based, modern, clean markup/styling</li>
+<li>
+Experience with cross-browser development issues</li>
+<li>
+Experience with Amazon Web Services or other cloud hosting service</li>
+<li>
+Basic Photoshop (working with layers, image slicing for web UI)</li>
+<li>
+Comfortable in a UNIX/Linux environment</li>
+</ul>
+<p>
+The ideal candidate possesses the required skills and technical knowledge but can also work in a fast-paced environment within a small team.&nbsp; A Bachelor&#39;s degree in Computer Science (or similar) is an asset.</p>
+<p>
+Other positions:&nbsp; We&#39;re always on the lookout for smart software developers with strong fundamentals in object-oriented design and efficient implementation.<br />
+We work in C# (mono), C, Objective C, Java, Javascript, Python, and HTML5 and our stack includes .NET, NoSQL, SIP, SIPREC, JSON, jQuery, Backbone, Marionette, AppKit, Android and more.&nbsp; Visit us at https://www.calltrunk.com/uk/en/.</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/calltrunk/P56p4M"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130501092124_5CWMET9KNEDJWLKK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Telephony Developer]]></title>
+			<department><![CDATA[Montreal Dev Team]]></department>
+			<team><![CDATA[Development]]></team>
+			<url><![CDATA[http://calltrunk.theresumator.com/apply/acpBPN/Telephony-Developer.html]]></url>
+			<city><![CDATA[Montreal]]></city>
+			<state><![CDATA[Quebec]]></state>
+			<country><![CDATA[Canada]]></country>
+			<postalcode><![CDATA[H3J 1S6]]></postalcode>
+			<description><![CDATA[<p>
+Calltrunk is an exciting start-up specializing in cloud-based call recording services. &nbsp; We&#39;ve won several awards for our innovative technology. &nbsp;</p>
+<p>
+For more information on what we do, please visit https://www.calltrunk.com/us/en/ and read all about us.&nbsp; If you would like your work to have a direct and immediate influence, now is the time to join!</p>
+<p>
+We are looking for a Telephony PBX Developer/Integrator to join our team and contribute directly to the growth of our service and the company.</p>
+<p>
+The Telephony Developer works directly on Calltrunk&#39;s backend telephony systems and develops integrations with 3rd party telephony systems including PBXs.&nbsp;</p>
+<p>
+<strong>Required skills</strong>:</p>
+<ul>
+<li>
+Solid knowledge in VoIP, SIP, H323, RTP</li>
+<li>
+Attention to detail</li>
+</ul>
+<p>
+<strong>Assets</strong>:</p>
+<ul>
+<li>
+Asterisk, Mitel, CISCO, Nortel system configuration and administration</li>
+<li>
+Asterisk Administrator or Asterisk Professional Certification</li>
+<li>
+CISCO CCNA Voice Certification</li>
+<li>
+UNIX experience (Linux)</li>
+<li>
+Shell scripting</li>
+<li>
+Experience with Amazon Web Services or other cloud hosting service</li>
+</ul>
+<p>
+The ideal candidates possess the required skills and technical knowledge but can also work in a fast-paced environment and adapt to changing responsibilities.&nbsp; A Bachelor&#39;s degree or other post-secondary degree or certificate is an asset. &nbsp;Serious applicants only please.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/calltrunk/acpBPN"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130501093155_S9YQU2MVL9RIJ4UC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Mobile Developer - Android]]></title>
+			<department><![CDATA[Montreal Dev Team]]></department>
+			<team><![CDATA[Development]]></team>
+			<url><![CDATA[http://calltrunk.theresumator.com/apply/qmSLTB/Mobile-Developer-Android.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Multiple Countries]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+Calltrunk is an exciting start-up specializing in cloud-based call recording services. &nbsp; We&#39;ve won several awards for our innovative technology.&nbsp;</p>
+<p>
+For more information on what we do, please visit https://www.calltrunk.com/us/en/ and read all about us.&nbsp; If you would like your work to have a direct and immediate influence, now is the time to join!</p>
+<p>
+We are looking for <strong>Mobile Developers in London, United Kingdom and Montreal, Canada&nbsp;</strong>to join our team and contribute directly to the growth of our service and the company.</p>
+<p>
+The Mobile Developer designs, implements and tests new features for the various Calltrunk mobile apps.</p>
+<p>
+Development experience on at least <strong>one</strong> of the following mobile platforms is <strong>required</strong>:</p>
+<ul>
+<li>
+Android (preferred)</li>
+<li>
+Blackberry</li>
+<li>
+Windows Phone</li>
+</ul>
+<p>
+<strong>Assets:</strong></p>
+<ul>
+<li>
+iOS (iPhone, iPad)</li>
+<li>
+HTTP with JSON APIs</li>
+<li>
+Windows 7 plugin/app development</li>
+<li>
+Mac OS X plugin/app development</li>
+</ul>
+<p>
+The ideal candidates possess the required skills and technical knowledge but can also work in a fast-paced environment and adapt to changing responsibilities.&nbsp; A Bachelor&#39;s degree in Computer Science (or similar) is an asset (but not required). &nbsp;Serious applicants only please.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/calltrunk/qmSLTB"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130501095313_5QOCWKYBLBRDZ0II]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Application Server Developers]]></title>
+			<department><![CDATA[Development]]></department>
+			<team><![CDATA[Development]]></team>
+			<url><![CDATA[http://calltrunk.theresumator.com/apply/PkONNw/Application-Server-Developers.html]]></url>
+			<city><![CDATA[Montréal]]></city>
+			<state><![CDATA[Quebec]]></state>
+			<country><![CDATA[Canada]]></country>
+			<postalcode><![CDATA[H3J 2L2]]></postalcode>
+			<description><![CDATA[<p>
+Calltrunk is an exciting fast growing start-up specializing in cloud-based call and&nbsp;voice recording services. &nbsp;We&#39;ve won several awards for our innovative technology (ARGOsearch). &nbsp;For more information on what we do, please&nbsp;visit https://www.calltrunk.com/us/en/ and read all about us.&nbsp; If you&nbsp;would like your work to have a direct and immediate influence, now is&nbsp;the time to join!</p>
+<p>
+We are looking for<strong>&nbsp;</strong>an <strong>App Server Developer</strong><strong>&nbsp;</strong>to join our team and<br />
+contribute directly to the growth of our service and the company.</p>
+<p>
+The Application Server Developer works on Calltrunk&#39;s backend systems<br />
+and the API layer connecting the backend systems to client<br />
+applications (web applications, mobile applications, 3rd-party<br />
+applications).&nbsp; The backend systems include many different services<br />
+including voice indexing and search, accounting and payment, call<br />
+connection and recording, conversation management and storage etc...</p>
+<p>
+<strong>Required skills:</strong></p>
+<ul>
+<li>
+C# (or, if you have very solid OOP skills you can quickly pick up C#)</li>
+<li>
+.Net 3.5 (or, familiarity with OOP frameworks)</li>
+<li>
+UNIX</li>
+<li>
+Shell scripting</li>
+</ul>
+<p>
+<strong>Assets</strong>:</p>
+<ul>
+<li>
+Mono</li>
+<li>
+C, C++, Java</li>
+<li>
+Python</li>
+<li>
+NoSQL</li>
+<li>
+Distributed systems</li>
+<li>
+Capistrano</li>
+<li>
+Media storage and streaming</li>
+<li>
+Amazon Web Services or other cloud hosting service</li>
+</ul>
+<p>
+The ideal candidates possess the required skills and technical<br />
+knowledge but can also work in a fast-paced environment and adapt to<br />
+changing responsibilities.&nbsp; A Bachelor&#39;s degree in Computer Science<br />
+(or similar) is an asset (but not required).&nbsp; Serious applicants only<br />
+please.</p>
+<p>
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++</p>
+<p>
+Calltrunk est une nouvelle entreprise en expansion qui sp&eacute;cialise en service d&#39;appels enregistr&eacute; dans &#39;Cloud&#39;. Pour plus d&#39;informations sur ce que nous faisons, veuillez nous visiter au https://www.calltrunk.com/us/en et en lire d&#39;avantage. Si vous voulez que votre travail aille une influence directe et imm&eacute;diate, joignez-vous &agrave; nous maintenant!</p>
+<p>
+Nous sommes &agrave; la recherche de programmeurs talentueux pour se joindre &agrave; notre &eacute;quipe de d&eacute;veloppement &agrave;&nbsp; Montr&eacute;al. Autant la connaissance et talent individuelle sont importants, aussi importante est une exp&eacute;rience vari&eacute;e et l&#39;habilit&eacute; de bien s&#39;int&eacute;grer pour cr&eacute;er une &eacute;quipe solide et bien &eacute;quilibr&eacute;e. Nous d&eacute;veloppons tout les composants du syst&egrave;me y compris l&#39;arri&egrave;re et frontal des sites webs et applications. Il y a beaucoup de travail excitant et nous recherchons des gens d&eacute;di&eacute;s pour le faire.</p>
+<p>
+<strong>Exigences</strong>:</p>
+<p>
+-Une personne proactive, fiable ayant une bonne esprit d&#39;&eacute;quipe<br />
+-Capable de s&#39;adapter au responsabilit&eacute; et priorit&eacute; changeantes<br />
+-Fondation solide avec les concepts de programmation de noyau y compris les structures de donn&eacute;es<br />
+-Exp&eacute;rience UNIX (shell scripting etc&hellip;)<br />
+-Exp&eacute;rience avec au moins une plate-forme de d&eacute;veloppement UNIX<br />
+-Exp&eacute;rience de d&eacute;veloppement &#39;open-source libs&#39; sera id&eacute;ale</p>
+<p>
+Quelques outils et technologies que nous utilisons sur une base hebdomadaire: C#, Mono, C, UNIX, shell scripting, Python, Django, JavaScript, JQuery, HTML, CSS, NoSQL, distributed/virtualized systems.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/calltrunk/PkONNw"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130501095444_6DTNFIJUPTVYINY3]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front-end Application Developer]]></title>
+			<department><![CDATA[Development]]></department>
+			<team><![CDATA[Development]]></team>
+			<url><![CDATA[http://calltrunk.theresumator.com/apply/03svcL/Frontend-Application-Developer.html]]></url>
+			<city><![CDATA[Montréal]]></city>
+			<state><![CDATA[Quebec]]></state>
+			<country><![CDATA[Canada]]></country>
+			<postalcode><![CDATA[H3J 2L2]]></postalcode>
+			<description><![CDATA[<p>
+Calltrunk is an exciting start-up specializing in cloud-based call recording services. We&#39;ve won several awards for our innovative technology (ARGOsearch). For more information on what we do, please visit https://www.calltrunk.com/us/en/ and read all about us.&nbsp; If you would like your work to have a direct and immediate influence, now is the time to join!</p>
+<p>
+We are looking for a Front-end Application Developer to work on existing Calltrunk websites and web-apps as well as building new ones.&nbsp; Some web projects are heavily client-based and require excellent client-side skills. The successful candidate will be working with the following technologies:</p>
+<ul>
+<li>
+Django web framework</li>
+<li>
+Phyton</li>
+<li>
+JavaScript</li>
+<li>
+AJAX</li>
+<li>
+JQuery</li>
+<li>
+Backbone</li>
+<li>
+JSON</li>
+<li>
+HTML5</li>
+<li>
+CSS</li>
+</ul>
+<p>
+<strong>Along with an attention to detail, the following knowledge is a definite asset:</strong></p>
+<ul>
+<li>
+MySQL and other databases</li>
+<li>
+Experience with JSON web-service APIs</li>
+<li>
+Standards-based, modern, clean markup/styling</li>
+<li>
+Experience with cross-browser development issues</li>
+<li>
+Experience with Amazon Web Services or other cloud hosting service</li>
+<li>
+Basic Photoshop (working with layers, image slicing for web UI)</li>
+<li>
+Comfortable in a UNIX/Linux environment</li>
+</ul>
+<p>
+The ideal candidate possesses the required skills and technical knowledge but can also work in a fast-paced environment within a small team.&nbsp; A Bachelor&#39;s degree in Computer Science (or similar) is an asset.</p>
+<p>
+Other positions:&nbsp; We&#39;re always on the lookout for smart software developers with strong fundamentals in object-oriented design and efficient implementation.<br />
+We work in C# (mono), C, Objective C, Java, Javascript, Python, and HTML5 and our stack includes .NET, NoSQL, SIP, SIPREC, JSON, jQuery, Backbone, Marionette, AppKit, Android and more.&nbsp; Visit us at https://www.calltrunk.com/us/en/.&nbsp;</p>
+<p>
+--------------------------------------------------------------------</p>
+<p>
+Calltrunk est une nouvelle entreprise en expansion qui sp&eacute;cialise en service d&#39;appels enregistr&eacute; dans &#39;Cloud&#39;. Pour plus d&#39;informations sur ce que nous faisons, veuillez nous visiter au https://www.calltrunk.com/us/en et en lire d&#39;avantage. Si vous voulez que votre travail aille une influence directe et imm&eacute;diate, joignez-vous &agrave; nous maintenant!</p>
+<p>
+Nous sommes &agrave; la recherche de programmeurs talentueux pour se joindre &agrave; notre &eacute;quipe de d&eacute;veloppement &agrave;&nbsp; Montr&eacute;al. Autant la connaissance et talent individuelle sont importants, aussi importante est une exp&eacute;rience vari&eacute;e et l&#39;habilit&eacute; de bien s&#39;int&eacute;grer pour cr&eacute;er une &eacute;quipe solide et bien &eacute;quilibr&eacute;e. Nous d&eacute;veloppons tout les composants du syst&egrave;me y compris l&#39;arri&egrave;re et frontal des sites webs et applications. Il y a beaucoup de travail excitant et nous recherchons des gens d&eacute;di&eacute;s pour le faire.</p>
+<p>
+<strong>Exigences:</strong></p>
+<ul>
+<li>
+-Une personne proactive, fiable ayant une bonne esprit d&#39;&eacute;quipe</li>
+<li>
+-Capable de s&#39;adapter au responsabilit&eacute; et priorit&eacute; changeantes</li>
+<li>
+-Fondation solide avec les concepts de programmation de noyau y compris les structures de donn&eacute;es</li>
+<li>
+-Exp&eacute;rience UNIX (shell scripting etc&hellip;)</li>
+<li>
+-Exp&eacute;rience avec au moins une plate-forme de d&eacute;veloppement UNIX</li>
+<li>
+-Exp&eacute;rience de d&eacute;veloppement &#39;open-source libs&#39; sera id&eacute;ale</li>
+</ul>
+<p>
+Quelques outils et technologies que nous utilisons sur une base hebdomadaire: C# (mono), C, Objective C, Java, Javascript, Python, UNIX, Django, and HTML5 and our stack includes .NET, NoSQL, SIP, SIPREC, JSON, jQuery, Backbone, Marionette, AppKit, Android.&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/calltrunk/03svcL"></script>]]></buttons>
+		</job>
+	</jobs>

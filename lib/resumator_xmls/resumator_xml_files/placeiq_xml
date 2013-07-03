@@ -1,0 +1,767 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[PlaceIQ]]></company>
+			<job>
+			<id><![CDATA[job_20130521214904_24RO5VDD0ODHE5M8]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Linux System Administrator Junior]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://placeiq.theresumator.com/apply/C0VUnj/Linux-System-Administrator-Junior.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p>
+PlaceIQ is a rapidly growing venture funded &ldquo;Big Data&rdquo; business with a tremendous opportunity to become the market leader in the exploding location intelligence marketplace.&nbsp; Starting with an extensive library of unstructured/unrelated geospatial, temporal and social data, PlaceIQ transforms information into time and location context.&nbsp; Revolutionary techniques in data mining and machine learning at scale are being developed on a daily basis to uncover the reality of the world like no other company can.</p>
+<p>
+<br />
+Having already assembled an exceptionally skilled, diverse and passionate team of developers and data scientists, we are looking for world-class engineers that can (or are willing to learn how to) do it all.&nbsp; From web frontends to classification algorithms, complex data visualizations to geospatial clustering, a full stack enterprise targeting platform to big data analytics, PlaceIQ software engineers live for huge challenges and know how to deliver in a dynamic, fast-paced, and agile environment.&nbsp; Our unique culture breeds excellence and embraces creativity as we look to innovate and drive our business forward.&nbsp; If are a solution-oriented and self-managing individual with a passion for building technology solutions, we want to talk to you!</p>
+<p>
+<br />
+<strong>The Role:</strong><br />
+Our developers and data scientists build and release internal and client facing software systems that must perform, scale, be resilient and deliver consistent quality.&nbsp; As such, the System Engineer will truly need to deliver effective engineering techniques and operational excellence on a daily basis. Our system engineers perform in both operational and devops support roles, building and maintaining the infrastructure that supports the entirety of the PlaceIQ business.</p>
+<p>
+<br />
+We are not looking for just a scripting expert.&nbsp; We are not looking for just an infrastructure management guru.&nbsp; We are not looking for just a DBA.&nbsp; We are not looking for just an operations expert with the technical chops to create and maintain reliable and efficient workflow for our mission critical systems.&nbsp; We are looking for ALL of those qualities mixed in with the creativity and drive necessary to succeed in a fast paced environment with really smart people.<br />
+The ideal candidate will bring experience and intuition to bear when managing, data storage, web services and dynamic, load-balanced, always available, fully automated and monitored server clusters.&nbsp; We work with a solid set of open source technologies along side high performance proprietary software and data processing techniques.&nbsp; A strong and diverse technical foundation is needed most certainly, but success at PlaceIQ depends on the candidate&rsquo;s ability to learn quickly and deliver consistently.&nbsp;<span style="font-size: 12px;">The junior systems engineer will work alongside a senior counterpart as part of the PlaceIQ Infrastructure group.</span></p>
+<p>
+<strong>Minimum Requirements:</strong><br />
+&bull; BS in Computer Science, Engineering or equivalent technical field<br />
+&bull; Strong foundation and demonstrated experience with Linux systems administration and shell scripting with an emphasis on CentOS/RHEL<br />
+&bull; Experience implementing and maintaining n-tier web application stacks (ie. databases, caches, load balancers, web application services)<br />
+&bull; Experience with cloud-based services and virtualized infrastructure<br />
+&bull; Experience with installing, monitoring, and maintaining network and server hardware in a datacenter environment<br />
+<br />
+<strong>Preferred Qualifications:</strong><br />
+&bull; 4+ years experience in a system engineer/devops role<br />
+&bull; Working knowledge of Puppet, Chef, Jeeves, Capistrano<br />
+&bull; Working knowledge of NoSQL DBs (Couch, Mongo, Cassandra)<br />
+&bull; Working knowledge of Postgres/MySQL<br />
+&bull; Working knowledge of networking (Cisco, Firewall, IDS a plus)<br />
+&bull; Experience with deploying and managing OpenStack cloud infrastructure<br />
+&bull; Experience with build tools and continuous integration systems<br />
+&bull; Experience building, scaling and managing virtual computing clusters<br />
+&bull; Experience with Amazon Web Services<br />
+&bull; Familiarity with distributed source control tools (Git)<br />
+&bull; Load testing and system scale analytics and provisioning<br />
+&bull; Performance tuning experience at all levels of the software stack<br />
+&bull; Experience providing end user support for technical integrations<br />
+&bull; Working knowledge of hosting Java/Python/Ruby application stacks<br />
+&bull; Ability to clearly and accurate document work flow and technical systems<br />
+<br />
+This position is located in New York, NY.&nbsp; Candidates must be authorized to work in the United States on a full-time basis for any employer.</p>
+<p>
+<br />
+Salary and equity compensation commensurate with experience.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/PlaceIQ/C0VUnj"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120118044239_Z4OKW8D3FCFESKTU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Data Scientist]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://placeiq.theresumator.com/apply/fSlchT/Data-Scientist.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p>
+<u><strong>Data Scientist</strong></u></p>
+<p>
+<strong>PlaceIQ in New York City.</strong></p>
+<p>
+<strong>Background:</strong></p>
+<p>
+We are a rapidly growing venture funded &lsquo;Big Data&rsquo; business pursuing a tremendous opportunity to become the market leader in the exploding location intelligence marketplace.</p>
+<p>
+PlaceIQ transforms time and location into context through a deep analysis of large amounts of often unstructured, unrelated, location based data including photos, place data, event data, digital and social data. This anonymous location context is used across a wide variety of markets, including our primary market, mobile advertising optimization.</p>
+<p>
+We are hiring a Data Scientist to join our team.&nbsp;</p>
+<p>
+<strong>The role:</strong></p>
+<p>
+The candidate will analyze PlaceIQ hyperlocal data sources to develop accurate predictions of audience and behavior.&nbsp; A mixture of analytical approaches will be employed including raw data mining (sql, nosql and programmatic approaches), data visualization, rules and supervised / unsupervised machine learning.&nbsp;</p>
+<p>
+We deal with extremely large data sets requiring the design and development of highly memory and cpu efficient methods.&nbsp; We use a mixture of commercial, open source and home grown solutions.&nbsp; This role will require familiarity with tools such as R and languages such as Python.&nbsp;</p>
+<p>
+Experience with horizontally scaling statistical algorithms via parallel processing methods is a plus.&nbsp; Experience with geospatial tools is a plus.</p>
+<p>
+<strong>Key Responsibilities:</strong></p>
+<p>
+&bull; Raw data analysis &ndash; assessing quality, cleansing, structuring for downstream processing</p>
+<p>
+&bull; Design and prototype of accurate and scalable prediction processes and programs</p>
+<p>
+&bull; Functional and technical documentation of designs</p>
+<p>
+&bull; Collaboration with software development team to implement software</p>
+<p>
+&bull; Oversight of production systems &ndash; monitor accuracy and performance, resolve issues</p>
+<p>
+&bull; Communication of results to partners and customers</p>
+<p>
+<strong>Requirements</strong></p>
+<p>
+&bull; Creative and pragmatic analyst with a passion for understanding audience location and behavior</p>
+<p>
+&bull; Problem solving &ndash; ability to identify issues quickly and rapidly determine root cause and effective resolution approach</p>
+<p>
+&bull; Data analysis &ndash; very solid data analysis skills including application of analytical techniques such as statistics, graphical analysis, mathematical modeling and hypothesis testing</p>
+<p>
+&bull; Data management &ndash; familiarity with sql, nosql and programmatic techniques for manipulating data</p>
+<p>
+&bull; Business solution development &ndash; ability to ramp quickly on marketing / audience domain</p>
+<p>
+&bull; Software development - fundamental coding skills enabling building of small scripts and applications to implement support personal analytical work and develop prototypes for core company systems</p>
+<p>
+&bull; Communication - excellent verbal and written communication skills, ability to communicate technical topics to non-technical individuals</p>
+<p>
+&bull; Execution - ability to manage own time and work effectively with others on projects.&nbsp; Working efficiently and delivering on commitments.</p>
+<p>
+Education / Experience</p>
+<p>
+&bull; Bachelors degree in Statistics/Applied Math/Computer Science, related field or equivalent work experience required</p>
+<p>
+&bull; Masters degree in Statistics, Applied Math strongly desired</p>
+<p>
+&bull; 2+ years relevant job experience</p>
+<p>
+Compensation in cash and equity commensurate with the opportunity.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/PlaceIQ/fSlchT"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120813163654_AY3AJSMYAHLD2NFF]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer, Junior]]></title>
+			<department><![CDATA[Software Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://placeiq.theresumator.com/apply/CWuzae/Software-Engineer-Junior.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10011]]></postalcode>
+			<description><![CDATA[<p>
+PlaceIQ is a rapidly growing, venture funded &ldquo;Big Data&rdquo; business with a tremendous opportunity to become the market leader in the exploding location intelligence marketplace.&nbsp; Starting with an extensive library of unstructured/unrelated geospatial, temporal and social data, PlaceIQ transforms information into time and location context.&nbsp; Revolutionary techniques in data mining and machine learning at scale are being developed on a daily basis to uncover the reality of the world like no other company can.&nbsp;</p>
+<p>
+<br />
+Having already assembled an exceptionally skilled, diverse and passionate team of developers and data scientists, we are looking for world-class engineers that can (or are willing to learn how to&hellip;) do it all.&nbsp; From web front ends to regression models/classification algorithms, complex data visualizations to geospatial clustering, a full stack enterprise targeting platform to big data analytics, PlaceIQ software engineers live for huge challenges and know how to deliver in a fast paced, agile environment.&nbsp; Our unique culture breeds excellence and embraces creativity as we look to innovate and drive our business forward.&nbsp; If you have a passion for imagining and building technology solutions that will make an immediate impact in an untapped space, we want to talk to you!</p>
+<p>
+<strong>The Role:</strong></p>
+<p>
+The &ldquo;junior&rdquo; designation for this role is actually misleading.&nbsp; What a candidate may lack in experience, we expect they will make up for with raw intellectual horsepower and drive.&nbsp; From Day 1 at PlaceIQ, you will be given the charter to conceive, design, develop, test and deploy systems for our own internal analytics and for our customers&rsquo; use.&nbsp;</p>
+<p>
+<br />
+Recent graduates and developers with a few years of experience looking to learn the tricks of the trade from a group of experienced industry veterans (with varied experiences ranging from large software companies, successful startups to some of the biggest financial services firms in the world) while delivering robust, performant code should definitely apply. You will work hand-in-hand with our product and data science teams to quickly turn ideas into prototypes and then full-scale, production quality systems.</p>
+<p>
+<strong>Minimum Requirements:</strong></p>
+<ul>
+<li>
+BS in Computer Science or related field</li>
+<li>
+Proven development experience with Java and/or C/C++</li>
+<li>
+Scalable distributed algorithm design/implementation</li>
+<li>
+Database Systems (SQL+NoSQL)</li>
+</ul>
+<p>
+<strong>Preferred Qualifications:</strong></p>
+<ul>
+<li>
+MS/PhD in Computer Science or related field</li>
+<li>
+Background in applied mathematics/probability/statistics</li>
+<li>
+2+ years developing production Java code</li>
+<li>
+Experience with Hadoop/Big Data paradigms</li>
+<li>
+Python/Ruby scripting (specifically with Python &ldquo;scientific&rdquo; platform/Ruby on Rails)</li>
+<li>
+Machine learning algorithms</li>
+</ul>
+<p>
+This position is located in New York, NY.&nbsp; Candidates must be authorized to work in the United States on a full-time basis for any employer.&nbsp;</p>
+<p>
+Salary/Equity compensation commensurate on experience.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/PlaceIQ/CWuzae"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121226021548_Y3ZACHYDM8GHACTB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Software Engineer, Analytics]]></title>
+			<department><![CDATA[Software Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://placeiq.theresumator.com/apply/fDD6YL/Senior-Software-Engineer-Analytics.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10001]]></postalcode>
+			<description><![CDATA[<p>
+PlaceIQ is a rapidly growing, venture funded &ldquo;Big Data&rdquo; business with a tremendous opportunity to become the market leader in the exploding location intelligence marketplace.&nbsp; Starting with an extensive library of unstructured/unrelated geospatial, temporal and social data, PlaceIQ transforms information into time and location context.&nbsp; Revolutionary techniques in data mining and machine learning at scale are being developed on a daily basis to uncover the reality of the world like no other company can.</p>
+<p>
+Having already assembled an exceptionally skilled, diverse and passionate team of developers and data scientists, we are looking for world-class engineers that can (or are willing to learn how to&hellip;) do it all.&nbsp; From web front ends to regression models/classification algorithms, complex data visualizations to geospatial clustering, a full stack enterprise targeting platform to big data analytics, PlaceIQ software engineers live for huge challenges and know how to deliver in a fast paced, agile environment.&nbsp; Our unique culture breeds excellence and embraces creativity as we look to innovate and drive our business forward.&nbsp; If you have a passion for imagining and building technology solutions that will make an immediate impact in an untapped space, we want to talk to you!</p>
+<p>
+<strong>The Role:</strong></p>
+<p>
+At its core, the PlaceIQ value proposition centers around the ability to effectively collect, classify, analyze and distribute key insights to a number of disparate markets from massive amounts of base data.&nbsp; The challenge of sifting through the noise and finding the most integral signals requires both highly performant, scalable architectures and the latest data mining and machine learning techniques.&nbsp;</p>
+<p>
+We are looking for a mid to senior level Software Engineer to drive our analytics platform to the next level.&nbsp; The role will be responsible for owning both the infrastructural aspects of the PlaceIQ scientific platform as well as serving as the bridge between the Engineering and Data Science teams as we build a battery of best of breed algorithms to extract the most ingenious product insights.&nbsp; Our engineers are self-starters, to say the least, and are expected to be able to take product ownership from Day 1. &nbsp;You will with a number of functional teams to quickly turn ideas into prototypes and then full-scale, production quality systems.&nbsp; In the end, to be successful in this role, sheer determination and a passion to solve complex problems on a daily basis are an absolute must.</p>
+<p>
+The ideal candidate will bring the perfect balance of software development experience, a wide breadth of knowledge in modern data storage and analytics frameworks at &ldquo;big data scale&rdquo; and a true passion for life at a fast paced startup.</p>
+<p>
+<strong>Minimum Requirements:</strong></p>
+<ul>
+<li>
+BA/BS in Computer Science/Engineering&nbsp;or related technical field</li>
+<li>
+3-5&nbsp;years of industry experience with Java, C/C++ or Python</li>
+<li>
+Experience with Hadoop/HIVE/Big Data analytics paradigms</li>
+<li>
+Fluency with SQL/NoSQL Database Systems</li>
+<li>
+Solid foundation in computer science fundamentals from data structures and algorithms to high-level design patterns</li>
+</ul>
+<p>
+<strong>Preferred Qualifications:</strong></p>
+<ul>
+<li>
+Experience with Python scientific platform (Numpy/Scipy/Matplotlib), R, MATLAB or other 3rd party mathematical/statistical analysis packages</li>
+<li>
+Exposure and working knowledge of geospatial products and platforms (ArcGIS, ESRI Location Analytics, Google/OSM APIs, etc.)</li>
+<li>
+Industry or research background in design and implementation of machine learning algorithms/data mining techniques</li>
+<li>
+Experience with ad tech and mobile or digital advertising</li>
+</ul>
+<p>
+This position is located in New York, NY.&nbsp; Candidates must be authorized to work in the United States on a full-time basis for any employer.</p>
+<p>
+Salary/Equity compensation commensurate on experience.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/PlaceIQ/fDD6YL"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121226043653_MYZAO1OF55XONVES]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Software Engineer, Platform]]></title>
+			<department><![CDATA[Software Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://placeiq.theresumator.com/apply/RI4dPw/Senior-Software-Engineer-Platform.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10001]]></postalcode>
+			<description><![CDATA[<p>
+PlaceIQ is a rapidly growing, venture funded &ldquo;Big Data&rdquo; business with a tremendous opportunity to become the market leader in the exploding location intelligence marketplace.&nbsp; Starting with an extensive library of unstructured/unrelated geospatial, temporal and social data, PlaceIQ transforms information into time and location context.&nbsp; Revolutionary techniques in data mining and machine learning at scale are being developed on a daily basis to uncover the reality of the world like no other company can.</p>
+<p>
+Having already assembled an exceptionally skilled, diverse and passionate team of developers and data scientists, we are looking for world-class engineers that can (or are willing to learn how to&hellip;) do it all.&nbsp; From web front ends to regression models/classification algorithms, complex data visualizations to geospatial clustering, a full stack enterprise targeting platform to big data analytics, PlaceIQ software engineers live for huge challenges and know how to deliver in a fast paced, agile environment.&nbsp; Our unique culture breeds excellence and embraces creativity as we look to innovate and drive our business forward.&nbsp; If you have a passion for imagining and building technology solutions that will make an immediate impact in an untapped space, we want to talk to you!</p>
+<p>
+<strong>The Role:</strong></p>
+<p>
+As a senior member of our Engineering team, you will own the design, development and integration of the next generation PlaceIQ Mobile Platform.&nbsp; Along with the technical chops necessary to build and deploy robust, high-performance, always available services that will scale to our clients&rsquo; needs, the ideal candidate will bring the &ldquo;right&rdquo; mix of creativity and development discipline to expand the standards of excellence that our Engineers and Data Scientists have already set.&nbsp;</p>
+<p>
+We work in an agile environment focused on delivering high quality software through quick iterations.&nbsp; We don&rsquo;t always stick to a particular programming language or adapt our requirements to fit within a particular technology stack.&nbsp; Software development, for us, focuses on the simple yet elegant solutions to complex problems.&nbsp; We rely on the most basic fundamentals of computer science every day while drawing from the latest and greatest breakthroughs in mobile/web/big data paradigms to build the absolute best in class platform for our clients.</p>
+<p>
+At PlaceIQ, we empower our team members to extend beyond traditional functional boundaries so that we can build game-changing products.&nbsp; This means that our Engineers will need to put on their Product Manager hats to deeply understand the mobile ecosystem with an eye towards developing a major disruption.&nbsp; Our Engineers will have to become Social Anthropologists/Analysts to uncover the hidden truths and behavioral patterns from petabytes of geospatial data.&nbsp; Our Engineers will be the heart of Ops in developing and maintaining flexible services.&nbsp; Finally, and perhaps most importantly, our Engineers will be our conduit to the customer so that we consistently deliver what they need.</p>
+<p>
+<strong>Minimum Requirements:</strong></p>
+<ul>
+<li>
+BA/BS in Computer Science/Engineering or related technical field</li>
+<li>
+3-5 years of industry experience with Enterprise Java or C/C++</li>
+<li>
+Full lifecycle development experience building high performance/low latency client-server architectures</li>
+<li>
+Strong database and networking skills</li>
+<li>
+Experience in UNIX/Linux environments with Bash/Perl/Python scripting</li>
+<li>
+Solid foundation in computer science fundamentals from data structures and algorithms to high-level design patterns</li>
+</ul>
+<p>
+<strong>Preferred Qualifications:</strong></p>
+<ul>
+<li>
+Mastery of Java Web Services Stack (REST/Tomcat/Groovy/GRAILS)</li>
+<li>
+Familiarity with mobile web/app development (iOS and Android SDKs)</li>
+<li>
+Experience building and/or integrating mobile/display ad serving platforms</li>
+<li>
+Exposure to real-time bidding (high frequency trading/telecom) technologies is a big plus</li>
+<li>
+Experience with ad tech and mobile or digital advertising</li>
+</ul>
+<p>
+This position is located in New York, NY.&nbsp; Candidates must be authorized to work in the United States on a full-time basis for any employer.</p>
+<p>
+Salary/Equity compensation commensurate on experience.</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/PlaceIQ/RI4dPw"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130122180101_IPFAKXEUPBAQUCLY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Account Manager]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://placeiq.theresumator.com/apply/OdsdFf/Account-Manager.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10001]]></postalcode>
+			<description><![CDATA[<p>
+Description:</p>
+<p>
+PlaceIQ is a rapidly growing, venture funded &ldquo;Big Data&rdquo; business with a tremendous opportunity to become the market leader in the exploding location intelligence marketplace.&nbsp; Starting with an extensive library of unstructured/unrelated geospatial, temporal and social data, PlaceIQ transforms information into time and location context.&nbsp; Revolutionary techniques in data mining and machine learning at scale are being developed on a daily basis to uncover the reality of the world like no other company can.</p>
+<p>
+Having already assembled a exceptionally skilled, diverse and passionate team, we are looking for individuals who can develop relationships with key people within the industry. We expect our account managers to be the key drivers to many different tasks, from building the campaign proposal to delivering said proposal to the client.&nbsp;Our unique culture breeds excellence and embraces creativity as we look to innovate and drive our business forward. If you are a person who likes to help develop and manage media proposals and answer RFPs, work with clients and internal departments, and wants to join a very differentiated start up specializing enabling audience development and measurement through the use of location&hellip;we&rsquo;d like to meet you!</p>
+<p>
+Successful Candidate Will:</p>
+<ul>
+<li>
+Enjoy being at the center of the action and able to manage information and communication</li>
+<li>
+Have a passion for&nbsp;advertising&nbsp;&nbsp;</li>
+<li>
+Have experience with interactive advertising (mobile experience is a huge plus) account management with ad networks, publishers, or adverting agencies.</li>
+<li>
+Be the primary point-of-contact for the client during advertising campaigns</li>
+<li>
+Coordinate work with sales and product team</li>
+<li>
+Have an understanding of DoubleClick, atlas, and the concepts of adservering&nbsp;</li>
+<li>
+Assist in developing account strategy and RFP response development</li>
+<li>
+Deliver campaign summary/analysis</li>
+<li>
+Day-to-day client management experience</li>
+<li>
+Have an understanding of Excel, Powerpoint, and Salesforce</li>
+</ul>
+<p>
+This position is located in New York, NY.&nbsp; Candidates must be authorized to work in the United States on a full-time basis for any employer.</p>
+<p>
+Salary/Equity compensation commensurate on experience.</p>
+<p>
+&nbsp;</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/PlaceIQ/OdsdFf"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130211154333_YN6NRL73H3KQH5EE]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Product Manager - Mobile Ads]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://placeiq.theresumator.com/apply/U5PcSx/Product-Manager-Mobile-Ads.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10001]]></postalcode>
+			<description><![CDATA[<p>
+PlaceIQ is a rapidly growing, venture funded &ldquo;Big Data&rdquo; business with a tremendous opportunity to become the market leader in the exploding location intelligence marketplace.&nbsp; Starting with an extensive library of unstructured/unrelated geospatial, temporal and social data, PlaceIQ transforms information into time and location context.&nbsp; Revolutionary techniques in data mining and machine learning at scale are being developed on a daily basis to uncover the reality of the world like no other company can.</p>
+<p>
+<strong>The Role:</strong><br />
+The Product Manager for &lsquo;Mobile Ads&rsquo; is a high profile role at PlaceIQ. The Product Manager is responsible for the definition and go-to-market plan for PlaceIQ&#39;s cutting-edge Mobile Ads products. This person will lead the definition and design, arbitrate timing and scope of features with engineering and ultimately deliver a product roadmap that supports company revenue goals.&nbsp; The Product Manager will be an evangelist capable of working with Sales (both direct and partner) to develop product that supports an efficient sales approach.&nbsp; Additionally, the product manager should be keen to identify new opportunities and product directions that emerge from market changes or data science innovations and be able to spearhead the initial outline of such efforts.</p>
+<p>
+The Product Manager will work closely with marketing, sales, development and data science. The ability to clearly converse with cross-functional teams during product roadmap development is crucial. The Product Manager must be able to listen, evaluate, communicate, and lead in a fast-paced environment.</p>
+<br />
+<p>
+<strong>Responsibilities:</strong>&bull; Own and manage the product life cycle for &lsquo;Mobile Ads&rsquo; product line from strategic planning to tactical activities<br />
+&bull; Identify customer demand by constantly listening to their needs and thinking out of the box to develop new products or enhance existing products<br />
+&bull; Be an internal expert for competitive landscape, keep abreast of fast changing marketplace and inform the teams regularly in a consumable fashion<br />
+&bull; Create business case, prioritize and maintain product backlog on ongoing basis<br />
+&bull; Define detailed product requirements and document use-cases crisply<br />
+&bull; Define and establish key performance metrics that determine success of product line<br />
+&bull; Establish shared vision across the company by building consensus on priorities and lead cross-functional teams (engineering, sales, strategy, data science, marketing) to drive product development<br />
+&bull; Manage, track and communicate projects and programs for Mobile Ads.<br />
+&bull; Work closely with VP of Product and Business Development team to identify new opportunities and drive closure of deals and partnerships<br />
+&bull; Lead the development of sales collateral and programs to drive for scalable product sales</p>
+<p>
+<strong>Required Skills:</strong><br />
+&bull; Past experience in Ad-tech specifically integrating with Ad Servers, Demand Side Platform (DSP) and Mobile Ad Networks<br />
+&bull; Strong leadership and problem solving skills, especially when working across multiple disciplines<br />
+&bull; Exceptional analytical, communication and organizational skills required<br />
+&bull; Detail-oriented without losing sight of big picture is required<br />
+&bull; Experience with agile software development and lean startup environment preferred<br />
+&bull; Experience working with a start up or fast-paced environment preferred</p>
+<br />
+<p>
+<strong>Experience:</strong>&bull; At least 3-5 years of product management experience, or an MBA from a top business school preferred<br />
+&bull; Experience with Ad-tech strongly preferred<br />
+&bull; Experience with mobile or location products<br />
+&bull; Background in science, math, engineering or statistics is a plus</p>
+<p>
+This position is located in New York, NY.&nbsp; Candidates must be authorized to work in the United States on a full-time basis for any employer.</p>
+<p>
+Salary/Equity compensation commensurate with experience.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/PlaceIQ/U5PcSx"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130325154756_RGKDCBQ9HROZASNT]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Software Engineer, Platform]]></title>
+			<department><![CDATA[Software Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://placeiq.theresumator.com/apply/w8PUNd/Senior-Software-Engineer-Platform.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94131]]></postalcode>
+			<description><![CDATA[<p>
+PlaceIQ is a rapidly growing, venture funded &ldquo;Big Data&rdquo; business with a tremendous opportunity to become the market leader in the exploding location intelligence marketplace.&nbsp; Starting with an extensive library of unstructured/unrelated geospatial, temporal and social data, PlaceIQ transforms information into time and location context.&nbsp; Revolutionary techniques in data mining and machine learning at scale are being developed on a daily basis to uncover the reality of the world like no other company can.</p>
+<p>
+Having already assembled an exceptionally skilled, diverse and passionate team of developers and data scientists, we are looking for world-class engineers that can (or are willing to learn how to&hellip;) do it all.&nbsp; From web front ends to regression models/classification algorithms, complex data visualizations to geospatial clustering, a full stack enterprise targeting platform to big data analytics, PlaceIQ software engineers live for huge challenges and know how to deliver in a fast paced, agile environment.&nbsp; Our unique culture breeds excellence and embraces creativity as we look to innovate and drive our business forward.&nbsp; If you have a passion for imagining and building technology solutions that will make an immediate impact in an untapped space, we want to talk to you!</p>
+<p>
+<strong>The Role:</strong></p>
+<p>
+As a senior member of our Engineering team, you will own the design, development and integration of the next generation PlaceIQ Mobile Platform.&nbsp; Along with the technical chops necessary to build and deploy robust, high-performance, always available services that will scale to our clients&rsquo; needs, the ideal candidate will bring the &ldquo;right&rdquo; mix of creativity and development discipline to expand the standards of excellence that our Engineers and Data Scientists have already set.&nbsp;</p>
+<p>
+We work in an agile environment focused on delivering high quality software through quick iterations.&nbsp; We don&rsquo;t always stick to a particular programming language or adapt our requirements to fit within a particular technology stack.&nbsp; Software development, for us, focuses on the simple yet elegant solutions to complex problems.&nbsp; We rely on the most basic fundamentals of computer science every day while drawing from the latest and greatest breakthroughs in mobile/web/big data paradigms to build the absolute best in class platform for our clients.</p>
+<p>
+At PlaceIQ, we empower our team members to extend beyond traditional functional boundaries so that we can build game-changing products.&nbsp; This means that our Engineers will need to put on their Product Manager hats to deeply understand the mobile ecosystem with an eye towards developing a major disruption.&nbsp; Our Engineers will have to become Social Anthropologists/Analysts to uncover the hidden truths and behavioral patterns from petabytes of geospatial data.&nbsp; Our Engineers will be the heart of Ops in developing and maintaining flexible services.&nbsp; Finally, and perhaps most importantly, our Engineers will be our conduit to the customer so that we consistently deliver what they need.</p>
+<p>
+<strong>Minimum Requirements:</strong></p>
+<ul>
+<li>
+BA/BS in Computer Science/Engineering or related technical field</li>
+<li>
+3-5 years of industry experience with Enterprise Java or C/C++</li>
+<li>
+Full lifecycle development experience building high performance/low latency client-server architectures</li>
+<li>
+Strong database and networking skills</li>
+<li>
+Experience in UNIX/Linux environments with Bash/Perl/Python scripting</li>
+<li>
+Solid foundation in computer science fundamentals from data structures and algorithms to high-level design patterns</li>
+</ul>
+<p>
+<strong>Preferred Qualifications:</strong></p>
+<ul>
+<li>
+Mastery of Java Web Services Stack (REST/Tomcat/Groovy/GRAILS)</li>
+<li>
+Familiarity with mobile web/app development (iOS and Android SDKs)</li>
+<li>
+Experience building and/or integrating mobile/display ad serving platforms</li>
+<li>
+Exposure to real-time bidding (high frequency trading/telecom) technologies is a big plus</li>
+<li>
+Experience with ad tech and mobile or digital advertising</li>
+</ul>
+<p>
+This position is located in New York, NY.&nbsp; Candidates must be authorized to work in the United States on a full-time basis for any employer.</p>
+<p>
+Salary/Equity compensation commensurate on experience.</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/PlaceIQ/w8PUNd"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130325154637_LUHFHTQRPF2BRZSI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Software Engineer, Analytics]]></title>
+			<department><![CDATA[Software Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://placeiq.theresumator.com/apply/fj6CXo/Senior-Software-Engineer-Analytics.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94131]]></postalcode>
+			<description><![CDATA[<p>
+PlaceIQ is a rapidly growing, venture funded &ldquo;Big Data&rdquo; business with a tremendous opportunity to become the market leader in the exploding location intelligence marketplace.&nbsp; Starting with an extensive library of unstructured/unrelated geospatial, temporal and social data, PlaceIQ transforms information into time and location context.&nbsp; Revolutionary techniques in data mining and machine learning at scale are being developed on a daily basis to uncover the reality of the world like no other company can.</p>
+<p>
+Having already assembled an exceptionally skilled, diverse and passionate team of developers and data scientists, we are looking for world-class engineers that can (or are willing to learn how to&hellip;) do it all.&nbsp; From web front ends to regression models/classification algorithms, complex data visualizations to geospatial clustering, a full stack enterprise targeting platform to big data analytics, PlaceIQ software engineers live for huge challenges and know how to deliver in a fast paced, agile environment.&nbsp; Our unique culture breeds excellence and embraces creativity as we look to innovate and drive our business forward.&nbsp; If you have a passion for imagining and building technology solutions that will make an immediate impact in an untapped space, we want to talk to you!</p>
+<p>
+<strong>The Role:</strong></p>
+<p>
+At its core, the PlaceIQ value proposition centers around the ability to effectively collect, classify, analyze and distribute key insights to a number of disparate markets from massive amounts of base data.&nbsp; The challenge of sifting through the noise and finding the most integral signals requires both highly performant, scalable architectures and the latest data mining and machine learning techniques.&nbsp;</p>
+<p>
+We are looking for a mid to senior level Software Engineer to drive our analytics platform to the next level.&nbsp; The role will be responsible for owning both the infrastructural aspects of the PlaceIQ scientific platform as well as serving as the bridge between the Engineering and Data Science teams as we build a battery of best of breed algorithms to extract the most ingenious product insights.&nbsp; Our engineers are self-starters, to say the least, and are expected to be able to take product ownership from Day 1. &nbsp;You will with a number of functional teams to quickly turn ideas into prototypes and then full-scale, production quality systems.&nbsp; In the end, to be successful in this role, sheer determination and a passion to solve complex problems on a daily basis are an absolute must.</p>
+<p>
+The ideal candidate will bring the perfect balance of software development experience, a wide breadth of knowledge in modern data storage and analytics frameworks at &ldquo;big data scale&rdquo; and a true passion for life at a fast paced startup.</p>
+<p>
+<strong>Minimum Requirements:</strong></p>
+<ul>
+<li>
+BA/BS in Computer Science/Engineering&nbsp;or related technical field</li>
+<li>
+3-5&nbsp;years of industry experience with Java, C/C++ or Python</li>
+<li>
+Experience with Hadoop/HIVE/Big Data analytics paradigms</li>
+<li>
+Fluency with SQL/NoSQL Database Systems</li>
+<li>
+Solid foundation in computer science fundamentals from data structures and algorithms to high-level design patterns</li>
+</ul>
+<p>
+<strong>Preferred Qualifications:</strong></p>
+<ul>
+<li>
+Experience with Python scientific platform (Numpy/Scipy/Matplotlib), R, MATLAB or other 3rd party mathematical/statistical analysis packages</li>
+<li>
+Exposure and working knowledge of geospatial products and platforms (ArcGIS, ESRI Location Analytics, Google/OSM APIs, etc.)</li>
+<li>
+Industry or research background in design and implementation of machine learning algorithms/data mining techniques</li>
+<li>
+Experience with ad tech and mobile or digital advertising</li>
+</ul>
+<p>
+This position is located in New York, NY.&nbsp; Candidates must be authorized to work in the United States on a full-time basis for any employer.</p>
+<p>
+Salary/Equity compensation commensurate on experience.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/PlaceIQ/fj6CXo"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130502152224_RHZ6OMK8D1G9ZTQD]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Product Manager - Data Applications & Analytics]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://placeiq.theresumator.com/apply/ev8TWh/Senior-Product-Manager-Data-Applications-Analytics.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10001]]></postalcode>
+			<description><![CDATA[<p>
+PlaceIQ is a rapidly growing venture-funded &ldquo;Big Data&rdquo; business, focused on extracting audience, intent and behavior from place-based data.&nbsp; Starting with an extensive library of unstructured/unrelated geospatial, temporal and social data, PlaceIQ transforms information into time and location context.&nbsp; Revolutionary techniques in data mining and machine learning at scale are being developed on a daily basis to uncover the reality of the world like no other company can. The company then applies the resulting product in applications from mobile advertising to electronic signage and much more.<br />
+<br />
+<strong>The Role:</strong><br />
+The Senior Product Manager for &lsquo;Data Applications &amp; Analytics&rsquo; is a high profile role at PlaceIQ. This role is responsible for the definition and go-to-market plan for PlaceIQ&#39;s Data Applications and Analytic products, as well as identifying additional types and sources of location based data that could prove valuable to leverage. This person will lead the definition and design, arbitrate timing and scope of features with engineering and ultimately deliver a product roadmap that supports company revenue goals.&nbsp; The Senior Product Manager will be an evangelist capable of working with Sales (both direct and partner) to develop product that supports an efficient sales approach.&nbsp; Additionally, this person should be keen to identify new opportunities and product directions that emerge from market changes or data science innovations and be able to spearhead the initial outline of such efforts.<br />
+<br />
+The Senior Product Manager will work closely with marketing, sales, development and data science. The ability to clearly converse with cross-functional teams during product roadmap development is crucial. He/she must be able to listen, evaluate, communicate, and lead in a fast-paced environment.<br />
+<br />
+<strong>Responsibilities:</strong><br />
+&bull; Define and execute the product roadmap for data acquisition<br />
+&bull; Define analytical and product based use cases and applications for new and current data<br />
+&bull; Own and manage the product life cycle for &lsquo;data applications &amp; analytics&rsquo; product line from strategic planning to tactical activities<br />
+&bull; Be an internal expert for data and analytics competitive landscape, keep abreast of fast changing marketplace and inform the teams regularly in a consumable fashion<br />
+&bull; Create business case, prioritize and maintain product backlog on ongoing basis<br />
+&bull; Define and establish key performance metrics that determine success of product line<br />
+&bull; Manage, track and communicate projects and programs for Data Applications &amp; Analytics.<br />
+&bull; Work closely with VP of Product and Business Development team to identify new opportunities and drive closure of deals and partnerships<br />
+<br />
+<strong>Required Skills:</strong><br />
+&bull; Knowledge, experience and a passion dealing with geographic and local data sets.</p>
+<p>
+&bull; Detailed understand of the local data ecosystem, players, verticals, use cases<br />
+&bull; Experience in, or rapidly ability to become, expert on other data sets &ndash; retail, transaction, media, social, mobile &ndash; anything that can offer a &lsquo;signal&rsquo; from a location<br />
+&bull; Past experience in Big Data or Analytics or deeper passion for it is a must<br />
+&bull; Deep understanding of statistics or machine learning is required<br />
+&bull; Familiarity of one of the more of the following ecosystem would be critical - mobile apps, mobile middleware, carriers, marketing data and GIS<br />
+&bull; Experience with agile software development and lean startup environment preferred<br />
+&bull; Experience working with a start up or fast-paced environment preferred<br />
+<br />
+<strong>Experience:</strong><br />
+&bull; At least 5 plus years of industry experience is required<br />
+&bull; Experience with data products or customer analytics and marketing<br />
+&bull; Experience with location based / geographic data required<br />
+&bull; Experience with mobile data and / or technologies a plus<br />
+&bull; Background in math or statistics is a plus</p>
+<p>
+&nbsp;</p>
+<p>
+This position is located in New York, NY.&nbsp; Candidates must be authorized to work in the United States on a full-time basis for any employer.</p>
+<p>
+Competitive salary and equity compensation commensurate with experience.</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/PlaceIQ/ev8TWh"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130513223008_XKEJJ6UZR9T6V0R6]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Cartography Team Manager]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://placeiq.theresumator.com/apply/0o8pS9/Cartography-Team-Manager.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10001]]></postalcode>
+			<description><![CDATA[<p>
+PlaceIQ is a rapidly growing, venture funded &ldquo;Big Data&rdquo; business with a tremendous opportunity to become the market leader in the exploding location-based mobile advertising intelligence space. By transforming information into time and location context, we are uncovering the reality of the world like no other company can.</p>
+<p>
+We&#39;re looking for an energetic, personable self-starter to coordinate our remotely-working cartography team. Responsibilities include distributing work to and maintaining contact with remote workers engaged in mapping tasks. You will be assembling and tracking work with Microsoft Excel. The job responsibilities also extend to compiling, transforming and loading data with simple python and bash scripting. An ideal candidate will be familiar with the command-line interface, but quick-learners are encouraged to apply. Further responsibilities also include data evaluation, cleansing and normalization as well as metadata creation/attribution.</p>
+<p>
+<strong>Key responsibilities:</strong><br />
+* Establish and terminate contracts for remote workers<br />
+* Perform quality-assurance measures on work<br />
+* Compile, transform and load data<br />
+* Devise best practices and create training material for specific mapping tasks</p>
+<p>
+<strong>Desired candidates possess:</strong><br />
+* BA/BS in any field, Bachelors in Geography or exposure to GIS in any coursework is a plus<br />
+* Experience managing remote workers (not required)<br />
+* Great Microsoft Excel skills<br />
+* Familiarity with command line interfaces</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/PlaceIQ/0o8pS9"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130523160307_JGIH5YO3MA5O3IVM]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Linux Administrator Senior]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://placeiq.theresumator.com/apply/st5kvK/Linux-Administrator-Senior.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p>
+PlaceIQ is a rapidly growing venture funded &ldquo;Big Data&rdquo; business with a tremendous opportunity to become the market leader in the exploding location intelligence marketplace.&nbsp; Starting with an extensive library of unstructured/unrelated geospatial, temporal and social data, PlaceIQ transforms information into time and location context.&nbsp; Revolutionary techniques in data mining and machine learning at scale are being developed on a daily basis to uncover the reality of the world like no other company can.</p>
+<p>
+<br />
+Having already assembled an exceptionally skilled, diverse and passionate team of developers and data scientists, we are looking for world-class engineers that can (or are willing to learn how to) do it all.&nbsp; From web frontends to classification algorithms, complex data visualizations to geospatial clustering, a full stack enterprise targeting platform to big data analytics, PlaceIQ software engineers live for huge challenges and know how to deliver in a dynamic, fast-paced, and agile environment.&nbsp; Our unique culture breeds excellence and embraces creativity as we look to innovate and drive our business forward.&nbsp; If are a solution-oriented and self-managing individual with a passion for building technology solutions, we want to talk to you!</p>
+<p>
+<br />
+<strong>The Role:</strong><br />
+Our developers and data scientists build and release internal and client facing software systems that must perform, scale, be resilient and deliver consistent quality.&nbsp; As such, the System Engineer will truly need to deliver effective engineering techniques and operational excellence on a daily basis. Our system engineers perform in both operational and devops support roles, building and maintaining the infrastructure that supports the entirety of the PlaceIQ business.</p>
+<p>
+<br />
+We are not looking for just a scripting expert.&nbsp; We are not looking for just an infrastructure management guru.&nbsp; We are not looking for just a DBA.&nbsp; We are not looking for just an operations expert with the technical chops to create and maintain reliable and efficient workflow for our mission critical systems.&nbsp; We are looking for ALL of those qualities mixed in with the creativity and drive necessary to succeed in a fast paced environment with really smart people.<br />
+The ideal candidate will bring experience and intuition to bear when managing, data storage, web services and dynamic, load-balanced, always available, fully automated and monitored server clusters.&nbsp; We work with a solid set of open source technologies along side high performance proprietary software and data processing techniques.&nbsp; A strong and diverse technical foundation is needed most certainly, but success at PlaceIQ depends on the candidate&rsquo;s ability to learn quickly and deliver consistently.&nbsp;<span style="font-size: 12px;">The junior systems engineer will work alongside a senior counterpart as part of the PlaceIQ Infrastructure group.</span></p>
+<p>
+<strong>Minimum Requirements:</strong><br />
+&bull; BS in Computer Science, Engineering or equivalent technical field<br />
+&bull; Strong foundation and demonstrated experience with Linux systems administration and shell scripting with an emphasis on CentOS/RHEL<br />
+&bull; Experience implementing and maintaining n-tier web application stacks (ie. databases, caches, load balancers, web application services)<br />
+&bull; Experience with cloud-based services and virtualized infrastructure<br />
+&bull; Experience with installing, monitoring, and maintaining network and server hardware in a datacenter environment<br />
+<br />
+<strong>Preferred Qualifications:</strong><br />
+&bull; 8+ years experience in a system engineer/devops role<br />
+&bull; Working knowledge of Puppet, Chef, Jeeves, Capistrano<br />
+&bull; Working knowledge of NoSQL DBs (Couch, Mongo, Cassandra)<br />
+&bull; Working knowledge of Postgres/MySQL<br />
+&bull; Working knowledge of networking (Cisco, Firewall, IDS a plus)<br />
+&bull; Experience with deploying and managing OpenStack cloud infrastructure<br />
+&bull; Experience with build tools and continuous integration systems<br />
+&bull; Experience building, scaling and managing virtual computing clusters<br />
+&bull; Experience with Amazon Web Services<br />
+&bull; Familiarity with distributed source control tools (Git)<br />
+&bull; Load testing and system scale analytics and provisioning<br />
+&bull; Performance tuning experience at all levels of the software stack<br />
+&bull; Experience providing end user support for technical integrations<br />
+&bull; Working knowledge of hosting Java/Python/Ruby application stacks<br />
+&bull; Ability to clearly and accurate document work flow and technical systems<br />
+<br />
+This position is located in New York, NY.&nbsp; Candidates must be authorized to work in the United States on a full-time basis for any employer.</p>
+<p>
+<br />
+Salary and equity compensation commensurate with experience.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/PlaceIQ/st5kvK"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130607172941_P2WFVCMCLNJ2U6XZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Vice President of Marketing]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://placeiq.theresumator.com/apply/PrL2t7/Vice-President-Of-Marketing.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p>
+PlaceIQ (http://www.PlaceIQ.com), a high growth, venture-backed leading provider of location intelligence, is seeking an exceptional candidate to lead our marketing efforts as our VP of Marketing.</p>
+<p>
+Reporting to the Chief Revenue Officer, the Vice President of Marketing is responsible for developing and executing a clearly defined marketing and communications strategy in a manner that supports consistent business growth and enhances brand equity and awareness. This position is responsible for planning, organizing, staffing, training, and managing all marketing functions to achieve the Company objectives of sales, growth, profitability, and visibility while ensuring marketing messages and positions are consistent with the corporate direction.</p>
+<p>
+Responsibilities</p>
+<p>
+&bull; Serves as de facto Chief Marketing Officer of the Company, providing support in the key areas of marketing strategy and management<br />
+&bull; Lead and manage Direct Marketing, Public Relations, Advertising, Online Marketing, Event Marketing and Internal Creative Services<br />
+&bull; Develops the annual marketing plan and the strategies, tactics and resources necessary to achieve key objectives<br />
+&bull; Create, manage, coordinate and execute all marketing strategies and implement tactical plans that meet and exceed company expectations<br />
+&bull; Oversees and provides direction to market and competitor analysis<br />
+&bull; Ensures all marketing communications are coordinated, support marketing plan objectives and are an effective expenditure of resources<br />
+&bull; Provides input and support to the Company&rsquo;s leadership in the development of joint ventures, affiliations and partnership arrangements<br />
+&bull; Achieve targeted results and ensure timely and effective execution of marketing tactics and programs<br />
+&bull; Analyze, evaluate, plan and execute on both existing and potential marketing activities and strategies. Develop benchmark criteria to measure the efficiency and effectiveness of marketing programs<br />
+&bull; Managing marketing efforts within budget constraints<br />
+&bull; Manage, coach, mentor, and raise the team&#39;s ability to deliver and exceed expectations while creating opportunities for succession talent<br />
+&bull; Work closely with Product Development, Sales and other Senior Executives to create demand and recognition for the Company and its products<br />
+&bull; Ongoing interactions with senior management and board to fine tune marketing efforts as well as communicate effectiveness of current initiatives<br />
+&bull; End-to-end ownership of issues with responsibility for driving closure<br />
+&bull; Ability to define, develop and produce thought leadership research and data-driven marketing initiatives<br />
+&bull; Manage internal marketing portal and on-going internal communication<br />
+&bull; Manage all content creation; collateral, blogs, webinars, company events, etc<br />
+&bull; Gauge impact of marketing/ROI/lead gen attribution/management</p>
+<p>
+&nbsp;</p>
+<p>
+Requirements&nbsp;&nbsp;&nbsp;</p>
+<p>
+&bull; A minimum of 8 to 10 years experience and a demonstrated track record of accomplishments in progressive Marketing roles at the senior management level<br />
+&bull; Broad functional experience in areas of strategic planning and marketing, business and market development, market research and planning and promotions/advertising<br />
+&bull; Must have strong interpersonal skills, maturity and good judgment and be capable of communicating with a diverse range of individuals<br />
+&bull; A track record of performance excellence meeting targets and objectives<br />
+&bull; Proven ability to lead a proactive marketing organization and ensure accountability for results that maximize contribution to business objectives<br />
+&bull; The ability to mange multiple, complex priorities within demanding timeframes<br />
+&bull; Ability to work on both a tactical (i.e. hands on) as well as a strategic level<br />
+&bull; Excellent communication and negotiation skills<br />
+&bull; Respectful and outstanding leadership skills that motivates staff to exceed expectations<br />
+&bull; The ability to articulate a vision and strategy in a way that inspires and motivates a team and focuses their energy on achieving business goals<br />
+&bull; Proven ability to lead a proactive marketing organization and ensure accountability for results that maximize contribution to business objectives<br />
+&bull; University degree or college diploma in business, MBA preferred</p>
+<p>
+Desired Experience</p>
+<p>
+&bull; Digital/Ad Tech or Digital Ad Network experience required<br />
+&bull; Marketing experience with syndicated research product background a plus.<br />
+&bull; Mobile / Ad Tech or Mobile Ad Network background also a plus.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Senior Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/PlaceIQ/PrL2t7"></script>]]></buttons>
+		</job>
+	</jobs>

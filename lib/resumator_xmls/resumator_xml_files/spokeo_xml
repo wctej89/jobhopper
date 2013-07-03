@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Spokeo]]></company>
+			<job>
+			<id><![CDATA[job_20120225011020_STCP0VFFRMFYWAB3]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Back-End Developer]]></title>
+			<department><![CDATA[Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://spokeo.theresumator.com/apply/bMcUu2/BackEnd-Developer.html]]></url>
+			<city><![CDATA[Pasadena]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[91101]]></postalcode>
+			<description><![CDATA[<p>
+	&nbsp;</p>
+<p>
+	This position will lead the project to design and implement robust systems that aggregate and process billions of records. We require:</p>
+<p>
+	* A Bachelor&rsquo;s degree in Computer Science<br />
+	* Experience with high performance, high traffic web systems<br />
+	* Expert knowledge of MySql, Oracle or other RDBMS and its performance issues<br />
+	* A solid understanding of OO design and all Computer Science fundamentals</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/spokeo/bMcUu2"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120225010823_OVJBNMRN6SWIDHH0]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front-End Web Application Developer]]></title>
+			<department><![CDATA[Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://spokeo.theresumator.com/apply/bKkGlN/FrontEnd-Web-Application-Developer.html]]></url>
+			<city><![CDATA[Pasadena]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[91101]]></postalcode>
+			<description><![CDATA[<p>
+	* A Bachelor&rsquo;s degree in Computer Science<br />
+	* Web application development experience in Ruby on Rails or Java Spring/Struts + Hibernate (or other modern MVC framework)<br />
+	* Knowledge of XHTML, JavaScript and CSS<br />
+	* A solid understanding of OO design, all Computer Science fundamentals and SQL database concepts and performance</p>
+<p>
+	This is a full-time, on-site position only with top salary, stock and benefits.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/spokeo/bKkGlN"></script>]]></buttons>
+		</job>
+	</jobs>

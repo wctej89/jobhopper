@@ -15,6 +15,7 @@ gem 'validates_email_format_of'
 gem 'omniauth'
 gem 'omniauth-linkedin'
 gem 'heroku'
+gem 'faraday'
 
 #############################
 # Environment-specific gems #
@@ -24,6 +25,10 @@ group :production do
   gem 'pg'
 end
 
+group :development do
+  gem 'sqlite3'
+end
+
 # The :assets group is for building static assets
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'                # syntatically awesome stylesheets - sass-lang.com for more info
@@ -31,10 +36,6 @@ group :assets do
   gem 'therubyracer', :require => 'v8'                            # javascript runtime to support coffeescript
   gem 'uglifier', '>= 1.0.3'
   gem 'handlebars_assets'
-end
-
-group :development do
-   gem 'sqlite3'
 end
 
 group :test do

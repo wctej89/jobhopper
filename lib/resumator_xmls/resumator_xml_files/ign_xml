@@ -1,0 +1,805 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Tue, 2 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[IGN Entertainment]]></company>
+			<job>
+			<id><![CDATA[job_20130320163519_H1WLDCGTBG7GY4TI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front-end Lead Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://ign.theresumator.com/apply/s7Z9zV/Frontend-Lead-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+At IGN, our engineering culture and technology is focused on innovation, leveraging and contributing to open source, and building products that have real value for the world.</p>
+<p>
+<br />
+The Vision</p>
+<p>
+&bull;We are seeking an awesome Lead Engineer (Architect Level) who can help us innovate on the front-end infrastructure for IGN Media Engineering.</p>
+<p>
+&bull;We have the best in class brand, and the technology to power it. This engineer will make a huge impact in charting the future of our front-end platform.</p>
+<p>
+<br />
+What does that mean for duties?</p>
+<p>
+&bull;You will be designing, developing and maintaining the front-end infrastructure that sits between our users and our service-oriented architecture</p>
+<p>
+&bull;You will be mentoring the other engineers in best practices through code reviews, pair programming, and tech talks.</p>
+<p>
+&bull;You will champion the use of the platform within the team, organization and across all the groups.</p>
+<p>
+<br />
+What will get you in the door?</p>
+<p>
+&bull;Bachelor&#39;s degree in Computer Science, or equivalent.</p>
+<p>
+&bull;Understand the role a front-end platform plays in the overall success of a company.</p>
+<p>
+&bull;Very comfortable with PHP and a strong desire to develop in modern MVC frameworks.</p>
+<p>
+&bull;Solid experience with developing and launching Zend Framework applications into production.</p>
+<p>
+&bull;Take pride in your work - front&ndash;end infrastructure and other technical work should excite you. Helping other engineers get features to production in a more timely manner should make your day!</p>
+<p>
+&bull;Must demonstrate ability to adapt to various programming languages and understand the importance of using the best tool for the job. We trust you with your decisions.</p>
+<p>
+&bull;Caching, scaling and front-to-back performance best practices using memcache, varnish, and the request/response lifecycle.</p>
+<p>
+&bull;Familiar with deployment processes (using fabric, capistrano, etc.), NewRelic monitoring, Nagios alerting and figuring your way around the entire LAMP stack.</p>
+<p>
+&bull;Know your way around standard performance optimizations like full-page caching, plus a few unusual ones.</p>
+<p>
+<br />
+It&rsquo;d be awesome if you have...</p>
+<p>
+&bull;Solid experience with unit testing and continuous integration (using git, jenkins, travis, etc.)</p>
+<p>
+&bull;Contributed to open source</p>
+<p>
+&bull;Full stack experience</p>
+<p>
+&bull;Done public speaking on technical topics at meetups, conferences, etc.</p>
+<p>
+&bull;Strong desire to invest in your technical brand</p>
+<p>
+&bull;Knowledge and passion for Video Games on all platforms (Console, PC, Mobile)</p>
+<p>
+<br />
+What&#39;s the benefit for working with us?</p>
+<p>
+&bull;You&rsquo;ll make an impact. We reach 70MM unique users. We&rsquo;re big time, but we&rsquo;re not afraid to give you real opportunities to be epic and make a difference immediately. Learn about us at http://go.ign.com/jKOmeS.</p>
+<p>
+&bull;We&rsquo;re passionate about what we do. IGN employees understand our users, because they are our users. We have a personal interest in providing the best possible product.</p>
+<p>
+&bull;There is value in games. We&rsquo;re the experts and we&rsquo;re preparing for a future where gaming is everywhere. Check out http://go.ign.com/mlHa0t</p>
+<p>
+<br />
+Want a sneak peek of our headquarters? Check out the TechCrunch Cribs feature at http://go.ign.com/gHjKlm.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/IGN/s7Z9zV"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130320164326_PSPWC5BGM9IBEKJA]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Lead Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://ign.theresumator.com/apply/jC5ebW/Lead-Software-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+IGN is the #1 video game portal on the Internet.</p>
+<p>
+We are looking for a Lead Software Engineer to lead our team of engineers at our headquarters in San Francisco, CA. The team is focused on innovation and building APIs with modern technologies that have real value for the world, delivering over 120 million requests per day.</p>
+<p>
+<br />
+As a Lead Software Engineer you will be responsible for leading and working with the team on projects supporting the media business, mentoring engineers, building web applications, web APIs, and a cohesive strategy and architecture for our API tier.</p>
+<p>
+&nbsp;</p>
+<p>
+Responsibilities</p>
+<p>
+&bull;Leading, and collaborating with, a team of engineers to build and innovate our API tier, establishing web, API, database, and infrastructure best practices</p>
+<p>
+&bull;Developing RESTful web APIs powered by modern languages such as Scala and Java, and using modern databases such as MongoDB and MySQL</p>
+<p>
+<br />
+&bull;Optimizing performance of the web server tier, APIs, databases, caching layer, and low-level infrastructure</p>
+<p>
+<br />
+&bull;Interacting with the front-end tier teams and technologies for support and development of the applications</p>
+<p>
+&nbsp;</p>
+<p>
+Requirements</p>
+<p>
+&bull;BS, MS, or PhD in Computer Science or related technical discipline (or equivalent)</p>
+<p>
+&bull;3+ years experience developing large scale software applications</p>
+<p>
+<br />
+&bull;Strong communication and interpersonal skills</p>
+<p>
+&bull;Experience with AWS, git, and modern software development practices such as agile development, test-driven development, continuous integration, and continuous delivery</p>
+<p>
+<br />
+&bull;Experience with API consumption languages like PHP and Ruby is a plus</p>
+<p>
+IGN Entertainment is the leading Internet media and services provider focused on the video game and entertainment enthusiast markets.&nbsp; Collectively, IGN&#39;s properties reach more than 70 million unique users worldwide, and IGN&#39;s network of video game-related properties (IGN.com, 1UP.com, GameSpy, FilePlanet, TeamXbox and others) is the Web&#39;s #1 video game information destination.&nbsp; IGN also owns the world&rsquo;s largest men&rsquo;s lifestyle website, AskMen.com, and men&rsquo;s entertainment site UGO.com. It also provides technology for online game play in video games. IGN is headquartered in the San Francisco Bay Area, with offices across North America, Europe and Australia.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/IGN/jC5ebW"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130423204132_HEO34D7OAQNRCSCI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Quality Assurance Engineering Lead]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://ign.theresumator.com/apply/k8oLgi/Quality-Assurance-Engineering-Lead.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Summary:</strong></p>
+<p>
+The Quality Assurance Engineering Lead is responsible for leading a team of test-automation engineers to ensure the quality of dozens of products across multiple projects through release management, build automation, and test automation</p>
+<p>
+<br />
+<strong>Responsibilities:</strong></p>
+<p>
+&bull;&nbsp;Collaborate with peer lead engineers and architects to implement, maintain, and improve end-to-end development, QA, and code-release processes that fully leverage appropriate technology and automation.</p>
+<p>
+&bull;&nbsp;Implement and oversee the integration and flow of testing, deployment, and support of software systems</p>
+<p>
+&bull;&nbsp;Implement and oversee integration of QA technologies and processes into a continuous deployment environment</p>
+<p>
+&bull;&nbsp;Establish on-going process improvement efforts to ensure test planning, execution and reporting is effective and efficient</p>
+<p>
+&bull;&nbsp;Learn QA&rsquo;s existing test automation framework and contribute towards further enhancements.</p>
+<p>
+&bull;&nbsp;Establish processes that continually scale QA resources</p>
+<p>
+<strong>Desired Skills and Expertise:</strong></p>
+<p>
+&bull;&nbsp;6+ years of QA experience</p>
+<p>
+&bull;&nbsp;Technical experience with release management</p>
+<p>
+&bull;&nbsp;Experience implementing build automation (or parts of it)</p>
+<p>
+&bull;&nbsp;Experience establishing or improving CI/CD implementations</p>
+<p>
+&bull;&nbsp;Leadership experience implementing an end-to-end QA process</p>
+<p>
+&bull;&nbsp;Experience with test automation (for UIs and services) through scripting</p>
+<p>
+&bull;&nbsp;Experience with Agile/scrum methodology</p>
+<p>
+&bull;&nbsp;Experience with code coverage tools and unit testing code bases</p>
+<p>
+&bull;&nbsp;Expertise with Ruby or a modern object-oriented language</p>
+<p>
+&bull;&nbsp;Willingness to pick up Ruby/Rspec and Selenium Webdriver</p>
+<p>
+&bull;&nbsp;Ability to manage several projects at once in a hyper-agile environment</p>
+<p>
+&bull;&nbsp;Experience with Amazon Web Services and MongoDB is a plus</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/IGN/k8oLgi"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130502231308_63HG8YREBCGPDL4Y]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Audience Generation Manager]]></title>
+			<department><![CDATA[Editorial]]></department>
+			<team><![CDATA[Editorial]]></team>
+			<url><![CDATA[http://ign.theresumator.com/apply/RUUF09/Audience-Generation-Manager.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+The Audience Generation Manager oversees IGN&rsquo;s community and social team and is the chief tactician for SEO and audience growth strategies. This position works with internal teams on best SEO practices and also coordinates with external partners on organic marketing and social programs that drive engagement with the products IGN produces.</p>
+<p>
+<strong>What does that mean exactly?</strong></p>
+<ul>
+<li>
+Act as the SEO thought leader and advise the content teams on best practices in article and video creation, headline writing, and social circulation.</li>
+<li>
+Create and manage audience engagement and growth strategies for IGN.</li>
+<li>
+Analyze and report relevant data that informs and shapes our audience growth strategy.</li>
+<li>
+Collaborate with the sale department to help monetize our community and social offerings.</li>
+<li>
+Expose IGN content to games publishers and entertainment studios in order to drive social promotion and organic marketing.</li>
+<li>
+Coordinate with mainstream media to expose IGN editors in other forms of media.</li>
+<li>
+Work with social media companies such as Facebook, Google, Twitter, Reddit, YouTube, etc. to forge strategic partnerships and plans that will engage IGN&rsquo;s audience.</li>
+<li>
+Manage IGN&rsquo;s community team.</li>
+</ul>
+<p>
+<strong>What will get you in the door?</strong></p>
+<ul>
+<li>
+3+ years of experience in social media, community and/or audience generation management.</li>
+<li>
+Expertise with SEO analysis.</li>
+<li>
+Existing knowledge of IGN&rsquo;s readership, voice and culture.</li>
+<li>
+Ability to compile and report on metrics. We&rsquo;re not looking for a statistician, but you should be able to gather, analyze and help others understand social referral, community engagement and audience growth trends.</li>
+<li>
+Great communication skills in a fast-paced environment.</li>
+<li>
+Experience with listening to and writing for a gamer audience.</li>
+<li>
+You&rsquo;re not afraid to speak up and be part of the conversation. You have questions for everyone from the newest intern to the CEO.</li>
+<li>
+No jerks allowed.</li>
+</ul>
+<p>
+<strong>It would be extra awesome if&hellip;</strong></p>
+<ul>
+<li>
+You are already expressing your opinions as part of a current blog or video series.</li>
+<li>
+You are a member of the IGN community.</li>
+</ul>
+<p>
+<strong>What we need from you.</strong></p>
+<ul>
+<li>
+Your resume. Wow us! Leave out the boring stuff and tailor it to why we should consider you to join the IGN family.</li>
+<li>
+A cover letter. We get loads of applicants for every job. What sets you apart?</li>
+<li>
+Writing and video samples. Send us links to the content you&#39;re proudest of.</li>
+</ul>
+<p>
+<strong>Here&#39;s the good stuff about us.</strong></p>
+<ul>
+<li>
+We&rsquo;ve got a big presence, but a small team. At IGN you&rsquo;re not going to get lost among countless aisles of drones.</li>
+<li>
+Great benefits, discounts, and bonus programs.</li>
+<li>
+People who like to have fun, share beers, and plot your demise in the game room.</li>
+<li>
+Casual work environment.</li>
+</ul>
+<p>
+Want a sneak peek of our headquarters? Check out the TechCrunch Cribs feature athttp://go.ign.com/gHjKlm</p>
+<p>
+Come geek out with us, but be prepared to work as hard as you play. It&#39;s serious business, after all.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/IGN/RUUF09"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130620181758_CXBTTXFTCNF5BVCA]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Community Development and Event Coordinator]]></title>
+			<department><![CDATA[Editorial]]></department>
+			<team><![CDATA[Editorial]]></team>
+			<url><![CDATA[http://ign.theresumator.com/apply/9J2gMl/Community-Development-And-Event-Coordinator.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+The Community Development and Event Coordinator works directly with IGN&rsquo;s readers and content staff to identify, empower and expose great community creators. They act as the bridge between community-creators and the IGN editors and are responsible for developing and promoting IGN&rsquo;s readership as well as implementing outreach activities and planning special community events, both live and online.</p>
+<p>
+<strong>What does that mean exactly?</strong></p>
+<ul>
+<li>
+Work with the IGN community to identify, empower and expose great community creators.</li>
+<li>
+Oversee IGN All-Stars, a program that rewards our most prolific and influential users.</li>
+<li>
+Track and measure relevant audience engagement data.</li>
+<li>
+Plan and coordinate special community-facing events and meet-and-greets at the IGN office and at major industry events such as PAX Prime.</li>
+<li>
+Spearhead logistics planning for major events such as E3 and San Diego Comic-Con.</li>
+</ul>
+<p>
+<strong>What will get you in the door?</strong></p>
+<ul>
+<li>
+You have experience in building online communities and social audience.</li>
+<li>
+You are familiar with and passionate about major games and entertainment properties as well as the companies and creators behind them.</li>
+<li>
+You are a creative and critical writer who can quickly deliver a wide variety of high-quality content.</li>
+<li>
+You are articulate and comfortable on camera and can speak impromptu as well as read from a script.</li>
+<li>
+You have experience analyzing and debating pop culture and are able to be objective about the things you love.</li>
+<li>
+You have a good attitude and a desire to learn.</li>
+</ul>
+<p>
+<strong>It would be extra awesome if&hellip;</strong></p>
+<ul>
+<li>
+You are already expressing your opinions as part of a current blog or video series.</li>
+<li>
+You are a member of the IGN community.</li>
+</ul>
+<p>
+<strong>What we need from you.</strong></p>
+<ul>
+<li>
+Your resume. Wow us! Leave out the boring stuff and tailor it to why we should consider you to join the IGN family.</li>
+<li>
+A cover letter. We get loads of applicants for every job. What sets you apart?</li>
+<li>
+Writing and video samples. Send us links to the content you&#39;re proudest of.</li>
+</ul>
+<p>
+<strong>Here&#39;s the good stuff about us.</strong></p>
+<ul>
+<li>
+We&rsquo;ve got a big presence, but a small team. At IGN you&rsquo;re not going to get lost among countless aisles of drones.</li>
+<li>
+Great benefits, discounts, and bonus programs.</li>
+<li>
+People who like to have fun, share beers, and plot your demise in the game room.</li>
+<li>
+Casual work environment.</li>
+</ul>
+<p>
+Want a sneak peek of our headquarters? Check out the TechCrunch Cribs feature athttp://go.ign.com/gHjKlm</p>
+<p>
+Come geek out with us, but be prepared to work as hard as you play. It&#39;s serious business, after all.<br />
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/IGN/9J2gMl"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130528180039_1DMI0JXUYJQCF6MH]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Associate Editor]]></title>
+			<department><![CDATA[Editorial]]></department>
+			<team><![CDATA[Editorial]]></team>
+			<url><![CDATA[http://ign.theresumator.com/apply/ZX5VHX/Associate-Editor.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+Associate Editor, IGN Wikis</p>
+<p>
+<br />
+World&rsquo;s greatest editorial team seeking new member with incredible video gaming skills and a strong desire to show others how to be awesome at games via written wiki guides.<br />
+What does that mean exactly?</p>
+<p>
+<br />
+&bull; You&rsquo;ll build wikis, including detailed walkthroughs filled with screenshots you&rsquo;ll take and maps you&rsquo;ll make<br />
+&bull; You&#39;ll edit other peoples&rsquo; wikis with a critical eye and pleasant demeanor, helping them to become better wiki editors and fostering a community around each game wiki<br />
+&bull; You&#39;ll play and record video games of all sorts to create video guides, sometimes with audio commentary</p>
+<p>
+<br />
+What will get you in the door?</p>
+<p>
+<br />
+&bull; You&rsquo;re especially good at video games and you can take on whatever we throw at you, from Pokemon X/Y Version to Dark Souls 2<br />
+&bull; You&rsquo;re skilled at communicating in person and in print, and particularly good at instructing gamers with helpful, entertaining prose<br />
+&bull; You&rsquo;ve never been afraid to hit &ldquo;EDIT&rdquo; and you understand wiki communities and how to engage them<br />
+&bull; You&#39;re quick to adapt -- new challenges come up daily, but you are ready for them<br />
+&bull; You&rsquo;re an IGN reader, fan and active community member</p>
+<p>
+<br />
+It would be extra awesome if&hellip;</p>
+<p>
+<br />
+&bull; You have experience working with game developers and PR<br />
+&bull; You have previous experience with Adobe Premiere Pro or similar video editing software<br />
+&bull; You understand SEO and SMO<br />
+&bull; You are part of a gaming community, whether it&rsquo;s an MMO guild or a weekly Black Ops 2 night<br />
+&bull; You are an active social media user/abuser</p>
+<p>
+<br />
+What we need from you&hellip;</p>
+<p>
+<br />
+&bull; Your resume: Wow us! Leave out the boring stuff, leave in the dazzling stuff about your superhero powers<br />
+&bull; A cover letter: Convince us we&#39;d be fools not to speak to you about this position. Fools, I say!<br />
+&bull; Links to the wikis you&rsquo;ve edited, strategy guides you&rsquo;ve written, social media, and YouTube videos</p>
+<p>
+<br />
+Here&#39;s the good stuff about us:</p>
+<p>
+<br />
+&bull; Great benefits, discounts and bonus programs<br />
+&bull; People who like to have fun, share some beers and plot your demise in the arcade/game room<br />
+&bull; Casual work environment with flexible hours<br />
+&bull; A plethora of arcade and console games and fully-automated latte machines, ready to satisfy your caffeine craving</p>
+<p>
+<br />
+Want a sneak peek of our headquarters? Check out the TechCrunch Cribs feature athttp://go.ign.com/gHjKlm</p>
+<p>
+<br />
+Come geek out with us, but be prepared to work as hard as you play. It&#39;s serious business, after all.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/IGN/ZX5VHX"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130528204838_1PGEYPO6SVU9UJIL]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Digital Marketing and PR Manager]]></title>
+			<department><![CDATA[AskMen]]></department>
+			<team><![CDATA[AskMen]]></team>
+			<url><![CDATA[http://ign.theresumator.com/apply/JbvDUl/Digital-Marketing-And-PR-Manager.html]]></url>
+			<city><![CDATA[Québec]]></city>
+			<state><![CDATA[Montreal]]></state>
+			<country><![CDATA[Canada]]></country>
+			<postalcode><![CDATA[H2W 2R2]]></postalcode>
+			<description><![CDATA[<p>
+AskMen.com (www.AskMen.com), a division of Ziff Davis Inc. and the largest men&#39;s lifestyle site in the world is looking for a Digital Marketing and PR Manager.</p>
+<p>
+Reporting to the Director of Marketing and Business Development, the Digital Marketing and PR Manager will focus on building awareness for AskMen&rsquo;s brand, content and products through both trade and consumer-focused PR. We are looking for more than just a pitch-person.&nbsp; The ideal candidate will be an individual who can work cross-functionally to create and execute innovative campaigns around editorial events and product launches. This opportunity affords the right candidate a rare opportunity to work for a Montreal-based international media site on projects of critical importance to its future growth.</p>
+<p>
+<br />
+AskMen.com is based in the exciting Plateau area of Montreal, with a young and vibrant staff, we work hard and play hard. We celebrate our success but don&#39;t accept complacency. We are part of a large media company but we still think and operate like a startup.</p>
+<p>
+<br />
+<u><strong>Responsiblities:</strong></u></p>
+<p>
+&bull; Conceptualize, execute and manage global media strategy for consumer &amp; trade, with a focus on US market<br />
+&bull; Manage the A-Z of the trade marketing campaign for the AskMen site redesign, launching mid-summer<br />
+&bull; Work with various departments and teams around the world to brainstorm, develop and bring to life strategic media campaigns in support of editorial events, product launches and sales-related events<br />
+&bull; Craft all external messaging for the brand, tailored to specific audiences (from weekly content pitches to press releases)<br />
+&bull; Develop and continuously organize internal media database for online, print, and broadcast outlets<br />
+&bull; Communicate with all departments to identify media/content syndication opportunities<br />
+&bull; Submit relevant projects for recognition and awards<br />
+&bull; Work with the Global PR Manager at Ziff Davis to ensure brand positioning and manage relationships with external PR agencies<br />
+&bull; Act as community liaison between AskMen&rsquo;s 16+ million readers and site<br />
+&bull; Establish new, strategic brand partnerships<br />
+&bull; Monitor and report on media coverage and ROI from product, editorial and event initiatives<br />
+&bull; Project manage and oversee major AskMen editorial/ marketing initiatives (Top99/ Top49/ GMS)<br />
+&bull; Manage marketing interns</p>
+<p>
+<strong><u>Requirements:</u></strong></p>
+<p>
+<br />
+&bull; Minimum of 5 years of public relations experience in online media (in-house experience a plus)<br />
+&bull; University degree in a related field<br />
+&bull; Experience with media covering lifestyle brands<br />
+&bull; A&nbsp; database of existing current, relevant media contacts<br />
+&bull; Demonstrated history of coming up with big ideas and finding relevant ways to pitch media<br />
+&bull; Strong written and verbal communication skills<br />
+&bull; Ability to calculate and show ROI on outreach efforts<br />
+&bull; A strong social media presence on Twitter and other social networks<br />
+&bull;</p>
+<p>
+<strong><u>Desired Traits:</u></strong></p>
+<p>
+&bull; Strong relationship-building skills, you are a connector<br />
+&bull; Great organizational skills<br />
+&bull; A love and passion for men&rsquo;s lifestyle<br />
+&bull; An entrepreneurial spirit<br />
+&bull; Excellent time management skills</p>
+<p>
+<br />
+<u><strong>What We Offer:</strong></u></p>
+<p>
+<br />
+&bull; Competitive Salary &amp; benefits<br />
+&bull; Casual, fun, work environment<br />
+&bull; An opportunity to learn everything there is to know about online media<br />
+&bull; An opportunity to work with a who&#39;s who of startup and tech companies</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/IGN/JbvDUl"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130530181820_ZRQYP59LLASIKDDT]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Associate Editor]]></title>
+			<department><![CDATA[Editorial]]></department>
+			<team><![CDATA[Editorial]]></team>
+			<url><![CDATA[http://ign.theresumator.com/apply/hy7nss/Associate-Editor.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+Associate Editor, Games, IGN<br />
+<br />
+<strong>Job Description</strong><br />
+The Associate Editor at IGN conceives of, creates, and contributes to a wide range of video game content, from reviews and previews, to news and features, to videos and podcasts. This position reports directly to the Managing Editor as part of the editorial team.<br />
+<br />
+<strong>What does that mean exactly?</strong><br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work with the IGN games team to create compelling editorial content that serves our readers and our business.<br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Identify new opportunities for editorial coverage on either the PC or Xbox platforms.<br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work with IGN community teams to promote content.<br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interact with gamers and IGN fans in a wide variety of formats and settings.<br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Represent IGN at industry events and game demos.<br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cultivate strong relationships with developers and publishers.<br />
+<br />
+<strong>What will get you in the door?</strong><br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You are familiar with and passionate about games, as well as the companies and creators behind them.<br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You are a creative and critical writer who can quickly deliver a variety of high-quality content.<br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You are articulate and comfortable on camera and can read from a script or speak extemporaneously.<br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You have experience analyzing and debating pop culture and are able to be objective about the things you love.<br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You have a long history as a gamer and have a wide range of gaming tastes, both in terms of platforms and genres.<br />
+<br />
+<strong>It would be extra awesome if&hellip;</strong><br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You are already expressing your opinions as part of a current blog or video series.<br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You are a member of the IGN community.<br />
+<br />
+<strong>What we need from you.</strong><br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Your resume. Wow us! Leave out the boring stuff and put in the dazzling stuff about your super powers.<br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A cover letter. We get loads of applicants for every job. What sets you apart?<br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Writing and video samples. Send us links to the content you&#39;re proudest of.<br />
+<br />
+<strong>Submissions without writing or video samples will not be considered.</strong></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/IGN/hy7nss"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130530181840_C3ZRBDEIM4L6AZZU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Associate Editor]]></title>
+			<department><![CDATA[Editorial]]></department>
+			<team><![CDATA[Editorial]]></team>
+			<url><![CDATA[http://ign.theresumator.com/apply/Xjz92H/Associate-Editor.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+Associate Editor, Games, IGN<br />
+<br />
+<strong>Job Description</strong><br />
+The Associate Editor at IGN conceives of, creates, and contributes to a wide range of video game content, from reviews and previews, to news and features, to videos and podcasts. This position reports directly to the Managing Editor as part of the editorial team.<br />
+<br />
+<strong>What does that mean exactly?</strong><br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work with the IGN games team to create compelling editorial content that serves our readers and our business.<br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Identify new opportunities for editorial coverage on either the PC or Xbox platforms.<br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work with IGN community teams to promote content.<br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interact with gamers and IGN fans in a wide variety of formats and settings.<br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Represent IGN at industry events and game demos.<br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cultivate strong relationships with developers and publishers.<br />
+<br />
+<strong>What will get you in the door?</strong><br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You are familiar with and passionate about games, as well as the companies and creators behind them.<br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You are a creative and critical writer who can quickly deliver a variety of high-quality content.<br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You are articulate and comfortable on camera and can read from a script or speak extemporaneously.<br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You have experience analyzing and debating pop culture and are able to be objective about the things you love.<br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You have a long history as a gamer and have a wide range of gaming tastes, both in terms of platforms and genres.<br />
+<br />
+<strong>It would be extra awesome if&hellip;</strong><br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You are already expressing your opinions as part of a current blog or video series.<br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You are a member of the IGN community.<br />
+<br />
+<strong>What we need from you.</strong><br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Your resume. Wow us! Leave out the boring stuff and put in the dazzling stuff about your super powers.<br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A cover letter. We get loads of applicants for every job. What sets you apart?<br />
+&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Writing and video samples. Send us links to the content you&#39;re proudest of.<br />
+<br />
+<strong>Submissions without writing or video samples will not be considered.</strong></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/IGN/Xjz92H"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130604165610_IZLXHTE6XEP4YPOY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sales Planner]]></title>
+			<department><![CDATA[AskMen]]></department>
+			<team><![CDATA[AskMen]]></team>
+			<url><![CDATA[http://ign.theresumator.com/apply/nvoyvr/Sales-Planner.html]]></url>
+			<city><![CDATA[Manhattan]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10017]]></postalcode>
+			<description><![CDATA[<p>
+Have a passion for lifestyle and want to get into advertising sales? Learn all about advertising sales, web marketing and web publishing in this exciting role as a Sales Planner supporting all activities of the Inside and Outside selling team in across the US.</p>
+<p>
+<br />
+<strong>What does that mean exactly?</strong><br />
+&bull; Support all activities of Inside Sales Reps and Regional Managers/Directors<br />
+&bull; Maintain knowledge of the industries, trends and market we service<br />
+&bull;&nbsp;Enter all opportunities and RFP&rsquo;s into Salesforce.com and log contacts<br />
+&bull;&nbsp;Develop sophisticated marketing plans for high profile national advertisers by working with Ad Ops to verify inventory availability, prior/ current performance, targeting and fixed placement availability; and then to match media with objectives and pricing to create media plan<br />
+&bull;&nbsp;Work with sales and ad operations to revise proposals based on client feedback<br />
+&bull;&nbsp;Work with sales to brainstorm marketing concepts, pull market research and produce sales marketing collateral<br />
+&bull;&nbsp;&nbsp;Manage client needs as it pertains to campaign delivery, custom program tracking and execution<br />
+&bull;&nbsp;&nbsp;Enter all opportunities and RFP&rsquo;s into Salesforce.com and log contacts<br />
+&bull; Manage AskMen&rsquo;s Reservation System, Quickbase, including making adjustments to reservations in an effort to maintain current and relevant order status<br />
+&bull; Maintain up to date knowledge of campaigns running including making adjustments to insertion orders and proposals<br />
+&bull; Work with Ad Ops to handle billing questions when necessary<br />
+<br />
+<br />
+<strong>What will get you in the door?</strong><br />
+&bull; Bachelor&#39;s degree or equivalent work experience<br />
+&bull;&nbsp;You&#39;re ambitious, like working in a fast paced environment, enjoy a &lsquo;start up&rsquo; atmosphere and want to be part of a growing company<br />
+&bull; Must be enthusiastic and spirited, have a friendly disposition and a positive attitude.<br />
+&bull;&nbsp;Enjoy helping sales management entertain clients on occasion<br />
+&bull; Must have strong communication skills; self-motivated, and a have a strong attention to detail<br />
+&bull; Must be able to work efficiently and effectively under tight deadlines<br />
+&bull; General proficiency in Microsoft Office required, as well as the ability to quickly understand and learn any propriety IGN software programs. (Familiarity with additional programs such as Oracle or Salesforce is a plus)<br />
+It would be extra awesome if:<br />
+&bull;&nbsp;You know how to use Photoshop (we can teach you if not!)<br />
+&bull; You&#39;ve got a deep understanding of the web and industry trends<br />
+&bull; Have worked in the online media space<br />
+&nbsp;</p>
+<p>
+<strong>Here&#39;s the good stuff about us:</strong><br />
+&bull; You&#39;ll make an impact. We reach 15MM unique users. We&#39;re big time, but we&#39;re not afraid to give you real opportunities to be epic and make a difference immediately.&nbsp;<br />
+&bull; We&#39;ve got a big presence, but a small team. Making your way in the world today takes everything you got. You wanna be where everyone knows your name. At AskMen you&#39;re going to be an incredibly important part of a small but growing team.<br />
+&bull; We have fun.<br />
+&bull; We&#39;re passionate about what we do. AM employees understand our users, because they are our users. We have a personal interest in providing the best possible product.<br />
+&bull; We get that there is no spoon. We encourage and support each other in creating new ideas by paying attention to the world out there, using our imagination, experimenting, and learning from success and failure.<br />
+&bull; We value irreverence. We want you to be yourself, speak your mind, lead shenanigans, and know that nothing here is above question.<br />
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/IGN/nvoyvr"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130604173327_L5LRGFNAG3ZVLWUR]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://ign.theresumator.com/apply/bBI3bn/Senior-Software-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+IGN is the #1 video game portal on the Internet. We are looking for a&nbsp;Senior Software Engineer&nbsp;to work with our team of engineers at our headquarters in San Francisco, CA. Here the team works on our social apps, media products, and new business strategy.</p>
+<p>
+At IGN, our engineering culture and technology is focused on innovation, leveraging and contributing to open source, and building products that have real value for the world.</p>
+<p>
+<strong>Responsibilities:</strong></p>
+<p>
+Manage high-level Corporate IT projects (SCCM, WSUS, AWS AD Rebuild, etc)<br />
+Daily management of helpdesk queue &amp; delegating tickets to junior IT staff<br />
+Train and develop skills for existing IT staff<br />
+Investigate and implement new technologies to increase department efficiency<br />
+Manage vendor relationships (wireless, computer hardware, broadband data cards, etc)<br />
+Track hardware &amp; software assets/inventory, creates specifications for new hardware<br />
+Procure computer hardware, software &amp; technology<br />
+Write/update corporate IT policies and procedures to maintain audit compliance<br />
+Train employees on corporate IT policies<br />
+Ensure company stays compliant with software licenses and EULAs<br />
+Administer office infrastructure such as Active Directory, Google Apps, SEP/AntiVirus Server, SCCM, DHCP, network, VOIP phones<br />
+Maintain software patching and updates for all office infrastructure<br />
+Work closely with departments to determine technical needs &amp; fulfills needs under budget<br />
+Manage IT budget and ensures responsible spending<br />
+Assist with daily Helpdesk ticket churn and ensures all requests are responded to in a timely manner<br />
+Some on-call duty<br />
+<br />
+<u><strong>Technologies:</strong></u><br />
+Google Apps<br />
+Mac OSX<br />
+Meraki<br />
+Active Directory<br />
+Windows desktop &amp; server OS<br />
+Microsoft Office for Mac 2011<br />
+Microsoft Office 2010<br />
+Symantec Endpoint Protection</p>
+<p>
+IGN Entertainment is the leading Internet media and services provider focused on the video game and entertainment enthusiast markets.&nbsp; Collectively, IGN&#39;s properties reach more than 70 million unique users worldwide, and IGN&#39;s network of video game-related properties (IGN.com, 1UP.com, GameSpy, FilePlanet, TeamXbox and others) is the Web&#39;s #1 video game information destination.&nbsp; IGN also owns the world&rsquo;s largest men&rsquo;s lifestyle website, AskMen.com, and men&rsquo;s entertainment site UGO.com. It also provides technology for online game play in video games. IGN is headquartered in the San Francisco Bay Area, with offices across North America, Europe and Australia.</p>
+<p>
+Want a sneak peek of IGN&#39;s headquarters in San Francisco? Check out the TechCrunch Cribs feature at http://go.ign.com/gHjKlm</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/IGN/bBI3bn"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130611184947_DJ83UXQFRXOJOKR8]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Developer]]></title>
+			<department><![CDATA[AskMen]]></department>
+			<team><![CDATA[AskMen]]></team>
+			<url><![CDATA[http://ign.theresumator.com/apply/voKjDZ/Web-Developer.html]]></url>
+			<city><![CDATA[Montreal]]></city>
+			<state><![CDATA[Quebec]]></state>
+			<country><![CDATA[Canada]]></country>
+			<postalcode><![CDATA[H2W 2R2]]></postalcode>
+			<description><![CDATA[<p>
+AskMen.com (www.AskMen.com), a division of Ziff Davis Inc. and the largest men&#39;s lifestyle site in the world attracting more than 15 million unique visitors every month. We&rsquo;re looking for a Web Developer to work out of our headquarters in Montreal, Canada.</p>
+<p>
+This truly is a rare opportunity. You will be an employee of one of the largest digital media companies in the industry, so you&rsquo;ll be competing against &ndash; and, in some instances, partnering with &ndash; some of the biggest players in the business. Big reach doesn&rsquo;t mean big bureaucracy, however. In fact, you will be encouraged to spread your influence across all our teams and help in defining our technological vision on the desktop and onto all screens: mobile, tablet, television, and whatever other platforms the future has in store.</p>
+<p>
+AskMen is a Canadian-based company with a global reach, and our company culture echoes this position. We&rsquo;ve established a stable footing, but we&rsquo;ve remained dynamic.&nbsp; We are proud of the business we&rsquo;ve built, but we want to give entrepreneurial spirits the opportunity to shape it for the future. In this role, your talent and experience will immediately impact millions of users, and our environment and expectations will immediately accelerate your professional growth.</p>
+<p>
+AskMen was founded in Montreal&rsquo;s Plateau neighbourhood and we have maintained our headquarters here. Our full operations, however, are spread across four countries: Canada, the US, the UK, and Australia. More markets are coming in the near future.</p>
+<p>
+Our audience is 25- to 34-year old young professionals. They are educated, web-savvy early adopters, and high consumers of content on mobile platforms. In short: the ideal demographic for experimenting cutting-edge ideas.</p>
+<p>
+<strong>OUR PURPOSE</strong><br />
+AskMen&rsquo;s mission is to help guys &lsquo;become better men.&rsquo; This fundamental principle guides all of our content, and it also steers how we work and what we focus on. We are in a perpetual state of improvement. One of your mandates in this role will be to develop the technological vision and tools to enable our content-makers to tell their stories.<br />
+We have a young and vibrant staff. We work hard and play hard. We celebrate our successes but we don&#39;t accept complacency. We are a large media company that thinks like a start-up.</p>
+<p>
+<strong>KEY RESPONSIBILITES</strong></p>
+<ul>
+<li>
+Help reinvent how content is consumed online, and on all screens</li>
+<li>
+Creating front and back-end PHP components</li>
+<li>
+Helping to plan and implement infrastructure overhaul</li>
+<li>
+Participating in cutting-edge site features</li>
+<li>
+Help maintain proprietary CMS</li>
+<li>
+Drive innovation, thought leadership on where the web is going</li>
+</ul>
+<p>
+<strong>QUALIFICATIONS</strong></p>
+<ul>
+<li>
+Essential: 3+ years PHP programming</li>
+<li>
+Essential: 3+ years HTML/CSS/Javascript/XML</li>
+<li>
+Essential - Knowledge of database-driven backends (SQL)</li>
+<li>
+Important - Able to work independently on projects and contribute new ideas</li>
+<li>
+Important - Ability to manage multiple projects</li>
+<li>
+Important - Experience with Social networking APIs (Facebook, Twitter)</li>
+<li>
+Asset - Experience with a PHP MVC based framework (CakePHP)</li>
+<li>
+Asset - Strong written and verbal communication skills, and an ability to translate technical jargon for non-technical executives</li>
+</ul>
+<p>
+<br />
+<strong>DESIRED TRAITS</strong><br />
+We believe that cultural fits are more important than skill fits. We want a Web Developer who seeks to grow personally, that believes in our purpose and our goals, and has the drive to make an impact while still having fun. Other desired traits include:</p>
+<ul>
+<li>
+Curiosity&nbsp; and openness to learn</li>
+<li>
+The instinct to stay on top of industry trends</li>
+<li>
+The ability to inspire and change minds with new ideas, visions</li>
+<li>
+The capacity to encourage counter-intuitive opinions and ideas, and be able to execute them</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/IGN/voKjDZ"></script>]]></buttons>
+		</job>
+	</jobs>

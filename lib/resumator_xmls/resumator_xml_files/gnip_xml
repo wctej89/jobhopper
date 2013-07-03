@@ -1,0 +1,935 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Gnip]]></company>
+			<job>
+			<id><![CDATA[job_20110520202154_W69GTBC2HAC3WMBY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Software Engineer]]></title>
+			<department><![CDATA[Software Engineering]]></department>
+			<team><![CDATA[Engineering Hiring Team]]></team>
+			<url><![CDATA[http://gnip.theresumator.com/apply/kzD7Ha/Senior-Software-Engineer.html]]></url>
+			<city><![CDATA[Boulder]]></city>
+			<state><![CDATA[CO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[80302]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Overview</strong><br />
+	Gnip&#39;s software collects, processes and delivers hundreds of millions of activities a day from a wide variety of social media APIs. Using an agile process with weekly iterations and bi-weekly deployments, we take a pragmatic approach to building our software which requires a broad palette of language experience, framework understanding, and software environments.</p>
+<p>
+	Our developers work across the entire technology stack from high volume messaging and storage in the back end to modern, browser based applications on the front end. We are looking for folks ready, willing, and able to work in a fast-paced startup environment.</p>
+<p>
+	The perfect candidate will have consciousness around software development; practical, hands-on, application of academic know-how. If you feel you&rsquo;ve got it all, or have expertise in a relevant subset of the areas described here, we&rsquo;d like to hear from you: jobs@gnip.com</p>
+<p>
+	<strong>Skills Desired</strong></p>
+<ul>
+	<li>
+		Solid foundation in computer science</li>
+	<li>
+		Concurrent, high volume programming in Java</li>
+	<li>
+		Ruby/JRuby/Rails Development</li>
+	<li>
+		Proven success with large scale data storage, search, and/or streaming</li>
+	<li>
+		Solid understanding of MVC and REST frameworks</li>
+	<li>
+		Experience with testing frameworks including JUnit and EasyMock, Shoulda and Mocha</li>
+	<li>
+		Application development, deployment and support on Unix/Linux systems, cloud experience a plus</li>
+	<li>
+		Ability to effectively communicate with product team</li>
+</ul>
+<p>
+	<strong>Our Development Culture</strong></p>
+<ul>
+	<li>
+		Highly collaborative agile work environment</li>
+	<li>
+		Shared code ownership</li>
+	<li>
+		Weekly iterations, daily stand-ups</li>
+	<li>
+		Aggressive refactoring</li>
+	<li>
+		Developer participation in production support rotation</li>
+	<li>
+		Passion for writing software</li>
+	<li>
+		Technology We Use</li>
+	<li>
+		Ruby/JRuby/Rails</li>
+	<li>
+		Java</li>
+	<li>
+		Amazon Web Services (EC2/S3/RDS)</li>
+	<li>
+		MySQL</li>
+	<li>
+		Git/GitHub</li>
+</ul>
+<p>
+	<strong>What We Can Offer You</strong></p>
+<ul>
+	<li>
+		Work with modern languages/frameworks and choose the best technologies for the job</li>
+	<li>
+		Collaborative environment working with experienced and dedicated engineers</li>
+	<li>
+		Fast iterations and flexible feel typical of startups</li>
+	<li>
+		Comfortable office space in downtown Boulder</li>
+	<li>
+		Perks include breakfast at work, workday open tab at The Cup, and general team camaraderie</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gnip/kzD7Ha"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110520202625_WRZ8VN2ETKH2PG3T]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[Software Engineering]]></department>
+			<team><![CDATA[Engineering Hiring Team]]></team>
+			<url><![CDATA[http://gnip.theresumator.com/apply/lFUyWO/Software-Engineer.html]]></url>
+			<city><![CDATA[Boulder]]></city>
+			<state><![CDATA[CO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[80302]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Overview</strong><br />
+	Gnip&#39;s software collects, processes and delivers hundreds of millions of activities a day from a wide variety of social media APIs. Using an agile process with weekly iterations and bi-weekly deployments, we take a pragmatic approach to building our software which requires a broad palette of language experience, framework understanding, and software environments.</p>
+<p>
+	Our developers work across the entire technology stack from high volume messaging and storage in the back end to modern, browser based applications on the front end. We are looking for folks ready, willing, and able to work in a fast-paced startup environment.</p>
+<p>
+	The perfect candidate will have consciousness around software development; practical, hands-on, application of academic know-how. If you feel you&rsquo;ve got it all, or have expertise in a relevant subset of the areas described here, we&rsquo;d like to hear from you: jobs@gnip.com</p>
+<p>
+	<strong>Skills Desired</strong></p>
+<ul>
+	<li>
+		Solid foundation in computer science</li>
+	<li>
+		Understanding of concurrency, particularly in Java</li>
+	<li>
+		Ruby/JRuby/Rails Development (or another dynamic language and framework)</li>
+	<li>
+		Experience with large scale data storage, search, and/or streaming a plus</li>
+	<li>
+		Solid understanding of MVC and REST frameworks</li>
+	<li>
+		Experience with testing frameworks including JUnit and EasyMock, Shoulda and Mocha</li>
+	<li>
+		Application development, deployment and support on Unix/Linux systems, cloud experience a plus</li>
+	<li>
+		Ability to effectively communicate with product team</li>
+</ul>
+<p>
+	<strong>Our Development Culture</strong></p>
+<ul>
+	<li>
+		Highly collaborative agile work environment</li>
+	<li>
+		Shared code ownership</li>
+	<li>
+		Weekly iterations, daily stand-ups</li>
+	<li>
+		Aggressive refactoring</li>
+	<li>
+		Developer participation in production support rotation</li>
+	<li>
+		Passion for writing software</li>
+	<li>
+		Technology We Use</li>
+	<li>
+		Ruby/JRuby/Rails</li>
+	<li>
+		Java</li>
+	<li>
+		Amazon Web Services (EC2/S3/RDS)</li>
+	<li>
+		MySQL</li>
+	<li>
+		Git/GitHub</li>
+</ul>
+<p>
+	<strong>What We Can Offer You</strong></p>
+<ul>
+	<li>
+		Work with modern languages/frameworks and choose the best technologies for the job</li>
+	<li>
+		Collaborative environment working with experienced and dedicated engineers</li>
+	<li>
+		Fast iterations and flexible feel typical of startups</li>
+	<li>
+		Comfortable office space in downtown Boulder</li>
+	<li>
+		Perks include breakfast at work, workday open tab at The Cup, and general team camaraderie</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gnip/lFUyWO"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121120175223_FKTXQH8ZUSL1MPXT]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Business Development Representative - Business Intelligence]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[Business Hiring Team]]></team>
+			<url><![CDATA[http://gnip.theresumator.com/apply/JYKgO6/Business-Development-Representative-Business-Intelligence.html]]></url>
+			<city><![CDATA[Boulder]]></city>
+			<state><![CDATA[CO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[80302]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Location</strong><br />
+Boulder or San Francisco area</p>
+<p>
+<strong>Overview</strong><br />
+Gnip, the world&rsquo;s largest provider of social data, is actively seeking a proven business development executive with experience in the Business Intelligence sector as we continue to expand our offerings to help better serve the growing market demand.</p>
+<p>
+<strong>Position</strong><br />
+We&rsquo;re looking for an experienced Business Development/Sales professional with deep understanding of the Business Intelligence vertical. This role will bridge the gap between business development and direct sales by expanding upon our growing partnerships with business intelligence and database companies, and the creation of new sales channels. This role will be responsible for identifying and cultivating senior level relationships at key prospective accounts and broadly across this vertical. Applicants require creative problem solving skills and an informed view into how public social media content is changing the face of business across multiple industries.</p>
+<p>
+<strong>Skills Desired</strong></p>
+<ul>
+<li>
+Comprehensive understanding of the Business Intelligence stack including deep insights into the inner workings at organizations such as: IBM, SAP, SAS, and Oracle.</li>
+<li>
+Experience working at, or selling to, companies like the above is preferred</li>
+<li>
+Proven sales/business development results within a enterprise-sales team</li>
+<li>
+Firm grasp of how public social content is currently being engaged with by businesses</li>
+<li>
+Solid ability to establish relationships with existing customers, and identify new, previously unforeseen business opportunities.</li>
+<li>
+Analytical approach to decision making.</li>
+<li>
+Ability to track, translate and communicate partner/client needs to the appropriate team for resolution.</li>
+<li>
+Experience with CRM solutions, preferably Salesforce</li>
+</ul>
+<p>
+<strong>About Us</strong></p>
+<p>
+Gnip is consistently recognized as one of the best places to work in Colorado, with a strong and fast-growing team that has more than doubled in the last 12 months. We work hard, with a community focus on driving the burgeoning social data ecosystem forward through innovation and thought leadership, but reward ourselves with many perks like a local coffee account, an office kegerator, and catered breakfasts every day. Today Gnip is.....</p>
+<ul>
+<li>
+Consistently recognized as one of the best places to work</li>
+<li>
+Serving ~90% of the Fortune 500 brands</li>
+<li>
+Delivering over 100 Billion activities every month</li>
+<li>
+Pushing the boundaries of innovation in social data, given our core belief that social data has unlimited value and near limitless application</li>
+<li>
+Building strong partnerships with many of the biggest Social Data Analytics / Business Intelligence organizations in the world</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gnip/JYKgO6"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130219170437_3DLB1PRN0WKU2Y0M]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Finance Sales & Business Development Executive]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Business Hiring Team]]></team>
+			<url><![CDATA[http://gnip.theresumator.com/apply/Q2CEhy/Finance-Sales-Business-Development-Executive.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10005]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Location</strong><br />
+New York</p>
+<p>
+<strong>Overview</strong><br />
+Gnip is a highly-innovative, fast-growth technology firm in the center of the Social Media revolution. Based upon Gnip&#39;s explosive growth and strong demand from within our market segment, we are currently looking for a Proven Sales Professional. This individual must be ready, willing, and able to work in a demanding, but fun environment.<br />
+If you feel you&#39;ve got it all, we&#39;d like to hear from you: jobs@gnip.com</p>
+<p>
+<br />
+<strong>Required Skills</strong></p>
+<ul>
+<li>
+5+ years of demonstrated sales success in the finance sector</li>
+<li>
+Finance data sales or buy-side background preferred</li>
+<li>
+Excellent written and oral communication skills and proven ability to interact directly with hedge fund and investment bank executives</li>
+<li>
+Proven ability as a self-starter is required</li>
+<li>
+Comfortable with phone, web, and face to face presentations</li>
+<li>
+Preference will be given to those with knowledge and understanding of the Social Media/Analytics space</li>
+<li>
+Consistent over-achievement of revenue goals</li>
+<li>
+Preference given to those based in NYC, but some travel will be required</li>
+</ul>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Build sales pipeline by identifying &amp; qualifying prospects in the finance sector</li>
+<li>
+Actively and effectively promote and sell Gnip solutions to prospects and target accounts</li>
+<li>
+Assist the product team in identifying new solutions and data sources to serve this growing market</li>
+<li>
+Establish strong partnerships to drive market penetration</li>
+<li>
+Follow up and up-sell existing customer base by spending time with each client to better understand their unique business needs and requirements</li>
+</ul>
+<p>
+<strong>Our Technologies</strong></p>
+<ul>
+<li>
+Salesforce</li>
+<li>
+Google Apps (email, calendar, docs)</li>
+</ul>
+<p>
+<strong>About Gnip</strong><br />
+Gnip is consistently recognized as one of the best places to work in Colorado, with a strong and fast-growing team that has more than doubled in the last 12 months. We work hard, with a community focus on driving the burgeoning social data ecosystem forward through innovation and thought leadership, but reward ourselves with many perks like a local coffee account, an office kegerator, and catered breakfasts every day.</p>
+<p>
+Today Gnip is...</p>
+<ul>
+<li>
+Consistently recognized as one of the best places to work</li>
+<li>
+Serving ~90% of the Fortune 500 brands</li>
+<li>
+Delivering over 100 Billion activities every month</li>
+<li>
+Pushing the boundaries of innovation in social data, given our core belief that social data has unlimited value and near limitless application</li>
+<li>
+Building strong partnerships with many of the biggest Social Data Analytics / Business Intelligence organizations in the world</li>
+</ul>
+<p>
+<strong>Compensation</strong><br />
+Base commensurate with experience, with distinct sales upside.</p>
+<p>
+Gnip is an Equal Employment Opportunity Employer.</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gnip/Q2CEhy"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130314175713_L277ZOKTONT5HSMP]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Publisher Integration Manager]]></title>
+			<department><![CDATA[Product Team]]></department>
+			<team><![CDATA[Business Hiring Team]]></team>
+			<url><![CDATA[http://gnip.theresumator.com/apply/tEc0EO/Publisher-Integration-Manager.html]]></url>
+			<city><![CDATA[Boulder]]></city>
+			<state><![CDATA[CO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[80302]]></postalcode>
+			<description><![CDATA[<p>
+&nbsp;</p>
+<p>
+<strong>Location</strong><br />
+Boulder, CO</p>
+<p>
+<strong>Overview</strong><br />
+Every day the world&#39;s public, online, social interaction engages billions of people and thousands of businesses globally. By sustainably connecting our customers with the public social content they need, our team enables a variety of industries. We believe we&#39;re in the midst of a change in how business is done and this change is of the same magnitude as the impact the Internet had to begin with. Demand for our products is only increasing, and that has given us an opportunity to expand our team and our overall offering.</p>
+<p>
+Fundamentally, we&rsquo;re a platform and infrastructure company. The products we provide are the fundamental building block of many applications and services, and our product is essential to the customers and companies who use us. Working at Gnip means working to define the technology that enables a host of other businesses and applications.</p>
+<p>
+<strong>Position Description&nbsp;</strong><br />
+At Gnip, we have a bold vision: we aspire to be the source of record for public social conversation online. As we&rsquo;ve grown, our pace towards this goal has accelerated. We are working with more and more social data publishers (e.g., Tumblr, Twitter, Disqus) who are choosing to make their data available to Gnip&rsquo;s customer ecosystem. The Publisher Integration Manager role will be focused on helping us understand and evaluate the characteristics of each new publisher data source. This role will help scope and define the technical elements of how a new data source will be integrated into our products. A successful candidate will accelerate the speed at which Gnip can bring more data to our customers.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Create simple tools to programmatically gather sample data from social network APIs</li>
+<li>
+Assist publisher business development efforts by quantitatively evaluating the relevancy of a new publisher data source to Gnip&rsquo;s customer base</li>
+<li>
+Collaborate with the Data Science team to uncover and highlight the unique characteristics of new data sources that matter to Gnip customers</li>
+<li>
+Analyze new publisher data formats for compatibility with Gnip&rsquo;s existing standards.</li>
+<li>
+Work with engineering team to transform data according to Gnip&rsquo;s established formats.</li>
+<li>
+Evaluate ingestion models for new publisher sources to understand scope of integrating with Gnip&rsquo;s existing system</li>
+<li>
+Understand and document different social activities and data payload elements for development team and future customers</li>
+<li>
+Create technical documentation to help customers and Gnip team members understand the characteristics of a new data source and best practices for integrating it</li>
+<li>
+Assist the technical customer team at Gnip with customer onboarding and support issues related to new publisher sources</li>
+</ul>
+<p>
+<strong>Skills Desired</strong></p>
+<p>
+&nbsp;</p>
+<ul>
+<li>
+Self directed; independent.</li>
+<li>
+3+ years of software development experience, preferably in environments that deliver product on the web</li>
+<li>
+Solid understanding of today&#39;s public data access APIs (protocols, formats, best practices).</li>
+<li>
+Demonstrated competency with common scripting language tools of your choice (Python, Perl, whatever suits you best)</li>
+<li>
+Firm grasp of how social media is created (from the end-user&#39;s perspective, as well as the Publisher&#39;s).</li>
+<li>
+Strong technical writing skills</li>
+<li>
+Interest and ability to clearly communicate complex technical ideas in simple language to customers</li>
+<li>
+Experience working in an Agile development environment preferred</li>
+<li>
+Bonus Points: Fluency in any of the following foreign languages - Portuguese, Japanese, Korean, Chinese (Mandarin)</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>About Our Product/Development Culture</strong></p>
+<ul>
+<li>
+Highly collaborative (open work area) Agile work environment. Engineering &amp; Product are tightly coupled and interact all the time.</li>
+<li>
+Weekly iterations, daily stand-ups, bi-weekly (every two weeks) system deploys</li>
+<li>
+No &quot;sacred cows.&quot; Questioning, followed by suggested new routes, status-quo is how we evolve and innovate.</li>
+<li>
+Customer driven. We know who our customers are and work hard to remain focused on building what they need.</li>
+</ul>
+<p>
+<strong>About Gnip</strong><br />
+Gnip is consistently recognized as one of the best places to work in Colorado, with a strong and fast-growing team that has more than doubled in the last 12 months. We work hard, with a community focus on driving the burgeoning social data ecosystem forward through innovation and thought leadership, but reward ourselves with many perks like a local coffee account, an office kegerator, and catered breakfasts every day.</p>
+<p>
+Today Gnip is...</p>
+<ul>
+<li>
+Consistently recognized as one of the best places to work</li>
+<li>
+Serving ~90% of the Fortune 500 brands</li>
+<li>
+Delivering over 100 Billion activities every month</li>
+<li>
+Pushing the boundaries of innovation in social data, given our core belief that social data has unlimited value and near limitless application</li>
+<li>
+Building strong partnerships with many of the biggest Social Data Analytics / Business Intelligence organizations in the world</li>
+</ul>
+<p>
+<strong>Compensation</strong><br />
+Commensurate with skills and experience.</p>
+<p>
+Gnip is an Equal Employment Opportunity Employer.</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gnip/tEc0EO"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130314190021_UXOB1KFTPIUGHKHR]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sales/Contracts Operations Specialist]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[Business Hiring Team]]></team>
+			<url><![CDATA[http://gnip.theresumator.com/apply/sD5peO/SalesContracts-Operations-Specialist.html]]></url>
+			<city><![CDATA[Boulder]]></city>
+			<state><![CDATA[CO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[80302]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Location</strong><br />
+Boulder</p>
+<p>
+<strong>Overview</strong><br />
+Gnip, the world&rsquo;s largest provider of social data, is actively seeking a sales/contracts operations specialist.&nbsp; The Sales Operations Specialist will be a key resource for both the Sales and Finance teams, providing training and guidance on the use of the company&rsquo;s CRM to ensure the integrity and consistency of the data; measuring progress towards monthly/quarterly goals; contracts administration; tracking and monitoring sales budgets and resources; and creating sales tools, presentations, analyses, and documents, as needed. The Sales Operations Specialist will also participate in the design and administration of sales commission plans; individual achievement reporting; contribute to the preparation of the quarterly/annual sales expense budget; work closely with Finance on revenue and bookings forecasts; and carry out special projects as assigned. Success in this role will be primarily measured upon the following:</p>
+<ul>
+<li>
+Comprehensive management/administration of CRM (SalesForce)</li>
+<li>
+Contract review, management and reconciliation</li>
+<li>
+Preparation of reports, spreadsheets and presentations related to company business initiatives</li>
+<li>
+Analysis and support of customer revenue trends</li>
+<li>
+Assist in pricing analysis</li>
+<li>
+Collaborate with business users to design and implement new/improved processes</li>
+</ul>
+<p>
+<strong>Required Skills &amp; Experience</strong></p>
+<ul>
+<li>
+At least 2 years of software sales (SaaS) operations experience supporting a high energy sales team and executive management with proposals, contracts, and pricing</li>
+<li>
+High comfort level with CRM systems, preference given to those with SalesForce certification/expertise</li>
+<li>
+Legal/Paralegal background highly desirable</li>
+<li>
+Experience with both direct and channel sales model preferred</li>
+</ul>
+<p>
+<strong>Education</strong><br />
+Bachelor&#39;s degree in a Business field.</p>
+<p>
+<strong>About Gnip</strong><br />
+Gnip is consistently recognized as one of the best places to work in Colorado, with a strong and fast-growing team that has more than doubled in the last 12 months. We work hard, with a community focus on driving the burgeoning social data ecosystem forward through innovation and thought leadership, but reward ourselves with many perks like a local coffee account, an office kegerator, and catered breakfasts every day.</p>
+<p>
+Today Gnip is...</p>
+<ul>
+<li>
+Consistently recognized as one of the best places to work</li>
+<li>
+Serving ~90% of the Fortune 500 brands</li>
+<li>
+Delivering over 100 Billion activities every month</li>
+<li>
+Pushing the boundaries of innovation in social data, given our core belief that social data has unlimited value and near limitless application</li>
+<li>
+Building strong partnerships with many of the biggest Social Data Analytics / Business Intelligence organizations in the world</li>
+</ul>
+<p>
+<strong>Compensation</strong><br />
+Commensurate with skills and experience.</p>
+<p>
+Gnip is an Equal Employment Opportunity Employer.</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gnip/sD5peO"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130405155846_RSAELF2LZHXRBRLK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Channel Sales Director]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[Business Hiring Team]]></team>
+			<url><![CDATA[http://gnip.theresumator.com/apply/RpqqkA/Channel-Sales-Director.html]]></url>
+			<city><![CDATA[Boulder]]></city>
+			<state><![CDATA[CO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[80302]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Location</strong><br />
+Boulder, CO</p>
+<p>
+<strong>Overview</strong><br />
+Gnip, the world&#39;s largest provider of social data, is actively seeking a proven Channel Sales Manager as we continue to expand our offerings to help better serve the growing market demand.</p>
+<p>
+<strong>Position Description</strong><br />
+We&#39;re looking for an experienced Channel Sales professional with deep understanding and proven background defining and building out a Channel Sales organization. This role is an integral part of our future growth strategy. The successful candidate will be responsible for identifying and cultivating senior level relationships with key Gnip Partners and prospective accounts. Applicants require creative problem solving skills and an informed view into how public social media content is changing the face of business across multiple industries.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Define and execute the overall strategy of the channel sales program.</li>
+<li>
+Full P&amp;L responsibilities relating to the channel sales program.</li>
+<li>
+Own and lead channel launch plans (new relationships) and channel operations plans (existing relationships).</li>
+<li>
+Build, manage, and mentor a Channel Sales team.</li>
+<li>
+Develop and implement channel management strategies. Determine channel support requirements and own execution across all internal departments (marketing, business development, finance, legal, sales support, etc.) to fulfill these requirements.</li>
+<li>
+Assure that our channel partners are fully supported in every aspect of our joint solution offering in order to help drive revenue including: sales tool kits, joint marketing mindshare programs, and partner relationship plans.</li>
+<li>
+Assist the Plugged In team in all phases of new partner engagement to ensure sales &amp; marketing support plans are developed in parallel.</li>
+<li>
+Create, support, track and measure all channel sales initiatives with Partners.</li>
+<li>
+Establish short and long-term goals and then meet them for channel sales program.</li>
+</ul>
+<p>
+<strong>About Gnip</strong><br />
+Gnip is consistently recognized as one of the best places to work in Colorado, with a strong and fast-growing team that has more than doubled in the last 12 months. We work hard, with a community focus on driving the burgeoning social data ecosystem forward through innovation and thought leadership, but reward ourselves with many perks like a local coffee account, an office kegerator, and catered breakfasts every day.</p>
+<p>
+Today Gnip is...</p>
+<ul>
+<li>
+Consistently recognized as one of the best places to work</li>
+<li>
+Serving ~90% of the Fortune 500 brands</li>
+<li>
+Delivering over 100 Billion activities every month</li>
+<li>
+Pushing the boundaries of innovation in social data, given our core belief that social data has unlimited value and near limitless application</li>
+<li>
+Building strong partnerships with many of the biggest Social Data Analytics / Business Intelligence organizations in the world</li>
+</ul>
+<p>
+Gnip is an Equal Employment Opportunity Employer.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gnip/RpqqkA"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130426161542_XMCREO5QS9KT1RWP]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Account Development]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[Business Hiring Team]]></team>
+			<url><![CDATA[http://gnip.theresumator.com/apply/XPGcfT/Account-Development.html]]></url>
+			<city><![CDATA[Boulder]]></city>
+			<state><![CDATA[CO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[80302]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Location</strong><br />
+Boulder, CO</p>
+<p>
+<strong>Overview</strong><br />
+Gnip, the world&#39;s largest provider of social data, is actively seeking an experienced account executive who will be responsible for managing and expanding Gnip&#39;s existing customer relationships, which range from startups to large enterprises.</p>
+<p>
+<strong>Position Description</strong><br />
+We&#39;re looking for an experienced sales rep/account manager to own a segment of Gnip&#39;s customer relationships. This role combines elements of sales and account management and requires the ability to manage a set of sophisticated, highly demanding customers. You will work closely with Gnip&#39;s product, sales and support teams to help our customers better understand and utilize our expanding list of offerings.</p>
+<p>
+<strong>Desired Skills</strong></p>
+<ul>
+<li>
+3-5 years experience in a Sales and/or Account Management role, preferably with a Saas product</li>
+<li>
+Knowledge of social media analytics and business intelligence (BI)</li>
+<li>
+Demonstrated ability to work well with sales, product and customer success/support teams</li>
+<li>
+CRM proficiency, preferably Salesforce</li>
+<li>
+Excellent verbal and written communication skills; you are not afraid to get on the phone to solve problems quickly</li>
+<li>
+Responsibilities</li>
+<li>
+Work with current Gnip customers to understand their products and their business</li>
+<li>
+Serve as a consultative expert in Gnip&#39;s products and publisher partners and upsell as appropriate</li>
+<li>
+Act as the customer&#39;s advocate within Gnip and work with the Product team to identify and evaluate customer requests</li>
+</ul>
+<p>
+<strong>About Gnip</strong><br />
+Gnip is consistently recognized as one of the best places to work in Colorado, with a strong and fast-growing team that has more than doubled in the last 12 months. We work hard, with a community focus on driving the burgeoning social data ecosystem forward through innovation and thought leadership, but reward ourselves with many perks like a local coffee account, an office kegerator, and catered breakfasts every day.</p>
+<p>
+Today Gnip is...</p>
+<ul>
+<li>
+Consistently recognized as one of the best places to work</li>
+<li>
+Serving ~90% of the Fortune 500 brands</li>
+<li>
+Delivering over 100 Billion activities every month</li>
+<li>
+Pushing the boundaries of innovation in social data, given our core belief that social data has unlimited value and near limitless application</li>
+<li>
+Building strong partnerships with many of the biggest Social Data Analytics / Business Intelligence organizations in the world</li>
+</ul>
+<p>
+<strong>Compensation</strong><br />
+Gnip offers competitive salary based on skills and experience.</p>
+<p>
+Gnip is an Equal Employment Opportunity Employer.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gnip/XPGcfT"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130426162032_PMERYIWMI8RQ0R3P]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Data Scientist]]></title>
+			<department><![CDATA[Data Science]]></department>
+			<team><![CDATA[Business Hiring Team]]></team>
+			<url><![CDATA[http://gnip.theresumator.com/apply/zdPd4s/Data-Scientist.html]]></url>
+			<city><![CDATA[Boulder]]></city>
+			<state><![CDATA[CO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[80302]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Location</strong><br />
+Boulder, CO</p>
+<p>
+<strong>Overview</strong><br />
+Gnip, the world&#39;s largest provider of social data, is actively seeking a Data Scientist to join our rapidly growing team.</p>
+<p>
+Do you love to analyze really big data? Do you want to work with firehoses of data from Twitter, Tumblr, Wordpress and other leading social media platforms? Do you want to see your work have a real-world impact? Are you intellectually curious?</p>
+<p>
+Join Gnip&#39;s data science team as a data scientist focused on Gnip&#39;s enhancements and product management strategy. Work with&mdash;and learn from&mdash;product managers, engineers, and data scientists from the leading real-time social media provider. This position is in BOULDER, COLORADO. We are not able to sponsor visas.</p>
+<p>
+<strong>Required Skills</strong></p>
+<ul>
+<li>
+Bachelor Degree (or above) in Math, Statistics, Physics, Computer Science, or related field</li>
+<li>
+2 years experience with statistical modeling, machine learning and data mining algorithms</li>
+<li>
+4 years experience with a programming language (C++, Java, Ruby, and/or Python)</li>
+<li>
+1 year of experience with statistical modeling packages (e.g. R)</li>
+<li>
+1 year of experience with SQL databases and querying</li>
+<li>
+Demonstrated ability to develop prototypes/test sets/test scenarios etc. that move open questions/customer problems toward viable product solutions.</li>
+<li>
+Strong history of clear, effective communication and successful collaboration with teams across an organization</li>
+<li>
+Intellectual curiosity</li>
+</ul>
+<p>
+<strong>Desired Skills</strong></p>
+<ul>
+<li>
+Master or PhD in Math, Statistics, Physics, Computer Science or related field</li>
+<li>
+Experience with product management (e.g. product manager, technical product manager, skunk-works team, etc.)</li>
+<li>
+Experience with Python (ML tools, Viz tools), R</li>
+<li>
+Experience collecting and analyzing social data</li>
+<li>
+Familiarity with accessing accessing data through REST APIs</li>
+<li>
+Experience with Git</li>
+</ul>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Descriptive statistics</li>
+<li>
+Create statistical models</li>
+<li>
+Data mining analysis</li>
+<li>
+Feature prototyping, including evaluating 3rd party data solutions, developing models and machine learning solutions</li>
+<li>
+Work with product management team to refine/improve/understand customer questions and problems and frame solutions</li>
+<li>
+Work with development, communicating research, models, prototype learning</li>
+<li>
+Optimize product feature use and performance</li>
+<li>
+Communicate and document work, share results with other teams at Gnip</li>
+</ul>
+<p>
+<strong>About Gnip</strong><br />
+Gnip is consistently recognized as one of the best places to work in Colorado, with a strong and fast-growing team that has more than doubled in the last 12 months. We work hard, with a community focus on driving the burgeoning social data ecosystem forward through innovation and thought leadership, but reward ourselves with many perks like a local coffee account, an office kegerator, and catered breakfasts every day.</p>
+<p>
+Today Gnip is...</p>
+<ul>
+<li>
+Consistently recognized as one of the best places to work</li>
+<li>
+Serving ~90% of the Fortune 500 brands</li>
+<li>
+Delivering over 100 Billion activities every month</li>
+<li>
+Pushing the boundaries of innovation in social data, given our core belief that social data has unlimited value and near limitless application</li>
+<li>
+Building strong partnerships with many of the biggest Social Data Analytics / Business Intelligence organizations in the world</li>
+</ul>
+<p>
+<strong>Compensation</strong><br />
+Gnip offers competitive salary based on skills and experience.</p>
+<p>
+Gnip is an Equal Employment Opportunity Employer.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gnip/zdPd4s"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130426162409_TYJOICYSSAEQXKLN]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Director of Product Marketing]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[Business Hiring Team]]></team>
+			<url><![CDATA[http://gnip.theresumator.com/apply/j5Baqm/Director-Of-Product-Marketing.html]]></url>
+			<city><![CDATA[Boulder]]></city>
+			<state><![CDATA[CO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[80302]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Location</strong><br />
+Boulder, CO</p>
+<p>
+<strong>Overview</strong><br />
+Gnip, the world&#39;s largest provider of social data, is actively seeking an experienced product marketer to drive both strategy and execution of Gnip&#39;s product positioning and messaging as we rapidly scale our business.</p>
+<p>
+<strong>Position Description</strong><br />
+Can you make the complex seem simple? Do you thrive on creating big picture strategy and driving detailed execution? Are you looking for your next big challenge?</p>
+<p>
+Join the Gnip marketing team to own and drive product marketing from start to finish. From defining the market position for our products to ensuring the execution of your plans, you&#39;ll play a critical role in Gnip&#39;s success as we grow.</p>
+<p>
+<strong>Desired Skills</strong></p>
+<ul>
+<li>
+7-10 years experience in Marketing and/or Product roles</li>
+<li>
+3-5 years experience in a Product Marketing role in a software company</li>
+<li>
+Strong project management skills</li>
+<li>
+Experience targeting enterprise customers</li>
+<li>
+Effective, concise writing skills</li>
+<li>
+Familiarity with social data</li>
+<li>
+Strategic thinker who&#39;s looking to get their hands dirty with execution</li>
+</ul>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Define the positioning and messaging for all Gnip products</li>
+<li>
+Drive the creation of marketing assets that clearly communicate the benefits of Gnip&#39;s products and how they work</li>
+<li>
+Own the Gnip website and ensure that it tells a clear, compelling story about our offering</li>
+<li>
+Drive the overall messaging and communication plan to Gnip customers and prospects</li>
+<li>
+Drive the communication plan for new product launches</li>
+<li>
+Design, lead, and execute the process to regularly communicate and educate our customers and prospects through webinars and other one-to-many training events</li>
+<li>
+Work with the Gnip sales team to train them on the key benefits of new offerings</li>
+<li>
+Work very closely with the Product team to understand the product roadmap and ensure new features/products/updates are effectively communicated</li>
+<li>
+Work very closely with the rest of the Marketing team to execute on the product marketing plan</li>
+</ul>
+<p>
+<strong>About Gnip</strong><br />
+Gnip is consistently recognized as one of the best places to work in Colorado, with a strong and fast-growing team that has more than doubled in the last 12 months. We work hard, with a community focus on driving the burgeoning social data ecosystem forward through innovation and thought leadership, but reward ourselves with many perks like a local coffee account, an office kegerator, and catered breakfasts every day.</p>
+<p>
+Today Gnip is...</p>
+<ul>
+<li>
+Consistently recognized as one of the best places to work</li>
+<li>
+Serving ~90% of the Fortune 500 brands</li>
+<li>
+Delivering over 100 Billion activities every month</li>
+<li>
+Pushing the boundaries of innovation in social data, given our core belief that social data has unlimited value and near limitless application</li>
+<li>
+Building strong partnerships with many of the biggest Social Data Analytics / Business Intelligence organizations in the world</li>
+</ul>
+<p>
+<strong>Compensation</strong><br />
+Gnip offers competitive salary based on skills and experience.</p>
+<p>
+Gnip is an Equal Employment Opportunity Employer.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gnip/j5Baqm"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130426162829_GLQFX4EBMCGV3BCG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Product Owner, Enrichments]]></title>
+			<department><![CDATA[Product]]></department>
+			<team><![CDATA[Business Hiring Team]]></team>
+			<url><![CDATA[http://gnip.theresumator.com/apply/OpCnh1/Product-Owner-Enrichments.html]]></url>
+			<city><![CDATA[Boulder]]></city>
+			<state><![CDATA[CO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[80302]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Location</strong><br />
+Boulder, CO</p>
+<p>
+<strong>Overview</strong><br />
+At Gnip, we have a bold vision: we aspire to be the source of record for public social conversation online. Every day billions of people and thousands of businesses around the world engage in public, online, social interactions. By sustainably connecting our customers with the public social content they need, our team provides an essential resource that powers a range of established and emerging markets. We believe we&#39;re in the midst of a change in how business is done and this change is of the same magnitude as the impact the Internet had to begin with. Demand for our products is only increasing, and that has given us an opportunity to expand our team and our overall offering.</p>
+<p>
+Fundamentally, we&#39;re a platform and infrastructure company. The products we provide serve as building blocks for many other applications and services. Working on the Product team at Gnip means working to understand the market and define the technology that enables a host of other businesses and applications.</p>
+<p>
+<strong>Position Description</strong><br />
+A key element of our product strategy is our Enrichment tier&mdash;the data we add to social media streams to make the social content more useful and accessible for our customers. We are hiring a Product Owner who will help guide both technical and business details as we grow and expand our Enrichments offering. A successful candidate will develop a deep understanding of the Enrichments opportunity, and will make sure we solve customer problems with each new release.</p>
+<p>
+<strong>Desired Skills</strong></p>
+<ul>
+<li>
+Self-directed and independent, yet an exemplary team member and leader</li>
+<li>
+5+ years of experience in a software development environment that delivers product on the web; experience with &#39;big data&#39; applications a plus</li>
+<li>
+Solid understanding of modern data access APIs (protocols, formats, best practices)</li>
+<li>
+Firm grasp of how social media is created (from the end-user&#39;s perspective, as well as the Publisher&#39;s)</li>
+<li>
+Strong interest and ability to clearly communicate complex technical ideas in simple language, both internally and to customers</li>
+<li>
+Experience working in an Agile development environment highly preferred</li>
+<li>
+Bonus Points: Demonstrated competency with any of the following &ndash; Java, Ruby (or Rails), or other common scripting languages</li>
+</ul>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Understand our customers. Knowing what our customers need and why is crucial to building good tools.</li>
+<li>
+Work with the Product Manager as a seamless team to envision, launch, and grow our products.</li>
+<li>
+Ensure the success of each iteration. We&#39;re an agile shop with weekly iterations and bi-weekly releases.</li>
+<li>
+&#39;See the gaps.&#39; Coordinate with engineering to help scope new work and make sure we nail the details.</li>
+<li>
+Write detailed user stories and functional tests to guide engineering efforts.</li>
+<li>
+Communicate about new product features internally and to customers, however is best to do the job (writing, meetings, screencasts, etc.).</li>
+<li>
+Engage with our Marketing, Sales and Accounts teams to help drive new business and learn about customer feedback.</li>
+<li>
+Assist our Customer Success (aka &#39;Support&#39;) team with customer on-boarding and support issues related to your product area.</li>
+<li>
+Some travel (10% or less).</li>
+</ul>
+<p>
+<strong>About Gnip</strong><br />
+Gnip is consistently recognized as one of the best places to work in Colorado, with a strong and fast-growing team that has more than doubled in the last 12 months. We work hard, with a community focus on driving the burgeoning social data ecosystem forward through innovation and thought leadership, but reward ourselves with many perks like a local coffee account, an office kegerator, and catered breakfasts every day.</p>
+<p>
+Today Gnip is...</p>
+<ul>
+<li>
+Consistently recognized as one of the best places to work</li>
+<li>
+Serving ~90% of the Fortune 500 brands</li>
+<li>
+Delivering over 100 Billion activities every month</li>
+<li>
+Pushing the boundaries of innovation in social data, given our core belief that social data has unlimited value and near limitless application</li>
+<li>
+Building strong partnerships with many of the biggest Social Data Analytics / Business Intelligence organizations in the world</li>
+</ul>
+<p>
+<strong>Compensation</strong><br />
+Commensurate with experience</p>
+<p>
+Gnip is an Equal Employment Opportunity Employer.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gnip/OpCnh1"></script>]]></buttons>
+		</job>
+	</jobs>

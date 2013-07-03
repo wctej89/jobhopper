@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Spinn3r]]></company>
+			<job>
+			<id><![CDATA[job_20120329175409_IKMQVVTKXPEGHIVJ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Help with Mac hardware failures and wireless printer setup.]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://spinn3r.theresumator.com/apply/u0WQSV/Help-With-Mac-Hardware-Failures-And-Wireless-Printer-Setup.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+	We have some failed Mac hardware that we would like help fixing and also prepare for selling (running backups, etc).</p>
+<p>
+	- 2-3 mac laptops that need to be backed up and erased and then sold.</p>
+<p>
+	- A broken 30&quot; LCD that MAY be the power supply (if you have a test power supply that we can use that would help immensely).</p>
+<p>
+	- Reconfigure a printer for use with a new access point</p>
+<p>
+	- Send a Macbook Air back to Apple for repair.</p>
+<p>
+	You should have experience configuring hardware, maintaining networks, etc.</p>
+<p>
+	A resume and experience should be included in your response.</p>
+]]></description>
+			<type><![CDATA[Contracted]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/spinn3r/u0WQSV"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120301215236_LQPHWBQZLZOILEJE]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Systems Administrator]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://spinn3r.theresumator.com/apply/XD3j7D/Senior-Systems-Administrator.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+	At <a href="http://spinn3r.com">Spinn3r</a> you&#39;ll be responsible for maintaining performance and availability of our cluster as well as future architecture design.</p>
+<p>
+	You&#39;re going to need to have a high level overview of our architecture but shouldn&#39;t be shy about diving into MySQL and/or Linux internals.</p>
+<p>
+	This is a great opportunity for the right candidate. You&#39;re going to be working in a very challenging environment with a lot of fun toys.</p>
+<p>
+	You&#39;re also going to be a core member of the team and will be given a great deal of responsibility.</p>
+<p>
+	We have a number of unique scalability challenges including high write throughput and massive backend database requirements.</p>
+<p>
+	We&#39;re also testing some cutting edge technology including SSD storage, distributed database technology and distributed crawler design.</p>
+<p>
+	<strong>Responsibilities</strong>:</p>
+<ul>
+	<li>
+		Maintaining 24 x 7 x 365 operation of our cluster</li>
+	<li>
+		Tuning our MySQL/InnoDB database environment</li>
+	<li>
+		Maintaining our current crawler operations</li>
+	<li>
+		Monitoring application availability and historical performance tracking</li>
+	<li>
+		Maintaining our hardware and linux environment</li>
+	<li>
+		Maintaining backups, testing failure scenarios, suggesting database changes</li>
+</ul>
+<p>
+	<strong>Requirements</strong>:</p>
+<ul>
+	<li>
+		Experience in managing servers in large scale environments</li>
+	<li>
+		Advanced understandling of Linux (preferably Debian). You need to grok the kernel, filesystem layout, memory model, swap, tuning, etc.</li>
+	<li>
+		Advanced understanding of MySQL including replication and the InnoDB storage engine</li>
+	<li>
+		Knowledge of scripting languages (Bash and PHP are desirable)</li>
+	<li>
+		Maintaining software configuration within a large cluster of servers.</li>
+	<li>
+		Network protocols including HTTP, SSH, and DNS</li>
+	<li>
+		BS in Computer Science (or comparable experience)</li>
+</ul>
+<p>
+	&nbsp;</p>
+<br />
+<br />
+<br />
+<br />
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/spinn3r/XD3j7D"></script>]]></buttons>
+		</job>
+	</jobs>

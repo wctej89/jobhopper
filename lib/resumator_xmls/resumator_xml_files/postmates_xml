@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Postmates Inc.]]></company>
+			<job>
+			<id><![CDATA[job_20130517015831_TEDBHVUW73PKPAYB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://postmates.theresumator.com/apply/ebN1i1/Software-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+<strong>SOFTWARE ENGINEER</strong></p>
+<p>
+Engineering at the intersection of urban logistics and commerce.</p>
+<p>
+<strong>ABOUT POSTMATES</strong></p>
+<p>
+Postmates is a revolutionary urban logistics platform that enables anyone to purchase and receive any product within the city in under one hour.</p>
+<p>
+We are a team of engineers, designers and passionate customer service specialists located in the Mission District of San Francisco.</p>
+<p>
+Postmates is a venture funded company. Our Series A financing was lead by Founders Fund with an amazing group of angel investors: Cyan and Scott Banister, Russel Simmons, Naval Ravikant, Jawed Karim and Jeff Clavier.</p>
+<p>
+<strong>ABOUT POSTMATES ENGINEERING</strong></p>
+<p>
+Our technology smooths the rough edges of the real world. At Postmates we engineer proprietary technologies to create an efficient and reliable platform on top of an unpredictable urban environment and crowd-sourced fleet of couriers.</p>
+<p>
+<strong>Dispatch:</strong> Where are the couriers located? What are their current capabilities? Where is the purchased item located? Postmates automated dispatching system computes the best matches based on a variety of attributes in real-time.</p>
+<p>
+<strong>Inventory:</strong> Where are all the #2 pencils in San Francisco? Inventories for local merchants are often unreliable or non-existent. Developing innovative strategies to harvest, manage and model the price, availability and location of products allow us to treat the whole city as our own warehouse.</p>
+<p>
+<strong>Analytics:</strong> Wait times, travel times, city topologies...dozens of parameters flow into each of our transactions. In depth analysis and visualization of every delivery is essential for fine tuning our platform.</p>
+<p>
+<u>We judge the quality of work based on simple set of principals:</u></p>
+<p>
+<strong>Design:</strong> Creating product experiences that are not just beautiful on the surface but thoughtfully designed to be simple and enjoyable to use is a passion.</p>
+<p>
+<strong>Reliability:</strong> Implementations, development process and infrastructure decisions respect the consequences a service interruption has for our customers and couriers. We thoroughly review and test our code so we can quickly and confidently make changes while minimizing risk.</p>
+<p>
+<strong>Pragmatism:</strong> There is never a shortage of things to do. We emphasize identifying root causes of problems, while separating what must be done now and what should be improved later.</p>
+<p>
+<strong>REQUIREMENTS</strong></p>
+<p>
+Engineering solutions to hard problems dictated by the physical constraints of the real world excites you. Prior work experience involved building applications used by real people right now. Working closely with a small team is valued because of the opportunities to learn from and educate each other.</p>
+<p>
+<u>You are:</u></p>
+<ul>
+<li>
+Proficiency programming in one or more dynamic high level languages such as Python or Ruby.</li>
+<li>
+Experienced using SQL.</li>
+<li>
+Experience programming in other languages such as assembly, C, C++, Go or Java.</li>
+</ul>
+<p>
+<strong>BENEFITS</strong></p>
+<p>
+Competitive salary<br />
+Generous stock option plan<br />
+Medical benefits<br />
+Large monitor, comfortable chairs, your choice of computer and equipment<br />
+Snack filled kitchen<br />
+Awesome work environment at a company with a huge vision<br />
+Killer office located in the sunny Mission District of San Francisco</p>
+<p>
+<br />
+<strong>HOW TO APPLY</strong></p>
+<p>
+Send the following to jobs+engineer@postmates.com</p>
+<ul>
+<li>
+Updated resume</li>
+<li>
+GitHub account username / Examples of things you have built of and are proud of</li>
+<li>
+List of personal references</li>
+<li>
+A note about why you&#39;re interested in working with us</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/postmates/ebN1i1"></script>]]></buttons>
+		</job>
+	</jobs>

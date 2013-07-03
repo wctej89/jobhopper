@@ -1,0 +1,807 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Tue, 2 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Everlane]]></company>
+			<job>
+			<id><![CDATA[job_20111118222333_U4VR1DDFMPYOBQDV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Engineer, Generalist]]></title>
+			<department><![CDATA[web]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://everlane.theresumator.com/apply/RngP83/Senior-Engineer-Generalist.html]]></url>
+			<city><![CDATA[Los Angeles or San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94104]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Engineer, Generalist</strong></p>
+<p>
+We are looking for talented develops who want to create innovative, beautiful, and hyper-usable web products. Our priority is shipping awesome web products on a daily basis.</p>
+<p>
+You will take ownership of the entire platform and work closely with our designers in creating elegant, simple, and effective online commerce experiences.</p>
+<p>
+Our developers who love to tinker, and steam-roll roadblocks in the name of building an amazing product.</p>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+The ability to make quick product and technical judgments independently with very little oversight</li>
+<li>
+Proficiency in web programming. We use Ruby on Rails, but we find that any experience with web frameworks tends to translate quite well.</li>
+<li>
+Number of years of professional experience is not important</li>
+<li>
+Open source work and/or shipped products are a huge plus</li>
+</ul>
+<p>
+<br />
+<strong>About Us</strong></p>
+<ul>
+<li>
+We are a small team, currently at 3 developers</li>
+<li>
+Get ready to move fast, we turn things around on the scale of hours and days.</li>
+<li>
+We release daily, usually as soon as a feature is finished - many times before it&#39;s finished, because shipped is better than perfect</li>
+<li>
+Our stack: RoR, MySQL, Heroku, jQuery, Backbone</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/everlane/RngP83"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120103025941_YWWWQWL727TH64HP]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Junior Engineer, Ruby on Rails]]></title>
+			<department><![CDATA[web]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://everlane.theresumator.com/apply/cZLscs/Junior-Engineer-Ruby-On-Rails.html]]></url>
+			<city><![CDATA[Los Angeles or San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94104]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Junior Engineer, Ruby on Rails</strong></p>
+<p>
+We are looking for engineers with something to prove, and an eagerness to soak up knowlege and new skills. You will work on and ship user-facing features on a daily basis as you learn the craft of being a software engineer with guidance from our incredibly talented senior team.</p>
+<p>
+You will work directly with out creative, marketing and product departments to build beautiful, user-centric web products that directly impact Everlane&#39;s core brand and sales.</p>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+A huge capacity for learning, and a fearless attitude</li>
+<li>
+The ability to know when to ask questions, and a pride in your work</li>
+<li>
+Fluency in HTML/CSS, familiarity with Ruby on Rails is a big plus</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/everlane/cZLscs"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120103071118_CROOLHIQJ323FGPE]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Engineer, Front-End]]></title>
+			<department><![CDATA[web]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://everlane.theresumator.com/apply/5QV8yh/Senior-Engineer-FrontEnd.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94104]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Engineer, Front-End</strong></p>
+<p>
+We are looking for talented developers who want to create innovative, beautiful, and hyper-usable web products. Our priority is shipping awesome web products on a daily basis.</p>
+<p>
+You will take ownership of the entire platform and work closely with our designers in creating elegant, simple, and effective online commerce experiences.</p>
+<p>
+Our developers who love to tinker, and steam-roll roadblocks in the name of building an amazing product.</p>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+The ability to make quick product and technical judgments independently with very little oversight</li>
+<li>
+Proficiency in web programming. We use Ruby on Rails, but we find that any experience with web frameworks tends to translate quite well.</li>
+<li>
+Number of years of professional experience is not important</li>
+<li>
+Open source work and/or shipped products are a huge plus</li>
+</ul>
+<p>
+<strong>About Us</strong></p>
+<ul>
+<li>
+We are a small team, currently at 3 developers</li>
+<li>
+Get ready to move fast, we turn things around on the scale of hours and days.</li>
+<li>
+We release daily, usually as soon as a feature is finished - many times before it&#39;s finished, because shipped is better than perfect</li>
+<li>
+Our stack: RoR, MySQL, Heroku, jQuery, Backbone</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/everlane/5QV8yh"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120208134755_FFAZFCIIBJOP2HRP]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Social Media Manager]]></title>
+			<department><![CDATA[marketing]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://everlane.theresumator.com/apply/hSeLmK/Social-Media-Manager.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94104]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Social Media Manager</strong><br />
+<br />
+At Everlane, we&rsquo;re rethinking the way retail works. We have no physical stores, no middlemen taking their cut and no brand markups. Instead, we design our own luxury basics and sell them exclusively at Everlane.com. Since launching in November 2011, Everlane has attracted over 400,000 members and has been featured in The New York Times, New York Magazine, The Economist, Elle, and GQ.</p>
+<p>
+&mdash;</p>
+<p>
+Everlane is looking for a Social Media Manager to lead our social media strategy to grow our online channels, engage with our community and establish the brand as a leader in social media. This person is self-driven, highly analytical and enjoys coming up with creative campaigns to grow the brand online.&nbsp;</p>
+<p>
+As the Social Media Manager, you will oversee our Blog (Tumblr), Facebook, Pinterest, Twitter, Instagram and more. You will be directly responsible for growing our audience across all channels via high-engagement campaigns that are on brand (not contests or other traditional methods). You will work closely with the content team to create a daily calendar and make sure that deadlines are met. You will also create campaigns that build buzz online and set Everlane apart from competitors.</p>
+<p>
+The ideal candidate is a creative quant who is driven by success. This position is full-time in San Francisco.</p>
+<p>
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+Lead strategy and development.</li>
+<li>
+Grow and engage audience on our blog, Facebook and other social media outlets</li>
+<li>
+Take provided content and create awareness across all social media channels</li>
+<li>
+Create a daily calendar that is planned 2-weeks in advanced to cover major events</li>
+<li>
+Work directly with head of content and creative team to ensure timely delivery</li>
+<li>
+Create campaigns that are unique and engage the community both online and offline</li>
+<li>
+Track and report on key metrics across channels and utlilize numbers to maximize growth</li>
+<li>
+Coordinate with customer service team to ensure a consistent consumer experience</li>
+</ul>
+<p>
+<strong>Qualifications:</strong></p>
+<ul>
+<li>
+Bachelors degree and 2-3 years in social media marketing/strategy; agency experience a plus</li>
+<li>
+Highly analytical with a passion for viral marketing</li>
+<li>
+Experience in growing an online community and a love for engaging consumers</li>
+<li>
+Natural curiosity for reading and staying abreast of news and current events (The Atlantic, The Economist, NY Times, etc.)</li>
+<li>
+Self-managed and able to think independently</li>
+<li>
+Live and breath online; bordering on neurotic checker of Twitter, Facebook, email, etc.</li>
+<li>
+Love for minimalist design and a belief in our mission: transparency and quality</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/everlane/hSeLmK"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120716174828_8R9HF7YNUC48FFOU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Customer Experience Associate]]></title>
+			<department><![CDATA[marketing]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://everlane.theresumator.com/apply/aG4cOf/Customer-Experience-Associate.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94104]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Customer Experience Associate</strong><br />
+<br />
+At Everlane, we&rsquo;re rethinking the way retail works. We have no physical stores, no middlemen taking their cut and no brand markups. Instead, we design our own luxury basics and sell them exclusively at Everlane.com. Since launching in November 2011, Everlane has attracted over 400,000 members and has been featured in The New York Times, New York Magazine, The Economist, Elle, and GQ.</p>
+<p>
+&mdash;</p>
+<p>
+Everlane is seeking to reinvent customer service on the web from the ground up and create a best-in-class experience. We are looking for smart, passionate individuals who love to help people and are quick at problem solving.</p>
+<p>
+You will engage with our customers, answering their questions, and making sure they&rsquo;re thrilled with Everlane. You should be likeable, think quickly on your feet, and be extremely organized. This position is ideal for someone who enjoys people and wants to join a fast-growing design brand.</p>
+<p>
+This position is based in San Francisco.</p>
+<p>
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+Deliver a great experience to Everlane customers day in and day out, fielding all incoming questions from customers and new members</li>
+<li>
+Be the eyes and ears of customers, reporting issues back to the company so that we can continuously improve and iterate on our product</li>
+<li>
+Process returns, manage tickets, deal with one-offs, etc</li>
+<li>
+Keep track of key issues and develop new programs to better the experience for&nbsp;members</li>
+<li>
+Work closely with the web team and our warehouse when relevant issues arise</li>
+<li>
+Develop new programs beyond the everyday that set Everlane apart (e.g. reaching out to new members, following up with top customers, etc)</li>
+<li>
+Act as a brand ambassador outside the Customer Experience team</li>
+</ul>
+<p>
+<strong>Skills and qualifications:</strong></p>
+<ul>
+<li>
+Bachelor&rsquo;s degree</li>
+<li>
+Passionate about helping people, ambitious and self-motivated</li>
+<li>
+Exceptional communicator (best in your group) and very organized</li>
+<li>
+Quick to solve problems, and a very go-getter attitude</li>
+<li>
+Eagerness to learn and able to juggle many tasks</li>
+<li>
+Empathetic and extroverted, you&rsquo;re liked by all and able to lead groups to accomplish great tasks</li>
+</ul>
+<p>
+<strong>Time and benefits:</strong></p>
+<ul>
+<li>
+Full time position that generally Monday through Friday with alternating weekend shifts</li>
+<li>
+Opportunity exists within the company to grow based on performance</li>
+<li>
+Health benefits are included</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/everlane/aG4cOf"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121227074256_GRXM4GYCFAUH76CU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Head of Customer Experience]]></title>
+			<department><![CDATA[marketing]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://everlane.theresumator.com/apply/BytXho/Head-Of-Customer-Experience.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94104]]></postalcode>
+			<description><![CDATA[<p>
+<b><strong>Head of Customer Experience</strong></b></p>
+<p>
+At Everlane, we&rsquo;re rethinking the way retail works. We have no physical stores, no middlemen taking their cut and no brand markups. Instead, we design our own luxury basics and sell them exclusively at Everlane.com. Since launching in November 2011, Everlane has attracted over 400,000 members and has been featured in The New York Times, New York Magazine, The Economist, Elle, and GQ.</p>
+<p>
+&mdash;</p>
+<p>
+Everlane is seeking someone to lead Customer Experience and build a team that reinvents customer service on the web. You will be in charge of creating a best-in-class experience and team culture that focuses on the customer first. We are looking for a smart, passionate individual who has dabbled in customer service, but is not wedded to traditional ways.</p>
+<p>
+You will lead the team on day-to-day emails, phone calls, social media, etc as well as focus on long-term strategy. This includes building the team as well as working with different groups within the company to better the experience for customers (e.g. better fit charts, more clear messaging, etc). You will also develop new programs to engage and activate customers.</p>
+<p>
+This position is ideal for someone who is very organized and can manage a team to metrics, but still believes that the web has a long way to go in service and wants to help be part of the innovation.</p>
+<p>
+This position is based in San Francisco.</p>
+<p>
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+Manage the Customer Experience team, setting schedules, monitoring performance</li>
+<li>
+Set SLAs, manage phone number and institute plan, deal with escalated tickets</li>
+<li>
+Recruit new hires to the team and maintain monthly feedback reviews</li>
+<li>
+Work closely with web to build automation into the site to better the experience and reduce tickets</li>
+<li>
+Track top tickets and ways each team can improve site experience to reduce concerns</li>
+<li>
+Develop a customer outreach program where customer experience members follow-up with new members, top customers, and VIPs</li>
+<li>
+Explore and quickly test new initiatives (e.g. phone numbers, live chat, SF in person returns</li>
+</ul>
+<p>
+<strong>Skills and qualifications:</strong></p>
+<ul>
+<li>
+Bachelor&rsquo;s degree</li>
+<li>
+At least three years experience working in online / retail</li>
+<li>
+Prior experience managing a customer service team in online commerce (10+)</li>
+<li>
+Very tech oriented with exceptional communication and motivational attitude</li>
+<li>
+Passionate about helping people</li>
+<li>
+Entrepreneurially driven and process oriented</li>
+<li>
+Able to think three steps ahead of issues and address potential concerns</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/everlane/BytXho"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120725230448_I4BWNLEPXYPHURNB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Finance and Operations Associate]]></title>
+			<department><![CDATA[operations]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://everlane.theresumator.com/apply/PXLp7c/Finance-And-Operations-Associate.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94104]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Finance and Operations Associate</strong></p>
+<p>
+At Everlane, we&rsquo;re reimagining the way fashion works. We have no physical stores, no middlemen taking their cut and no crazy brand markups. Instead, we design our own modern basics and sell them exclusively at Everlane.com. Since launching in November 2011, Everlane has attracted over 500,000 members. Everlane is funded by Khosla Ventures, Maveron, Kleiner Perkins, and has been featured in The New York Times, New York Magazine, The Economist, Elle, and GQ.</p>
+<p>
+&mdash;</p>
+<p>
+Everlane is seeking a Financial and Operations Associate to support the day-to-day financial operations of the company and develop new methods that will allow the business to scale. You will have your hands in finance, production and logistics, helping each group optimize its current workflow and better track the financial impacts of key decisions. This includes working closely with our operations and production group on scaling the business, working with our accounting group to plan and track inventory from raw goods to finished inventory, and managing Everlane&rsquo;s financial model.</p>
+<p>
+We are looking for someone from a top tier school and training program that wants to dive into a retail startup. The ideal candidate is out of finance and is looking to transition (or has) into operations.</p>
+<p>
+This position is full time in San Francisco.</p>
+<p>
+<br />
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+<span style="font-size: 12px;">Present weekly updates on cash burn, forecasts and strategic recommendations</span></li>
+<li>
+<span style="font-size: 12px;">Develop inventory buying and management processes</span></li>
+<li>
+Optimize shipping to keep costs low and customers happy</li>
+<li>
+Manage cash flow and expenses across group functions</li>
+<li>
+Work closely with our outsourced accounting team to track expenses</li>
+<li>
+<span style="font-size: 12px;">Work within Quickbooks to update and oversee management</span></li>
+</ul>
+<p>
+<strong>Qualifications:</strong></p>
+<ul>
+<li>
+1-2 years experience at a top investment bank/consulting firm and degree from top university</li>
+<li>
+<span style="font-size: 12px;">Very strong background in accounting and three financial statements</span></li>
+<li>
+An intense curiosity that keeps you up at night solving problems</li>
+<li>
+Very hard-working, bordering on perfectionist; highly-organized</li>
+<li>
+Able to work well in teams and have a sense of humor</li>
+<li>
+Passion for retail, minimalist design and disrupting an age-old industry</li>
+<li>
+Already a fan of the Everlane spirit</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/everlane/PXLp7c"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130423204601_IHAN4WCQX4IUQ6VD]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Graphic Designer]]></title>
+			<department><![CDATA[marketing]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://everlane.theresumator.com/apply/w2KYTZ/Graphic-Designer.html]]></url>
+			<city><![CDATA[Los Angeles]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90023]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Graphic Designer</strong></p>
+<p>
+At Everlane, we&rsquo;re rethinking the way retail works. We have no physical stores, no middlemen taking their cut and no brand markups. Instead, we design our own luxury basics and sell them exclusively at Everlane.com. Since launching in November 2011, Everlane has attracted over 400,000 members and has been featured in The New York Times, New York Magazine, The Economist, Elle, and GQ.</p>
+<p>
+&mdash;</p>
+<p>
+We are looking for a Graphic Designer with strong typography skills to help elevate the brand message through all visual communications online and offline.</p>
+<p>
+The ideal graphic candidate has a passion for Minimalist design, Swiss Style grid systems and printed ephemera, but also has their eye on the latest web trends. Candidates should be able to design within an established brand identity system, while pushing the direction forward. Daily projects would include marketing emails, designing lookbooks, printed material for events and press, photography selection and collaborating with lead designer on larger web projects.</p>
+<p>
+This is an immediate position at our Los Angeles office.&nbsp;</p>
+<p>
+<br />
+<strong>Responsibilities:</strong></p>
+<p>
+Collaborate with creative team to articulate and execute design decisions for Everlane<br />
+Create web graphics and marketing collateral consistent with our brand image<br />
+Assist in photography selection for new product launches and campaigns<br />
+Photoshop retouching and image selection for product launches<br />
+Design fashion-forward email campaigns weekly</p>
+<p>
+<strong>Qualifications:</strong></p>
+<p>
+Previous experience at an agency or high end consumer brand preferred, but not required.<br />
+High energy and positive attitude<br />
+Expert knowledge of typography and grid systems<br />
+A solid creative portfolio that features typography work and creative branding projects<br />
+Advanced Adobe skills</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/everlane/w2KYTZ"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130107191723_FUYTO9DIXQOJHRMH]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Junior Womenswear Designer]]></title>
+			<department><![CDATA[operations]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://everlane.theresumator.com/apply/WT3KuB/Junior-Womenswear-Designer.html]]></url>
+			<city><![CDATA[Los Angeles or San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90023]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Junior Womenswear Designer</strong></p>
+<p>
+At Everlane, we&rsquo;re rethinking the way retail works. We have no physical stores, no middlemen taking their cut and no brand markups. Instead, we design our own luxury basics and sell them exclusively at Everlane.com. Since launching in November 2011, Everlane has attracted over 400,000 members and has been featured in The New York Times, New York Magazine, The Economist, Elle, and GQ.</p>
+<p>
+&mdash;</p>
+<p>
+Everlane is building a first-class fashion design team, and we are currently looking for a junior designer that will focus on female apparel and accessories. You must be passionate, enthusiastic, and rigorous, with an obsessive eye for detail. You will join forces with the creative team on initial concept brainstorming, design, and technical design. You will bring your designs to life by reviewing samples, attending fittings, and collaborating with product development, as well as the merchandising and production teams. Our designs are seen by hundreds of thousands of people and are consistently featured in popular fashion publications.</p>
+<p>
+Our brand ethos and design aesthetic is one of purity and simplicity; less is more. Our vision is to create perfect and timeless wardrobe pieces for every woman (the T-shirt, the silk blouse, the trench, the ballet flat, etc.). All of these are, or will be, part of the Everlane line you will help create. We rely on a maniacal editing process to get these essential pieces just right, from fabric to fit, to drape and construction.</p>
+<p>
+The ideal candidate graduated from a competitive design school and has extensive experience working with highly respected fashion houses. This position is in San Francisco or Los Angeles. Relocation expenses will be covered for candidates outside this area.</p>
+<p>
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+Report to the Creative Director in the creation of female apparel and accessories</li>
+<li>
+Build inspirational concepts and mood boards for product creation</li>
+<li>
+Hand sketch and create mock up designs on Illustrator for line review</li>
+<li>
+Work closely with the technical design and product development team to be able to communicate the vision behind the products</li>
+<li>
+Communicate with factories to express the product details for samples creation</li>
+</ul>
+<p>
+<strong>Qualifications:</strong></p>
+<ul>
+<li>
+Bachelor&rsquo;s degree from top Fashion Design program</li>
+<li>
+Several experiences with top fashion brands</li>
+<li>
+A portfolio that demonstrates your design abilities and style</li>
+<li>
+Proficient in Illustrator and Photoshop with an understanding of PLM</li>
+<li>
+A minimalist aesthetic with an eye toward detail and hand feel</li>
+<li>
+Obsessed with fashion and industrial design</li>
+<li>
+Positive energy with an ability to take feedback and work in a fast paced environment</li>
+<li>
+Sewing experience</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/everlane/WT3KuB"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130119113514_IRP4JJHVULO4B1AY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Digital Designer]]></title>
+			<department><![CDATA[web]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://everlane.theresumator.com/apply/c5qdnF/Digital-Designer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Digital Designer</strong></p>
+<p>
+We are looking for a digital designer to lead the charge in building Everlane&#39;s online visual identity.</p>
+<p>
+You will be responsible for every aspect of Everlane&#39;s online and digital presentation. You will work on daily iterations and deployments with our web team in San Francsico, on a fully home-grown e-commerce solution, and be in charge of marshalling all of Everlane&#39;s assets into a consistent, modern, and beautiful web product.</p>
+<p>
+No part of Everlane&#39;s web presence is off limits from your influence, so a healthy dose of ambition is great!</p>
+<p>
+<span style="font-size: 12px;">The position is full-time and based in San Francisco.</span></p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Create the next-generation digital visual and interactive identity of Everlane.com</li>
+<li>
+Iterate daily, sometimes hourly, with our team of engineers, photographers, and designers</li>
+<li>
+Delivering comps and assets, and if possible, finished HTML/CSS</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Online Portfolio</li>
+<li>
+Strong opinions, backed with evidence</li>
+</ul>
+<p>
+<strong>Key Skills</strong></p>
+<ul>
+<li>
+Responsive design principles</li>
+<li>
+Thorough understanding of web design patterns and conventions</li>
+<li>
+Really nice to have: production capable HTML / CSS</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/everlane/c5qdnF"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130328175546_7IHLYTN4XWZE9GXC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Events Coordinator]]></title>
+			<department><![CDATA[marketing]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://everlane.theresumator.com/apply/1yWM1w/Events-Coordinator.html]]></url>
+			<city><![CDATA[New York City]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Events Coordinator</strong><br />
+<br />
+At Everlane, we&rsquo;re rethinking the way retail works. We have no physical stores, no middlemen taking their cut and no brand markups. Instead, we design our own luxury basics and sell them exclusively at Everlane.com. Since launching in November 2011, Everlane has attracted over 400,000 members and has been featured in The New York Times, New York Magazine, The Economist, Elle, and GQ.<br />
+&mdash;<br />
+Everlane is seeking an Events Coordinator to help execute unique and experiential events in NYC/SF/LA that will break out of the everyday fashion noise.&nbsp; These includes everything from art installments, press previews, to small exclusive events.&nbsp; The right candidate is well versed in the New York scene and can conceive of creative events and deliver with minimal oversight (our team is entirely West Coast).<br />
+<br />
+You will work directly with the Head of Events &amp; PR in NY and the Everlane creative team.&nbsp; You will be responsible for pre-event planning and all on-the-ground activities.&nbsp; You will coordinate all press-related activities and liaison with vendors and other event partners as needed to ensure success of Everlane&rsquo;s events.<br />
+<br />
+We are looking for someone with experience in event planning and is very entrepreneurial.&nbsp; This position is freelance or full-time in New York City.</p>
+<p>
+<br />
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+Assist in executing events in NY/LA/SF (estimated at three large and six small ones a year)</li>
+<li>
+Work directly with PR firm on sample trafficking and influencer seeding.</li>
+<li>
+Plan and coordinate specific events, including sourcing and management of staff, vendors, and partners as required to successfully execute all aspects of event</li>
+<li>
+Drive public awareness of events to ensure successful attendance</li>
+<li>
+Enhance outreach and foster strong contacts/relationships with national print, online and electronic media; work with existing public relations team to coordinate publicity and press efforts</li>
+<li>
+Work closely with the Head of Events &amp; PR to manage status of pre-event planning activities and coordinate during events to ensure success</li>
+</ul>
+<p>
+<strong>Qualifications:</strong></p>
+<ul>
+<li>
+At least 2-3 years of work experience in event planning and public relations</li>
+<li>
+Connected with extensive media and fashion folks in New York City</li>
+<li>
+Project management experience, with proven ability to multi-task, set priorities, and self-manage against tight timelines and aggressive expectations</li>
+<li>
+Extreme drive that is contagious &ndash; very hard-working, bordering on perfectionist; highly-organized</li>
+<li>
+Able to work well in teams and have a sense of humor</li>
+<li>
+Passion for retail, minimalist design and disrupting an age-old industry</li>
+<li>
+Already a fan of the Everlane spirit</li>
+</ul>
+]]></description>
+			<type><![CDATA[Part Time to Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/everlane/1yWM1w"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130417172221_0JEKEZHFVFVHDGOU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Packaging Designer]]></title>
+			<department><![CDATA[marketing]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://everlane.theresumator.com/apply/ovNrMq/Packaging-Designer.html]]></url>
+			<city><![CDATA[Los Angeles or San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90023]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Packaging Designer</strong></p>
+<p>
+At Everlane, we&rsquo;re rethinking the way retail works. We have no physical stores, no middlemen taking their cut and no brand markups. Instead, we design our own luxury basics and sell them exclusively at Everlane.com. Since launching in November 2011, Everlane has attracted over 400,000 members and has been featured in The New York Times, New York Magazine, The Economist, Elle, and GQ.</p>
+<p>
+&mdash;</p>
+<p>
+We are looking for an experienced Packaging Designer or a Graphic Designer with strong packaging and typography skills to help elevate the Everlane brand image. The ideal candidate has a passion for minimalist design and can create a simple yet highly functional packaging system that can be versatile and adaptable for a variety of products and shipping obstacles. Candidates should be able to design within an established brand identity system, while pushing the direction forward.</p>
+<p>
+A strong understanding of material sourcing, prototyping, and production costs is key.&nbsp; An ideal candidate would have experience working with a custom manufacturer and be able to problem solve along the way.</p>
+<p>
+This is an immediate position and we are looking for someone who can work remotely and would be available to come to our Los Angeles office 1-2 times to meet with the creative team during the course of the project.</p>
+<p>
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+Audit and deconstruct current packaging system.</li>
+<li>
+Research competitive and relevant packaging from online and traditional retailers.</li>
+<li>
+Design, develop and execute a visual system and vessel concept.</li>
+<li>
+Source materials and work with custom manufacturers to develop a cost efficient and functionaldesign&nbsp; &nbsp; &nbsp;</li>
+<li>
+Protoyping and user testing</li>
+<li>
+Prepare and deliver production files with detailed instructions.</li>
+<li>
+Collaborate closely with creative team throughout the design process.</li>
+</ul>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
+<strong>Qualifications:</strong></p>
+<ul>
+<li>
+Previous packaging design experience with an agency or high end consumer brand.</li>
+<li>
+High energy and positive attitude</li>
+<li>
+Expert knowledge of typography and grid systems</li>
+<li>
+A solid creative portfolio that features packaging work and creative branding projects</li>
+<li>
+Advanced Adobe skills</li>
+<li>
+Great attention to detail</li>
+<li>
+2+ years of professional design experience</li>
+</ul>
+]]></description>
+			<type><![CDATA[Temporary to Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/everlane/ovNrMq"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130614210105_YFTJIHJL1EZ3SDD8]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Director of Product Development and Production]]></title>
+			<department><![CDATA[operations]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://everlane.theresumator.com/apply/Tm1Uyd/Director-Of-Product-Development-And-Production.html]]></url>
+			<city><![CDATA[San Francisco or Los Angeles]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94104]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Director of Product Development and Production</strong></p>
+<p>
+At Everlane, we&rsquo;re rethinking the way retail works. We have no physical stores, no middlemen taking their cut and no brand markups. Instead, we design our own luxury basics and sell them exclusively at Everlane.com. Since launching in November 2011, Everlane has attracted over 500,000 members and has been featured in The New York Times, New York Magazine, The Economist, Elle, and GQ.</p>
+<p>
+&mdash;</p>
+<p>
+We are seeking a Director of Product Development and Production that will lead our accessory and apparel lines. You will be responsible of Fabric and Factory Sourcing, Product Development, Production and import/export. We work with some of the best factories around the world and are looking to extend this base as we enter new product lines.</p>
+<p>
+An extensive knowledge of fabric properties, sourcing, and testing is indispensable to this position. Development and testing both internally and with external testing companies is essential for complete understanding of how the fabric is going to perform.</p>
+<p>
+You will also follow Product Development and Production to oversee all steps of product development until the product lands in our distribution center. The environment is very entrepreneurial and fast-paced, requiring great strategic production planning (getting new products to market in less than three months).</p>
+<p>
+The ideal candidate should have managed a P&amp;L and have significant experience in global sourcing for a major brand. This is a position in San Francisco or Los Angeles.</p>
+<p>
+<br />
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Establish new relationships with top-tier factories and fabric providers</li>
+<li>
+Oversee all aspects of fabric sourcing and fabric testing</li>
+<li>
+Consistently consistently optimize quality and pricing across factories optimizing time to market</li>
+<li>
+Manage product development cycle with very short timelines</li>
+<li>
+Oversee production and import/export logistics to ensure timely delivery</li>
+</ul>
+<p>
+<strong>Qualifications</strong></p>
+<ul>
+<li>
+5 years minimum experience with a luxury or private label</li>
+<li>
+Able to work in a startup environment; extremely entrepreneurial and ready to roll up your sleeves and take on all aspects of production</li>
+<li>
+Highly organized with an obsessive attention to detail</li>
+<li>
+Leadership experience managing teams working in a fast-paced, deadline-driven environment</li>
+<li>
+A strong portfolio of relationships with high end domestic or overseas vendors in production and fabric development</li>
+<li>
+Extensive knowledge of fabric properties, sourcing, and testing</li>
+<li>
+Experience with technical design and unique ability to get samples right on the first or second try</li>
+<li>
+Understanding of import/export compliance and ability to oversee logistics</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Senior Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/everlane/Tm1Uyd"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130620200840_UCQDI2K2DJ1E1RYM]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Fabric Developer]]></title>
+			<department><![CDATA[operations]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://everlane.theresumator.com/apply/z2T47T/Fabric-Developer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94104]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Fabric Developer</strong></p>
+<p>
+At Everlane, we&rsquo;re rethinking the way retail works. We have no physical stores, no middlemen taking their cut and no brand markups. Instead, we design our own luxury basics and sell them exclusively at Everlane.com. Since launching in November 2011, Everlane has attracted over 400,000 members and has been featured in The New York Times, New York Magazine, The Economist, Elle, and GQ.</p>
+<p>
+&mdash;</p>
+<p>
+Everlane is seeking a Fabric Developer to oversee our library and help develop new fabrics. Our belief is that the foundation of all great products starts with the base. In clothing and accessories, that base is the fabric. Our goal is to meet the highest standards of quality (we don&rsquo;t yet). To do this, we want to thoroughly test all of our developments and understand the composition of the fabric, the machinery that was used to create it and the weave.</p>
+<p>
+You will overtake our current library and establish a program for development and testing. You will work directly with our mills to develop fabric, and then with our testing facility to ensure the fabric meets our standards. The end result will be to create best in class fabrics. The ideal candidate has significant experience in fabric, is highly entrepreneurial and has a deep understanding of fabric theory.</p>
+<p>
+This position reports directly to the Head of Product and Design and is located in San Francisco.</p>
+<p>
+<strong>Responsibilities:</strong><br />
+&bull; Oversee current and future fabric developments<br />
+&bull; Initiate and follow through testing procedures to establish guidelines that meet Everlane standards<br />
+&bull; Create and maintain a fabric library<br />
+&bull; Maintain a detailed development calendar and meet necessary dates<br />
+&bull; Work directly with mills to develop fabrics for new products and improve fabrics for existing fabrics<br />
+&bull; Facilitate seasonal fabric development presentations from mills and vendors to design<br />
+&bull; Work with head of design to develop color stories for new season<br />
+&bull; Present fabric selections for new products that meet price and quality</p>
+<p>
+<br />
+<strong>Qualifications:</strong><br />
+&bull; 3-5 years working in fabric for a luxury or high-end brand<br />
+&bull; Deep knowledge of textiles including: composition, construction and weaving, dyeing and finishing processes (from fiber to finishing)<br />
+&bull; Experience working with mills to create best in class fabrics<br />
+&bull; Highly inquisitive and able to understand the why behind different testing results or wear tests<br />
+&bull; Experience with fabric testing standards and procedures<br />
+&bull; Appreciation for beautiful textiles and minimalist design<br />
+&bull; Degree in textiles is a plus</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/everlane/z2T47T"></script>]]></buttons>
+		</job>
+	</jobs>

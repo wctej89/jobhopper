@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Hallo]]></company>
+			<job>
+			<id><![CDATA[job_20120222233728_JQDO1RTSFAS9PBPU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Android Application Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://hallo.theresumator.com/apply/TtuReP/Android-Application-Developer.html]]></url>
+			<city><![CDATA[Santa Monica]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90404]]></postalcode>
+			<description><![CDATA[<p>
+	Hallo, Inc. is a funded pre-launch startup focused on the mobile consumer space. At launch, Hallo will look to innovate and enhance mobile communication as we know it today.&nbsp; Hallo will launch on both the iOS and Android platforms.</p>
+<p>
+	Hallo&#39;s core founding team consists of individuals from the world of technology venture capital (investor in Pandora), product management and development of large scale web properties reaching tens of millions of uniques, iOS and Android development, and UI and design reaching millions of uniques, along with product platforms utilized by celebrities.</p>
+<p>
+	<strong>Role Overview:</strong><br />
+	Hallo is looking for a Los Angeles based Android developer adept at using Java and the Eclipse ADT Plugin to deliver great Android application experiences.&nbsp; The successful candidate is a versatile developer with high proficiency in Android app development.&nbsp; iOS development experience a plus, but not a necessity.&nbsp; Ability to deliver polished, world class applications is a must.&nbsp; This is a job for someone who is a &ldquo;do-er&rdquo; and thrives in a small, fast-paced, and collaborative environment.</p>
+<p>
+	<strong>Responsibilities:</strong><br />
+	- Work with Hallo&rsquo;s founders to develop a strong Android application and experience<br />
+	- Understanding of User Interface Design, esp. for Android<br />
+	- Adept at using Java, the Eclipse ADT Plugin and Android SDK<br />
+	- Participate in product definition with team members and partners<br />
+	- Possible future opportunities to work on platforms such as iOS</p>
+<p>
+	<strong>Requirements:</strong><br />
+	- Minimum 1 year experience writing Android applications (hands-on experience using Android SDK), including extensive UI programming<br />
+	- Solid Understanding of Object Oriented Programming<br />
+	- Understanding of Object Oriented Design/Object Oriented Analysis a plus<br />
+	- Experience building web APIs a plus<br />
+	- Understanding of Agile &amp; SCRUM Methodologies a plus<br />
+	- Experience with client-server application architectures<br />
+	- A strong portfolio that showcases your work a plus<br />
+	- Must be a self-motivated and effective problem solver who can prioritize and manage work load and meet critical project milestones and deadlines<br />
+	- Excellent interpersonal skills and the ability to build good working relationships<br />
+	- Experience in solving challenging technical problems related to performance and usability<br />
+	- Experience using DVCS (GIT or Mercurial) a plus</p>
+<p>
+	<strong>Educational Requirements:</strong><br />
+	- BS in Computer Science or equivalent</p>
+<p>
+	<strong>Compensation:</strong><br />
+	- Base + generous stock options + health/dental/vision</p>
+<p>
+	&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/hallo/TtuReP"></script>]]></buttons>
+		</job>
+	</jobs>

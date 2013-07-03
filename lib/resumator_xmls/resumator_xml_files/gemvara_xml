@@ -1,0 +1,377 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Gemvara]]></company>
+			<job>
+			<id><![CDATA[job_20120222170104_D5KUOSTVGJBDVZG0]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Java Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://gemvara.theresumator.com/apply/OGZg6w/Senior-Java-Developer.html]]></url>
+			<city><![CDATA[Boston]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02111]]></postalcode>
+			<description><![CDATA[<p>
+<u><strong>Why join Gemvara</strong></u>?</p>
+<p>
+At Gemvara you will be part of a close-knit team that is passionate about changing the face of e-commerce. You will be surrounded by innovative people who truly believe in the company and in one another. At Gemvara, your ideas will be recognized, your intelligence will be applied, and if you work hard, your opportunities to succeed will be endless. Gemvara has an amazing benefits package and our culture is top-notch &ndash; we work hard, but we play hard too.</p>
+<p>
+<strong>Senior Software Engineer:</strong> use Java to write e-commerce solutions to enable uber-customizable products and experience instantly to our customers.</p>
+<br />
+<p>
+<u><strong>What You Will be Doing</strong></u><br />
+Working as a Senior Software Developer for an Agile team. Writing a new pricing engine that drives the entire site. Creating a new product publishing system that will allow us to release new products all the time. Developing new ways for people to create just what they want. We are not just an e-commerce company. We&rsquo;re different and we have complex, challenging, and fun problems to solve.&nbsp;</p>
+<p>
+<u><strong>Who You Are</strong></u><br />
+You see code in your sleep. Sometimes you wake up with a better solution to some problem you solved. You have at least five years of engineering experience and in that time you took on good size projects by yourself. When there is some nasty bug, you&rsquo;re the person the team heads to for answers, advice, and help. You have a history of sound engineering decisions, for technology, approach, and algorithms. You want to work on a high-velocity agile team.</p>
+<p>
+<u><strong>Who We Are</strong></u><br />
+We write software to generate prices and images in real-time. Our customers customize their piece on our website and they just aren&rsquo;t going to wait. We have to be fast, we have to be right, and we have to look good. We work with all sorts of technologies: non-relational databases like MongoDB, indexing with Solr, job distribution with Hadoop, new frameworks like Grails. We have a datacenter but we&rsquo;re good with the cloud too. We are an Agile shop and we release at the end of every sprint. You want to see your code, your features, your work in production fast, that&rsquo;s us.&nbsp;&nbsp;</p>
+<p>
+<u><strong>What You Need to do to Succeed</strong></u><br />
+You need to work independently to develop new features and resolve single-system bugs. You need to accurately estimate complexity and work for moderate projects. You need to be an excellent teammate, helping the agile team deliver on projects on time. You need to think like a product owner, understanding what needs to be done, and drive towards the MVP. You will need to learn fast, think on your feet, and jump right on in.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gemvara/OGZg6w"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130327140802_UBLBIXSMSENVJDLI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Technical Lead]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://gemvara.theresumator.com/apply/mF8owr/Technical-Lead.html]]></url>
+			<city><![CDATA[Boston]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02111]]></postalcode>
+			<description><![CDATA[<p>
+<u><strong>Why join Gemvara?</strong></u></p>
+<p>
+At Gemvara you will be part of a close-knit team that is passionate about changing the face of e-commerce. You will be surrounded by innovative people who truly believe in the company and in one another. At Gemvara, your ideas will be recognized, your intelligence will be applied, and if you work hard, your opportunities to succeed will be endless. Gemvara has an amazing benefits package and our culture is top-notch &ndash; we work hard, but we play hard too.</p>
+<p>
+<strong>Tech Lead;</strong> use Java to write e-commerce solutions to enable uber-customizable products and experience instantly to our customers.</p>
+<p>
+<u><strong>Who You Are</strong></u><br />
+You&rsquo;ve always been one of the best developers on the team. You love working in Java. You like a mix of greenfields development and working with existing code to bring out new features.</p>
+<p>
+You have solid communication skills. Product owners like working with you because you &ldquo;get&rdquo; their acceptance criteria and even help them structure the stories. You may not directly manage anyone but you mentor other developers. You work to transfer knowledge to other people so you can always take on the next cool project we are starting.</p>
+<p>
+<u><strong>Who We Are</strong></u><br />
+We write software to generate prices and images in real-time. Our customers customize their piece on our website and they just aren&rsquo;t going to wait. We have to be fast, we have to be right, and we have to look good. We work with all sorts of technologies: non-relational databases like <strong>MongoDB</strong>, indexing with <strong>Solr</strong>, job distribution with <strong>Hadoop</strong>, new frameworks like <strong>Grails</strong>. We have a datacenter but we&rsquo;re good with the cloud too. We are an <strong>Agile </strong>shop and we release at the end of every sprint. You want to see your code, your features, your work in production fast, that&rsquo;s us.&nbsp;&nbsp;</p>
+<p>
+<u><strong>What You Need to do to Succeed</strong></u><br />
+You need to bring and apply your top-level knowledge to our Java-based e-commerce platform. You need to be an excellent teammate, delivering software as part of a compact fast-moving agile team. You need to think like a product owner, understanding what needs to be done, and drive towards the MVP. You need to be a leader, suggesting new technologies and being open to new ideas. You will need to learn fast, think on your feet, and jump right on in.</p>
+<p>
+<u><strong>What You Will be Doing</strong></u><br />
+Working as a Tech Lead for an Agile team. Writing a new pricing engine that drives the entire site. Creating a new product publishing system that will allow us to release new products all the time. Developing new ways for people to create just what they want. We are not just an e-commerce company. We&rsquo;re different and we have complex, challenging, and fun problems to solve.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gemvara/mF8owr"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120924153726_FQR4PGLBR1PTOBR4]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer, Front-End]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://gemvara.theresumator.com/apply/s8pPzq/Software-Engineer-FrontEnd.html]]></url>
+			<city><![CDATA[Boston]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02111]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role: Software Engineer, Front-End</strong></p>
+<p>
+<br />
+<strong>The Job:</strong></p>
+<p>
+As a Software Engineer, Front-End you will be responsible for developing core user interface functionality for our web platform and applications.</p>
+<p>
+<br />
+<strong>What You&#39;ll Do:</strong></p>
+<p>
+We are looking for someone to help us take our web platform for consumer-facing mass customization to the next level.&nbsp;</p>
+<p>
+Gemvara&rsquo;s patented technology and just-in-time manufacturing offers customers millions of options to personalize each design.&nbsp; We have a true virtual inventory model where each piece is manufactured to order at the highest possible quality.&nbsp; The technical challenges in product development are significant, including navigating a world of limitless user-generated content.&nbsp; We are building an e-commerce product set that is unique to the industry.</p>
+<p>
+You will be building the next-generation personalized user experience to get our customers from more than a million options to finding and buying the perfect piece of jewelry.&nbsp; You will be developing functionality to support our customer care representatives so they can provide customers with the best experience possible on the phone, via email, and on live chat.&nbsp; You will be adding capabilities to help us gather and analyze accurate data on how our customers interact with the site to support our marketing efforts and improve the website.</p>
+<p>
+The challenges are many and always interesting.&nbsp; How do you optimize page layouts and content to drive repeat traffic, to drive the customer to the information they need to make a purchase?&nbsp; What tools can we give our customer care reps to help them get the customer to the perfect piece of jewelry?&nbsp; How do we do all this while maintaining site speed? How do we balance SEO and user experience? How do you show all of the options without overwhelming customers ?</p>
+<p>
+Are you are a results-oriented, self-motivated creative team player who is driven to come up with great solutions to these problems?&nbsp; We are looking for a strong contributor who drives innovation while having a good time with a great team.&nbsp; We work hard and we play hard.</p>
+<p>
+<strong>Skills You&#39;ll Need To Be Successful:</strong></p>
+<p>
+&bull; Expert knowledge of web technologies (HTML/CSS/JS). We use HTML5, SASS, Compass, Backbone.js, jQuery and more<br />
+&bull; Experience developing with a templating engine, both server side (we use Twig) and client side (we use Underscore.js)<br />
+&bull; Knowledge of PHP, ability to dive in when necessary, Symfony2 experience a plus.<br />
+&bull; Ability to communicate effectively across multiple departments<br />
+&bull; Passion for elegance in the UX, pixel perfection, and getting the details right.<br />
+&bull; Ability to write well-abstracted, reusable code.<br />
+&bull; Familiar with development on OS X/Linux, Version control with Git, and general best practices<br />
+&bull; 4+ years of experience in front-end development<br />
+&bull; BS in computer science or engineering<br />
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gemvara/s8pPzq"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121026204203_LIHCYHRWBDXAGKPY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Development Operations Engineer (DevOPS)]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://gemvara.theresumator.com/apply/Nseg7N/Senior-Development-Operations-Engineer-DevOPS.html]]></url>
+			<city><![CDATA[Boston]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02111]]></postalcode>
+			<description><![CDATA[<p>
+<u><strong>Why Join Gemvara?</strong></u></p>
+<p>
+At Gemvara you will be part of a close-knit team that is passionate about changing the face of e-commerce. You will be surrounded by innovative people who truly believe in the company and in one another. At Gemvara, your ideas will be recognized, your intelligence will be applied, and if you work hard, your opportunities to succeed will be endless.&nbsp;</p>
+<p>
+<u><strong>Senior Development Operations Engineer</strong></u></p>
+<p>
+This position will be a senior individual contributor part of the DevOps team within Website and Cloud Operations.&nbsp; The candidate will be responsible for creating infrastructure designs and guiding the development and implementation of cloud applications, systems and processes. The candidate will need to be able to handle multiple tasks in a fast paced team environment with experience in:</p>
+<ul>
+<li>
+Cloud and virtualization based technologies (Amazon Web Services (AWS), VMware vCloud)</li>
+<li>
+Java Application Server Administration&nbsp; (Glassfish, WebLogic, Tomcat)</li>
+<li>
+Linux/UNIX Administration (Ubuntu and RedHat/CentOS)</li>
+<li>
+Developing cloud infrastructure designs and implementations and guiding application development teams</li>
+</ul>
+<p>
+<u><strong>Responsibilities include:</strong></u></p>
+<ul>
+<li>
+On call support of production infrastructure and applications. Business hours support for development systems</li>
+<li>
+Support always-available cloud based e-commerce applications</li>
+<li>
+Support systems serving the product web presence</li>
+<li>
+Making decisions on problem resolution in critical downtime situations when escalation is impractical.</li>
+<li>
+Creating infrastructure and architectural designs and implementation plans and guide the implementation with the operations team.</li>
+<li>
+Providing requirements and enhancements to the tools development team who provide the deployment and administration tooling.</li>
+<li>
+Working with architects and developers to create supportable designs and debug problems</li>
+<li>
+Debug applications based on core dumps or exception stack traces is helpful.</li>
+<li>
+Knowledge of monitoring tools and integrating them with Java, PHP, Apache, and JBoss/Tomcat is a strong plus.</li>
+<li>
+Understand code that is running on the server and help developers leverage application and cloud platform features and functionality</li>
+<li>
+Participate in code and design reviews.</li>
+<li>
+Supporting development and testing environments</li>
+<li>
+Mentoring operational Web Admins</li>
+<li>
+Creating knowledge sharing presentations and documentation to help developers and operations teams understand and leverage the systems capabilities.</li>
+<li>
+Learning on the job and explore new technologies with little supervision. Must be able to design infrastructure changes to meet changing needs of developers and end users.</li>
+<li>
+Scripting (BASH, Python, Ruby) and building required automation and tools on an ad hoc basis.</li>
+<li>
+Interfacing between application development, infrastructure support and tools development teams</li>
+</ul>
+<p>
+<u><strong>Qualifications Required / Preferred</strong></u></p>
+<ul>
+<li>
+BS /MS in computer science or related field.</li>
+<li>
+8+ years experience with at least 3 years of web administration and 2 years of cloud experience.</li>
+<li>
+Ability to learn on the job, much of what we do isn&rsquo;t in formal training</li>
+<li>
+Experience tuning Java applications and Java application servers</li>
+<li>
+Working knowledge of both Unix/Linux and Windows operating systems</li>
+<li>
+Application clustering and load balancing</li>
+<li>
+Clear written and verbal communication skills.</li>
+<li>
+Solid experience with Amazon Web Services (AWS) or VMware vCloud</li>
+<li>
+Java Application Server administration experience (Glassfish, WebLogic, Tomcat)</li>
+<li>
+Solid Linux experience (Ubuntu, RedHat/CentOS) with a focus on web&nbsp; (Apache/Nginx)</li>
+<li>
+Understanding of Web services (SOA)</li>
+<li>
+Understanding of protocols/technologies like HTTP, SSL, LDAP, JDBC, Servlet/JSP, SQL, HTML, XML</li>
+<li>
+Experience with Chef or Puppet</li>
+</ul>
+<p>
+<u><strong>Nice to have</strong></u></p>
+<ul>
+<li>
+Java development experience is a strong plus</li>
+<li>
+Experience with monitoring systems (Nagios, Tivoli, Wily, BMC, etc.)</li>
+<li>
+Load balancer experience</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gemvara/Nseg7N"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121112184726_ETSNXXFVGY2KNJCR]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Manager, Search Marketing]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://gemvara.theresumator.com/apply/aCAd6M/Manager-Search-Marketing.html]]></url>
+			<city><![CDATA[Boston]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02111]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role: </strong>Manager, Search Marketing</p>
+<p>
+Interested in joining the # 48 fastest growing private company in the Inc 500 for 2012?<br />
+<br />
+Gemvara is revolutionizing the way customers shop for jewelry. Gemvara&rsquo;s mission is to have more loyal customers than any other jeweler.&nbsp; We want everyone who interacts with Gemvara to have the most memorable experience possible, in every sense of the word.&nbsp; We guarantee our customers fine jewelry, custom made exactly the way the want it.&nbsp; Always.</p>
+<p>
+<strong>The Job: </strong>We are looking for an experienced marketing professional to lead our efforts in Paid Search (SEM) and Organic Search (SEO). As a key member of the Gemvara marketing team, you will be a hands-on individual who has a passion to drive measurable and profitable growth through Search.</p>
+<p>
+Charged with developing search marketing strategies, you will be responsible for managing existing Paid Search partners, driving product-level strategy, implementing direct response best practices including a/b testing &amp; working cross-functionally with teams including creative, analytics, capabilities, CRM and partnerships.</p>
+<p>
+<strong>What You&rsquo;ll Do:</strong></p>
+<p>
+<br />
+&bull; Develop short and long term search marketing strategies that communicate our Unique Value Proposition (UVP) combined with profitable customer acquisition<br />
+&bull; Achieve revenue, budget and customer count targets<br />
+&bull; Execute day-to-day activities to meet channel strategies and quarterly objectives<br />
+&bull; Be the Search Champion: Develop roadmap for key initiatives that fuel both short and long term growth, and manage those programs through completion<br />
+&bull; Manage RFP process for key vendors, and manage vendors through implementation when needed<br />
+&bull; Initiate and manage process and tool enhancement recommendations as needed<br />
+&bull; Manage ad hoc projects from inception through to delivery<br />
+&bull; Forecast weekly and quarterly channel performance for all key metrics</p>
+<p>
+<br />
+<strong>Skills &amp; Experience You&rsquo;ll Need To Be Successful:</strong></p>
+<p>
+<br />
+&bull; A B.S. or B.A. in Marketing, Management, Economics, Mathematics or a related field<br />
+&bull; 5+ Years&rsquo; experience managing large SEM, client side experience strongly preferred<br />
+&bull; E-commerce SEM (and SEO) experience a must, preferably luxury goods or retail<br />
+&bull; Attention to detail and demonstrated ability to multi-task<br />
+&bull; Positive &ldquo;can do&rdquo; attitude, displaying flexibility and ability to overcome adversity<br />
+&bull; Strong communication and organization skills: Ability to communicate marketing plans Self-starter &ndash; analytically driven marketer who uses a data driven approach to gauge and pursue opportunities<br />
+&bull; Ability to respond to shifting priorities quickly and effectively when necessary<br />
+&bull; Excellent interpersonal skills and demonstrated ability to work well both independently and in a team setting<br />
+&bull; A good sense of humor will go a long way</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gemvara/aCAd6M"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130529015101_ZGRE7XYLODKEFOUI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Jewelry Quality Assurance Assistant]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[JCAL]]></team>
+			<url><![CDATA[http://gemvara.theresumator.com/apply/5rE5lb/Jewelry-Quality-Assurance-Assistant.html]]></url>
+			<city><![CDATA[New York City]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10036]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Company:</strong></p>
+<p>
+Gemvara is one of the fastest growing companies in the US today and is revolutionizing the ecommerce industry through its approach to mass customization. Instead of customers having to choose and buy jewelry based on whatever product retailers have in stock, we carry no inventory. Customers can design their perfect ring, necklace, pendant, bracelet or earrings with any gemstone or metal combination on our site within seconds and have a handmade piece of fine jewelry that was crafted in the USA arrive in their mailbox at their doorstep within 10 days.</p>
+<p>
+We were selected as one of &ldquo;Oprah&rsquo;s favorite things&rdquo; in 2012 and after helping tens of thousands of loyal customers create meaningful jewelry since 2011 we know that we&rsquo;re on to something special. We&rsquo;re hoping to continue to build out our A+ team to support our rapid growth and are looking for passionate individuals looking for a challenge.</p>
+<p>
+<strong>Requirements of the Role:</strong></p>
+<p>
+Our growing jewelry operations department has a need for a Quality Assurance Specialist to ensure we maintain the highest level of excellence.&nbsp; We have an incredibly high bar for jewelry quality and our Quality Assurance team is responsible for ensuring that our customers are absolutely thrilled with their jewelry and that our return and repair rate is kept to industry-leading levels. The ideal candidate would have a minimum of 1-2 years&rsquo; experience in the jewelry industry. To succeed in this job you should have the following qualities:</p>
+<p>
+- <em>Attention to detail: </em>You will assess each piece of jewelry against set quality standards while documenting and recording each step of the process. Your passion for detail will ensure that our customers get the custom jewelry they love.<br />
+-<em> Self Starter:</em> Because of our fast growth we need teammates who can get things done and make things happen without a lot of direction. We value people who can take the initiative and see things through<br />
+<em>- Holds themselves accountable to goals: </em>We measure our team against specific targets and reward people for reaching goals. We are looking for teammates who thrive in these types of environments.<br />
+- <em>A Great Partner:</em> The role requires you to work very closely with other members of the Gemvara team &ndash; especially our Production Coordinators and Customer Care Team. This partnership is critical to our jewelry making it through our production facilities with the highest quality and with the fastest speed.<br />
+- <em>Able to work across departments:</em> Our QA team must also work with other parts of the company to help resolve specific customer questions and to educate other departments on jewelry knowledge. Customer Focus is a Gemvara core competency.&nbsp; As the last person who handles a piece of jewelry before it is shipped to our customer the QA Specialist is one of the most important roles in our company.<br />
+- <em>Passion for learning: </em>At Gemvara we do things completely differently than anywhere else. As such, we&rsquo;re constantly finding ourselves faced with new challenges that require us to learn quickly and teach others. We are looking for people who want to learn and develop and take on new challenges.&nbsp;</p>
+<p>
+<strong>Qualifications:</strong><br />
+- Previous experience in Quality Assurance/Quality Control<br />
+- Experience working with Gemstones<br />
+- Experience working with precious metals &ndash; especially Sterling Silver<br />
+- 2 or 4-year college degree preferred but not required<br />
+- Some GIA certification or certified jewelry program learning preferred.&nbsp; If you do not have any formal training, you must be willing to pursue (at company&rsquo;s expense)</p>
+<p>
+If this sounds like a fit we would love to talk to you.&nbsp; Please apply via our site at www.gemvara.com/careers.<br />
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gemvara/5rE5lb"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130618115334_5FBORJG7EHQVMNQF]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Talent Intern]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[HR]]></team>
+			<url><![CDATA[http://gemvara.theresumator.com/apply/iViWUs/Talent-Intern.html]]></url>
+			<city><![CDATA[Boston]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02111]]></postalcode>
+			<description><![CDATA[<p>
+The Job:</p>
+<p>
+<br />
+At Gemvara our most treasured resource is our people.&nbsp; We want everyone who interacts with Gemvara, including customers and candidates, to have the most memorable experience possible, in every sense of the word.&nbsp; As a member of the talent team you will play an integral role in making every candidate experience awesome.</p>
+<p>
+<br />
+What You&rsquo;ll Do:</p>
+<p>
+<br />
+&bull; Creatively assist our talent branding efforts via social media<br />
+&bull; Event planning<br />
+&bull; Work with candidates to make sure they have everything they need to get the most they can out of their time at Gemvara<br />
+&bull; Assist in candidate sourcing and tracking<br />
+&bull; Post jobs<br />
+&bull; Schedule interviews</p>
+<p>
+<br />
+Requirements:</p>
+<p>
+<br />
+&bull; College student in the Boston area who can work full time this summer and part time during the school year<br />
+&bull; Detail oriented<br />
+&bull; Loves talking to people<br />
+&bull; Creative<br />
+&bull; Laughs often<br />
+&bull; Social media enthusiast</p>
+]]></description>
+			<type><![CDATA[Internship]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gemvara/iViWUs"></script>]]></buttons>
+		</job>
+	</jobs>

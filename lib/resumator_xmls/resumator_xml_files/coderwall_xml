@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[coderwall]]></company>
+			<job>
+			<id><![CDATA[job_20121212180208_5MUBIY0XNDNKK43F]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Ruby Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://coderwall.theresumator.com/apply/BPRxsf/Ruby-Developer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94131]]></postalcode>
+			<description><![CDATA[<p>
+afasdfas</p>
+<p>
+<img src="https://d3levm2kxut31z.cloudfront.net/assets/logo-f5f94ae48466a2203003e6b0f9d5032a.png" /></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/coderwall/BPRxsf"></script>]]></buttons>
+		</job>
+	</jobs>

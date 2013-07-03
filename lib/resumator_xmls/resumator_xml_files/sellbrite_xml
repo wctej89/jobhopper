@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Sellbrite]]></company>
+			<job>
+			<id><![CDATA[job_20130213233104_1FTLIRVJUS1EYW05]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Ruby on Rails Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://sellbrite.theresumator.com/apply/RFFIJq/Ruby-On-Rails-Engineer.html]]></url>
+			<city><![CDATA[Los Angeles]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90068]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About Sellbrite</strong></p>
+<p>
+Sellbrite simplifies selling products across all e-commerce sales channels. Our web-based application connects sellers to dozens of major e-commerce marketplaces and platforms, centralizes inventory and orders for quick and easy management, and automates many common tasks saving hours of time. A clean and intuitive UI makes Sellbrite easy to learn and use, and the cohesive feature set replaces the need to use several apps.</p>
+<p>
+Sellbrite was founded by two friends who, like many online retailers, became frustrated with the time and effort it took to list and sell products across multiple e-commerce marketplaces, such as Amazon and eBay. What&#39;s more, when looking for software tools to help with this problem, they could only find second-rate products that were expensive, unintuitive, incohesive, and limited to just one or a few marketplaces. So they decided to solve the problem themselves. Their solution is Sellbrite.</p>
+<p>
+<strong>Our Mission: &nbsp;</strong><em>Do things better than they&#39;ve ever been done before.</em></p>
+<p>
+<strong>Who We&#39;re Looking For</strong></p>
+<p>
+We are looking for a Ruby on Rails Engineer that is passionate about building killer web applications. The ideal candidate should have practical experience in the e-commerce space. He or she should be fun, energetic, creative, comfortable with ambiguity and risk taking, collaborative, and have a great sense of humor.</p>
+<p>
+We are in the early stages of product development, so you will get to lead the strategic direction and influence the entire product from the start.&nbsp; You&#39;ll also be working with and collaborating with other experienced technical and non-technical people that are already on the team, and will be reporting to the CTO.&nbsp;</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Implement the company&#39;s product development vision</li>
+<li>
+Cultivate a hacker/get-shit-done culture</li>
+<li>
+Set strategic directions for the engineering team by guiding technology decisions and developing tech talent</li>
+<li>
+Articulate clear goals to meet that strategy and track key metrics to measure success</li>
+</ul>
+<p>
+<strong>Desired Skills &amp; Experience</strong></p>
+<ul>
+<li>
+Deep technical knowledge of Ruby on Rails/MySQL</li>
+<li>
+Experience with MySQL replication &amp; optimization, RESTful JSON APIs, eCommerce APIs, HAML/SASS, Memcache, Delayed Job/Resque, Redis, Sphinx, OAuth2, Git and test-driven development</li>
+<li>
+Hands-on experience with Amazon and/or eBay APIs a HUGE plus</li>
+<li>
+2+ years of e-commerce experience</li>
+<li>
+3-5 years in web application coding experience</li>
+<li>
+Lean, agile development methodology</li>
+</ul>
+<p>
+<strong>About You</strong></p>
+<ul>
+<li>
+An optimistic person with a positive outlook on life</li>
+<li>
+You should have a passion for clean code and be comfortable with test-driven development, quick turnarounds, rapid deployments, and quickly responding to surges</li>
+<li>
+You go above and beyond because hacking is a part of who you are</li>
+<li>
+Willing to work hard and play hard</li>
+<li>
+Curious about new technologies</li>
+<li>
+An excellent communication</li>
+<li>
+Able to have a really good time on this amazing journey</li>
+</ul>
+<p>
+<strong>The Opportunity</strong></p>
+<ul>
+<li>
+Salary + Bonus: Competitive base + potential bonus based on experience and performance</li>
+<li>
+Equity: Generous equity stake</li>
+<li>
+Be a very early team member of a promising young company</li>
+<li>
+Have fun in the startup scene with a great team</li>
+<li>
+Learn a ton</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/sellbrite/RFFIJq"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130215180027_ET2LEKG0SOAXVOIV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior UI/UX Designer / Front-end Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://sellbrite.theresumator.com/apply/94hEJG/Senior-UIUX-Designer-Frontend-Developer.html]]></url>
+			<city><![CDATA[Los Angeles]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90068]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About Sellbrite</strong></p>
+<p>
+Sellbrite simplifies selling products across all e-commerce sales channels. Our web-based application connects sellers to dozens of major e-commerce marketplaces and platforms, centralizes inventory and orders for quick and easy management, and automates many common tasks saving hours of time. A clean and intuitive UI makes Sellbrite easy to learn and use, and the cohesive feature set replaces the need to use several apps.</p>
+<p>
+Sellbrite was founded by two friends who, like many online retailers, became frustrated with the time and effort it took to list and sell products across multiple e-commerce marketplaces, such as Amazon and eBay. What&#39;s more, when looking for software tools to help with this problem, they could only find second-rate products that were expensive, unintuitive, incohesive, and limited to just one or a few marketplaces. So they decided to solve the problem themselves. Their solution is Sellbrite.</p>
+<p>
+<strong>Our Mission: &nbsp;</strong><em>Do things better than they&#39;ve ever been done before.</em></p>
+<p>
+<strong>Who We&#39;re Looking For</strong></p>
+<p>
+We are looking for a Senior Designer / Front-end Developer that is passionate about UI/UX. The ideal candidate should have hands-on experience developing web applications and practical experience in the e-commerce space. He or she should be fun, energetic, creative, comfortable with ambiguity and risk taking, collaborative, and possess a good sense of humor.</p>
+<p>
+We are in the early stages of product development, so you will get to lead the design and influence the entire product from the start.&nbsp; You&#39;ll also be working with and collaborating with other experienced technical and non-technical people that are already on the team.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Hands on designer and front-end development (HTML/CSS)</li>
+<li>
+Champion the simplest possible user experience</li>
+<li>
+Articulate clear goals to meet that strategy and track key metrics to measure success</li>
+</ul>
+<p>
+<strong>Desired Skills &amp; Experience</strong></p>
+<ul>
+<li>
+Expertise in highly interactive&nbsp;web application UI/UX</li>
+<li>
+Proficiency in HTML5, CSS, Javascript and web standards</li>
+<li>
+Strong front-end design skills</li>
+<li>
+2+ years of e-commerce experience</li>
+<li>
+3-5 years in web application coding experience</li>
+</ul>
+<p>
+<strong>About You</strong></p>
+<ul>
+<li>
+An optimistic&nbsp;person with a positive outlook on life</li>
+<li>
+Passionate about doing things better than they&#39;ve ever been done before.</li>
+<li>
+Willing to work hard and play hard</li>
+<li>
+Curious about new technologies</li>
+<li>
+An excellent communicator</li>
+<li>
+Able to have a really good time on this amazing journey</li>
+</ul>
+<p>
+<strong>The Opportunity</strong></p>
+<ul>
+<li>
+Salary + Bonus: Competitive base + potential bonus based on experience and performance</li>
+<li>
+Equity: Generous equity stake</li>
+<li>
+Be a very early team member of a promising young company</li>
+<li>
+Have fun in the startup scene with a great team</li>
+<li>
+Learn a ton!</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/sellbrite/94hEJG"></script>]]></buttons>
+		</job>
+	</jobs>

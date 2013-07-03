@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Mochi Media]]></company>
+			<job>
+			<id><![CDATA[job_20110707202648_J9KCZR8M1JZJHBES]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Web Engineer - Python]]></title>
+			<department><![CDATA[Mochi Media]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://mochimedia.theresumator.com/apply/qDoYg4/Senior-Web-Engineer-Python.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94110]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Description:</strong></p>
+<p>
+We&#39;re looking for a senior web developer to build out applications in Python to support our network of &nbsp;game developers and online game consumers. The ideal candidate has 5+ years of experience building applications for large web brands, loves to iterate designs, gets agile development, and is unafraid of diving into any area the problem leads him/her to. You have strong drive, ramp up on projects quickly, and don&#39;t require much mentoring. You should have opinions on programming languages, frameworks and styles, yet be versatile enough to use any of them.</p>
+<p>
+<strong>Responsibilities:</strong></p>
+<p>
+You&rsquo;ll work in a small team developing and refining the mochimedia&nbsp;platform. You&rsquo;ll be a key player in helping architect and implement new web services and features while helping develop techniques to improve efficiency, functionality and scalability.&nbsp;</p>
+<p>
+We take pride in giving our engineers lots of flexibility and decision making power throughout the entire development process.<br />
+&nbsp;</p>
+<p>
+<strong>About Us:</strong></p>
+<p>
+Mochi Media is the world&#39;s largest online game network, serving the needs of thousands of game developers, and reaching over 150 million unique users each month with a library of over 90,000 games. The company&#39;s products and services provide game developers with tools to track game analytics, manage distribution, and monetize their games via in-game ads. We also foster the most active game developer community and are committed to its continual growth through our involvement and industry leadership. The company is headquartered in downtown San Francisco and is a wholly-owned subsidiary of Shanda.</p>
+<p>
+We&#39;re a small team with a very high bar for the types of people we&#39;ll bring in. Our web frameworks are based on Pylons/Genshi and Django and PostgreSQL.</p>
+<p>
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+Experience building a large consumer web application</li>
+<li>
+3+ years Python experience or demonstrable expertise</li>
+<li>
+2+ years experience with Python web frameworks (Pylons/Pyramid or Django preferred)</li>
+<li>
+Strong knowledge of relational database schema design and optimization -- we use PostgreSQL (NoSQL experience a plus)</li>
+<li>
+Strong experience working with JavaScript, CSS, AJAX, JSON, and RESTful APIs (web security and scalability experience a plus)</li>
+<li>
+Ability to quickly write and ship unit-testable and maintainable code</li>
+<li>
+Familiarity with all or some of the following: nginx, memcached, Erlang, Riak, AMQP (RabbitMQ), Hadoop (Hive, HBase), git/mercurial</li>
+<li>
+Excellent communication and personal skills: ability to interact and work well with members of other functional groups in a small project team with a strong sense of project ownership</li>
+<li>
+B.S. Computer Science, Engineering, or equivalent experience.</li>
+<li>
+This is an onsite position at our SF office; must be willing to relocate if not in the SF bay area.</li>
+</ul>
+<p>
+<strong>Benefits:</strong></p>
+<p>
+Generous health benefits package including medical, dental, vision, life, commuter and family care fsa, 401(k),&nbsp; awesome paid time off policy and 2 free lunches a week in addition to endless drinks and snacks. On top of that we enjoy lots of fun office outings and events (movies and go karts, anyone)? Visit&nbsp; www.mochimedia.com&nbsp; to learn more!</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/mochimedia/qDoYg4"></script>]]></buttons>
+		</job>
+	</jobs>

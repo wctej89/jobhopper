@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Spotlite]]></company>
+			<job>
+			<id><![CDATA[job_20121005144406_FUX7DMKXLNWZE9JJ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Developer ASP.NET MVC]]></title>
+			<department><![CDATA[Technology Team]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://spotlite.theresumator.com/apply/hwJJWI/Web-Developer-ASPNET-MVC.html]]></url>
+			<city><![CDATA[Chicago]]></city>
+			<state><![CDATA[IL]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[60654]]></postalcode>
+			<description><![CDATA[<p>
+NO RECRUITERS! &nbsp; NO RECRUITERS! &nbsp;&nbsp;NO RECRUITERS! &nbsp;&nbsp;</p>
+<p>
+Are they gone? &nbsp;Good.</p>
+<p>
+<strong>Our elite team of ASP.NET MVC programmers has more awesome software to build than time. Are you smart? Can you get stuff done? We need you.</strong></p>
+<p>
+<br />
+# region &ldquo;sales pitch&rdquo;</p>
+<p>
+<br />
+Why you should work at PerkSpot instead of [Google|Facebook|Groupon]:</p>
+<ul>
+<li>
+Brand name companies have already solved many of their cool problems.</li>
+<li>
+Spotlite still has cool problems that need to be solved for its 3m members. People who succeed at Spotlite are people who take ownership of cool problems.</li>
+</ul>
+<p>
+#endregion</p>
+<p>
+<br />
+We need an awesome developer to build database layer work, business logic, and controllers for the MVC stack for our perks and discounts portal. We have hundreds of thousands of users accessing our perks platform on a monthly basis. We are looking for additional resources to help us make upgrades to our software so we can better serve our clients. Think: modular, test-driven, iterative web development.</p>
+<p>
+Must have&rsquo;s:<br />
+<br />
+C# ninja, MVC-aware, skilled database practitioner, objects are your friend. Making fun of Java developers with FactoryFactory.GetFactory() jokes should be funny to you.&nbsp; If you don&rsquo;t know C# but are exceptionally awesome at another strongly-typed curly brace language, let&rsquo;s talk.</p>
+<p>
+<strong>About us:</strong><br />
+<br />
+<strong>Our company:&nbsp;</strong>Spotlite is changing the way employees shop for their benefits. We use a combination of great technology and a consumer approach to provide awesome software to a part of the enterprise which is in desperate need of our solution.</p>
+<p>
+<br />
+<strong>Our development team:</strong> currently 5 developers.<br />
+<br />
+We have a collaborative development culture: expect to show your work to your peers, teach them things and learn from them. We have Aeron chairs, big monitors, beers on Fridays, and a casual culture.&nbsp;</p>
+<p>
+<strong>Our development methodology: </strong>scrum. Our team works in self organized 2-4 week sprints. We do daily standup meetings, keep a burndown chart and poker all of our product features. If you don&rsquo;t know what scrum is, watch <a href="http://www.youtube.com/watch?v=vmGMpME_phg">this</a>. It has explosions.</p>
+<p>
+<br />
+<strong>If you worked here last two months, you would have:</strong></p>
+<ul>
+<li>
+&nbsp; Put our rate engine on a scalable, message-based architecture.</li>
+<li>
+&nbsp; Devised cache invalidation logic for our content management system (codenamed &ldquo;Condor&rdquo;).</li>
+<li>
+&nbsp; Come up with another cool piece of service-based application logic and picked a really cool name for it. (Birds of prey only, please.)</li>
+</ul>
+<p>
+<br />
+<strong>In the next few months you could:</strong></p>
+<ul>
+<li>
+&nbsp;Build an interop layer between web awesomeness and the&nbsp;coal-fired mainframes our insurance partners use.</li>
+</ul>
+<p>
+<strong>Apply if you:</strong></p>
+<ul>
+<li>
+&nbsp; Are smart and get stuff done.</li>
+<li>
+&nbsp; Want a place where you can play a big role.</li>
+</ul>
+<p>
+<br />
+<strong>Do not apply if you:</strong></p>
+<ul>
+<li>
+&nbsp; Don&rsquo;t like change.</li>
+<li>
+&nbsp; Want to hide in obscurity.</li>
+</ul>
+<p>
+Sorry, we can&rsquo;t do any visa sponsorship. If you aren&rsquo;t legal to work onsite in Chicago we cannot help you.</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/spotlite/hwJJWI"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130624205855_LSAQLLEKQ8LJDPON]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Account Representative]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://spotlite.theresumator.com/apply/00wR1Y/Account-Representative.html]]></url>
+			<city><![CDATA[Chicago]]></city>
+			<state><![CDATA[IL]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[60614]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Company</strong><br />
+PerkSpot (a Spotlite Brand) is a growing 25 person, 7 year old startup. We provide employee benefits solutions including our world-beating discount portal: PerkSpot.&nbsp; We provide benefits to 3 million employees at BIG employers (think: Starbucks, Walgreens, Chevron, etc.).&nbsp;&nbsp; Specifically, we build web portals where our clients&#39; employees go to find the perks and corporate discounts available to them because they work for such awesome companies.&nbsp; We help them save money, and who doesn&rsquo;t like that?&nbsp;</p>
+<p>
+We dress how we like, have beer on Fridays, have unlimited vacation days and we like people with lots of energy and enthusiasm.</p>
+<p>
+<strong>The Job</strong><br />
+We are looking for an Account Representative to support the Client Account and Customer Service teams.&nbsp; You will perform a wide variety of tasks including, but not limited to:</p>
+<p>
+<strong>Client Support</strong><br />
+Our clients enjoy having a one on one relationship with a member of our team.&nbsp; Right now we are growing faster than we can keep up.&nbsp; This is a client-facing role involving daily contact with our current clients via phone and email.&nbsp; You will be supporting our clients growing needs by providing the highest level of service and support.</p>
+<p>
+<strong>End User Customer Service</strong><br />
+Some users need a bit of advice when navigating our offers.&nbsp; You will be our point person for helping them take advantage of our deals.&nbsp; You will need to provide quick and friendly guidance to help out, via email and phone.&nbsp;</p>
+<p>
+<strong>Apply If&hellip;</strong></p>
+<ul>
+<li>
+You are outgoing and enjoy interacting with all types of people throughout the day.</li>
+<li>
+You are organized and motivated to take on additional responsibilities as needed.</li>
+<li>
+Your written and verbal communication skills are top-notch.</li>
+<li>
+You like to work independently and prefer that we aren&rsquo;t looking over your shoulder all the time.</li>
+<li>
+You are excited to serve a large audience through various marketing initiatives.</li>
+<li>
+You are seeking an opportunity for professional growth with a small, but fast paced and growing company.</li>
+<li>
+You enjoy working within a team-oriented environment.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/spotlite/00wR1Y"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,618 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Backplane]]></company>
+			<job>
+			<id><![CDATA[job_20111204071344_1AUBO7JOXH3H3UAX]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Infrastructure Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://backplane.theresumator.com/apply/oB9MYU/Infrastructure-Engineer.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+Backplane&#39;s infrastructure engineers keep the servers secure and running 24x7. In addition to common system administration work, infrastructure engineers are responsible for leading improvements on site stability, uptime, and deployment operations. Ideal additions to Backplane&#39;s infrastructure team have a strong interest in information security and site optimization.</p>
+<p>
+<b>Responsibilities:</b></p>
+<ul>
+<li>
+Take personal responsibility for the availability, scalability and reliability of our service.</li>
+<li>
+Design, build, and support the global backbone infrastructure.</li>
+<li>
+Proactively monitor overall infrastructure performance and recommend / drive the necessary corrective measures if needed.</li>
+<li>
+Write maintainable code with extensive test coverage, working in a professional software engineering environment (with source control, dev/stage/prod release cycle, continuous deployment.</li>
+<li>
+Support our existing production cluster management system while you improve it. Our current system is in PHP, MongoDB, shell and Puppet for infrastructure management.</li>
+<li>
+Manage and support hosted operations, able troubleshoot and identify the root cause/bottleneck with minimal supervision.</li>
+<li>
+Provide support for deployment related issues.</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<b>Requirements:</b></p>
+<p>
+&nbsp;</p>
+<ul>
+<li>
+<span style="font-size: 12px;">Experienced with building highly available, scalable and reliable solutions with software and infrastructure.</span></li>
+<li>
+<span style="font-size: 12px;">You&rsquo;re always thinking  &ldquo;What happens if this fails?&rdquo; when you build things.</span></li>
+<li>
+Coding experience in a variety of production environments the nature of what you&rsquo;ve worked on is not as important as what you&rsquo;ve learned from it.</li>
+<li>
+You&#39;ve been &ldquo;oncall&rdquo; before &amp; have first-hand experience with what happens when infrastructure / tools fail.</li>
+<li>
+Expert Unix / Linux systems administrator with awesome shell scripting skills (bash, csh, ksh,etc), Perl, Ruby/Rails and Python/Django.</li>
+<li>
+Experience with Puppet.</li>
+<li>
+Exposure to multiple databases systems (MongoDB and MySQL)</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/backplane/oB9MYU"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20111204071518_D0M8X5P0EQ1MJLCO]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Systems Administrator Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://backplane.theresumator.com/apply/yDaBXZ/Systems-Administrator-Engineer.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Requirements</strong></p>
+<ul>
+	<li>
+		Ability to architect and scale system to hundreds of thousands concurrent users including all media content types</li>
+	<li>
+		Required Experience with Apache, Nginx, Apc, Memcached, SMTP, POP, IMAP, MySQL</li>
+	<li>
+		Deep knowledge of Linux, Bash and Perl, setting up LAMP</li>
+	<li>
+		Experience in Nginx and HipHop is a huge plus</li>
+	<li>
+		Expert-level Linux system administration skills. Debian-base Linux a plus.</li>
+	<li>
+		Extensive experience managing very large scale publicly facing websites.</li>
+	<li>
+		Understanding of all the infrastructure pieces and protocols needed to make big sites go.</li>
+	<li>
+		Fanaticism about automation - Make the computers do the work for you.</li>
+	<li>
+		Shell scripting and high level language expertise.</li>
+	<li>
+		Hosted and cloud-based service experience. EC2/AWS a big plus.</li>
+</ul>
+<p>
+	<strong>Responsibilities</strong></p>
+<ul>
+	<li>
+		Do general Linux system administration: Configuration, installs, automation, monitoring, etc.</li>
+	<li>
+		Get involved in every part of our site -- From the earliest stage of product design and development to deployment, troubleshooting, and performance analysis.</li>
+	<li>
+		Design and build tools to manage a rapidly growing number of servers and services.</li>
+	<li>
+		Be a release engineer. Manage the development workflow from the desktop to production.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/backplane/yDaBXZ"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20111204072034_Q55JAKY3B87K1RKY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Mobile Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://backplane.theresumator.com/apply/vuB1e7/Mobile-Engineer.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>We are seeking passionate mobile engineers to own Backplanes mobile products&nbsp; from conception to successful releases. The mobile apps you build will be used by millions of people empowering their communities world-wide. Our mobile team is young and talented and experimental.&nbsp;</p><p>Responsibilities</p><ul><li>Create innovative social applications for the iPhone/iPad or Android platform.</li><li>Work closely with the engineering and product team to identify and develop feature-sets for mobile.</li><li>Mentor and share knowledge with other technical and non-technical staff.</li><li>Contribute to the open source community.</li></ul><p>Requirements</p><ul><li>Bachelor&#39;s degree in Computer Science (or related technical discipline).</li><li>Experience with iPhone SDK.</li><li>Good understanding of the tradeoffs between native apps, web-apps and html5 apps.</li><li>Expert with Objective-C, Cocoa/UIKit, and managing apps in iTunes.</li><li>Experience in Application development on iOS in Objective-C is a must.</li><li>Or an expert with Java, the Android SDK, and managing apps in Google Market.</li><li>A great sense of design and understanding of good user experience.</li><li>Thrive on varied challenges, from performance optimization to improving user experience.</li><li>Passionate about your work and building the best and the most elegant solution possible.</li></ul>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/backplane/vuB1e7"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20111206010024_PRKT3JRTYGEHEGLO]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Product Engineer (Frontend)]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://backplane.theresumator.com/apply/TRImwo/Product-Engineer-Frontend.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+	Backplane is looking for more frontend product engineers to handle our growing Backbone.js-based frontend. Good frontend product engineers at Backplane are experts in HTML, CSS, and JavaScript, including JavaScript internals. Backplane&#39;s frontend product engineers communicate with product and engineering teams to turn product ideas into reality for our users.</p>
+<p style="text-align: left; ">
+	HOW YOU&#39;D WORK</p>
+<p>
+	Backplane&#39;s culture is fast-paced, dynamic, and passionate. We love our work, and we&#39;re often here at weird hours or weekends. Everyone comes in at around 10-11, and we work until we get what we need to done. Every now and then, we&#39;ll duck out for a meeting at Rudy&#39;s Pub (which is directly below our office).</p>
+<p style="">
+	As a frontend product engineer, you work extremely closely with the product design team, contributing to features as well as implementing them on the frontend. Our frontend code is completely separated from the backend in an API client-server model, so you&#39;ll work with backend engineers to implement features as well.</p>
+<p>
+	SAMPLE THINGS YOU&#39;D DO:</p>
+<ul>
+	<li>
+		Build a scalable chat client for an XMPP-based chat system</li>
+	<li>
+		Implement an entirely new user interface for the feed, complete with multivariate testing and other analytical capabilities</li>
+	<li>
+		Find new ways to optimize the speed of the site, profiling and optimizing Backplane&#39;s JavaScript</li>
+</ul>
+<p>
+	REQUIREMENTS</p>
+<ul>
+	<li>
+		Strong computer science fundamentals; BA/BS in Computer Science preferred</li>
+	<li>
+		Expert-level HTML5, CSS3, jQuery/JavaScript; experience with Backbone.js</li>
+	<li>
+		Extensive programming experience in one or more of the following: C++, Java, Python, PHP or similar language (we use PHP 5.x in production)</li>
+	<li>
+		Experience with common interfaces to other sites, such as Facebook Open Graph, OAUTH, et cetera</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/backplane/TRImwo"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20111206010108_0ZOXMIOYWZGGES0L]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Product Engineer (Backend)]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://backplane.theresumator.com/apply/zF9bgv/Product-Engineer-Backend.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+	About the Job:</p>
+<p>
+	The Backend Software Engineer will help design and build the backend for Backplane&rsquo;s products.&nbsp;The main programming language now is PHP, but we let engineers choose the best tool for the job.&nbsp;We are building a platform for millions of users, which requires highly scalable software that can handle large amounts of data,&nbsp; and we are looking for the best and brightest engineers</p>
+<p>
+	Responsibilities:</p>
+<ul>
+	<li>
+		Work closely with designers and front end engineers to implement new features such as feeds and oauth</li>
+	<li>
+		Collaborate with system administrators to gain a deep understanding of the architecture in order to write highly scalable software</li>
+	<li>
+		Help evolve the backend architecture of the product</li>
+	<li>
+		Write software to manipulate and store data for all of the Backplane communities using the latest NoSQL technologies</li>
+	<li>
+		Be ready to jump in and fix bugs on production systems</li>
+	<li>
+		Work well in a modern software engineering environment (with source code control, dev/stage/prod release cycle, continuous deployment), as well as extensive testing</li>
+	<li>
+		Have excellent debugging and critical thinking skills, and the ability to find the root cause of problems</li>
+	<li>
+		Take pride in writing well maintained, tested, reusable code</li>
+</ul>
+<p>
+	Requirements:</p>
+<ul>
+	<li>
+		Bachelor&rsquo;s Degree in Computer Science, Math or related discipline, or equivalent industry experience</li>
+	<li>
+		Extensive programming experience in one or more of the following: C++, Java, Python, PHP or similar language</li>
+	<li>
+		Solid understanding of CS fundamentals, most importantly data structures and algorithms</li>
+	<li>
+		Knowledge of Object Oriented coding and design</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/backplane/zF9bgv"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20111206010144_YPM2HY2XPNZDLBRU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Growth & Internal Tools Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://backplane.theresumator.com/apply/EuMYQq/Growth-Internal-Tools-Engineer.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Role &amp; Responsibilities</strong></p>
+<ul>
+	<li>
+		Build tools and frameworks that help scale the business - CRM, SEO, marketing efforts, customer support tools</li>
+	<li>
+		Translate high-level business needs into well-defined and scoped functionality</li>
+	<li>
+		Implement new functionality, improve existing infrastructure</li>
+</ul>
+<p>
+	<br />
+	<strong>Requirements</strong></p>
+<ul>
+	<li>
+		Sound product sense in relation to operational procedures</li>
+	<li>
+		Excellent communicator who enjoys interfacing with teams outside of product and engineering</li>
+	<li>
+		Experience using a dynamic programming language in a production environment (or personal projects)</li>
+	<li>
+		Strong CS fundamentals gained through Bachelor&rsquo;s degree in CS, Math or related discipline or equivalent industry experience</li>
+	<li>
+		Personal projects that show and aptitude for engineering and product sense</li>
+	<li>
+		Ability to work in areas outside of their usual comfort zone and get things done quickly</li>
+</ul>
+<p>
+	<br />
+	<strong>Desirable</strong></p>
+<ul>
+	<li>
+		Experience using PHP5 in a production environment</li>
+	<li>
+		Experience using HTML/CSS/Javascript/AJAX in a production environment</li>
+	<li>
+		Experience at a high growth startup building and administering tools and frameworks to help scale an organization</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/backplane/EuMYQq"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20111206010829_40HYERTRQSKXZX4K]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer Intern]]></title>
+			<department><![CDATA[Internship]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://backplane.theresumator.com/apply/BslvVI/Software-Engineer-Intern.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Responsibilities</strong></p>
+<p>
+	Work with backend or frontend engineering team on creation and implementation of new features.&nbsp;</p>
+<ul>
+	<li>
+		Collaborate around the creation of new and existing features.</li>
+	<li>
+		Craft and maintain applications for both the Web and Mobile Web.</li>
+	<li>
+		Implement beautiful user interfaces.</li>
+</ul>
+<p>
+	<strong>Requirements</strong></p>
+<ul>
+	<li>
+		Currently pursuing a BA/BS or MA/MS in Computer Science<br />
+		Extraordinary software engineering talent.</li>
+	<li>
+		Passion for implementing beautiful user interfaces using Javascript, HTML and CSS.</li>
+	<li>
+		Expert ability to get things done on a small team.<br />
+		&nbsp;</li>
+</ul>
+<p>
+	<strong>Ideally</strong></p>
+<ul>
+	<li>
+		Active contribution to open source community.</li>
+	<li>
+		Experience with jQuery.</li>
+	<li>
+		Experience working on a high traffic web application.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Internship to Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/backplane/BslvVI"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20111206055116_P41H3GUCHMOYFDOB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Mobile Engineer Intern]]></title>
+			<department><![CDATA[Internship]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://backplane.theresumator.com/apply/ACzSlA/Mobile-Engineer-Intern.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>We are seeking passionate mobile engineers to own Backplanes mobile products&nbsp; from conception to successful releases. The mobile apps you build will be used by millions of people empowering their communities world-wide. Our mobile team is young and talented and experimental.&nbsp;</p><p>Responsibilities</p><ul><li>Create innovative social applications for the iPhone/iPad or Android platform.</li><li>Work closely with the engineering and product team to identify and develop feature-sets for mobile.</li><li>Mentor and share knowledge with other technical and non-technical staff.</li><li>Contribute to the open source community.</li></ul><p>Requirements</p><ul><li>Bachelor&#39;s degree in Computer Science (or related technical discipline).</li><li>Experience with iPhone SDK.</li><li>Good understanding of the tradeoffs between native apps, web-apps and html5 apps.</li><li>Expert with Objective-C, Cocoa/UIKit, and managing apps in iTunes.</li><li>Experience in Application development on iOS in Objective-C is a must.</li><li>Or an expert with Java, the Android SDK, and managing apps in Google Market.</li><li>A great sense of design and understanding of good user experience.</li><li>Thrive on varied challenges, from performance optimization to improving user experience.</li><li>Passionate about your work and building the best and the most elegant solution possible.</li></ul>]]></description>
+			<type><![CDATA[Internship to Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/backplane/ACzSlA"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120822213026_LMOK77GTPQGEKD8Z]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Site Support Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://backplane.theresumator.com/apply/g3NlVu/Site-Support-Engineer.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+	Backplane is looking for a site support engineer to build internal tools and combat abusive behavior across all Backplane communities. The site support engineer works with our community management, developer operations, and product engineering teams to implement internal tools and production-level code.</p>
+<p>
+	HOW YOU&#39;D WORK:</p>
+<p>
+	Backplane&#39;s culture is fast-paced, dynamic, and passionate. We love our work, and we&#39;re often here at weird hours or weekends. Everyone comes in at around 10-11, and we work until we get what we need to done. Every now and then, we&#39;ll duck out for a meeting at Rudy&#39;s Pub (which is directly below our office).</p>
+<p>
+	You&#39;d work closely with product engineers to implement code on communities that help keep our users happy and safe. You&#39;d basically own your world of site support, realizing higher-level product directions for hundreds of thousands of users across Backplane&#39;s communities.</p>
+<p>
+	<br />
+	SAMPLE THINGS YOU&#39;D DO:</p>
+<ul>
+	<li>
+		Build intelligent systems to auto-flag abusive content based upon user reports and profiles</li>
+	<li>
+		Work with a designer to redo internal administrative tool UIs to help a quickly growing community management team</li>
+	<li>
+		Stop spam rings and other criminal behavior before they happen by building predictive abuse systems</li>
+</ul>
+<p>
+	REQUIREMENTS</p>
+<ul>
+	<li>
+		Strong computer science fundamentals; BA/BS in Computer Science preferred.</li>
+	<li>
+		Experience in working with and implementing anti-abuse systems such as spam scoring, anti-pornography computer vision, and profanity processing</li>
+	<li>
+		Extensive programming experience in one or more of the following: C++, Java, Python, PHP or similar language (we use PHP 5.x in production)</li>
+	<li>
+		Experience in both relational and NoSQL databases (we use MongoDB in production)</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/backplane/g3NlVu"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120511022153_NPBYQDFXZEUQUDUQ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Infrastructure Engineer Intern]]></title>
+			<department><![CDATA[Internship]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://backplane.theresumator.com/apply/82QRXX/Infrastructure-Engineer-Intern.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>Responsibilities</p><ul><li>Work with infrastructure engineering team on creation and implementation of new automation tools.</li><li>Collaborate around the creation of new and existing automation and monitoring tools using Python, MongoDB, NodeJS, and VB.Net (we&#39;re actually kidding about that last one).</li><li>Craft and maintain applications for infrastructure automation/failover/healing.</li></ul><p>Requirements</p><ul><li>Must be a legal resident of Unix.</li><li>Ability to learn like a boss.</li><li>Ability to code like a boss.</li><li>Passion for building stuff that is difficult to break, because you strategically think of the edge/corner cases that will burn you.</li><li>Expert ability to get things done on a small team.</li></ul><p>&nbsp;</p><p>Ideally</p><ul><li>Hacking is a lifestyle to you, and you know what the glider is.</li><li>You love Chaos Monkey so much, you want two of them.</li><li>Someone attacking your box doesn&#39;t scare you, it motivates you.</li><li>Active contribution to open source community is a plus.</li><li>You write technical tutorials, and/or post helpful advice/code.</li><li>Experience with Python, Puppet, or the ability to create comparable experience with them within a couple of weeks.</li><li>Experience with firefighting.</li><li>You want to build something that can spin up and fully provision a production cluster (and other separate clusters simultaneously) of 100 instances at any time, because that&#39;s what this internship is all about.</li></ul><p>&nbsp;</p><p>Email devops at thebackplane dot com if you wish to apply using that medium.</p>]]></description>
+			<type><![CDATA[Internship]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/backplane/82QRXX"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120515014642_O7PQF7XH1WVEA3RZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer, Data Science / Machine Learning]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://backplane.theresumator.com/apply/zzD8z0/Software-Engineer-Data-Science-Machine-Learning.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+Backplane is seeking a software engineer passionate in data science and machine learning to work on improving Backplane&#39;s user experience and to help us build out our analytics and predictive analytics platforms.</p>
+<p>
+The ideal candidate would have:</p>
+<ul>
+<li>
+BS or greater in Computer Science with a strong knowledge in statistics. Concentrations related to machine learning are a plus.</li>
+<li>
+Expert knowledge of Python, Ruby, or a related scripting language (Python preferred).</li>
+<li>
+Experience with Hadoop and Pig a plus.</li>
+<li>
+Experience with a wide array of databases including SQL and NOSQL solutions (MongoDB, Redis, and MySQL preferred).</li>
+<li>
+Experience with D3&nbsp;and visualizations is not necessary, but definitely a plus.</li>
+<li>
+An ability to stay focused on projects working alone or with teams.</li>
+<li>
+A strong desire to build cool products and get stuff done while keeping the big picture in mind.</li>
+<li>
+An always up-to-date knowledge of best practices and new ideas in the fields of machine learning and data science.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/backplane/zzD8z0"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120830021653_NPSNF8CBQQ9JCWQF]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Community Ambassador]]></title>
+			<department><![CDATA[Support]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://backplane.theresumator.com/apply/s4f3GK/Community-Ambassador.html]]></url>
+			<city><![CDATA[San Diego]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[92127]]></postalcode>
+			<description><![CDATA[<p>
+	Role &amp; Responsibilities</p>
+<p>
+	&bull; Ensure a positive, consistent user experience that will motivate users to return.<br />
+	&bull; Moderate extremely fast, high velocity social communities.<br />
+	&bull; Test new administrative tools and functionality.<br />
+	&bull; Become super-user of several communities and expert on site functionality.<br />
+	&bull; Act as front-line customer service representative to site&rsquo;s users.</p>
+<p>
+	Requirements</p>
+<p>
+	&bull; In-depth experience with Social Media.<br />
+	&bull; Significant understanding of the social web.<br />
+	&bull; Excellent communicator who enjoys interacting with a vastly diverse subset of users, partners, or employees.<br />
+	&bull; Ability to work in areas outside of their usual comfort zone and get things done quickly.</p>
+<p>
+	Desirable</p>
+<p>
+	&bull; Strong writing skills.<br />
+	&bull; Proficient with Photoshop, Word, Excel, Powerpoint.<br />
+	&bull; Experience with niche Social Media platforms.<br />
+	&bull; Basic understanding of Javascript and HTML.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/backplane/s4f3GK"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120925220544_TN0QUBBL57N2ZAFK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Visual UI Designer]]></title>
+			<department><![CDATA[Product]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://backplane.theresumator.com/apply/WIxTul/Visual-UI-Designer.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+Backplane&#39;s product team is growing fast as we scale. We are looking for strong visual UI designers to help our product team take things to the next level.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>How you&#39;d work</strong></p>
+<p>
+Backplane&#39;s product team attempts to work as a seamless, &quot;no politics&quot; unit &mdash; <em>elitist designer types can check their egos at the door</em>. We&#39;re here because we love building products and would feel lost if we weren&#39;t building them. We just love what we do and love people that love to build. That probably means that we love you.</p>
+<p>
+As a visual UI designer, you&#39;ll work extremely closely with user interface architects, front-end engineers, and communications designers to strengthen and realize a consistent visual style across our user interface that fits our brand identity. You&#39;ll be in charge of implementing wireframes into high-fidelity, PSD prototypes that our front-end engineers can then implement, but you&#39;ll also have to work on your own interfaces from scratch, too.</p>
+<br />
+<p>
+<strong>Sample things you&#39;d do</strong></p>
+<br />
+<ul>
+<li>
+Take wireframe concepts and build into high-fidelity PSDs</li>
+<li>
+Maintain our UI kit and visual user interface styles in a Backplane UI styleguide</li>
+<li>
+Train interns and junior designers on Backplane&#39;s visual style</li>
+<li>
+Design small features from scratch</li>
+<li>
+Communicate with front-end engineering to make sure designs conform to visual style</li>
+</ul>
+<br />
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Strong visual design fundamentals; BA/BS/BFA in social sciences, HCI, graphic design, etc. preferred.</li>
+<li>
+Demonstrated visual skill in a strong portfolio across platforms (not just the Web.) We want to see more than just Dribbble.</li>
+<li>
+XHTML/CSS fluency strongly preferred</li>
+<li>
+Complete dominance of Photoshop and Illustrator</li>
+<li>
+Understanding of the web and mobile spaces &mdash; what apps do you use the most?</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Application Process</strong></p>
+<p>
+If you&#39;re interested in working with us, please send a link to your portfolio and anything else you&#39;d like for us to see related to the position.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/backplane/WIxTul"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121016231619_BRKYAI2UQ0YGPHFC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Interaction Designer / UI Architect]]></title>
+			<department><![CDATA[Product]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://backplane.theresumator.com/apply/NDQwuj/Interaction-Designer-UI-Architect.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+	Backplane&#39;s product team is growing fast as we scale. We are looking for strong interaction designers to help our product team take things to the next level.</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>How you&#39;d work</strong></p>
+<p>
+	Backplane&#39;s product team attempts to work as a seamless, &quot;no politics&quot; unit &mdash; <em>elitist types can check their egos at the door</em>. We&#39;re here because we love building products and would feel lost if we weren&#39;t building them. We just love what we do and love people that love to build. That probably means that we love you.</p>
+<p>
+	As a UI architect, you&#39;ll work extremely closely with visual UI designers, front-end engineers, and communications designers to strengthen and realize a consistent visual style across our user interface that fits our brand identity. You&#39;ll be in charge of making the wireframe-level product decisions that set the mental models of our users. You get to decide what goes into each product and why.</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>Sample things you&#39;d do</strong></p>
+<ul>
+	<li>
+		Take feedback from engineering, QA and business and understand the necessary product to be built</li>
+	<li>
+		Draw detailed, blueprint-level wireframes for visual designers and front-end engineers to follow</li>
+	<li>
+		Maintain a UI interaction styleguide</li>
+	<li>
+		Train interns on Backplane&#39;s visual style</li>
+	<li>
+		Design interactions for large and small features</li>
+	<li>
+		Communicate with front-end engineering to make sure designs conform to interaction style</li>
+</ul>
+<br />
+<p>
+	<strong>Requirements</strong></p>
+<ul>
+	<li>
+		Strong interaction design fundamentals; BA/BS/BFA in social sciences, HCI, graphic design, etc. preferred.</li>
+	<li>
+		Demonstrated wireframe skill in a strong portfolio across platforms (not just the Web.) We want to see more than just Dribbble.</li>
+	<li>
+		XHTML/CSS fluency <strong>required</strong></li>
+	<li>
+		Good skills in Photoshop and Illustrator</li>
+	<li>
+		Understanding of the web and mobile spaces &mdash; what apps do you use the most?</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>Application Process</strong></p>
+<p>
+	If you&#39;re interested in working with us, please send a link to your portfolio and anything else you&#39;d like for us to see related to the position.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/backplane/NDQwuj"></script>]]></buttons>
+		</job>
+	</jobs>

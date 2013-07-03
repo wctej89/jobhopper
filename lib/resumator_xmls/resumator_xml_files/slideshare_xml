@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[SlideShare Inc]]></company>
+			<job>
+			<id><![CDATA[job_20110221010347_NQQSWVDKZKHFKZZT]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Backend Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://slideshare.theresumator.com/apply/BAExHv/Backend-Developer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+	We are looking for backend developers to join our team in San Francisco.&nbsp;</p>
+<p>
+	<strong>Do you</strong>:</p>
+<ul>
+	<li>
+		Enjoy pushing open-source infrastructure to the limits?</li>
+	<li>
+		Have strong programming ability in some interpreted language (ruby, python, or php)</li>
+	<li>
+		Comfortable with Linux, managing servers, interacting with file systems, using and administering utilities</li>
+	<li>
+		Have a deep understanding of distributed systems and how to design and build internet-scale software</li>
+	<li>
+		Near-DBA-level comfort with MySQL</li>
+	<li>
+		Have a bachelor&rsquo;s degree in computer science or equivalent &nbsp;</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>An IDEAL candidate will also have:</strong></p>
+<ul>
+	<li>
+		Experience with Hadoop, HBase, Mongo-DB, or other &ldquo;big data&rdquo;/nosql type technologies</li>
+	<li>
+		Experience dealing with big-data scenarios (analytics systems, data warehousing systems, ad targeting systems) in production</li>
+	<li>
+		Experience and passion for test-driven development</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>Our approach to software development at SlideShare</strong></p>
+<ul>
+	<li>
+		Agile development: We ship code fast, measure user response, and iterate fast.</li>
+	<li>
+		Continuous integration: unit tests run on every check-in.</li>
+	<li>
+		Continuous deployment: we deploy to production at least 10 times/day. Any dev can deploy at any point without operations support (it&rsquo;s fully automated).&nbsp;</li>
+	<li>
+		Almost all our code is written in Ruby.</li>
+	<li>
+		Our entire infrastructure is automated with Puppet</li>
+	<li>
+		You will ship production code on the first day of your job. So by Day 2, your code will have been run by more than a million people!</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	We offer competitive salary and benefits, including health, vision and dental insurance, equity, and a fun, challenging workplace.</p>
+<p>
+	About SlideShare: SlideShare is the largest site on the web for sharing presentations. We are among the top 200 sites in the world with 45 million visitors a month.&nbsp;</p>
+<p>
+	We recently launched a new product called Zipcast which lets people hold simple web meetings on SlideShare. Check out what the press had to say about Zipcast:</p>
+<ul>
+	<li>
+		Fortune / CNN: <a href="http://tech.fortune.cnn.com/2011/02/16/can-slideshare-make-web-conferencing-cool/?section=magazines_fortune">Can SlideShare beat the web conferencing big boys</a></li>
+	<li>
+		Fast Company: <a href="http://www.fastcompany.com/1728114/5-ways-zipcast-will-turbo-charge-your-career">Five ways Zipcast will turbo charge your career</a></li>
+	<li>
+		TechCrunch: <a href="http://techcrunch.com/2011/02/16/slideshare-zipcast/">SlideShare moves into virtual meetings with Zipcast</a></li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/slideshare/BAExHv"></script>]]></buttons>
+		</job>
+	</jobs>

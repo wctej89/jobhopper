@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[RentMonitor]]></company>
+			<job>
+			<id><![CDATA[job_20100625225052_NE1ZIQ4GGREMLZIP]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Developer (LAMP)]]></title>
+			<department><![CDATA[RentMonitor]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://rentmonitor.theresumator.com/apply/aMVc5k/Web-Developer-LAMP.html]]></url>
+			<city><![CDATA[Boulder]]></city>
+			<state><![CDATA[CO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[80302]]></postalcode>
+			<description><![CDATA[<p><span style="font-family: 'Lucida Grande', Arial, Helvetica, Verdana, sans-serif; line-height: normal; color: #333333;"> </span></p>
+<p style="margin-top: 6px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px;"><strong><strong>Are you looking for the opportunity to get involved with a startup at the ground level?</strong></strong></p>
+<p style="margin-top: 6px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px;">RentMonitor is a Boulder, CO based startup developing an innovative solution to make it easy to be a landlord. We have an immediate need for an expert LAMP developer to join us at TechStars, an investor-backed business development program.</p>
+<p style="margin-top: 6px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px;"><strong>Desired Skills:</strong></p>
+<ul>
+<li>Expert knowledge of the LAMP stack. In particular PHP and MySQL.</li>
+<li>OO development in PHP</li>
+<li>Familiarity with CodeIgniter or similar framework a major plus</li>
+<li>UI design experience a plus</li>
+<li>All that other good stuff (good communication, problem-solving skills)</li>
+</ul>
+<p>Position is short-term (~3 months) with opportunity for long-term employment with the company. Possible equity stake for the right developer.</p>
+<p> </p>]]></description>
+			<type><![CDATA[Part Time to Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/rentmonitor/aMVc5k"></script>]]></buttons>
+		</job>
+	</jobs>

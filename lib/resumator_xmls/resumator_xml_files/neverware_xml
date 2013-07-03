@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Neverware]]></company>
+			<job>
+			<id><![CDATA[job_20130429212825_XDU8R5UVCAN0IJIO]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Development]]></team>
+			<url><![CDATA[http://neverware.theresumator.com/apply/zSlTqE/Software-Engineer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p style="margin-left: 40px;">
+<strong>Neverware</strong> is bringing about a revolution in education technology by enabling schools to run cutting-edge software on aging hardware.</p>
+<p style="margin-left: 40px;">
+We manufacture proprietary servers with the ability to make dozens of Windows&nbsp; virtual machines available on a school&rsquo;s local area network, and thereby to transform every terminal in the school into a powerful workstation that never needs to be replaced. Our early success is attributable to our founder&rsquo;s key insight: by leveraging open-source technologies, a small, agile development team, and the vision of a turnkey implementation process, it will soon be possible to bring full-scale desktop virtualization &ndash; a technology that until now has only been available to Fortune 500 companies &ndash; to schools around the world. The company is disrupting the 3-5 year hardware refresh cycle, and is rapidly gaining recognition for helping financially challenged schools provide students with the IT resources they deserve, reduce unnecessary spending, and cut back on environmental waste.</p>
+<p style="margin-left: 40px;">
+<strong>Neverware&rsquo;s engineering team</strong> works continuously to solve the wide range of challenges that must be surmounted to realize our technological vision. We are dedicated and highly collaborative. Each and every member of our team has and will continue to see their own code ship on a regular basis, providing each engineer with a unique opportunity to put his or her individual stamp on a product that is literally being snatched up as fast as we can push it out.</p>
+<p style="margin-left: 40px;">
+What we expect in a candidate:</p>
+<ul style="margin-left: 80px;">
+<li>
+Experience developing complex software in a collaborative environment</li>
+<li>
+A strong commitment to quality workmanship and effective process</li>
+<li>
+A scientific, methodical and efficient approach to solving difficult problems</li>
+<li>
+A natural inclination to learn from others, and teach them what you know</li>
+<li>
+Interest in computer networks, virtualization, the inner workings of linux, and the zen of python</li>
+<li>
+A good sense of humor and a serious commitment to hanging out</li>
+</ul>
+<p style="margin-left: 40px;">
+What a candidate can expect from us:</p>
+<ul style="margin-left: 80px;">
+<li>
+A challenging workspace where passion and energy are rewarded with rapid advancement</li>
+<li>
+A collaborative lab environment where scientific principles are leveraged to create next-generation technology</li>
+<li>
+A competitive salary with equity participation in the company&rsquo;s success</li>
+<li>
+The opportunity to provide students across the city, the nation, and eventually the globe with the resources they need to become full citizens of the information age</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/neverware/zSlTqE"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130417140813_WEWYTBVYIJCBH7XU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Systems Engineer]]></title>
+			<department><![CDATA[Technical Operations]]></department>
+			<team><![CDATA[Tech Ops]]></team>
+			<url><![CDATA[http://neverware.theresumator.com/apply/Cu46h8/Systems-Engineer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p style="margin-left: 40px;">
+<strong>Neverware, Inc</strong> is looking for qualified, enthusiastic individuals to fill the critical role of system engineer in our Technical Operations Group.&nbsp; System engineers are responsible for the provisioning, assembly, installation, maintenance and support of all Neverware hardware and software at customer sites.</p>
+<p style="margin-left: 40px;">
+&nbsp;</p>
+<p style="margin-left: 40px;">
+The <strong>responsibilities</strong> of the systems engineer in Technical Operations will include, but not be limited to the following:</p>
+<ul style="margin-left: 80px;">
+<li>
+Provisioning and assembly of all hardware to support Neverware services</li>
+<li>
+Install servers at new customer sites and properly configure all hardware, peripherals, services, settings, directories and storage</li>
+<li>
+Perform daily system monitoring of Neverware services at existing customer base.&nbsp; This includes:
+<ul>
+<li>
+verifying the integrity and availability of all hardware, systems and key processes,</li>
+<li>
+reviewing system and application logs,</li>
+<li>
+and authenticating completion of scheduled jobs (i.e. backups, software updates)</li>
+</ul>
+</li>
+<li>
+Provide technical support to all existing customers.&nbsp; This includes investigating and troubleshooting a wide range of issues, both remotely and on site.</li>
+<li>
+Development and delivery of product demonstrations</li>
+</ul>
+<p style="margin-left: 40px;">
+&nbsp;</p>
+<p style="margin-left: 40px;">
+Applicants to this position should have the <strong>following qualifications</strong>:</p>
+<ul style="margin-left: 80px;">
+<li>
+Basic proficiency in Linux system administration and basic network administration.&nbsp; (e.g. familiarity with the Linux command line)</li>
+<li>
+Comfortable with hardware installation, setup and networking</li>
+<li>
+Experience troubleshooting IT issues</li>
+<li>
+Comfortable interacting with end customers in person and via phone/email</li>
+<li>
+Basic exposure to shell scripting (BASH, python, ruby, perl)</li>
+<li>
+Certification or progress toward certification in relevant competencies (e.g. A+, CCNA, MCITP, etc)</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/neverware/Cu46h8"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,458 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Bump Technologies]]></company>
+			<job>
+			<id><![CDATA[job_20091029082352_SMJETQ6DIOCL0CFG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[iOS Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://bump.theresumator.com/apply/4ASqQb/IOS-Developer.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94041]]></postalcode>
+			<description><![CDATA[<p>
+	Bump is the 7th most downloaded iOS app of all time, with millions of interactions between users each day. As an iOS developer at Bump, you&#39;ll work in small, fast-moving 2-3 person teams to envision and build the next generation of Bump.<br />
+	<br />
+	<b>Responsibilities</b><br />
+	Design and build the next generation of Bump&#39;s iOS apps and API<br />
+	Create new, exciting features and push your code to millions of existing Bump users<br />
+	Immerse yourself in all-things iOS<br />
+	Work on one of the most popular applications of all time on the App Store<br />
+	<br />
+	<b>Requirements </b><br />
+	Experience building world-class iOS applications<br />
+	Depth in one or more areas of iOS/CF/Cocoa frameworks<br />
+	Expert in C/C++/Obj-C (Python and Java are a plus)<br />
+	An eye for great design and user experiences<br />
+	Ability to communicate within a close-knit team<br />
+	Work in our office in Mountain View, CA</p>
+<p>
+	<b>Exceptional candidates will have </b><br />
+	B.S., M.S., or Ph.D. in Computer Science or equivalent<br />
+	Familiarity with Python, Java, or Scala<br />
+	Startup experience<br />
+	<br />
+	<b>To Apply</b><br />
+	&nbsp;Please submit your resume, cover letter, and links to your mobile apps and any other relevant projects. &nbsp;Wow us with your application however you choose. Unique projects (not just academic assignments or work collaborations) often catch our eye.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bump/4ASqQb"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20091029082706_JBJJKEIQ19J54HJV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Android Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://bump.theresumator.com/apply/ZeOtJR/Android-Developer.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94041]]></postalcode>
+			<description><![CDATA[<p>
+	Android is the fastest growing mobile OS, activating hundreds of thousands of devices each day. Bump already has millions of Android users, but we think that is just the beginning. As an Android developer at Bump, you&#39;ll work on a small core team of 3-4 people designing and building every aspect of our Android app.<br />
+	<br />
+	<br />
+	<b>Responsibilities</b><br />
+	Design and build the next generation of Bump&#39;s Android app and API<br />
+	Create new, exciting features and push your code to millions of existing Android Bump users<br />
+	Immerse yourself in all things Android<br />
+	<br />
+	<b> Requirements </b><br />
+	Experience developing native Android apps or other mobile apps is strongly preferred<br />
+	Java; an interest in learning Scala (or experience)<br />
+	An eye for great design and user experience<br />
+	A desire to create one of the best apps in the Android Market<br />
+	Ability to communicate within a close-knit team<br />
+	Work in our office in Mountain View, CA&nbsp;<br />
+	<br />
+	<b> Exceptional candidates will have </b><br />
+	B.S., M.S., or Ph.D. in Computer Science or equivalent<br />
+	One or more Android apps already developed; demo APKs to share with us<br />
+	Experience with Java in non-Enterprise applications<br />
+	Startup experience<br />
+	<br />
+	<b> To Apply</b><br />
+	Please submit your resume, cover letter, and links to any mobile or web applications or projects you have developed. &nbsp;Wow us with your application however you choose. Unique projects (not just work or academic assignments) often catch our eye.<br />
+	&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bump/ZeOtJR"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120530180227_NEJLCAM9V5HK0DUV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Backend Developer / Python & Haskell]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Server Team]]></team>
+			<url><![CDATA[http://bump.theresumator.com/apply/FYIW4J/Backend-Developer-Python-Haskell.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94041]]></postalcode>
+			<description><![CDATA[<p>Bump has grown to be one of the most popular mobile apps of all time. Each day our users send millions of items to one another, and we think we&#39;re just getting started. Help us build out the core back-end components that support new features and products, and have your hand in millions of user interactions each day.</p><p>&nbsp;</p><p><strong><strong>Responsibilities</strong></strong></p><ul><li>Within the first 6 months of work, you will design, prototype, implement and deploy one or more major, mission-critical services underlying our mobile apps. The process will include developing an early understanding of the product, participating in design review sessions, documenting design and code details and engaging in periodic peer code-reviews.</li><li>Write code. Clean, elegant, practical, well-covered code - primarily in Python.</li><li>Work with other people who you will learn from -- who are dedicated to improving each other&#39;s craft.</li><li>Own your code. You wouldn&#39;t hesitate to perform production support for stuff you&#39;ve built.</li><li>Proactively fix bugs and solve problems. You get upset every time someone else finds a bug in your code, and work tirelessly on (occasional) time sensitive issues that crop up.</li><li>Contribute to a service that will help millions of people communicate &amp; make them happy.</li><li>Work in our office in Mountain View, CA</li></ul><p><strong>Requirements</strong></p><ul><li>Take pride in writing modular, clean, simple, maintainable, well documented, code.</li><li>Strong background in networking, operating systems, and security</li><li>3-5+ Years of engineering experience with Python, PHP, C, C++, Java</li><li>Solid knowledge of unit and integration testing methodologies, and the ability to write, debug and deploy testing frameworks</li><li>Experience building and scaling distributed, highly available systems</li><li>Knowledge of document, key/value or other non-relational database system such as Redis, Riak, HBase, BigTable, Dynamo, etc.</li></ul><p><strong>Exceptional candidates will have</strong></p><ul><li>Experience with Haskell, ML, Lisp, Scala, or some functional language</li><li>Notable contributions to open source software projects.</li><li>A Bachelors or preferably Masters degree in Computer Science or Computer Engineering, or equivalent experience.</li><li>Good communication, organization and project management skills</li></ul><p><br /><strong>How to Apply</strong></p><p>Please write a short paragraph telling us about you and why Bump is interesting to you, and send links to any relevant projects. We encourage you to make your application stand out however you choose.</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bump/FYIW4J"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120530175540_F5DGTVDW7LQSHYLE]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Developer / Data Analysis (Junior)]]></title>
+			<department><![CDATA[Technology Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://bump.theresumator.com/apply/ORkZil/Developer-Data-Analysis-Junior.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+	At Bump, we are committed to delivering the highest quality product we can to our millions of users.&nbsp; We don&#39;t always release perfect products right off the bat, but we do continuously strive to make them better and better.</p>
+<p>
+	The Data Group is responsible for ensuring that we deliver the best experience possible to our users.&nbsp; This is achieved through a combination of making sure that our engineering systems are working correctly, and also that when a result is delivered to a user there is a quantitative explanation of why it occurred.&nbsp;</p>
+<p>
+	Act as an interface between product, engineering and technology R&amp;D/math groups to create tools for quantitatively visualizing an individual user&#39;s experience and aggregate user behavior.&nbsp; You will be responsible for the data quality of the product at the micro and the macro level.&nbsp;</p>
+<p>
+	You will know all the details of how our product should work, and collaborate with our data and engineering teams to fix any issues you uncover. &nbsp;This is perfect for someone with good Python programming skills who is also interested in data, and is interested in rapidly learning about the technologies we use in our leading-edge environment.</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>Requirements:</strong></p>
+<ul>
+	<li>
+		Proficiency in Python and basic HTML/front end programming</li>
+	<li>
+		Extremely high attention to detail (you are the first person to identify when something is less than perfect, and you don&#39;t rest until it&#39;s fixed)</li>
+	<li>
+		Previous experience in a QA or other data-driven / detail-oriented role</li>
+	<li>
+		Math skills (probability, stats)</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>Additional valuable skills:</strong></p>
+<ul>
+	<li>
+		Database knowledge (you know how to grep and write scripts that save you time)</li>
+	<li>
+		Experience with data visualization and dashboarding</li>
+	<li>
+		Great communications skills</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bump/ORkZil"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120530174500_DBXB0UYO68ZMTZMR]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Machine Learning / Smartphone and Social Data]]></title>
+			<department><![CDATA[Technology Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://bump.theresumator.com/apply/FKugyo/Machine-Learning-Smartphone-And-Social-Data.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94041]]></postalcode>
+			<description><![CDATA[<p>
+	To our users, Bump is a magical experience.&nbsp; What they don&rsquo;t see is the math behind the scenes that detects a gesture and determines precisely which two phones bumped together in surprisingly creative ways.&nbsp; With our next wave of (still secret) products, machine learning will have an even greater impact, and employ more types of smartphone data and social network data.</p>
+<p>
+	At Bump you can use your machine learning expertise to directly enable new user interactions (not just serving ads or doing small marginal improvements)</p>
+<br />
+<p>
+	<b>Responsibilities</b></p>
+<ul>
+	<li>
+		Own one or more domains where machine learning and classification directly impacts user experience</li>
+	<li>
+		Improve product performance through better data modeling and creative algorithm development</li>
+	<li>
+		Code prototypes, test, analyze, refine, repeat</li>
+	<li>
+		Use any and all tools you need, including visualization, machine learning techniques, rule based heuristics, and probabilistic modeling</li>
+</ul>
+<p>
+	<br />
+	<b>Requirements </b></p>
+<ul>
+	<li>
+		<strong>Real world data analysis:</strong>&nbsp; Probability, optimization, machine learning and algorithmic analysis</li>
+	<li>
+		<strong>Creative problem solving experience:</strong> You come up with multiple possible solutions, not necessarily the most linear/logical one only</li>
+	<li>
+		<strong>Scientific approach:</strong>&nbsp; Test and analyze experiments, then synthesize your results quickly and cohesively.&nbsp; You focus on the big picture for what you are trying to improve.&nbsp; You can get in to the weeds as needed, but you can also give a quick answer that&rsquo;s &ldquo;good enough&rdquo;</li>
+	<li>
+		<strong>CS fundamentals:</strong>&nbsp; Experience with C or Java, Python, Haskell (nice to have), at least one statistical analysis tool (R, MATLAB, etc)</li>
+	<li>
+		<strong>Classification and clustering techniques:</strong> Probabilistic inference, support vector machines, hidden Markov models, and decision trees</li>
+	<li>
+		<strong>Discretion:</strong>&nbsp; You will be trusted to work on our most sensitive technologies and new products, and expected not to discuss these outside of your team</li>
+	<li>
+		Work in our office in Mountain View, CA&nbsp;</li>
+</ul>
+<p>
+	<br />
+	<b>Exceptional candidates will have </b></p>
+<ul>
+	<li>
+		Enthusiasm for the mobile industry, familiarity with the app landscape and the component technologies (location, accelerometer, camera, data libraries on phone, etc)</li>
+	<li>
+		Multimedia signal processing or gesture recognition experience</li>
+	<li>
+		Social graph experience.&nbsp; Compare, combine, and segment based on a variety of inputs and behaviors</li>
+	<li>
+		2+ years of experience at a product-driven and metrics-driven start-up</li>
+</ul>
+<p>
+	<br />
+	<b>To Apply</b><br />
+	Please submit your resume, cover letter, and include links to relevant projects or code samples.&nbsp; Feel free to distinguish your application however you choose. &nbsp;Unique projects (not just work or academic assignments) often catch our eye.<br />
+	&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bump/FKugyo"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120605235748_4HLEMKULCFRKSHCB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[iOS Expert]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://bump.theresumator.com/apply/MJy4BU/IOS-Expert.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>We put the &ldquo;magic&rdquo; in &ldquo;magical devices.&rdquo;&nbsp; Bump&rsquo;s vision is to build the simplest way to use your phone to interact with friends and other devices.&nbsp; As an iOS Expert, you will work with a small, experienced, fast-moving team to build and launch a variety of innovative new features, applications, and social interactions.</p><p><strong>Job Responsibilities</strong></p><ul><li><strong>Write code:&nbsp;</strong> Deliver the next generation of Bump&rsquo;s iOS products on time, and on spec.&nbsp; Write code, architect solutions for new features, participate in code reviews</li></ul><ul><li><strong>Sprint planning and execution:&nbsp;</strong> Manage work flow and deadlines with&nbsp;your team</li></ul><ul><li><strong>Team contributor:</strong>&nbsp; Contribute to the creation of a team culture that&nbsp;you enjoy working with every day. &nbsp;Foster collaboration, stable code, creative problem solving skills, and mad ping pong abilities. &nbsp;You love coding more than managing (but can do both - we are a growing team with upcoming leadership opportunities).&nbsp;&nbsp;</li></ul><p>&nbsp;</p><p><strong>Skills Required</strong></p><ul><li><strong>iOS expert:</strong>&nbsp; You like getting your hands dirty with CFObscureClasses and you know the Cocoa Touch view hierarchy better than you know your Aunt Rhoda</li></ul><ul><li><strong>Outstanding communication skills:</strong>&nbsp; Communicate within a close-knit team, manage expectations, provide actionable feedback</li></ul><ul><li><strong>Broad skillset:</strong>&nbsp; Ability to interface with our other development teams (Python, Java, Scala)</li></ul><ul><li><strong>Love mobile:</strong>&nbsp; An eye for great design and user experiences, passion for creating seamless interactions</li></ul><p>&nbsp;</p><p>To apply, please submit a resume and cover letter.&nbsp; Include links to examples of your work or any other relevant projects.</p><p>&nbsp;</p><p><strong>About Bump</strong></p><p>Bump Technologies is the creator of the Bump app available on iOS and Android devices.&nbsp; It enables users to quickly and easily exchange contact info and photos, simply by bumping their phones together.&nbsp; We now have more than 80 million downloads and are in the top 15 free iOS apps of all time.&nbsp; We are currently developing new interactions and new applications to enable users to interact with friends and other devices in a variety of magical ways.&nbsp; Bump&rsquo;s vision is to build the simplest way to use your phone to interact with others in the real world.&nbsp; Bump was co-founded in 2009 and has received funding from YCombinator, Sequoia, and Andreessen-Horowitz.&nbsp; We are based in Mountain View, CA.</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bump/MJy4BU"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121226173459_UIGLF2BOIEL7FOH8]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Summer 2013 Intern - iOS Developer]]></title>
+			<department><![CDATA[Internships]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://bump.theresumator.com/apply/y51SE3/Summer-2013-Intern-IOS-Developer.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94041]]></postalcode>
+			<description><![CDATA[<p>
+As an iOS intern at Bump, you&#39;ll get to work on real, user-facing features and solve challenging problems in a fun, collaborative work environment. &nbsp;The code you write will be deployed to our tens of millions of Bump and Flock users.</p>
+<p>
+<strong>Responsibilities</strong><br />
+Build user-facing features for the Bump app and/or the Flock app on iOS&nbsp;<br />
+Interact and work with our developers as a full member of the team, but own your own project.<br />
+<br />
+<strong>Requirements</strong><br />
+Experience with iOS (Objective C) and sample apps you can show us<br />
+You must be a good programmer, but also have a product focus<br />
+Strong understanding of CS fundamentals</p>
+<p>
+<strong>Exceptional candidates will have</strong><br />
+One or more apps launched on the iTunes App Store<br />
+An eye for great design and user experience<br />
+Experience using git or similar for version control<br />
+<br />
+<strong>To apply</strong><br />
+Please submit your resume, cover letter, and a link to any mobile or web applications you have developed. &nbsp;Non-work or non-school projects you&#39;ve developed on your own especially catch our eye. &nbsp;We encourage you to make your application stand out however you choose.<br />
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Internship]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bump/y51SE3"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120817195307_JSW6ASRDDS4SMGVB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Product Data Engineer]]></title>
+			<department><![CDATA[Product Team]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://bump.theresumator.com/apply/KmeANl/Product-Data-Engineer.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+	Are you excited by extremely large quantities of data and finding cool ways to display the key trends?&nbsp; At Bump we are intensely focused on making data-driven decisions to improve Bump and the Flock app.&nbsp; We use data to track our user funnel and conversion rates, monitor key product metrics, and understand user behavior and social networks.</p>
+<p>
+	We want to analyze it all, and make the right technical and business decisions.</p>
+<p>
+	<strong>Job Responsibilities</strong></p>
+<ul>
+	<li>
+		<strong>Write code:&nbsp;</strong> Use Python scripts to clean and analyze the data; understand the statistical significance of your analyses</li>
+</ul>
+<ul>
+	<li>
+		<strong>Visualizations:&nbsp;</strong> Utilize data visualizations to identify key trends and anomalies.&nbsp; Back your conclusions up with a clear picture</li>
+</ul>
+<ul>
+	<li>
+		<strong>Understand our users:</strong>&nbsp; Help define relevant metrics, and understand user behavior; be intensely driven to find the answers&nbsp;</li>
+</ul>
+<ul>
+	<li>
+		<strong>Attention to detail:</strong>&nbsp; You own the numbers, check your work, and understand the nuances</li>
+</ul>
+<ul>
+	<li>
+		<strong>Communication:&nbsp;</strong> Generate concise conclusions and propose solutions backed by data</li>
+</ul>
+<ul>
+	<li>
+		<strong>Improve the product: </strong>&nbsp;Work with our data team to communicate your results and propose solutions to our product team to improve the user experience</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>Skills Required</strong></p>
+<ul>
+	<li>
+		A degree in engineering, CS, stats, or math</li>
+	<li>
+		Experience handling large quantities of data</li>
+	<li>
+		Experience in data analysis and visualization</li>
+	<li>
+		Knowledge of Python or similar scripting language is a must. &nbsp;Experience with Matlab, R, and/or Javascript is also helpful</li>
+	<li>
+		Prior work experience in a non-academic / non-research environment</li>
+	<li>
+		Available immediately to work in our office in Mountain View, CA&nbsp;</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>Exceptional candidates will have</strong></p>
+<ul>
+	<li>
+		Extreme curiosity to know and understand all things related to our users</li>
+	<li>
+		Startup experience, and a love of all things mobile</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>To Apply</strong></p>
+<p>
+	Please write a short paragraph telling us about you and why Bump is interesting to you.&nbsp; Send links to any relevant projects or prior quantitative + product experience. Show us a visualization that you&#39;re proud of making, and your interpretation of it.&nbsp; We encourage you to make your application stand out however you choose.</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>About Bump</strong></p>
+<p>
+	Bump Technologies is the creator of the Bump app (http://bu.mp) available on iOS and Android devices and the Flock - Photos Together app (http://theflockapp.com). &nbsp;Bump enables users to quickly and easily exchange contact info and photos, simply by bumping their phones together. &nbsp;We now have over 100 million downloads. &nbsp;Flock - Photos Together finds the photos you take together with family and friends and magically brings all the photos from each person&#39;s phone together into a single shared album.</p>
+<p>
+	We are currently developing new interactions and new applications to enable users to interact with friends and other devices in a variety of magical ways.&nbsp; Bump&rsquo;s vision is to build the simplest way to use your phone to interact with others in the real world.&nbsp; Bump was co-founded in 2009 and has received funding from YCombinator, Sequoia, and Andreessen-Horowitz.&nbsp; We are based in Mountain View, CA.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bump/KmeANl"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121226173812_DOTLDBQVWDHAS36W]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Summer 2013 Intern - Server Backend]]></title>
+			<department><![CDATA[Internships]]></department>
+			<team><![CDATA[Server Team]]></team>
+			<url><![CDATA[http://bump.theresumator.com/apply/xgt8H6/Summer-2013-Intern-Server-Backend.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+Bump and Flock have had over 115mm downloads, with millions of users and millions of interactions each day. &nbsp;What&#39;s great is that we&#39;re still a small team, all sitting in the same room hacking. &nbsp;As a member of our server team, you&rsquo;ll work on challenging problems and help us build out the core back-end components that support new features and products, and have your hand in millions of user interactions each day.&nbsp;<br />
+<br />
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Write clean, elegant and practical code to help millions of people communicate, &nbsp;interact, and share</li>
+<li>
+Work in our office in Mountain View, CA</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Must be a self-starter. You figure out the right tool for the job, and learn how to wield it if you don&rsquo;t already know.</li>
+<li>
+Command line expertise and comfort with Linux</li>
+<li>
+Solid grasp of Python (preferably in a production environment)</li>
+</ul>
+<p>
+<br />
+<strong>Exceptional candidates will have</strong></p>
+<ul>
+<li>
+Knowledge of C, Haskell or some other strongly typed language</li>
+<li>
+Experience with databases, particularly those of the NoSQL / distributed variety (Redis, Cassandra, Riak, etc)</li>
+<li>
+Reasonable grasp of Ajax for web-based displays</li>
+<li>
+Start-up experience</li>
+<li>
+Projects you&rsquo;ve worked on outside of academic assignments</li>
+<li>
+Experience with version control (we use git, but any (D)VCS is a plus)</li>
+</ul>
+<p>
+<br />
+<strong>To apply</strong><br />
+Please submit your resume, cover letter, a link to any mobile or web applications you have developed (if you have any), and links to any of your non-academic projects. We encourage you to make your application stand out however you choose.</p>
+]]></description>
+			<type><![CDATA[Internship]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bump/xgt8H6"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121226174256_PMGZ7TV7A657XVLO]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Summer 2013 Intern - Android Developer]]></title>
+			<department><![CDATA[Internships]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://bump.theresumator.com/apply/w6qXQ2/Summer-2013-Intern-Android-Developer.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94041]]></postalcode>
+			<description><![CDATA[<p>
+Last year, each of our interns built and launched major features in the span of 3 months. &nbsp;As an Android intern at Bump, you&#39;ll get to work on real, user-facing features and solve challenging problems in a fun, collaborative work environment. &nbsp;The code you write will be deployed to our tens of millions of Bump and Flock users.</p>
+<p>
+<strong>Responsibilities</strong><br />
+Build user-facing features for the Bump app and the Flock app on Android<br />
+Interact and work with our developers as a full member of the team, but own your own project.<br />
+<br />
+<strong>Requirements</strong><br />
+Experience with Android and sample apps you can show us<br />
+You must be a good programmer, but also have a product focus<br />
+Strong grasp of CS fundamentals</p>
+<p>
+<strong>Exceptional candidates will have</strong><br />
+One or more apps available for download<br />
+An eye for great design and user experience<br />
+Experience with git or similar version control tool</p>
+<p>
+<strong>To apply</strong><br />
+Please submit your resume, cover letter, and a link to any mobile or web applications you have developed. &nbsp;Non-work or non-school projects you&#39;ve developed on your own especially catch our eye. &nbsp;We encourage you to make your application stand out however you choose.<br />
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Internship]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bump/w6qXQ2"></script>]]></buttons>
+		</job>
+	</jobs>

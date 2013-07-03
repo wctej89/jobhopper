@@ -1,0 +1,384 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[FanDuel]]></company>
+			<job>
+			<id><![CDATA[job_20120731140228_MRHVRT1BLPVKZDYT]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front End Developer with Javascript]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://fanduel.theresumator.com/apply/sHTCN1/Front-End-Developer-With-Javascript.html]]></url>
+			<city><![CDATA[Edinburgh]]></city>
+			<state><![CDATA[Edinburgh]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EH8 9LE]]></postalcode>
+			<description><![CDATA[<p>
+FanDuel are looking for an experienced Front End Developer to join their product development team.&nbsp; You will be developing and maintaining the FanDuel mobile and desktop websites and helping to shape our product as part of a rapidly growing disruptive startup.</p>
+<p>
+What you&rsquo;ll be doing:<br />
+&bull; Implementing new features for the FanDuel mobile and desktop sites using HTML5, CSS and JavaScript<br />
+&bull; Working with product managers, server-side developers, QA engineers, designers, dev ops and others to ensure features are delivered to a high standard<br />
+&bull; Test features for interoperability across different browsers and mobile devices<br />
+&bull; Fix bugs, identify and reduce client-side performance issues<br />
+&bull; Contribute to development team working practices and technology decisions</p>
+<p>
+The skills we are looking for:<br />
+&bull; Strong experience of developing rich web applications using HTML5, CSS, JavaScript.<br />
+&bull; Expert-level JavaScript, including experience with jQuery and client-side MVC libraries<br />
+&bull; Strong track record of developing standards-savvy websites and web applications using up-to-date best practices<br />
+&bull; A good awareness and experience of HTML5 technologies and APIs<br />
+&bull; Use of and integration with PHP, Python or other server-side technologies to develop large applications in a cross-disciplinary team<br />
+&bull; Knowledge of client-side performance concerns and optimisation techniques.<br />
+&bull; Thorough understanding of cross-browser and cross-device feature support.<br />
+&bull; Enthusiasm for the mobile web<br />
+&bull; Experience with source control management (we use Git).<br />
+&bull; Basic experience of Unix command line<br />
+&bull; Highly proficient and productive with a strong desire to build high quality, robust applications that users love.</p>
+<p>
+Desirable skills we would be happy to see:<br />
+&bull; Experience working in an agile development team and experience of common agile practices<br />
+&bull; JavaScript test-driven development and unit testing<br />
+&bull; iOS / Android hybrid application development using PhoneGap or Titanium<br />
+&bull; Experience of SASS or LESS CSS pre-processors.<br />
+&bull; An understanding of UX and user interface design approaches, patterns and techniques</p>
+<p>
+About FanDuel</p>
+<p>
+Fanduel is a rapidly growing Venture funded start-up providing the next generation of web-based fantasy sports games. We run a game platform written in Java/PHP and hosted in Amazon&#39;s EC2 cloud. We provide a streamlined experience to our users across mobile and desktop sites in a 24/7 accessible environment at internet scale.<br />
+We recently won the Scottish Digital Technology Company of the year award. We focus on providing a dynamic place to work that aims at productivity but also ensuring that we offer a fun and enjoyable place to work.</p>
+<p>
+We pride ourselves on employee development both professional and personal.&nbsp; As we are growing at a phenomenal rate, the future career opportunities within FanDuel are vast. We employ people who are keen to develop their skills.&nbsp; You do not need to be a sports fan or have a background in games - your skillset and passion is what counts!</p>
+<p>
+Why work at FanDuel?</p>
+<p>
+&bull; Help create a fun product with a highly passionate userbase<br />
+&bull; Disrupt a big industry in a fast-growing, well-funded startup<br />
+&bull; Work in exciting, open and friendly culture<br />
+&bull; Collaborate with passionate colleagues who are the best at what they do<br />
+&bull; Enjoy a fun and social office environment in a great location (TechCube in the centre of Edinburgh)<br />
+&bull; Stock options for all employees</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/fanduel/sHTCN1"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120927083740_55NWTHPFDEUVEC9H]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Automated Test Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://fanduel.theresumator.com/apply/b5Fych/Automated-Test-Engineer.html]]></url>
+			<city><![CDATA[Edinburgh]]></city>
+			<state><![CDATA[Edinburgh]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EH8 9LE]]></postalcode>
+			<description><![CDATA[<p>
+FanDuel is a rapidly growing Venture funded start-up providing the next generation of web-based fantasy sports games. We run a game platform written in Java/PHP and hosted in Amazon&#39;s EC2 cloud. We provide a streamlined experience to our users across mobile and desktop sites in a 24/7 accessible environment at internet scale.<br />
+We recently won the Scottish Digital Technology Company of the year award. We focus on providing a dynamic place to work that aims at productivity but also ensuring that we offer a fun and enjoyable place to work.</p>
+<p>
+We pride ourselves on employee development both professional and personal.&nbsp; As we are growing at a phenomenal rate, the future career opportunities within FanDuel are vast. We employ people who are keen to develop their skills.&nbsp; You do not need to be a sports fan or have a background in games - your skillset and passion is what counts!</p>
+<p>
+We are currently looking to hire an experienced QA Engineer to join our team.&nbsp; You will be an integral part of the development team.&nbsp;&nbsp; You will ideally be educated to degree level in a relevant discipline and have solid commercial web application testing experience.<br />
+We are looking for an individual who has a combination of technical skills and the passion and drive to make a difference within FanDuel.<br />
+The following requirements are essential :<br />
+- Solid QA Testing experience using Agile practices and working as part of a SCRUM team.<br />
+- Experience of a range of white box and black box testing methods<br />
+- Commercial experience in the design, development and execution of QA Test Plans.<br />
+- Good breadth of knowledge in all stages of the Software Development Life Cycle<br />
+- Experience of writing automated functional, acceptance and regression test scripts<br />
+- Experience of manual and exploratory test methods for web applications<br />
+- Experience of leading and defining QA processes that will be adopted by the development team<br />
+- Ability to work with developers to plan scope of unit and integrations tests for test-driven development<br />
+The following skills are desirable:<br />
+- Continuous integration and build tools such as Jenkins, Ant, Puppet or Chef.<br />
+- Specific experience with functional web testing tools such as Selenium<br />
+Why work at FanDuel?<br />
+- Help create a fun product with a highly passionate userbase<br />
+- Disrupt a big industry in a fast-growing, well-funded startup<br />
+- Work in exciting, open and friendly culture<br />
+- Collaborate with passionate colleagues who are the best at what they do<br />
+- Enjoy a fun and social office environment in a great location (TechCube in the centre of Edinburgh)<br />
+- Stock options for all employees</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/fanduel/b5Fych"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130409110252_VFLJYUDN5AC4BGEF]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Systems Administrator / Dev Ops]]></title>
+			<department><![CDATA[IT]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://fanduel.theresumator.com/apply/y68wam/Senior-Systems-Administrator-Dev-Ops.html]]></url>
+			<city><![CDATA[Edinburgh]]></city>
+			<state><![CDATA[Edinburgh]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EH9 1PL]]></postalcode>
+			<description><![CDATA[<p>
+FanDuel is a rapidly growing Venture funded start-up providing the next generation of web-based<br />
+fantasy sports games. We run a game platform written in Java/PHP/Python and hosted in Amazon&#39;s AWS cloud. We provide a streamlined experience to our users across mobile and desktop sites in a 24/7accessible environment at internet scale.<br />
+We are looking for a top notch Developer Operations Engineer to join our platform team as soon as<br />
+possible out of our Edinburgh offices. You will help build and deploy our system infrastructure to meet<br />
+the challenging elastic scale requirements of our platform. Our ideal candidate is passionate about<br />
+automation, and is equally comfortable writing deployment scripts and debugging on the command line.<br />
+The areas of responsibility for this role will be:<br />
+- Build, deploy and manage systems on cloud services.<br />
+- Facilitate good working relationship with the development team.<br />
+- Build and maintain monitoring infrastructure.<br />
+- Recommend technology optimisations and process improvements.<br />
+- Drive infrastructure automation.<br />
+- Lead design and implementation for operation oriented projects.<br />
+- Maintain quality documentation of infrastructure and escalation procedures.<br />
+Essential skills and experience<br />
+- Deployments of 50+ servers in a cloud based environment, preferably AWS.<br />
+- Service monitoring and metrics gathering experience eg Nagios, Munin, Graphite.<br />
+- Securing PCI-compliant or similar financially sensitive servers.<br />
+- Using Chef/Puppet to effectively manage configuration.<br />
+- Linux systems administration and networking.<br />
+- Producing well-documented maintainable scripts in Python, Ruby or similar.<br />
+- Excellent communication skills, including documenting and defining requirements for systems.</p>
+<p>
+Nice to haves :<br />
+- MySQL and/or PostgreSQL configuration, replication, sharding and high availability setup.<br />
+- Complex clustered data solutions, eg Hadoop-based or other large NoSQL deployments.<br />
+- Redis configuration and high availability setup<br />
+- Continous deployment and management of Java system and Python/Django.<br />
+- Network security, PenTesting and system hardening.</p>
+<p>
+FanDuel is rapidly growing and this role is integral to our company.&nbsp; We pride ourselves on offering competitive salaries, a great benefits package and individual personal development. Our culture is relaxed with the option of remote working one day per week and is performance is based on productivity, hence flexible working hours.</p>
+<p>
+If you are looking for a new career challenge, please send your CV and we will be in touch.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/fanduel/y68wam"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130325132308_W7VWPGLAAN8FYUZI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Developer Operations Engineer]]></title>
+			<department><![CDATA[IT]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://fanduel.theresumator.com/apply/PtYOo1/Senior-Developer-Operations-Engineer.html]]></url>
+			<city><![CDATA[Edinburgh]]></city>
+			<state><![CDATA[Scotland]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EH9 1PL]]></postalcode>
+			<description><![CDATA[<p>
+We are a rapidly growing Venture funded start-up providing the next generation of web-based<br />
+fantasy sports games. We run a game platform written in Java/PHP/Python and hosted in Amazon&#39;s AWS cloud. We provide a streamlined experience to our users across mobile and desktop sites in a 24/7accessible environment at internet scale.<br />
+We are looking for a top notch Developer Operations Engineer to join our platform team as soon as<br />
+possible out of our Edinburgh offices. You will help build and deploy our system infrastructure to meet<br />
+the challenging elastic scale requirements of our platform. Our ideal candidate is passionate about<br />
+automation, and is equally comfortable writing deployment scripts and debugging on the command line.<br />
+The areas of responsibility for this role will be:<br />
+- Build, deploy and manage systems on cloud services.<br />
+- Facilitate good working relationship with the development team.<br />
+- Build and maintain monitoring infrastructure.<br />
+- Recommend technology optimisations and process improvements.<br />
+- Drive infrastructure automation.<br />
+- Lead design and implementation for operation oriented projects.<br />
+- Maintain quality documentation of infrastructure and escalation procedures.<br />
+Essential skills and experience<br />
+- Deployments of 50+ servers in a cloud based environment, preferably AWS.<br />
+- Service monitoring and metrics gathering experience eg Nagios, Munin, Graphite.<br />
+- Securing PCI-compliant or similar financially sensitive servers.<br />
+- Using Chef/Puppet to effectively manage configuration.<br />
+- Linux systems administration and networking.<br />
+- Producing well-documented maintainable scripts in Python, Ruby or similar.<br />
+- Excellent communication skills, including documenting and defining requirements for systems.</p>
+<p>
+Nice to haves :<br />
+- MySQL and/or PostgreSQL configuration, replication, sharding and high availability setup.<br />
+- Complex clustered data solutions, eg Hadoop-based or other large NoSQL deployments.<br />
+- Redis configuration and high availability setup<br />
+- Continous deployment and management of Java system and Python/Django.<br />
+- Network security, PenTesting and system hardening.</p>
+<p>
+FanDuel is rapidly growing and this role is integral to our company.&nbsp; We pride ourselves on offering competitive salaries, a great benefits package and individual personal development. Our culture is relaxed with the option of remote working one day per week and is performance is based on productivity, hence flexible working hours.</p>
+<p>
+If you are looking for a new career challenge, please send your CV and we will be in touch.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/fanduel/PtYOo1"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130507131224_UBBCUJIQPJ5YPQNZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Graduate Software Developer - Summer Placement 2013]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://fanduel.theresumator.com/apply/Dq1UT8/Graduate-Software-Developer-Summer-Placement-2013.html]]></url>
+			<city><![CDATA[Edinburgh]]></city>
+			<state><![CDATA[Scotland]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EH9 1PL]]></postalcode>
+			<description><![CDATA[<p>
+FanDuel is a rapidly growing Venture funded start-up providing the next generation of web-based<br />
+fantasy sports games. We run a game platform written in Java/PHP/Python and hosted in Amazon&#39;s AWS cloud. We provide a streamlined experience to our users across mobile and desktop sites in a 24/7accessible environment at internet scale.<br />
+We are one of Scotland&rsquo;s young dynamic technology companies. We are creating the next generation of fantasy sports and our instant-payoff, real money daily format is achieving explosive growth of 5x year-on-year. Having raised significant venture capital funding and approaching profitability we are well positioned to disrupt the existing fantasy sports industry and change the way millions of people experience sports.<br />
+We are currently hiring for a number of talented Software Developers Undergraduates to join us on a 3 or 6 month summer placement.<br />
+Our development team is split into 4 areas : Python, Java, PHP and Front End development with strong Javascript skills.<br />
+If you are currently an Undergraduate studying Computer Science ( or a similar discipline ) and are looking for a 3 or 6 month summer placement, we would love to hear from you.<br />
+You should be on track for at least a 2:1 or above and be interested in a career in software development.<br />
+You will work within the development team in an Agile environment and gain full exposure and training in a wide range of technologies.<br />
+You will help us deliver robust scalable services to support our business.</p>
+<p>
+<br />
+Why work at FanDuel?</p>
+<p>
+&bull; Create a fun product with a highly passionate userbase<br />
+&bull; Disrupt a big industry in a fast-growing, dynamic young company<br />
+&bull; Work in exciting, open and friendly culture<br />
+&bull; Collaborate with passionate colleagues who are the best at what they do<br />
+&bull; We invest in our team and adapt where possible to fulfill personal development goals and cover industry conference attendance<br />
+&bull; Enjoy a fun office environment (social sports, team dinners and drinks) in a great location (TechCube), with opportunities to travel to our US office in New York.<br />
+&bull; We offer great salaries, benefits packages, stock options, flexible working hours and regular social events<br />
+&bull; You do not need to be a sports fan or have a background in games - your skillset and passion is what counts!</p>
+]]></description>
+			<type><![CDATA[Internship]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/fanduel/Dq1UT8"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130516114710_ZLXJ2VSU6K6PEWH8]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[UI Designer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://fanduel.theresumator.com/apply/KH21Ji/UI-Designer.html]]></url>
+			<city><![CDATA[New York City]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[NY 10018]]></postalcode>
+			<description><![CDATA[<p>
+FanDuel is creating the next generation of fantasy sports. Our instant payoff, real money daily format is achieving explosive growth of 500% per year. Having raised $17m in venture capital funding and nearing profitability, we are well positioned to disrupt the existing fantasy sports industry and change the way millions of people experience sport.</p>
+<p>
+FanDuel is looking for an experienced visual designer to join their team and be responsible for designing an intuitive, beautiful and engaging user interface. The ideal candidate is someone that thrives in a fast-paced challenging environment, is committed to a polished, intuitive design, and has an exemplary portfolio of relevant creative work. As the visual designer, you&rsquo;ll work closely with the design and product team to develop your creative vision into a wonderful user experience.</p>
+<p>
+<strong>The role:</strong></p>
+<ul>
+<li>
+Translate discussions and concepts into leading designs and layouts</li>
+<li>
+Generate detailed specs along with final designs that allow developers to build accurately and deliver a highly polished final product</li>
+<li>
+Create a pixel perfect and beautiful UI that works across multiple screen sizes *Evangelize new interface guidelines and design patterns as well as recognising emerging UI trends</li>
+<li>
+Work closely with the product team to iterate on designs with integrated user feedback</li>
+<li>
+Help execute a style guide to make sure all elements work cohesively across all devices</li>
+<li>
+Create an interface that is consistent across web and native solutions *Create optimized graphical assets for production site, and translate designs into basic HTML and CSS</li>
+</ul>
+<p>
+<strong>You:</strong></p>
+<ul>
+<li>
+Are self-motivated, a good communicator, comfortable following direction, and able to balance great design with meeting short deadlines</li>
+<li>
+Communicate your ideas clearly and succinctly</li>
+<li>
+Come up with new ways to enhance the user experience across all platforms</li>
+<li>
+Thrive in a highly collaborative, fast-paced, agile environment</li>
+<li>
+Present a user-centered design perspective</li>
+<li>
+Are comfortable with an iterative design process that includes accepting and managing feedback and constructive criticism</li>
+</ul>
+<p>
+<strong>Experience:</strong></p>
+<ul>
+<li>
+A portfolio that demonstrates 2+ years of web/UI design experience for both desktop and mobile projects</li>
+<li>
+Experience in designing native iPhone and tablet applications</li>
+<li>
+Superior knowledge of Adobe Creative Suite</li>
+<li>
+Ability to create optimized graphical assets for production site</li>
+<li>
+Ability to translate designs into basic HTML and CSS</li>
+<li>
+Please send an online portfolio with your application<br />
+&nbsp;</li>
+</ul>
+<p>
+<strong>Why work at FanDuel?</strong></p>
+<p>
+Help shape a category-defining product for a highly passionate userbase Disrupt a big industry in a fast-growing, dynamic young company Work in exciting, open and friendly culture Collaborate with passionate colleagues who are the best at what they do We invest in our team and adapt where possible to fulfil personal development goals and cover industry conference attendance We offer great salaries, benefits packages, stock options, flexible working hours and regular social events</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/fanduel/KH21Ji"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130606091655_P30W1VGBNQ6G5LZL]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Customer Support / Fraud Agent]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://fanduel.theresumator.com/apply/Ag1Bor/Customer-Support-Fraud-Agent.html]]></url>
+			<city><![CDATA[New York City]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[NY 10003]]></postalcode>
+			<description><![CDATA[<p>
+FanDuel is recognized as the worlds leading daily fantasy sports game, and we are growing at a phenomenal rate. We&rsquo;re on our way to giving over $200m in prizes in 2013, launched tournaments that attract thousands of players and are scaling our team and operations to do more, faster!</p>
+<p>
+We are looking for an expert on fraud detection and analysis, particularly in the online gaming industry who also has a background in customer support - an incredible opportunity to get in on the ground floor of a rapidly growing, well-funded, start-up in the exciting fantasy sports industry.</p>
+<p>
+Job Overview:</p>
+<p>
+We pride ourselves on providing excellent customer service and you will help us set the standard for our rapidly growing community of avid users.&nbsp; Simultaneously, you will become our go-to on-site fraud analyst to monitor, track, report and prevent fraud.&nbsp; This is a hybrid position with time split approximately 50/50 between customer support and fraud.</p>
+<p>
+What we are looking for:<br />
+First and foremost you must be passionate about fantasy sports<br />
+Bachelor&rsquo;s degree in Business, information Systems, Finance, Risk Management preferred<br />
+3-5+ years experience in Internet fraud analysis and prevention<br />
+1-3+ years providing high touch online customer support<br />
+Extremely strong communications skills<br />
+Ability to think critically and quickly with a high attention to detail and strong analytical skills<br />
+Ability to multi-task with sense of urgency<br />
+Ability to work hours that include 5pm-1am Eastern Time and weekends to fit the US Pro sports schedule<br />
+Willingness to be on call 24x7 (at times)<br />
+Excellent professional references</p>
+<p>
+What you will be doing:</p>
+<p>
+The Fraud side...<br />
+Monitor, analyze and prevent all future credit card fraud<br />
+Handle all fraudulent inquiries and verifications<br />
+Manage all fraudulent user accounts<br />
+Approve and process all online withdrawals<br />
+Manage, report, action all credit card chargebacks<br />
+Evaluate, plan, execute new fraud program</p>
+<p>
+The Customer Support side...</p>
+<p>
+Resolve all user issues, questions, incidents, complaints, etc. in a timely and professional manner and to the complete satisfaction of the user<br />
+Understand the nature of user issues, interpret the complexities and escalate as appropriate to customer support and operations team members<br />
+Communicate user requests, needs and trends internally<br />
+Monitor for critical site issues and escalate appropriately<br />
+Monitor and moderate user chats</p>
+<p>
+About Us:</p>
+<p>
+FanDuel, Inc. (www.fanduel.com) is the world&rsquo;s fastest growing fantasy sports game and on it&rsquo;s way to becoming the new way to play fantasy sports. We are a fanatically passionate and dedicated team with a loyal and rapidly growing user-base. We have a proven business model, excellent product-market fit and the resources to become huge! Finally we are a great group to work with as we all share a common passion for sports, games and building a great company.</p>
+<p>
+Location: Manhattan, NY<br />
+Job Type: Full time<br />
+Compensation:&nbsp; Competitive Salary + Benefits and Options</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/fanduel/Ag1Bor"></script>]]></buttons>
+		</job>
+	</jobs>

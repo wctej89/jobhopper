@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[SalesLoft]]></company>
+			<job>
+			<id><![CDATA[job_20121213220355_ZSZYW4FRYFAC1VFY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Technical Startup Co-founder]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://salesloft.theresumator.com/apply/CuHpnb/Technical-Startup-Cofounder.html]]></url>
+			<city><![CDATA[Atlanta]]></city>
+			<state><![CDATA[GA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[30309]]></postalcode>
+			<description><![CDATA[<p>
+Run all of technology for the company. Be partner to the customer focused CEO.&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/salesloft/CuHpnb"></script>]]></buttons>
+		</job>
+	</jobs>

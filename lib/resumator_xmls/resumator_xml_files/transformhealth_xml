@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Transform Health]]></company>
+			<job>
+			<id><![CDATA[job_20130116051143_OZANCEECA6XUUVTQ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Hacker - SF or NY]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://transformhealth.theresumator.com/apply/7X6MMZ/Software-Hacker-SF-Or-NY.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10014]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Join us and Transform Health.</strong></p>
+<p>
+Transform Health is a young, venture-backed startup that works at the intersection of technology, design, and healthcare. We are transforming how people care for themselves and their families through elegant mobile software and unique mobile hardware products. These products also advance our overall mission: to create the world&rsquo;s first real-time map of human health.</p>
+<p>
+Our company&rsquo;s first product is a simple, ultra-low-cost <span class="GRcorrect" grcontextid="smartphone:0" grmarkguid="c8ef462b-0f26-45c2-b692-bae53f2dc131" gruiphraseguid="ea64a56f-b420-4114-b8ec-8e917a80a8aa">smartphone</span>-connected thermometer. Parents can easily capture their child&#39;s temperature, seek advice from a medical professional, compare symptoms to &quot;what&#39;s going around&quot; in the local area, and keep records of health issues. These connected devices &ndash; along with others &ndash; also help us create tools such as the <span class="GRcorrect" grcontextid="health:0" grmarkguid="273f4587-4075-4166-bb39-9b8844e88482" gruiphraseguid="3fc19064-90bc-4bb3-b1b0-cb464054a170">health</span> map, empowering local parents, physicians, and educators with information to help track and stop the spread of disease.</p>
+<p>
+Our founders and executives have collectively started several successful ventures, invented next-generation technologies, and led programs that have put millions of people onto life-saving treatment. We have a bold mission, a plan to achieve it, and the funding to make it happen. Join us.</p>
+<p>
+<strong>Who are we looking for?</strong></p>
+<p>
+We are looking for an outstanding software engineer to help us forever change the way people view their health. Our technology stack will include several of the following: Ruby on Rails, Hadoop, Post-GIS, Kafka, and Storm. We take a parallel and <span class="GRcorrect" grcontextid="real-time approach:0" grmarkguid="a69595f6-6394-45fe-b796-74c906c07fc4" gruiphraseguid="3f0d8b10-eeb6-4ce8-83bb-a60d0812e2a2">real-time approach</span> to analytics and data science.</p>
+<p>
+As an early employee and <span class="GRcorrect" grcontextid="core member:0" grmarkguid="f3913ab1-2dfe-4ad0-8166-75e46b2c781d" gruiphraseguid="7a00f4aa-0d17-495a-87be-f88fc73c3d03">core member</span> of our software team, you will play a significant role in the development of a unique product and platform.</p>
+<p>
+<strong>You should be interested in:</strong></p>
+<p>
+&bull; Using your skills to have a widespread impact on people (we are a mission-first company)<br />
+&bull; Rolling up your sleeves to tackle big technical challenges with a hypothesis-driven approach</p>
+<p>
+<strong>You will develop <span class="GRcorrect" grcontextid="our:0" grmarkguid="deeb1683-eb7b-4dfc-ad8a-973608dbb293" gruiphraseguid="fc5006e0-c7c7-4a37-9aee-897584bdffb4">our</span>:</strong></p>
+<p>
+&bull; Back-end &ldquo;health GIS&rdquo; platform that aggregates real-time data from partners &ndash; health and non-health data including real-time data feeds from major social media and location based companies &ndash; to derive insights on the spread of illness and wellness<br />
+&bull; Mobile software apps, which interact with various <span class="GRcorrect" grcontextid="smartphone:0" grmarkguid="7e8d4a00-3dad-49ea-8ad9-f7ff679c7a5d" gruiphraseguid="b9ad92d9-93cf-486c-84fa-fe278b3b6edf">smartphone</span>-connected medical hardware devices</p>
+<p>
+<strong>You should:</strong></p>
+<p>
+&bull; Be a great hacker and a brilliant coder, familiar with low level programming languages<br />
+&bull; Have a CS degree from a top tier school (masters degree preferred)<br />
+&bull; Have a record of exceeding expectations with <span class="GRcorrect" grcontextid="minimum:0" grmarkguid="2fc9d909-64f9-4cb0-aa99-ee0fa1e4f79a" gruiphraseguid="e88b0297-3e82-43c0-81d3-0001b4f6b952">minimum</span> of 2-3 years industry experience<br />
+&bull; Be active in the local software community (e.g., <span class="GRnoSuggestion GRcorrect" grcontextid="hackathons:0" grmarkguid="25ed269e-a3e2-4be8-919a-6c32f1898dfb" gruiphraseguid="2c76969b-5a44-4906-a5a4-e43706e694f5">hackathons</span>, <span class="GRcorrect" grcontextid="meetups:1" grmarkguid="a403e14e-1497-47d2-b6df-93bf20bfaf4d" gruiphraseguid="2c76969b-5a44-4906-a5a4-e43706e694f5">meetups</span>, <span class="GRcorrect" grcontextid="etc:2" grmarkguid="630cd524-e328-426c-b9ed-9b942bd22e45" gruiphraseguid="2c76969b-5a44-4906-a5a4-e43706e694f5">etc</span>)<br />
+&bull; Be willing to relocate to either SF or NY</p>
+<p>
+Please contact Inder Singh, our founder and CEO, directly: inder@transformhealth.me</p>
+<div id="wrchoverdiv" style="display: none; ">
+<div id="wrccontainer">
+<div id="wrcheader">
+<div id="wrctitle">
+<span class="GRnoSuggestion GRcorrect" grcontextid="WebRep:0" grmarkguid="adf3d7f1-a750-4084-ade3-a22e0320d8c0" gruiphraseguid="f580d195-4b1d-472e-80b7-499d3ecf4594">WebRep</span></div>
+</div>
+<div class="wrchorizontal">
+&nbsp;</div>
+<div id="wrccurrentvote">
+<span class="GRcorrect" grcontextid="currentVote:0" grmarkguid="bf14f2e7-7859-48f0-9f35-df263fb67545" gruiphraseguid="a879e617-5f01-45c4-a1ec-1ba740c4ffe6">currentVote</span></div>
+<div class="wrchorizontal">
+&nbsp;</div>
+<div id="wrcrating">
+&nbsp;</div>
+<div id="wrcratingtext">
+<span class="GRcorrect" grcontextid="noRating:0" grmarkguid="05590e2a-dd6c-4844-87ed-2f725b9b826f" gruiphraseguid="ec92436e-93cb-41f1-a0f5-d2dc608c0e0e">noRating</span></div>
+<div id="wrcweighttext">
+<span class="GRcorrect" grcontextid="noWeight:0" grmarkguid="add6615a-3121-4cf8-8f92-bffaee8d0a18" gruiphraseguid="77138b92-27ea-451a-aebb-d027c7c52eac">noWeight</span></div>
+<div id="wrcflags">
+<div class="wrcicon" id="wrcicon_shopping">
+&nbsp;</div>
+<div class="wrcicon" id="wrcicon_social">
+&nbsp;</div>
+<div class="wrcicon" id="wrcicon_news">
+&nbsp;</div>
+<div class="wrcicon" id="wrcicon_it">
+&nbsp;</div>
+<div class="wrcicon" id="wrcicon_corporate">
+&nbsp;</div>
+<div class="wrcicon" id="wrcicon_pornography">
+&nbsp;</div>
+<div class="wrcicon" id="wrcicon_violence">
+&nbsp;</div>
+<div class="wrcicon" id="wrcicon_gambling">
+&nbsp;</div>
+<div class="wrcicon" id="wrcicon_drugs">
+&nbsp;</div>
+<div class="wrcicon" id="wrcicon_illegal">
+&nbsp;</div>
+</div>
+<div class="wrchorizontal">
+&nbsp;</div>
+</div>
+</div>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/transformhealth/7X6MMZ"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130304145741_H47OO0CO6BTMOSZJ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Hardware Hacker (and Electrical Engineer) - SF or NY]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://transformhealth.theresumator.com/apply/ovlJmm/Hardware-Hacker-and-Electrical-Engineer-SF-Or-NY.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Join us and Transform Health.</strong></p>
+<p>
+Transform Health is a young, venture-backed startup that works at the intersection of technology, design, and healthcare. We are transforming how people care for themselves and their families through elegant mobile software and unique mobile hardware products. These products also advance our overall mission: to create the world&rsquo;s first real-time map of human health.</p>
+<p>
+Our company&rsquo;s first product is a simple, ultra-low-cost <span class="GRcorrect" grcontextid="smartphone:0" grmarkguid="574c8e6c-ede2-436e-a428-937b8c5501fb" gruiphraseguid="48f59e31-b1fb-427b-8992-f4e480527982">smartphone</span>-connected thermometer. Parents can easily capture their child&#39;s temperature, seek advice from a medical professional, compare symptoms to &quot;what&#39;s going around&quot; in the local area, and keep records of health issues. These connected devices &ndash; along with others &ndash; also help us create tools such as the <span class="GRcorrect" grcontextid="health:0" grmarkguid="b3e570ce-630e-46af-bba0-553c993964d5" gruiphraseguid="04c2e063-b056-4525-bc4a-a05a26840e69">health</span> map, empowering local parents, physicians, and educators with information to help track and stop the spread of disease.</p>
+<p>
+Our founders and executives have collectively started several successful ventures, invented next-generation technologies, and led programs that have put millions of people onto life-saving treatment. We have a bold mission, a plan to achieve it, and the funding to make it happen. Join us.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Who are we looking for?</strong></p>
+<p>
+We are looking for an outstanding electrical engineer and hardware hacker to help us forever change the way people view their health. As an early employee and <span class="GRcorrect" grcontextid="core member:0" grmarkguid="ed0d4a9f-751f-4dfd-ba1c-33d0437a89d6" gruiphraseguid="0f21057a-a52c-499b-9559-26e2db54f731">core member</span> of the team, you will help define the company culture, evangelize Transform Health to the local startup community, and play a significant role in the development of a unique product and platform.</p>
+<p>
+<strong>You should be interested in:</strong></p>
+<p>
+&bull; Using your skills to have a widespread impact on people (we are a mission-first company)<br />
+&bull; Rolling up your sleeves to tackle big technical challenges with a hypothesis-driven approach<br />
+&bull; Working closely with our existing small team of electrical and mechanical engineers</p>
+<p>
+<strong>You will develop:</strong></p>
+<p>
+A suite of <span class="GRcorrect" grcontextid="smartphone:0" grmarkguid="0fa481e3-0f56-4e15-9ab1-0406bf7ba1ba" gruiphraseguid="2d7d7f07-1100-4591-a9cb-a76463e1f0a4">smartphone</span>-connected hardware devices ensuring elegant, simple and low-cost designs that are compatible with existing and future generations of mobile devices</p>
+<p>
+<strong>You should be:</strong></p>
+<p>
+&bull; A great electrical engineer and hardware hacker with a knack for elegant design and a deep interest in leveraging the <span class="GRcorrect" grcontextid="smartphone:0" grmarkguid="a92b56de-42c9-4ca3-a6d6-d49d4f8537f2" gruiphraseguid="ffc4884a-ddb1-4ec0-9df4-5a048bbddb18">smartphone</span> to create connected devices<br />
+&bull; Knowledgeable (or willing to rapidly learn from our team) about the software-hardware integration challenges of connecting a device to a <span class="GRcorrect" grcontextid="smartphone:0" grmarkguid="4aef96c7-52e0-4d7b-bc50-71d37a2209fd" gruiphraseguid="75e392b6-9c82-4dec-aa3c-c6584e237812">smartphone</span><br />
+&bull; Smart with strong problem solving skills and analytical techniques in hardware and firmware<br />
+&bull; Experience designing accessories for mobile devices (<span class="GRcorrect" grcontextid="iOS:0" grmarkguid="f3072dea-cfe7-4754-9959-a55ddf02da9a" gruiphraseguid="ed7cff7b-5f91-4896-8096-72e422d2cfea">iOS</span> and Android) a huge plus<br />
+&bull; Medical industry and FDA experience a big plus<br />
+&bull; Active in the local startup community (e.g., <span class="GRnoSuggestion GRcorrect" grcontextid="hackathons:0" grmarkguid="3ab18ab3-5ae6-4148-acf4-76a606047b6f" gruiphraseguid="f530800b-50ac-42d1-ada6-5a95287f28ef">hackathons</span>, <span class="GRcorrect" grcontextid="meetups:1" grmarkguid="0fd27782-e070-4233-bc3c-a017ed8de664" gruiphraseguid="f530800b-50ac-42d1-ada6-5a95287f28ef">meetups</span>, <span class="GRcorrect" grcontextid="etc:2" grmarkguid="27c1b6ac-1a49-46a3-ae11-561723900946" gruiphraseguid="f530800b-50ac-42d1-ada6-5a95287f28ef">etc</span>)<br />
+&bull; Willing to live in SF or NY</p>
+<p>
+Please contact Inder Singh, our founder and CEO, directly: inder@transformhealth.me.</p>
+<div id="wrchoverdiv" style="display: none; ">
+<div id="wrccontainer">
+<div id="wrcheader">
+<div id="wrctitle">
+<span class="GRnoSuggestion GRcorrect" grcontextid="WebRep:0" grmarkguid="5606f5f4-e625-4e75-ab61-08eb5fa11467" gruiphraseguid="b337cd89-e791-46d0-9917-993ccb8ce095">WebRep</span></div>
+</div>
+<div class="wrchorizontal">
+&nbsp;</div>
+<div id="wrccurrentvote">
+<span class="GRcorrect" grcontextid="currentVote:0" grmarkguid="4d1c1cb4-6d54-41ee-a63f-b530250967eb" gruiphraseguid="1fa90201-5b0a-463b-a3ab-2903e416396a">currentVote</span></div>
+<div class="wrchorizontal">
+&nbsp;</div>
+<div id="wrcrating">
+&nbsp;</div>
+<div id="wrcratingtext">
+<span class="GRcorrect" grcontextid="noRating:0" grmarkguid="414da584-b210-4411-89d5-29d9b6febf60" gruiphraseguid="ce570ca9-f3c3-4fc3-a786-f3c49d2b9cba">noRating</span></div>
+<div id="wrcweighttext">
+<span class="GRcorrect" grcontextid="noWeight:0" grmarkguid="01766b4c-9ba7-4711-b92e-51abc4657a57" gruiphraseguid="8c413df7-7020-479b-a31e-df5b2081a8f6">noWeight</span></div>
+<div id="wrcflags">
+<div class="wrcicon" id="wrcicon_shopping">
+&nbsp;</div>
+<div class="wrcicon" id="wrcicon_social">
+&nbsp;</div>
+<div class="wrcicon" id="wrcicon_news">
+&nbsp;</div>
+<div class="wrcicon" id="wrcicon_it">
+&nbsp;</div>
+<div class="wrcicon" id="wrcicon_corporate">
+&nbsp;</div>
+<div class="wrcicon" id="wrcicon_pornography">
+&nbsp;</div>
+<div class="wrcicon" id="wrcicon_violence">
+&nbsp;</div>
+<div class="wrcicon" id="wrcicon_gambling">
+&nbsp;</div>
+<div class="wrcicon" id="wrcicon_drugs">
+&nbsp;</div>
+<div class="wrcicon" id="wrcicon_illegal">
+&nbsp;</div>
+</div>
+<div class="wrchorizontal">
+&nbsp;</div>
+</div>
+</div>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/transformhealth/ovlJmm"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130304150033_ECKF8FVGSTM4VSAI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Lead Electrical Engineer (Hardware/Firmware) - SF or NY]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://transformhealth.theresumator.com/apply/avjBWU/Lead-Electrical-Engineer-HardwareFirmware-SF-Or-NY.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Join us and Transform Health.</strong></p>
+<p>
+Transform Health is a young, venture-backed startup that works at the intersection of technology, design, and healthcare. We are transforming how people care for themselves and their families through elegant mobile software and unique mobile hardware products. These products also advance our overall mission: to create the world&rsquo;s first real-time map of human health.</p>
+<p>
+Our company&rsquo;s first product is a simple, ultra-low-cost <span class="GRcorrect" grcontextid="smartphone:0" grmarkguid="c42c7758-4057-4c46-b3a2-22810d689915" gruiphraseguid="6cefb2ae-3b1a-45a0-a388-6654889b83b7">smartphone</span>-connected thermometer. Parents can easily capture their child&#39;s temperature, seek advice from a medical professional, compare symptoms to &quot;what&#39;s going around&quot; in the local area, and keep records of health issues. These connected devices &ndash; along with others &ndash; also help us create tools such as the <span class="GRcorrect" grcontextid="health:0" grmarkguid="041c1318-b555-41e7-bbcc-7bfacd119587" gruiphraseguid="a9af0646-8068-44e3-84e4-ca4842106b8b">health</span> map, empowering local parents, physicians, and educators with information to help track and stop the spread of disease.</p>
+<p>
+Our founders and executives have collectively started several successful ventures, invented next-generation technologies, and led programs that have put millions of people onto life-saving treatment.&nbsp; We have a bold mission, a plan to achieve it, and the funding to make it happen. Join us.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Who are we looking for?</strong></p>
+<p>
+We are looking for an outstanding electrical engineer and hardware hacker to help us forever change the way people view their health. As an early employee and senior member of the team, you will help define the company culture, evangelize Transform Health to the local startup community, and steer the development of a unique product and platform.</p>
+<p>
+You will drive the development of a suite of <span class="GRcorrect" grcontextid="smartphone:0" grmarkguid="64ca8a96-003c-4388-ad79-a0d8e335a43f" gruiphraseguid="670e08cf-21ae-4a93-9593-40a8d74497fc">smartphone</span>-connected hardware devices, ensuring elegant, simple, and low-cost designs that are compatible with existing and future generations of mobile devices.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>You should be interested in:</strong></p>
+<p>
+&bull; Using your skills to have a widespread impact on people (we are a mission-first company)<br />
+&bull; Taking on a leadership role in the company<br />
+&bull; Rolling up your sleeves to tackle big technical challenges with a hypothesis-driven approach<br />
+&bull; Working with our existing small team of electrical and mechanical engineers<br />
+&bull; Elegant design and leveraging the <span class="GRcorrect" grcontextid="smartphone:0" grmarkguid="6ca16f18-5edf-4dfa-a1af-20008149e112" gruiphraseguid="1c05c99c-0b5f-4b3d-b507-327ad0b20e64">smartphone</span> to create connected devices</p>
+<p>
+<b>You should have:</b></p>
+<div id="wrchoverdiv" style="display: none; ">
+<div id="wrccontainer">
+<div id="wrcheader">
+<div id="wrctitle">
+<span class="GRnoSuggestion GRcorrect" grcontextid="WebRep:0" grmarkguid="10ad0a34-99ff-48cd-966d-40fa2cdd79d1" gruiphraseguid="99427b20-aa86-4cfd-8d9e-996ef320e68b">WebRep</span></div>
+</div>
+<div class="wrchorizontal">
+&nbsp;</div>
+<div id="wrccurrentvote">
+<span class="GRcorrect" grcontextid="currentVote:0" grmarkguid="30be7787-d7a5-4665-9770-33e5f4224b8d" gruiphraseguid="58c4986b-e636-453c-9130-12f1aa29e493">currentVote</span></div>
+<div class="wrchorizontal">
+&nbsp;</div>
+<div id="wrcrating">
+&nbsp;</div>
+<div id="wrcratingtext">
+<span class="GRcorrect" grcontextid="noRating:0" grmarkguid="4232c072-5f01-4d1d-aab8-aafe2f052329" gruiphraseguid="07059ed4-da69-4c37-9134-80fc0fbfe128">noRating</span></div>
+<div id="wrcweighttext">
+<span class="GRcorrect" grcontextid="noWeight:0" grmarkguid="3cf510f8-8ed4-4fb7-8ccc-f4f62f6aaee3" gruiphraseguid="6031d237-d6a2-4050-a0bd-9dbae5a018e1">noWeight</span></div>
+<div id="wrcflags">
+<div class="wrcicon" id="wrcicon_shopping">
+&nbsp;</div>
+<div class="wrcicon" id="wrcicon_social">
+&nbsp;</div>
+<div class="wrcicon" id="wrcicon_news">
+&nbsp;</div>
+<div class="wrcicon" id="wrcicon_it">
+&nbsp;</div>
+<div class="wrcicon" id="wrcicon_corporate">
+&nbsp;</div>
+<div class="wrcicon" id="wrcicon_pornography">
+&nbsp;</div>
+<div class="wrcicon" id="wrcicon_violence">
+&nbsp;</div>
+<div class="wrcicon" id="wrcicon_gambling">
+&nbsp;</div>
+<div class="wrcicon" id="wrcicon_drugs">
+&nbsp;</div>
+<div class="wrcicon" id="wrcicon_illegal">
+&nbsp;</div>
+</div>
+<div class="wrchorizontal">
+&nbsp;</div>
+</div>
+</div>
+<p>
+&bull; A minimum <span class="GRcorrect" grcontextid="B.:0" grmarkguid="5e16cf70-2023-4cbd-a4e0-de450105f922" gruiphraseguid="8bfcce9d-a6fc-466b-a90c-8b2b69e2cea9">B.</span>Sc in EECS or equivalent with at least 10 years experience in hardware and firmware engineering of high volume consumer electronics<br />
+&bull; Excellent written and verbal communication and interpersonal skills<br />
+&bull; Expertise in low-power consumer electronics hardware circuitry design<br />
+&bull; Strong firmware experience with C<br />
+&bull; Extensive experience with oscilloscopes, logic analyzers, in-circuit-emulators and other debug tools<br />
+&bull; Proven success with new product development and launch into <span class="GRcorrect" grcontextid="marketplace:0" grmarkguid="046a535e-ef29-4d22-87a0-60c55716c0f1" gruiphraseguid="756dd644-9756-4d7e-a320-f6157b41e0dd">marketplace</span><br />
+&bull; Hands-on knowledge working with international ODM/OEM vendors (preferably in China)<br />
+&bull; Strong problem solving skills and analytical techniques in hardware and firmware<br />
+&bull; Experience designing accessories for mobile devices (<span class="GRcorrect" grcontextid="iOS:0" grmarkguid="40cae3ce-d1ed-4b1a-acf2-ecdf199acf7d" gruiphraseguid="8e57ee4a-44be-4b06-bc58-31fff222c034">iOS</span> and Android) a huge plus<br />
+&bull; Medical industry and FDA experience a big plus</p>
+<p>
+Please contact Inder Singh, our founder and CEO, directly: inder@transformhealth.me.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/transformhealth/avjBWU"></script>]]></buttons>
+		</job>
+	</jobs>

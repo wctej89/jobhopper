@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Roadtrippers]]></company>
+			<job>
+			<id><![CDATA[job_20130522043555_EZEQ84X1WP0E1SOR]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Developer (Ruby on Rails / Backbone.js)]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://roadtrippers.theresumator.com/apply/WVrrkx/Web-Developer-Ruby-On-Rails-Backbonejs.html]]></url>
+			<city><![CDATA[Cincinnati]]></city>
+			<state><![CDATA[OH]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[45202]]></postalcode>
+			<description><![CDATA[<p>
+<b>Description</b></p>
+<p>
+Roadtrippers is looking for software developers to help us build solutions to fragmentation problems in road travel planning. You will be developing key features of our web application.</p>
+<p>
+<strong>What is Roadtrippers?</strong></p>
+<p>
+Roadtrippers is a fast growing, venture funded startup based in OTR, Cincinnati. Our engaging map based web and mobile experience helps road travelers discover, plan and book the best places and experiences, curated by local experts and travel writers.</p>
+<p>
+<strong>You need:</strong></p>
+<ul>
+<li>
+Experience with full stack web development and versatile across client, server and database</li>
+<li>
+Passion for building an awesome consumer facing product, used by thousands every day</li>
+<li>
+Rampant hunger for learning, self improvement and willingness to accept constructive criticism</li>
+<li>
+A good sense of humor &amp; healthy enjoyment of chilled malt beverages :)<br />
+&nbsp;</li>
+</ul>
+<p>
+<strong>Technologies we use:</strong></p>
+<p>
+You don&#39;t need to know it all (in fact we&#39;d prefer you didn&#39;t), but the more you know, the better...</p>
+<ul>
+<li>
+Ruby on Rails</li>
+<li>
+Backbone.js</li>
+<li>
+CoffeeScript / JavaScript</li>
+<li>
+MongoDB / NoSQL</li>
+<li>
+PostgreSQL</li>
+<li>
+CSS (SASS/SCSS)</li>
+<li>
+Google Maps API</li>
+<li>
+Testing frameworks: Cucumber / RSpec / Jasmine</li>
+</ul>
+<p>
+<strong>And bonus points if you can check off any of these:</strong></p>
+<ul>
+<li>
+Single page web apps</li>
+<li>
+Geo Spatial / GIS data</li>
+<li>
+iOS / Mobile</li>
+<li>
+Chef / Puppet / DevOps</li>
+<li>
+beat Brandon in foosball<br />
+&nbsp;</li>
+</ul>
+<p>
+<strong>Reasons to join us:</strong></p>
+<ul>
+<li>
+To work from a 19th century brewery building in Cincinnati&#39;s OTR brewery district.</li>
+<li>
+To build something real people use, that will change the travel industry.</li>
+<li>
+To join a great team of people in an awesome work environment.</li>
+<li>
+To enjoy free snacks and drinks in a casual work environment.</li>
+<li>
+To work harder &amp; faster than you&#39;ve ever worked before.</li>
+<li>
+To see the direct benefits of your work, every single day.</li>
+<li>
+To have the freedom to use new technologies.</li>
+<li>
+To get a share in something that will be huge.</li>
+<li>
+To get free team lunch every week.</li>
+<li>
+To escape the corporate machine.</li>
+<li>
+To enjoy unlimited vacation.</li>
+<li>
+To have fun!</li>
+</ul>
+<p>
+<b>Please send us</b> your resume, and any of the following that are applicable: github profile, twitter handle, blog url, etc. (Anything that helps us learn more about what makes you tick.) Also, tell us a bit about the work you&#39;ve done that you&#39;re most proud of, excited about, and what you&#39;d like to accomplish next. Be sure to include: your expected salary range, any special considerations and your earliest possible start date.<br />
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/roadtrippers/WVrrkx"></script>]]></buttons>
+		</job>
+	</jobs>

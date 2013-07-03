@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[SaaS Markets]]></company>
+			<job>
+			<id><![CDATA[job_20130306005233_PGZPRIDC45QRY6VU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Relationship Manager]]></title>
+			<department><![CDATA[Application Partner Team]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://saasmarkets.theresumator.com/apply/jCwghi/Relationship-Manager.html]]></url>
+			<city><![CDATA[San Mateo]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94402]]></postalcode>
+			<description><![CDATA[<p>
+Job Description</p>
+<p>
+SaaS Markets is looking for an organized and versatile Relationship Manager to interact with our large network of SaaS (Software-as-a-Service) application providers. You&rsquo;ll be working as an integral part of the Application Partner Team to ensure effective communication with our rapidly expanding base of partners.&nbsp; As a member of our Application Partner Team, you will be responsible for providing timely support to our application partners, as they contact our team for questions about their profiles, billing, etc.&nbsp; In addition to managing this communication, you will also be responsible for informing them of upcoming system and network enhancements, as well as profile enhancements.&nbsp; You will be required to work closely with the members of the Application Partner Team, as well as the SaaS Markets Sales and Telesales Teams.&nbsp;</p>
+<p>
+We have thousands of SaaS application partners, who are periodically updating their profiles with us on the SaaS Commerce Network&trade; (i.e. the network of SaaS app stores that we operate).&nbsp; We need an organized, outgoing, and energetic person to join our San Mateo, CA team to liaise with our application partner providers located around the world.&nbsp; This role is a relationship management role that requires phone and internet based activities to support our partners.&nbsp; You will also be required to ensure you are fully-networked into the SaaS community, aware of market trends, and excited about working in the most dynamic sector of the global software industry.</p>
+<p>
+Daily tasks will include, but not be limited to:</p>
+<p>
+- Analysis of SaaS company marketplace for trends and &#39;what&rsquo;s happening today&#39; information<br />
+- Guiding SaaS application partners on how to update their online profiles<br />
+- Reviewing and responding to email queries from SaaS application partners<br />
+- Occasional attendance at trade shows / exhibitions representing SaaS Markets<br />
+- Follow up calls to SaaS application partners considering participation in our network of app stores<br />
+- Advising SaaS application partners of the range of services SaaS Markets can provide to them<br />
+- Keeping SaaS application partners informed of all press releases and new service developments<br />
+- Liaise with fellow Application Partner Team members and Sales Department members<br />
+- Utilize the Salesforce.com, CRM and case management platform</p>
+<p>
+Desired Skills &amp; Experience</p>
+<p>
+SaaS market knowledge, a personable and self-driven attitude, natural relationship management skills, (note this is not a telesales role, however, the ability to &#39;sell&#39; the company is required from every employee), entrepreneurial,&nbsp; great work ethic, web savvy,&nbsp; a self-starter, strong research skills, strong verbal communication skills, customer focused, great product knowledge, problem solver, and a team player.</p>
+<p>
+Company Description</p>
+<p>
+SaaS Markets&trade; http://saasmarkets.com/ is a well-funded and exciting startup, focused on the global Software-as-a-Service (SaaS) market. We provide app store technology (and a range of selected services) to blue chip companies across the USA and Europe.&nbsp; We work with thousands of SaaS companies who sell their applications through our global app store network in 23 different countries.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/saasmarkets/jCwghi"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130104185354_NKTKWEXBQMJXIDBH]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Application Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://saasmarkets.theresumator.com/apply/ItXKaV/Web-Application-Developer.html]]></url>
+			<city><![CDATA[San Mateo]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94402]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Position: Web Application Developer</strong><br />
+Location: San Mateo, CA<br />
+Salary: Open and flexible depending on experience<br />
+Experience: 5+ years<br />
+Education: BS/MS CS or related field</p>
+<p>
+<strong>The company: </strong>SaaS Markets. We are setting the pace for the rapidly<br />
+emerging markets of creating App Stores for small and medium sized<br />
+businesses shopping for SaaS applications and the creation of<br />
+enterprise app stores. We are building a SaaS platform to support the<br />
+rapid growth that we are experiencing in this marketplace.</p>
+<p>
+<strong>Role:</strong><br />
+We are looking for experienced developers who can come in and take<br />
+ownership of significant portions of the system and hit the ground running!<br />
+You will bring our interface designs to life and make them exciting and fun<br />
+to interact with across a broad range of browsers and devices.<br />
+We are creating a new platform to support large scale, multi-tenanted applications<br />
+and need expertise in building compelling application storefronts and comparison<br />
+shopping interfaces. You will be in that critical role between the graphic designers<br />
+and the server engineers, taking wireframes and mocks and using your<br />
+knowledge of JS, CSS, tag libraries and web development to make<br />
+beautiful, responsive, and dynamic interfaces.</p>
+<p>
+<br />
+<strong>Technical skills</strong></p>
+<p>
+<strong>Required:</strong></p>
+<ul>
+<li>
+Expert Javascript and 3rd party Javascript libraries: jQuery, Boostrap, JQuery-UI, jQuery Databases, etc.</li>
+<li>
+Advanced HTML/HTML5, CSS/CSS3, AJAX, JSON, XML, Oauth, sencha, etc.</li>
+<li>
+Solid knowledge of and experience with tag libraries, including JSP, GSP, Spring, etc.</li>
+<li>
+Experience using browser development tools : Chrome Dev Tools and Firebug / Firefox Dev Tools</li>
+<li>
+Ability to create modern web interfaces that work across a broad range of browser/OS/device targets</li>
+<li>
+Familiarity with application interaction, interface &amp; responsive design</li>
+<li>
+Ability to work as a member of a development team (i.e. graphic designers, server engineers, product team, etc.)</li>
+</ul>
+<p>
+<strong>Bonus Points:</strong></p>
+<ul>
+<li>
+Knowledge of Groovy, Java, Grails, PHP</li>
+<li>
+Understanding (and love) of Git</li>
+<li>
+Proponent of Agile methodologies and experience with Scrum</li>
+<li>
+Bring your tool bag of technologies and techniques and make us smarter!</li>
+</ul>
+<p>
+<strong>How to Apply:</strong></p>
+<p>
+Applications without cover letters will not be considered. We need people who can communicate in code and in English.&nbsp; Write whatever you like, but we&#39;d prefer it if you could explain why you are excited to join a startup and/or tell us about something you&#39;ve done you are particularly proud of.</p>
+<p>
+We are an equal opportunity employer. Local San Francisco Bay Area candidates only. Principals only.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/saasmarkets/ItXKaV"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130104201628_MZ5AJCV2CXWJ9VGY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Groovy on Grails Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://saasmarkets.theresumator.com/apply/nNrvje/Groovy-On-Grails-Developer.html]]></url>
+			<city><![CDATA[San Mateo]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94402]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Position:&nbsp;</strong><strong>Object-Oriented Developer ~ Java, Groovy, Grails</strong><br />
+Location: San Mateo, CA<br />
+Salary: Open and flexible depending on experience<br />
+Experience: 5+ years<br />
+Education: BS/MS CS or related field</p>
+<p>
+<strong>The company: </strong>SaaS Markets. We are setting the pace for the rapidly<br />
+emerging markets of creating App Stores for small and medium sized<br />
+businesses shopping for SaaS applications and the creation of<br />
+enterprise app stores. We are building a SaaS platform to support the<br />
+rapid growth that&nbsp;we are experiencing in this marketplace.</p>
+<p>
+<strong>Role:</strong><br />
+We are looking for experienced developers who can come in and take<br />
+ownership of significant portions of the system and hit the ground running!<br />
+You will write elegant, maintainable, reusable code in Groovy, Grails and<br />
+Java. We are creating a new platform to support large scale, multi-tenanted<br />
+applications and need expertise in building out the framework and APIs<br />
+to support an evolving set of customer needs.</p>
+<p>
+<br />
+<strong>Technical skills</strong></p>
+<p>
+<strong>Required:</strong></p>
+<p>
+<strong>Strong skills in Groovy/Grails, XML/JSON REST use and development, Web services</strong></p>
+<ul>
+<li>
+Strong skills in Java programming, Java design patterns and server side Java</li>
+<li>
+Experience with Spring Framework, Hibernate, JPA</li>
+<li>
+Strong experience with object-oriented analysis, design and programming&nbsp;&nbsp;</li>
+<li>
+Caching (memcached, ehcache, etc)</li>
+<li>
+Relational Databases (Postgres, MySQL, etc)</li>
+<li>
+Cloud based Linux servers as deployment environment</li>
+<li>
+Experience building software that&rsquo;s successfully deployed and running at scale.</li>
+</ul>
+<p>
+<strong>Bonus Points:</strong></p>
+<ul>
+<li>
+Hadoop, &quot;big data&quot; analysis</li>
+<li>
+NoSQL (MongoDB, Cassandra, etc)</li>
+<li>
+Understanding (and love) of Git</li>
+<li>
+Proponent of Agile methodologies and experience with Scrum</li>
+</ul>
+<p>
+<strong>How to Apply:</strong></p>
+<p>
+Applications without cover letters will not be considered. We need people who can communicate in code and in English.&nbsp; Write whatever you like, but we&#39;d prefer it if you could explain why you are excited to join a startup and/or tell us about something that you&#39;ve done that you are particularly proud of.</p>
+<p>
+We are an equal opportunity employer. Local SF Bay Area candidates only. Principals only - no recruiters/agencies.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/saasmarkets/nNrvje"></script>]]></buttons>
+		</job>
+	</jobs>

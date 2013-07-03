@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Momox]]></company>
+			<job>
+			<id><![CDATA[job_20100413221850_TAII9DGRWZQBCO6B]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[TEst]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://momox.theresumator.com/apply/xzakj1/TEst.html]]></url>
+			<city><![CDATA[test]]></city>
+			<state><![CDATA[ID]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[12345]]></postalcode>
+			<description><![CDATA[<p>Test</p>]]></description>
+			<type><![CDATA[Seasonal]]></type>
+			<experience><![CDATA[Executive]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/momox/xzakj1"></script>]]></buttons>
+		</job>
+	</jobs>

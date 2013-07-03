@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Fanattac]]></company>
+			<job>
+			<id><![CDATA[job_20120221050910_TTD3KGWFXASZXMUG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[UI Engineer - Front End Developer]]></title>
+			<department><![CDATA[Design]]></department>
+			<team><![CDATA[Fanattac]]></team>
+			<url><![CDATA[http://fanattac.theresumator.com/apply/UEfiER/UI-Engineer-Front-End-Developer.html]]></url>
+			<city><![CDATA[Los Angeles]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90046]]></postalcode>
+			<description><![CDATA[<p>
+	This is an outstanding opportunity to work with an exciting, Los Angeles-based social media start-up in the music vertical.&nbsp; We are about to emerge from stealth mode, recently funded and are rapidly growing our team. We are looking for a seasoned UI Engineer/Front-End Developer to join our team of experienced engineers. This role will be responsible for leading the design and development complex User Interfaces. If you are a Front-End expert, then this may be a position for you!</p>
+<p>
+	We are looking for a comprehensive background with the following</p>
+<p>
+	- JavaScript expertise<br />
+	- XHTML, CSS<br />
+	- AJAX<br />
+	- PHP<br />
+	- Expertise in Adobe Photoshop, Illustrator, and InDesign<br />
+	- Solid experience with modern communication media, social networking, and search engine marketing<br />
+	- eCommerce experience a plus<br />
+	- Experience with online games helpful</p>
+]]></description>
+			<type><![CDATA[Part Time to Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/fanattac/UEfiER"></script>]]></buttons>
+		</job>
+	</jobs>

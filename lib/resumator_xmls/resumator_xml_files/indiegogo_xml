@@ -1,0 +1,366 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Indiegogo]]></company>
+			<job>
+			<id><![CDATA[job_20110830140654_KGADQ4N10ZHXULAN]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Rails Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://indiegogo.theresumator.com/apply/I8dsl1/Senior-Rails-Developer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94109]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Our Story</strong></p>
+<p>
+	IndieGoGo is a rapidly growing organization, based in San Francisco. Our platform is used by people all over the world to raise money for creative projects, businesses and causes. Millions of dollars have been contributed to over 30 thousand funding campaigns in over 200 countries.</p>
+<p>
+	Our customers are passionate about their funding campaigns, and so are we.</p>
+<p>
+	<strong>Ideal Person</strong></p>
+<p>
+	We are looking to expand from three engineers to a five person team that will serve as a foundation for continued product and company growth. The Senior Developer will be a development heavy position, and will have the dual role of developing great new functionality while at the same time diligently chipping away at the imperfections of the existing codebase.</p>
+<p>
+	We have two products implemented in Ruby on Rails (indiegogo.com and distribber.com), which run on Nginx/Passenger with a MySQL back end. The front end is HTML, CSS, and JavaScript. Development projects are tracked using Pivotal Tracker and Git. Test coverage needs some attention and is based in RSpec/Cucumber.</p>
+<p>
+	<strong>Objectives &amp; Responsibilities:</strong></p>
+<ul>
+	<li>
+		Become an expert of the codebase, and design, build and test new features</li>
+	<li>
+		Diligently chip away at the imperfections of the existing codebase and improve test coverage</li>
+	<li>
+		Be a mentor to our future engineers, ensuring that they are continuously learning and growing</li>
+	<li>
+		Investigate new technologies and make recommendations on changes to the existing infrastructure</li>
+	<li>
+		For the first 6 to 12 months, this position will be very development heavy</li>
+	<li>
+		Subsequently, there is the opportunity for more leadership as we continue to grow the team and the need for a senior Lead Architect position emerges</li>
+</ul>
+<p>
+	<strong>Required skills and experience:</strong></p>
+<ul>
+	<li>
+		Around 5 years experience building web applications, preferably with experience with Ruby on Rails</li>
+	<li>
+		Hands on involvement with automated testing methodologies in a Ruby on Rails (or similar) environment</li>
+	<li>
+		Experience in a small startup or similar multidisciplinary team environment</li>
+	<li>
+		Experience working in a senior position within a development team</li>
+</ul>
+<p>
+	<strong>We are looking for engineers that:</strong></p>
+<ul>
+	<li>
+		Have attention to detail and take pride in the products they develop</li>
+	<li>
+		Are confident of their abilities but also willing to compromise and adapt</li>
+	<li>
+		Can quickly cut through the static and focus on the core of a given problem</li>
+	<li>
+		Are involved in their community -- professional and otherwise</li>
+</ul>
+<p>
+	<strong>Compensation &amp; Benefits</strong></p>
+<ul>
+	<li>
+		Competitive start-up salary plus equity</li>
+	<li>
+		Health insurance, technology reimbursement and other cool perks</li>
+	<li>
+		Opportunity to work on a fun set of products that help people make their dreams come true!</li>
+</ul>
+<p>
+	<br />
+	<strong>Interested? Feel like a fit?</strong></p>
+<p>
+	I want to hear from you. Please send me your resume with a note about:</p>
+<ul>
+	<li>
+		What excites you about IndieGoGo and this role?</li>
+	<li>
+		What campaign you&#39;d launch (or want to support) if you were to come on board? (we love it when our team members get involved with campaigns too)&nbsp;</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/indiegogo/I8dsl1"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110830140900_GSVQQJUPXVEAW5NQ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Junior Rails Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://indiegogo.theresumator.com/apply/ThV2tK/Junior-Rails-Developer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94109]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Our Story</strong></p>
+<p>
+	IndieGoGo is a rapidly growing organization, based in San Francisco. Our platform is used by people all over the world to raise money for creative projects, businesses and causes. Millions of dollars have been contributed to over 25 thousand funding campaigns in over 200 countries.</p>
+<p>
+	Our customers are passionate about their funding campaigns, and so are we.</p>
+<p>
+	<strong>Ideal Person</strong></p>
+<p>
+	We are looking to expand from two engineers (the CTO and Lead Developer) to a five person team that will serve as a foundation for continued product and company growth. The Junior Developer will be a development heavy position, and will have the dual role of developing great new functionality while at the same time diligently chipping away at the imperfections of the existing codebase.</p>
+<p>
+	We have two products implemented in Ruby on Rails (indiegogo.com and distribber.com), which run on Nginx/Passenger with a MySQL back end. The front end is HTML, CSS, and JavaScript. Development projects are tracked using Pivotal Tracker and Git. Test coverage needs attention and is primarily based in Cucumber.</p>
+<p>
+	<strong>Objectives &amp; Responsibilities:</strong></p>
+<ul>
+	<li>
+		Become an expert of the codebase, and design, build and test new features</li>
+	<li>
+		Diligently chip away at the imperfections of the existing codebase and improve test coverage</li>
+	<li>
+		Investigate new technologies and make recommendations on changes to the existing infrastructure</li>
+	<li>
+		There is the opportunity for more leadership as we continue to grow the team</li>
+</ul>
+<p>
+	<strong>Required skills and experience:</strong></p>
+<ul>
+	<li>
+		1+ years experience building production web applications, preferably with Ruby on Rails</li>
+	<li>
+		Awareness of automated testing methodologies in a Ruby on Rails (or similar) environment</li>
+	<li>
+		Experience in a small startup or similar multidisciplinary team environment</li>
+</ul>
+<p>
+	<strong>We are looking for engineers that:</strong></p>
+<ul>
+	<li>
+		Have attention to detail and take pride in the products they develop</li>
+	<li>
+		Are confident of their abilities but also willing to compromise and adapt</li>
+	<li>
+		Can quickly cut through the static and focus on the core of a given problem</li>
+	<li>
+		Are involved in their community -- professional and otherwise</li>
+</ul>
+<p>
+	<strong>Compensation &amp; Benefits</strong></p>
+<ul>
+	<li>
+		Competitive start-up salary plus equity</li>
+	<li>
+		Health insurance, technology reimbursement and other cool perks</li>
+	<li>
+		Opportunity to work on a fun set of products that help people make their dreams come true!</li>
+</ul>
+<p>
+	<br />
+	<strong>Interested? Feel like a fit?</strong></p>
+<p>
+	I want to hear from you. Please send me your resume with a note about:</p>
+<ul>
+	<li>
+		What excites you about IndieGoGo and this role?</li>
+	<li>
+		What campaign you&#39;d launch (or want to support) if you were to come on board? (we love it when our team members get involved with campaigns too)&nbsp;</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/indiegogo/ThV2tK"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110830141249_UYCSJNJGX0DACXFC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Product Manager]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://indiegogo.theresumator.com/apply/qAvIAb/Product-Manager.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94109]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Our Story</strong></p>
+<p>
+	IndieGoGo is a rapidly growing organization, based in San Francisco. Our platform is used by people all over the world to raise money for creative projects, businesses and causes. Millions of dollars have been contributed to over 25 thousand funding campaigns in over 200 countries.</p>
+<p>
+	Our customers are passionate about their funding campaigns, and so are we.</p>
+<p>
+	<strong>Ideal Person</strong></p>
+<p>
+	You have experience working cross-functionally with business, design and development teams to design, iterate on, release and maintain a real world product. You are tech savvy but also an excellent people manager. You are metrics oriented and customer focused, but with a business drive. You embrace the concept of &quot;product stewardship&quot; where the product management, design and development teams work in a spirit of shared responsibility for product excellence.</p>
+<p>
+	This position is based in San Francisco, CA.</p>
+<p>
+	<strong>Responsibilities:</strong></p>
+<ul>
+	<li>
+		Act as the &quot;scales of justice&quot; to help steward the product along with the design and development teams</li>
+	<li>
+		Collect information from various teams and manage the backlog of upcoming features and enhancements</li>
+	<li>
+		Combine qualitative and quantitative analysis as you make recommendations for the product</li>
+	<li>
+		Manage the weekly product development process, including the facilitation of the prioritization of requests</li>
+	<li>
+		Work with management to define and communicate the product roadmap</li>
+	<li>
+		Facilitate communication throughout the development process between a variety of internal teams including operations, marketing, and customer happiness</li>
+</ul>
+<p>
+	<strong>Requirements:</strong></p>
+<ul>
+	<li>
+		Experience working with business, design and development teams and have a good understanding of the needs and objectives of each</li>
+	<li>
+		Experience managing consumer web applications &amp; demonstrated experience shipping live sites</li>
+	<li>
+		Technical awareness and the ability to effectively collaborate with the development team</li>
+	<li>
+		Outstanding interpersonal and communication skills</li>
+	<li>
+		Must be organized, able to think beyond what is asked for, act independently and juggle multiple projects and competing priorities</li>
+	<li>
+		Demonstrated experience gathering requirements and organizing resources</li>
+	<li>
+		Adaptable with a strong ability to navigate ambiguous situations and manage multiple functional priorities/agendas and balance this with data/analytics</li>
+	<li>
+		Ability to manage complexity, while being persistent, detail oriented, and thorough</li>
+	<li>
+		Experience with social applications</li>
+</ul>
+<p>
+	<strong>Compensation &amp; Benefits</strong></p>
+<ul>
+	<li>
+		Competitive start-up salary plus equity</li>
+	<li>
+		Health insurance, technology reimbursement and other cool perks</li>
+	<li>
+		Opportunity to guide thousands in making their dreams come true!</li>
+</ul>
+<p>
+	<strong>Interested? Feel like a fit?</strong></p>
+<p>
+	I want to hear from you. Please send me your resume with a note about:</p>
+<ul>
+	<li>
+		What excites you about IndieGoGo and this role?</li>
+	<li>
+		What campaign you&#39;d launch (or support) if you were to come on board? (we love it when our team members are involved with campaigns)</li>
+	<li>
+		One idea on how you&#39;d go about improving our current product.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/indiegogo/qAvIAb"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110830142341_R0FVQUOK7DMFJAHB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Business Development Ops Coordinator]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://indiegogo.theresumator.com/apply/Lw4pv7/Business-Development-Ops-Coordinator.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94109]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Our Story</strong></p>
+<p>
+	IndieGoGo is a rapidly growing organization, based in San Francisco. Our platform is used by people all over the world to raise money for creative projects, businesses and causes. Millions of dollars have been contributed to over 25 thousand funding campaigns in over 200 countries.<br />
+	Our customers are passionate about their funding campaigns, and so are we!</p>
+<p>
+	<strong>Ideal Person</strong></p>
+<p>
+	We&rsquo;re looking for a self-starter who has experience in a sales environment, brings working knowledge of sales systems and processes and loves creating efficiencies for a team. Our ideal person is detail-oriented, collaborative, positive, a multi-tasker, works well with deadlines, has excellent verbal and written communication skills and is comfortable in a supportive role interacting with prospects and clients. Located in Los Angeles, San Francisco or New York City.</p>
+<p>
+	<strong>Overall Role Responsibilities:</strong></p>
+<p>
+	The <strong>Business Development Ops Coordinator&rsquo;s</strong> mission is to maintain and improve efficiency in all areas of IndieGoGo Business Development, including but not limited to: prospect relations, sales support, and internal operations.</p>
+<p>
+	<strong>Specific Areas of Responsibility:</strong></p>
+<p>
+	The BDOC supports the Business Development leads in their deal making through the following activities:</p>
+<p>
+	1. Supporting Prospect Relations</p>
+<ul>
+	<li>
+		Customizing sales materials including demonstrations, one-sheets, and presentations</li>
+	<li>
+		Scheduling meetings and calls</li>
+</ul>
+<p>
+	2. Generally Supporting Sales Flow</p>
+<ul>
+	<li>
+		Creating and updating flowcharts for BD systems</li>
+	<li>
+		Creating and updating BD FAQs gleaned from client interactions</li>
+	<li>
+		Fielding and delegating BD opportunities from IndieGoGo team to BD team</li>
+	<li>
+		Tracking lead generation and progress</li>
+</ul>
+<p>
+	3. Overseeing Internal BD Operations</p>
+<ul>
+	<li>
+		Acting as a liaison between other IndieGoGo departments to ensure that prospects feel their transition into IndieGoGo clients/partners is seamless and efficient</li>
+	<li>
+		Assisting BD leads in creating and finding materials to address pitching and closing needs</li>
+	<li>
+		Helping ensure, as needed, that new contracts are updated, executed, and organized in a timely and accurate manner</li>
+</ul>
+<p>
+	<strong>Desired Skills</strong></p>
+<ul>
+	<li>
+		Generally tech-savvy; Proficient with managing across multiple devices and OS&rsquo;s, able to quickly learn new applications</li>
+	<li>
+		Proficent with Powerpoint, Excel, Word, Salesforce.com, Box.net, ZenDesk, Pivotal Tracker, Google apps</li>
+	<li>
+		Proficient with all major social media platforms</li>
+	<li>
+		Able to laugh unreasonably</li>
+	<li>
+		At least 2 years experience in a sales environment</li>
+</ul>
+<p>
+	<strong>Compensation &amp; Benefits</strong></p>
+<ul>
+	<li>
+		Competitive start-up salary plus equity</li>
+	<li>
+		Health insurance, technology reimbursement and other cool perks</li>
+	<li>
+		Opportunity to be integrally involved in growing the reach of a cutting-edge way to help people make their dreams come true!</li>
+</ul>
+<p>
+	<strong>Interested? Feel like a fit?</strong><br />
+	I want to hear from you. Please send me your resume with note about:</p>
+<ul>
+	<li>
+		What excites you about IndieGoGo and this role?</li>
+	<li>
+		What campaign you&#39;d launch if you were to come on board (we love it when our employees do their own campaigns)?</li>
+	<li>
+		What do you think are 3 essential elements of a good sales or business development relationship with a partner?<br />
+		&nbsp;</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/indiegogo/Lw4pv7"></script>]]></buttons>
+		</job>
+	</jobs>

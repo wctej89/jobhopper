@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Aviary]]></company>
+			<job>
+			<id><![CDATA[job_20110311201758_DH1SSLSYARMKDMEM]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Interactive Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://aviary.theresumator.com/apply/0yeJ7e/Interactive-Engineer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10001]]></postalcode>
+			<description><![CDATA[<p>
+	We&rsquo;re looking for a javascript wizard to work closely on our HTML5 based image editor (Feather), adding new features and maintaining existing javascript code on a daily basis. We&rsquo;re integrating with multiple partners at a rapid pace, so be prepared for lots of fun feature requests! A parallel, non-HTML5 version of the editor will also need tweaking and you will have to allow for graceful degradation when non-HTML5 browsers are used. Filters and effects are a big part of what we do so we&rsquo;ll constantly be adding to the effects list. These will have to work with Flash (when available) and through our new API (when Flash is not available).</p>
+<p>
+	Requirements:</p>
+<ul>
+	<li>
+		Basic knowledge of ActionScript and Flash capabilities</li>
+	<li>
+		Experienced in Javascript, HTML5, CSS</li>
+	<li>
+		Some experience/experimentation in code-based bitmap manipulation</li>
+	<li>
+		Portfolio of past work</li>
+</ul>
+<p>
+	If you&rsquo;re our ideal candidate, you know the ins and outs of javascript. You have an extensive portfolio of javascript apps and/or games that demonstrate a clear understanding of how the DOM can be used. You should also understand and have interacted with the HTML5 canvas element using javascript and UI events. You must be able to comment and document your work, both for other developers on the team and for external third-party developers that integrate our tools. Needless to say, all our employees work well with others and are nice people. :)</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/aviary/0yeJ7e"></script>]]></buttons>
+		</job>
+	</jobs>

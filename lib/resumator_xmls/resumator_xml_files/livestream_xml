@@ -1,0 +1,634 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Livestream]]></company>
+			<job>
+			<id><![CDATA[job_20120209214220_GSNZ971FV5LKZ5OO]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Jr. Linux System Administrator]]></title>
+			<department><![CDATA[Dev Ops]]></department>
+			<team><![CDATA[DevOps]]></team>
+			<url><![CDATA[http://livestream.theresumator.com/apply/qtwipv/Jr-Linux-System-Administrator.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10011]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Junior System Administrator - New York</strong></p>
+<p>
+Livestream is an innovative and fast growing live video start-up based in New York which delivers over a billion minutes of video per month. We&#39;ve just launched the new version of our platform (http://new.livestream.com), and are looking for talented engineers to help us build and scale the most amazing live streaming service.</p>
+<p>
+We are looking for candidates who are passionate about building the tools that power major infrastructures, take pride in what they build, are quick learners and love to work in a challenging and fast-paced environment. As part of a start-up competing in a world-scale market, you will be expected to work hard and will have the ability to manage services used by millions of people.</p>
+<p>
+The ideal candidate will have experience in system administration, with a focus on web operations and using monitoring, automation, and management tools.&nbsp; They will be part of a team of System Administrators that help to build and maintain the Livestream infrastructure, and will understand and believe the philosophy that anything that is worth doing multiple times is worth automating away.</p>
+<p>
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+Work weekly day shifts including some weekend rotations.</li>
+<li>
+Install, configure, troubleshoot, monitor and measure&nbsp;our applications and our infrastructure.</li>
+<li>
+Maintain 100% uptime of our production services.</li>
+<li>
+Help to continuously improve our processes and tools to ensure the best possible experience for our users, from uptime to performance and reliability.</li>
+<li>
+Ensure that our monitoring tools catch and alert on all production issues without generating a flood of false positives.</li>
+<li>
+Follow escalation process through issue resolution, including providing documentation as to the solution and suggesting improvements to avoid future issues.&nbsp;</li>
+<li>
+Follow regular operational procedures and complete all assigned tasks during the shift.</li>
+<li>
+Send periodic NOC reports with the current system and service status.</li>
+<li>
+Monitor backups and disaster recovery, including backup verification and performing restoration tests and participating in disaster recovery drills.</li>
+<li>
+Build our knowledge base by creating and updating documentation.&nbsp;</li>
+<li>
+Build and maintain automation systems to reduce time for builds and deployments and to enable the team to scale its output exponentially over time.</li>
+</ul>
+<p>
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+<u>Experience using linux, preferably on physical, virtual, and cloud servers.</u></li>
+<li>
+Bachelors degree in Computer Science or&nbsp;IT, or equivalent work experience.&nbsp;</li>
+<li>
+Strong written and verbal communication skills; ability to organize and prioritize tasks.</li>
+<li>
+Basic understanding of data center management, core networking, and serving static and streaming content over the web.</li>
+<li>
+Experience with unix scripting: shell, perl, python, ruby, or equivalent languages.</li>
+<li>
+Conceptual knowledge of DNS, DHCP, PXE installation, server virtualization technologies (XEN or equivalent) and database management.</li>
+<li>
+Experience using monitoring systems (Nagios, Zenoss, Cacti, or equivalents).</li>
+<li>
+Ability to work in fast-paced environments with weekly release schedules.</li>
+</ul>
+<p>
+<strong>Desired skills and experience:</strong></p>
+<ul>
+<li>
+Experience supporting a real-time, 24x7 production web environment.</li>
+<li>
+Experience using configuration management systems (chef, puppet, cfengine, etc.)</li>
+<li>
+Experience with package management (preferably on Debian systems).</li>
+<li>
+Experience managing MySQL or NoSQL databases.</li>
+<li>
+Experience using and managing webservers.</li>
+<li>
+Experience managing the following technologies or equivalents: ldap, ntp, dns, fai, dhcp, git, puppet, mysql, redis.</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+Start Date: Immediate</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/livestream/qtwipv"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120315132553_KYTRM6Z86FTUUTSI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front-end Web Developer/Designer]]></title>
+			<department><![CDATA[Services]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://livestream.theresumator.com/apply/id1kIa/Frontend-Web-DeveloperDesigner.html]]></url>
+			<city><![CDATA[Los Angeles]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90211]]></postalcode>
+			<description><![CDATA[<p>
+Livestream (Livestream.com) is the market leader for live event coverage. With simple to use technology, our service allows anyone to broadcast live to the web, as well as being the top destination for live content from around the world. Our content partners include Facebook, The New York Times, ABC News, CBS News, Associated Press, HBO, AT&amp;T, PepsiCo, Electronic Arts, Adidas, The Academy Awards, Warner Bros. Records, Paramount Pictures. Livestream operates with over 120 full-time staff members in 4 offices&mdash;in New York, Los Angeles, Bangalore and the Ukraine. The service is available for free (advertising-supported) or as a feature-rich, monetizable, premium subscription for business. The new.livestream.com is an innovative new platform, available in beta, that combines live event coverage with real-time photos, text, and video clip updates posted using web browsers or mobile devices. The technology supports live blogging, live and on-demand HD video powered by Akamai HDNet, and real-time posting tools</p>
+<p>
+<strong>Position Description:</strong></p>
+<p>
+We are looking for a talented and motivated web designer to join our design team at Livestream. You will be building awesome custom web applications &amp; experiences for our clients and content partners. You should be passionate about design, take pride in your work, communicate effectively and be keen to input ideas towards the design of an industry leading service.</p>
+<p>
+You will be working closely with account management, web development, quality assurance, and the rest of the design team to ensure the delivery of error-free products, while helping build the Livestream brand.</p>
+<p>
+Please submit your resum&eacute; along with a link to your portfolio with relevant work you&#39;re proud of.</p>
+<p>
+Requirements:</p>
+<p>
+&bull; Experiencing designing beautiful product and company websites.<br />
+&bull; Proficiency with Adobe CS5 (mainly Photoshop and Illustrator).<br />
+&bull; Strong HTML and CSS knowledge, and a working knowledge of JS.<br />
+&bull; Self-motivated with the ability to work independently.<br />
+&bull; Eye for detail and pixel-perfection.<br />
+&bull; Thorough knowledge of typography, color usage, layout, and spacing (understanding what makes a good design good).<br />
+&bull; Comfortable with accepting and managing feedback, and working with an iterative process.<br />
+&bull; Excellent collaboration &amp; communication skills.</p>
+<p>
+Nice to haves:</p>
+<p>
+&bull; Experience with SASS<br />
+&bull; Experience creating engaging motion graphics<br />
+&bull; Working knowledge of PHP</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/livestream/id1kIa"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120618145949_LZXFOELTWSVZC9WW]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Quality Assurance Specialist]]></title>
+			<department><![CDATA[Client Services]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://livestream.theresumator.com/apply/Lxol33/Quality-Assurance-Specialist.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10011]]></postalcode>
+			<description><![CDATA[<p>Livestream is currently seeking a Web QA Specialist to join our rapidly growing New York based team.</p><p><strong>Who we are:</strong></p><p>Livestream (Livestream.com) is the market leader for live event coverage. With simple to use technology, our service allows anyone to broadcast live to the web, as well as being the top destination for live content from around the world. Our content partners include Facebook, The New York Times, ABC News, CBS News, Associated Press, HBO, AT&amp;T, PepsiCo, Electronic Arts, Adidas, The Academy Awards, Warner Bros. Records, Paramount Pictures. Livestream operates with over 120 full-time staff members in 4 offices&mdash;in New York, Los Angeles, Bangalore and the Ukraine. The service is available for free (advertising-supported) or as a feature-rich, monetizable, premium subscription for business. The new.livestream.com is an innovative new platform, available in beta, that combines live event coverage with real-time photos, text, and video clip updates posted using web browsers or mobile devices. The technology supports live blogging, live and on-demand HD video powered by Akamai HDNet, and real-time posting tools</p><p><strong>Position Description:</strong></p><p>We are looking for talented individuals with prior agency (or related) experience to join our client services division.&nbsp; We build awesome custom web applications &amp; experiences for our clients, and are looking for someone to thoroughly test and QA what we build to ensure the delivery of error-free custom products.&nbsp; Our clients include many top brands you&rsquo;ve probably heard of, and our expectation is to always deliver flawless custom products.</p><p><strong>Responsibilities include:</strong></p><p>- Thoroughly test custom web applications (desktop &amp; mobile) on all browsers/environments.<br />- Track and Report bugs to ensure quality standards are consistently met<br />- Proactively monitor and test existing applications<br />- Interface with Design, Development, and Account Management teams in order to satisfy client needs.</p><p><strong>Qualifications/Skills:</strong></p><p><br />- Minimum of 2 years of Web QA experience at an Agency or similar organization<br />- Bachelors degree or higher in a related field<br />- Strong foundation in QA methodologies<br />- Experience with bug tracking systems<br />- Knowledge of HTML, Flash, and JavaScript<br />- Familiarity testing in all browsers and mobile environments. (Including Mac OS X and Windows desktop browsers &amp; iOS and Android devices).<br />- Very strong written and verbal communication<br />- Detail Oriented and Self Motivated</p><p><strong>Nice to have:</strong></p><p>&bull; CS degree or technical background<br />&bull; Experience with video streaming platforms</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/livestream/Lxol33"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130118191258_UYH63VRYKIHESUGY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Product Designer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Design]]></team>
+			<url><![CDATA[http://livestream.theresumator.com/apply/Kaowyd/Product-Designer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10011]]></postalcode>
+			<description><![CDATA[<p>
+Livestream is looking for a talented and motivated designer to join our Product team in NYC. &nbsp;</p>
+<p>
+<strong>About Livestream</strong></p>
+<p>
+Livestream&rsquo;s mission is to connect people and live events. Livestream offers event owners a complete set of hardware and software tools to share their events with a growing community online. More than 30 million viewers each month watch thousands of live events from customers including The New York Times, Facebook, ESPN, SpaceX and Warner Bros. Records. Founded in 2007, Livestream is headquartered in New York with offices in Los Angeles, Ukraine and India.</p>
+<p>
+<strong>Description</strong></p>
+<p>
+Livestream has a wide array of integrated products, ranging between web, desktop, mobile and hardware devices. The design team at Livestream is responsible for the look and feel of the full range of these products.<br />
+As a Product Designer you will be working on designs, both for screen and print, focused around Livestream&#39;s products and marketing communication. You should be passionate about design, take pride in your work, and be keen to input ideas towards the design of an industry leading service. The ability to prototype your designs for the web (html/css/js) is a great bonus, but your structural, aesthetic and communication design abilities are the primary focus for us.</p>
+<p>
+This is a fantastic opportunity to work for an energetic young start-up that is competing on a global level. We are innovative and moving fast so our targets are aggressive and you should expect to work hard. We are looking for a fast learner who has the ability to grow quickly and there is an opportunity to move towards an art-directing role in the team based on skill level and character. You will be joining a rock solid design team that is setting trends across a wide range of products, supported by a world class engineering team.</p>
+<p>
+Applications should include a short resume and portfolio of work to demonstrate skill level. Dribbble / Forrst / Behance portfolios are welcome additions to your resume. For each project, please try to indicate your specific roles you held or areas of which you were responsible.&nbsp;</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Design for web / mobile / desktop software products</li>
+<li>
+Design for internal marketing (both on web and in print)</li>
+<li>
+Design for packaging of physical hardware products</li>
+<li>
+General design projects</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Required Skills</strong></p>
+<ul>
+<li>
+Expert Photoshop knowledge</li>
+<li>
+Strong knowledge of Adobe Creative Suite</li>
+</ul>
+<p>
+<strong>Bonus Skills</strong></p>
+<ul>
+<li>
+Knowledge of HTML / CSS / JS and other web standards</li>
+<li>
+Desire to grow into art direction role</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/livestream/Kaowyd"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130219012007_GSD54IPUP9SRUJRZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front-end Web Developer/Designer]]></title>
+			<department><![CDATA[Services]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://livestream.theresumator.com/apply/Cqy9YZ/Frontend-Web-DeveloperDesigner.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10011]]></postalcode>
+			<description><![CDATA[<p>
+Livestream (Livestream.com) is the market leader for live event coverage. With simple to use technology, our service allows anyone to broadcast live to the web, as well as being the top destination for live content from around the world. Our content partners include Facebook, The New York Times, ABC News, CBS News, Associated Press, HBO, AT&amp;T, PepsiCo, Electronic Arts, Adidas, The Academy Awards, Warner Bros. Records, Paramount Pictures. Livestream operates with over 120 full-time staff members in 4 offices&mdash;in New York, Los Angeles, Bangalore and the Ukraine. The service is available for free (advertising-supported) or as a feature-rich, monetizable, premium subscription for business. The new.livestream.com is an innovative new platform, available in beta, that combines live event coverage with real-time photos, text, and video clip updates posted using web browsers or mobile devices. The technology supports live blogging, live and on-demand HD video powered by Akamai HDNet, and real-time posting tools</p>
+<p>
+<strong>Position Description:</strong></p>
+<p>
+We are looking for a talented and motivated web designer to join our design team at Livestream. You will be building awesome custom web applications &amp; experiences for our clients and content partners. You should be passionate about design, take pride in your work, communicate effectively and be keen to input ideas towards the design of an industry leading service.</p>
+<p>
+You will be working closely with account management, web development, quality assurance, and the rest of the design team to ensure the delivery of error-free products, while helping build the Livestream brand.</p>
+<p>
+Please submit your resum&eacute; along with a link to your portfolio with relevant work you&#39;re proud of.</p>
+<p>
+Requirements:</p>
+<p>
+&bull; Experiencing designing beautiful product and company websites.<br />
+&bull; Proficiency with Adobe CS5 (mainly Photoshop and Illustrator).<br />
+&bull; Strong HTML and CSS knowledge, and a working knowledge of JS.<br />
+&bull; Self-motivated with the ability to work independently.<br />
+&bull; Eye for detail and pixel-perfection.<br />
+&bull; Thorough knowledge of typography, color usage, layout, and spacing (understanding what makes a good design good).<br />
+&bull; Comfortable with accepting and managing feedback, and working with an iterative process.<br />
+&bull; Excellent collaboration &amp; communication skills.</p>
+<p>
+Nice to haves:</p>
+<p>
+&bull; Experience with SASS<br />
+&bull; Experience creating engaging motion graphics<br />
+&bull; Working knowledge of PHP</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/livestream/Cqy9YZ"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130521143920_FHXJJBZWQIQQUCKX]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Frontend Developer]]></title>
+			<department><![CDATA[Frontend Team]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://livestream.theresumator.com/apply/ACPYTJ/Frontend-Developer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10011]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Company Description</strong><br />
+Livestream&rsquo;s mission is to connect people and live events. Livestream offers event owners a complete set of hardware and software tools to share their events with a growing community online. More than 30 million viewers each month watch thousands of live events from customers including The New York Times, Facebook, ESPN, SpaceX and Warner Bros. Records. Founded in 2007, Livestream is headquartered in New York with offices in Los Angeles, Ukraine and India. www.livestream.com.</p>
+<p>
+<strong>Job Description</strong><br />
+We are looking for a rock solid frontend developer to work on our Product team. If you are someone who is obsessed with clean HTML/CSS, has a passion for new developments in CSS3, can&rsquo;t stand the sight of inline JavaScript, and loves responsive design &ndash; then you are the right fit for us!&nbsp;</p>
+<p>
+As a Frontend Developer at Livestream you will be responsible for building features seen by millions of people worldwide. Your focus will be on improving the Livestream website, creating interactive microsites, developing email campaigns, and building marketing pages.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Build and improve the Livestream platform using HTML, CSS, SASS and Javascript</li>
+<li>
+Create custom pages microsites &ndash; using Livestream APIs &ndash; for clients</li>
+<li>
+Work with kickass designers developing email campaigns and marketing pages</li>
+</ul>
+<p>
+<strong>Tangibles</strong></p>
+<ul>
+<li>
+Master of HTML and CSS &ndash; you eat, sleep and breathe frontend development, and are excited about emerging features in HTML5, CSS 3, and techniques such as responsive design</li>
+<li>
+Proficient with JavaScript &ndash; you love slick animations and AJAX</li>
+<li>
+Comfortable using frameworks such as SASS and jQuery &ndash; in addition to the base languages, you have experience using frameworks and plugins to accelerate development</li>
+<li>
+Familiar with Photoshop &ndash; although you will be working on development, you can still dive into Photoshop to slice images to build designs</li>
+</ul>
+<p>
+<strong>Intangibles</strong></p>
+<ul>
+<li>
+You care deeply about clean and semantic code, and strive to find creative solutions to problems</li>
+<li>
+You are comfortable interacting with other team members (both within design/development and other departments such as marketing or sales) and clients</li>
+<li>
+You have extreme attention to detail and a passion for delivering a great user experience</li>
+</ul>
+<p>
+<strong>Benefits</strong></p>
+<ul>
+<li>
+Work from our NYC headquarters</li>
+<li>
+Competitive Salary</li>
+<li>
+401k</li>
+<li>
+Full Health package</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/livestream/ACPYTJ"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130522154519_HCDU5K7RVKOIC4JX]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Livestream Support Agent]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Support]]></team>
+			<url><![CDATA[http://livestream.theresumator.com/apply/csJ0P9/Livestream-Support-Agent.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10011]]></postalcode>
+			<description><![CDATA[<p>
+Livestream is accepting applications for full time Producer/Customer Support positions available in our New York City office.&nbsp;This is a paid, full time position with paid vacation and full health benefits.</p>
+<p>
+Livestream is the leading provider for real time event coverage. Our tools make it simple for anyone to broadcast live to the web, and Livestream.com is the destination for the top live content from around the world.</p>
+<p>
+The Livestream Producer Support position assumes many varied responsibilities, which include but are not limited to the following:</p>
+<ul>
+<li>
+Responding to and troubleshooting Livestream customer requests via email and phone </li>
+<li>
+Working with Livestream Account Managers and the in-house Production team to support live events</li>
+<li>
+Updating and improving documentation for our hardware and software products</li>
+<li>
+Working closely with our in-house developers, designers and content development staff</li>
+<li>
+Influencing the product roadmap based on feedback from our customers </li>
+<li>
+Experience with hardware or broadcast equipment troubleshooting is a must.</li>
+</ul>
+<p>
+All applicants&nbsp;<strong><em>MUST</em></strong> have hands on experience, understanding and working knowledge of video production workflows to be considered for this position.&nbsp;</p>
+<p>
+The ideal candidate for this position is a highly organized individual who works well on their feet and communicates efficiently and effectively.</p>
+<p>
+You must be comfortable with talking on the phone.&nbsp;</p>
+<p>
+We are looking for hard-working and responsible individuals who are able to multitask in a fast paced work environment.</p>
+<p>
+All applicants should have hands on experience with live internet encoding/broadcasting to be considered for this position.</p>
+<p>
+&nbsp;</p>
+<p>
+Some weekend shifts and night shifts are required - no later than 9pm ET.</p>
+<p>
+&nbsp;</p>
+<p>
+Salary range -&nbsp; $45,000-$60,000 (includes a performance based annual bonus)</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/livestream/csJ0P9"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130522184534_ZWVONV75U9RJWE9B]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Live Production Hardware Support]]></title>
+			<department><![CDATA[Hardware]]></department>
+			<team><![CDATA[Production]]></team>
+			<url><![CDATA[http://livestream.theresumator.com/apply/awPSPF/Live-Production-Hardware-Support.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10011]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About Livestream</strong></p>
+<p>
+Livestream (Livestream.com) is the market leader for live event coverage. With simple to use technology, our service allows anyone to broadcast live to the web, as well as being the top destination for live content from around the world. Our content partners include Facebook, The New York Times, ABC News, CBS News, Associated Press, HBO, AT&amp;T, PepsiCo, Electronic Arts, Adidas, The Academy Awards, Warner Bros. Records, Paramount Pictures. Livestream operates with over 120 full-time staff members in 5 offices&mdash;in New York, Los Angeles, Bangalore, and the Ukraine. The service is available for free (advertising-supported) or as a feature-rich, monetizable, premium subscription for business. The new.livestream.com is an innovative new platform, available in beta, that combines live event coverage with real-time photos, text, and video clip updates posted using web browsers or mobile devices. The technology supports live blogging, live and on-demand HD video powered by Akamai HDNet, and real-time posting tools</p>
+<p>
+Livestream is accepting applications for full time <strong>Live Production Hardware Support</strong> position available in our New York City office. <strong>The Live Production Hardware Support position assumes many varied responsibilities, which include but are not limited to the following</strong>:</p>
+<p>
+- Proactively monitor and test existing applications &amp; hardware configurations</p>
+<p>
+- Update and improve documentation for our hardware and software products </p>
+<p>
+- Work with the latest technologies</p>
+<p>
+- Works closely with the Producer Support team to troubleshoot and test customer issues</p>
+<p>
+- Recommend and put in place processes to improve hardware product support and processes</p>
+<p>
+- Track and Report bugs to ensure quality standards are consistently met</p>
+<p>
+- Influence the product development roadmap based on producer feedback</p>
+<p>
+<strong>Qualifications/Skills:</strong></p>
+<p>
+- PC Hardware troubleshooting<br />
+- Great communication skills (written and verbal)<br />
+- You have experience using the Livestream platfrom and encoding products <br />
+- Experience in video technologies (knowledge of encoding, DV cameras etc&hellip;) <br />
+- Strong technical skills and understanding<br />
+- Detail Oriented and Self Motivated</p>
+<p>
+The ideal candidate for this position is an highly organized individual who works well on their feet and communicates efficiently and effectively. We are looking for a hard-working and responsible individual who is able to work long hours.</p>
+<p>
+All candidates must be able to lift at least 50 pounds, be comfortable working in high stress and fast paced environments. Knowledge of Microsoft Office &amp; Google Docs is required.</p>
+<p>
+<br />
+This is a full-time salaried position with benefits.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/livestream/awPSPF"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130605072435_K1WJQERHCFWLPTW2]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Frontend Developer]]></title>
+			<department><![CDATA[Frontend Team]]></department>
+			<team><![CDATA[Software Development]]></team>
+			<url><![CDATA[http://livestream.theresumator.com/apply/rX7O9t/Frontend-Developer.html]]></url>
+			<city><![CDATA[Bangalore]]></city>
+			<state><![CDATA[Karnataka]]></state>
+			<country><![CDATA[India]]></country>
+			<postalcode><![CDATA[560034]]></postalcode>
+			<description><![CDATA[<p>
+We are looking for a rock solid frontend developer to work on our Product team. If you are someone who is OCD about clean HTML/CSS, has a passion for new developments in CSS3, can&rsquo;t stand the sight of inline JavaScript, and loves responsive design &mdash; then you are the right fit for us!&nbsp;</p>
+<p>
+As a Frontend Developer at Livestream you will be responsible for building features seen by millions of people worldwide. Your focus will be on improving the Livestream website, creating interactive microsites, developing email campaigns, and building marketing pages.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+Build and improve the Livestream platform using HTML, CSS, SASS and Javascript, Jquery Framework</li>
+<li>
+Create custom pages microsites - using Livestream APIs - for clients</li>
+<li>
+Working with kickass designers developing email campaigns and marketing pages</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Qualifications:</strong></p>
+<ul>
+<li>
+4+ years of experience in web development.</li>
+<li>
+Strong written and verbal communication skills, ability to organize and prioritize tasks.</li>
+<li>
+Mentoring more junior members of the team, and working with other departments to solve cross-departmental problems.</li>
+<li>
+Working knowledge of Linux environment.</li>
+<li>
+Experience with a version control system (Git)</li>
+<li>
+Master of HTML and CSS &mdash; eat, sleep and breathe frontend development, and is excited about emerging features in HTML5, CSS 3, and techniques such as responsive design</li>
+<li>
+Proficient with JavaScript &mdash;loves slick animations and AJAX</li>
+<li>
+Comfortable using frameworks such as SASS and jQuery &mdash; in addition to the base languages, has experience using frameworks and plugins to accelerate development</li>
+<li>
+Familiar with Photoshop &mdash; to slice images to build designs</li>
+<li>
+Familiarity with web development tools like firebug , IE developer tool , chrome developer tool.</li>
+</ul>
+<p>
+<br />
+<strong>Plus Qualifications:</strong></p>
+<ul>
+<li>
+Cares deeply about clean and semantic code, and strives to find creative solutions to problems</li>
+<li>
+Is comfortable interacting with other team members</li>
+<li>
+Has extreme attention to detail and a passion for delivering a great user experience</li>
+<li>
+Knowledge of Backbone.js and RequireJS</li>
+<li>
+Knowledge of Design patterns for javascript</li>
+<li>
+A portfolio to show us some of your more recent work</li>
+</ul>
+<p>
+<br />
+<strong>Start Date:</strong> Immediate</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/livestream/rX7O9t"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130610190702_OCKCP4NMTXBJBPZY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Production Assistant]]></title>
+			<department><![CDATA[Production]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://livestream.theresumator.com/apply/amHGmG/Production-Assistant.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10011]]></postalcode>
+			<description><![CDATA[<p>
+Livestream is accepting applications for freelance Production Assistant positions available in the New York City area throughout the year.<br />
+<br />
+The Production Assistant assumes many responsibilities, which will vary from assignment to assignment and may include, but are not limited to, the following:<br />
+- assisting with the transportation, loading, and unloading of production and computer equipment<br />
+- aiding producers and encoding engineers with the set-up and strike of various events such as conferences, concerts, festivals, speeches, etc.<br />
+- running errands as needed, including pickup and delivery of rental gear, purchases, and supplies<br />
+- completing administrative tasks, such as accounting for inventory, compiling basic expense reports, or helping to organize administrative storage<br />
+- assisting Livestream Producers and other freelance audio, lighting, and encoding engineers with the smooth production of many different types of events<br />
+- fulfilling production crew roles for events as necessary, potentially including Photographer, Camera Operator, Feed Moderator, Stage Manager or Utility<br />
+- other duties as assigned<br />
+<br />
+The ideal candidate for this position is an adept listener who works well on their feet and communicates efficiently and effectively. We are looking for hard-working, responsible, eager and patient individuals looking to gain experience in video production and web encoding.<br />
+<br />
+All candidates must be able to lift at least 50 pounds, be comfortable working at heights and in high stress and fast paced environments. Candidates should be able to work 12 to 16 hour days and spend long periods of time on their feet. While we do not require prior experience, we must meet all candidates for a brief, in-person, screening interview prior to hire.<br />
+<br />
+Livestream is the leading provider for real time event coverage. Our tools make it simple for anyone to broadcast live to the web, and Livestream.com is the destination for the top live content from around the world.</p>
+<p>
+Send resumes and references as PDFs to Tracy Kleeman with &ldquo;Production Assistant&rdquo; in the subject line.</p>
+]]></description>
+			<type><![CDATA[Part Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/livestream/amHGmG"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130618120621_SKJTDMRWHL6M25FA]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Junior System Administrator]]></title>
+			<department><![CDATA[NOC]]></department>
+			<team><![CDATA[DevOps]]></team>
+			<url><![CDATA[http://livestream.theresumator.com/apply/3LaSUE/Junior-System-Administrator.html]]></url>
+			<city><![CDATA[Bangalore]]></city>
+			<state><![CDATA[Karnataka]]></state>
+			<country><![CDATA[India]]></country>
+			<postalcode><![CDATA[560034]]></postalcode>
+			<description><![CDATA[<p>
+Livestream.com is the premier destination for streaming live events. We connect events with an engaged audience to create a stirring, emotional experience for viewers &ndash; one that builds long-term value for organizations.</p>
+<p>
+Livestream featured in the list of Forbes top 100 America&rsquo;s Most Promising Companies 2012 and ranked 12th in Inc Magazine fastest growing private companies in the US . We&nbsp; also won the Streaming Media Reader&rsquo;s Choice Award in multiple categories like&nbsp; Best Online Video Technology Company, Best Field Encoder, Best Live Video streaming service and Best Online Video Platform in 2012.</p>
+<p>
+We are exponentially growing with monthly 33million unique viewers and more than 1billion viewer minutes monthly watching thousands of live events from customers including The New York Times, Facebook, ESPN, SpaceX and Warner Bros Records.</p>
+<p>
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Work in 24x7 rotational shifts: morning (6:00am-2:30pm), afternoon (2:00pm-10:30pm), and night (10:00pm-6:30am).</li>
+<li>
+&nbsp;&nbsp;&nbsp; Monitor, Provision, configure and troubleshoot our production servers and services.</li>
+<li>
+&nbsp;&nbsp;&nbsp; Maintain 100% uptime of the production services.</li>
+<li>
+&nbsp;&nbsp;&nbsp; Ensure that our monitoring tools catch and generate alerts on all production issues.</li>
+<li>
+&nbsp;&nbsp;&nbsp; Address all issues reported by our monitoring tools, including escalation on issues that require more senior intervention.</li>
+<li>
+&nbsp;&nbsp;&nbsp; Follow escalation process through issue completion, including providing documentation after resolution.</li>
+<li>
+&nbsp;&nbsp;&nbsp; Follow regular Operations procedures and complete all assigned tasks during the shift.</li>
+<li>
+&nbsp;&nbsp;&nbsp; Assist in root cause analysis of production issues and help write a report which includes details about the failure, the relevant log entries and likely root cause.</li>
+<li>
+&nbsp;&nbsp;&nbsp; Send periodic NOC reports with the system and service status.</li>
+<li>
+&nbsp;&nbsp;&nbsp; Monitor backups and disaster recovery, including backup verification, and performing restoration tests and participating in disaster recovery drills.</li>
+<li>
+&nbsp;&nbsp;&nbsp; Build knowledge base by creating and updating documentation for support.</li>
+</ul>
+<p>
+<strong>Required skills and experience:</strong></p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Education: B.E. (Bachelor of Engineering) in Computer Science, Electronics or Electronics &amp; Communication or B.Sc ( Bachelor of Science) major in Computer Science or equivalent experience.</li>
+<li>
+&nbsp;&nbsp;&nbsp; 1+ years experience supporting and troubleshooting in a real-time 24x7 production online web environment.</li>
+<li>
+&nbsp;&nbsp;&nbsp; Good written and verbal communication skills; ability to organize and prioritize tasks.</li>
+<li>
+&nbsp;&nbsp;&nbsp; Knowledge of unix scripting: shell, python, ruby or equivalent languages (from an automation and monitoring standpoint).</li>
+<li>
+&nbsp;&nbsp;&nbsp; Ability to identify and use tools to execute everyday sysadmin tasks.</li>
+<li>
+&nbsp;&nbsp;&nbsp; Strong Conceptual knowledge of&nbsp; DNS, DHCP, PXE installation, server virtualization technologies (XEN or equivalent).</li>
+<li>
+&nbsp;&nbsp;&nbsp; Ability to configure and use monitoring systems (ZenOSS, Graphite or equivalents).</li>
+<li>
+&nbsp;&nbsp;&nbsp; Create and maintain documentation for System Administration support.</li>
+<li>
+&nbsp;&nbsp;&nbsp; Ability to work in fast-paced environments with weekly product release schedules.</li>
+</ul>
+<p>
+<br />
+<strong>Desired skills and experience:</strong></p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Ability to identify, write, and customize small add-on modules or plugins of open-source tools to effectively automate tasks and monitor production services.</li>
+<li>
+&nbsp;&nbsp;&nbsp; RHCE certification or equivalent experience.</li>
+<li>
+&nbsp;&nbsp;&nbsp; Experience with package management (preferably on Debian systems).</li>
+<li>
+&nbsp;&nbsp;&nbsp; Working knowledge of the following technologies (or equivalents): DNS, FAI, DHCP, subversion, git, puppet, mysql.</li>
+</ul>
+<p>
+<strong>Start Date:</strong> Immediate.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/livestream/3LaSUE"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Oikoi Inc.]]></company>
+			<job>
+			<id><![CDATA[job_20130125070716_A6VQ3KVYGITGLFLU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer - Front-end UX]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://oikoi.theresumator.com/apply/0zGMKX/Software-Engineer-Frontend-UX.html]]></url>
+			<city><![CDATA[Kitchener]]></city>
+			<state><![CDATA[Ontario]]></state>
+			<country><![CDATA[Canada]]></country>
+			<postalcode><![CDATA[N2G 1H6]]></postalcode>
+			<description><![CDATA[<p>
+You love minimal designs, and are always looking to say more with less. You get the concept of &quot;move fast and break things&quot;, and aren&#39;t afraid to make bold decisions or put cutting edge technologies to work in your projects. You live and breathe responsive design and cross-browser compatibility. Static is boring - you know how to use the latest tools and libraries to build fast, elegant, and powerful websites. You&#39;re an artist at heart, and take pride in making beautiful products.</p>
+<p>
+<strong>Experience with the following technologies would be an asset:</strong></p>
+<ul>
+<li>
+Backbone.js or other MVC(esque) web frameworks</li>
+<li>
+Node.js and Ruby</li>
+<li>
+Automated testing with Jasmine or similar</li>
+<li>
+Javascript jQuery, Underscore</li>
+<li>
+Require.js</li>
+<li>
+HTML, CSS</li>
+<li>
+Basic Photoshop</li>
+<li>
+Git &amp; Github</li>
+</ul>
+<p>
+Working at Oikoi offers flexible work hours at a fast-moving startup, a retina Macbook computer and dual monitors, gym membership, competitive equity options, and office space in the VeloCity Garage - current and former Garage tenants include BufferBox, Vidyard, Pair, Thalmic Labs, MappedIn, and Maluuba.</p>
+<p>
+Github repositories, open source contributions, and personal projects are huge for us - show us what you can do in your application!</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/oikoi/0zGMKX"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130125073535_EMXE0X9HANVJYZBS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer - Cloud Infrastructure & API Design]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://oikoi.theresumator.com/apply/2WUfi4/Software-Engineer-Cloud-Infrastructure-API-Design.html]]></url>
+			<city><![CDATA[Kitchener]]></city>
+			<state><![CDATA[Ontario]]></state>
+			<country><![CDATA[Canada]]></country>
+			<postalcode><![CDATA[N2G 1H6]]></postalcode>
+			<description><![CDATA[<p>
+You&#39;re a well-rounded software developer who lives outside the box. You get the concept of &quot;move fast and break things&quot;, and aren&#39;t afraid to make bold decisions or put cutting edge technologies to work in your projects. You have a deep understanding of what it takes to build and scale a high-traffic website. Developing on clustered infrastructure (Openstack / EC2) is second nature to you. Continuous deployment doesn&#39;t scare you. Like Etsy, you ascribe to the Church of Graphs and understand the importance of cross-platform metrics.</p>
+<p>
+<strong>Experience with the following technologies would be an asset:</strong></p>
+<ul>
+<li>
+Backbone.js or other MVC(esque) web frameworks</li>
+<li>
+Node.js and Ruby</li>
+<li>
+Postgres or other relational databases</li>
+<li>
+Redis or other NoSQL databases</li>
+<li>
+Memcached</li>
+<li>
+Automated testing with Jasmine or similar</li>
+<li>
+Puppet or Chef configuration systems</li>
+<li>
+Interacting with and building APIs</li>
+<li>
+Amazon EC2 and S3</li>
+<li>
+NGINX (Apache would be plus)</li>
+<li>
+HTML, CSS, JavaScript</li>
+<li>
+Git &amp; Github</li>
+<li>
+Linux (particularly Debian)</li>
+</ul>
+<p>
+Working at Oikoi offers flexible work hours at a fast-moving startup, a retina Macbook computer and dual monitors, gym membership, competitive equity options, and office space in the VeloCity Garage - current and former Garage tenants include BufferBox, Vidyard, Pair, Thalmic Labs, MappedIn, and Maluuba.</p>
+<p>
+Github repositories, open source contributions, and personal projects are huge for us - show us what you can do in your application!</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/oikoi/2WUfi4"></script>]]></buttons>
+		</job>
+	</jobs>

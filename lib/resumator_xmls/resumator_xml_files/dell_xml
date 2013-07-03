@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Dell Inc.]]></company>
+			<job>
+			<id><![CDATA[job_20100524175534_DTAJRHR0OHVEMKCL]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Java Developer - Systems Management]]></title>
+			<department><![CDATA[Dell]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://dell.theresumator.com/apply/9ct9lr/Senior-Java-Developer-Systems-Management.html]]></url>
+			<city><![CDATA[Austin, TX]]></city>
+			<state><![CDATA[TX]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[78759]]></postalcode>
+			<description><![CDATA[<p>
+	<span class="text" id="requisitionDescriptionInterface.d228645e316.row1" title="">Dell is hiring for a Senior software engineer working in Dell&#39;s Enterprise product group on systems management software and solutions development. The position will be based out of Dell&#39;s Sunnyvale campus. The candidate will be a member of the PG Software engineering team and will be responsible for developing, maintaining and enhancing a software integration stack for products like Dell Advanced Infrastructure Manager by Scalent (Dell AIM) into various solution offerings. The candidate should be comfortable working in both the Windows and Linux environments, have experience programming in both Java as well as expertise in integrating products via Web Services. Prior experience in accurately scoping implementation resource requirements and schedule timelines is important. Candidates should also have good communication, mentoring, and leadership skills to work across a global development team environment.&nbsp; </span></p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	<span class="text" id="requisitionDescriptionInterface.d228645e325.row1" title="">8-10 years of Software development experience, including 5 years in the following areas:<br />
+	&bull; Experience integrating products using Web Services<br />
+	&bull; Understanding of XML, SOAP, WSDL, XMLS Schema<br />
+	&bull; Experience with the Apache Axis Web Services framework<br />
+	&bull; Ability to program in both Java and C#<br />
+	&bull; Experience with Virtualization technologies (VMWare, Hyper-V, etc.) a plus<br />
+	<br />
+	General skills<br />
+	<br />
+	&bull; XML, SOAP, XML Schema<br />
+	&bull; Past experience with various RPC mechanisms a plus<br />
+	&bull; Understanding of secure communications protocols such as SSL, SSH, HTTPS<br />
+	&bull; Knowledge of network programming (TCP/IP, sockets, etc).<br />
+	&bull; Multi-threaded programming<br />
+	&bull; Excellent design and analytical skills<br />
+	&bull; Proven ability to take a product through all phases of development (design, specification, implementation, QA, and production)<br />
+	&bull; BS or MS degree in computer science</span></p>
+<p>
+	<span _fck_bookmark="1" style="display: none;"><span class="text" id="requisitionDescriptionInterface.d228645e325.row1" title="">8-10 years of Software development experience, including 5 years in the following areas:<br />
+	&bull; Experience integrating products using Web Services<br />
+	&bull; Understanding of XML, SOAP, WSDL, XMLS Schema<br />
+	&bull; Experience with the Apache Axis Web Services framework<br />
+	&bull; Ability to program in both Java and C#<br />
+	&bull; Experience with Virtualization technologies (VMWare, Hyper-V, etc.) a plus<br />
+	<br />
+	General skills<br />
+	<br />
+	&bull; XML, SOAP, XML Schema<br />
+	&bull; Past experience with various RPC mechanisms a plus<br />
+	&bull; Understanding of secure communications protocols such as SSL, SSH, HTTPS<br />
+	&bull; Knowledge of network programming (TCP/IP, sockets, etc).<br />
+	&bull; Multi-threaded programming<br />
+	&bull; Excellent design and analytical skills<br />
+	&bull; Proven ability to take a product through all phases of development (design, specification, implementation, QA, and production)<br />
+	&bull; BS or MS degree in computer science</span></span></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/dell/9ct9lr"></script>]]></buttons>
+		</job>
+	</jobs>

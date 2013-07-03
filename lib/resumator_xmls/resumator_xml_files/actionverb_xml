@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Action Verb]]></company>
+			<job>
+			<id><![CDATA[job_20120507174406_SPO8R4RBKSNYHPZM]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Lead Ruby on Rails Developer for Vae Platform]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://actionverb.theresumator.com/apply/SAMTbC/Lead-Ruby-On-Rails-Developer-For-Vae-Platform.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[(Multiple States)]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Action Verb</strong> is looking to hire a full-time Lead Developer to take over the primary development lead responsibility for our product <strong>Vae Platform</strong> (http://vaeplatform.com/).</p>
+<p>
+This is a full-time, work-from-home, choose-your-own-hours position.</p>
+<p>
+<em>[NO RECRUITERS, NO PHONE CALLS, PLEASE.]</em></p>
+<p>
+<br />
+<strong>Action Verb&#39;s Story</strong></p>
+<p>
+Action Verb is a bootstrapped, profitable company founded in 2007.&nbsp; Action Verb offers two main products:&nbsp; BrickFTP,&nbsp; a hosted file sharing service for business, and Vae Platform, a unique web hosting platform with an integrated SaaS CMS system.&nbsp; Our SaaS services have almost 1,000 paying customers and a total userbase of about 10,000 users.</p>
+<p>
+We&#39;re a small company (you&#39;ll be the 6th person on the team when you join) but we&#39;re at an inflection point where we&#39;re trying to grow into a more robust team.</p>
+<p>
+<em><strong>Here&#39;s where you come in.</strong></em></p>
+<p>
+Until 2011, Kevin, the founder of the company had been the lead engineer on all of our applications.&nbsp; We are now in the process of building out an engineering team so that we may develop and improve our products more quickly.&nbsp;</p>
+<p>
+We&#39;ve done this successfully on BrickFTP and are now looking to do the same thing on Vae Platform.&nbsp; By the end of the first quarter of 2013, we expect to be about an 8-10 person team.</p>
+<p>
+So we&#39;re now opening up our search for an engineering lead for Vae Platform to take an ownership role of the development side (but not the marketing/bizdev) side of the product.</p>
+<p>
+<strong>You&#39;ll be responsible for:</strong></p>
+<ul>
+<li>
+Shaping (with management) the direction of the product -- determining which features to include, what to release when, etc.</li>
+<li>
+Becoming familiar with customer feedback</li>
+<li>
+Implementation and testing (i.e. actually getting your hands dirty with Ruby and PHP code)</li>
+<li>
+Performance Tuning</li>
+<li>
+Working with Customer Support to address any technical issues faced by customers</li>
+</ul>
+<p>
+Basically, you&#39;ll be in charge of taking Vae Platform to the next level.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>What is Vae Platform?</strong></p>
+<p>
+Vae Platform is our hosting environment with a built-in CMS.</p>
+<p>
+Vae Platform has been around since 2007 and has thousands of active users and hundreds of paying customers.</p>
+<p>
+We obsess over the experience that developers have when using Vae Platform.&nbsp; We&#39;re not the cheapest solution, but we win by making lives easy for developers.</p>
+<p>
+We have huge plans to grow the platform in 2013 and have already identified specific niches where we think we can be very successful.</p>
+<p>
+The backend is built on Rails 3, and use Resque, Haml, Sass, jQuery, Memcached, and Git.&nbsp; VaeML (our custom markup language) is written in PHP and VaeDB (our custom database) is written in C++.&nbsp; On the operations side, we use Plesk and Chef.&nbsp; We host everything on an internally managed server stack on Amazon EC2 and Amazon RDS.</p>
+<p>
+We use Mac OS and vim for development, but you&rsquo;re free to use whatever you&rsquo;d like.&nbsp; We run Linux (Ubuntu) on our servers.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Experience Required</strong></p>
+<p>
+We&rsquo;re looking for someone who can bring the following things to the table:</p>
+<ul>
+<li>
+Solid PHP, Ruby, HTML, CSS, and Javascript skills</li>
+<li>
+Preference for jQuery, Haml and Sass</li>
+<li>
+Ability to prioritize and make decisions without needing to be micromanaged</li>
+<li>
+History developing actual Rails and PHP applications that have seen production usage with real customers.</li>
+<li>
+Truly interested in giving our customers a great experience and able to write to customers directly in the event that a support ticket gets assigned to you.&nbsp; At first, you will be responsible for taking over support for Vae and then eventually training support specialists.</li>
+</ul>
+<p>
+We want someone who can always use the right tool for the task.&nbsp; If something in the future calls for something like Hadoop, we want someone who&rsquo;s going to be able to put that together.&nbsp; If you like something that we aren&rsquo;t using (CoffeeScript, for example), we want you to make the case for it and convince us.</p>
+<p>
+We also want you to be good ambassadors to the Ruby and open-source communities as a whole.</p>
+<p>
+If you work on any open-source projects during the course of your work at Action Verb, we encourage you to get your changes incorporated into the official project.&nbsp; Or if you build something from scratch while working here that&rsquo;s generic and not related to our core products, we want you to release that on GitHub too.</p>
+<p>
+We&rsquo;ll also pay your travel costs to any Ruby conference where you can get a speaking gig.</p>
+<p>
+If you don&#39;t meet all those criteria, apply anyway.&nbsp; We&#39;d love to talk to as many people as we can.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>What makes this opportunity unique?</strong></p>
+<p>
+<em><strong>A really awesome team.</strong></em>&nbsp; The founder of the company is also the development lead and comes from a strong programming background.&nbsp; Kevin graduated Cum Laude in Computer Science from Harvard and been programming since age 11.&nbsp;&nbsp; We are always skeptical of tech companies that don&rsquo;t have tech founders, and we would never ask you to join unless we knew that you would enjoy working with us.&nbsp; He&#39;ll be here to back you up with any problems you have.</p>
+<p>
+<em><strong>Work from home</strong></em>.&nbsp; There&rsquo;s nothing we hate more than commuting.&nbsp; So, we don&rsquo;t have an office and would definitely like to avoid having one for as long as possible.&nbsp; If you have a family at home, move between locations, or even live abroad, this is a great opportunity to do all your work from home and stop wasting all that time on commuting.&nbsp;&nbsp; It&rsquo;s like getting 2 free hours added back to your day.</p>
+<p>
+<em><strong>Choose your own hours. </strong></em>As long as you&rsquo;re available to be on call, you can shuffle around your work schedule as you see fit.&nbsp; Work 2 hours, then run and take the kids to lunch, come back and work another 3 hours.&nbsp; We work highly variable hours so we&rsquo;ll be able to sync up no matter when you work.</p>
+<p>
+<em><strong>Free travel.&nbsp; </strong></em>Because we&rsquo;re a distributed team that all work from home, we go out of our way bring the team together in person a couple times a year.&nbsp; We speak at a number of industry conferences (think PubCon, AdTech, Affiliate Summit, etc.) and at various Internet Marketing meetups, summits, and training sessions.&nbsp; When it makes sense, and when we can, we&rsquo;d like to bring you along.</p>
+<p>
+We use these as an opportunity to get the team together to relax, work, brainstorm, and party with our customers and each other.</p>
+<p>
+We also bring the whole programming team to RailsConf and maybe another Ruby conference every year and you&#39;d be welcome to come along to that too.</p>
+<p>
+Some of these trips will be in conjunction with the programming and marketing teams from our other companies, so you&rsquo;ll get to meet the &ldquo;extended family&rdquo; as well.</p>
+<p>
+<em><strong>Stability.&nbsp;</strong></em> Action Verb is bootstrapped, profitable, adequately capitalized, and debt-free.&nbsp; We are committed to continuously improving our customer experience and believe that the product will never be &ldquo;finished.&rdquo;</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Does that sell you?</strong></p>
+<p>
+Use the form on this page to send in your resume now.&nbsp; We can&#39;t wait to read it and we&#39;re looking to hire immediately.&nbsp; Thanks for reading!</p>
+]]></description>
+			<type><![CDATA[Contracted to Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/actionverb/SAMTbC"></script>]]></buttons>
+		</job>
+	</jobs>

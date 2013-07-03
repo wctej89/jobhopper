@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Plink, Inc.]]></company>
+			<job>
+			<id><![CDATA[job_20130401150133_HXD5SWIC8PDN2Z6N]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Ruby Application Developer]]></title>
+			<department><![CDATA[Information Technology]]></department>
+			<team><![CDATA[IT]]></team>
+			<url><![CDATA[http://plink.theresumator.com/apply/eCk1dD/Ruby-Application-Developer.html]]></url>
+			<city><![CDATA[Denver]]></city>
+			<state><![CDATA[CO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[80222]]></postalcode>
+			<description><![CDATA[<p>
+If you are a motivated, hard worker and you&rsquo;re excited to be an integral part of a new and innovative start up, we want to hear from you!</p>
+<p>
+<br />
+Plink is a new online to offline rewards program that motivates our members through online media channels to shop and dine offline. We have currently signed on some of the nation&rsquo;s largest brands (including Burger King, Taco Bell, Arby&rsquo;s, 7-Eleven, Outback Steakhouse and more) to our program and we&rsquo;re excited to bring on more.&nbsp; We are building a cutting edge, disruptive platform that bridges the gap between online media and offline sales. Recently we were selected by Business Insider as one of the top 8 start-ups of 2012. We are an energetic, fast-paced, rapidly growing company and we have an immediate opening for a full-time Application Developer. Think you have what it takes to make an impact? We&rsquo;d like to see your resume.</p>
+<p>
+<strong>POSITION &amp; SUMMARY</strong></p>
+<p>
+As a member of Plink&rsquo;s software engineering team we&rsquo;re looking for you to bring in proven experience building real world scalable web applications. You should be comfortable working independently and with a team of engineers who are not only passionate about the software, but the business as a whole.</p>
+<p>
+The ideal candidate is comfortable in a fast-paced, venture-backed startup environment and will bring with them a strong work ethic and creative problem solving skills. Solving tough technical problems using innovative techniques and cutting (sometimes even bleeding) edge technologies are really what get your juices flowing. You thrive on speed, learning and a rapidly changing competitive landscape. You take pride in producing clean, elegant code and enjoy producing web applications that use the latest in front-end development techniques.</p>
+<p>
+<strong>RESPONSIBILITIES</strong></p>
+<ul>
+<li>
+Participate in all phases of the software development lifecycle.&nbsp; Design, develop, test, document and maintain new and existing applications.</li>
+<li>
+Assist in relational database design and the maintenance of existing databases.</li>
+<li>
+Understand technical infrastructure and recommend solutions consistent with the environment, technical knowledge, resources, availability requirements, enterprise architecture and other considerations.</li>
+<li>
+Exhibit excellent project management/business skills to go along with software development skills.</li>
+<li>
+Exhibit a strong desire to learn and understand all aspects of our operations and be able to interact directly with other departments.</li>
+<li>
+Interface with business leadership, business users and technical personnel to gather requirements, design, implement, and maintain various projects.</li>
+<li>
+Review and analyze system specifications to determine whether all required elements have been exercised and included.</li>
+<li>
+Develop integrations and customizations with third party applications and platforms.</li>
+<li>
+Advise and work with users to resolve specific problems or make changes in programs, provide alternative programming approaches, etc.</li>
+<li>
+Provide technical guidance to internal business and IT teams on aspects of application security, performance, quality and scalability.</li>
+<li>
+Learning and implement tools and technologies outside of base set of skills as needs arise.</li>
+</ul>
+<p>
+<strong>QUALIFICATIONS</strong></p>
+<ul>
+<li>
+3+ years experience with Ruby/Ruby on Rails</li>
+<li>
+5+ years experience in web application development, expert level HTML, CSS, Javascript, T-SQL</li>
+<li>
+5+ years experience with relational database design and development including SQL, PL/SQL, T-SQL, stored procedures, triggers, user defined functions, cursors, views and ER design</li>
+<li>
+Experience with Apache Web server, MySQL, MS SQL Server and their respective tools</li>
+<li>
+Extensive experience managing and processing large amounts of data</li>
+<li>
+Experience using batch commands to automate routine maintenance operations</li>
+<li>
+Bachelor&rsquo;s degree in Computer Science or equivalent experience</li>
+<li>
+Comfortable in a small, intense and high-growth start-up environment.</li>
+</ul>
+<p>
+<strong>PREFERRED</strong></p>
+<ul>
+<li>
+Knowledge of other web programming technologies (PHP, Coldfusion, Python)</li>
+<li>
+Knowledge of Linux, shell scripting, and regular expressions</li>
+<li>
+Experience with Agile methodologies</li>
+<li>
+Git version control experience</li>
+<li>
+Cloud infrastructure experience, specifically Amazon Web Services</li>
+<li>
+jQuery, Bootstrap CSS, responsive web design experience</li>
+<li>
+Experience writing unit tests using RSpec or Cucumber</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/plink/eCk1dD"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Webshots]]></company>
+			<job>
+			<id><![CDATA[job_20130627213334_BBAFSBOGKPHAT96D]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sr. Android Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://webshots.theresumator.com/apply/QuQZ7K/Sr-Android-Engineer.html]]></url>
+			<city><![CDATA[Corte Madera]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94925]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Company</strong></p>
+<p>
+Smile is &nbsp;preparing to launch the next evolution in photo apps. Located in a lively tech co-workspace just north of San Francisco in Corte Madera. We are a lively team of 10 seasoned engineers, designers and marketers. Besides being immersed in our work, we offer daily lunches from local chefs, afternoon exercise, and of course, competitive compensation and stock options. We&#39;re backed by True Ventures and prominent angels that include Biz Stone, Chris Sacca, and Max Levchin.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Develop Android mobile applications in Java</li>
+</ul>
+<p>
+<strong>Qualifications / Experience</strong></p>
+<ul>
+<li>
+2 years experience developing android applications or 5 years of experience with other client side Java technologies like Swing or GWT.</li>
+<li>
+Excellent Object Oriented Programming and asynchronous programming skills.</li>
+<li>
+Experience developing, testing, and deploying mobile applications.</li>
+<li>
+Ability to work with a small team in an agile environment.</li>
+</ul>
+<p>
+<strong>Preferred Qualifications</strong></p>
+<ul>
+<li>
+Deep technical knowledge of Android mobile application development.</li>
+<li>
+Knowledge of Android UI frameworks.</li>
+<li>
+Strong foundation in computer science, with strong competencies in data structures, algorithms and software design optimized for mobile applications.</li>
+</ul>
+<p>
+<strong>Our Philosophy</strong></p>
+<ul>
+<li>
+Wherever possible, we make use of recommendations from the <a href="http://www.12factor.net/">Twelve-Factor App</a> methodology</li>
+<li>
+Smile believes that <a href="http://www.slideshare.net/jgoulah/development-is-production-too">Development is Production</a>, and emphasizes consistency, reproducibility, and automation for all environments</li>
+<li>
+We move fast by promoting a lightweight product specification process, emphasizing the use of mockups and collaborative design</li>
+<li>
+Our deploy process is streamlined, utilizing small feature and hotfix branches wherever possible</li>
+<li>
+We support many different technologies, languages, and platforms and believe that it&#39;s important that engineers have the opportunity to broaden their skillset. If there&#39;s a project that looks interesting to you, we encourage you to contribute</li>
+</ul>
+<p>
+<strong>Our Technology Stack</strong></p>
+<ul>
+<li>
+Ruby on Rails, Devise, OmniAuth</li>
+<li>
+Java, Yammer&#39;s&nbsp;Dropwizard, Jetty</li>
+<li>
+Objective C</li>
+<li>
+Android SDK</li>
+<li>
+Digia QT</li>
+<li>
+Coffeescript</li>
+<li>
+Backbone.js</li>
+<li>
+Apache Lucene and Solr</li>
+<li>
+Nginx</li>
+<li>
+Opscode Chef</li>
+<li>
+Redis</li>
+<li>
+Sidekiq</li>
+<li>
+Drools</li>
+<li>
+Apache ZooKeeper</li>
+<li>
+Upstart and Monit&nbsp;</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/webshots/QuQZ7K"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130627230011_QZDJMAODIWCJV1BV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Java Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://webshots.theresumator.com/apply/XlBcwW/Java-Engineer.html]]></url>
+			<city><![CDATA[Corte Madera]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94925]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Company</strong></p>
+<p>
+Smile is &nbsp;preparing to launch the next evolution in photo apps. Located in a lively tech co-workspace just north of San Francisco in Corte Madera. We are a lively team of 10 seasoned engineers, designers and marketers. Besides being immersed in our work, we offer daily lunches from local chefs, afternoon exercise, and of course, competitive compensation and stock options. We&#39;re backed by True Ventures and prominent angels that include Biz Stone, Chris Sacca, and Max Levchin.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Develop user-facing software focusing on mobile devices</li>
+<li>
+Build applications as part of a small team using agile development principles</li>
+<li>
+Build and deploy Android mobile applications.</li>
+<li>
+Participate in all parts of the product development cycle, from inception to final delivery</li>
+</ul>
+<p>
+<strong>Qualifications / Experience</strong></p>
+<ul>
+<li>
+2+ years software engineering experience</li>
+<li>
+Experience with Java, especially desktop and mobile technologies like Android, Swing, or GWT.</li>
+<li>
+Experience consuming REST services.</li>
+<li>
+Strong debugging and testing skills</li>
+<li>
+Excellent organizational skills with strong attention to detail</li>
+</ul>
+<p>
+<strong>Our Philosophy</strong></p>
+<ul>
+<li>
+Wherever possible, we make use of recommendations from the <a href="http://www.12factor.net/">Twelve-Factor App</a> methodology</li>
+<li>
+Smile believes that <a href="http://www.slideshare.net/jgoulah/development-is-production-too">Development is Production</a>, and emphasizes consistency, reproducibility, and automation for all environments</li>
+<li>
+We move fast by promoting a lightweight product specification process, emphasizing the use of mockups and collaborative design</li>
+<li>
+Our deploy process is streamlined, utilizing small feature and hotfix branches wherever possible</li>
+<li>
+We support many different technologies, languages, and platforms and believe that it&#39;s important that engineers have the opportunity to broaden their skillset. If there&#39;s a project that looks interesting to you, we encourage you to contribute</li>
+</ul>
+<p>
+<strong>Our Technology Stack</strong></p>
+<ul>
+<li>
+Ruby on Rails, Devise, OmniAuth</li>
+<li>
+Java, Yammer&#39;s&nbsp;Dropwizard, Jetty</li>
+<li>
+Objective C</li>
+<li>
+Android SDK</li>
+<li>
+Digia QT</li>
+<li>
+Coffeescript</li>
+<li>
+Backbone.js</li>
+<li>
+Apache Lucene and Solr</li>
+<li>
+Nginx</li>
+<li>
+Opscode Chef</li>
+<li>
+Redis</li>
+<li>
+Sidekiq</li>
+<li>
+Drools</li>
+<li>
+Apache ZooKeeper</li>
+<li>
+Upstart and Monit&nbsp;</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/webshots/XlBcwW"></script>]]></buttons>
+		</job>
+	</jobs>

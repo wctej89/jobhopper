@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[ShiftHound, Inc.]]></company>
+			<job>
+			<id><![CDATA[job_20120224031037_LNLUP802LFD32WTV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Rep]]></title>
+			<department><![CDATA[sales]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://shifthound.theresumator.com/apply/azYaN9/Rep.html]]></url>
+			<city><![CDATA[San Diego]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[92101]]></postalcode>
+			<description><![CDATA[<p>
+	Blah, blah</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/shifthound/azYaN9"></script>]]></buttons>
+		</job>
+	</jobs>

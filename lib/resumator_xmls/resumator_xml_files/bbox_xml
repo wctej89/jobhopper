@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[BBox]]></company>
+			<job>
+			<id><![CDATA[job_20120622155148_WDWXN39YNLF5LRCB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Content]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://bbox.theresumator.com/apply/TtZHwB/Content.html]]></url>
+			<city><![CDATA[Millbur]]></city>
+			<state><![CDATA[NJ]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[07078]]></postalcode>
+			<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at mi vitae sem hendrerit semper. Pellentesque lacinia cursus rutrum. Donec in semper sapien. Aenean posuere posuere mattis. In metus risus, vehicula in viverra sed, mollis at tellus. Nunc molestie pellentesque urna, sit amet vulputate nunc euismod ut. Cras arcu sem, vulputate consequat molestie quis, egestas id libero. Morbi arcu sapien, bibendum non vehicula aliquet, euismod non felis. Aenean consequat, massa sit amet luctus interdum, orci mauris faucibus nisl, ac posuere massa tellus sit amet dui. In consequat blandit posuere. Aliquam odio nisl, ultricies eu elementum at, bibendum vel odio. In hac habitasse platea dictumst. Proin sollicitudin, enim nec scelerisque hendrerit, ipsum purus dignissim arcu, eu ullamcorper risus leo et lacus.</p><p>Nullam porttitor, enim ut pulvinar malesuada, purus lorem ultrices eros, sit amet accumsan elit orci nec sem. Praesent cursus rutrum felis eu sollicitudin. Ut sagittis fermentum eleifend. Mauris velit mi, hendrerit non faucibus at, cursus ac metus. Vivamus commodo lectus ac libero cursus condimentum condimentum sem aliquet. Etiam vestibulum erat eget risus tempor et scelerisque ipsum tincidunt. Phasellus mollis diam vel tortor egestas auctor ornare lacus sollicitudin. Praesent viverra dapibus nisi. Proin vitae vehicula dolor. Nunc eget eros nec nisi hendrerit faucibus in et dolor. Morbi gravida consequat ante ac consectetur.</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (High School)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/BBox/TtZHwB"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120622154129_FGHD3JGAJGYEZR6U]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[SE]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://bbox.theresumator.com/apply/rHoLi1/SE.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[12111]]></postalcode>
+			<description><![CDATA[<p>Description!</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/BBox/rHoLi1"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120622155302_4B7F4VXUO8RUVR35]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Test Job]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://bbox.theresumator.com/apply/OT92cj/Test-Job.html]]></url>
+			<city><![CDATA[Place]]></city>
+			<state><![CDATA[DE]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[92817]]></postalcode>
+			<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris at mi vitae sem hendrerit semper. Pellentesque lacinia cursus rutrum. Donec in semper sapien. Aenean posuere posuere mattis. In metus risus, vehicula in viverra sed, mollis at tellus. Nunc molestie pellentesque urna, sit amet vulputate nunc euismod ut. Cras arcu sem, vulputate consequat molestie quis, egestas id libero. Morbi arcu sapien, bibendum non vehicula aliquet, euismod non felis. Aenean consequat, massa sit amet luctus interdum, orci mauris faucibus nisl, ac posuere massa tellus sit amet dui. In consequat blandit posuere. Aliquam odio nisl, ultricies eu elementum at, bibendum vel odio. In hac habitasse platea dictumst. Proin sollicitudin, enim nec scelerisque hendrerit, ipsum purus dignissim arcu, eu ullamcorper risus leo et lacus.</p><p>Nullam porttitor, enim ut pulvinar malesuada, purus lorem ultrices eros, sit amet accumsan elit orci nec sem. Praesent cursus rutrum felis eu sollicitudin. Ut sagittis fermentum eleifend. Mauris velit mi, hendrerit non faucibus at, cursus ac metus. Vivamus commodo lectus ac libero cursus condimentum condimentum sem aliquet. Etiam vestibulum erat eget risus tempor et scelerisque ipsum tincidunt. Phasellus mollis diam vel tortor egestas auctor ornare lacus sollicitudin. Praesent viverra dapibus nisi. Proin vitae vehicula dolor. Nunc eget eros nec nisi hendrerit faucibus in et dolor. Morbi gravida consequat ante ac consectetur.</p>]]></description>
+			<type><![CDATA[Part Time to Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/BBox/OT92cj"></script>]]></buttons>
+		</job>
+	</jobs>

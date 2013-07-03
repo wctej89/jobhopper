@@ -1,0 +1,489 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Mixpanel, Inc.]]></company>
+			<job>
+			<id><![CDATA[job_20130208015020_5UBNCYYYYHTLKS26]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Account Manager]]></title>
+			<department><![CDATA[Solutions]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://mixpanel.theresumator.com/apply/5lTbM8/Account-Manager.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+Mixpanel is the most advanced analytics platform for mobile &amp; web. Our mission is to help the world learn from its data. We currently analyze over 10 billion actions every single month from our customers.</p>
+<p>
+We are looking for Account Managers to work with our high volume customers. The Account Manager&rsquo;s job will be to grow revenue across an assigned set of existing customers by understanding their needs, working with them to improve their implementations, and identifying new opportunities for Mixpanel within their organization.</p>
+<p>
+A successful candidate will:</p>
+<ul>
+<li>
+Have a strong record of owning, building, and growing trusted relationships with executives, engineers, and product managers at technology organizations. We are looking for between one and five years experience.</li>
+<li>
+Be passionate about customer service. Account Managers are the most important representatives of the Mixpanel brand, and a successful candidate will show how they have consistently surprise and delight their customers and clients.</li>
+<li>
+Be a great listener and communicator. Account Managers have to be able to clearly and quickly connect the dots between a customer&rsquo;s needs and Mixpanel&rsquo;s capabilities.</li>
+<li>
+Superb writing skills</li>
+</ul>
+<p>
+We pay a competitive salary, provide full benefits, and will cover relocation expenses to San Francisco.</p>
+<p>
+<strong>Financial Considerations:</strong><br />
+Mixpanel is making millions in revenue, cash flow postive, and backed by top-tier investors including: Andreessen Horowitz, Sequoia Capital, Y Combinator, Max Levchin, Michael Birch, and Keith Rabois -- raising a total of $12M.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/mixpanel/5lTbM8"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110510233850_EBEQPIMUHEHZXY5U]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[DevOps Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://mixpanel.theresumator.com/apply/Xm0tLy/DevOps-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+Mixpanel currently processes over 10 billion transactions every single month from gaming, mobile, social sharing, and e-commerce companies world-wide. Our customers pay us to do data analysis that is real-time, to-the-second and we specialize in doing analysis that is far more complex than the alternatives. Our mission is to help the world learn from their data.</p>
+<p>
+<strong>Our engineers</strong></p>
+<ul>
+<li>
+Demonstrate world-class programming ability.</li>
+<li>
+Collaborate and discuss engineering architecture.</li>
+<li>
+Care about system reliability and code quality.</li>
+<li>
+Will dig through source code other people wrote to fix problems no matter what.</li>
+<li>
+Currently are 80% vim and 20% emacs.</li>
+</ul>
+<p>
+Operations engineers are critical in making sure our systems stay up, are up to date, and are capable of working together with the infrastructure team to keep up with the demands of data volume we get month to month. Automating infrastructure, spotting bottlenecks, and building tools to monitor and maintain system stability are also important.</p>
+<p>
+<strong>Expectations</strong></p>
+<ul>
+<li>
+You have mastered one programming language beyond traditional shell scripting.</li>
+<li>
+You have a core understanding of fundamental computer science concepts.</li>
+<li>
+You understand performance tradeoffs.</li>
+<li>
+You are careful and detailed oriented.</li>
+<li>
+You love automation and making once manual tasks be done automatically</li>
+</ul>
+<p>
+<strong>Financial considerations</strong></p>
+<ul>
+<li>
+We are backed by amazing top-tier investors including: Sequoia Capital, Max Levchin, Michael Birch, and Keith Rabois.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/mixpanel/Xm0tLy"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130207025121_EU2DAZYZLZMOKKFH]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sales Manager]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://mixpanel.theresumator.com/apply/KyXZZN/Sales-Manager.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94105]]></postalcode>
+			<description><![CDATA[<p>
+Mixpanel is the most advanced analytics platform for mobile &amp; web. Our mission is to help the world learn from its data. We currently analyze over 10 billion actions every single month from our customers.</p>
+<p>
+We&#39;re looking for people to join our sales team and help more customers become data driven with our extremely advanced analytics product.&nbsp;</p>
+<p>
+As an early member of the team, you&#39;ll build a sales pipeline from qualified inbound leads (no outbound prospecting necessary - we have more inbound leads that we can keep up with), manage enterprise relationships, help refine the sales process, manage the sales cycle, negotiate pricing and close deals to achieve annual targets. Your experience identifying problems and suggesting solutions, as well as building relationships over the phone and locating key decision makers within prospective accounts will be crucial to your success. The right candidate will be customer-focused, results-driven and have excellent communication and interpersonal skills.</p>
+<p>
+<strong>Our Sales Managers</strong></p>
+<ul>
+<li>
+Are very team oriented about reaching their sales goals</li>
+<li>
+Proven track record of hitting your targets</li>
+<li>
+Are hungry, persistent, and have no ego</li>
+<li>
+Sell in a benefits oreiented way--it&#39;s not about the features our product has to offer</li>
+<li>
+Can sell a technical product without being technical</li>
+<li>
+Are methodical, diligent, and organized about their sales process</li>
+</ul>
+<p>
+<strong>Expectations</strong></p>
+<ul>
+<li>
+You have a minimum of 5 years of experience selling Internet software</li>
+<li>
+Have at least one college or university equivalent degree</li>
+<li>
+Have excellent communication and presentation skills</li>
+<li>
+Big plus if you are familiar with Javascript&nbsp;or HTTP</li>
+</ul>
+<p>
+<strong>Financial considerations</strong></p>
+<ul>
+<li>
+We&#39;ve raised $12M in capital and are backed by Andreessen Horowitz, Sequoia Capital, Max Levchin, Marc Benioff, etc.</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/mixpanel/KyXZZN"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110510190200_TITQKIV7CWUET3ND]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://mixpanel.theresumator.com/apply/HUEQ75/Software-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+Mixpanel&#39;s mission is to help the world learn from their data. We&#39;ve made it ridiculously easy to run extremely complex queries across massive amounts of data, all in real-time - our reports are literally to-the-second.</p>
+<p>
+We&#39;re currently processing over 10 billion transactions per month from gaming, mobile, social, and e-commerce companies world-wide. This volume of data, and the types of analysis we can do, give us some uniquely interesting problems to solve: scaling, data integrity, building apis, availability, and data visualization.</p>
+<p>
+<strong>Our engineers</strong></p>
+<ul>
+<li>
+Demonstrate world-class programming ability.</li>
+<li>
+Collaborate and discuss engineering architecture.</li>
+<li>
+Care about system reliability and code quality.</li>
+<li>
+Will dig through source code other people wrote to fix problems no matter what.</li>
+<li>
+Are 80% vim, 20% emacs.</li>
+</ul>
+<p>
+As an engineer at Mixpanel, you&#39;ll be doing interesting work from day one. &nbsp;We&#39;ve got tons of problems to solve, from scaling the backend to writing intricate interfaces.</p>
+<p>
+<strong>Expectations</strong></p>
+<ul>
+<li>
+You are a generalist looking to tackle any engineering problem from front to back.</li>
+<li>
+You have mastered one programming language. We write C, Python, and Javascript heavily.</li>
+<li>
+You have a core understanding of fundamental computer science concepts.</li>
+<li>
+You understand performance tradeoffs.</li>
+<li>
+You have built (and are dying to show us) something you&#39;re proud of, outside of work/school.</li>
+</ul>
+<p>
+<strong>Financial considerations</strong></p>
+<ul>
+<li>
+We are backed by amazing top-tier investors including: Sequoia Capital, Max Levchin (co-founder of PayPal), Michael Birch (co-founder of Bebo), and Keith Rabois (COO of Square).</li>
+</ul>
+<p>
+<strong>Challenge</strong></p>
+<ul>
+<li>
+What&#39;s the hardest thing you have ever built? Explain it in as much detail as you would like. Email jobs@mixpanel.com with your answer and resume.<br />
+&nbsp;</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/mixpanel/HUEQ75"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110510233104_MQK5NIVZUEMN6IMS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer: Backend]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://mixpanel.theresumator.com/apply/CiOzuu/Software-Engineer-Backend.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94105]]></postalcode>
+			<description><![CDATA[<p>
+Mixpanel&#39;s mission is to help the world learn from their data. We&#39;ve made it ridiculously easy to run extremely complex queries across massive amounts of data, all in real-time - our reports are literally to-the-second.</p>
+<p>
+We&#39;re currently processing over 10 billion transactions per month from gaming, mobile, social, and e-commerce companies world-wide. This volume of data, and types of analysis we can do, give us some uniquely interesting problems to solve: scaling, data integrity, building api&#39;s, availability, and data visualization.</p>
+<p>
+<strong>Our engineers</strong></p>
+<ul>
+<li>
+Demonstrate world-class programming ability.</li>
+<li>
+Collaborate and discuss engineering architecture.</li>
+<li>
+Care about system reliability and code quality.</li>
+<li>
+Will dig through source code other people wrote to fix problems no matter what.</li>
+<li>
+Currently are 80% vim and 20% emacs.</li>
+</ul>
+<p>
+Backend engineers help Mixpanel keep up with the immense amount of data volume growth we get each month. They build fast, scalable, distributed, and fault-tolerant systems. Our backend engineers are ready to use existing software without reinventing the wheel, but they benchmark the hell out of it first - and if it&#39;s not good enough, they&#39;ll build something better.</p>
+<p>
+At some companies, scaling is a solved problem. &nbsp;At Mixpanel, you&#39;ll learn new things about distributed systems every day.</p>
+<p>
+<strong>Expectations</strong></p>
+<ul>
+<li>
+You have mastered one programming language. We write C, Python, and Javascript heavily.</li>
+<li>
+You have an excellent understanding of fundamental data structures.</li>
+<li>
+You understand performance tradeoffs.</li>
+<li>
+You are careful and detailed oriented.</li>
+<li>
+You watch IO and other potential bottlenecks like a hawk.</li>
+<li>
+You have built (and are dying to show us) something you&#39;re proud of, outside of work/school.</li>
+</ul>
+<p>
+<strong>Financial considerations</strong></p>
+<ul>
+<li>
+We are backed by amazing top-tier investors including: Sequoia Capital, Max Levchin, Michael Birch, and Keith Rabois.</li>
+</ul>
+<p>
+<strong>Challenge</strong></p>
+<ul>
+<li>
+What&#39;s the hardest thing you have ever built? Explain it in as much detail as you would like. Email jobs@mixpanel.com with your answer and resume.<br />
+&nbsp;</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/mixpanel/CiOzuu"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110510231256_H7LAXBODPGGU6PTX]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer: Front-end]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://mixpanel.theresumator.com/apply/rhQrIj/Software-Engineer-Frontend.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+Mixpanel&#39;s mission is to help the world learn from their data. We&#39;ve made it ridiculously easy to run extremely complex queries across massive amounts of data, all in real-time - our reports are literally to-the-second.</p>
+<p>
+We&#39;re currently processing over 10 billion transactions per month from gaming, mobile, social, and e-commerce companies world-wide. This volume of data, and types of analysis we do, give us some uniquely interesting problems to solve: scaling, data integrity, building api&#39;s, availability, and data visualization.</p>
+<p>
+<strong>Our engineers</strong></p>
+<ul>
+<li>
+Demonstrate world-class programming ability.</li>
+<li>
+Build the tools they need to move fast.</li>
+<li>
+Care deeply about system reliability, code quality, and frontend architecture.</li>
+<li>
+Will dig through source code other people wrote to fix problems no matter what.</li>
+<li>
+Are 80% vim and 20% emacs.</li>
+</ul>
+<p>
+Mixpanel front-end engineers write massive amounts of Javascript, &nbsp;as well as Python, HTML, and CSS. &nbsp;</p>
+<p>
+Interfaces as complex as ours are extremely challenging to build, and we take the challenge seriously - Javascript makes up 56% of our entire codebase. &nbsp;We use excellent tools like jQuery, underscore, and Backbone, as well as a variety of internal frameworks and systems.</p>
+<p>
+<strong>Expectations</strong></p>
+<ul>
+<li>
+You have mastered one (any) programming language. We write C, Python, and Javascript heavily.</li>
+<li>
+You have a core understanding of fundamental computer science concepts.</li>
+<li>
+You have built (and are dying to show us) something you&#39;re proud of, outside of work/school.</li>
+</ul>
+<p>
+<strong>Financial considerations</strong></p>
+<ul>
+<li>
+We are backed by amazing top-tier investors including: Sequoia Capital, Max Levchin, Michael Birch, and Keith Rabois.</li>
+</ul>
+<p>
+<strong>Challenge</strong></p>
+<ul>
+<li>
+What&#39;s the hardest thing you have ever built? Explain it in as much detail as you would like. Email jobs@mixpanel.com with your answer and resume.<br />
+&nbsp;</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/mixpanel/rhQrIj"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110511001425_LUST2JRSLEJVTMHY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Solutions Architect]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://mixpanel.theresumator.com/apply/Eoh3qJ/Solutions-Architect.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94105]]></postalcode>
+			<description><![CDATA[<p>
+Mixpanel is the most advanced analytics platform for mobile &amp; web. Our mission is to help the world learn from its data. We currently analyze over 10 billion actions every single month from our customers.</p>
+<p>
+We are looking for a world-class Solutions Architect to join our team. Our Solutions Architects are some of the most dynamic folks in the industry and get to wear a lot of hats in our busy start-up. Broadly defined, it will be your job to help our customers use Mixpanel succesfully. This is an intentionally broad definition. As a Solutions Architect, you&#39;ll need to be ready for anything. You&#39;ll spend lots of time working with customers in different ways: planning data tracking strategies for their products, leading training operations, and answering technical questions about Mixpanel. The solutions team also plays an important role as mixpanel evangelists. On any given day you might find yourself in a strategic discussion with the CMO of a Fortune 500 company or just figuring out how many pizzas it takes to satisfy the 40 customers who just RSVP&#39;d for your Q&amp;A session.</p>
+<p>
+There are moderate technical requirements for this job. You must understand Javascript, HTML and HTTP. You also must have experience with at least one language commonly used for web apps (Python, PHP, Ruby, etc). Additionally we are looking for:<br />
+<br />
+- At least 3 years of work experience (any industry)<br />
+- True passion for interfacing and helping customers directly<br />
+- Superb writing skills<br />
+- The ability to listen. Figure out the question behind the question to anticipate what the customers need even before they realize it.</p>
+<p>
+We pay a competitive salary, provide full benefits, and will cover relocation expenses to San Francisco.</p>
+<p>
+<strong>Financial Considerations:</strong><br />
+Mixpanel is making millions in revenue, cash flow postive, and backed by top-tier investors including: Andreessen Horowitz, Sequoia Capital, Y Combinator, Max Levchin, Michael Birch, and Keith Rabois -- raising a total of $12M.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/mixpanel/Eoh3qJ"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120406200735_ALTNIPA1D4TSI9B3]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Technical Recruiter]]></title>
+			<department><![CDATA[HR]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://mixpanel.theresumator.com/apply/2okBk1/Technical-Recruiter.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94105]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+B.S. or M.S. in any category</li>
+<li>
+2+ years of professional experience</li>
+<li>
+1+ year of marketing experience</li>
+<li>
+Ability to do technical pre-screens to identify top candidates for interviews</li>
+</ul>
+<p>
+<strong>You will be doing things like:</strong></p>
+<ul>
+<li>
+Figuring out creative ways to source technical and non-technical candidates</li>
+<li>
+Building relationships with schools and leading up on-campus recruiting</li>
+<li>
+Managing interview logistics for a growing candidate pool</li>
+<li>
+Keeping tabs on the interview process for each candidate to make sure they have an excellent experience</li>
+</ul>
+<p>
+This is where you come in. We&#39;re looking for the right person to source, interview, negotiating offers, and do everything it takes to close exceptional candidates.</p>
+<p>
+Our idea of &quot;right&quot; might be a little unusual, though - we don&#39;t care too much about your existing experience. We think recruiting is a marketing problem, best approached in a creative and entrepreneurial way. We want someone who can figure out how to get applicants knocking down our door, not someone who just wants to spam linkedin.</p>
+<p>
+<strong>About Mixpanel</strong></p>
+<ul>
+<li>
+Mixpanel is the most advanced analytics platform for mobile &amp; web.</li>
+<li>
+We have only 13 employees so this is a great opportunity to join a small team in our office is in SOMA/San Francisco.</li>
+<li>
+Our product is used by Jawbone, Airbnb, Capcom, and BitTorrent just to name a few.</li>
+<li>
+We&#39;ve raised capital from top-tier investors in Silicon Valley: Andreessen Horowitz, Sequoia Capital, Y Combinator, Keith Rabois from Square, Marc Benioff from Salesforce, Max Levchin from Slide/Paypal, and Michael Birch from Bebo.</li>
+<li>
+We&#39;re profitable with revenue growth in the double digits every month.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/mixpanel/2okBk1"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110511002718_NMGKMRVAJZJ7ZLVJ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Visual/Interface designer]]></title>
+			<department><![CDATA[Design]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://mixpanel.theresumator.com/apply/eC93vj/VisualInterface-Designer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+Mixpanel currently processes over 10 billion transactions every single month from gaming, mobile, social sharing, and e-commerce companies world-wide. We are the fastest and most advanced analytics platform for mobile &amp; web. Our mission is to help the world learn from its data.</p>
+<p>
+We are looking for an amazing designer to join our team. Our ideal candidate is someone who:</p>
+<ul>
+<li>
+Possesses a blend of visual design, interaction design, and an unrelenting commitment to outstanding quality.</li>
+<li>
+Finds the established set of data visualization and design to be sub-par at best and is interested in its innovation.</li>
+<li>
+Considers every single detail because design is in the details.</li>
+<li>
+Has outstanding illustrations skills as well.</li>
+<li>
+Backs every pixel modified with a reason for doing it; As to improve our customers&#39; user experience.</li>
+<li>
+Is highly iterative.</li>
+<li>
+Is sick of enterprise products being so poorly designed.</li>
+</ul>
+<p>
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+2-3 years minimum experience</li>
+<li>
+Proficient in Photoshop, Illustrator, or other design tools</li>
+<li>
+Has a portfolio on hand to demonstrate skills</li>
+</ul>
+<p>
+<strong>Financial Considerations:</strong></p>
+<ul>
+<li>
+Backed by top-tier investors including: Sequoia Capital, Max Levchin, Michael Birch, and Keith Rabois</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/mixpanel/eC93vj"></script>]]></buttons>
+		</job>
+	</jobs>

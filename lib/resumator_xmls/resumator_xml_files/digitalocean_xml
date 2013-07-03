@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[DigitalOcean]]></company>
+			<job>
+			<id><![CDATA[job_20130207171200_JD5NKGFZDEGYLOGP]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Director of TechOps / CTO Level]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://digitalocean.theresumator.com/apply/9unaCG/Director-Of-TechOps-CTO-Level.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10012]]></postalcode>
+			<description><![CDATA[<p>
+Join a thriving startup and TechStars graduate. DigitalOcean is simplifying the complexities of cloud hosting. We are focused on building the next cloud that will revolutionize the hosting industry. We are a small team but growing at a very rapid pace with over 90,000 virtual servers launched and 4,500+ customers.&nbsp;</p>
+<p>
+We currently manage over 1,000 servers in our New York and Amsterdam datacenter locations, store over a petabyte of data on our network growing at 1.5 terabytes a day, and deliver gigabits of active network throughput to the public internet.</p>
+<p>
+We are searching for an experienced systems engineer who&#39;s looking to take on a new challenge. You&#39;ll be responsible for growing the company&#39;s open source infrastructure and motivating the engineers who currently provide 24/7 service.</p>
+<p>
+We have a tight knit team that loves to have fun, food and drinks. We work hard when we need to and we enjoy the slow periods. Our office is located in the middle of SoHo so there&#39;s plenty to do after work.</p>
+<p>
+The new year has plenty of challenges in store and we&#39;re looking for the right leader to complement a fast and growing team. In the new year we are building cutting edge technology to deliver a whole new set of services.</p>
+<p>
+<strong>What you need to know:</strong></p>
+<ul>
+<li>
+Experience in large datacenter environments (250+ nodes)</li>
+<li>
+Experience with high traffic redundant BGP networks (1+ Gbps)</li>
+<li>
+Virtualization (Xen/KVM)</li>
+<li>
+Storage (ZFS, iSCSI, Gluster)</li>
+<li>
+Configuration Management (Puppet/Chef)</li>
+<li>
+Managing teams and culture building (5+ people)</li>
+<li>
+Agile development</li>
+<li>
+Automation (deployment, production &amp; scripting)</li>
+</ul>
+<p>
+<strong>*** PLEASE INCLUDE IN YOUR COVER LETTER:&nbsp;</strong><strong>To show us that you&#39;re serious about this position, please rate yourself on the topics above on a scale of 1-5 (5 being the highest). Please provide a few sentences that describe your work experience in those areas.</strong></p>
+<p>
+We&#39;re actively looking and are ready to interview. If you&#39;re serious about an exciting new position in a fast growing company, and have the experience - please apply and we&#39;ll definitely be in touch. IMPORTANT: This is not an off-site/remote position. You must be willing to work from our NYC office.</p>
+<p>
+<strong>Benefits:</strong></p>
+<ul>
+<li>
+Annual Bonus &amp; Raise</li>
+<li>
+Free commute</li>
+<li>
+Free drinks, snacks and meals</li>
+<li>
+Comprehensive health insurance plan with no out of pocket expense</li>
+<li>
+401K Retirement Plan with 4% match</li>
+<li>
+Compensation: $130k+ Based on Experience</li>
+<li>
+Applicants only. Recruiters, please don&#39;t contact this job poster.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Executive]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/digitalocean/9unaCG"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130218204844_U8RYHM4CTLDPSBJG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Jr. System Administrator]]></title>
+			<department><![CDATA[Support]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://digitalocean.theresumator.com/apply/TMhCgd/Jr-System-Administrator.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10012]]></postalcode>
+			<description><![CDATA[<p>
+Join a thriving startup and TechStars graduate. DigitalOcean is simplifying the complexities of cloud hosting. We are focused on building the next cloud that will revolutionize the hosting industry. We are a small team but growing at a very rapid pace with over 100,000 virtual servers launched and 5,000+ customers.</p>
+<p>
+&nbsp;</p>
+<p>
+We are looking for someone to join our growing support team. We are looking for someone who is excited to provide awesome support for our rapidly expanding developer community. We offer our customers a variety of linux distributions to work with and need someone who is ready to help customers tackle problems that range from simple program configuration best practices to debugging connection issues.<br />
+<br />
+You will be responsible for answering support tickets, responding to user comments on the site, and giving in depth technical suggestions on our forum and IRC channel. Because of the constant customer interactions, excellent communication skills are a must.<br />
+<br />
+<strong>We are looking for a support person to fill the 4pm to 12am shift Monday through Friday.<br />
+<br />
+IMPORTANT: This is not an off-site/remote position. You must be willing to work from our NYC office.</strong></p>
+<p>
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+You need to have a basic understanding of the following:</li>
+<li>
+Apache/Nginx/Lighttpd</li>
+<li>
+PHP (w/memcache)</li>
+<li>
+MySQL (replication)</li>
+<li>
+DNS</li>
+<li>
+Mail Servers</li>
+<li>
+Security Hardening</li>
+<li>
+Performance Optimization and Application Troubleshooting</li>
+<li>
+TCP Networking (L3 switching VLANs)</li>
+<li>
+Virtualization (Xen, KVM, VMware)</li>
+<li>
+NFS Storage</li>
+<li>
+CMS Systems: Wordpress, Joomla, CakePHP, Drupal</li>
+</ul>
+<p>
+<br />
+<strong>Bonus Points:</strong></p>
+<ul>
+<li>
+Nagios or Zenoss</li>
+<li>
+Cacti / RRD / MRTG</li>
+<li>
+Advanced TCP Networking: OSPF, BGP, Hardware Load Balancing, Hardware Firewalls</li>
+<li>
+VPN (Hardware and OpenVPN)</li>
+<li>
+LDAP (OpenLDAP)</li>
+<li>
+Bash/Perl/Python Scripting</li>
+<li>
+Puppet or Chef</li>
+<li>
+iSCSI or Open Filer or Gluster</li>
+<li>
+Managing hundreds of servers</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/digitalocean/TMhCgd"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130207180717_AAMPOOX0YFCZ6JKJ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Linux Systems Administrator]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://digitalocean.theresumator.com/apply/9UNdHQ/Linux-Systems-Administrator.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10012]]></postalcode>
+			<description><![CDATA[<p>
+Join a thriving startup and TechStars graduate. DigitalOcean is simplifying the complexities of cloud hosting. We are focused on building the next cloud that will revolutionize the hosting industry. We are a small team but growing at a very rapid pace with over 90,000 virtual servers launched and 4,500+ customers.</p>
+<p>
+We pride ourselves in providing superhero support to our customers and managing complex infrastructures, which include gigabits of network transit, hundreds of terabytes of storage, virtualization, configuration management and deployment, and everything in between.</p>
+<p>
+We are looking for motivated and talented individuals to join our support engineering team. We provide a relaxed work atmosphere and hands-on experience with the latest technology. We are looking for staff members who love IT, troubleshooting, and who take pride in their work. A large part of the job is interfacing with our customers directly, so communication skills are extremely important.</p>
+<p>
+You will be responsible for managing nearly 1,000 servers in a hosting environment. Previous experience with hosting is a plus. If you feel that you&#39;re ready to take things to the next level by automating, virtualizing, and leveraging config-management tools - let us know! We&#39;re always looking to grow our infrastructure development team.</p>
+<p>
+IMPORTANT: This is not an off-site/remote position. You must be willing to work from our NYC office.</p>
+<p>
+<strong>What you have to know:</strong></p>
+<ul>
+<li>
+Apache/Nginx/Lighttpd</li>
+<li>
+PHP (w/memcache)</li>
+<li>
+MySQL (replication)</li>
+<li>
+DNS</li>
+<li>
+Mail Servers</li>
+<li>
+Security Hardening</li>
+<li>
+Performance Optimization and Application Troubleshooting</li>
+<li>
+TCP Networking (L3 switching VLANs)</li>
+<li>
+Virtualization (Xen, KVM, VMware)</li>
+<li>
+NFS Storage</li>
+<li>
+CMS Systems: Wordpress, Joomla, CakePHP, Drupal</li>
+</ul>
+<p>
+<strong>Bonus Points:</strong></p>
+<ul>
+<li>
+Nagios or Zenoss</li>
+<li>
+Cacti / RRD / MRTG</li>
+<li>
+Advanced TCP Networking: OSPF, BGP, Hardware Load Balancing, Hardware Firewalls</li>
+<li>
+VPN (Hardware and OpenVPN)</li>
+<li>
+LDAP (OpenLDAP)</li>
+<li>
+Bash/Perl/Python Scripting</li>
+<li>
+Puppet or Chef</li>
+<li>
+iSCSI or Open Filer or Gluster</li>
+<li>
+Managing hundreds of servers</li>
+</ul>
+<p>
+<strong>***PLEASE INCLUDE IN YOUR COVER LETTER: To show us that you have actually read this far, we would like you to list the topics on this page and rate yourself on a scale of 1-5 ( 5 being the highest ). In addition, for each topic please provide a short paragraph detailing your experience with it.</strong></p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/digitalocean/9UNdHQ"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130207182049_2CBZAVIIA6IIDHKD]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[RAILs Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://digitalocean.theresumator.com/apply/47y3vx/RAILs-Developer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10012]]></postalcode>
+			<description><![CDATA[<p>
+Join a thriving startup and TechStars graduate. DigitalOcean is simplifying the complexities of cloud hosting. We are focused on building the next cloud that will revolutionize the hosting industry. We are a small team but growing at a very rapid pace with over 90,000 virtual servers launched and 4,500+ customers.</p>
+<p>
+We are searching for a talented and entrepreneurial rails developer. If you thrive on start up adrenaline, have a nothing-is-impossible attitude and feel you will be able to learn from a team of experienced engineers - come build a startup that is quickly becoming the next AWS.</p>
+<p>
+We have a beautiful office in SoHo and everyone uses a Mac ;) We&#39;re a young and energetic startup on a mission to build the world&#39;s most amazing cloud platform and we&#39;re looking for a rails developer who is passionate about simplifying infrastructure, building a lean UX, and pushing the limits of what web technology allows today.</p>
+<p>
+If you feel that this can be a great fit for you and you meet the requirements and qualifications below, please get in touch.&nbsp;IMPORTANT: This is not an off-site/remote position. You must be willing to work from our NYC office.</p>
+<p>
+<strong>Desired Skills:</strong></p>
+<ul>
+<li>
+Deep knowledge of Ruby on Rails</li>
+<li>
+Knowledge of HTML5 and CSS</li>
+<li>
+Has previously built web-based applications and can share a portfolio.</li>
+<li>
+AJAX and Dynamic Content Development Experience</li>
+<li>
+Knowledge of libraries</li>
+<li>
+GitHub experience</li>
+<li>
+Writes clean, organized code</li>
+<li>
+Comfortable integrating APIs</li>
+<li>
+Experience developing kickass charts and graphs is a big plus</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Qualifications:</strong></p>
+<ul>
+<li>
+Very comfortable doing full-stack web development</li>
+<li>
+Knowledge of one or more web application frameworks</li>
+<li>
+Strong knowledge of SQL, MySQL and databases</li>
+<li>
+JavaScript skills - knowledge of one or more JavaScript frameworks</li>
+<li>
+Computer Science degree or equivalent experience</li>
+<li>
+In-depth knowledge of scalability, systems engineering, design patterns, and algorithms</li>
+<li>
+Great product sense and design sense; excellent technical judgement and architecture experience</li>
+<li>
+Comfortable with QA</li>
+</ul>
+<p>
+Applicants only. Recruiters, please don&#39;t contact this job poster.<br />
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/digitalocean/47y3vx"></script>]]></buttons>
+		</job>
+	</jobs>

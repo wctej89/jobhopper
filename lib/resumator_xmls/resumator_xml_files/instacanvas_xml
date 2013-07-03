@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Instacanvas]]></company>
+			<job>
+			<id><![CDATA[job_20130326211620_Q3TYOZM2KTAZNO7Q]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://instacanvas.theresumator.com/apply/2o6ozG/Senior-Software-Engineer.html]]></url>
+			<city><![CDATA[Santa Monica]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90401]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Instacanvas is a photography marketplace that&#39;s gone from zero to millions of users in our first year. Based in Santa Monica, we&#39;re backed by several of the world&#39;s top investors including First Round Capital, Founders Fund, and others. Our core mission is to build a real-time catalogue of human life on earth via mobile photography.</strong></p>
+<p>
+<strong>Lots of big tech challenges ahead, and we&#39;re looking for high caliber engineers to join our team. Our rooftop office is located within walking distance from the beach and the Third Street Promenade in Santa Monica, California. Come join us and help us grow!</strong></p>
+<p>
+We&#39;re looking for an experienced software engineer to join our growing team of developers at our office in sunny Santa Monica. The right candidate will be a coding monkey, excited about getting their hands dirty building awesome products for our large and growing userbase.</p>
+<p>
+About You:</p>
+<ul>
+<li>
+You&#39;re a smart and driven engineer with social skills and at least two years of web development experience, preferably in a startup environment.</li>
+<li>
+You&#39;ve built websites and applications that scale to millions of users across multiple platforms, including web and mobile.</li>
+<li>
+You have experience with Ruby on Rails, or other web development frameworks that follow an MVC pattern such as Python/Django - Rails specifically isn&#39;t that important, but it&#39;s important that you understand modern web development technology.</li>
+<li>
+You&#39;re a product-minded engineer who can see the big picture but also gets excited about the details.</li>
+</ul>
+<p>
+What You&#39;ll Be Doing:</p>
+<ul>
+<li>
+Designing and building infrastructure to help Instacanvas scale to millons of users</li>
+<li>
+Working with new web technology and solving tough problems with a team of really smart folks</li>
+<li>
+Learning new technology (unless you already know it all) and teaching us some of your own tricks, too (because we certainly don&#39;t know it all - just a lot)</li>
+<li>
+Watching your code get used by millions of people the day you build it</li>
+</ul>
+<p>
+What We Offer:</p>
+<ul>
+<li>
+A competitive salary</li>
+<li>
+Stock options!</li>
+<li>
+Free lunches, free beers, free t-shirts, and company retreats</li>
+<li>
+Attacking a super-fun market alongside an incredible team</li>
+</ul>
+<p>
+Want the geeky stuff?</p>
+<p>
+Web serving: Ruby-on-Rails 3.2 (Ruby 1.9.3) &amp; jQuery, running on Heroku. Redis is used for storing transient user data (sessions), some caching is done through Memcachier. Using Slim templates, SCSS (&amp; asset pipeline), Devise/Omniauth. Amazon S3/Cloudfront for storing/serving static assets (images, js/css).</p>
+<p>
+Persistent data storage is done with MySQL on RDS. Background queue processing uses Resque workers running on Heroku. Heroku auto-scaling is done by hirefire.</p>
+<p>
+Automated testing is done with Capybara &amp; Rspec.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/instacanvas/2o6ozG"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130326212856_HSRMN89SXFSZTLBO]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Mobile Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://instacanvas.theresumator.com/apply/SAQ2GB/Mobile-Software-Engineer.html]]></url>
+			<city><![CDATA[Santa Monica]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90401]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Instacanvas is a photography marketplace that&#39;s gone from zero to millions of users in our first year. Based in Santa Monica, we&#39;re backed by several of the world&#39;s top investors including First Round Capital, Founders Fund, and others. Our core mission is to build a real-time catalogue of human life on earth via mobile photography.</strong></p>
+<p>
+<strong>Lots of big tech challenges ahead, and we&#39;re looking for high caliber engineers to join our team. Our rooftop office is located within walking distance from the beach and the Third Street Promenade in Santa Monica, California. Come join us and help us grow!</strong></p>
+<p>
+We&#39;re looking for an experienced mobile engineer to join our growing team of developers at our office in sunny Santa Monica. The right candidate will be a mobile development expert who&#39;s excited about getting their hands dirty building awesome products for our large and growing userbase.</p>
+<p>
+About You:</p>
+<ul>
+<li>
+You&#39;re a smart and driven engineer with social skills and at least two years of mobile experience,&nbsp;preferably in a startup environment.</li>
+<li>
+You&#39;ve been working with iOS and/or Android for at least two years, maybe more.</li>
+<li>
+You have experience with Ruby on Rails, or other web development frameworks that follow an MVC pattern such as Python/Django - Rails specifically isn&#39;t that important, but it&#39;s important that you understand modern web development technology.</li>
+<li>
+You&#39;re a product-minded engineer who can see the big picture but also gets excited about the details.</li>
+</ul>
+<p>
+What You&#39;ll Be Doing:</p>
+<ul>
+<li>
+Leading the Instacanvas&rsquo; mobile application development effort from design through deployment</li>
+<li>
+Planning for future growth &amp; scalability of our mobile experience</li>
+<li>
+Influencing technical design decisions and helping guide our mobile strategy</li>
+</ul>
+<p>
+What We Offer:</p>
+<ul>
+<li>
+A competitive salary</li>
+<li>
+Stock options!</li>
+<li>
+Free lunches, free beers, free t-shirts, and company retreats</li>
+<li>
+Attacking a super-fun market alongside an incredible team</li>
+</ul>
+<p>
+Want the geeky stuff?</p>
+<p>
+Web serving: Ruby-on-Rails 3.2 (Ruby 1.9.3) &amp; jQuery, running on Heroku. Redis is used for storing transient user data (sessions), some caching is done through Memcachier. Using Slim templates, SCSS (&amp; asset pipeline), Devise/Omniauth. Amazon S3/Cloudfront for storing/serving static assets (images, js/css).</p>
+<p>
+Persistent data storage is done with MySQL on RDS. Background queue processing uses Resque workers running on Heroku. Heroku auto-scaling is done by hirefire.</p>
+<p>
+Automated testing is done with Capybara &amp; Rspec.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/instacanvas/SAQ2GB"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130524204413_XPQJEEWSRLA51CSV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Director of Marketing]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://instacanvas.theresumator.com/apply/BDpv0s/Director-Of-Marketing.html]]></url>
+			<city><![CDATA[Santa Monica]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90401]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Instacanvas is a photography marketplace that&#39;s gone from zero to millions of users in our first year. Based in Santa Monica, we&#39;re backed by several of the world&#39;s top investors including First Round Capital, Founders Fund, and others. Our core mission is to build a real-time catalogue of human life on earth via mobile photography.</strong></p>
+<p>
+We&#39;re looking for an experienced growth marketing professional to join our growing team at our office in sunny Santa Monica. The right candidate will be a marketing expert with the know-how to drive acquisition and engagement through a variety of marketing channels, including, but not limited to, PPC and email marketing.</p>
+<p>
+About You:</p>
+<p>
+&bull; You&#39;re an intelligent and well-educated marketer with at least three years of experience doing marketing in a fast-paced, high-growth business - probably a web-based startup.</p>
+<p>
+&bull; You&#39;ve worked with a variety of marketing channels, including PPC, email, search, display, affiliate, social, and video.</p>
+<p>
+&bull; You&#39;ve blogged or written a lot (in a personal or professional capacity) and are an excellent writer.</p>
+<p>
+&bull; You&#39;re not afraid to get your hands dirty, you&#39;ve got a &quot;get things done&quot; mentality, and you&rsquo;re not afraid of being the go-to marketing guru on a small team, rather than relying on direct reports.</p>
+<p>
+&bull; You&#39;re analytical - metrics are really important to us. When you set out to do something, you&#39;ve got a demonstrable reason and you know what the goal is.</p>
+<p>
+What You&#39;ll Be Doing:</p>
+<p>
+&bull; Working with everybody (creative, product, development, and operations teams) to drive user engagement and acquisition through a variety of channels (which you&#39;ll help determine!).</p>
+<p>
+&bull; Driving new user acquisition and increasing customer engagement, loyalty, and value by delivering a diverse mix of relevant content and promotional offers.</p>
+<p>
+&bull; Researching industry trends, collecting data, measuring effectiveness of campaigns, and defending your approach with data and changing course when something isn&#39;t working.</p>
+<p>
+&bull; Managing and reporting on all of our marketing efforts, from strategy and planning to execution and follow-up analysis</p>
+<p>
+What We Offer:</p>
+<p>
+&bull; A competitive salary</p>
+<p>
+&bull; Generous stock options in a high-growth, venture-backed company</p>
+<p>
+&bull; Free lunches, free beer, free t-shirts, and company retreats</p>
+<p>
+&bull; Attacking a super-fun market alongside an incredible team</p>
+<p>
+&bull; Helping build a product enjoyed by millions (and thanks to you, many more millions) of users</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/instacanvas/BDpv0s"></script>]]></buttons>
+		</job>
+	</jobs>

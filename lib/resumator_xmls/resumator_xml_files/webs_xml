@@ -1,0 +1,365 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Webs]]></company>
+			<job>
+			<id><![CDATA[job_20110224192730_C1X0S1OQ6HI6ACR1]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Rails Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering Team]]></team>
+			<url><![CDATA[http://webs.theresumator.com/apply/EFQhxv/Senior-Rails-Developer.html]]></url>
+			<city><![CDATA[Silver Spring]]></city>
+			<state><![CDATA[MD]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[20910]]></postalcode>
+			<description><![CDATA[<p>
+Are you interested in building products used by millions of people? Do you wish you could launch code daily? Webs is looking for a talented Senior Rails developer that is passionate about building user-facing web applications. This position is full-time and is based at our main office in Silver Spring, MD.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Work with product designers and engineers to implement the next generation of Webs products.</li>
+<li>
+Build web applications that can scale to a million page views per day.</li>
+<li>
+Work independently on projects developing web applications from scratch, front-to-back.</li>
+<li>
+Practice test driven development using unit tests and integration tests.</li>
+<li>
+Develop software iteratively and deliver working code each iteration.</li>
+<li>
+Review application with stakeholders each iteration</li>
+</ul>
+<p>
+<strong>Required Skills</strong></p>
+<ul>
+<li>
+Ruby, Rails 3.2</li>
+<li>
+jQuery, JS, HTML, CSS (SCSS), Templating (Mustache)</li>
+<li>
+Postgresql (ActiveRecord), Git, Heroku</li>
+<li>
+TDD with RSpec</li>
+<li>
+Experience developing Facebook Platform, Graph API</li>
+<li>
+Strong troubleshooting and analytical skills.</li>
+<li>
+Strong oral and written communication skills.</li>
+<li>
+Computer Science degree from a reputable school in the US.</li>
+</ul>
+<p>
+<strong>Bonus Skills</strong></p>
+<ul>
+<li>
+Restful web services</li>
+<li>
+Opensource contributions</li>
+</ul>
+<p>
+<strong>Benefits</strong></p>
+<ul>
+<li>
+Newly renovated work environment</li>
+<li>
+Fun team that is passionate about developing great web applications.</li>
+<li>
+Casual dress and flexible work schedule</li>
+<li>
+Lunch catered three times a week and a fully stocked kitchen.</li>
+<li>
+Paid parking or metro (one block away)</li>
+<li>
+Healthcare, vision, 401K and stock options</li>
+</ul>
+<p>
+<strong>About Webs</strong></p>
+<p>
+Webs (http://webs.com) is the world&rsquo;s largest do-it-yourself solution to create a free website with over 40 million sites created, and counting.&nbsp; Webs enables small businesses and entrepreneurs to easily make a great-looking website.&nbsp; The Webs family of products&mdash;including ContactMe.com and Pagemodo.com--provides small businesses with simple and cost-effective ways to launch and grow their companies across web, social and mobile platforms.&nbsp; Webs users can build custom Facebook pages and manage their business contacts in the cloud. Founded in 2001 by the Mokhtarzada brothers, Webs is a wholly owned subsidiary of Vistaprint N.V.&nbsp; Webs is a top-100 website worldwide, with a warm, collegial environment that is home to a staff of smart, dynamic individuals. Our offices are located in downtown Silver Spring, just steps from the Metro. We offer a comprehensive benefits package including healthcare and 401(k). Perks include a catered lunch three times a week, paid parking or transit, casual dress, and a flexible work schedule. By joining our team, you get the chance to immediately make a positive impact on the millions of people who use our website creation platform.<br />
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/webs/EFQhxv"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20100729200030_LLX3EAETIQ9RUFYK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior JavaScript Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering Team]]></team>
+			<url><![CDATA[http://webs.theresumator.com/apply/BvKwik/Senior-JavaScript-Developer.html]]></url>
+			<city><![CDATA[Silver Spring]]></city>
+			<state><![CDATA[MD]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[20910]]></postalcode>
+			<description><![CDATA[<p>
+We&#39;re actively seeking a well-rounded front-end developer who can jump in and build pages and applications seen by millions of people every day. You should be able to build out the gorgeous designs of our award-winning designers, optimize pages to load fast, fix browser compatibility problems, and write modular, testable JavaScript for our large web application. We expect that you have strong opinions about clearfix v. overflow, jQuery v. micro-frameworks, prototype- v. closure-based object-oriented programming, CoffeeScript and other js-next implementations, and front-end MVC patterns. We also expect you know when to use time-tested tools rather than the latest hotness.</p>
+<p>
+&nbsp;</p>
+<p>
+Beyond front-end skills, you should also be able to help us develop user stories to grow our bottom-line, communicate with peers and managers in our Agile process, and gel with the whole startup vibe.&nbsp;Our team is casual, hard working, and passionate about what we do.&nbsp;By joining our team, you get the chance to immediately make a positive impact on the millions of people who use our website creation platform.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Required Skills</strong><br />
+&nbsp;</p>
+<ul>
+<li>
+2+ years of hands on experience in front-end web application development</li>
+<li>
+Expert in HTML/CSS/JavaScript, being able to write semantic markup</li>
+<li>
+Deep understanding of cross browser development issues</li>
+<li>
+Understanding DOM structure, manipulation, and events</li>
+<li>
+Knowing node relation and traversing, how to create, append, remove, copy, find and attach events to DOM nodes without a JavaScript library</li>
+<li>
+Strong knowledge of at least one major JavaScript library</li>
+<li>
+Understanding of closure, knowing why and how to use it in JavaScript, and familiar with a few JavaScript design patterns</li>
+<li>
+Basic knowledge of HTML5 and CSS3, knowing how to utilize new technology that can degrade gracefully</li>
+<li>
+Experience with version control, bonus points if it&rsquo;s git</li>
+<li>
+Proficiency in the Adobe Creative Suite - our designers work exclusively in this set of programs</li>
+</ul>
+<p>
+<strong>Bonus Skills</strong></p>
+<ul>
+<li>
+Experience with server-side</li>
+<li>
+The bulk of our site is in Java, but we also use ruby and python in several places</li>
+<li>
+Familiar with jQuery; we&rsquo;ve adopted jQuery as our main library</li>
+<li>
+Basic SEO knowledge</li>
+<li>
+Open-source contributions</li>
+<li>
+Sample work and personal projects are always good to see</li>
+</ul>
+<p>
+<strong>Benefits</strong></p>
+<ul>
+<li>
+Newly renovated work environment</li>
+<li>
+Fun team that is passionate about developing great web applications</li>
+<li>
+Casual dress and flexible work schedule</li>
+<li>
+Lunch catered three times a week and a fully stocked kitchen</li>
+<li>
+Paid parking or metro (one block away)</li>
+<li>
+Healthcare, vision, 401K and stock options</li>
+</ul>
+<p>
+<strong>About Webs</strong></p>
+<p>
+Webs (http://webs.com) is the world&rsquo;s largest do-it-yourself solution to create a free website with over 40 million sites created, and counting.&nbsp; Webs enables small businesses and entrepreneurs to easily make a great-looking website.&nbsp; The Webs family of products&mdash;including ContactMe.com and Pagemodo.com--provides small businesses with simple and cost-effective ways to launch and grow their companies across web, social and mobile platforms.&nbsp; Webs users can build custom Facebook pages and manage their business contacts in the cloud. Founded in 2001 by the Mokhtarzada brothers, Webs is a wholly owned subsidiary of Vistaprint N.V.&nbsp; Webs is a top-100 website worldwide, with a warm, collegial environment that is home to a staff of smart, dynamic individuals. Our offices are located in downtown Silver Spring, just steps from the Metro. We offer a comprehensive benefits package including healthcare and 401(k). Perks include a catered lunch three times a week, paid parking or transit, casual dress, and a flexible work schedule. By joining our team, you get the chance to immediately make a positive impact on the millions of people who use our website creation platform.</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/webs/BvKwik"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110614194356_TBQQP0EQLYAIJ7KD]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[QA Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[QA Team]]></team>
+			<url><![CDATA[http://webs.theresumator.com/apply/Q8uip9/QA-Engineer.html]]></url>
+			<city><![CDATA[Silver Spring]]></city>
+			<state><![CDATA[MD]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[20903]]></postalcode>
+			<description><![CDATA[<p>
+We&#39;re actively seeking a Quality Assurance Engineer to join the Webs team! The QA group is responsible for keeping the tools and features of our platform as problem-free as possible in a fast-paced development environment.</p>
+<p>
+Must have 2 or more years of experience testing web-based applications in an agile development environment. Knowledge of Selenium and Selenium Grid is a definite plus.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Creates comprehensive test plans and test cases</li>
+<li>
+Develops automation scripts as needed</li>
+<li>
+Tests tools and features</li>
+<li>
+Works with designers and developers to improve usability</li>
+<li>
+Provides practical support for other groups within the organization in the form of technical assistance and education for a designated technology, tool, or feature</li>
+</ul>
+<p>
+<strong>Qualifications</strong></p>
+<ul>
+<li>
+Proven experience testing web-based applications</li>
+<li>
+Knowledge of front end web technologies such as JavaScript, CSS, and of course, HTML</li>
+<li>
+Able to create and execute comprehensive test plans and test cases</li>
+<li>
+Demonstrated organization and communication skills</li>
+<li>
+Familiarity with Linux and SQL</li>
+<li>
+Knowledge of Java, automated testing tools such as Selenium, and shell scripting is a plus</li>
+</ul>
+<p>
+<strong>About Webs</strong></p>
+<p>
+Webs (http://webs.com) is the world&rsquo;s largest do-it-yourself solution to create a free website with over 40 million sites created, and counting.&nbsp; Webs enables small businesses and entrepreneurs to easily make a great-looking website.&nbsp; The Webs family of products &mdash; including ContactMe.com and Pagemodo.com--provides small businesses with simple and cost-effective ways to launch and grow their companies across web, social and mobile platforms.&nbsp; Webs users can build custom Facebook pages and manage their business contacts in the cloud. Founded in 2001 by the Mokhtarzada brothers, Webs is a wholly owned subsidiary of Vistaprint N.V.&nbsp; Webs is a top-100 website worldwide, with a warm, collegial environment that is home to a staff of smart, dynamic individuals. Our offices are located in downtown Silver Spring, just steps from the Metro. We offer a comprehensive benefits package including healthcare and 401(k). Perks include a catered lunch three times a week, paid parking or transit, casual dress, and a flexible work schedule. By joining our team, you get the chance to immediately make a positive impact on the millions of people who use our website creation platform.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/webs/Q8uip9"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120514130658_JTYVN3Y4OKURQKS1]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Java Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering Team]]></team>
+			<url><![CDATA[http://webs.theresumator.com/apply/xCV0LE/Senior-Java-Developer.html]]></url>
+			<city><![CDATA[Silver Spring]]></city>
+			<state><![CDATA[MD]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[20903]]></postalcode>
+			<description><![CDATA[<p>
+Are you interested in building products used by millions of people? Do you wish you could launch code daily? Webs is looking for a talented Java developer that is passionate about building user-facing web applications. This position is full-time and is based at our main office in Silver Spring, MD.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Work with product designers and engineers to implement the next generation of Webs products.</li>
+<li>
+Build web applications that can scale to a million page views per day.</li>
+<li>
+Work independently on projects developing web applications from scratch, front-to-back.</li>
+<li>
+Practice test driven development using unit tests and integration tests.</li>
+<li>
+Develop software iteratively and deliver working code each iteration.</li>
+<li>
+Review application with stakeholders each iteration</li>
+</ul>
+<p>
+<strong>Required Skills</strong></p>
+<ul>
+<li>
+Java, Sevlets and JSP</li>
+<li>
+Spring MVC and Spring Framework</li>
+<li>
+Hibernate, SQL and Oracle</li>
+<li>
+HTML, JavaScript, CSS and AJAX</li>
+<li>
+Unit Testing, Integration Testing.</li>
+<li>
+Experience developing consumer web applications.</li>
+<li>
+In-depth knowledge of social networking / new media websites.</li>
+<li>
+Strong troubleshooting and analytical skills.</li>
+<li>
+Strong oral and written communication skills.</li>
+<li>
+Computer Science degree from a reputable school in the US.</li>
+</ul>
+<p>
+<strong>Bonus Skills</strong></p>
+<ul>
+<li>
+Groovy and Grails</li>
+<li>
+jQuery</li>
+<li>
+Rails</li>
+</ul>
+<p>
+<strong>Benefits</strong></p>
+<ul>
+<li>
+Newly renovated work environment</li>
+<li>
+Fun team that is passionate about developing great web applications.</li>
+<li>
+Casual dress and flexible work schedule</li>
+<li>
+Lunch catered three times a week and a fully stocked kitchen.</li>
+<li>
+Paid parking or metro (one block away)</li>
+<li>
+Healthcare, vision, 401K and stock options</li>
+</ul>
+<p>
+<strong>About Webs</strong></p>
+<p>
+Webs (http://webs.com) is the world&rsquo;s largest do-it-yourself solution to create a free website with over 40 million sites created, and counting.&nbsp; Webs enables small businesses and entrepreneurs to easily make a great-looking website.&nbsp; The Webs family of products&mdash;including ContactMe.com and Pagemodo.com--provides small businesses with simple and cost-effective ways to launch and grow their companies across web, social and mobile platforms.&nbsp; Webs users can build custom Facebook pages and manage their business contacts in the cloud. Founded in 2001 by the Mokhtarzada brothers, Webs is a wholly owned subsidiary of Vistaprint N.V.&nbsp; Webs is a top-100 website worldwide, with a warm, collegial environment that is home to a staff of smart, dynamic individuals. Our offices are located in downtown Silver Spring, just steps from the Metro. We offer a comprehensive benefits package including healthcare and 401(k). Perks include a catered lunch three times a week, paid parking or transit, casual dress, and a flexible work schedule. By joining our team, you get the chance to immediately make a positive impact on the millions of people who use our website creation platform.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/webs/xCV0LE"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130701185030_N95QZN8FBWZ6Q8JG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Marketing Analyst]]></title>
+			<department><![CDATA[Analytics]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://webs.theresumator.com/apply/StSFTP/Marketing-Analyst.html]]></url>
+			<city><![CDATA[Silver Spring]]></city>
+			<state><![CDATA[MD]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[20910]]></postalcode>
+			<description><![CDATA[<p>
+Analyst, Marketing<br />
+<br />
+The Analytics Team at Webs is leveraged by various departments - Marketing, Product Management, and Finance - in order to provide best-in-class data, analysis, and recommendations for key business initiatives.&nbsp; Looking to have an impact? Some of the major projects you&rsquo;ll be involved in include ongoing randomized control testing, product impact measurement, and customer segmentation &amp; behavioral analysis.<br />
+<br />
+The ideal candidate will be someone who can work with a variety of data sources to access and pull data, analyze and report on key findings &amp; questions, and recommend and drive new avenues for research and testing.&nbsp; We are looking for someone with the creativity and business acumen to help us find real opportunities and ask ever more demanding questions of our data.</p>
+<p>
+<br />
+On a day-to-day basis you will:</p>
+<p>
+Write and interpret complex SQL queries for standard and ad-hoc data mining.<br />
+Create and maintain executive reports for tracking key business metrics.<br />
+Work closely with analytics, marketing, and other teams to drive test iterations.<br />
+Identify holes in current data collection and practices.<br />
+Seek out trends and patterns across large sets of data and from multiple sources.<br />
+Summarize and report key analytical findings and recommendations in both oral and written form to various teams and executives.<br />
+Conceive of and pursue new data mining opportunities and initiatives to drive business metrics.</p>
+<p>
+<br />
+In exchange, you will bring:</p>
+<p>
+<br />
+Knowledge of web analytics suites (Google Analytics, Omniture, etc.).<br />
+Degree in Computer Science, Mathematics, Statistics, or related field.<br />
+Experience with relational databases, SQL, regular expressions, etc.<br />
+Strong Excel and data presentation skills.<br />
+Interest in discrete math and statistics.<br />
+Ability to map data and analytical functions to business needs.<br />
+Ability not just to retrieve and present data, but to draw conclusions and make recommendations.<br />
+Passionate and motivated to work in a fast-paced environment with limited supervision.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/webs/StSFTP"></script>]]></buttons>
+		</job>
+	</jobs>

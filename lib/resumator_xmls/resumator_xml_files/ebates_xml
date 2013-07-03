@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Ebates Performance Marketing, Inc.]]></company>
+			<job>
+			<id><![CDATA[job_20120809211209_02AATGPRUVHJ73JK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Java Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://ebates.theresumator.com/apply/pWuVqb/Java-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Ebates.com </strong>is a pioneering and profitable ecommerce company located in San Francisco (SOMA).&nbsp; Even after 11 years in business, the company is driving rapid growth and searching for the right engineer to join our back-end java engineering team.&nbsp; The right candidate will have a passion for solving business problems and exceeding consumer expectations through the development of leading edge technology &ndash; both through design and hands-on coding.</p>
+<p>
+<strong>Qualifications:</strong></p>
+<ul>
+<li>
+&nbsp;3+ years of solid Java back-end experience</li>
+<li>
+Strong&nbsp; knowledge of design patterns, OOPS principles and data structures</li>
+<li>
+Strong knowledge of at least some of the following apache frameworks &ndash; Hibernate, Spring, Camel, ServiceMix, ActiveMQ</li>
+<li>
+Experience building web applications with RAD tools, tomcat</li>
+<li>
+Experience with SOA &ndash; REST preferred</li>
+<li>
+Working knowledge of XML and JSON</li>
+<li>
+Scripting experience</li>
+<li>
+Experience with Relational databases, queries and RDBMS best practices as a consumer</li>
+<li>
+Should be very capable of troubleshooting</li>
+<li>
+Awareness for designing for performance and scalability</li>
+<li>
+Bachelors degree in Computer science or a related field</li>
+</ul>
+<p>
+<strong>Benefits</strong> include Medical, Vision and Dental insurance, along with 401k.</p>
+<p>
+<strong>Ebates </strong>is the pioneer and leader of online cash back shopping. Ebates pays members cash back every time they shop online as well as provide them with the best coupons and deals online. Since the company&#39;s 1998 inception, more than 12 million Ebates members have spent over $2.5 billion via Ebates.com and earned over $80 million in cash back (and growing).</p>
+<p>
+<strong>Ebates</strong> offers a casual but fast paced environment where creativity and effective teamwork and collaboration are rewarded. We are passionate about changing the way people shop online and providing the best possible customer experience - not to mention cash back on every purchase, with no strings attached.</p>
+<p>
+<strong>Ebates.com</strong>&nbsp;is backed by leading venture capitalists August Capital, Canaan Partners, and Foundation Capital.&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/ebates/pWuVqb"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121008204336_MIGXJA6BZ9ECS0JB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Application Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://ebates.theresumator.com/apply/BYqHlw/Web-Application-Developer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+Ebates is the pioneer and leader of online cash back shopping. Ebates pays members cash back every time they shop online as well as provide them with the best coupons and deals online. Since the company&#39;s 1998 inception, more than 12 million Ebates members have spent over $2.5 billion via Ebates.com and earned over $80 million in cash back (and growing).</p>
+<p>
+Ebates offers a casual but fast paced environment where creativity and effective teamwork and collaboration are rewarded. We are passionate about changing the way people shop online and providing the best possible customer experience - not to mention cash back on every purchase, with no strings attached.</p>
+<p>
+Even after 12 years in business, the company is driving rapid growth and searching for the right developer to help our systems meet demand and satisfy our increasing number of customers.&nbsp; The right candidate will have a passion for creating, coding and implementing scalable web designs.</p>
+<p>
+The <strong>Web Application Developer </strong>will be responsible for supporting and creating new pages, applications and widgets for the existing web site and infrastructure, as well as developing new technologies.</p>
+<p>
+The ideal candidate must display excellent written and oral communication skills with demonstrated interpersonal and organization abilities. A candidate for this position must be able to work in a varied, fast paced environment. Flexibility and tolerance is a necessity.</p>
+<p>
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+At least 3 years of experience coding web pages for very high traffic, scalable and available consumer applications.</li>
+<li>
+Must be an HTML, HTML5 and CSS wizard</li>
+<li>
+Extremely experienced with Javascript &ndash; JQuery in particular.</li>
+<li>
+Fluent with XML</li>
+<li>
+Should be able to work with existing codebase and find out practical solutions.</li>
+<li>
+Ability to constructively influence a distributed team with new design paradigms.</li>
+<li>
+Bachelor&rsquo;s degree in computer science, MIS, or related experience.</li>
+<li>
+Be able to create an HTML/CSS page that is a near exact replica of a JPEG or PSD design and that works across a larger set of browsers.</li>
+<li>
+Have a solid focus on page speed and a good understanding of basic principles (e.g., deferring javascript, sprites/css, compression).</li>
+</ul>
+<p>
+<strong>Desired Skills:</strong></p>
+<ul>
+<li>
+Knowledge of JSP, Velocity (and Velocity Template Engine) knowledge.</li>
+<li>
+Knowledge of scripting languages (PHP, Ruby, etc.).</li>
+<li>
+AJAX (dojo, scriptaculous, prototype).</li>
+<li>
+Mobile (JQuery for Mobile, Sencha).</li>
+<li>
+SQL, MySQL.</li>
+<li>
+QA, UI design.</li>
+<li>
+Fluent in Photoshop.</li>
+<li>
+Experience with developing for Facebook Pages and iFrames.</li>
+<li>
+Mobile coding experience.</li>
+<li>
+App coding experience.</li>
+<li>
+Strong attention to detail.</li>
+<li>
+Previous experience with ecommerce or affiliates or online advertising a plus.</li>
+<li>
+Experience in structured environment with increasing levels of responsibility and complexity.</li>
+<li>
+Ability to work additional hours as needed, especially around holidays.</li>
+<li>
+Extremely hands on.</li>
+<li>
+Experience in a high growth start-up environment.</li>
+<li>
+Flash, animation, video.</li>
+</ul>
+<p>
+<strong>Benefits</strong> include Medical, Vision and Dental insurance, along with 401k. Equity provided.</p>
+<p>
+<strong>Other Information About This Position:</strong></p>
+<ul>
+<li>
+No travel required.</li>
+<li>
+Work at SOMA office.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/ebates/BYqHlw"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121008210839_QK0LBQJ9WLG8NWRU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Designer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Design]]></team>
+			<url><![CDATA[http://ebates.theresumator.com/apply/e4UXEx/Senior-Designer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Senior Designer<br />
+	Web, Mobile, Social Media and Apps</strong></p>
+<p>
+	Ebates&rsquo; small team of designers works on 7 websites, apps and blogs that are used by millions of people around the world. Work in a highly collaborative atmosphere with Product Managers and developers to bring industry-leading online and mobile products, in addition to our blog and social net presence, and print materials - to Ebates&rsquo; consumers.&nbsp; See www.ebates.ca for the direction we are going with design.</p>
+<p>
+	We are looking for a talented <strong>online visual designer</strong> with a passion for innovation and a track record of success at design agencies and/or Fortune 1000 companies. The ideal candidate will excel at working independently to drive towards design solutions and is well versed in all stages of the design process.</p>
+<p>
+	Responsibilities include translation of business requirements into wireframes and stunning visual experiences, creation and maintenance of style guides, preparation and delivery of visual assets, and close interaction with development team to ensure proper implementation of design specs. Great communication skills, presentation skills, and the ability to defend ideas are essential to success. Experience designing for mobile/small screens in addition to the web is preferred.</p>
+<ul>
+	<li>
+		Full-time</li>
+	<li>
+		In office in San Francisco</li>
+	<li>
+		Must be a Photoshop and Illustrator expert</li>
+	<li>
+		Looking for people that can start either immediately or very soon</li>
+	<li>
+		Full benefits and stock</li>
+</ul>
+<p>
+	<strong>Duties and Responsibilities:</strong></p>
+<ul>
+	<li>
+		Support the design team by providing design comps/wireframes and optimized design assets</li>
+	<li>
+		Provide reference designs to guide the direction to the team for the visual creative</li>
+	<li>
+		Participate in brainstorming and creative synthesis</li>
+	<li>
+		You should have a firm grasp of topics like usability and navigation, as well as understanding the role of brand in creating digital experiences.</li>
+	<li>
+		Collaboration and communication skills must be top-notch. You should expect to be presenting your work.</li>
+	<li>
+		Also responsible for other Duties/Projects as assigned by business management as needed.</li>
+	<li>
+		Come up with crazy, great, doable new ideas that we haven&rsquo;t even thought of.</li>
+</ul>
+<p>
+	<strong>Qualifications:</strong></p>
+<ul>
+	<li>
+		5+ years as a professional designer in software or web design, mobile design, etc.&nbsp; Photoshop and Illustrator for sure.&nbsp; InDesign, Fireworks, Powerpoint, some Flash and animation.</li>
+	<li>
+		Possesses a thorough understanding of visual interface design and expert knowledge in web design. Possesses strong screen design skills.</li>
+	<li>
+		Print experience a must.</li>
+	<li>
+		You should have a firm grasp of topics like usability and navigation, as well as understanding the role of a brand and styles in creating digital experiences.</li>
+	<li>
+		Experience executing clean, tight, and exciting designs on small screens (tablets, mobile devices, etc.).</li>
+</ul>
+<p>
+	<strong>Desired Skills:</strong></p>
+<ul>
+	<li>
+		Identifies and addresses technical problems as they relate to visual design.</li>
+	<li>
+		Management experience.</li>
+	<li>
+		Ability to direct outside agencies and freelancers in creative production.</li>
+	<li>
+		Mobile design experience.&nbsp; Experience executing clean, tight, and exciting designs on small screens (tablets, mobile devices, etc.).</li>
+	<li>
+		Knowledge of HTML, video production.</li>
+	<li>
+		Prior work with Product Management groups.</li>
+	<li>
+		UI/UX work.&nbsp; Experience with wireframing and related tools.</li>
+	<li>
+		Drawing ability is preferred, but not necessary.</li>
+	<li>
+		Writing (marketing copy) ability is preferred, but not necessary.</li>
+	<li>
+		Demonstrated knowledge of social media a big plus.&nbsp; If you have a blog, that&rsquo;s nice too.&nbsp; If you can create company pages on Facebook, also great.&nbsp; Do you Tweet?&nbsp; We do.</li>
+</ul>
+<p>
+	<strong>Education:</strong></p>
+<ul>
+	<li>
+		BFA/BS/BA or Masters Degree from a Design program preferred.</li>
+</ul>
+<p>
+	<strong>Portfolio must be submitted along with resume in order to be considered for this role.&nbsp; Please include the link to your portfolio.</strong></p>
+<p>
+	<strong>Please Note:</strong></p>
+<ul>
+	<li>
+		<strong>Principals Only.</strong></li>
+	<li>
+		<strong>No Recruiters.</strong></li>
+	<li>
+		<strong>No software development firms.</strong></li>
+	<li>
+		<strong>For full time work in our San Francisco office only.</strong></li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/ebates/e4UXEx"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121119172159_NOMAWMUGBDHE7CHU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Accounts Payable Specialist]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://ebates.theresumator.com/apply/EKrHxk/Accounts-Payable-Specialist.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+The <strong>Accounts Payable Specialist</strong> is responsible for filing, coding and keying, auditing, and ensuring proper and timely payment of company expenses.&nbsp;This position analyzes, verifies and posts transactions to journals, ledgers and other records, and analyzes, investigates and corrects accounting entries as needed. Duties include reconciliation of complex transactions and preparation of payable and cash requirements reporting for management. This role requires a thorough understanding of the general ledger process. In addition, the AP Specialist is responsible for developing, maintaining, and updating accounts payable records. This role processes full cycle Accounts Payable including verifying accuracy of invoices, obtaining proper approvals, and accurately coding into the Quickbooks Enterprise Solutions accounting system.&nbsp;Also responsible for assigned general ledger/month end close responsibilities.</p>
+<p>
+Professional communication skills are necessary, as this role frequently interacts with both internal and external customers in person, via phone, through email, and other means.</p>
+<p>
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+Review all invoices for appropriate documentation and approval prior to payment</li>
+<li>
+Perform&nbsp;weekly check runs for all PMB&nbsp;companies&nbsp;(35-50 checks a week for 35-100 invoices)</li>
+<li>
+Record wire payments and ACH payments&nbsp;</li>
+<li>
+Process&nbsp;employee expense reports and vendor invoices</li>
+<li>
+Reconcile&nbsp;employee credit cards as well as expense reports</li>
+<li>
+Reconcile&nbsp;all the inter-company subsidiary accounts</li>
+<li>
+Prepare&nbsp;AP journal entries (month-end expense accruals)</li>
+<li>
+Prepare and process annual 1099 Misc forms for all entities</li>
+<li>
+Perform&nbsp;account reconciliations (prepare copies of all invoices that hit certain Balance Sheet accounts, i.e. Prepaid Expense, Prepaid Insurance etc, Inventory)</li>
+<li>
+Maintain files and documentation thoroughly and accurately, in accordance with generally accepted accounting practices (GAAP)</li>
+<li>
+Assist in month-end close procedure</li>
+</ul>
+<p>
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+BA/BS in Accounting <em>or</em> equivalent AP experience</li>
+<li>
+10+ years of overall AP experience</li>
+<li>
+Experience with Intuit Quickbooks Enterprise Solutions (will consider other types of Quiickbooks experience)</li>
+<li>
+Strong GL experience&nbsp;</li>
+<li>
+Detail-oriented, organized, and able to work in a&nbsp;fast-paced environment</li>
+<li>
+Excellent verbal and written communication skills</li>
+</ul>
+<p>
+<strong>Performance Marketing Brands (PMB)</strong> owns and operates the world&#39;s most rewarding shopping programs. Through its family of distinct websites and reward programs, PMB users get great deals and earn cash back every time they shop. PMB owns and operates: <strong>Ebates.com,</strong> the leader in online cash back shopping; <strong>Ebates.ca</strong>, the number one choice for Canadians who love to shop and save online; <strong>FatWallet.com</strong>, the preferred online resource for savvy consumers; <strong>AnyCoupons.com</strong>, the one-stop shop for any coupon available online; and <strong>OneReceipt</strong>, the solution to manage all your receipts in one place. In 2012, shoppers are expected to spend over $1.5 billion through PMB&#39;s websites and shopping programs. PMB is a fast-growing, profitable company funded by August Capital, Canaan Partners, and Foundation Capital.</p>
+]]></description>
+			<type><![CDATA[Temporary to Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/ebates/EKrHxk"></script>]]></buttons>
+		</job>
+	</jobs>

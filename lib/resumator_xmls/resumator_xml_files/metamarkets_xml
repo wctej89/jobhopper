@@ -1,0 +1,270 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Metamarkets]]></company>
+			<job>
+			<id><![CDATA[job_20120524221712_0FDKRKEXIDCN2XOI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[Available Engineering Positions]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://metamarkets.theresumator.com/apply/YYs8qE/Software-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+About Us:</p>
+<p>
+Metamarkets is an industry-leading SaaS startup providing real-time big data analytics. We have a star engineering team, are well funded, and have an open-minded culture. We provide real-time complex querying on massive amounts of data. Our platform is turning 10s of billions of events and 10s of TB&rsquo;s of data per day into accessible visualization as they are received.<br />
+<br />
+About you:</p>
+<p>
+You are a strong web application developer well versed in software engineering principles. You love writing secure and responsive applications in an environment that values continuous delivery, highly maintainable code, and YAGNI.</p>
+<p>
+About the job:</p>
+<p>
+- You will work in a true engineering-focused company (heck, we even built our own database) and work alongside great engineers such as a core contributor to D3.js and co-creator of Protovis.<br />
+- You will work on our data visualization application using D3.js, DVL, Facet, and Node.js while writing tests in Mocha, Chai, supertest, and CasperJS.</p>
+<p>
+Requirements:</p>
+<p>
+- Proven strong web app developer. Send us links to your GitHub, SO, blog, or whatever!<br />
+- Ability to build well structured and highly maintainable web applications.<br />
+- Solid proficiency with dynamic languages such as Ruby, Python, or JavaScript.</p>
+<p>
+Preferred:</p>
+<p>
+- Expertise in JavaScript, client-side MV*, and Node.js.<br />
+- Proven capacity working in a continuous delivery environment and contributing to developer automation.<br />
+- Understands XSS, CSRF, and other basics of web security.<br />
+- Comfortable working in Scrum.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/metamarkets/YYs8qE"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120525191926_J9YWOSTLHG7GIGI3]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sales Executive]]></title>
+			<department><![CDATA[Available Business Positions]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://metamarkets.theresumator.com/apply/XJCMmC/Sales-Executive.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Position Overview:</strong></p>
+<p>
+Metamarkets is the leading provider of real-time analytics, servicing the expanding digital marketing industry. We are looking for outstanding sales engineers to help us build on our early market success and drive rapid, high-scale growth. Metamarkets offers the opportunity to excel within a well-funded early stage company with award-winning products. The candidate will be part of a star engineering team, lead by successful industry veterans.</p>
+<p>
+The Sales Representative needs to be able to generate new business through focused and high volume prospecting and sales execution follow-through. An established rolodex and familiarity within the adtech marketplace is preferred, and experience in selling technology-based products is required. This role must demonstrate exceptional ability to own all aspects of pre and post sale relationship building and revenue attainment.</p>
+<p>
+<br />
+<strong>Required Skills and Experience:</strong></p>
+<ul>
+<li>
+Bachelor&#39;s degree or higher</li>
+<li>
+Minimum of three years successful outside sales experience, preferably in an adtech related business or SaaS technology.</li>
+<li>
+Ability to communicate the business benefits of the solution, value proposition and ideas succinctly and be confident and effective at all levels throughout prospect organizations, including both business leaders and technical managers.</li>
+<li>
+Excellent&nbsp; time-management and organizational skills, with attention to detail</li>
+<li>
+Results-oriented, self-motivated, energetic, professional, and reliable team player.</li>
+<li>
+Comfortable and proven effective working in a fluid and fast-changing environment</li>
+<li>
+Able to negotiate deal terms and pricing; resolve concerns; effective in deal closing</li>
+<li>
+Able to contribute strategically to the growth and direction of company&rsquo;s commercial offerings.</li>
+<li>
+Strongly motivated to create value for customers</li>
+<li>
+Willing to travel</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/metamarkets/XJCMmC"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120803221101_QG0GXYDBHHCKVG39]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Data Engineer]]></title>
+			<department><![CDATA[Available Business Positions]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://metamarkets.theresumator.com/apply/ZDm86r/Data-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+Metamarkets is looking for people who are passionate about big data and understanding new business verticals. Our Data Engineer will play a key role in ensuring the success of the technical implementation for our clients. You will explain Metamarkets technology to customers and answer their technical and analytical challenges, implement solutions ranging from new data integrations to new analytical workflows to entirely new applications. You will also be working closely with our product team to provide strategic experience and guidance for all things data.</p>
+<p>
+You should enjoy working with data from ingesting, cleansing, and munging to extracting value. You will take part in a variety of projects, such as our data ingestion systems, Druid, distributed data store, and platform APIs. You should be comfortable with Linux command line and using pragmatic utilities like grep, sed, awk, sort, and uniq. You should also be familiar with JVM-based languages. This position will provide a significant amount of exposure to the technologies we use to build our backend such as Hadoop, Pig, and Scala.</p>
+<p>
+Responsibilities</p>
+<p>
+&middot;&nbsp;&nbsp;&nbsp; Work closely with the product team and customers to strategize and build out technical onboarding&nbsp;&nbsp;<br />
+&nbsp; &nbsp; &nbsp;and integration plans<br />
+. &nbsp; &nbsp;Perform complex technical implementations using the Metamarkets engineering platform<br />
+&middot;&nbsp;&nbsp;&nbsp; Design, test, and maintain data infrastructure to support data-driven product development</p>
+<p>
+Desired Skills &amp; Experience</p>
+<p>
+&middot;&nbsp;&nbsp;&nbsp; BA/BS degree or equivalent work experience<br />
+&middot;&nbsp;&nbsp;&nbsp; Prior experience working with large datasets<br />
+. &nbsp; &nbsp; Familiarity with Linux command line, using pragmatic utilities, and JVM-based languages<br />
+&middot;&nbsp;&nbsp;&nbsp; Self-motivated, outgoing, organized, efficient, and a strategic thinker<br />
+&middot;&nbsp;&nbsp;&nbsp; Strong interpersonal skills, organizational skills, and attention to detail<br />
+&middot;&nbsp;&nbsp;&nbsp; Must be able to work on site</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/metamarkets/ZDm86r"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120803221904_RPDJH7C22LUAHHNI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Distributed Systems / Platform Engineer (Hadoop, Java)]]></title>
+			<department><![CDATA[Available Engineering Positions]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://metamarkets.theresumator.com/apply/Mg0sVZ/Distributed-Systems-Platform-Engineer-Hadoop-Java.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+We&rsquo;re looking for talented engineers to join our backend team, contributing to a fluid set of distributed systems that power our petabyte-scale data platform.&nbsp; This spans work on our real-time data ingestion layer (which combines the Kafka messaging system and Hadoop), our Scala-based machine learning modules, and most importantly our open-source, distributed, in-memory data store known as&nbsp;<a href="http://metamarkets.com/technology/druid/">Druid</a>.</p>
+<p>
+You should have a strong foundation in CS fundamentals and be able to apply academic results (such as the HyperLogLog algorithm) to real-world problems in our production environment. &nbsp;You should be open to continuous learning and mentorship by our senior engineers, with a focus on functional architectures that easy to operate, manage, and extend.&nbsp; You should also be capable of making an individual contribution and teaching us something we don&rsquo;t already know.</p>
+<p>
+What you&rsquo;ll need to know / learn:&nbsp;&nbsp; Java, the JVM, Hadoop and its friends (Pig, ZooKeeper)</p>
+<p>
+What&rsquo;s nice to know:&nbsp; Kafka, java.nio.ByteBuffer</p>
+<p>
+This position is for work in our sunny San Francisco SoMa office, with benefits, competitive salary, and perks.&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/metamarkets/Mg0sVZ"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130502194732_PIAE9TRS4BPJM0XF]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Infrastructure Services Engineer]]></title>
+			<department><![CDATA[Available Engineering Positions]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://metamarkets.theresumator.com/apply/QNUcaS/Senior-Infrastructure-Services-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+Metamarkets is looking for an excellent Senior Infrastructure Services Engineer to help us build, automate, and manage our petabyte-scale data platform. Metamarkets delivers a SaaS real-time data analysis solution for digital media companies that is fast, scalable, and smart. Our platform ingests tens of terabytes of data per day, provides real-time analytics over trillions of events, and strives for 24x7 and 365x10 uptime. You will drive implementation of the infrastructure behind this product, as well as be deeply involved in shaping our continuous delivery strategy and rapid deployment mechanisms. The position will be deeply involved in our continuous delivery strategy and facilitate rapid deployments of new capabilities.</p>
+<p>
+This position is for work in our sunny San Francisco SoMa office, with benefits, competitive salary, and perks.</p>
+<p>
+Responsibilities:</p>
+<ul>
+<li>
+Responsible for assuring uptime and reliability of production infrastructure</li>
+<li>
+Automate management, monitoring and deployment of services and infrastructure on our production Amazon EC2 environment</li>
+<li>
+Configure and maintain hardware and software monitoring solutions to send alerts in case of service problems</li>
+<li>
+Architect and design cloud based infrastructure for a massively scalable SaaS application</li>
+<li>
+Plan IT requirements for future growth</li>
+</ul>
+<p>
+Desired Skills &amp; Experience:</p>
+<ul>
+<li>
+8-10 years of system administration experience</li>
+<li>
+Strong shell scripting skills and at least one other scripting language</li>
+<li>
+Understanding of software development processes like version control and continuous integration</li>
+<li>
+Strong knowledge of cloud based architectures like AWS, and knowledge of virtualization technologies like VMware</li>
+<li>
+Proficiency in Unix/Linux system administration, especially in Ubuntu environment</li>
+<li>
+Outstanding troubleshooting and problem resolution skills required</li>
+<li>
+Strong written and verbal communications skills</li>
+<li>
+Keen ability to work in a rapidly changing environment and prioritize numerous tasks</li>
+<li>
+Energetic self-starter who shows personal initiative</li>
+<li>
+Available for on-call and after-hours support</li>
+<li>
+Experience with the following technologies is strongly preferred: puppet/chef/Ansible or similar, virtualization technologies, Nagios.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/metamarkets/QNUcaS"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130507171715_ZRRNU82YR1W2KSE7]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Product Marketing Manager]]></title>
+			<department><![CDATA[Available Business Positions]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://metamarkets.theresumator.com/apply/PUGM8s/Product-Marketing-Manager.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+We&rsquo;re looking for a creative Product Marketing Manager with a solid background in technology, passion for big data, and experience developing and managing product marketing programs.</p>
+<p>
+You will conceive and develop innovative marketing programs that drive demand and create awareness of our products and brand, evangelize Metamarkets, and create the vision for how we communicate our product strategy. You will craft the messaging and positioning for all Metamarkets products and be responsible for the outbound marketing activities of the entire product line. The ability to grasp and translate technical capabilities with an eye for quality and attention to detail, are crucial components to this position. Metamarkets delivers a SaaS-based analytics solution for digital media companies, so a familiarity with the adtech space is critical.</p>
+<p>
+Responsibilities Include:</p>
+<ul>
+<li>
+Product launch &ndash; plan the launch of new products and releases and manage the cross-functional implementation of the plan</li>
+<li>
+Develop strategic positioning for products based on market assessment, technology trends, and quantitative analysis</li>
+<li>
+Strategize and support outbound marketing to develop tools and resources for prospective clients, press, events, tradeshows, and sales.</li>
+<li>
+Sales enablement &ndash; communicate the value proposition of the products to the sales team and develop the sales tools that support the selling process of your products</li>
+<li>
+Market intelligence &ndash; be the expert on our clients, how they buy and their buying criteria; be the expert on our competition and keep us a step ahead</li>
+</ul>
+<p>
+Requirements:</p>
+<ul>
+<li>
+Bachelor&rsquo;s degree in a marketing or technical field</li>
+<li>
+5+ years professional experience in software product marketing</li>
+<li>
+Excellent copywriting skills</li>
+<li>
+Strong organizational, analytical, and problem-solving skills with excellent attention to detail</li>
+<li>
+Outstanding communicator with an ability to translate complexity into creative and direct campaigns</li>
+<li>
+Strong project management skills with the ability to work effectively in a fast-paced and fluid start up environment.</li>
+<li>
+Previous knowledge of the Digital Advertising, Business Intelligence or Big Data field is recommended.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/metamarkets/PUGM8s"></script>]]></buttons>
+		</job>
+	</jobs>

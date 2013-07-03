@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[SmartOps Corporation]]></company>
+			<job>
+			<id><![CDATA[job_20130508151224_W6PJFLSAERGRQTWM]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Software Developer - SmartOps Supply Chain Optimization]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://smartops.theresumator.com/apply/mIH5Lh/Senior-Software-Developer-SmartOps-Supply-Chain-Optimization.html]]></url>
+			<city><![CDATA[Pittsburgh]]></city>
+			<state><![CDATA[PA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[15222]]></postalcode>
+			<description><![CDATA[<p>
+<strong><em>SAP Acquires SmartOps to Help Customers Optimize Inventory and Service Levels in Supply Chain</em></strong></p>
+<p>
+Position Title: Senior Software Developer &ndash; SmartOps Supply Chain Optimization</p>
+<p>
+<strong>Purposes and Objectives</strong></p>
+<p>
+SAP is looking for an experienced Software Developer to join our development team in the construction of HANA based supply chain optimization applications.&nbsp; We empower customers to run their businesses in real time &mdash; to analyze, predict, react and adjust instantly.</p>
+<p>
+The team is looking for a Software Developer who has excellent design and programming skills across multiple programming languages and technologies, including C++, Java, SQL, Java Script and REST Services. We work in an Agile/Scrum development environment.</p>
+<p>
+Bring your exceptional problem solving and software programming skills with the ability to learn new tools, systems and processes for cutting edge technologies in Supply Chain Management (SCM) and multi-stage inventory optimization solutions for SAP&rsquo;s enterprise customers globally.</p>
+<p>
+<strong>This position is located at SAP Lab&rsquo;s Pittsburgh, PA site</strong>.</p>
+<p>
+Link: http://www.smartops.com</p>
+<p>
+<strong>Expectations and Tasks</strong></p>
+<p>
+&bull; Design, development and support of new and existing products in the SAP Supply Chain Optimization Product Suite<br />
+&bull; Coordinate design and development of new features with other members of the team<br />
+&bull; Participate on architecture and design discussions with other senior engineers and architects<br />
+&bull; Review and provide constructive feedback on software requirements, design, architecture and test case documentation to other members of the Product Management, Engineering and QA teams<br />
+&bull; Review and provide constructive feedback to code developed by other members of the Engineering team</p>
+<p>
+<strong>Education and Qualifications / Skills and Competencies</strong><br />
+&bull; B.S. or M.S. in Computer Science or other Engineering field<br />
+&bull; Must be able to interpret software requirements and translate them into software design documentation and ultimately into working code<br />
+&bull; Must be able to participate on software requirements discussions with Product Owners and other senior engineers<br />
+&bull; Must be able to participate on architecture discussions with other senior engineers and architects<br />
+&bull; Object Oriented Programming in Java (Spring Framework) and C++<br />
+&bull; Programming Framework experience (MVC &amp; MVP)<br />
+&bull; HTML5, JavaScript (Dojo, jQuery), SAP UI5, CSS, REST Services<br />
+&bull; Object-relational Mapping Frameworks<br />
+&bull; Databases: Sybase ASE, MySQL, Oracle, SAP HANA<br />
+&bull; Web Application Servers</p>
+<p>
+<strong>Work Experience</strong><br />
+&bull; Minimum 5 years&rsquo; experience working with C++ or Java Enterprise Web Applications</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/smartops/mIH5Lh"></script>]]></buttons>
+		</job>
+	</jobs>

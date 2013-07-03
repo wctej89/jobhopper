@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[ZenCash]]></company>
+			<job>
+			<id><![CDATA[job_20130606215459_FZMKXQDAJFPOECBT]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Interaction Designer]]></title>
+			<department><![CDATA[Product]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://zencash.theresumator.com/apply/azPBE3/Interaction-Designer.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Multiple Countries]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+ZenCash is looking for our next superstar designer!</p>
+<p>
+Design is in our blood here at ZenCash, so this is an opportunity for a talented designer to do their best work alongside a supportive product team that is pioneering new ground in the way financial apps look and feel. We&#39;re in the midst of designing the ultimate receivables app, an app that will help both small and large businesses improve their cashflow, save money, and reduce stress, while making businesses more honest and fair. ZenCash is saving the world (in its own way) and we need a righteous, kick-ass interaction designer to help us do it.</p>
+<p>
+Your day would typically involve a morning check-in with the team to get up to speed for the day, and then you&#39;d be working both independently and in small groups of 2-3 to generate new and refined concepts and prototypes. We&#39;d then take the prototypes that work and refine them into actionable stories for our engineering team to hammer out into working product in as short a time as possible. We try to be lean, iterative and accountable. We recognize that good ideas come from every part of the team and we&#39;re all in this together.</p>
+<p>
+This position could be remote or it could be local. We&#39;d especially love a designer based in either Romania (Cluj), Dallas, TX, or San Francisco, but we&#39;re open to new ways of working together and appreciate everyone&#39;s unique cultural contributions. Our bottom line is that you are proactive and can communicate effectively (especially in writing). And we have a scrum-oriented dev cycle, so you&#39;d need to be comfortable (if not familiar) with the discipline that that can bring to product development.&nbsp;</p>
+<p>
+We&#39;re looking for someone who:</p>
+<ul>
+<li>
+has been designing and developing websites, preferably web applications, for 5+ years</li>
+<li>
+has a very strong sense of information architecture and user empathy</li>
+<li>
+has experience doing user research to dig up use cases you&#39;d never have thought of</li>
+<li>
+can demonstrate the ability to work within an established look and feel</li>
+<li>
+can demonstrate the ability to establish a brand new look and feel that is clearly based on a target demographic</li>
+<li>
+can sketch, wireframe, do gorgeous comps and, ideally, prototype your design in html/css and javascript</li>
+<li>
+is familiar with the latest front-end technologies, such as Haml, SCSS, and JavaScript and / or CoffeeScript, rich frameworks such as Ember.js, Backbone.js.</li>
+<li>
+can make javascript do helpful things with the UI</li>
+</ul>
+<p>
+Reach out to us by email at tyler@zencash.com with a brief note about yourself and how you see B2B tools making the world a better place; a resume or LinkedIn profile should be included, as well as a link to where we can see your work online (Dribbble ideally).</p>
+]]></description>
+			<type><![CDATA[Contracted to Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/zencash/azPBE3"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130421191746_II2WKDMAAVLWFFAH]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://zencash.theresumator.com/apply/JJl9gz/Software-Engineer.html]]></url>
+			<city><![CDATA[Cluj-Napoca]]></city>
+			<state><![CDATA[Cluj]]></state>
+			<country><![CDATA[Romania]]></country>
+			<postalcode><![CDATA[400500]]></postalcode>
+			<description><![CDATA[<h2 id="whoarewe">
+Who are we?</h2>
+<p>
+We are about making it easier for companies to get paid. By building mindful automation and powerful tools wrapped in easy to use interfaces, we&rsquo;re making companies more informed and sophisticated, reducing the time it takes to get their incoming money.</p>
+<p>
+Our <a href="http://www.zencash.com/about">about page</a> shows the team so far.</p>
+<p>
+We use Macs, Github, Pivotal Tracker, Basecamp, Campfire, Sublime Text, practice BDD, pair programming and our own version of SCRUM. We iterate quickly and release frequently.</p>
+<h2 id="whatweneed">
+What we need</h2>
+<p>
+Any combination of the following: full stack Ruby on Rails engineer, front end engineer, back end engineer.</p>
+<p>
+Our stack is MRI, Ruby on Rails, Backbone.js, CoffeeScript, RSpec, MySQL, Redis, Resque, Eventmachine.</p>
+<h3 id="generaltraits">
+General traits</h3>
+<p>
+&nbsp;</p>
+<ul>
+<li>
+Good written and spoken English</li>
+<li>
+BDD/TDD experience</li>
+<li>
+Mac, Linux environments</li>
+</ul>
+<h3 id="fullstackrailsdeveloper">
+Full stack Rails developer</h3>
+<p>
+&nbsp;</p>
+<p>
+What we are looking for:</p>
+<ul>
+<li>
+Ability to go up and down the stack as needed: you can slice PSDs into HTML/CSS, write client-side JS, code back end models, views and controllers, hand optimize a SQL query and install a custom version of libxml2 from source.</li>
+<li>
+Tests first, BDD/TDD.</li>
+<li>
+Experience with the latest front-end technologies, such as Haml, SCSS, and JavaScript and / or CoffeeScript, rich frameworks such as Ember.js, Backbone.js.</li>
+<li>
+Experience with Ruby on Rails.</li>
+</ul>
+<p>
+Bonus points:</p>
+<ul>
+<li>
+Experience with infrastructure automation: Chef, Puppet etc.</li>
+<li>
+Application deployment to the cloud (Amazon, Rackspace, Engine Yard, Heroku, etc.)</li>
+<li>
+Experience with RSpec, Cucumber, Capybara</li>
+<li>
+Experience with upgrading from Rails 2.3 to 3</li>
+<li>
+Unix scripting skills</li>
+</ul>
+<p>
+Yes, basically a one-man army. Not looking for a ninja, in case you were wondering. All ninja positions are currently filled.</p>
+<h3 id="frontenddeveloper">
+Front end developer</h3>
+<p>
+&nbsp;</p>
+<p>
+What we are looking for:</p>
+<ul>
+<li>
+Excellent knowledge of JavaScript, HTML and CSS.</li>
+<li>
+Experience with client side frameworks such as Backbone.js, Ember.js.</li>
+<li>
+Basic understanding of server side frameworks such as Ruby on Rails or Django.</li>
+<li>
+Photoshop experience.</li>
+</ul>
+<p>
+Bonus points:</p>
+<ul>
+<li>
+CoffeeScript</li>
+<li>
+Experience in real-time communication via Websockets, Socket.io or similar technology</li>
+<li>
+Experience with RSpec, Cucumber, Capybara, Jasmine</li>
+<li>
+Experience with Amazon Web Services</li>
+<li>
+Experience with WordPress theme development</li>
+</ul>
+<h3 id="backendrailsdeveloper">
+Back end Rails developer</h3>
+<p>
+&nbsp;</p>
+<p>
+What we are looking for:</p>
+<ul>
+<li>
+Ruby, Ruby on Rails knowledge</li>
+<li>
+Understanding of scaling techniques such as caching, database query optimization, and asynchronous / background job queues</li>
+<li>
+Knowledge of NoSQL data stores.</li>
+<li>
+Experience working with 3rd party APIs: REST, SOAP (yes, we are consuming some SOAP, sorry)</li>
+</ul>
+<p>
+Bonus points:</p>
+<ul>
+<li>
+Experience with event-driven systems such as EventMachine, Node.js, Twisted.</li>
+<li>
+Experience with RSpec, Cucumber, Capybara</li>
+<li>
+Experience with infrastructure automation: Chef, Puppet etc.</li>
+<li>
+Application deployment to the cloud (Amazon, Rackspace, Engine Yard, Heroku, etc.)</li>
+<li>
+Scaling web applications</li>
+<li>
+Service-Oriented Architecture</li>
+<li>
+Experience with upgrading from Rails 2.3 to 3</li>
+<li>
+Unix scripting skills</li>
+</ul>
+<h2 id="perks">
+Perks</h2>
+<ul>
+<li>
+Excellent gear (We love Apple computers and big monitors)</li>
+<li>
+Free catered lunches</li>
+<li>
+Paid attendance to relevant conferences</li>
+<li>
+Free gym membership</li>
+<li>
+Flexible working hours</li>
+<li>
+Open vacation policy</li>
+<li>
+Competitive salary and profit sharing</li>
+</ul>
+<h2 id="applying">
+Applying</h2>
+<p>
+<a href="job_20130421191746_II2WKDMAAVLWFFAH@dropbox.theresumator.com">Email us</a> your resume. Include whatever information you think would be most useful to help us understand your background and achievements. Links to your blog, Github and Twitter or Google Plus account are useful. We especially appreciate links to projects on which you worked on, with some explanation about what the project does and what your involvement was.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/zencash/JJl9gz"></script>]]></buttons>
+		</job>
+	</jobs>

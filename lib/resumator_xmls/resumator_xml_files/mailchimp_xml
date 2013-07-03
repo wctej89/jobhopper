@@ -1,0 +1,655 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[MailChimp]]></company>
+			<job>
+			<id><![CDATA[job_20130107144651_LRXRIHPEW598RZDB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[NOC Engineer]]></title>
+			<department><![CDATA[Ops]]></department>
+			<team><![CDATA[Development]]></team>
+			<url><![CDATA[http://mailchimp.theresumator.com/apply/8ZRfKP/NOC-Engineer.html]]></url>
+			<city><![CDATA[Atlanta]]></city>
+			<state><![CDATA[GA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[30318]]></postalcode>
+			<description><![CDATA[<p>
+MailChimp is seeking NOC Engineers to join our team.&nbsp; You will monitor and maintain infrastructure that supports millions of users and sends billions of emails each month using top tier equipment and resources.&nbsp;</p>
+<p>
+Skills desired or willing to learn:</p>
+<ul>
+<li>
+Familiar with TCP/UDP and OSI model</li>
+<li>
+Familiar with IP addressing subnetting</li>
+<li>
+Familiar with Routing and Switching (BGP, OSPF, Static Routing, Spanning-Tree Protocol/Rapid Spanning-Tree, VLANs)</li>
+<li>
+Basic knowledge of VPN</li>
+<li>
+Basic knowledge with Cisco ASA firewalls and ASDM</li>
+<li>
+Candidate should be able to solve different network problems and have basic network troubleshooting skills</li>
+<li>
+Basic familiarity with Linux</li>
+<li>
+Candidate should have good communication skills and problem solving capabilities in addition to technical knowledge</li>
+<li>
+Extremely reliable with outstanding work ethic</li>
+<li>
+Training is readily available&nbsp;</li>
+</ul>
+<p>
+Responsibilities:</p>
+<ul>
+<li>
+Work directly with other technical support staff, tier II engineers, and development and delivery teams</li>
+<li>
+Supervise the functioning of network components and makes sure that they are active and problem free</li>
+<li>
+Use software applications and hardware tools to detect, identify and solve problems</li>
+<li>
+Receive and resolve problem complaints from users, external providers, and internal teams, escalating when appropriate</li>
+<li>
+Maintain a record of the problems and methods used to solve them</li>
+<li>
+Carry out inspections on regular basis on network and system performance</li>
+<li>
+Serve in shifts and on call schedules to maintain a Cisco network environment running IOS, NX OS and IOS XR supporting HP Centos servers</li>
+</ul>
+<p>
+We&rsquo;re looking for smart, creative people who will give 100 percent. In exchange, we&rsquo;ll give you some fantastic perks and benefits:</p>
+<ul>
+<li>
+Fully paid health insurance for you and your family</li>
+<li>
+Fully paid dental insurance</li>
+<li>
+Fully paid vision insurance</li>
+<li>
+Disability insurance</li>
+<li>
+A 401(k) plan</li>
+<li>
+Free smartphones and monthly service (iPhone, Android, AT&amp;T, Verizon-your choice)</li>
+<li>
+An endless supply of t-shirts and hats</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/MailChimp/8ZRfKP"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120723151907_S8VUNZAQ9BS7J8J5]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Infrastructure Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Development]]></team>
+			<url><![CDATA[http://mailchimp.theresumator.com/apply/6Il9br/Infrastructure-Engineer.html]]></url>
+			<city><![CDATA[Atlanta]]></city>
+			<state><![CDATA[GA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[30318]]></postalcode>
+			<description><![CDATA[<p>
+MailChimp is a DIY email-newsletter service based in Atlanta that serves more than a 3 million users worldwide. We&#39;re self-funded and profitable, and we&#39;re growing fast.</p>
+<p>
+We work in a collaborative environment where <a href="http://www.fastcocreate.com/1679207/creative-cultures-mailchimp-grants-employees-permission-to-be-creative">everyone&rsquo;s expected to be creative</a>. Our fearless leader <a href="http://vimeo.com/34081566">keeps things interesting around here</a>, and inspiring guests speak at our weekly <a href="http://blog.mailchimp.com/coffee-hour/">Coffee Hours</a>. And most importantly, we&rsquo;re not afraid to <a href="http://blog.mandrill.com/starting-is-hard-to-do.html">start new things</a>. <a href="http://mailchimp.com/labs/">Lots of new things</a>. Crazy, <a href="http://emailgenome.org/">ambitious new things</a>.</p>
+<p>
+<strong>Job Description</strong></p>
+<p>
+MailChimp is seeking infrastructure engineers to join our team. You&rsquo;ll build, maintain, and monitor systems that support millions of users across all products and applications at the company. We operate in an extremely high-volume environment. Applicants should have strong Linux experience, independent troubleshooting skills, and a love for automation, monitoring, and configuration management.</p>
+<p>
+<strong>Requirements&nbsp;</strong></p>
+<ul>
+<li>
+Linux experience</li>
+<li>
+Scripting and coding (python, bash, php)</li>
+<li>
+Familiarity with pieces of our primary stack (nginx, apache, php, memcache, mysql)</li>
+<li>
+Experience maintaining high-volume systems is a big plus</li>
+<li>
+Especially strong experience with MySQL is a huge plus (sharding, replication)</li>
+</ul>
+<p>
+We&rsquo;re looking for smart, creative people who will give 100 percent. In exchange, we&rsquo;ll give you some fantastic perks and benefits:</p>
+<ul>
+<li>
+Fully paid health insurance for you and your family</li>
+<li>
+Fully paid dental insurance</li>
+<li>
+Fully paid vision insurance</li>
+<li>
+Disability insurance</li>
+<li>
+A 401(k) plan</li>
+<li>
+Free smartphones and monthly service (iPhone, Android, AT&amp;T, Verizon-your choice)</li>
+<li>
+An endless supply of t-shirts and <a href="http://www.flickr.com/photos/freddievonchimp/sets/72157625446629848/">hats</a></li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/MailChimp/6Il9br"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120723152517_L9QQKAERO1L4A26G]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Deliverability Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Development]]></team>
+			<url><![CDATA[http://mailchimp.theresumator.com/apply/MApUWn/Deliverability-Engineer.html]]></url>
+			<city><![CDATA[Atlanta]]></city>
+			<state><![CDATA[GA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[30318]]></postalcode>
+			<description><![CDATA[<p>
+MailChimp is a DIY email-newsletter service based in Atlanta that serves more than a 3 million users worldwide. We&#39;re self-funded and profitable, and we&#39;re growing fast.</p>
+<p>
+We work in a collaborative environment where <a href="http://www.fastcocreate.com/1679207/creative-cultures-mailchimp-grants-employees-permission-to-be-creative">everyone&rsquo;s expected to be creative</a>. Our fearless leader <a href="http://vimeo.com/34081566">keeps things interesting around here</a>, and inspiring guests speak at our weekly <a href="http://blog.mailchimp.com/coffee-hour/">Coffee Hours</a>. And most importantly, we&rsquo;re not afraid to <a href="http://blog.mandrill.com/starting-is-hard-to-do.html">start new things</a>. <a href="http://mailchimp.com/labs/">Lots of new things</a>. Crazy, <a href="http://emailgenome.org/">ambitious new things</a>.</p>
+<p>
+<strong>Job Description</strong></p>
+<p>
+MailChimp sends 2.6 billion emails every month for more than 1 million users around the globe. That&rsquo;s a ton of emails! Our delivery team is seeking a self&ndash;motivated hard worker with a strong background in delivery, analytics, and system administration. You&rsquo;ll identify delivery trends, uncover root causes, talk with ISPs when necessary, and brainstorm solutions. Team&ndash;player skills are a must, as you&rsquo;ll work with engineers, data scientists, and other delivery folks to build out and optimize MailChimp&rsquo;s infrastructure.</p>
+<p>
+<strong>Requirements&nbsp;</strong></p>
+<ul>
+<li>
+At least two years bulk/transactional email delivery experience</li>
+<li>
+Experience in resolving delivery issues with receivers using technology and/or people skills</li>
+<li>
+Strong LINUX&ndash;administration skills</li>
+<li>
+Programming experience a huge plus</li>
+</ul>
+<p>
+We&rsquo;re looking for smart, creative people who will give 100 percent. In exchange, we&rsquo;ll give you some fantastic perks and benefits:</p>
+<ul>
+<li>
+Fully paid health insurance for you and your family</li>
+<li>
+Fully paid dental insurance</li>
+<li>
+Fully paid vision insurance</li>
+<li>
+Disability insurance</li>
+<li>
+A 401(k) plan</li>
+<li>
+Free smartphones and monthly service (iPhone, Android, AT&amp;T, Verizon-your choice)</li>
+<li>
+An endless supply of t-shirts and <a href="http://www.flickr.com/photos/freddievonchimp/sets/72157625446629848/">hats</a></li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/MailChimp/MApUWn"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120815132130_2IXADNWRHK97EDA5]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[UI Designer]]></title>
+			<department><![CDATA[User Experience Design]]></department>
+			<team><![CDATA[UX]]></team>
+			<url><![CDATA[http://mailchimp.theresumator.com/apply/APy11a/UI-Designer.html]]></url>
+			<city><![CDATA[Atlanta]]></city>
+			<state><![CDATA[GA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[30318]]></postalcode>
+			<description><![CDATA[<p>
+You&#39;re a talented designer who knows the web inside and out . You&#39;re passionate about web apps and always exploring the latest and greatest. New design patterns and UI treatments are always on your radar, inspiring the next interface you tackle. You&#39;re always looking for ways to create simplicity out of complexity. Critical discussion about design, whether it&#39;s your work or that of your colleagues, is always fun to you because ideas improve when tested. Your design work is elegant, efficient, and inspiring to others as we&#39;ll see when we look at your portfolio site.</p>
+<p>
+You&#39;ll work with the User Experience and Engineering teams to create beautiful interfaces that meet the needs of millions of users around the world. You&#39;ll conceptualize and design original ideas that bring simplicity and ease of use to complex design issues.</p>
+<p>
+Responsibilities</p>
+<ul>
+<li>
+&nbsp;Translate requirements into concepts and elegant user experience design</li>
+<li>
+Create interaction models, user task flows, screen designs, and UI details that&nbsp;promote ease of use and optimize the user experience</li>
+<li>
+Collaborate with other designers as needed, and work independently to see a&nbsp;project through</li>
+<li>
+Partner with Design Research to inform and improve interfaces and workflows</li>
+<li>
+Visualize complex sets of data in ways that are easy to comprehend</li>
+<li>
+Work with Engineering to guide final implementation of design concepts</li>
+</ul>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;<br />
+Requirements</p>
+<ul>
+<li>
+Experience developing consumer and/or commercial web application interfaces</li>
+<li>
+Proven track record and a passion for designing compelling user experiences</li>
+<li>
+Solid intuition of best practices and tools used in user-centered interaction design</li>
+<li>
+Strong visual design skills, including an eye for good typography, composition,&nbsp;and use of color</li>
+<li>
+Fluid ability to design in Photoshop, OmniGraffle, and&nbsp;Illustrator</li>
+<li>
+Experience in creating various prototype methods and&nbsp;knowledge of best&nbsp;practices</li>
+<li>
+Ability to multitask, prioritize projects, and communicate progress and expected&nbsp;milestones</li>
+</ul>
+<p>
+Bonus Points</p>
+<ul>
+<li>
+Ability to prototype your work in HTML/CSS/JS</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+** We&#39;ll need to see your portfolio site so be sure to include a URL when applying.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/MailChimp/APy11a"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120723152811_VRBWK5LXOR5NUNXY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[DesignLab™ Creative]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Marketing]]></team>
+			<url><![CDATA[http://mailchimp.theresumator.com/apply/Himk0j/DesignLab-Creative.html]]></url>
+			<city><![CDATA[Atlanta]]></city>
+			<state><![CDATA[GA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[30318]]></postalcode>
+			<description><![CDATA[<p>
+MailChimp is a DIY email-newsletter service based in Atlanta that serves more than a 3 million users worldwide. We&#39;re self-funded and profitable, and we&#39;re growing fast.</p>
+<p>
+We work in a collaborative environment where <a href="http://www.fastcocreate.com/1679207/creative-cultures-mailchimp-grants-employees-permission-to-be-creative">everyone&rsquo;s expected to be creative</a>. Our fearless leader <a href="http://vimeo.com/34081566">keeps things interesting around here</a>, and inspiring guests speak at our weekly <a href="http://blog.mailchimp.com/coffee-hour/">Coffee Hours</a>. And most importantly, we&rsquo;re not afraid to <a href="http://blog.mandrill.com/starting-is-hard-to-do.html">start new things</a>. <a href="http://mailchimp.com/labs/">Lots of new things</a>. Crazy, <a href="http://emailgenome.org/">ambitious new things</a>.</p>
+<p>
+<strong>Job Description</strong></p>
+<p>
+Legend has it, there&#39;s an unknown team at MailChimp that experiments with digital and analog media and develops creative ideas in secret. Some say the team uses dark arts and malevolent wizardry to inspire innovation at the company. All we know is that we&#39;re looking for a punk-rocking, rules-breaking, DIY wiz to help round out a multi-disciplinary team of <a href="http://www.youtube.com/watch?v=K5nUUD8SM0Y&amp;feature=related">design barbarians</a>.</p>
+<p>
+<strong>Requirements&nbsp;</strong></p>
+<ul>
+<li>
+You possess a well-rounded creative skill set and can produce design solutions from scratch.</li>
+<li>
+You can both give and take direction.</li>
+<li>
+You love the internet, typography, color, stacks on deck, and <a href="http://www.youtube.com/watch?v=R4nc3nD6aVw">Riff Raff.</a></li>
+<li>
+You can party all night, show up at work the next morning and still get shit done.</li>
+<li>
+You must have a kick ass design portfolio.</li>
+</ul>
+<p>
+We&rsquo;re looking for smart, creative people who will give 100 percent. In exchange, we&rsquo;ll give you some fantastic perks and benefits:</p>
+<ul>
+<li>
+Fully paid health insurance for you and your family</li>
+<li>
+Fully paid dental insurance</li>
+<li>
+Fully paid vision insurance</li>
+<li>
+Disability insurance</li>
+<li>
+A 401(k) plan</li>
+<li>
+Free smartphones and monthly service (iPhone, Android, AT&amp;T, Verizon-your choice)</li>
+<li>
+An endless supply of t-shirts and <a href="http://www.flickr.com/photos/freddievonchimp/sets/72157625446629848/">hats</a></li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/MailChimp/Himk0j"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120723150656_JQSSGHAESPVQ1KLL]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Technical Support Analyst - Mandrill Team]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Mandrill]]></team>
+			<url><![CDATA[http://mailchimp.theresumator.com/apply/od2VrY/Technical-Support-Analyst-Mandrill-Team.html]]></url>
+			<city><![CDATA[Atlanta]]></city>
+			<state><![CDATA[GA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[30318]]></postalcode>
+			<description><![CDATA[<p>
+MailChimp is a DIY email-newsletter service based in Atlanta that serves more than a 3 million users worldwide. We&#39;re self-funded and profitable, and we&#39;re growing fast.</p>
+<p>
+We work in a collaborative environment where <a href="http://www.fastcocreate.com/1679207/creative-cultures-mailchimp-grants-employees-permission-to-be-creative">everyone&rsquo;s expected to be creative</a>. Our fearless leader <a href="http://vimeo.com/34081566">keeps things interesting around here</a>, and inspiring guests speak at our weekly <a href="http://blog.mailchimp.com/coffee-hour/">Coffee Hours</a>. And most importantly, we&rsquo;re not afraid to <a href="http://blog.mandrill.com/starting-is-hard-to-do.html">start new things</a>. <a href="http://mailchimp.com/labs/">Lots of new things</a>. Crazy, <a href="http://emailgenome.org/">ambitious new things</a>.</p>
+<p>
+<strong>Job Description</strong></p>
+<p>
+Mandrill is MailChimp&#39;s transactional email product, used specifically for sending mail like password resets, order confirmations or welcome messages. The Mandrill team is looking for a tech-support wrangler or code-savvy problem-solver to help support our rapidly growing customer base. In addition to answering day-to-day questions from users and developers, you&#39;ll contribute to the Mandrill knowledge base and documentation, troubleshoot integrations, identify user trends, combat spam, and optimize the support process. You love technology and helping customers get their desired outcome, quickly! You&#39;re a problem-solver: You&#39;re able to not only answer a user&#39;s direct question, but also understand the question behind the question. You&#39;ll provide suggestions and solutions to help people use Mandrill more efficiently and effectively. You don&#39;t need to be a coder yourself, but it would help to be familiar with DNS and how HTTP-based APIs work. You&#39;re not afraid of the unknown, but you have a voracious appetite for conquering problems and communicating solutions to co-workers and customers.</p>
+<p>
+Requirements</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Excellent writing, editing, and communication skills</li>
+<li>
+&nbsp;&nbsp;&nbsp; Well versed in email etiquette (for user communications)</li>
+<li>
+&nbsp;&nbsp;&nbsp; Ability to work independently to troubleshoot and identify technical issues</li>
+<li>
+&nbsp;&nbsp;&nbsp; Familiarity with the unix command line and simple command line tools</li>
+<li>
+&nbsp;&nbsp;&nbsp; Understanding of HTML and CSS for troubleshooting</li>
+<li>
+&nbsp;&nbsp;&nbsp; Basic understanding of programming logic in one or more programming languages.</li>
+<li>
+&nbsp;&nbsp;&nbsp; Self-motivated and resourceful attitude</li>
+</ul>
+<p>
+We&rsquo;re looking for smart, creative people who will give 100 percent. In exchange, we&rsquo;ll give you some fantastic perks and benefits:</p>
+<ul>
+<li>
+Fully paid health insurance for you and your family</li>
+<li>
+Fully paid dental insurance</li>
+<li>
+Fully paid vision insurance</li>
+<li>
+Disability insurance</li>
+<li>
+A 401(k) plan</li>
+<li>
+Free smartphones and monthly service (iPhone, Android, AT&amp;T, Verizon-your choice)</li>
+<li>
+An endless supply of t-shirts and <a href="http://www.flickr.com/photos/freddievonchimp/sets/72157625446629848/">hats</a></li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/MailChimp/od2VrY"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120723151458_UVKZPWBJFW0OHP6A]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Tech-support Geek]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Tech Support]]></team>
+			<url><![CDATA[http://mailchimp.theresumator.com/apply/1SPSxA/Techsupport-Geek.html]]></url>
+			<city><![CDATA[Atlanta]]></city>
+			<state><![CDATA[GA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[30318]]></postalcode>
+			<description><![CDATA[<p>
+MailChimp is a DIY email-newsletter service based in Atlanta that serves more than a 2.5 million users worldwide. We&#39;re self-funded and profitable, and we&#39;re growing fast.</p>
+<p>
+We work in a collaborative environment where <a href="http://www.fastcocreate.com/1679207/creative-cultures-mailchimp-grants-employees-permission-to-be-creative">everyone&rsquo;s expected to be creative</a>. Our fearless leader <a href="http://vimeo.com/34081566">keeps things interesting around here</a>, and inspiring guests speak at our weekly <a href="http://blog.mailchimp.com/coffee-hour/">Coffee Hours</a>. And most importantly, we&rsquo;re not afraid to <a href="http://blog.mandrill.com/starting-is-hard-to-do.html">start new things</a>. <a href="http://mailchimp.com/labs/">Lots of new things</a>. Crazy, <a href="http://emailgenome.org/">ambitious new things</a>.</p>
+<p>
+<strong>Job Description</strong></p>
+<p>
+MailChimp provides <a href="http://lurvin.mailchimp.com/">world-class live chat and email support</a> to more than 2.5 million users across the globe. Our customer support team is home to super kick-ass, smart, and slightly weird people who captain tankers chock-full of tacos, cat memes, and <a href="http://24.media.tumblr.com/tumblr_m7je89YssL1rbfmzvo1_500.gif">animated gifs</a>. All in the name of support, of course. We need sharp, driven individuals to join their ranks. Compassion and awesomeness are priorities. We have a place for the HTML educated all the way up to the API elite, provided a willingness to learn the ways of <a href="http://blog.mailchimp.com/ancient-art-of-email-jitsu-html-email-coding-guide/">email jitsu</a> and a strong desire to help people.</p>
+<p>
+<strong>Requirements&nbsp;</strong></p>
+<ul>
+<li>
+Basic understanding of HTML/CSS coding for troubleshooting</li>
+<li>
+Working knowledge of RSS feeds</li>
+<li>
+Ability to handle online chats with multiple people at once</li>
+<li>
+Well&ndash;versed in the subtleties of chat/email etiquette</li>
+<li>
+Incredible multi&ndash;tasking skills</li>
+<li>
+Fast reader, fast learner</li>
+<li>
+<a href="http://www.youtube.com/watch?v=Z3xd8bXlzeU&amp;list=PL3585C2A512A37B94&amp;index=5&amp;playnext=1v">Web power user</a></li>
+<li>
+Early birds, night owls and weekend warriors preferred</li>
+</ul>
+<p>
+We&rsquo;re looking for smart, creative people who will give 100 percent. In exchange, we&rsquo;ll give you some fantastic perks and benefits:</p>
+<ul>
+<li>
+Fully paid health insurance for you and your family</li>
+<li>
+Fully paid dental insurance</li>
+<li>
+Fully paid vision insurance</li>
+<li>
+Disability insurance</li>
+<li>
+A 401(k) plan</li>
+<li>
+Free smartphones and monthly service (iPhone, Android, AT&amp;T, Verizon-your choice)</li>
+<li>
+An endless supply of t-shirts and <a href="http://www.flickr.com/photos/freddievonchimp/sets/72157625446629848/">hats</a></li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/MailChimp/1SPSxA"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120831155639_DO9TI5L2PASHL7TC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front-End Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Marketing]]></team>
+			<url><![CDATA[http://mailchimp.theresumator.com/apply/b8h2zS/FrontEnd-Engineer.html]]></url>
+			<city><![CDATA[Atlanta]]></city>
+			<state><![CDATA[GA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[30318]]></postalcode>
+			<description><![CDATA[<p>
+MailChimp is a DIY email-newsletter service based in Atlanta that serves more than a 3 million users worldwide. We&#39;re self-funded and profitable, and we&#39;re growing fast.</p>
+<p>
+We work in a collaborative environment where <a href="http://www.fastcocreate.com/1679207/creative-cultures-mailchimp-grants-employees-permission-to-be-creative">everyone&rsquo;s expected to be creative</a>. Our fearless leader <a href="http://vimeo.com/34081566">keeps things interesting around here</a>, and inspiring guests speak at our weekly <a href="http://blog.mailchimp.com/coffee-hour/">Coffee Hours</a>. And most importantly, we&rsquo;re not afraid to <a href="http://blog.mandrill.com/starting-is-hard-to-do.html">start new things</a>. <a href="http://mailchimp.com/labs/">Lots of new things</a>. Crazy, <a href="http://emailgenome.org/">ambitious new things</a>.</p>
+<p>
+<strong>Job Description</strong></p>
+<p>
+MailChimp is seeking a Front&ndash;End Engineer to help maintain MailChimp.com and build small applications. You&rsquo;ll be working primarily with a static&ndash;site generator, as well as WordPress, ExpressionEngine and Ruby on Rails. We&rsquo;re looking for someone who loves to learn. Design experience is a big plus, too.</p>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Ability to work independently, with minimal supervision</li>
+<li>
+Fluent in semantic HTML5 and CSS3, and comfortable with HAML and SASS preprocessors</li>
+<li>
+Proficient with JavaScript, not just jQuery</li>
+<li>
+Experience building web applications</li>
+<li>
+Understands version control, preferably Git</li>
+<li>
+Works well with designers</li>
+</ul>
+<p>
+We&rsquo;re looking for smart, creative people who will give 100 percent. In exchange, we&rsquo;ll give you some fantastic perks and benefits:</p>
+<ul>
+<li>
+Fully paid health insurance for you and your family</li>
+<li>
+Fully paid dental insurance</li>
+<li>
+Fully paid vision insurance</li>
+<li>
+Disability insurance</li>
+<li>
+A 401(k) plan</li>
+<li>
+Free smartphones and monthly service (iPhone, Android, AT&amp;T, Verizon-your choice)</li>
+<li>
+An endless supply of t-shirts and <a href="http://www.flickr.com/photos/freddievonchimp/sets/72157625446629848/">hats</a></li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/MailChimp/b8h2zS"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130522220650_H7QZS1RSPBRVBUYR]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[DesignLab Intern]]></title>
+			<department><![CDATA[DesignLab]]></department>
+			<team><![CDATA[Design Lab]]></team>
+			<url><![CDATA[http://mailchimp.theresumator.com/apply/Dplx4z/DesignLab-Intern.html]]></url>
+			<city><![CDATA[Atlanta]]></city>
+			<state><![CDATA[GA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[30318]]></postalcode>
+			<description><![CDATA[<p>
+MailChimp is a DIY email-newsletter service based in Atlanta that serves more than a 3 million users worldwide. We&#39;re self-funded and profitable, and we&#39;re growing fast.</p>
+<p>
+We work in a collaborative environment where everyone&rsquo;s expected to be creative. Our fearless leader keeps things interesting around here, and inspiring guests speak at our weekly Coffee Hours. And most importantly, we&rsquo;re not afraid to start new things. Lots of new things. Crazy, ambitious new things.</p>
+<p>
+DesignLab Intern</p>
+<p>
+MailChimp is looking for an intern to work with DesignLab. You&#39;ll interact with a small team on a wide range of projects, from official MailChimp products to top-secret stuff. Expect tight deadlines, black magic, and some really weird assignments.</p>
+<p>
+<strong>Required Talents</strong></p>
+<ul>
+<li>
+Familiarity with Adobe Creative Suite</li>
+<li>
+Eagerness to learn new techniques</li>
+<li>
+Must be in at least third or fourth year of school or equal experience</li>
+<li>
+Examples of work or an online portfolio are a plus<br />
+&nbsp;</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Internship]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/MailChimp/Dplx4z"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130612232739_W0UIDHOQ654RHIXA]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Overnight Tech-support Geek]]></title>
+			<department><![CDATA[Tech Support]]></department>
+			<team><![CDATA[Tech Support]]></team>
+			<url><![CDATA[http://mailchimp.theresumator.com/apply/nn3jZg/Overnight-Techsupport-Geek.html]]></url>
+			<city><![CDATA[Atlanta]]></city>
+			<state><![CDATA[GA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[30318]]></postalcode>
+			<description><![CDATA[<p>
+MailChimp is a DIY email-newsletter service based in Atlanta that serves more than a 3 million users worldwide. We&#39;re self-funded and profitable, and we&#39;re growing fast.</p>
+<p>
+We work in a collaborative environment where <a href="http://www.fastcocreate.com/1679207/creative-cultures-mailchimp-grants-employees-permission-to-be-creative">everyone&rsquo;s expected to be creative</a>. Our fearless leader <a href="http://vimeo.com/34081566">keeps things interesting around here</a>, and inspiring guests speak at our weekly <a href="http://blog.mailchimp.com/coffee-hour/">Coffee Hours</a>. And most importantly, we&rsquo;re not afraid to <a href="http://blog.mandrill.com/starting-is-hard-to-do.html">start new things</a>. <a href="http://mailchimp.com/labs/">Lots of new things</a>. Crazy, <a href="http://emailgenome.org/">ambitious new things</a>.</p>
+<p>
+<strong>Job Description</strong></p>
+<p>
+Overnight Tech-support Geek:</p>
+<p>
+MailChimp&#39;s customer support team is home to a bunch of smart and slightly weird people who love tacos, cat memes, and animated GIFs. We&#39;re hiring sharp and compassionate problem solvers to join their ranks.</p>
+<p>
+And because our customers are located in many different time zones [all over the world] (http://mailchimp.com/2012/#!/section/geography), we&#39;re looking for a few night owls to take on an overnight shift (or 9-5, as they call it in Australia). Have a few minutes to talk? We&#39;d love to meet you(http://mailchimp.com/about/jobs/meet-and-greet/).</p>
+<p>
+<strong>Requirements&nbsp;</strong></p>
+<ul>
+<li>
+Basic understanding of HTML/CSS coding for troubleshooting</li>
+<li>
+Working knowledge of RSS feeds</li>
+<li>
+Ability to handle online chats with multiple people at once</li>
+<li>
+Well&ndash;versed in the subtleties of chat/email etiquette</li>
+<li>
+Incredible multi&ndash;tasking skills</li>
+<li>
+Fast reader, fast learner</li>
+<li>
+<a href="http://www.youtube.com/watch?v=Z3xd8bXlzeU&amp;list=PL3585C2A512A37B94&amp;index=5&amp;playnext=1v">Web power user</a></li>
+<li>
+Early birds, night owls and weekend warriors preferred</li>
+</ul>
+<p>
+We&rsquo;re looking for smart, creative people who will give 100 percent. In exchange, we&rsquo;ll give you some fantastic perks and benefits:</p>
+<ul>
+<li>
+Fully paid health insurance for you and your family</li>
+<li>
+Fully paid dental insurance</li>
+<li>
+Fully paid vision insurance</li>
+<li>
+Disability insurance</li>
+<li>
+A 401(k) plan</li>
+<li>
+Free smartphones and monthly service (iPhone, Android, AT&amp;T, Verizon-your choice)</li>
+<li>
+An endless supply of t-shirts and <a href="http://www.flickr.com/photos/freddievonchimp/sets/72157625446629848/">hats</a></li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/MailChimp/nn3jZg"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130701195518_2U2RIGLGKIAY70UG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer-Mandrill Team]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://mailchimp.theresumator.com/apply/3i83Gu/Software-EngineerMandrill-Team.html]]></url>
+			<city><![CDATA[Atlanta]]></city>
+			<state><![CDATA[GA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[30318]]></postalcode>
+			<description><![CDATA[<p>
+Mandrill is seeking a software engineer to help us build the Mandrill application. We don&rsquo;t care about pedigree or what languages or stacks you&rsquo;ve worked in, we&rsquo;re just looking for great engineers. In fact, if you&rsquo;d rather send us code than polish up your resum&eacute;, that works for us.</p>
+<p>
+You&rsquo;ll work with the Mandrill&nbsp; product&ndash;development team to build new functionality into our product, and our customer&ndash;service team to resolve issues as they arise. You&rsquo;ll be allowed&mdash;even required&mdash;to be creative in your work. We push managers and meetings out of the way so you can concentrate on what you love to do.</p>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; 1-2 years experience in a software development environment.</li>
+<li>
+&nbsp;&nbsp;&nbsp; Ability to work independently, with minimal supervision</li>
+<li>
+&nbsp;&nbsp;&nbsp; Linux, Nginx, NoSQL, PHP and Go environment</li>
+<li>
+&nbsp;&nbsp;&nbsp; JavaScript, Dart, JSON and AJAX</li>
+<li>
+&nbsp;&nbsp;&nbsp; A portfolio of code you&#39;ve written</li>
+</ul>
+<p>
+We&rsquo;re looking for smart, creative people who will give 100 percent. In exchange, we&rsquo;ll give you some fantastic perks and benefits:</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Fully paid health insurance for you and your family</li>
+<li>
+&nbsp;&nbsp;&nbsp; Fully paid dental insurance</li>
+<li>
+&nbsp;&nbsp;&nbsp; Fully paid vision insurance</li>
+<li>
+&nbsp;&nbsp;&nbsp; Disability insurance</li>
+<li>
+&nbsp;&nbsp;&nbsp; A 401(k) plan</li>
+<li>
+&nbsp;&nbsp;&nbsp; Free smartphones and monthly service (iPhone, Android, AT&amp;T, Verizon-your choice)</li>
+<li>
+&nbsp;&nbsp;&nbsp; An endless supply of t-shirts and hats</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/MailChimp/3i83Gu"></script>]]></buttons>
+		</job>
+	</jobs>
