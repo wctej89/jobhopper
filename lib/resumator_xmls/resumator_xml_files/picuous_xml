@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Picuous]]></company>
+			<job>
+			<id><![CDATA[job_20110417175843_LNM3RVSETPMJPEYR]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front-end web developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://picuous.theresumator.com/apply/EQxCOB/Frontend-Web-Developer.html]]></url>
+			<city><![CDATA[Boulogne Billancourt]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[France]]></country>
+			<postalcode><![CDATA[92100]]></postalcode>
+			<description><![CDATA[<p>
+	Nous sommes 3 associ&eacute;s, deux profils business et un profil technique. Passionn&eacute;s de photo, nous avons cr&eacute;&eacute; Picuous en Janvier 2011. Picuous permet de stocker, partager, prot&eacute;ger et g&eacute;rer ses images en toute simplicit&eacute;. La version beta de Picuous est aujourd&rsquo;hui en ligne sur www.picuous.com</p>
+<p>
+	<strong>Description du stage</strong></p>
+<p>
+	Nous cherchons &agrave; &eacute;toffer l&rsquo;&eacute;quipe technique. Picuous pour vous c&rsquo;est l&rsquo;occasion de :<br />
+	- travailler sur l&rsquo;&eacute;tat de l&rsquo;art des derni&egrave;res technos web<br />
+	- s&rsquo;int&eacute;grer dans l&rsquo;&eacute;cosyst&egrave;me des startups tech parisiennes<br />
+	- travailler aux c&ocirc;t&eacute;s de 3 passionn&eacute;s dans un sous-sol, comme toute startup qui se respecte</p>
+<p>
+	Quelques missions qui pourraient vous &ecirc;tre confi&eacute;es :<br />
+	- D&eacute;veloppement de l&rsquo;application Web de Picuous<br />
+	- D&eacute;veloppement d&rsquo;une API<br />
+	- Mise en place d&rsquo;une infrastructure de tests automatis&eacute;s<br />
+	- Int&eacute;gration du moteur de recherche Solr</p>
+<p>
+	Vous devrez travailler sur votre propre machine (Mac id&eacute;alement). Nous fournirons les licences n&eacute;cessaires.</p>
+<p>
+	<strong>Dur&eacute;e du stage</strong></p>
+<p>
+	Entre 2 et 6 mois.<br />
+	A pourvoir d&egrave;s que possible.</p>
+<p>
+	<strong>Comp&eacute;tences requises</strong></p>
+<p>
+	- Connaissances en Ruby on Rails, HTML5, CSS, jQuery<br />
+	- Maitrise de git<br />
+	- Bon sens du design<br />
+	- Passion pour la programmation, par opposition &agrave; programmation en tant que gagne-pain<br />
+	- Soif/envie d&rsquo;apprendre<br />
+	- Maitrise de l&rsquo;anglais technique</p>
+<p>
+	<strong>Plus</strong></p>
+<p>
+	- Poss&egrave;de un compte Github et contribue &agrave; des projets open source<br />
+	- Connaissances PHP, Java, et 5 ou 6 autres langages de programmation ;</p>
+]]></description>
+			<type><![CDATA[Internship to Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/picuous/EQxCOB"></script>]]></buttons>
+		</job>
+	</jobs>

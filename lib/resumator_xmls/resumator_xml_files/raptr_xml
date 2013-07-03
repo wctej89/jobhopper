@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Raptr]]></company>
+			<job>
+			<id><![CDATA[job_20110315172400_DNR2HZ5RC9UMMMTV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[SENIOR BACKEND ENGINEER]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://raptr.theresumator.com/apply/lLLm3f/SENIOR-BACKEND-ENGINEER.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94043]]></postalcode>
+			<description><![CDATA[<p>
+	Raptr is looking for an outstanding, highly motivated Senior Backend Engineer to join our team.</p>
+<p>
+	We need someone who has experience building large-scale web sites and enjoys collaborating with small-sized teams. We are looking for an individual who has been instrumental in creating a scalable backend infrastructure for a highly-trafficked consumer web site, can write high quality code, have excellent communication skills, love solving complex problems, and are also looking to provide a voice in product design and direction.</p>
+<p>
+	Required skills:</p>
+<p>
+	Ability to write solid, tight, well-architected code (PHP, Python and Perl).<br />
+	3+ years of experience in design &amp; development of commercial web applications. Experience in design implementation of large scale, high traffic consumer-facing portals is a huge plus.<br />
+	Knows the trade off between server side performance and features. Having the ability to come up with innovative solutions to scalability and performance problems.<br />
+	Strong Computer Science fundamentals (we mean it, and we&#39;ll test for it!).<br />
+	Experience with the LAMP stack, particularly PHP5.<br />
+	Experience with Active MQ or equivalent.<br />
+	Familiarity with Memcached.<br />
+	Expert in SQL and database schema design, and in particular, MySQL.<br />
+	Experience in building out a metrics / analytics / business intelligence system.<br />
+	Experience in object oriented (OO) design &amp; programming.<br />
+	Creative thinker who thrives in a small-team environment.<br />
+	BS/MS in Computer Science.<br />
+	Highly motivated, self-starter, detail oriented.<br />
+	Good sense of humor :)<br />
+	Passion for the gaming industry is a huge plus.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/raptr/lLLm3f"></script>]]></buttons>
+		</job>
+	</jobs>

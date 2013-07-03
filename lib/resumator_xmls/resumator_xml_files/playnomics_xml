@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Playnomics]]></company>
+			<job>
+			<id><![CDATA[job_20120425191153_E8WA2TBUOIEVYKSH]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://playnomics.theresumator.com/apply/fBXAwe/Software-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+At Playnomics, we believe in an interactive gaming future.&nbsp; We see a future where connected games will be applied to all types of digital interactions, and played by all types of people on a multitude of platforms.&nbsp; Using cutting edge data analysis techniques, we are building a digital marketing platform to enable game publishers to predictively target players on a 1-1 basis. Our system presents exciting challenges such as scaling machine learning, processing large datasets in the cloud, and real time data insight. We are laying the groundwork for a future of adaptive, personalized gaming experiences, all powered by our next-generation data analytics platform.<br />
+<br />
+Our team is made up of smart, pragmatic entrepreneurs and technologists coming from diverse professional and academic backgrounds. Playnomics is located in the heart of San Francisco&rsquo;s vibrant SoMa district, two short blocks from Caltrain, and (pretty) close to the ballpark. We are looking for like minded talented / capable / resourceful people to join us in building the future of digital gaming. Also, to join us in grilling outside on our patio on Fridays.<br />
+<br />
+Software Engineer Responsibilities:</p>
+<ul>
+<li>
+Work with senior engineers to build data processing software in Java for analyzing terabytes of data in the cloud</li>
+<li>
+Design, build, and maintain a real-time API for data collection and ad serving</li>
+<li>
+Build key components of an auction/decision system with bidding, quality analysis and accounting</li>
+<li>
+Work on all aspects of software development including design, implementation, testing, deployment, tuning, and monitoring</li>
+<li>
+Support and troubleshoot</li>
+<li>
+Support and troubleshoot cloud-based backend data processing infrastructure</li>
+<li>
+Interact with customers to integrate the product with their games and applications</li>
+</ul>
+<p>
+What we are looking for:</p>
+<ul>
+<li>
+BS in Computer Science (minimum)</li>
+<li>
+A solid foundation in Computer Science, particularly data structures, data processing, object-oriented programming, and software design</li>
+<li>
+Demonstrable sharp problem solving skills</li>
+<li>
+Excellent communications skills</li>
+<li>
+Expertise in Java or other object-oriented programming languages</li>
+<li>
+Knowledge of SQL, Hadoop, Hive or JavaScript a bonus</li>
+<li>
+Aptitude for Big Data and distributed/parallel systems</li>
+<li>
+High energy &quot;get-it-done&quot; personality</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/playnomics/fBXAwe"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121031211044_ZVJJGSOHQHDFZSUX]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Application Engineer - Ruby on Rails]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://playnomics.theresumator.com/apply/KoLhtc/Web-Application-Engineer-Ruby-On-Rails.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+Playnomics&nbsp;focuses&nbsp;on&nbsp;the&nbsp;interactive&nbsp;gaming&nbsp;space.&nbsp;We&nbsp;build&nbsp;software&nbsp;that&nbsp;brings&nbsp;behavioral&nbsp;targeting&nbsp;to&nbsp;online&nbsp;games.&nbsp;Our&nbsp;system&nbsp;presents&nbsp;exciting&nbsp;challenges&nbsp;such&nbsp;as&nbsp;scaling&nbsp;machine&nbsp;learning,&nbsp;processing&nbsp;large&nbsp;datasets&nbsp;in&nbsp;the&nbsp;cloud&nbsp;and&nbsp;real&nbsp;time&nbsp;data&nbsp;insights.&nbsp;The&nbsp;company&nbsp;is&nbsp;backed&nbsp;by&nbsp;leading&nbsp;venture&nbsp;capital&nbsp;firms&nbsp;and&nbsp;was&nbsp;founded&nbsp;by&nbsp;growth&nbsp;equity&nbsp;investors&nbsp;and&nbsp;data&nbsp;modeling&nbsp;experts.</p>
+<p>
+The ideal candidate would be a master of end-to-end web development, including code architecture, data modelling, user interaction, JavaScript/CSS/HTML, and deployment.&nbsp; You&rsquo;ll be immediately thrown in the deep end and expected to build and iterate quickly.</p>
+<p>
+<strong>What you&rsquo;ll do</strong>:</p>
+<p>
+- Own the design, development and operation of Playnomics&rsquo; web application(s)</p>
+<p>
+- Build a friendly and flexible interface to keep up with the needs of a growing and diverse customer base</p>
+<p>
+- Deploy and maintain live applications (e.g., run on ec2)</p>
+<p>
+- Continual analysis, testing, and iteration in response to customer feedback/needs</p>
+<p>
+- Work as necessary to help make Playnomics successful</p>
+<p>
+<strong>What we want</strong>:</p>
+<p>
+- Expertise in LAMP-like development and with expertise in Ruby on Rails programming</p>
+<p>
+- Experience with multiple deployed web applications</p>
+<p>
+- Solid grounding in the fundamentals of mvc-based software engineering</p>
+<p>
+- A commitment to test-driven development</p>
+<p>
+- Experience with agile/extreme methodologies</p>
+<p>
+- Ability to run with ill-defined specs and react quickly to shifting needs</p>
+<p>
+- Previous startup experience&nbsp;</p>
+<p>
+- Background or prior experience in online gaming is a plus</p>
+<p>
+<strong>What we offer</strong>:</p>
+<p>
+- A position at a very early stage company in one of the hottest areas of technology</p>
+<p>
+- Salary, benefits and equity competitive for an early stage start-up</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/playnomics/KoLhtc"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130605065044_SNFB08JDERIH7XOJ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Director of Marketing]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://playnomics.theresumator.com/apply/FpHOt8/Director-Of-Marketing.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About Playnomics:</strong><br />
+At Playnomics, we see a future where connected games will be applied to all types of digital interactions, and played by all types of people on a multitude of platforms. Using cutting edge data analysis techniques, we continue to build out a digital marketing platform to enable game publishers to predictively target players on a 1-1 basis.</p>
+<p>
+Our team is made up of smart, pragmatic entrepreneurs, researchers, creative, and technologists coming from diverse professional and academic backgrounds. Playnomics main office is located in the heart of San Francisco&rsquo;s vibrant SOMA district.</p>
+<p>
+As the Director of Marketing for Playnomics, you will lead marketing efforts focused on driving game developer adoption of the PlayRM platform. We are looking for a candidate with experience and passion for bringing service oriented products to market in a clear and effective manner.&nbsp; A strategic thinker able to develop positioning that resonates with our customers then tactically executing go-to-market strategies that open up opportunities.</p>
+<p>
+For us the role is for someone who is at product person at heart - but this role is a marketing one. You need to be able to think proactively about our product and why it matters, and effectively communicate that using both paid and unpaid channels.</p>
+<p>
+<strong>Primary Responsibilities</strong></p>
+<ul>
+<li>
+Develop product positioning and messaging that differentiates our product in the market</li>
+<li>
+Direct all product marketing activities for the company, initially as the primary resource, then growing into a team leader role</li>
+<li>
+Drive the creation of key marketing assets that increase new onboarding success of new customers</li>
+<li>
+Develop effective product marketing programs that increase developer adoption of the PlayRM platform using both paid channels and unpaid channels</li>
+<li>
+reate effective communication and education materials that will help the client facing teams increase usage of the PlayRM platform</li>
+<li>
+Own marketing insights, event coordination, education initiatives, email marketing and corporate communications</li>
+<li>
+Evaluate the effectiveness of product marketing programs through data driven research and analysis</li>
+<li>
+Communicate the value proposition of the products to the sales team and develop the sales tools that support the selling process of our products</li>
+<li>
+Actively participate in regular strategy sessions with sales, business development, product and account management teams to represent go-to-market needs</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+BS/BA degree preferred from top tier university, MBA a plus</li>
+<li>
+At least 7+ years of software marketing experience, with an emphasis on marketing technology to game developers.</li>
+<li>
+Experience organizing events and working with outside PR and creative agencies.</li>
+<li>
+Experience with quantitative measurement and evaluation frameworks</li>
+<li>
+Proof of ability to generate compelling marketing assets including white papers, sales collateral and go-to-market launch assets, etc.</li>
+<li>
+Very strong writing skills, attention to detail and an eye for quality.</li>
+<li>
+Excellent written, oral, and interpersonal communication skills</li>
+</ul>
+<p>
+<strong>Desired Attributes</strong></p>
+<ul>
+<li>
+Deep knowledge of and/or experience in the mobile and gaming industries</li>
+<li>
+Passion for technology, start-ups, and games</li>
+<li>
+Excited to be a part of a dynamic industry and fast-moving company</li>
+<li>
+Adaptability, resourcefulness, and a positive attitude</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/playnomics/FpHOt8"></script>]]></buttons>
+		</job>
+	</jobs>

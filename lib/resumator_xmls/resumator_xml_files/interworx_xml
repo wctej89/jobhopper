@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[InterWorx, LLC]]></company>
+			<job>
+			<id><![CDATA[job_20121005191122_OHCICIO9LMUGQCOP]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Linux Support Technician]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://interworx.theresumator.com/apply/szVmZo/Linux-Support-Technician.html]]></url>
+			<city><![CDATA[Pittsburgh]]></city>
+			<state><![CDATA[PA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[15217]]></postalcode>
+			<description><![CDATA[<p>
+InterWorx is an established Pittsburgh, Pennsylvania-based web hosting software development company with worldwide hosting and software partners. InterWorx develops advanced web hosting management software with an emphasis on simplifying complex multi-server hosting solutions.</p>
+<p>
+This position is for a full time salaried, Linux Support Technician working on site at our offices in Pittsburgh, PA (no telecommuting). Polished Linux skills are required as we use Linux exclusively and you will be expected to fluently work at the command line.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Diagnosing problems with applications which use PHP/MySQL or Perl/MySQL</li>
+<li>
+Working with Apache including .htaccess files</li>
+<li>
+Diagnosing e-mail problems</li>
+<li>
+Basic MySQL queries and troubleshooting</li>
+<li>
+Transferring sites between servers</li>
+<li>
+Answering trouble tickets via the ticketing and phone systems in a timely and professional manner</li>
+<li>
+Work with software developers to identify, reproduce, and fix bugs</li>
+<li>
+Assist with website and documentation maintenance</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Excellent customer support skills</li>
+<li>
+Familiarity with Linux Web hosting software (Apache, FTP, SSH, MySQL, DNS)</li>
+<li>
+Patience and perseverance to solve complex problems</li>
+<li>
+General Linux server experience</li>
+<li>
+Proficiency with the Linux CLI</li>
+<li>
+Light web development and/or scripting experience is a bonus</li>
+</ul>
+<p>
+<strong>Bonus</strong></p>
+<ul>
+<li>
+Experience with web hosting control panels</li>
+<li>
+Experience with Linux in a shared hosting environment</li>
+<li>
+Experience with Cloud technologies (ec2, etc)</li>
+</ul>
+<p>
+Salary is negotiable with health and other benefits after 90 days. Nights, weekends and holiday coverage may be included in your scheduled shifts, but the shifts are fairly stable once scheduled.</p>
+<p>
+When replying to this posting, please elaborate on your Linux experience, giving specific examples of projects you have worked on. Please be sure to include your resume and cover letter.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/interworx/szVmZo"></script>]]></buttons>
+		</job>
+	</jobs>

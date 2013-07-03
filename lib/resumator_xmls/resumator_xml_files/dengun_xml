@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Dengun new era technologies]]></company>
+			<job>
+			<id><![CDATA[job_20090531131421_8PRDYFGY8YUUCVGC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[SEO Expert]]></title>
+			<department><![CDATA[Dengun]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://dengun.theresumator.com/apply/P8kJjg/SEO-Expert.html]]></url>
+			<city><![CDATA[Faro]]></city>
+			<state><![CDATA[Gambelas]]></state>
+			<country><![CDATA[Portugal]]></country>
+			<postalcode><![CDATA[8000]]></postalcode>
+			<description><![CDATA[<p>Nice easygoin job in the Algarve.</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/dengun/P8kJjg"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Jamstar]]></company>
+			<job>
+			<id><![CDATA[job_20120402113916_K0XDZXUFJAEL9ZJ6]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software engineer]]></title>
+			<department><![CDATA[Jamstar]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://jamstar.theresumator.com/apply/9NFcPY/Software-Engineer.html]]></url>
+			<city><![CDATA[Hod Ha'sharon]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Israel]]></country>
+			<postalcode><![CDATA[43700]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Jamstar</strong> is an Israeli based startup that develops ground-breaking music technology for web, mobile and facebook applications. By combining polyphonic note detection and real-time feedback.&nbsp;</p>
+<p>
+	<strong>JamStar</strong> changes the way people learn and play musical instruments by providing a fun interactive practicing experience.&nbsp;JamStar listens to you play your guitar and gives you immediate feedback. It helps learn and practice musical instruments while enjoying a rock star experience.&nbsp;</p>
+<p>
+	We are looking for<strong> kick-ass end-to-end software engineer</strong> to join our small and growing team in Israel.</p>
+<p>
+	&nbsp;</p>
+<p>
+	The person will take a significant role in building both client and server of a breakthrough web/facebook/mobile application that&nbsp;changes the way people practice and learn musical instruments.</p>
+<ul>
+	<li>
+		2 years of proven experience in ActionScript, a plus</li>
+	<li>
+		2 years of proven&nbsp;experience in Java, a plus</li>
+	<li>
+		Experience in large scale applications, EC2 is a plus</li>
+	<li>
+		Experience in digital signal processing, a plus</li>
+	<li>
+		Loves music</li>
+	<li>
+		Creative thinker</li>
+	<li>
+		Team player</li>
+	<li>
+		Excellent communication skills, both written and oral</li>
+	<li>
+		Willing to work extremely hard for the pleasure of being part of a great team and building an amazing product</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/jamstar/9NFcPY"></script>]]></buttons>
+		</job>
+	</jobs>

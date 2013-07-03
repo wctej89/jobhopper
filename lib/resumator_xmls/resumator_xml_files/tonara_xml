@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Tonara]]></company>
+			<job>
+			<id><![CDATA[job_20110302114006_B0ZVDWD2C6QQDRAY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://tonara.theresumator.com/apply/VsRLMi/Web-Engineer.html]]></url>
+			<city><![CDATA[Ramat Gan]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Israel]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+	Tonara is hiring a web engineer to work on the web application</p>
+<p>
+	To apply, please use the form on this page. Alternatively, send a very interesting email to jobs@tonara.com.</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>Responsibilities</strong></p>
+<ul>
+	<li>
+		Code primarily with Python (we use Django) and JavaScript</li>
+	<li>
+		Design and implement new features&nbsp;</li>
+	<li>
+		Rapidly iterate using user feedback and internal metrics</li>
+	<li>
+		Collaborate and work alongside a small team of engineers</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>What it&#39;s like working here</strong></p>
+<ul>
+	<li>
+		Fast-paced environment with the right balance of quick, iterative development versus more deliberate, smart architecting</li>
+	<li>
+		You have a lot of freedom and flexibility to pursue projects your own way and set your own goals</li>
+	<li>
+		Small, very technically-minded team</li>
+	<li>
+		Casual but ambitious environment. We like what we do and we want to be the best at it. We&#39;re also going to have fun doing it</li>
+</ul>
+<p>
+	<strong>What we&#39;d like to see</strong></p>
+<ul>
+	<li>
+		Expert with at least one programming languages, and very good with many others.</li>
+	<li>
+		Know Python well and at least familiar with Django</li>
+	<li>
+		Good with JavaScript and willing to learn and do novel things with the language.</li>
+	<li>
+		Very experienced with web application deployment and software design principles</li>
+	<li>
+		Excellent communication skills and the ability to work out solutions to problems with others</li>
+	<li>
+		Self-directed and self-motiviated. You should be able to identify and prioritize projects as well as you can execute on them</li>
+	<li>
+		Bachelor&#39;s degree in Computer Science or ample evidence of skills</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>More about us</strong></p>
+<p>
+	???????????</p>
+<p>
+	Tonara was founded in 2010 and is backed, among others, by&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/tonara/VsRLMi"></script>]]></buttons>
+		</job>
+	</jobs>

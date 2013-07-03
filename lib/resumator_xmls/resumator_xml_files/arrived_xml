@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Arrived Inc.]]></company>
+			<job>
+			<id><![CDATA[job_20111023111102_Z86CXEBTBNGFSQ3L]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sr. Software Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://arrived.theresumator.com/apply/shhDHL/Sr-Software-Engineer.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+	Arrived Inc., (http://www.GetArrived.com) a silicon valley-based startup, is hiring elite software engineers as contributors to help build a next generation mobile social platform. &nbsp;Arrived is gearing up to transform the wey people connect and we plan to have fun doing it!</p>
+<p>
+	If you like mobile and social applications as well as grand development challenges and want to be part of something BIG while having a ton of fun in the process? Please apply and blow us away with your talent. You will be surprised at the opportunity that is awaiting you!</p>
+<p>
+	-=Back-end Engineers=-<br />
+	What we are looking for:<br />
+	You love coding and have been doing so for a while. Whether its working for a company, contributing to open source projects or maintaining your own pet projects, you have something to demonstrate your coding talent.<br />
+	You enjoy keeping up with the latest and greatest in technology, programming languages, systems, and software. You experiment with new approaches and frameworks, keep your development toolbox up to date and know how to choose the right tool for the job.<br />
+	You love elegant software design and take pride in your code. You strive to find the perfect architecture, API, database schema or object model. Bad code causes you physical pain and the urgency to refactor it immediately - even if you have to use NotePad.<br />
+	You are a team player participating in arguments, design decisions, asking questions, learning from ,and helping others. As a team player you instinctively document your code, API and everything else diligently.<br />
+	Hard skills: Java, SQL, familiarity with unit and integration testing, RESTful development (+JSON, XML), and whatever else we might need you to learn on the way. A plus if you have used Hibernate, MemCache, NoSQL databases, Tomcat and worked with continuous integration frameworks before.</p>
+<p>
+	<br />
+	Apply and send your resume, code samples, project webpages or whatever else you think we need to fully appricaite your exceptional talent.</p>
+<p>
+	-=Front-end Engineers=-<br />
+	What we are looking for:<br />
+	You love beautiful design and strive for perfection. Every single pixel is paramount to overall user experience.<br />
+	You constantly hone your design skills by learning about new tools, observing the latest trends, drawing inspiration from the gurus, and actively working on projects.<br />
+	You have an impressive portfolio to show for yourself.<br />
+	You believe that diligent testing is as important for user interfaces as it is for backend code.<br />
+	To you, good design is half science and half art. You have studied interaction design principles and theory of good design. Your eye is your gut check and an empty canvas stirs the butterflies.<br />
+	You are a team player participating in arguments, design decisions, asking questions, learning from ,and helping others.<br />
+	Hard skills: HTML(5)/CSS(3), Javascript+AJAX (and frameworks like jQuery, prototype, etc), REST API, command of web standards. ObjectiveC + iPhone SDK for iOS development and Java + Android SDK for Android development.</p>
+<p>
+	A plus if you a familiar with web development frameworks (e.g. RoR, Backbone.js, etc.), are up to date on novel Javascript frameworks (like Node.js), Apple abstraction frameworks (e.g. Cocoa Touch)</p>
+<p>
+	<br />
+	Send your info and we will be in touch!<br />
+	&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/arrived/shhDHL"></script>]]></buttons>
+		</job>
+	</jobs>

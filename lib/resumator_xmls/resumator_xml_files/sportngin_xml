@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Sport Ngin]]></company>
+			<job>
+			<id><![CDATA[job_20130408162847_VDP0GM3P6D1HAPK4]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer - Technical Implementation Consultant]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://sportngin.theresumator.com/apply/uYVgGu/Software-Engineer-Technical-Implementation-Consultant.html]]></url>
+			<city><![CDATA[Minneapolis]]></city>
+			<state><![CDATA[MN]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[55413]]></postalcode>
+			<description><![CDATA[<p>
+<a href="http://www.sportngin.com">Sport Ngin</a> is looking for a Software Engineer who will be responsible for leading all technical aspects of client implementations on our software platform. This position is responsible for designing and building tools and systems to automate implementations of clients on a daily basis.&nbsp;</p>
+<p>
+The successful candidate will thrive in an open, relaxed, creative atmosphere with a team of extremely talented developers and designers in a fantastic NE Minneapolis loft-style office space (13 foot ceilings, hardwood floors, brick and timber finish, and tons of windows). We hook our development staff up with MacBook Pros, big ol&#39; flat panels, and all the software they need to create amazing work.&nbsp; We offer competitive pay and great benefits.</p>
+<p>
+<a href="http://www.sportngin.com">Sport Ngin</a>, an established and successful business since 2002 and recently voted 1 of Minnesota&#39;s Top 100 Companies to work for, brings web-based SaaS offerings to the sports world.</p>
+<p>
+<strong>As a member of the Content, Design &amp; Implementation team, you will......</strong><br />
+&bull; Act as technical liaison to clients, leading technical discussions during implementations.<br />
+&bull; Utilize our platform&rsquo;s RESTful API to both input and output data based on client needs.<br />
+&bull; Develop reusable processes to make ongoing implementation tasks as efficient as possible.<br />
+&bull; Update, create and maintain technical implementation processes that are highly documented for scaleable reuse.<br />
+&bull; Configure test cases for clients, and assist them in user acceptance testing.<br />
+&bull; Identify client issues and work with internal teams to create a strategy to troubleshoot and resolve problems during client implementations.</p>
+<p>
+<br />
+<strong>This is the perfect role for you if you have.....</strong><br />
+&bull; 3+ years of experience in client implementation, engineering, or advanced technical support role;<br />
+&bull; 2+ years professional experience developing applications with Ruby on Rails;<br />
+&bull; Familiarity with agile development techniques including test-driven development and priority-based planning;<br />
+&bull; Solid object-oriented design skills, knowledge of software patterns, and experience modeling data-driven applications;<br />
+&bull; Ability to communicate and collaborate effectively with designers and other developers;<br />
+&bull; An independent and self-motivated nature with the ability to work alone, on a team and/or leading a team of developers.</p>
+<p>
+<strong>This is the perfect role for you if you have strong knowledge and experience with the following.....</strong><br />
+&bull; Languages: Ruby (on Rails), JavaScript, SQL<br />
+&bull; Web Services: REST, SOAP, APIs<br />
+&bull; Data Formats: HTML, JSON, XML, XSD, XSLT, CSS, HTML<br />
+&bull; Linux command line and general scripting</p>
+<p>
+<br />
+<strong>Equal Employment Opportunity</strong><br />
+Sport Ngin is committed to equal employment and advancement opportunity for all employees and candidates for employment without regard to race, color, ancestry, national origin, religious creed, gender, physical or mental disability, veteran status, sexual orientation, age or marital status in accordance with applicable laws and regulations.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/sportngin/uYVgGu"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130701220643_YLEN4NQUMHCVZG88]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front-End Software Engineer]]></title>
+			<department><![CDATA[Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://sportngin.theresumator.com/apply/7NkxnP/FrontEnd-Software-Engineer.html]]></url>
+			<city><![CDATA[Minneapolis]]></city>
+			<state><![CDATA[MN]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[55413]]></postalcode>
+			<description><![CDATA[<p>
+<a href="http://www.sportngin.com">Sport Ngin</a> is looking for a passionate Front-End Software Engineer to work on a new and ambitious client-side JavaScript application.&nbsp;</p>
+<p>
+<span style="font-size: 12px;">The successful candidate will thrive in an open, relaxed, creative atmosphere - with a team of extremely talented developers and designers in a fantastic NE Minneapolis loft-style office space (13 foot ceilings, hardwood floors, brick and timber finish, and tons of windows). We hook our development staff up with MacBook Pros, big ol&#39; flat panels, and all the software they need to create amazing work. We offer competitive pay and great benefits.</span></p>
+<p>
+<a href="http://sportngin.com">Sport Ngin</a>, an established and successful business since 2002 and recently voted 1 of Minnesota&#39;s Top 100 Companies to work for, brings web-based SaaS offerings to the sports world.</p>
+<p>
+<strong>As a member of the Development team at Sport Ngin, you&#39;ll.......</strong></p>
+<ul>
+<li>
+Build a new client-side Node.js application from the ground up for mobile, tablet and desktop.</li>
+<li>
+Use both Node.js and JavaScript MVC frameworks to communciate with an existing Ruby on Rails application via a JSON API.</li>
+<li>
+Work with the talented Ruby Developers and Designers behind the Sport Ngin platform.</li>
+</ul>
+<p>
+<strong>This is the perfect role for you if you.....</strong></p>
+<ul>
+<li>
+Are a passionate JavaScript developer with familiarity using Node.js.</li>
+<li>
+Have experience using JavaScript libraries such as jQuery, YUI, MooTools, Prototype.</li>
+<li>
+Are familiar with JavaScript MVC frameworks such as SproutCore, JavaScriptMVC, Backbone.js.</li>
+<li>
+Have knowledge and experience with other programming languages such as Ruby, Python, Java, PHP.</li>
+<li>
+Are comfortable with version control such as Git, Mercurial or Subversion.</li>
+<li>
+Have mobile development experience.</li>
+<li>
+Have familiarity with agile development techniques including test-driven development and priority-based planning</li>
+<li>
+Possess solid object-oriented design skills, knowledge of software patterns, and experience modeling data-driven applications.</li>
+<li>
+Have an ability to communicate and collaborate effectively with designers and other developers.</li>
+<li>
+Have an independent and self-motivated nature with the ability to work alone, on a team and/or leading a team of developers.</li>
+</ul>
+<p>
+<br />
+<strong>Preferably you have strong experience and knowledge with the following.....</strong></p>
+<ul>
+<li>
+Languages and Systems: JavaScript (Node.js),&nbsp;Ruby (on Rails), Python, Java, PHP, SQL</li>
+<li>
+Web Services: REST, SOAP, APIs</li>
+<li>
+Data Formats: HTML, XML, JSON, HTTP, CSS</li>
+</ul>
+<p>
+<strong>Equal Employment Opportunity &nbsp;</strong></p>
+<p>
+Sport Ngin is committed to equal employment and advancement opportunity for all employees and candidates for employment without regard to race, color, ancestry, national origin, religious creed, gender, physical or mental disability, veteran status, sexual orientation, age or marital status in accordance with applicable laws and regulations.&nbsp;<strong>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/sportngin/7NkxnP"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Codecademy]]></company>
+			<job>
+			<id><![CDATA[job_20120604155804_K5BPZZ5IRXWPHV6U]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Product Designer]]></title>
+			<department><![CDATA[Design]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://codecademy.theresumator.com/apply/CWsRIA/Product-Designer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10012]]></postalcode>
+			<description><![CDATA[<p>
+Join Codecademy&#39;s design team and help create the best educational experience online.</p>
+<p>
+As a product designer at Codecademy, you&#39;ll be involved in the product development process from start to finish. From brainstorming entirely new products to designing elegant flows &amp; beautiful interfaces, you&#39;ll exercise your full range of product, interaction, and visual design skills on a daily basis.</p>
+<p>
+You&#39;ll enjoy a high level of ownership of the products you work on. You&#39;ll partner with engineering, community, and data analysis to build and iterate on our products. We&#39;re looking for someone who sweats the details and is ready to tackle any design challenge that comes up between concepting and launching a product.</p>
+<p>
+Your work will empower millions of people worldwide to learn how to code and create something. Together, we can redesign education and create the best online learning experience.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<p>
+- Make high-level contributions to product strategy by concepting future products and improving existing products<br />
+- Take broad, conceptual ideas and turn them into elegant flows &amp; simple, intuitive interfaces<br />
+- Work with engineers and oversee the building of products you design<br />
+- Review portfolios and help grow the Codecademy design team</p>
+<p>
+<strong>Requirements</strong></p>
+<p>
+- A portfolio featuring great interaction design for apps<br />
+- Ability to clearly communicate and discuss design decisions<br />
+- Clean and elegant design aesthetic (from product to interaction to visual)<br />
+- Strong eye for typography, layout, and color<br />
+- Proficiency with your favorite tools (e.g. Photoshop, Illustrator, pen/paper&hellip;)<br />
+- Understanding of how a design would be implemented in code (HTML, CSS, JavaScript).</p>
+<p>
+<strong>Sound like you? To apply, send a link to your portfolio with a brief introduction.</strong></p>
+<p>
+<em>A resume is NOT required; you can use a blank document.</em></p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/Codecademy/CWsRIA"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120604160339_GOYA8KUCEBMPWBW7]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Frontend Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://codecademy.theresumator.com/apply/Y0tdN3/Frontend-Engineer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10012]]></postalcode>
+			<description><![CDATA[<p>
+	Codecademy is looking for an engineer who is truly passionate about working in the browser and building web interfaces and tools for teaching the world how to code.</p>
+<p>
+	We want someone with mastery of JavaScript, CSS, and HTML. You value efficient code and beautiful user experiences. We are most interested in your skills and personality, but a CS background is a plus.</p>
+<p>
+	<strong>Responsibilities</strong></p>
+<ul>
+	<li>
+		Help make product decisions</li>
+	<li>
+		Implement UI and UX features</li>
+	<li>
+		Build tools and frameworks to simplify development</li>
+	<li>
+		Prototype new or experimental features</li>
+</ul>
+<p>
+	<strong>Requirements</strong></p>
+<ul>
+	<li>
+		Passion for rethinking online education</li>
+	<li>
+		Ability to work in areas outside of your usual comfort zone and get things done quickly</li>
+	<li>
+		Personal projects that show frontend engineering aptitude and product sense</li>
+	<li>
+		Demonstrated proficiency with HTML/CSS/Javascript in a production environment</li>
+	<li>
+		Experience with a MVC framework in a production environment</li>
+</ul>
+<p>
+	To apply, send a link to your portfolio or work samples with a brief introduction. If you have them, include links to your Dribbble and GitHub accounts.&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/Codecademy/Y0tdN3"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120607225428_CMJPEH6NFZSYTQVZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Backend Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://codecademy.theresumator.com/apply/ecTeV9/Backend-Engineer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10012]]></postalcode>
+			<description><![CDATA[<p>
+Codecademy is looking for a backend engineer who is passionate about building scalable systems and is comfortable working within all parts of the stack. We are most interested in your skills and personality, but a CS background is a plus.</p>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Mastery of JavaScript and at least two other dynamic programming languages (preferrably including Ruby)</li>
+<li>
+Experience building at-scale production applications on top of a cloud architecture (preferrably including AWS)</li>
+<li>
+Familiarity with scaling at least one type of database system to 10,000+ R/W operations per second.</li>
+</ul>
+<p>
+<strong>Desirable</strong></p>
+<ul>
+<li>
+Experience using Ruby-on-Rails in a production environment</li>
+<li>
+Experience using HTML/CSS/Javascript/AJAX in a production environment</li>
+<li>
+Experience building and administering systems related to virtualized development environments, API and recommendation engines</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/Codecademy/ecTeV9"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120727021239_SWNZXEXFGD26JPPP]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Mobile Product Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://codecademy.theresumator.com/apply/vzvYdb/Mobile-Product-Developer.html]]></url>
+			<city><![CDATA[NY, NY]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+Codecademy is looking for our first mobile product developer, someone who is truly passionate about mobile engineering and prototyping and developing novel educational experiences for the mobile platform.</p>
+<p>
+We want someone with mastery of Android or iOS development and proficiency in rapidly prototyping product concepts and ideas. You value quick iteration, mobile-centric experiences, and full-stack product development. We are most interested in your skills and experience, but a CS background is a plus.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<p>
+You will be working directly with the design and engineering teams on the first mobile product process and responsible for implementing the first versions of the product.</p>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Experience taking a mobile product prototype to production and scaling with user demand</li>
+<li>
+Comfortable working iteratively with designers and other engineers, and coding the first iterations of the mobile product</li>
+<li>
+Experience with building a mobile development team is a plus</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/Codecademy/vzvYdb"></script>]]></buttons>
+		</job>
+	</jobs>

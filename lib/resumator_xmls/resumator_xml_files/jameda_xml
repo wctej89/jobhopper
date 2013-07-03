@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[jameda GmbH]]></company>
+			<job>
+			<id><![CDATA[job_20130411115828_V6J1KNVDTMUEAK1S]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Vertriebsinnendienst]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://jameda.theresumator.com/apply/fuqrRU/Vertriebsinnendienst.html]]></url>
+			<city><![CDATA[Munich]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Germany]]></country>
+			<postalcode><![CDATA[81929]]></postalcode>
+			<description><![CDATA[<p>
+You can enter a detailed, formatted description of your position.</p>
+<p>
+We have a fully featured WYSIWYG editor which enables you to craft that perfectly formatted bulleted list. So go get that new candidate!</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/jameda/fuqrRU"></script>]]></buttons>
+		</job>
+	</jobs>

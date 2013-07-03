@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Fastspot]]></company>
+			<job>
+			<id><![CDATA[job_20130306204227_GUVTCAZVEBXYYEBI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://fastspot.theresumator.com/apply/L826RH/Web-Developer.html]]></url>
+			<city><![CDATA[Baltimore]]></city>
+			<state><![CDATA[MD]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[21231]]></postalcode>
+			<description><![CDATA[<p>
+QUALIFICATIONS<br />
+Candidates for this position must have a genuine interest and strong skill set in the latest technological developments in the industry.</p>
+<p>
+<br />
+Front End:</p>
+<p>
+Skilled in front-end web development utilizing HTML5, CSS3 and JavaScript<br />
+Understanding of concepts like responsive web design and grid systems<br />
+Working knowledge of Javascript libraries, like jQuery<br />
+Ability to translate flat design comps into fully functional templates<br />
+Ability to intuitively anticipate and add usability enhancements as needed<br />
+Strong knowledge of design principles, typography and standard user interface patterns<br />
+Extremely detail oriented</p>
+<p>
+Back End:</p>
+<p>
+Working knowledge of PHP and MySQL<br />
+Working knowledge of CMS platforms a plus (Drupal, Expression Engine, BigTree)<br />
+Experience building and maintaining large sites</p>
+<p>
+General:</p>
+<p>
+Ability to execute ideas from concept to launch<br />
+Experience developing and testing cross-browser and cross-platform solutions, while maintaining a consistent user experience<br />
+A portfolio demonstrating ability to produce well organized, standards compliant code</p>
+<p>
+Team Member:</p>
+<p>
+Ability to work cooperatively in a team, as well as independently, with a positive attitude and friendly demeanor<br />
+Ability to prioritize tasks and hit deadlines in a fast-paced work environment<br />
+Ability to learn new software, technology, and methods as necessary<br />
+Ability to work patiently with clients that require additional assistance<br />
+Are excited by and actively explore emerging technologies<br />
+Are not afraid to ask for help and learn from mistakes</p>
+<p>
+Experience:</p>
+<p>
+2+ years of front end web development experience</p>
+<p>
+Advantage skills:</p>
+<p>
+Knowledge of SEO<br />
+Strong writing capabilities<br />
+Knowledge of API&#39;s such as Facebook / Twitter / YouTube / Google maps etc.<br />
+Knowledge of working with payment gateways PayPal Pro and Authorize.net</p>
+<p>
+Details &amp; Job Perks:</p>
+<p>
+Competitive salary based on experience<br />
+Great health benefits package including disability and life insurance<br />
+Great location in Baltimore&rsquo;s Butchers Hill neighborhood, with close proximity to Fells Point and Canton<br />
+Fun and casual work environment<br />
+Convenient, free on-street parking<br />
+Flexible work hours/schedule to accommodate your life, as needed<br />
+Multiple &quot;Fastspot Fun Events&quot; annually<br />
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/Fastspot/L826RH"></script>]]></buttons>
+		</job>
+	</jobs>

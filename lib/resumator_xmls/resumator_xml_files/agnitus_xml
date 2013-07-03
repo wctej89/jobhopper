@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Agnitus]]></company>
+			<job>
+			<id><![CDATA[job_20120523163942_NBSW14HD10Z3IOUQ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[PHP Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://agnitus.theresumator.com/apply/cQomrH/PHP-Developer.html]]></url>
+			<city><![CDATA[Islamabad]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Pakistan]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>To work on PHP custom development and facebook App developments<br />Skills: Understanding of MVC Design, JavaScript, HTML, MySQL and jQuery</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/agnitus/cQomrH"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120525071008_MCQDJPIBJ1JXGSFK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[QA Intern]]></title>
+			<department><![CDATA[Qulaity Assurance]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://agnitus.theresumator.com/apply/ApH0JB/QA-Intern.html]]></url>
+			<city><![CDATA[Islamabad]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Pakistan]]></country>
+			<postalcode><![CDATA[051]]></postalcode>
+			<description><![CDATA[<div>&nbsp;</div><div>At Agnitus we worship Quality. That suffices our operations side and production side, so if you think you can promise, deliver and materialize on quality, we would like to meet you asap.</div><div>&nbsp;</div><div>&nbsp;</div><ul><li>Define and manage QA test strategies to meet quality standards defined by internal quality standards</li><li>Develop and maintain metrics for quality and performance measurements</li><li>Document and maintain database of known software defects</li><li>Develop and document product requirements as part of Product Development Team</li><li>Document application instructions for end users</li><li>Build new software releases and maintain source code in version control system</li><li>Experience with iOS devices is a plus</li></ul>]]></description>
+			<type><![CDATA[Internship]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/agnitus/ApH0JB"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120525074059_R4EHAWMT5340K1XV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[UX/Graphic/Branding Designer]]></title>
+			<department><![CDATA[UX]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://agnitus.theresumator.com/apply/yjwPNF/UXGraphicBranding-Designer.html]]></url>
+			<city><![CDATA[Islamabad]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Pakistan]]></country>
+			<postalcode><![CDATA[051]]></postalcode>
+			<description><![CDATA[<p>Agnitus is looking for a passionate iPad/iOS UX/Graphic/Branding Designer who will join the team that will change how kids learn. Your job will be to create simple and stylish iPad learning experiences that kids cannot get enough of.</p><p>&nbsp;</p><ul><li>Mastery of Objective C, Xcode, Interface Builder, and all things iOS&nbsp;</li><li>Proven track record in (and real passion for) shipping beautiful iOS applications&nbsp;</li><li>Ability to simplify things - Experience in developing mobile/iOS games&nbsp;</li><li>Knowledge, interest and awareness of new Apple frameworks as they come out&nbsp;</li><li>Ability to hack and prototype on the fly&nbsp;</li><li>Experience with Android app/games development is a plus&nbsp;</li><li>Webserver backend experience is a plus&nbsp;</li><li>PHP, Ruby or python scripting experience is a plus&nbsp;</li><li>BS/MS in Computer Science or related field from a top tier school</li></ul>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/agnitus/yjwPNF"></script>]]></buttons>
+		</job>
+	</jobs>

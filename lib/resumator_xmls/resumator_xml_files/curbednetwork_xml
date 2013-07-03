@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Curbed Network]]></company>
+			<job>
+			<id><![CDATA[job_20130502202452_DQWBG4EYWBPX6WUR]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Full-stack Ruby + Javascript developer]]></title>
+			<department><![CDATA[Tech]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://curbednetwork.theresumator.com/apply/gCOhbh/Fullstack-Ruby-Javascript-Developer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10003]]></postalcode>
+			<description><![CDATA[<p>
+Curbed Network is looking to hire a Ruby and Javascript developer.</p>
+<p>
+At Curbed, you&#39;ll be part of a small, nimble team that works all over the stack, and keeps bullshit to a minimum. You&#39;ll likely have the opportunity to push code into production in week one, and you&#39;ll have input into how your work is architected and designed. Our stack includes stuff like Sinatra, MongoDB, Redis, Phonegap, MySQL and Node.js, so there&#39;s always interesting tech around.</p>
+<p>
+At a minimum we&#39;re looking for someone who&#39;s completed a significant project using Ruby, Javascript, and a data store, but we&#39;re happy to speak with talented people at all levels of experience. It&#39;s most important that you be humble, efficient and eager to learn.</p>
+<p>
+<strong>Required</strong></p>
+<ul>
+<li>
+Completed an interesting project using Ruby, Javascript, and a data store, whose source we can read.</li>
+<li>
+Command of the DOM and CSS selectors.</li>
+</ul>
+<p>
+<strong>Desirable</strong></p>
+<ul>
+<li>
+Familiarity with Git.</li>
+<li>
+Familiarity with Linux on the server.</li>
+<li>
+Experience with MongoDB or another document data store.</li>
+<li>
+Secretly prefers Sinatra to Rails.</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>About Curbed Network</strong></p>
+<p>
+Curbed Network has published the sites Curbed, Eater and Racked, which chronicle restaurants, nightlife, shopping and real estate in more than 20 local and national markets, since 2007. We&#39;re profitable, growing rapidly, and have exciting challenges ahead of us.</p>
+<p>
+The tech team at Curbed is small and focused on getting things done. We don&#39;t work stupid hours and we value quality of life. You&#39;ll work on your choice of a new MacBook Pro/Air or a comparable Linux laptop. We offer health care benefits and a matched 401(k) program.</p>
+<p>
+This job is onsite in our downtown Manhattan office. No remote candidates, phone calls or recruiters, please.</p>
+<p>
+Apply below, or send an email with your plaintext or PDF resume to tech-jobs@curbed.com. A cover letter that illuminates your specific interest in and suitability for the position is helpful. Include any relevant links that tell us about your work (Github, Stack Overflow, etc).</p>
+<p>
+Thanks for your time.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/curbednetwork/gCOhbh"></script>]]></buttons>
+		</job>
+	</jobs>

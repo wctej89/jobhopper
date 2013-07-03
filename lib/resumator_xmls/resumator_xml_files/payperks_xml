@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[PayPerks]]></company>
+			<job>
+			<id><![CDATA[job_20130312195336_PYRINLKBMAU2HDUV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Lead Platform/DevOps Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Tech Recruiting]]></team>
+			<url><![CDATA[http://payperks.theresumator.com/apply/AnqYNI/Lead-PlatformDevOps-Engineer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p>
+We&rsquo;re a tight-knit team here at PayPerks.&nbsp; We all share a passion and love for our technology and it shows.&nbsp; Our platform is growing rapidly as our awesome business team continues to expand our client base.&nbsp; We&rsquo;re looking for a Platform Engineer to join our team and lead our Platform Engineering (DevOps, systems administration, etc.) efforts.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Maintain and continously improve&nbsp;the stability,&nbsp;security and performance of our platform and product</li>
+<li>
+Support our engineering team to keep them writing code at optimal efficiency</li>
+<li>
+Ensure that we keep our confidential user information confidential</li>
+<li>
+Assist in evaluating and deploying new technologies and frameworks to support upcoming PayPerks features</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<p>
+You&rsquo;ve been in operations for quite some time and you know Linux extremely well. You whip up scripts to automate repetitive tasks at will.&nbsp; You&rsquo;re not afraid to open up Wireshark and analyze some network traffic.&nbsp; You&rsquo;ve experienced that feeling when things break and your heart pounds while rushing to get everything back online and operational.&nbsp; You&rsquo;ve been to the puppet show (pun intended) and you&rsquo;ve seen the strings.&nbsp; You don&#39;t sleep well unless everything is backed up and you know you can do a necessary restore (of course your restores will work, because you perform test restores on occasion as per ritual). &nbsp;If necessary, you can debug performance problems through the whole stack.&nbsp; You&rsquo;re serious about security, always put it first, and err on the cautious side when making security decisions.&nbsp; You know what PII stands for and what a platform requires when it touches it.</p>
+<p>
+Our ideal engineer is just as at home writing code as they are at spinning up machines. You therefore have extensive knowledge of Puppet, and you have good knowledge of a scripting language, preferably Python.&nbsp; Contributions to an open source project is a big plus.&nbsp; Continuous integration servers and push button deploys are part of your skillset and you can set these up with your eyes closed. &nbsp;Due to the nature of some of our contracts, applicants for this role must be US Citizens or Permanent Residents.</p>
+<p>
+<strong>Here&rsquo;s what we use:</strong></p>
+<ul>
+<li>
+Ubuntu on Amazon AWS (EC2, EBS, S3, RDS)</li>
+<li>
+Django, Python, nginx</li>
+<li>
+MongoDB, MySQL</li>
+<li>
+Puppet, Jenkins</li>
+</ul>
+<p>
+<strong>Perks of working at PayPerks include:</strong></p>
+<ul>
+<li>
+Competitive salary, great health benefits, and equity</li>
+<li>
+Work in the center of New York City&#39;s tech startup scene</li>
+<li>
+Help create the PayPerks culture as a core member of our initial team</li>
+<li>
+Work with a fun, talented, supportive and friendly team</li>
+<li>
+Access to whatever tools and computing resources needed</li>
+<li>
+Time to contribute back to the Open Source community and/or create PayPerks open source projects</li>
+<li>
+Budget to attend conferences, training, and other events</li>
+<li>
+Company culture that values results and offers lots of flexibility</li>
+<li>
+Knowledge that what you&#39;re building will positively impact millions of people</li>
+<li>
+A ton of opportunity</li>
+</ul>
+<p>
+<strong>About PayPerks:</strong></p>
+<p>
+PayPerks is a VC funded fintech startup based in NYC&rsquo;s Flatiron district.&nbsp; We&rsquo;re a small team and growing as rapidly as we can assemble new desks. PayPerks education and loyalty platform is revolutionizing financial services for low and middle income consumers.&nbsp; Don&rsquo;t just take our word for it - we&#39;ve recently been:</p>
+<ul>
+<li>
+Recognized at the White House</li>
+<li>
+Invited to speak at the Federal Reserve Bank</li>
+<li>
+Honored as Next Big Thing in Prepaid</li>
+<li>
+Heralded as prepaid&#39;s &quot;Company to Watch&quot;</li>
+<li>
+Named among the Next Wave of Underbanked Innovators at Money2020 and at CFSI&rsquo;s&nbsp; Underbanked Financial Services Forum</li>
+</ul>
+<p>
+Through contracts already in place, millions of users will soon have access to PayPerks, and that&#39;s just the tip of a huge iceberg.&nbsp; Our partners are big, our market is big, and our impact on society will be big.</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/payperks/AnqYNI"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130614150951_NZDOYWTA8HOOKBGV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Test Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Tech Recruiting]]></team>
+			<url><![CDATA[http://payperks.theresumator.com/apply/RhGRwu/Senior-Test-Engineer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p>
+PayPerks is looking for a senior level Test Engineer to lead and grow our QA department. You will work closely with the engineering team to develop an agile process for automated system tests, maintain the existing test suite and create the new tests themselves.</p>
+<p>
+Responsibilities:</p>
+<ul>
+<li>
+Build out and maintain the automated test suite, using a combination of Python, Webdriver and Selenium.</li>
+<li>
+Identify workflows that are candidates for automated system tests, and coordinate manual tests for those that are not.</li>
+<li>
+Manage small team of manual QA testers</li>
+<li>
+Participate in iteration planning, providing input on automated testing tasks and associated effort for the selected user stories.</li>
+<li>
+Create and manage bug reports, ensuring they are clearly communicated to the team and addressed in a timely, thorough, and satisfactory manner.</li>
+<li>
+Provide feedback and recommendations on software usability and functionality.</li>
+<li>
+Partner with DevOps to deliver continuously running health-checks on the entire production system.</li>
+</ul>
+<p>
+Requirements:</p>
+<ul>
+<li>
+3+ years experience in a test automation role, with emphasis on software and/or browser-based service testing.</li>
+<li>
+Solid experience with Python and Webriver / Selenium; or experience with similar tools and ability to learn quickly.</li>
+<li>
+Expertise in automated test suite development and maintenance.</li>
+<li>
+Ease and comfort with how quality assurance and the QA role fits within the Agile software development process.</li>
+<li>
+Ability to develop standards, methods, or procedures to determine release quality and production readiness.</li>
+<li>
+Must be a US Citizen or US Permanent Resident</li>
+</ul>
+<p>
+PayPerks is a VC-backed, fintech startup based in Flatiron, NYC that is building a pioneering education and loyalty platform revolutionizing financial services for millions of low and middle income consumers.&nbsp; We&#39;ve been recognized by the White House, called the &quot;Next Big Thing in Prepaid&quot; and have a for profit, social impact mission.&nbsp; This will make your mom proud.</p>
+<p>
+If this sounds like something you&#39;re interested in, get in touch.</p>
+<p>
+--</p>
+<p>
+Perks of working at PayPerks include:</p>
+<ul>
+<li>
+Competitive salary, great health benefits, and equity</li>
+<li>
+Work in the center of New York City&#39;s tech startup scene</li>
+<li>
+Help create the PayPerks culture as a core member of our initial team</li>
+<li>
+Work with a fun, talented, supportive and friendly team</li>
+<li>
+Access to whatever tools and computing resources needed</li>
+<li>
+Time to contribute back to the Open Source community and/or create PayPerks open source projects</li>
+<li>
+Budget to attend conferences, training, and other events</li>
+<li>
+Company culture that values results and offers lots of flexibility</li>
+<li>
+Knowledge that what you&#39;re building will positively impact millions of people</li>
+<li>
+A ton of opportunity</li>
+</ul>
+<p>
+Through contracts already in place, 10 million users will soon have access to PayPerks, and that&#39;s just the tip of a huge iceberg.&nbsp; Our partners are big, our market is big, and our impact on society will be big.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/payperks/RhGRwu"></script>]]></buttons>
+		</job>
+	</jobs>

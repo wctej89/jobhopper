@@ -1,0 +1,635 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Cenzic Inc.]]></company>
+			<job>
+			<id><![CDATA[job_20111116180618_ZTZS7A7AI9KYL3WL]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Lead Security Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[engineering]]></team>
+			<url><![CDATA[http://cenzic.theresumator.com/apply/fuLU2G/Lead-Security-Engineer.html]]></url>
+			<city><![CDATA[Silicon Valley]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[95008]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Job Title: Lead Security Engineer<br />
+Job Category: Software Development<br />
+Location: Campbell, California<br />
+Position Type: Full Time<br />
+Salary: Competitive<br />
+Relocation Available: No<br />
+Education: BS/MS in Computer Science, other technical degree, or equivalent applicable experience</strong></p>
+<p>
+Must be permanent resident or us citizen</p>
+<p>
+Are you interested in security research and have engineering experience or a recent college graduate looking for a job in application security? Do you want a position that will keep you on the cutting edge application security technology? Are you interested in hacking? Have you written custom application attacks?&nbsp;</p>
+<p>
+Cenzic is looking for several security research engineers ranging from lead, senior, and jr level team-players to join our security research engineering team in our Campbell, California office. These positions needs to be filled by people who possesses knowledge of software development principals and tools and is extremely passionate in security and hacking, and can quickly learn the technologies used at Cenzic. The ability to continuously learn as technology evolves is important for success in this position.</p>
+<p>
+<strong>The responsibilities and duties of this position include but are not limited to:&nbsp;</strong></p>
+<ul>
+<li>
+Vulnerability discovery and vulnerability research</li>
+<li>
+Exploit &amp; Shellcode developement</li>
+<li>
+Research &amp; Develop generic detection of application security threats</li>
+<li>
+Creating new &nbsp;Application Security Vulnerabilities</li>
+<li>
+Hacking Applications</li>
+<li>
+Present new application attacks</li>
+<li>
+Work on Attack Framework, New Attacks, and Work directly with Customers on issues.&nbsp;</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Qualifications</strong></p>
+<p>
+Required Experience/Skills &amp; Education:</p>
+<ul>
+<li>
+Strong knowledge and interest in Security (how web attacks occur, XSS, SQLi, CSLRF, OWASP 10)</li>
+<li>
+Extremely Passionate about security, knows about events, conferences etc.</li>
+<li>
+Knowledge of HTTP protocol, Understanding of Websockets.</li>
+<li>
+Have used web app and network scanning tools (nmap, port scanners, cenzic, appscan etc)</li>
+<li>
+Strong knowledge of Javascript (nodejs a plus)</li>
+<li>
+Strong communication skills and team-work skills</li>
+<li>
+Understand differences between false positives and false negatives</li>
+<li>
+Knowledge of socket level programming.</li>
+<li>
+Experience in other programming languages like C++ or Java</li>
+<li>
+Able to quickly prototype ideas &amp; grasp new attacks</li>
+</ul>
+<p>
+<strong>Benefits:</strong></p>
+<ul>
+<li>
+Comprehensive benefits package (Medical, Dental, Vision, Life Insurance, &amp; more)</li>
+<li>
+Vision VSP</li>
+<li>
+Life Insurance &amp; Dental</li>
+<li>
+2 weeks of paid vacation so that you can let your brain relax</li>
+<li>
+Sick Leave up to 5 days</li>
+<li>
+Company Paid holidays</li>
+<li>
+401(k) Plan - Fidelity</li>
+<li>
+Incentive Bonus Eligibility</li>
+</ul>
+<p>
+<strong>About US:</strong></p>
+<p>
+Cenzic is the trusted provider of software, managed service, and cloud security products that help organizations secure their websites against hacker attacks. Cenzic focuses on application security, automating the process of identifying security defects at the application level where more than 75% of attacks occur, help customers in remediating those defects, manage risk and get compliance with regulations such as PCI. Cenzic is unique in the industry as its products are built on a non-signature-based patented technology. Cenzic solutions secure websites of numerous F1000 companies including all major security companies, leading government agencies and universities.&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cenzic/fuLU2G"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110824225614_YERSSY5ONRQG5ILK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Cloud Software Engineers]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cenzic.theresumator.com/apply/RQFfSa/Cloud-Software-Engineers.html]]></url>
+			<city><![CDATA[Campbell]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[95008]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Cloud Software Engineer - Web Applications</strong></p>
+<p>
+	<strong>Location: Campbell, CA<br />
+	Job Category: Software Engineering<br />
+	Position Type: Full Time<br />
+	Relocation Available: No</strong></p>
+<p>
+	Must be permanent resident or us citizen</p>
+<p>
+	<br />
+	Education: BS/MS in Computer Science, other technical degree, or equivalent applicable experience</p>
+<p>
+	Are you a motivated and intelligent engineer with an interest in software engineering and possess knowledge of cloud web application development? Do you want a position that will keep you on the cutting edge of web technology, specifically in web application security technology? Are you an expert at scaling web applications in the cloud, in an agile environment? Have you ran a site that is scalable to millions of users?</p>
+<p>
+	Cenzic is looking for a motivated team-player to join our engineering team in our Campbell, California office. This position needs to be filled by someone who already possesses knowledge of software development principals and tools, and can quickly learn the technologies used at Cenzic. The ability to continuously learn as technology evolves is important for success in this position.</p>
+<p>
+	<strong>Responsibilities include (but not limited to):</strong></p>
+<ul>
+	<li>
+		Research, design, implement, test and deploy new features in our flagship product</li>
+	<li>
+		Create robust, high-performing, maintainable code</li>
+	<li>
+		A team worker, able to work in a fast paced environment using agile methodologies</li>
+	<li>
+		Prototype ideas and measure/validate results</li>
+	<li>
+		Work directly on Cloud and Distributed technologies</li>
+</ul>
+<p>
+	<strong>Qualifications:</strong></p>
+<ul>
+	<li>
+		BS/MS in Computer Science, other technical degree, or equivalent applicable experience</li>
+	<li>
+		Expert working with C#, .NET, ASP.NET MFC</li>
+	<li>
+		Sound software design and programming skills</li>
+	<li>
+		Strong background of internet technologies, WWW and networking (protocols)</li>
+	<li>
+		Expertise in JavaScript and web technologies for the browser (HTML, XML, CSS)</li>
+	<li>
+		Knowledge of HTML 5</li>
+	<li>
+		Experience using a JavaScript debugger</li>
+	<li>
+		Experience in design patterns MVC, Consumer/Producer</li>
+	<li>
+		Experience in Databases and SQL</li>
+	<li>
+		Able to quickly prototype ideas</li>
+	<li>
+		Able to give rough work estimates and strive to complete projects per the project schedule</li>
+	<li>
+		Excellent communication skills (written and verbal)</li>
+</ul>
+<p>
+	<br />
+	Desirable Skills:</p>
+<ul>
+	<li>
+		Experience working with prototypal inheritance in JavaScript, DOM access, and event-driven programming</li>
+	<li>
+		Experience working with HTTP protocols in various environments (development, debug)</li>
+	<li>
+		Experience working with Web 2.0 technologies &ndash; AJAX, JSON</li>
+	<li>
+		Familiarity with web application security issues, malware, XSS, SQL Injections and Compliance related issues</li>
+	<li>
+		Experience with a source control system such as CVS</li>
+	<li>
+		Strong background and emphasis on high performance algorithms and code</li>
+	<li>
+		Have built or worked on a major web application or web service</li>
+	<li>
+		Experience working with multi-threaded application development and state management</li>
+	<li>
+		Experience</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	Benefits:</p>
+<ul>
+	<li>
+		Comprehensive benefits package (Medical, Dental, Vision, Life Insurance, &amp; more)</li>
+	<li>
+		Vision VSP</li>
+	<li>
+		Life Insurance &amp; Dental</li>
+	<li>
+		Paid vacation in your first year</li>
+	<li>
+		2 weeks of paid vacation so that you can let your brain relax</li>
+	<li>
+		Sick Leave up to 5 days</li>
+	<li>
+		Company Paid holidays</li>
+	<li>
+		401(k) Plan - Fidelity</li>
+	<li>
+		Incentive Bonus Eligibility</li>
+</ul>
+<p>
+	<br />
+	<strong>About US:</strong></p>
+<p>
+	Cenzic is the trusted provider of software, managed service, and cloud security products that help organizations secure their websites against hacker attacks. Cenzic focuses on Web application security, automating the process of identifying security defects at the Web application level where more than 75% of attacks occur, help customers in remediating those defects, manage risk and get compliance with regulations such as PCI. Cenzic is unique in the industry as its products are built on a non-signature-based patented technology. Cenzic solutions secure websites of numerous F1000 companies including all major security companies, leading government agencies and universities.<br />
+	&nbsp;</p>
+<p>
+	If you believe you have the skills and desire for this job, fill out the form to submit your resume!</p>
+]]></description>
+			<type><![CDATA[Contracted to Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cenzic/RQFfSa"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20111011200613_ECXLDL8HNBEF9ZHE]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Software Engineers]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cenzic.theresumator.com/apply/oSrZ1E/Senior-Software-Engineers.html]]></url>
+			<city><![CDATA[Silicon Valley]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[95008]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Job Title: Senior Software Engineer&nbsp;<br />
+Job Category: Software Development<br />
+Location: Campbell, California<br />
+Position Type: Contract to Hire or Full Time<br />
+Salary: Competitive<br />
+Relocation Available: No<br />
+Education: BS/MS in Computer Science, other technical degree, or equivalent applicable experience</strong></p>
+<p>
+<strong>Must be permanent resident or us citizen</strong><br />
+<br />
+Are you a motivated and experienced senior level software engineer with a good knowledge of oracle databases and web application development? Do you want a position that will keep you on the cutting edge web application security technology?&nbsp;</p>
+<p>
+Cenzic is looking for a motivated team-player to join our engineering team in our Campbell, California office. This senior level position needs to be filled by someone who already possesses knowledge of software development principals and tools, and can quickly learn the technologies used at Cenzic. The ability to continuously learn as technology evolves is important for success in this position.&nbsp;</p>
+<p>
+The responsibilities and duties of this position include but are not limited to:</p>
+<ul>
+<li>
+Research, design, implement, test and deploy new security testing features in our flagship product.</li>
+<li>
+Create robust, high-performing, maintainable code.</li>
+<li>
+A team worker, able to work in a fast-paced environment using agile methodologies.</li>
+<li>
+Prototype ideas and measure/validate results.</li>
+<li>
+Has a passion to learn web security</li>
+</ul>
+<p>
+The skills, experience, and knowledge required to be considered for this position include:BS/MS in Computer Science, other technical degree, or equivalent applicable experience.</p>
+<ul>
+<li>
+Extensive experience with C# including advanced features such as threading, locking, sockets, and encryption.</li>
+<li>
+Extensive experience using ASP.Net. ASP.Net MVC is desirable.</li>
+<li>
+Experienced in writing efficient SQL, especially with Mysql and Oracle.</li>
+<li>
+Experienced with creating efficient web services using WCF.</li>
+<li>
+Sound software design and programming skills.&nbsp;</li>
+<li>
+Knowledge of JavaScript and web technologies for the browser (HTML, XML, CSS, JQuery).</li>
+<li>
+Able to quickly prototype ideas</li>
+<li>
+Able to give rough work estimates and strive to complete projects by the deadline.</li>
+<li>
+Excellent communication skills (written and verbal).</li>
+</ul>
+<p>
+Highly Desirable Skills:</p>
+<ul>
+<li>
+Experience working with web 2.0 technologies &ndash; AJAX, JSON.</li>
+<li>
+Familiarity with web application security issues.</li>
+<li>
+Experience with a source control systems such as CVS, Git, Mercurial</li>
+<li>
+Strong background and emphasis on high performance algorithms and code.</li>
+<li>
+Experience working with multi-threaded application development and state management.</li>
+</ul>
+<p>
+<br />
+<strong>Benefits:</strong></p>
+<ul>
+<li>
+Comprehensive benefits package (Medical, Dental, Vision, Life Insurance, &amp; more)</li>
+<li>
+Vision VSP</li>
+<li>
+Life Insurance &amp; Dental</li>
+<li>
+2 weeks of paid vacation so that you can let your brain relax</li>
+<li>
+Sick Leave up to 5 days</li>
+<li>
+Company Paid holidays</li>
+<li>
+401(k) Plan - Fidelity</li>
+<li>
+Incentive Bonus Eligibility</li>
+</ul>
+<p>
+<strong>About US:</strong></p>
+<p>
+Cenzic is the trusted provider of software, managed service, and cloud security products that help organizations secure their websites against hacker attacks. Cenzic focuses on Web application security, automating the process of identifying security defects at the Web application level where more than 75% of attacks occur, help customers in remediating those defects, manage risk and get compliance with regulations such as PCI. Cenzic is unique in the industry as its products are built on a non-signature-based patented technology. Cenzic solutions secure websites of numerous F1000 companies including all major security companies, leading government agencies and universities.<br />
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Contracted to Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cenzic/oSrZ1E"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20111117194127_UEMW7L70C5JW9FES]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Spider & Platform Engineers]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cenzic.theresumator.com/apply/wUlPHo/Spider-Platform-Engineers.html]]></url>
+			<city><![CDATA[Silicon Valley]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[95008]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Job Title: Spider &amp; Platform Engineer<br />
+Job Category: Software Development<br />
+Location: Campbell, California<br />
+Position Type: Contract to Hire or Full Time<br />
+Salary: Competitive<br />
+Relocation Available: No<br />
+Education: BS/MS in Computer Science, other technical degree, or equivalent applicable experience</strong></p>
+<p>
+<br />
+Are you a motivated and experienced software engineer with knowledge of spider development and experience with javascript? Do you want a position that will keep you on the cutting edge of web application security technology?<br />
+Cenzic is looking for a motivated team-player to join our engineering team in our Campbell, California office. This position needs to be filled by someone who already possesses knowledge of software development principals and tools, and can quickly learn the technologies used at Cenzic. The ability to continuously learn as technology evolves is important for success in this position.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>The responsibilities and duties of this position include but are not limited to:</strong></p>
+<p style="margin-left: 40px; ">
+&bull; Research, design, implement, test and deploy new security testing features and bot functionality in our flagship product.<br />
+&bull; Create robust, high-performing, maintainable code.<br />
+&bull; A team worker, able to work in a fast-paced environment using agile methodologies.<br />
+&bull; Prototype ideas and measure/validate results.<br />
+&bull; Debug customer issues and comb through logs to find out issues<br />
+&bull; A passion to learn application security or have knowledge of application security scanners, vulnerability management tools.</p>
+<p>
+<strong>The skills, experience, and knowledge required to be considered for this position include:</strong></p>
+<p style="margin-left: 40px; ">
+&bull; BS/MS in Computer Science, other technical degree, or equivalent applicable experience.<br />
+&bull; Strong experience with Javascript and Mozilla<br />
+&bull; Extensive experience with browser technologies and internals, with an emphasis on Mozilla and Firefox browsers<br />
+&bull; Expertise in JavaScript and web technologies (http, parsing websites, executing remote javascript)<br />
+&bull; Experience using a JavaScript debugger<br />
+&bull; Experience working with C++, Java<br />
+&bull; Experience in design patterns MVC, Consumer/Producer, Factories, Object Pool, Thread Pools<br />
+&bull; Strong understanding of Socket Level Programming<br />
+&bull; Strong background of internet technologies, WWW and networking (protocols).<br />
+&bull; Knowlege of browser technologies, internals, plugins, and extensions<br />
+&bull; Able to give rough work estimates and strive to complete projects by the deadline.<br />
+&bull; Experience with a source control systems such as CVS, Git, Mercurial and CI build systems like Jenkins<br />
+* Experience with automated testing basic understanding of performance testing&nbsp;<br />
+&bull; Excellent communication skills (written and verbal).</p>
+<p>
+<strong>Highly Desirable Skills:</strong></p>
+<p style="margin-left: 40px; ">
+&bull; Have worked on Mozilla or Chrome Extensions<br />
+&bull; Experience working with HTTP protocols in various environments (development, debug).<br />
+&bull; Experience working with web 2.0 technologies &ndash; AJAX, JSON.<br />
+&bull; Familiarity with application security attacks<br />
+* Experience developing application scanners, spidering large scale systems<br />
+&bull; Strong background and emphasis on high performance algorithms and code.<br />
+&bull; Experience working with multi-threaded application development and state management.</p>
+<p>
+<strong>Benefits:</strong></p>
+<p style="margin-left: 40px; ">
+<br />
+&bull; Comprehensive benefits package (Medical, Dental, Vision, Life Insurance, &amp; more)<br />
+&bull; Vision VSP<br />
+&bull; Life Insurance &amp; Dental<br />
+&bull; 2 weeks of paid vacation so that you can let your brain relax<br />
+&bull; Sick Leave up to 5 days<br />
+&bull; Company Paid holidays<br />
+&bull; 401(k) Plan - Fidelity<br />
+&bull; Incentive Bonus Eligibility<br />
+* Stock Options</p>
+<p>
+<strong>About US:</strong></p>
+<p style="margin-left: 40px; ">
+&nbsp;</p>
+<p style="margin-left: 40px; ">
+Cenzic is the trusted provider of software, managed service, and cloud security products that help organizations secure their websites against hacker attacks. Cenzic focuses on Web application security, automating the process of identifying security defects at the Web application level where more than 75% of attacks occur, help customers in remediating those defects, manage risk and get compliance with regulations such as PCI. Cenzic is unique in the industry as its products are built on a non-signature-based patented technology. Cenzic solutions secure websites of numerous F1000 companies including all major security companies, leading government agencies and universities.</p>
+]]></description>
+			<type><![CDATA[Contracted to Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cenzic/wUlPHo"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20111128195834_3SJRLJRPAWB2ZPAT]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Technical Support Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cenzic.theresumator.com/apply/WJtsNZ/Technical-Support-Engineer.html]]></url>
+			<city><![CDATA[Campbell]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[95050]]></postalcode>
+			<description><![CDATA[<p><strong>Job Title: Technical Support Engineer<br />Job Category: Support Engineering<br />Location: Campbell, California<br />Position Type: Contract to Hire or Full Time<br />Salary: Competitive<br />Relocation Available: No<br />Education: BS/MS in Computer Science, other technical degree, or equivalent applicable experience</strong></p><p><strong>Must be permanent resident or US Citizen</strong></p><p>Are you a motivated technical support engineer with knowledge of windows systems, databases and web application security? Do you want a position that will keep you on the cutting edge web application security technology? Cenzic is looking for a motivated team-player to join our support engineering team in our Campbell, California office. This position will provide frontline, backline, and advanced level support roles to Cenzic customers and assist with the resolution of technically challenging issues. Issue resolution will occur through advanced diagnostics, issue replication and testing, and remote access to customer equipment with full engagement into Support, Dev, and QA resources. The ability to continuously learn as technology evolves is important for success in this position.</p><p>The responsibilities and duties of this position include but are not limited to:<br />&nbsp;</p><ul><li>Resolve technical support issues via telephone, e-mail, support forum postings, and web case submissions enthusiastically and effectively assisting customers with their support needs</li><li>Create and Log all activity and details into case management system and keep all records up to date of current open issues and actions taken.</li><li>Consistently share problem/cause/resolution information</li><li>Log troubleshooting tips and create knowledge base articles. Help to keep the knowledge base up to date by updating and modifying information as needed</li><li>Provide technical information and diagnostic assistance that will reduce the overall time to resolution of customer issues</li><li>Excellent written and oral communication skills &ndash; Must feel comfortable interacting with customers via phone and email and sharing ideas with the rest of the team as well as working with Development and QA when required</li><li>Exhibit a willingness to help out in any way when the workload becomes abnormally heavy or when team members are away from the office</li><li>Ability to grasp concepts quickly and work with minimal supervision</li><li>Continually improve personal and team satisfaction</li><li>Ability to prioritize, self motivated, manage time effectively, work multiple issues, etc.</li><li>Provide leadership in processes and procedures that will improve overall effectiveness of support engineering<br /><br />&nbsp;</li></ul><p><strong>Qualifications </strong></p><ul><li>Operating System Software (Microsoft Windows Client and Server version 2000 through 2008) &ndash; 3 years experience &ndash; Required</li><li>Javascript experience &ndash; 2 years experience &ndash; Preferred</li><li>Must not be afraid of debugging and diving into log files to find causes of issues.</li><li>Understanding of HTTP protocol post, get requests, cookies - Required</li><li>Understanding of Web Application Security (XSS, SQL Injections) - Preferred</li><li>PC/Networking hardware and software &ndash; 2 years experience &ndash; Required</li><li>Experience in a software development environment &ndash; 3 years experience &ndash; Preferred</li><li>Mysql (versions 2000 &ndash; 2008) &ndash; 3 years experience &ndash; Required</li><li>Ability to work with large, complex and business critical computing environment</li><li>Bachelors degree, applicable certification or equivalent experience &ndash; Required</li><li>Experience with WebEx - Required</li><li>Thin-Client Architecture (such as Citrix) &ndash; 1 year experience minimum &ndash; Preferred</li><li>Working knowledge of application deployment process - Preferred</li><li>Experience with Application Packaging, Virtualization &ndash; 3 years experience - Preferred</li><li>Experience providing technical training &ndash; 2 years experience &ndash; Preferred</li><li>Technical Support/Customer Service Experience</li><li>Demonstrate excellent problem solving skills&nbsp;</li></ul><p>&nbsp;</p><p>&nbsp;</p><p><strong>Benefits:</strong></p><p style="margin-left: 40px; ">&bull; Comprehensive benefits package (Medical, Dental, Vision, Life Insurance, &amp; more)<br />&bull; Vision VSP<br />&bull; Life Insurance &amp; Dental<br />&bull; 2 weeks of paid vacation so that you can let your brain relax<br />&bull; Sick Leave up to 5 days<br />&bull; Company Paid holidays<br />&bull; 401(k) Plan - Fidelity<br />&bull; Incentive Bonus Eligibility</p><p><br /><strong>About US:</strong></p><p>Cenzic is the trusted provider of software, managed service, and cloud security products that help organizations secure their websites against hacker attacks. Cenzic focuses on Web application security, automating the process of identifying security defects at the Web application level where more than 75% of attacks occur, help customers in remediating those defects, manage risk and get compliance with regulations such as PCI. Cenzic is unique in the industry as its products are built on a non-signature-based patented technology. Cenzic solutions secure websites of numerous F1000 companies including all major security companies, leading government agencies and universities.<br />&nbsp;</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cenzic/WJtsNZ"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120626183413_LBU0FCWLNCSP8EBH]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Inside Sales Territory Sales Executive]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[sales]]></team>
+			<url><![CDATA[http://cenzic.theresumator.com/apply/tFsEFw/Inside-Sales-Territory-Sales-Executive.html]]></url>
+			<city><![CDATA[Campbell]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[95008]]></postalcode>
+			<description><![CDATA[<p>Cenzic is looking for exceptional telesales professionals to develop and drive territory sales in multiple North America regions. The ideal candidate must have excellent communication skills, and the ability to quickly learn and articulate the value of our solutions. This role has complete accountability of sales from territory prospecting, pipeline development, forecast management, and closing business to meet or exceed quota expectations.</p><p>This is an inside sales role based out of our Campbell, CA headquarters.</p><p><strong>Responsibilities include (but not limited to):</strong></p><ul><li>Prospect, qualify and build new business pipeline through cold calling, lead qualification, and creative territory development strategies</li><li>Manage territory and close opportunities to meet/exceed sales quota</li><li>Manage daily sales activity, pipeline and forecast via salesforce.com</li><li>Maintain technical industry and product knowledge on a regular basis</li><li>Conduct web based interactive product demos via PC and phone</li></ul><p><strong>Qualifications:</strong></p><ul><li>Excellent interpersonal and verbal communication skills</li><li>Quick learner and self-starter with an entrepreneurial work ethic</li><li>Flexible - ability to adapt to changing markets, customers, and company</li><li>Results oriented team player with a committed effort to exceed individual goals</li></ul><p><strong>Additional Desired Skills:</strong></p><ul><li>2+ years quota carrying sales experience</li><li>Proven success working in a start-up type company environment</li><li>Proficient in using Salesforce.com, WebEx, and other industry-standard tools</li></ul><p>If you believe you have the skills and desire for this job, please appy now.&nbsp; Resumes can be</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cenzic/tFsEFw"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130225202805_XFUAFG6IS09MZ6ED]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Security Engineer]]></title>
+			<department><![CDATA[Professional Services]]></department>
+			<team><![CDATA[cts]]></team>
+			<url><![CDATA[http://cenzic.theresumator.com/apply/Xp7fCE/Security-Engineer.html]]></url>
+			<city><![CDATA[Campbell]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[95008]]></postalcode>
+			<description><![CDATA[<p>
+Experience: 2-4 years<br />
+Education: BS/MS in Computer Science, other technical degree, or equivalent applicable experience</p>
+<p>
+Are you a motivated and intelligent recent graduate with an interest in software and a good knowledge of web technology? Do you want a position that will keep you on the cutting edge of web technology, specifically in web application security technology?</p>
+<p>
+Cenzic is looking for a motivated team-player to join our Security team in our Campbell, California office. This position needs to be filled by someone who already possesses knowledge of Web application security principals and tools, and can quickly learn the technologies used at Cenzic. The ability to continuously learn as technology evolves is important for success in this position. This is a three-month contract position with the possibility of hiring&nbsp; Full time at the end of the period.<br />
+Responsibilities include (but are not limited to):</p>
+<p>
+&nbsp;&nbsp;&nbsp; * Performing Web application vulnerability assessments<br />
+&nbsp;&nbsp;&nbsp; * Gathering necessary information to determine exactly what each issue is<br />
+&nbsp;&nbsp;&nbsp; * Where appropriate, reproducing a problem in house, writing tests where necessary<br />
+&nbsp;&nbsp;&nbsp; * Liaising with customers to determine appropriate course of remediation<br />
+&nbsp;&nbsp;&nbsp; * Provide customer support<br />
+&nbsp;&nbsp;&nbsp; * Authoring knowledge-base articles and FAQ&rsquo;s</p>
+<p>
+Requirements:</p>
+<p>
+&nbsp;&nbsp;&nbsp; * BS/MS in Computer Science, other technical degree, or equivalent applicable experience<br />
+&nbsp;&nbsp;&nbsp; * Enjoys solving technical problems and helping others<br />
+&nbsp;&nbsp;&nbsp; * Prior experience working in a web/ network security related environment<br />
+&nbsp;&nbsp;&nbsp; * Ability to communicate with customers effectively and professionally via phone, email and WebEx<br />
+&nbsp;&nbsp;&nbsp; * Strong background of internet technologies and protocols (HTTP, SSL, LDAP)<br />
+&nbsp;&nbsp;&nbsp; * Expertise in JavaScript and Web technologies for the browser (HTML, XML, CSS, JavaScript, Flash)<br />
+&nbsp;&nbsp;&nbsp; * Experience with SQL and database management<br />
+&nbsp;&nbsp;&nbsp; * Desire to learn and grow skills</p>
+<p>
+Desirable skills:</p>
+<p>
+&nbsp;&nbsp;&nbsp; * Programming experience in C, C++, C#, ASP.NET<br />
+&nbsp;&nbsp; *&nbsp; Written and spoken foreign languages such as Spanish, Japanese, Cantonese, Portuguese skills are a plus</p>
+<p>
+<br />
+If you believe you have the skills and desire for this job, send you resume to ctsjobs@cenzic.com with the name of the position in the email title.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cenzic/Xp7fCE"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130528171632_FWS2SH4PEAVQ9A5U]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[QA Automation Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[engineering]]></team>
+			<url><![CDATA[http://cenzic.theresumator.com/apply/d2Pj63/QA-Automation-Engineer.html]]></url>
+			<city><![CDATA[Campbell]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[95008]]></postalcode>
+			<description><![CDATA[<p>
+<strong>**** No third parties please ****</strong></p>
+<p>
+&nbsp;</p>
+<p>
+<strong>QA Automation Engineer</strong></p>
+<p>
+<strong>Location: Campbell, CA<br />
+Job Category: QA Automation Engineering<br />
+Position Type: Full Time<br />
+Relocation Available: No</strong></p>
+<p>
+<br />
+Are you a motivated and intelligent QA engineer with an interest in QA automation engineering and possess knowledge of web application development? Do you want a position that will keep you on the cutting edge of web technology, specifically in web application security technology?</p>
+<p>
+Cenzic is looking for motivated team-players to join our QA engineering team in our Campbell, California office. This position is for a self-motivated QA Automation Engineer and requires the ability to write code in high level languages, and in being able to work independently with minimal supervision.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Responsibilities include (but not limited to):</strong></p>
+<ul>
+<li>
+Debugging software products</li>
+<li>
+Developing test plans</li>
+<li>
+Automating testing. Tests could be implemented as unit tests, api interface and integration testing and automated scripting.</li>
+<li>
+This person will also be responsible for executing manual tests, reporting defects and advocating product quality.</li>
+<li>
+Applicants should be intelligent, self-motivated, energetic problem-solvers who enjoy breaking software, working closely with software developers, and who have a passion for software quality.</li>
+<li>
+Understand and contribute in product requirements, architecture and design</li>
+</ul>
+<p>
+<strong>Required Experience/Skills &amp; Education:</strong></p>
+<ul>
+<li>
+1-3 years of QA experience, with good hands-on test automation experience</li>
+<li>
+Experience with Selenium, Selenium WebDriver preferred.</li>
+<li>
+Knowledge of HTTP protocol</li>
+<li>
+The ability to design automated tests based on project plans and product functionality.</li>
+<li>
+Ability to quickly learn and become proficient with complex applications</li>
+<li>
+Basic Knowledge of networking infrastructure and technologies</li>
+<li>
+Basic knowledge of Databases including Mysql, Oracle, and Standard SQL.</li>
+<li>
+Knowledge of configuration and management of Microsoft operating systems and applications</li>
+<li>
+&bull; 1-2 year&rsquo;s experience in Java/C++</li>
+<li>
+Ability to write command line tools, scripts or batch files to automate processes</li>
+<li>
+Bachelors Degree in Computer Science or equivalent</li>
+</ul>
+<p>
+<strong>Desirable Skills:</strong></p>
+<ul>
+<li>
+Knowledge of quality assurance, quality control and defect management</li>
+<li>
+Non-Windows operating systems (Linux, Solaris, Mac, HP-UX)</li>
+<li>
+C / C++, PERL, HTML, XML, Python, Java, Scala, C# .Net</li>
+<li>
+Scripting languages (VB/JS)</li>
+<li>
+Working knowledge of the Windows registry, IIS, HTTP/HTTPS and/or TCP/IP</li>
+<li>
+Some exposure to agile methods of software development</li>
+<li>
+Understanding of computer security applications</li>
+<li>
+Understanding of&nbsp;Continuous Integration Systems like Jenkins/Hudson.</li>
+<li>
+Experience with scripting languages such as powershell and VB is also preferred.</li>
+</ul>
+<p>
+<br />
+<strong>Benefits:</strong></p>
+<ul>
+<li>
+Comprehensive benefits package (Medical, Dental, Vision, Life Insurance, &amp; more)</li>
+<li>
+Vision VSP</li>
+<li>
+Life Insurance &amp; Dental</li>
+<li>
+2 weeks of paid vacation so that you can let your brain relax</li>
+<li>
+Sick Leave up to 5 days</li>
+<li>
+Company Paid holidays</li>
+<li>
+401(k) Plan</li>
+<li>
+Incentive Bonus Eligibility</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>About US:</strong></p>
+<p>
+Cenzic is the trusted provider of software, managed service, and cloud security products that help organizations secure their websites against hacker attacks. Cenzic focuses on Web application security, automating the process of identifying security defects at the Web application level where more than 75% of attacks occur, help customers in remediating those defects, manage risk and get compliance with regulations such as PCI. Cenzic is unique in the industry as its products are built on a non-signature-based patented technology. Cenzic solutions secure websites of numerous F1000 companies including all major security companies, leading government agencies and universities.<br />
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Contracted to Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cenzic/d2Pj63"></script>]]></buttons>
+		</job>
+	</jobs>

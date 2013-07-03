@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[LevelUp]]></company>
+			<job>
+			<id><![CDATA[job_20130408195337_HGYJEINUWPYKQNK7]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://levelup.theresumator.com/apply/RNU8gF/Software-Engineer.html]]></url>
+			<city><![CDATA[Boston]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02114]]></postalcode>
+			<description><![CDATA[<p>
+SCVNGR is building the next generation mobile payment and merchant loyalty solution.&nbsp; Our platform LevelUp (www.thelevelup.com) is already used by thousands of merchants and hundreds of thousands of users on a daily basis.&nbsp; SCVNGR is funded by Google Ventures, Highland Capital Partners, and Balderton Capital.</p>
+<p>
+SCVNGR is looking for software engineers with a broad set of skills who are self-directed and passionate about innovation and web/mobile technologies.&nbsp; Our team of software engineers and designers are developing mobile applications powered by a cloud-based platform that will run on millions of devices and handle billions of transactions per month. You will be an integral part of our aggressive growth strategy to become the premier payment method in the world.</p>
+<p>
+<strong>Basic Qualifications:</strong></p>
+<ul>
+<li>
+Team player with excellent written and spoken English communication skills.</li>
+<li>
+Bachelor degree in Computer Science degree or equivalent experience.</li>
+</ul>
+<p>
+<strong>For the Win!</strong></p>
+<ul>
+<li>
+Solid foundation in computer science, with strong competencies in data structures, algorithms, and software design.</li>
+<li>
+Knowledge of web standards and protocols including JavaScript, HTML, CSS, HTTP.</li>
+<li>
+Highly responsible, self-disciplined, self-managed, self motivated, able to work with little or no supervision.</li>
+</ul>
+<p>
+<strong>Come Join Our Team!</strong></p>
+<p>
+Our motivated team has a get it done right attitude while having fun in the process. Enjoy free catered food everyday and a competitive compensation model that includes stock, 100% healthcare and dental.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/levelup/RNU8gF"></script>]]></buttons>
+		</job>
+	</jobs>

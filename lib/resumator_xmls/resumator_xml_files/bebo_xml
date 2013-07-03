@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Bebo]]></company>
+			<job>
+			<id><![CDATA[job_20100921004311_OABJ263KJ2KSXUER]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://bebo.theresumator.com/apply/Pb464U/Senior-Software-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94108]]></postalcode>
+			<description><![CDATA[<p>
+	We are seeking a brilliant, versatile and flexible engineer to join us.</p>
+<p>
+	All members of this team know front-end and back-end code from front to back. &nbsp;This team member will have a significant role in shaping the technical direction of next generation web apps. Responsibilities include adding new features and maintaining the core technology which powers the 40-million member Bebo community.</p>
+<p>
+	Required Knowledge/Experience:</p>
+<ul>
+	<li>
+		Experience with Java or Python</li>
+	<li>
+		Able to write and debug multi-threaded code.</li>
+	<li>
+		Scripting (Ruby, Perl, etc.) - able to use a variety of tools to quickly gather data, do analysis and solve problems.</li>
+	<li>
+		JavaScript/ HTML/ AJAX</li>
+</ul>
+<p>
+	More general stuff</p>
+<ul>
+	<li>
+		Experience designing and implementing APIs</li>
+	<li>
+		Experience fighting spam and bots</li>
+	<li>
+		Solid Linux/ Unix skills</li>
+	<li>
+		Experience building scalable websites, experience identifying and fixing scalability problems in code, system architecture and data access layers.</li>
+	<li>
+		Mad ping pong skillz</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bebo/Pb464U"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110329210931_VPYORTFM2NMOO12H]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Operations Engineer]]></title>
+			<department><![CDATA[Operations]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://bebo.theresumator.com/apply/xUidbT/Operations-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94108]]></postalcode>
+			<description><![CDATA[<p>
+	Do you have what it takes to keep a premier web property running 24x7? &nbsp;Can you dive deeply into problems through code you didn&#39;t write? &nbsp;Can you come up to speed on complex systems quickly? Does it take a lot to make you throw your hands up and say &quot;I give up&quot;? &nbsp;Do you know (or want to know) how to run/code/debug any of the following: debian, oracle, mysql, cassandra, redis, java, c/c++, python, SANs, RAIDs, resin, xen, FAI, apache, lighttpd, nginx.</p>
+<p>
+	If so, we want to hear from you. &nbsp;We run hundreds of servers for millions of users (but you never have to visit the datacenter). &nbsp;And we need your help.</p>
+<p>
+	Oh, and we&#39;re in downtown San Francisco.</p>
+]]></description>
+			<type><![CDATA[Part Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bebo/xUidbT"></script>]]></buttons>
+		</job>
+	</jobs>

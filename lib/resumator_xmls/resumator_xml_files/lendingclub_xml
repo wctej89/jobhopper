@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Lending Club]]></company>
+			<job>
+			<id><![CDATA[job_20130206190621_I5UE229UOQMGCWX7]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Java Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://lendingclub.theresumator.com/apply/zsPioT/Java-Developer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94105]]></postalcode>
+			<description><![CDATA[<p>
+Lending Club is looking to hire a Java Developer to be a part of the Engineering team. To learn more about the role, team, culture, and hiring managers, just click on the link and watch our video!</p>
+<p>
+<br />
+<a href="http://ongig.com/jobs/Lending-Club/Java-Software-Engineer-San-Francisco-CA">http://ongig.com/jobs/Lending-Club/Java-Software-Engineer-San-Francisco-CA</a></p>
+<p>
+<strong>Key Responsibilities</strong></p>
+<p>
+Participate in building Scrum process and agile culture in the company.<br />
+Design, implement, and document new software components. Improve existing&nbsp;&nbsp; software.<br />
+Work with Product Management to understand requirements and contribute to release planning.<br />
+Research new technologies and prototype new ideas.<br />
+Ensure high testability and quality of the delivered software. Work with QA and&nbsp; Operations to troubleshoot and fix defects in the software.<br />
+Requirements</p>
+<p>
+3-7 years of experience in building software using Java technologies.<br />
+Solid experience with the following technologies:<br />
+ORM tools &ndash; Hibernate, TopLink, or similar.<br />
+SQL skills to access a database from a web application.<br />
+Experience with rule and event engines is a plus.<br />
+Desire to work in collaborative and fast paced agile environment.<br />
+Experience in using Scrum process is a big plus.<br />
+* Must be self-directed, able to work independently, as well as work in a team-oriented and fast paced environment</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/lendingclub/zsPioT"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130206191715_NKRRSCJPU5NQKHPW]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front-End Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://lendingclub.theresumator.com/apply/5NqZaH/FrontEnd-Developer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94105]]></postalcode>
+			<description><![CDATA[<p>
+Lending Club is looking to hire a Front-End Developer to be a part of the Engineering team.</p>
+<p>
+&nbsp;</p>
+<p>
+Primary Responsibilities:</p>
+<p>
+Participate in building Scrum process and agile culture in the company.<br />
+Design, implement, and document new software components. Improve existing software.<br />
+Work with Product Management to understand requirements and contribute to release planning.<br />
+Research new technologies and prototype new ideas.<br />
+Ensure high testability and quality of the delivered software. Work with QA and Operations to troubleshoot and fix defects in the software.<br />
+Requirements</p>
+<p>
+3-7 years of experience in building software using Java technologies.<br />
+Solid experience with the following technologies:<br />
+Web MVC frameworks - Struts, Spring MVC, or other Java-based framework.<br />
+HTML, CSS, and JavaScript. Experience with YUI JavaScript library is a plus.<br />
+SQL skills to access a database from a web application.<br />
+Desire to work in collaborative and fast paced agile environment.<br />
+Experience in using Scrum process is a big plus.<br />
+Must be self-directed, able to work independently, as well as work in a team-oriented and fast paced environment<br />
+Your Passion:<br />
+Modern Web Frameworks: You understand why these matter, how they help, and what they don&rsquo;t do. You don&#39;t just know what MVC stands for, but you can tell us why it makes sense. You&rsquo;ve built sites using one ormore of Express, Rails, Django, ASP.NET MVC, Grails, or AppEngine and you&rsquo;ve read through the documentation on some of the others. You choose between these platforms based on their merits and not based solely on your familiarity.</p>
+<p>
+Service Integration: Stitching RESTful services that speak JSON to XML spewing SOAP endpoints with a few custom binary protocols thrown in both sounds painful to you and you can explain, in an objective way, why that sort of an architecture might not be a great idea. That&rsquo;s not what we do - usually - but when we do you can handle it.</p>
+<p>
+HTML and CSS: Layout and styling must be second nature. While you&rsquo;ll usually be working from a wireframe or a full visual mockup, not having them won&rsquo;t cause you to produce an ugly result. You&rsquo;re a software engineer not a visual designer, but you can tell the difference between good design and bad design. That we target a range of browsers across both mobile and desktop platforms is pretty much a given. You&rsquo;re a troubleshooter. When something is wrong you don&rsquo;t sit on your hands, you jump i, to solve it. Team Player: You&rsquo;ll own your own work, but al, of us edit each other&rsquo;s code. When your team,ate does something differently than the way you would have, you see potential for you to learn. You&rsquo;re willing to share your knowledge and mentor others.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/lendingclub/5NqZaH"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130206192002_EB8FI3U0FDUFRP1L]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Automation Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://lendingclub.theresumator.com/apply/3JbfPh/Automation-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94105]]></postalcode>
+			<description><![CDATA[<p>
+To get a feel for the role, team, culture, and hiring manager click on our job description video link!</p>
+<p>
+<a href="http://ongig.com/jobs/Lending-Club/Quality-Automation-Engineer-San-Francisco-CA">http://ongig.com/jobs/Lending-Club/Quality-Automation-Engineer-San-Francisco-CA</a></p>
+<p>
+Lending Club is looking for an experienced Automation Engineer to build the automated testing framework. This will include various web applications and API testing. In our fast-paced, Agile environment, perfect candidate will have the opportunity to interact with all project stakeholders throughout our Scrum-based SDLC.</p>
+<p>
+&nbsp;</p>
+<p>
+Primary Responsibilities</p>
+<br />
+<p>
+Research new technologies and automated test solutions (proprietary and open-sourced) for implementation,<br />
+and lead all automated test efforts<br />
+Develop powerful agile-oriented automation framework and convert existing automated test cases<br />
+Support and train remote QA team<br />
+Provide project estimates, plan and manage ongoing automation activities<br />
+Identify and troubleshoot issues (both Front-End and Back-End)<br />
+Participate in all areas of testing as needed (such as functional and regression testing, performance, load,<br />
+and stress testing)<br />
+Provide regular feedback on automated test results</p>
+<p>
+<br />
+Requirements</p>
+<br />
+<p>
+BS degree in Computer Sciences or related field (an equivalent combination of related education, training,<br />
+and experience may be considered).<br />
+Minimum of 5 years of automated testing experience<br />
+Proven record of developing automation frameworks using Java/Python + Selenium + Robot Framework<br />
+2+ years of strong SQL experience<br />
+Experience testing under Linux or Unix OS<br />
+Both white and black box testing experience<br />
+Skills in diagnosing and solving complex problems and providing detailed technical analysis<br />
+Experience documenting processes and procedures</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/lendingclub/3JbfPh"></script>]]></buttons>
+		</job>
+	</jobs>

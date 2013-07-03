@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[StackSocial]]></company>
+			<job>
+			<id><![CDATA[job_20120301075900_FCB3P2FMEEPC2BXS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Lead Engineer (Ruby on Rails)]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://stacksocial.theresumator.com/apply/VHg5Cp/Lead-Engineer-Ruby-On-Rails.html]]></url>
+			<city><![CDATA[Venice]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90291]]></postalcode>
+			<description><![CDATA[<p>
+What you&rsquo;ll do:</p>
+<p>
+&bull; Lead. You will be in charge of cultivating a hacker/get-shit-done culture and making sure that it stays. You will be a cornerstone of our organization responsible for setting strategic directions for the engineering team by guiding technology decisions and developing tech talent.</p>
+<p>
+&bull; Architect. You will determine the long-term architecture of our platform and be responsible for implementing the company&rsquo;s product development vision.&nbsp; You have deep technical knowledge of Ruby on Rails/MySQL and scaling an app to millions of users.&nbsp;</p>
+<p>
+&bull; Hack. You should have a passion for clean code and be comfortable with test-driven development, quick turnarounds, rapid deployments, and quickly responding to surges. You love to code and solve complex problems.</p>
+<p>
+About You:</p>
+<p>
+&bull; Got Mad Skillz. You have scaled apps to be able to efficiently handle millions of actions per month.&nbsp; You have first hand experience deploying and scaling multiple servers using one or more of the following: Capistrano, Chef, EC2. You have the ability to analyze inefficiencies in server/application using tools like Nagios &amp; New Relic and implement more efficient/elegant solutions.</p>
+<p>
+&bull; Know the Tools. You&rsquo;re not afraid of MySQL replication &amp; optimization, RESTful JSON APIs, eCommerce APIs, HAML/SASS, Memcache, Delayed Job/Resque, Redis, Sphinx, OAuth2, Git and test-driven development.&nbsp; You&rsquo;ve worked with Heroku.</p>
+<p>
+&bull; The 1:10 Engineer. You go above and beyond because hacking is a part of who you are.&nbsp; You acknowledge that there&rsquo;s a time for everything and aren&#39;t dogmatic about any one methodology: You realize there&#39;s a time for being lean, agile and user-centered, but also a time for trusting your intuition, vision and heart.</p>
+<p>
+Big pluses:<br />
+&bull; Experience developing for large-scale ecommerce (integrated shopping cart, PayPal API, etc).<br />
+&bull; Experience bringing a SaaS mail system in-house.</p>
+<p>
+Benefits + Perks:<br />
+&bull; Salary + Bonus: Competitive base + potential bonus based on experience and performance.<br />
+&bull; Equity: Generous equity stake for the right candidate.<br />
+&bull; Dream Setup: Whatever equipment you need to be at your best, up to $3000.<br />
+&bull; Super Flex Time: Run errands as needed, just get your stuff done.<br />
+&bull; Free Food/Drinks: We&rsquo;ll stock the cabinets and the fridge for you.<br />
+&bull; Hack Days: Two days per quarter to work on any Company-related project you want.<br />
+&bull; Location: Our office is across from the Beach&hellip;take a jog to clear your mind!</p>
+<p>
+Apply:<br />
+&bull; Send an email and cover letter to josh@stacksocial.com with links to all applicable pages that you have (i.e. your portfolio, blog, LinkedIn, twitter, etc.).</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/stacksocial/VHg5Cp"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121022010627_SGWTUXIU9SC8YI4H]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Lead Product Manager]]></title>
+			<department><![CDATA[Business]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://stacksocial.theresumator.com/apply/C3nBTe/Lead-Product-Manager.html]]></url>
+			<city><![CDATA[Venice]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90291]]></postalcode>
+			<description><![CDATA[<p>
+<strong>RESPONSIBILITIES:</strong></p>
+<ul>
+<li>
+Work closely with the business team to gather <strong>requirements </strong>and spec out new features</li>
+<li>
+Create <strong>wireframes</strong> and work with our designers/front-end devs to build out UI/UX</li>
+<li>
+Manage&nbsp;our product pipeline in <strong>Pivotal Tracker</strong></li>
+</ul>
+<p>
+<strong>MUSTS:</strong></p>
+<ul>
+<li>
+Master of Pivotal Tracker or equivalent agile dev tool</li>
+<li>
+Well-versed&nbsp;with Scrum or other agile development methodology</li>
+<li>
+You thrive on a fast-paced environment where product iterates quickly based on customer demands</li>
+<li>
+Must be able to work on-site at our office in Venice - no remote candidates!</li>
+</ul>
+<p>
+<strong>PLUSES:</strong></p>
+<ul>
+<li>
+Computer Science degree or previous development experience</li>
+<li>
+Experience with A/B testing tools like Google Website Optimizer, Optimizely, or other</li>
+<li>
+Ruby on Rails experience</li>
+</ul>
+<p>
+<strong>Comp:</strong> Salary + generous options grant</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/stacksocial/C3nBTe"></script>]]></buttons>
+		</job>
+	</jobs>

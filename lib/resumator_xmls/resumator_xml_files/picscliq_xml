@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[PicsCliq]]></company>
+			<job>
+			<id><![CDATA[job_20110519004114_IRILEWD7TL1NRAHA]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Ruby Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://picscliq.theresumator.com/apply/shobOW/Ruby-Developer.html]]></url>
+			<city><![CDATA[NYC]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10004]]></postalcode>
+			<description><![CDATA[<p>
+	We&#39;re a NYC based start-up with a small, but expanding team seeking an entrepreneurial minded Ruby on Rails developer for immediate hire.</p>
+<p>
+	We are a rapidly growing ambitious startup developing professional and consumer based applications for connecting people, photos, and products. . You&#39;ll get to work with all the fun stuff such as photos, mobile, and social, while developing intelligent applications that drive actual product sales. And you&#39;ll have a blast doing it.</p>
+<p>
+	Our business is growing exponentially, but we are only at the beginning stages. You&#39;ll have the opportunity to be part of our growth as we expand. Our platform is built on RoR -check it out at www.picscliq.com- and we are building our team, off and onshore, to continue our development and add to our current reach of hundreds of professional photographers.</p>
+<p>
+	Compensation: More than competitive + benefits + options + awesomeness. &nbsp;</p>
+]]></description>
+			<type><![CDATA[Part Time to Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/picscliq/shobOW"></script>]]></buttons>
+		</job>
+	</jobs>

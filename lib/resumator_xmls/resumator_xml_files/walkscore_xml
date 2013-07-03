@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Walk Score]]></company>
+			<job>
+			<id><![CDATA[job_20120207171554_PANGFFCKOIEZ6BHE]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://walkscore.theresumator.com/apply/FslKh9/Software-Engineer.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98105]]></postalcode>
+			<description><![CDATA[<p>
+	Walk Score helps people find walkable places to live with short commutes, access to public transit, and great biking infrastructure.&nbsp; With our new apartment search technology, we&rsquo;re collecting data from hundreds of public transit agencies, processing and optimizing gigabytes of OpenStreetMap data, and performing rapid graph traversal in the browser.</p>
+<p>
+	You&#39;ll love our modern infrastructure (AWS, App Engine, MongoDB, Node.js) and tools (Python, Flask, GitHub) and once you meet our development team you&rsquo;ll love them too.</p>
+<p>
+	<strong>About You:</strong></p>
+<ul>
+	<li>
+		Expert programming skills</li>
+	<li>
+		Experience building robust, scalable web applications with big data</li>
+	<li>
+		Opinionated about languages, frameworks, and tools</li>
+	<li>
+		Constantly learning and experimenting with new technologies</li>
+	<li>
+		Passionate about reducing car-dependence through software</li>
+	<li>
+		Computer Science or related degree</li>
+</ul>
+<p>
+	<strong>About Walk Score:</strong></p>
+<p>
+	We build innovative software that promotes walkable neighborhoods, public transit, and short commutes. More than 10,000 sites use Walk Score Services and we show more than 4 million scores each day.</p>
+<p>
+	We love meeting smart people and look forward to chatting with you.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/walkscore/FslKh9"></script>]]></buttons>
+		</job>
+	</jobs>

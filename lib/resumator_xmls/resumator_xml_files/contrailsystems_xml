@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Contrail Systems]]></company>
+			<job>
+			<id><![CDATA[job_20120808215005_VRAJ12FLXUQG1IDB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Architect, User Interface]]></title>
+			<department><![CDATA[Design]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://contrailsystems.theresumator.com/apply/RFdET3/Architect-User-Interface.html]]></url>
+			<city><![CDATA[Santa Clara]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[95054]]></postalcode>
+			<description><![CDATA[<p>
+	&nbsp;</p>
+<p>
+	Contrail is re-defining how networks are built and operated with our Virtualized Network Control solution. Our User Interface Architect will reinvent the way developers and network and dev-ops engineers interact with Orchestration Systems and underlying Infrastructure. UX architect will be at the front of every stage of the product process - from brainstorming, wireframes, iterating on ideas, and implementation.</p>
+<br />
+<p>
+	Responsibilities:<br />
+	Create a passionate team that believes that product&#39;s value is extracted through its Interface<br />
+	Translate broad concepts to prototypes to final product<br />
+	Design simple, yet elegant front-end that allows users for immediate and intuitive experience<br />
+	Present large amounts of data in easy to understand forms<br />
+	Work with Product Management team from concept to the end-of-life of the product<br />
+	Develop a new direction for User Interfaces within Cloud Orchestration Systems like OpenStack, and CloudStack<br />
+	Create API and/or Protocols for 3rd Party Integration</p>
+<p>
+	Qualifications<br />
+	Experience in end to end development of a rich user experience system<br />
+	Strong background in object oriented programming and web technologies<br />
+	Familiarity with OpenStack, CloudStack framework<br />
+	Strong leadership skills to lead a high-energy Engineering team<br />
+	Knowledge of big data and analytics<br />
+	Familiarity with cloud technologies (e.g. AWS)<br />
+	Knowledge of Java server technologies (e.g. WebObjects)</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/contrailsystems/RFdET3"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120808222206_IXUVRX5NTKKWUGB1]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Engineer, Datapath]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://contrailsystems.theresumator.com/apply/jAJvT1/Engineer-Datapath.html]]></url>
+			<city><![CDATA[Santa Clara]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[95054]]></postalcode>
+			<description><![CDATA[<p>
+	&nbsp;</p>
+<p>
+	Contrail is re-defining how networks are built and operated with our Virtualized Network Control solution. Our Datapath Engineers are developing a core piece of technology where every CPU cycle matters - it is all about performance! You will be developing a significantly improved packet forwarding module within virtualization technologies like KVM, Xen, Linux Containers, VMWare, etc.</p>
+<p>
+	Responsibilities:<br />
+	Work with Architecture team to refine the System Specifications and identify the development approach<br />
+	Create specifications for software modules that are Highly Available and perform at a blistering pace<br />
+	Develop/implement Control Plane and Data Plane protocols<br />
+	Create Automated Test Environment in-concert with software modules</p>
+<p>
+	Qualifications:<br />
+	BS in Computer Science or equivalent.<br />
+	Hands on development experience in Linux kernel<br />
+	Experience in switching or routing datapath software development<br />
+	Familiarity with Server Virtualization technologies like KVM, Xen<br />
+	Extensive experience in C/C++, Python, and/or Perl<br />
+	Experience with vSwitch development like OVS or equivalent<br />
+	Experience with network ACLs and stateful firewall<br />
+	Knowledge of a unicast and multicast routing protocols like OSPF, PIM</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/contrailsystems/jAJvT1"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120808223555_CTF81R8QWM5WVP5J]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Engineer, Distributed Systems]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://contrailsystems.theresumator.com/apply/FAiZYi/Engineer-Distributed-Systems.html]]></url>
+			<city><![CDATA[Santa Clara]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[95054]]></postalcode>
+			<description><![CDATA[<p>
+	&nbsp;</p>
+<p>
+	Contrail is re-defining how networks are built and operated through our Virtualized Network Control solution. Our Distributed Systems Engineers are developing a core piece of technology that will make the networking fabric completely transparent to the Application Developers and the Network Operations staff. The idea is to forever change the experience of Data-Center Operations.</p>
+<p>
+	Responsibilities:<br />
+	Work with Architecture team to refine the System Specifications and development approach<br />
+	Create Specifications for Software Modules that scale Horizontally and are built for Availability from grounds-up<br />
+	Develop/Implement Control Plane and Management Plane protocols<br />
+	Create Automated Test Environment in-concert with Software Modules</p>
+<p>
+	Qualifications<br />
+	BS/MS in Computer Science or equivalent.<br />
+	Proficiency in C/C++ and/or other Object Oriented Programming.<br />
+	4+ years hands on experience in developing Routing Protocols, Distributed Filesystems, etc<br />
+	Experience in Python or Perl<br />
+	Knowledge of No-SQL database technologies<br />
+	Experience with Java<br />
+	Experience with L3 VPN and/or BGP<br />
+	Familiarity with OpenFlow and SDN technologies</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/contrailsystems/FAiZYi"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120808223015_1NUWPQXBCAORPWXZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Engineer, User Experience]]></title>
+			<department><![CDATA[Design]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://contrailsystems.theresumator.com/apply/sSuRpI/Engineer-User-Experience.html]]></url>
+			<city><![CDATA[Santa Clara]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[95054]]></postalcode>
+			<description><![CDATA[<p>
+	Contrail is re-defining how networks are built and operated with our Virtualized Network Control solution. Our User Interface Designers are reinventing the way developers and network and dev-ops engineers interact with Orchestration Systems and underlying Infrastructure. UX designers are involved at every stage of the product development process from brainstorming, wireframes, iterating on ideas, and implementation.</p>
+<p>
+	<br />
+	<strong>Responsibilities:</strong></p>
+<ul>
+	<li>
+		Translate broad concepts from Prototype&nbsp;to final product</li>
+	<li>
+		Design simple, yet elegant front-end that allows users for immediate and intuitive experience</li>
+	<li>
+		Present large amounts of data in easy to understand forms</li>
+	<li>
+		Work with Product Management team throughout product lifecycle</li>
+	<li>
+		Develop a new direction for User Interfaces within Cloud Orchestration Systems (e.g. OpenStack, CloudStack)</li>
+</ul>
+<p>
+	<br />
+	<strong>Qualifications</strong></p>
+<ul>
+	<li>
+		3+ development experience developing UI and Web Engineering</li>
+	<li>
+		Ability to design and prototype UI front ends and mockups</li>
+	<li>
+		Detailed knowledge of different UI frameworks and server side programming</li>
+	<li>
+		Excellent problem solving, imagination, and verbal skills</li>
+	<li>
+		Knowledge of web standards such as HTML5, JavaScript, etc</li>
+	<li>
+		Familiarity with OpenStack, CloudStack</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/contrailsystems/sSuRpI"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121210192310_5R6LMBPWFBELTIHM]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Executive Administrator]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://contrailsystems.theresumator.com/apply/3lzNYx/Executive-Administrator.html]]></url>
+			<city><![CDATA[Santa Clara]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[95054]]></postalcode>
+			<description><![CDATA[<p>
+Contrail is re-defining how networks are defined, built and operated with our Virtualized Network Control solution.&nbsp; This position requires the ability to work at a fast pace, strong interpersonal skills, independent judgment and a good understanding of both strategic and tactical business requirements.</p>
+<p>
+<strong>Responsibilities:</strong><br />
+Manage interface/calendar for the Vice President, working with both with internal teams and external partners.<br />
+Coordinate conference/meeting room set-up, catering, and logistical arrangements.<br />
+Make global travel plans (airline, hotel reservations, country visas, expense reports).<br />
+Facilitate/coordinate communications and administrative procedures across the team.<br />
+Prepare materials - presentations, printing, distribution, correspondence, etc.<br />
+Provide direction and assistance to other team members, as required.</p>
+<p>
+<br />
+<strong>Qualifications:</strong><br />
+5-8+ years experience in an administrative role.<br />
+2-4 years experience supporting a senior executive in a fast paced environment, preferably within a high tech company.<br />
+Must be an independent worker, proactive and solution oriented, looking for ways to value and assist the team.<br />
+Demonstrated ability to multi-task and prioritize work with a strong attention to detail.<br />
+Strong verbal and written communication skills, experience working with confidential information.<br />
+Strong knowledge of Microsoft, Apple, web-based productivity tools, including video conferencing.<br />
+Comfortable using remote VPN connections.<br />
+Ability to successfully navigate a large volume of e-mail, phone calls, IMs, and web communications.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/contrailsystems/3lzNYx"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120921002619_9GYSTT42YAZGG5BI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Linux Kernel Lead]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://contrailsystems.theresumator.com/apply/pwNvrH/Linux-Kernel-Lead.html]]></url>
+			<city><![CDATA[Santa Clara]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[95035]]></postalcode>
+			<description><![CDATA[<p>
+	Contrail is re-defining how networks are built and operated with our Virtualized Network Control solution. Our Kernel Engineers are developing core datapath code for high performace server environment. You will be developing a significantly improved packet forwarding module for various hypervisors.</p>
+<p>
+	Responsibilities:<br />
+	- Lead and execute Linux kernel development in the area of, Device Drivers, Hardware Interfaces, Virtualization, storage stack and Networking stack.<br />
+	- Develop rapid prototypes and proof of concepts of and architectures.<br />
+	- Get resolution on critical issues involving packet forwarding path.<br />
+	- Get involved in all phases of software development and support including requirements, design, coding, unit test and performance tuning.</p>
+<p>
+	Skills:<br />
+	- BS/MS in Computer Science or equivalent.<br />
+	- Extensive development experience of Linux kernel<br />
+	- Indept knowledge of TCP/IP stack, Network interface card architectures, Network IO concepts, and Virtualization.<br />
+	- Knowledge of file system and memory management.&nbsp;<br />
+	- Knowledge of one of virtualization technologies (KVM, Hyper-V or VMware ESX)<br />
+	- Exposure to Open vSwitch and/or OpenStack a plus.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/contrailsystems/pwNvrH"></script>]]></buttons>
+		</job>
+	</jobs>

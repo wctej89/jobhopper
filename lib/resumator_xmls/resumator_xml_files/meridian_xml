@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Meridian]]></company>
+			<job>
+			<id><![CDATA[job_20111110234106_QJZ0PLECWWELLY9N]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Application Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://meridian.theresumator.com/apply/eLzYR5/Web-Application-Developer.html]]></url>
+			<city><![CDATA[Portland]]></city>
+			<state><![CDATA[OR]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[97209]]></postalcode>
+			<description><![CDATA[<p>
+	Meridian is a quickly growing, mobile-device software startup with offices in Portland, Ore. and San Francisco. Places -- well-known retailers, stadiums, subways, museums, hospitals, etc. -- use our mobile software to connect with their visitors.</p>
+<p>
+	We&#39;re looking for a talented developer to help us create the next generation of location-based services. You&#39;ll be creating mobile experiences for big-name locations using web technologies.</p>
+<p>
+	What you&#39;ll need:</p>
+<ul>
+	<li>
+		Strong experience with HTML/CSS/JS. We like jQuery but we&#39;re not religious.</li>
+	<li>
+		Server-side experience writing with high-level languages. We currently use Python+Django.</li>
+	<li>
+		An eye for design and pixel-level detail. We love beautiful things!</li>
+</ul>
+<p>
+	Experience developing for mobile platforms (iOS, Android) is a plus.</p>
+<p>
+	What we offer:</p>
+<ul>
+	<li>
+		Competitive salary with healthcare benefits</li>
+	<li>
+		A bright, modern workspace overlooking the NW Park Blocks</li>
+	<li>
+		An opportunity to make an impact with a small, highly productive team</li>
+	<li>
+		Paid holidays/personal time</li>
+</ul>
+<p>
+	We have kind, smart staff who enjoy making one another laugh and sharing accomplishment. We look forward to meeting you!</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/meridian/eLzYR5"></script>]]></buttons>
+		</job>
+	</jobs>

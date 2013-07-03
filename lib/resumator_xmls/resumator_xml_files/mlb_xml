@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[MLB.com]]></company>
+			<job>
+			<id><![CDATA[job_20130502205615_UJH5JGLCGQIDHX7Y]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[MLBAM - Technology]]></department>
+			<team><![CDATA[Khawam's Team]]></team>
+			<url><![CDATA[http://mlb.theresumator.com/apply/wo61HO/Software-Engineer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10011]]></postalcode>
+			<description><![CDATA[<p>
+<u>Software Engineer at MLB.com needed to work on MLB.tv Subscription Services</u></p>
+<p>
+Major League Baseball Advanced Media (MLB.com), the interactive and mobile division of Major League Baseball, is the developer of several award-winning products, Apps and services. Some of these include: MLB Gameday, MLB.TV, Fantasy Baseball, Beat the Streak, and the #1 sports app and a Hall of Fame inductee for iPhone, iPad and Macworld - MLB At Bat! We are also an industry leader in the development and distribution of live streaming video events over multiple platforms.</p>
+<p>
+We are looking for a Software Engineer with strong Java and SQL experience to extend our MLB.TV subscription services platform. &nbsp;Behind the scenes we support a vast number of web sites, mobile, tablet and set-top apps via a core set of APIs. &nbsp;Your Java development at MLB Advanced Media will be focused around: Streaming Video and Subscription Services. &nbsp;This hands-on positions provide instant gratification for any developer as the code you develop will be used daily by millions across the globe!</p>
+<p>
+This permanent positions is located in Chelsea Market, New York, NY.</p>
+<p>
+<strong>We truly believe we offer a unique opportunity for any technologist:</strong></p>
+<ul>
+<li>
+The opportunity to work on a bleeding edge technology stack</li>
+<li>
+The opportunity to work with a &quot;world-class&quot; team of Software Engineers</li>
+<li>
+The opportunity to work on award-winning and complex apps and systems</li>
+<li>
+The opportunity to have an influence on the innovation of products used globally by millions</li>
+<li>
+The opportunity to work in a highly collaborative team environment</li>
+<li>
+We offer a cool, casual, dynamic, creative and fun multimedia environment in an awesome location</li>
+<li>
+Amazing benefits including - 100% employer-paid Medical, Dental and Vision and company funded Pension Plan.</li>
+</ul>
+<p>
+<strong>Must have experience:</strong></p>
+<ul>
+<li>
+Must be a very strong hands-on Java Developer with expert knowledge of object-oriented development</li>
+<li>
+Must be well versed in&nbsp;SQL</li>
+<li>
+Must have outstanding problem-solving skills</li>
+<li>
+Must be a self-learner and independent</li>
+<li>
+Must have excellent written and verbal communication skills</li>
+</ul>
+<p>
+<strong>Nice to have:</strong></p>
+<ul>
+<li>
+Service oriented architecture, web services design, SOAP and REST</li>
+<li>
+Experience with high load, highly scalable and distributed applications</li>
+<li>
+JMS, messaging and asynchronous processing design</li>
+<li>
+Experience with Information Security policies such as PCI DSS</li>
+<li>
+Payments or financial services industry experience a plus</li>
+<li>
+J2EE, Servlets/JSP, EJB, JUnit, Hibernate, Spring, Struts</li>
+<li>
+Deep knowledge of key object-oriented design patterns, data structures, algorithms, collections, and garbage collection</li>
+<li>
+Cloud computing experience</li>
+<li>
+Experience with Mongo, Cassandra or other&nbsp;NoSql solutions</li>
+</ul>
+<p>
+To all recruitment agencies: MLB Advanced Media does not accept agency resumes. Please do not forward resumes to our jobs alias or to MLB Advanced Media employees. MLB Advanced Media is not responsible for any fees related to unsolicited resumes.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/mlb/wo61HO"></script>]]></buttons>
+		</job>
+	</jobs>

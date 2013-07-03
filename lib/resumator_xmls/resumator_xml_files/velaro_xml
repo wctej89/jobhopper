@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Velaro]]></company>
+			<job>
+			<id><![CDATA[job_20100608140616_2LEKOX7RJNH3EYSU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Microsoft.net web developer]]></title>
+			<department><![CDATA[Velaro]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://velaro.theresumator.com/apply/zetARk/Microsoftnet-Web-Developer.html]]></url>
+			<city><![CDATA[Elkridge]]></city>
+			<state><![CDATA[MD]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[21075]]></postalcode>
+			<description><![CDATA[<h2>Job Description</h2>
+<p>The Application Developer will be responsible for many areas of  our product’s development. Including the on-going addition of new  features to our web-based control panel, our distributed server  applications, and our Winforms client applications. In addition, the  developer will also be responsible for troubleshooting existing  problems, testing and deployment.  <br /> <br /> We are looking for someone who has a passion for usability and thinks  they can make our products more user friendly and appealing to our  customer base.  <br /> <br /> Velaro provides a high-energy start-up environment where we take  concepts to construction to customers in very short time frames. Our  employees enjoy excellent benefits, competitive salaries, and growth  opportunities. <br /> <br /> Salary will be commensurate based on experience. At this time, the  company is only looking for candidates interested in full-time  employment and must be a U.S. citizen.</p>
+<h2>Skills</h2>
+<p>Successful candidates need development experience with  Microsoft server applications, knowledge of database applications, SQL  Server (preferably MSSQL 2005) and programming skills in csharp (C#),  ASP.NET 2.0, AJAX, ASPX, SQL, HTML, Javascript, and XML. Additional  preference will be given to applicants who have experience with the  DotNetNuke content management system, and full Winform client  application development. A related degree and excellent communication  and documentation skills are required. System security knowledge is a  plus.</p>
+<h2>Company Description</h2>
+<p>Velaro, inc provides one of the most recognized and powerful  web-based live help services on the market today. Our Software on Demand  service helps our customers increase sales and reduce support costs by  allowing them to immediately interact with website visitors in  real-time. Velaro’s web based chat services and real-time visitor  monitoring capabilities provide unique and powerful insight into our  customer’s web traffic. We’re seeking an experienced Web Based  Application Developer who’s interested in developing word class software  as a service application.</p>
+<h3>Additional Information</h3>
+<ul>
+<li>Local candidates only, no relocation (Baltimore,  Maryland Area).</li>
+<li>No third party applications.</li>
+</ul>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/velaro/zetARk"></script>]]></buttons>
+		</job>
+	</jobs>

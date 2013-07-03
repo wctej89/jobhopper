@@ -1,0 +1,269 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Analyte Health]]></company>
+			<job>
+			<id><![CDATA[job_20110405194432_A3C2IORVYU5VLPWR]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Developer]]></title>
+			<department><![CDATA[Technology]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://analytehealth.theresumator.com/apply/YEtIiX/Software-Developer.html]]></url>
+			<city><![CDATA[Chicago]]></city>
+			<state><![CDATA[IL]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[60654]]></postalcode>
+			<description><![CDATA[<p>
+Analyte Health is hiring developers at all experience levels to join the technology team in our Chicago office. Analyte Health is an on-line physician&#39;s practice using the power of the Internet to create convenient, private, and patient-focused medical care for our patients. We use our innovative approach to healthcare and technology to provide our patients with a level of care that has never been experienced through traditional outlets. We are looking for developers at all levels, but are especially interested in talking with web developers with more than 4 years of experience in building and maintaining consumer-facing web applications.</p>
+<p>
+Analyte is a fast growing company that has a proven product and customers who are happy to pay for it. We are a team of smart, talented, and dedicated people that work hard to serve our patients. We are looking to hire talented developers for our technology team to evolve our processes, build our technical expertise, and increase our development capacity.</p>
+<p>
+We employ a variety of technologies to deliver our vision. Our code is Python. Our websites are Django. We serve content using a mix of Apache, WSGI, memcached, MySQL, and RabbitMQ. We functional test our sites using Selenium and we unittest our code. We use open source solutions when available, and we open source our own technologies when appropriate.</p>
+<p>
+<strong>How we work</strong></p>
+<ul>
+<li>
+We cultivate a data-driven, results-driven, no bullshit culture that moves fast to deliver value to our patients as quickly as we can.</li>
+<li>
+We collaborate closely with business owners, internal clients, and designers.</li>
+<li>
+We use TDD practices with a focus on automation, dashboards, and continuous integration.</li>
+<li>
+We have regular, frequent deployments of new code to our production environments.</li>
+<li>
+We support and maintain our code in production. We are the front line support system.</li>
+<li>
+We play, we research, and we experiment to find the best tools for the job. We don&#39;t innovate for the sake of innovating, but we don&#39;t shy away from novel approaches.</li>
+</ul>
+<p>
+<strong>We are looking for developers at all experience levels who have</strong></p>
+<ul>
+<li>
+Built and maintained customer facing web applications.</li>
+<li>
+Worked with any MVC based web framework like Django, Rails, Servlets, or similar.</li>
+<li>
+Thrived in agile environments.</li>
+<li>
+Experience with the tools we use like fabric, RabbitMQ, Selenium, and memcached.</li>
+<li>
+Collaborated closely with clients, product owners, and other non-technical folks.</li>
+<li>
+A desire to work in a results-driven meritocracy.</li>
+<li>
+The willingness to debate with peers who are as talented and intelligent as you.</li>
+<li>
+A quality mindset, and a test-driven development habit.</li>
+<li>
+A demonstrated passion for advancing their own skills and knowledge.</li>
+</ul>
+<p>
+Analyte Health is a start-up with some great benefits: besides a great working environment and a great team, you&rsquo;ll have access to an array of insurance benefits, a 401(k) plan, and we&rsquo;ll get you whatever hardware and software you need to do amazing things for our patients.</p>
+<p>
+No recruiters, please....we can handle this.<br />
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/analytehealth/YEtIiX"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130115181334_QGGE7RJ8AG7YODUO]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[UI Software Developer]]></title>
+			<department><![CDATA[Technology]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://analytehealth.theresumator.com/apply/hfElyt/UI-Software-Developer.html]]></url>
+			<city><![CDATA[Chicago]]></city>
+			<state><![CDATA[IL]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[60661]]></postalcode>
+			<description><![CDATA[<p>
+Analyte Health is looking for user interface developers to join the technology team in our Chicago office. We are looking for developers at all levels but are especially interested in talking with front end web developers with several years of experience in building and maintaining consumer-facing web applications and user centered development. Strong skills with JavaScript, jQuery, semantic markup, HTML5, CSS3 with a MVC web framework (Servlets, Ruby on Rails, Django, etc.) will be a must. Agile development experience, responsive design experience, experience with Django/Python, and comfort with the Unix command line will all be big pluses.</p>
+<p>
+Responsibilities will include:</p>
+<ul>
+<li>
+implementing user interfaces for our Django-based web application using JavaScript, AJAX, HTML5, and CSS3 for our web and mobile experiences</li>
+<li>
+incorporating responsive design principles into new and existing product features</li>
+<li>
+incorporating progressive enhancement principles into implementation strategies</li>
+<li>
+rapid prototyping of new features and possible product directions</li>
+<li>
+collaborating with designers and product owners to design and improve products and features for our internal and external users</li>
+<li>
+collaborating with back end developers to implement features</li>
+<li>
+building reusable libraries and frameworks to simplify development and maintenance</li>
+<li>
+creating and implementing site wide standards for UI implementation strategies</li>
+<li>
+keeping up to date with evolving web standards and UI best practices</li>
+</ul>
+<p>
+Analyte Health is an on-line physician&#39;s practice using the power of the Internet to create convenient, private, and patient-focused medical care for our patients. We use our innovative approach to healthcare and technology to provide our patients with a level of care that has never been experienced through traditional outlets.</p>
+<p>
+Analyte is a fast growing company that has a proven product and customers who are happy to pay for it. We are a team of smart, talented, and dedicated people that work hard to serve our patients. We are looking to hire talented developers for our technology team to evolve our processes, build our technical expertise, and increase our development capacity.</p>
+<p>
+We employ a variety of technologies to deliver our vision. Our code is Python. Our websites are Django. We serve content using a mix of Apache, WSGI, memcached, MySQL, and RabbitMQ. We functional test our sites using Selenium and we unit test our code. We use open source solutions when available, and we open source our own technologies when appropriate.</p>
+<p>
+<strong>How we work</strong></p>
+<ul>
+<li>
+We cultivate a data-driven, results-driven, no bullshit culture that moves fast to deliver value to our patients as quickly as we can.</li>
+<li>
+We work in a fast paced, agile environment that values shipping code to production</li>
+<li>
+We collaborate closely with business owners, internal clients, and designers.</li>
+<li>
+We use TDD practices with a focus on automation, dashboards, and continuous integration.</li>
+<li>
+We have regular, frequent deployments of new code to our production environments.</li>
+<li>
+We support and maintain our code in production. We are the front line support system.</li>
+<li>
+We play, we research, and we experiment to find the best tools for the job. We don&#39;t innovate for the sake of innovating, but we don&#39;t shy away from novel approaches.</li>
+</ul>
+<p>
+<strong>We are looking for developers at all experience levels who have</strong></p>
+<ul>
+<li>
+Built and maintained customer facing web applications with JavaScript, AJAX, HTML5, and CSS3.</li>
+<li>
+Demonstrated skills with progressive enhancement (usable in IE 7, beautiful in IE 9)</li>
+<li>
+Worked with any MVC based web framework like Django, Rails, Servlets, or similar.</li>
+<li>
+Thrived in agile environments.</li>
+<li>
+A user centered approach to design and development of interfaces</li>
+<li>
+Collaborated closely with clients, product owners, and other non-technical folks.</li>
+<li>
+A desire to work in a results-driven meritocracy.</li>
+<li>
+The willingness to debate with peers who are as talented and intelligent as you.</li>
+<li>
+A quality mindset, and a test-driven development habit.</li>
+<li>
+A demonstrated passion for advancing their own skills and knowledge.</li>
+</ul>
+<p>
+Analyte Health is a start-up with some great benefits: besides a great working environment and a great team, you&rsquo;ll have access to an array of insurance benefits, a 401(k) plan, and we&rsquo;ll get you whatever hardware and software you need to do amazing things for our patients.</p>
+<p>
+No recruiters, please....we can handle this.</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/analytehealth/hfElyt"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130115181634_UO99EBIS5ZEMIGD7]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Quality Assurance Analyst]]></title>
+			<department><![CDATA[Technology]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://analytehealth.theresumator.com/apply/ziAb6o/Quality-Assurance-Analyst.html]]></url>
+			<city><![CDATA[Chicago]]></city>
+			<state><![CDATA[IL]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[60661]]></postalcode>
+			<description><![CDATA[<p>
+Analyte Health is hiring a QA Analyst to join our team here in Chicago and help with manual and automated testing, work closely with our Product and Engineering teams, and provide quality-related metrics and feedback into the technology and product roadmaps.</p>
+<p>
+Analyte Health is an on-line physician&#39;s practice using the power of the Internet to create convenient, private, and patient-focused medical care for our patients. We use our national footprint for coverage, our focus on specific conditions, and our access to top-flight doctors and medical resources to provide our patients with a level of care that has never been experienced through traditional outlets. Analyte is a fast growing company that has a proven product and customers who are happy to pay for it. We are a team of smart, talented, and dedicated people that work hard to serve our patients.</p>
+<p>
+Our focus is on automation and scaling our internal tools. We employ a variety of technologies to deliver our vision. Our code is Python. Our websites are Django. We functional test our sites using Selenium and we unit test our code. We use open source solutions when available, and we open source our own technologies when appropriate.</p>
+<p>
+<strong>How we work</strong></p>
+<ul>
+<li>
+We cultivate a data-driven, results-driven, no bullshit culture that moves fast to deliver value to our patients as quickly as we can.</li>
+<li>
+We collaborate closely with business owners, internal clients, and designers.</li>
+<li>
+We use TDD practices with a focus on automation, dashboards, and continuous integration.</li>
+<li>
+We focus on metrics for the system and the code, making sure we are always improving the old while delivering the new.</li>
+<li>
+We have regular, frequent deployments of new code to our production environments.</li>
+<li>
+We support and maintain our code in production. We are the front line support system.</li>
+<li>
+We play, we research, and we experiment to find the best tools for the job. We don&#39;t innovate for the sake of innovating, but we don&#39;t shy away from novel approaches.</li>
+<li>
+We improve the code, the process, the company, and ourselves.</li>
+</ul>
+<p>
+<strong>We are looking for a QA Analyst who has</strong></p>
+<ul>
+<li>
+Experience manually testing customer facing web applications including e-commerce systems (cross browser).</li>
+<li>
+Worked with Selenium or similar tools for functional tests and performance tests.</li>
+<li>
+A willingness to learn and contribute to both manual and automated testing efforts.</li>
+<li>
+Collaborated closely with clients, product owners, and other non-technical folks.</li>
+<li>
+Worked in a fast-paced agile environment.</li>
+<li>
+A desire to work in a results-driven meritocracy.</li>
+<li>
+The willingness to debate with peers who are as talented and intelligent as you.</li>
+<li>
+A demonstrated passion for advancing their own skills and knowledge.</li>
+</ul>
+<p>
+Analyte Health is a start-up with some great benefits: besides a great working environment and a great team, you&rsquo;ll have access to an array of insurance benefits, a 401(k) plan, and we&rsquo;ll get you whatever hardware and software you need to do amazing things for our patients.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/analytehealth/ziAb6o"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130521204955_D7OIKMMCRRRF5RMC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Web Analyst]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://analytehealth.theresumator.com/apply/wTUc3E/Senior-Web-Analyst.html]]></url>
+			<city><![CDATA[Chicago]]></city>
+			<state><![CDATA[IL]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[60661]]></postalcode>
+			<description><![CDATA[<p>
+Analyte Health is seeking a Senior Web Analyst to join the marketing team in our West Loop Chicago office. We are looking for a mid-level analyst who can organize data coming from our web properties, organize it into useful information, and derive actionable insights. This position will be integral in optimizing product, marketing, and eCommerce initiatives, which will support various forms of decision-making throughout the company. An ideal candidate will have a background in SEM/SEO, clickstream analysis, outcomes analysis, and multivariate testing. This position will work closely with our product and technology teams to collaboratively implement enhancements.<br />
+Responsibilities will include:<br />
+&bull; Track parameter implementations and website behavior, providing customer experience analysis<br />
+&bull; Document existing processes and creates plans to improve current processes<br />
+&bull; Consult on forecasting, business development, B2B, financial decision making and non-consumer directed marketing<br />
+&bull; Analyze, review, and support programs aimed at generating customer retention, maximizing lifetime customer value, and advocacy programs<br />
+&bull; Provide reporting and in-depth analysis of content marketing and partner campaigns websites to help guide development and make recommendations<br />
+&bull; Identify trends and issues in user experience, content usage, search performance, site abandonment, and underperforming areas of the website</p>
+<p>
+Analyte Health is an on-line physician&rsquo;s practice using the power of the Internet to create convenient, private, and patient-focused medical care for our patients. We believe that healthcare should be as convenient and accessible as anything else we buy and consume. As a team, we&rsquo;re a healthy mix of creative, IT developers, medical professions, and product developers. This is a great opportunity to directly impact high growth company working to revolutionize the US healthcare system.<br />
+What we are looking for:<br />
+&bull; Bachelor&rsquo;s degree or relevant work experience in marketing, business or a statistical field with five to seven years of experience<br />
+&bull; At least three years of experience in advanced web analytics methodologies experimentation, testing, competitive analysis, surveys, and market research<br />
+&bull; In-depth experience working with standard clickstream analysis tools (Omniture), Statistical software (SAS or SPSS), strong Excel knowledge, and ability to integrate with PowerPoint<br />
+&bull; Experience writing and tuning sql queries in an online or offline environment<br />
+&bull; Mid-level expertise in SEM/SEO/PPC strategies and ability to measure the success of those initiatives<br />
+&bull; A strong working knowledge of basic modeling, macros, automation and integration with databases, and developing and testing hypotheses<br />
+&bull; Excellent persuasive communication both verbally and written and effective collaboration skills while interact with all levels of end users<br />
+&bull; Ideal candidate would have experience within a start-up environment and/or with an online eCommerce business within a marketing related function<br />
+&bull; Healthcare experience is a plus<br />
+Analyte Health is a start-up with some great benefits: besides a great working environment and a great team, you have access to an array of insurance benefits, a 401(k) plan, access to the hardware and software you need to do amazing things for our patients.<br />
+No recruiters, please&hellip;we can handle this.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/analytehealth/wTUc3E"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Jobaline]]></company>
+			<job>
+			<id><![CDATA[job_20111211213335_GHVYXVWYPAU5A6PW]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[TESTING]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://jobaline.theresumator.com/apply/2TMHsf/TESTING.html]]></url>
+			<city><![CDATA[IRvine]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[92606]]></postalcode>
+			<description><![CDATA[<p>
+	We are currently seeking a self-motivated developer who wants to be an integral part of the design and creation of an exciting multi-tier WPF application. The application is an enterprise application that requires strong Windows, Microsoft SQL, and WPF knowledge and will be deployed by several high-profile clients. Applicant must possess competencies to work in all phases of application design, development and documentation.</p>
+<p>
+	Job Requirements:<br />
+	4 years experience with at least 2 years in the following areas:<br />
+	&bull; Windows Forms and WPF programming in C#.<br />
+	&bull; Complex UI development using WPF in C#.<br />
+	&bull; ETL concepts and design in the context of Microsoft SQL Server.<br />
+	&bull; Writing complex SQL using LINQ and T-SQL stored procedures.<br />
+	&bull; T-SQL transaction model.<br />
+	&bull; Three-tier software design and implementation.<br />
+	&bull; Tuning SQL queries and schemas.<br />
+	&bull; WCF and interoperability with Web Services and T-SQL.<br />
+	&bull; Good source control (CVS, Subversion or other) knowledge, experience, and good software engineering principles<br />
+	&bull; 4 Year degree in a CS-related field or equivalent competency.</p>
+<p>
+	Other Skills:<br />
+	&bull; Strong technical and analytical skills<br />
+	&bull; Strong knowledge of applicable methodologies, tools, standards, and procedures<br />
+	&bull; Strong interpersonal skills<br />
+	&bull; Strong organizational and problem solving abilities<br />
+	&bull; Strong verbal and written communication skills &nbsp;</p>
+]]></description>
+			<type><![CDATA[Temporary to Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/jobaline/2TMHsf"></script>]]></buttons>
+		</job>
+	</jobs>

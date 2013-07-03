@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[PrePlay]]></company>
+			<job>
+			<id><![CDATA[job_20130405101043_RNZCINAUALDAEP2V]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Ruby Developer]]></title>
+			<department><![CDATA[Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://preplay.theresumator.com/apply/lF4ZiD/Senior-Ruby-Developer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+PrePlay is an NYC-based tech company with 20 employees. Right now we work with amazing partners like the NHL and MLB&nbsp;to create predictive game titles for mobile that enable fans to predict every play of every game. Not too long<br />
+from now, there won&#39;t be a major sporting or TV event you can&#39;t predict live with an app we built or enabled through our platform.<br />
+<br />
+<strong>Title:</strong><br />
+Platform engineer<br />
+<br />
+<strong>Key responsibilities:</strong></p>
+<ul>
+<li>
+Work closely with developers to build high performance, highly-available systems</li>
+<li>
+Design and architect systems which will be used by millions of people on release</li>
+<li>
+Analyze and strengthen existing infrastructure to minimize MTTR and application response times</li>
+<li>
+Build resilient new systems for emerging services</li>
+<li>
+Participate in out 24/7 on-call rotation in case something goes wrong</li>
+</ul>
+<p>
+<br />
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+Knowledge of mobile apps</li>
+<li>
+Strong knowledge of Ruby</li>
+<li>
+Strong knowledge of Ruby performance characteristics, experience optimizing a Ruby application</li>
+<li>
+Strong understanding of operating system concepts: sockets, syscalls, memory management, scheduling&hellip;</li>
+<li>
+Test driven development experience</li>
+<li>
+Open-source projects contributions</li>
+<li>
+Git and Github proficiency</li>
+<li>
+Experience in Linux, MongoDB, Redis</li>
+<li>
+Experience building and using RESTful APIs</li>
+<li>
+Strong understanding of object-oriented design and software development principles</li>
+<li>
+Strong understanding of web-based architecture (web servers, load balancing, caching, databases, replication, etc.)</li>
+<li>
+Working knowledge of JavaScript and other web technologies (XHTML, CSS, Ajax, JQuery, etc.)</li>
+<li>
+Experience with Agile development methodologies (scrum or XP)</li>
+<li>
+Self-starter with strong self-management skills</li>
+</ul>
+<p>
+<br />
+<strong>Bonus points for:</strong></p>
+<ul>
+<li>
+Startup experience</li>
+<li>
+Native mobile or Rubymotion knowledge / development experience</li>
+<li>
+Experience developing real time web/mobile applications</li>
+<li>
+Devops skills</li>
+<li>
+Sharded Mongdb administration experience</li>
+<li>
+Ember.js &amp; CoffeeScript development experience</li>
+<li>
+Having developed against and deployed on alternative Ruby implementations</li>
+<li>
+Advanced monitoring &amp; administration on a Heroku-deployed app</li>
+<li>
+You like to travel, especially in France</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Some other things you may want to know about us:</strong></p>
+<ul>
+<li>
+We use source control</li>
+<li>
+We can make a build in one step</li>
+<li>
+We make daily builds &amp; practice continuous deployment</li>
+<li>
+We have a bug database</li>
+<li>
+We fix bugs before writing new code</li>
+<li>
+We have a spec</li>
+<li>
+We have testers</li>
+<li>
+We use the best tools money can buy</li>
+<li>
+New candidates will write code durring their interview</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/preplay/lF4ZiD"></script>]]></buttons>
+		</job>
+	</jobs>

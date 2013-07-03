@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Forkfly]]></company>
+			<job>
+			<id><![CDATA[job_20110215214225_VFA7TJV3VH8XH6HL]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Web Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://forkfly.theresumator.com/apply/TlUUhI/Senior-Web-Developer.html]]></url>
+			<city><![CDATA[Portland]]></city>
+			<state><![CDATA[OR]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[97209]]></postalcode>
+			<description><![CDATA[<p>
+Here at ForkFly we believe that fun and productivity go hand-in-hand. Founded in Portland, OR in early 2009, ForkFly is a small, close-knit business comprised of dedicated employees who are passionate about our product and the ForkFly brand. What do we do? We help merchants and other small businesses choose, manage, and optimize their online and offline advertising options. ForkFly was one of the first mobile &quot;deal&quot; apps in the App Store, and we have since expanded to offer access to other social media and mobile-based advertising platforms. When merchants think about advertising, we want ForkFly&nbsp;to be their trusted partner.&nbsp;</p>
+<p>
+<strong>The Position</strong></p>
+<p>
+The Senior Web Developer will be responsible for taking ownership of new features and/or support tickets from inception to release. Attention to detail and operating with little supervision is a must, as is strong development skills. On a day-to-day basis you will be working within the existing ForkFly Platform making it better, stronger, and tougher. A generalist at heart, you can easily work across the multifaceted ForkFly&nbsp;architecture and dive deep when it is required. &nbsp;</p>
+<p>
+You&#39;ll participate in strategy sessions and will have a voice in prioritizing our development queue. You&#39;ll also be tasked with helping devise a build/deploy strategy and help usher in test driven development practices. &nbsp;Position is primarily in-office but our work-from-home policy gives lots of flexibility to the developers.</p>
+<p>
+We offer a fun work environment in a spacious Old Town location with easy public transit access and plenty of bike parking. &nbsp;</p>
+<p>
+<strong>Professional Requirements</strong></p>
+<ul>
+<li>
+Expert PHP developer (both OOP and scripting), MySQL exp&eacute;rience, preferably with the Symfony framework.</li>
+<li>
+Expert proficiency in the LAMP environment</li>
+<li>
+Ability to troubleshoot existing PHP-based Symfony framework</li>
+<li>
+Skilled with MVC frameworks, especially Symfony</li>
+<li>
+Must be comfortable working in a team environment and have a can-do attitude.</li>
+<li>
+Proficiency in relational database systems (MySQL) and fluent in SQL</li>
+<li>
+Comfortable using Subversion/Git&nbsp;</li>
+</ul>
+<p>
+<strong>Ideal candidate will also have the following skills:</strong></p>
+<ul>
+<li>
+&nbsp;Jquery</li>
+<li>
+&nbsp;MongoDb</li>
+<li>
+&nbsp;CSS/XHTML</li>
+<li>
+&nbsp;Linux System Administration</li>
+<li>
+&nbsp;Ant/Hudson (or similar build system)</li>
+<li>
+&nbsp;Mobile development (iOS, Android)</li>
+</ul>
+<p>
+We focus more on what you have done and how you did it rather than degrees and years of experience. If you have preconceived notions of titles, you can throw those away. We often craft job descriptions around the rock-stars we hire.&nbsp;</p>
+<p>
+We are firm believers that what makes <em>great</em> product people stand out from the <em>good</em> are top-shelf communication&nbsp;skills. When applying, feel free to use the cover letter space to simply start a dialogue with us (i.e. throw out that canned cover letter).&nbsp;</p>
+<p>
+To work at ForkFly you must be creative, motivated, and an expert in your craft. The ability to collaborate with your team during intense situations and tight deadlines is a necessity. The ability to relax with your teammates afterwards is equally as important. We&#39;re a humble bunch that like to laugh. Happy hours and &quot;off-site&quot; meetings on Mt. Hood are standard fare at ForkFly. Care to join in the fun? We&#39;d love to hear from you.</p>
+<p>
+&nbsp;</p>
+<p>
+<em>To all recruitment agencies: Forkfly does not accept agency resumes. Please do not forward resumes to Forkfly employees. Forkfly is not responsible for any fees related to unsolicited resumes.&nbsp;</em></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/forkfly/TlUUhI"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110707170256_LETASHZIGK1PTWUI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Support Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://forkfly.theresumator.com/apply/jZgkqM/Support-Engineer.html]]></url>
+			<city><![CDATA[Portland]]></city>
+			<state><![CDATA[OR]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[97232]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>About Us</strong></p>
+<p>
+	Here at ForkFly we believe that fun and productivity go hand-in-hand. Founded in Portland, OR in early 2009,&nbsp;ForkFly&nbsp;is a small, close-knit business comprised of dedicated employees who are passionate about our product and the&nbsp;ForkFly&nbsp;brand. What do we do? We leverage social media networks, mobile technologies, and a creative distribution strategy to help small businesses find new customers and retain existing ones. We call it &quot;Marketing on the Fly&quot;! We have experienced significant growth and we&#39;re looking to expand our team.</p>
+<p>
+	<strong>About the Position</strong></p>
+<p>
+	ForkFly is looking for a self motivated team player to create and improve our software quality process according to industry best practices.&nbsp;&nbsp; The successful candidate will support our fast growing customer base and internal teams.<br />
+	<br />
+	The position requires the ability to methodically track down problems in production environments and clearly communicate the issue to the development team.&nbsp; In addition to technical skills, the position requires constant communication with developers, customers, and the sales staff. The successful candidate will take ownership of the issue and drive it to resolution.&nbsp;&nbsp;<br />
+	<br />
+	If you are a bright individual with a track record of innovation and excellence in testing, automation and support, we&#39;d love to hear from you.<br />
+	<br />
+	<br />
+	Demonstrable strengths in the following areas are required:<br />
+	<br />
+	Development of or for Test Automation frameworks using PHP or perl<br />
+	<br />
+	Strong Unix/Linux system admin skills.&nbsp; You will be responsible for maintaining the development and testing servers and investigating failures across our platform<br />
+	<br />
+	Task automation. You will be responsible for loading publisher content to the platform and enhancing the toolset that we currently use to do so.<br />
+	<br />
+	SQA Methodology, Test Planning, Test Case Design, Testing. This is a hands-on testing role, not just automation development.<br />
+	<br />
+	Bug fixes - You will be responsible for bug fixes and escalating issues to the development team and communicating the identified issues.<br />
+	<br />
+	<strong>Ideal Experience/Skills Desired:</strong><br />
+	Experience with LAMP application stack.<br />
+	Experience with MVC design pattern<br />
+	Excellent, creative problem-solving skills<br />
+	Solid PHP skills<br />
+	Experience with another programming language (Java, Perl)<br />
+	Very skilled with Hudson build tool<br />
+	<br />
+	We are firm believers that what makes <em>great</em> programmers stand out from the good are top-shelf communication&nbsp;skills. When applying, feel free to use the cover letter space to simply start a dialogue with us (i.e. throw out that canned cover letter).&nbsp;</p>
+<p>
+	To work at&nbsp;ForkFly&nbsp;you must be creative, motivated, and an expert in your craft. The ability to collaborate with your team during intense situations and tight deadlines is a necessity. The ability to relax with your teammates afterwards is equally as important. We&#39;re a humble bunch that like to laugh. Happy hours and &quot;off-site&quot; meetings on Mt. Hood are standard fare at&nbsp;ForkFly. Care to join in the fun? We&#39;d love to hear from you.</p>
+<p>
+	<em>To all recruitment agencies: Forkfly does not accept agency resumes. Please do not forward resumes to&nbsp;</em><em>ForkFly</em><em>&nbsp;employees.&nbsp;</em><em>ForkFly</em><em>&nbsp;is not responsible for any fees related to unsolicited resumes.&nbsp;</em></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/forkfly/jZgkqM"></script>]]></buttons>
+		</job>
+	</jobs>

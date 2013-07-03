@@ -1,0 +1,626 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Accretive Technology Group]]></company>
+			<job>
+			<id><![CDATA[job_20120425214428_HWLISOWZUDK5DVDF]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[IT Systems Administrator]]></title>
+			<department><![CDATA[Information Technology]]></department>
+			<team><![CDATA[Network Engineering]]></team>
+			<url><![CDATA[http://atg.theresumator.com/apply/vVP6hU/IT-Systems-Administrator.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98121]]></postalcode>
+			<description><![CDATA[<p>
+If you are a person who really understands the meaning of self-determination and ownership, and you operate on the premise of &ldquo;what else can I do and take on&rdquo; in order to make a positive impact on our company, well, then you will truly feel comfortable here.  </p>
+<p>
+ACCRETIVE TECHNOLOGY GROUP, Inc. is seeking a knowledgeable IT Systems Administrator.</p>
+<p>
+The position of IT Systems &nbsp;Administrator supports all aspects of the company&rsquo;s corporate IT environment, ensuring it functions efficiently and provides all employees with access to corporate applications and services.</p>
+<p>
+Duties Include: </p>
+<p>
+ &bull; Hands-on support of an MS Windows server-based infrastructure that serves all employees with access to business applications and services; Application environment support includes but is not limited to: &nbsp;<br />
+&nbsp; &bull; MS Windows 2008 R2 <br />
+&nbsp; &bull; MS Exchange 2010 <br />
+&nbsp; &bull; MS SharePoint 2010 <br />
+&nbsp; &bull; MS SQL Server 2008 R2</p>
+<p>
+&bull; Desktop Support of MS Windows clients<br />
+&bull; Responding to and Resolving of Help Desk Tickets <br />
+&bull; VOIP Management<br />
+ &bull; Maintaining thorough and accurate documentation<br />
+ &bull; Physically trace wall ports to patch panels to switch boards<br />
+&bull; Connect workstations, printers and servers to wall ports<br />
+&bull;&nbsp;Configure enterprise switch interfaces: VLANS, admin shut/no shut, speed/duplex, descriptions <br />
+&bull; Configure workstations and servers for&nbsp; IPv4 and IPv6 networking <br />
+&bull; Troubleshoot enterprise network issues using ping, traceroute, and the NMS<br />
+&bull; Building of new IT systems<br />
+&bull; Training of new IT staff</p>
+<p>
+Required Skills:<br />
+&bull; 3+ years working as a PC desktop technician in a MS Windows environment <br />
+&bull; Demonstrated working knowledge of MS Windows 7/Vista/XP<br />
+ &bull; Strong Customer Service work ethic <br />
+&bull; Enterprise-level networking knowledge<br />
+&bull; Ability to work independently on assigned projects <br />
+&bull; Ability to learn quickly<br />
+ &bull; Exceptional analytic and problem-solving skills<br />
+ &bull; Excellent verbal and written communication skills <br />
+&bull; Ability to lift 40 to 50 pounds of equipment</p>
+<p>
+Desired Skills <br />
+&bull; Linux installation and desktop support<br />
+ &bull; Mac OS X installation and desktop support <br />
+&bull; Experience developing system images for desktop deployment</p>
+<p>
+Accretive Technology Group, Inc. is an Equal Employment Opportunity employer. All qualified candidates will receive consideration for employment without regard to race, color, religion, sex, or national origin. We offer a competitive salary and a full list of benefits, including health, vision, dental and life insurance, 401k with vested match and bus pass or partially subsidized parking.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/atg/vVP6hU"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120924231612_AFQT6FJUULPKEKS0]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Linux Systems Administrator]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[IS]]></team>
+			<url><![CDATA[http://atg.theresumator.com/apply/ilezif/Linux-Systems-Administrator.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98121]]></postalcode>
+			<description><![CDATA[<p>
+Linux Systems Administrator (Belltown)<br />
+We&#39;re a ~160 person strong, lean internet and web presence in Seattle that prides itself on open-source and DIY thinking and ability. We don&#39;t use like to use fancy vendors; we build things ourselves. We&#39;re an established, 15 year old, privately owned, stable, and profitable company.</p>
+<p>
+Our team is a group of talented operations engineers with a large amount of large scale web and systems experience. We believe that the most challenging problems are best solved with KISS philosophy and a cold beer.</p>
+<p>
+If you enjoy building creative solutions with open source platforms to solve challenging and difficult problems, we&#39;d love to hear from you.</p>
+<p>
+Requirements:<br />
+- Strong familiarities with some of the following:<br />
+&nbsp;&nbsp; &bull;IPVS, keepalived, and distributed web environments.<br />
+&nbsp;&nbsp; &bull;MySQL, replication, and dealing with large datasets.<br />
+&nbsp;&nbsp; &bull;Puppet and configuration management concepts.<br />
+&nbsp;&nbsp; &bull;BASH, python, or perl and useful command line utilities.<br />
+&nbsp;&nbsp; &bull;XFS, Gluster, GFS, DRBD, Ceph, Hadoop.</p>
+<p>
+- A very good sense of humor. (We&#39;ll make fun of your mom. A lot.)<br />
+- Being self-driven when solving problems. We throw you in the technical deep end to see if you can swim.<br />
+- Ability and experience count much more than certifications or college degrees. Can you implement the knowledge you have? Quickly? Creatively? With duct tape?</p>
+<p>
+Responsibilities:<br />
+- Deal with daily operations engineering tasks ranging anywhere from server administration to advising developers on best practices.<br />
+- Continuously improve our systems! We&#39;re primarily LAMP, but run complex implementations of things like Puppet, Redis, and ElasticSearch.<br />
+- Be able to quickly troubleshoot and fix large distributed web-scale issues that are common to high traffic companies.<br />
+- Participate in a 3-tier on-call rotation (1 out of every 6 weeks).</p>
+<p>
+We offer very competitive pay, medical/dental/vision benefits, profit sharing, 401k, flex-time, and a very fun work environment.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/atg/ilezif"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121217174940_GXTDR2WGCBKGNYLF]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[MySQL Database Administrator]]></title>
+			<department><![CDATA[Research and Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://atg.theresumator.com/apply/DU659J/MySQL-Database-Administrator.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98121]]></postalcode>
+			<description><![CDATA[<h2>
+The Company</h2>
+<p>
+Accretive Technology Group is a leader in building web based video chat systems. We connect millions of people around the world requiring 24/7 uptime. We are located in downtown Seattle and have been in business for 14 years, have over 130 employees and need to add more employees to help us grow and improve our services.</p>
+<h2>
+The Position</h2>
+<p>
+We are looking for an intermediate MySQL Database Administrator who can maintain and tune our production database environment.</p>
+<h2>
+Responsibilities</h2>
+<ul>
+<li>
+Monitor and performance-tune production database systems</li>
+<li>
+Ensure maintenance, system integrity, capacity, scalability and space requirements for database environments are met</li>
+<li>
+Facilitate transition from an existing MySQL infrastructure to MySQL Cluster</li>
+<li>
+Manages the overall operation of the database uptime</li>
+<li>
+Performs analysis of database version upgrades to determine applicability for system upgrades</li>
+<li>
+Works with Development group to understand impacts version upgrades may have on application/services</li>
+<li>
+Maintains DB backups</li>
+<li>
+Recovers from DB crashes or data corruption</li>
+<li>
+Works with developers&nbsp;to reconcile data (determine if data is missing or inaccurate)</li>
+<li>
+Collaborate directly with developers to review database designs, indexes and queries and provide guidance for optimal performance</li>
+<li>
+Evaluate, review and execute DDL and DML statements in the production environment</li>
+</ul>
+<h2>
+Qualifications</h2>
+<ul>
+<li>
+Must be a local candidate</li>
+<li>
+4+ years of experience with databases in a production environment</li>
+<li>
+Previous experience with high transaction and 50+ database server environments</li>
+<li>
+Knowledge of various database replication and clustering methods</li>
+<li>
+Expert knowledge of MySQL 5.1+ and the MyISAM and InnoDB storage engines</li>
+<li>
+Experience in database backup, restore and disaster recovery procedures</li>
+<li>
+Experience with analyzing and tuning databases for performance and efficiency</li>
+<li>
+Skills in at least one of the following: Shell Scripting, Perl or PHP</li>
+<li>
+Expert troubleshooting skills and abilities</li>
+<li>
+Ability to effectively interface and communicate with engineering teams</li>
+</ul>
+<h2>
+Nice to have</h2>
+<ul>
+<li>
+Experience with multiple database platforms</li>
+<li>
+MySQL DBA, MySQL Developer and MySQL Cluster Certifications</li>
+<li>
+Knowledge of and/or previous experience with Linux or UNIX</li>
+</ul>
+<p>
+Accretive Technology Group is an equal opportunity employer. We offer a competitive salary, 100% employer paid medical, vision and dental insurance, 401k with 50% match, free transportation passes/subsidized parking and a profit sharing program. Addtional perks include: catered lunches, bagel/fruit Fridays, free coffee, tea, monthly team events&nbsp; and company paid events like trips to Europe, Brazil, Tahiti, Disneyland, cruises, paintball, family picnics, holiday dinners/parties and more.</p>
+<p>
+Apply today and join our team.</p>
+<p>
+To Apply: Please submit your resume and optional cover letter via Resumator.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/atg/DU659J"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130312180205_XLWILQSFN3BTJ3KK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Experienced Software Developer]]></title>
+			<department><![CDATA[Web Products - Advertising]]></department>
+			<team><![CDATA[Web Products]]></team>
+			<url><![CDATA[http://atg.theresumator.com/apply/BYEVRZ/Experienced-Software-Developer.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98121]]></postalcode>
+			<description><![CDATA[<p>
+Are you an excellent software developer that likes to work with other people?&nbsp;<span style="font-size: 12px;">Are you familiar with internet advertising?</span></p>
+<p>
+Were building an advertising platform for the use of our internal and external partners. We&#39;re already serving ads from this platform -- 150MM/day across 100&#39;s of sites. We&#39;re in the process of developing ad intelligence systems that make our advertisting super-optimized and super-smart to squeeze the most value from our partners advertising dollars.&nbsp;</p>
+<p>
+LEAD SOFTWARE DEVELOPER</p>
+<p>
+<strong>As a software developer on our team you will:</strong></p>
+<ul>
+<li>
+Lead a small team of software developers in systems development</li>
+<li>
+Participate in requirements gathering, project scoping, and task estimation.</li>
+<li>
+Design, develop, deploy, manage and maintain portions of high-volume 24x7 web sites</li>
+<li>
+<span style="font-size: 12px;">Come up with ideas on how to improve existing software (tools, technologies, refactoring)</span></li>
+<li>
+Clearly articulate your ideas and thoughts verbally and in writing</li>
+<li>
+Balance priorities and meet deadlines</li>
+<li>
+Inspire, mentor, and build your team.</li>
+</ul>
+<p>
+<strong>Required skills</strong></p>
+<ul>
+<li>
+Prior team leadership -- you should know when to code and when to leverage your team.</li>
+<li>
+5+ years&rsquo; experience developing with an object-oriented language</li>
+<li>
+Experience debugging, improving, and refactoring distributed web-based applications.</li>
+<li>
+Experience with SQL (mysql) and NoSQL databases.</li>
+<li>
+Experience developing in a UNIX environment</li>
+<li>
+Excellent communication, project and task&nbsp;planning skills</li>
+<li>
+Bachelor&rsquo;s degree in CS or related technical field or comparable experience</li>
+</ul>
+<p>
+<strong>Who are we?</strong></p>
+<p>
+Accretive Technology Group is a leader in building web based video chat systems connecting millions of people around the world. We are located in downtown Seattle, have been in business for more than 14 years and employ 130+ people and growing steadily. We have strong leadership that knows where the company needs to expand and need more employees to realize our goals. We offer a competitive salary, 100% employer paid medical, vision and dental insurance, 401(k) with 50% match, parking subsidy or paid bus pass, and profit sharing with no vesting period. Additional perks include: bagel/fruit Fridays, monthly team events, company paid vacations, paintball, family picnics, holiday dinners parties and more.</p>
+<p>
+<span style="font-size: 12px;">Accretive Technology Group is an Equal Employment Opportunity employer. All qualified candidates will receive consideration for employment without regard to race, color, religion, sex, or national origin.</span></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/atg/BYEVRZ"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130418195246_YMWVGSRTEDMKMZPV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Developer - Web]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Web Products]]></team>
+			<url><![CDATA[http://atg.theresumator.com/apply/Hfnxet/Software-Developer-Web.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98121]]></postalcode>
+			<description><![CDATA[<p>
+Accretive Technology Group is a leader in building web based video chat systems connecting millions of people around the world. We are located in downtown Seattle, have been in business for more than 14 years and employ 130+ people and growing steadily. We have strong leadership that knows where the company needs to expand and need more employees to realize our goals. We offer a competitive salary, 100% employer paid medical, vision and dental insurance, 401(k) with 50% match, parking subsidy or paid bus pass, and profit sharing with no vesting period. Additional perks include: bagel/fruit Fridays, monthly team events, company paid vacations, paintball, family picnics, holiday dinners parties and more.</p>
+<p>
+SOFTWARE DEVELOPER - WEB</p>
+<p>
+An ideal developer for this role will have solid fundamentals in computer science and OO software development. You will also have some experience in the development of web-based systems using technologies like PHP, Javascript, Ajax, mysql, HTML. You&#39;re willing to work with and learn from others in a quirky, hijinx filled environment.</p>
+<p>
+<strong>You will:</strong></p>
+<ul>
+<li>
+Work with business folks, project managers, and lead developers to understand your development tasks.</li>
+<li>
+Design and code features using PHP, mysql, nosql, Javascript, and HTML.</li>
+<li>
+Carefully deploy features to our high-volume 24x7 web sites.</li>
+<li>
+Debug and refactor portions of code; provide back-line support to our users.</li>
+<li>
+Work with teammates to learn about our business, our software, and how we do development.</li>
+<li>
+Think creatively, communicate respectfully, and support your teammates.</li>
+<li>
+Balance priorities and meet deadlines</li>
+</ul>
+<p>
+<strong>Required skills</strong></p>
+<ul>
+<li>
+2+ years&rsquo; experience developing with an object-oriented language</li>
+<li>
+Experience with PHP strongly preferred; must be willing to work in PHP</li>
+<li>
+Experience developing distributed web-based applications preferred</li>
+<li>
+Experience debugging, improving, and refactoring large software systems</li>
+<li>
+Experience with RDBMS, SQL (MySQL preferred)</li>
+<li>
+2+ years with JavaScript, Ajax, HTML, CSS experience preferred</li>
+<li>
+Experience developing in a UNIX environment</li>
+<li>
+Strong CS fundamentals -- BS/CS or related CS experience.</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/atg/Hfnxet"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130427012426_B3SOVQB5NGZQ1G5J]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Lead Developer in Test]]></title>
+			<department><![CDATA[Software Quality Assurance]]></department>
+			<team><![CDATA[QA]]></team>
+			<url><![CDATA[http://atg.theresumator.com/apply/NGm0kr/Lead-Developer-In-Test.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98121]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Our Company</strong></p>
+<p>
+Accretive Technology Group is a leader in building web based video chat systems connecting millions of people around the world. We are located in downtown Seattle, have been in business for more than 14 years, employ 130+ people and growing steadily. We have strong leadership that knows where the company needs to expand and need more employees to realize our goals. We offer a competitive salary, 100% employer paid medical, vision and dental insurance, 401(k) with 50% match, parking subsidy or paid bus pass, and profit sharing with no vesting period. Additional perks include: bagel/fruit Fridays, monthly team events, company paid vacations, family picnics, holiday dinners parties and more.</p>
+<p>
+<strong>The Role</strong></p>
+<p>
+We are seeking a Lead SDET to lead a small, but growing group of SDETs to create test automation for our product suite. You will be designing and developing test automation frameworks, tools and reporting that may be based upon proprietary implementations, as well as open source test solutions. You will be delivering solutions for smaller functional areas, as well as end-to-end solutions for UI, backend, performance and reliability, among other areas. You enjoy working in a dynamic and fast-paced environment.</p>
+<p>
+Our platform is built upon Linux and Apache, MySQL and PHP. Our clients include Windows and Mac OS, using all flavors of browsers. We have expanded into mobile technologies such as Android phone and tablets and Apple iOS devices.</p>
+<p>
+We are an agile shop operating on two week iterations.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Manages the day-to-day activities of the team</li>
+<li>
+Creates task breakdowns based on product and project requirements</li>
+<li>
+Assigns work to team and monitors progress</li>
+<li>
+Works with SQA Manager, Software Development Manager and/or Project Manager to adjust plans as needed</li>
+<li>
+Directs automation design and writes production-quality code</li>
+<li>
+Ability to partner cross-team (development and test) to improve test automation</li>
+<li>
+Define and advocate testability for areas of focus</li>
+<li>
+Participates in long range planning for new projects</li>
+</ul>
+<p>
+<strong>Qualifications</strong></p>
+<ul>
+<li>
+At least 7 years experience developing software in various languages, such as Java, PHP and/or Perl</li>
+<li>
+Experience building automated test solutions upon proprietary or open test solutions (e.g. Selenium)</li>
+<li>
+Passion for excellence in software development processes</li>
+<li>
+Strong interpersonal skills with emphasis on verbal and written communication</li>
+<li>
+Ability to solve problems quickly and completely</li>
+</ul>
+<p>
+Accretive Technology Group, Inc. is an Equal Employment Opportunity employer. All qualified candidates will receive consideration for employment without regard to race, color, religion, sex, or national origin.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/atg/NGm0kr"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130517160108_SRLZEKGNJE2NIQCT]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Lead Software Developer]]></title>
+			<department><![CDATA[Billing and Tools]]></department>
+			<team><![CDATA[Billing and Tools]]></team>
+			<url><![CDATA[http://atg.theresumator.com/apply/2X4blO/Lead-Software-Developer.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98121]]></postalcode>
+			<description><![CDATA[<h2>
+The Company</h2>
+<p>
+Accretive Technology Group is a leader in building web based video chat systems. We connect millions of people around the world requiring 24/7 uptime. We are located in downtown Seattle and have been in business for 14 years, have over 100 employees and need to add more employees to help us grow and improve our services.</p>
+<p>
+We offer a competitive salary, 100% employer paid medical, vision and dental insurance, 401k with 50% match, subsidized transportation passes/parking and a profit sharing program. Additional perks include: catered lunches, bagel/fruit Fridays, free coffee, tea, monthly team events and company paid events like trips to Europe, Brazil, Tahiti, Disneyland, cruises, paintball, family picnics, holiday dinners/parties and more.</p>
+<h2>
+The Position</h2>
+<p>
+The Billing and Tools team is looking for a<strong>&nbsp;lead level software developer.&nbsp;</strong>&nbsp;This individual will lead a team of 2 to 6 developers in migrating our existing billing system to PHP while documenting, making improvements and adding new features as required.</p>
+<p>
+You must be comfortable taking initiative and working across teams in an agile environment. Our developers love working as a team and proactively take the lead whenever necessary.</p>
+<p>
+Technologies we use: &nbsp;PHP, Perl and SQL (MySql).</p>
+<h2>
+Responsibilities</h2>
+<ul>
+<li>
+Reports to Software Development Manager</li>
+<li>
+Leads a team of 2-6 software developers</li>
+<li>
+Understands the high-level product, project, and organizational goals affecting the team</li>
+<li>
+Acts as a subject matter expert (SME) for their area of focus</li>
+<li>
+Participates in long range planning for new projects</li>
+<li>
+Leads the design and development of applications to meet functional and non-functional requirements for their area of focus</li>
+<li>
+Manages the day-to-day activities of the team
+<ul>
+<li>
+Creates task breakdowns based on product and project requirements</li>
+<li>
+Assigns work to team and monitors progress</li>
+<li>
+Works with Software Development Manager and/or Project Manager to adjust plans as needed</li>
+<li>
+Ensures that team members coordinate across teams, when required by a software change.</li>
+<li>
+Performs design and code reviews</li>
+<li>
+Maintain standards compliance</li>
+<li>
+Provides performance feedback to team members</li>
+</ul>
+</li>
+<li>
+Performs system design and writes production code*</li>
+<li>
+Perform administrative duties such as
+<ul>
+<li>
+Authorize vacations</li>
+<li>
+Recommends, to management, the performance ratings for team members</li>
+<li>
+Participates in hiring/firing decisions</li>
+</ul>
+</li>
+<li>
+Participates in defining and optimizing our software development process and best practices</li>
+<li>
+Researches and recommends software tools as needed to improve efficiency and/or capabilities of team</li>
+<li>
+Mentors other developers</li>
+<li>
+Strong and effective inter-personal and communication skills and the ability to interact professionally</li>
+</ul>
+<p style="margin-left: 40px;">
+* (NOTE: requirement, not a duty)</p>
+<h2>
+Qualifications</h2>
+<ul>
+<li>
+<strong><u>Must be local to Washington State</u></strong></li>
+<li>
+2+ years leading and mentoring developers</li>
+<li>
+2+ years as a team lead managing tasks and backlog within a structured SDLC</li>
+<li>
+6+ years professional experience developing software. Ideally in PHP but it doesn&#39;t need to be PHP.</li>
+<li>
+Hands on experience using UML to describe&nbsp;designs and/or interactions</li>
+<li>
+Must have strong object oriented design and coding skills</li>
+<li>
+Strong interpersonal skills with emphasis on verbal and <u>written communication</u></li>
+<li>
+Ability to solve problems quickly and completely</li>
+</ul>
+<p>
+Accretive Technology Group is an Equal Employment Opportunity employer. All qualified candidates will receive consideration for employment without regard to race, color, religion, sex, or national origin.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/atg/2X4blO"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130613235534_4Z3IDTJNVPL40JN9]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sr. Linux Systems Administrator]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[IS]]></team>
+			<url><![CDATA[http://atg.theresumator.com/apply/nFOEZO/Sr-Linux-Systems-Administrator.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98121]]></postalcode>
+			<description><![CDATA[<p>
+Accretive Technology Group (ATG) has provided live streaming content to hundreds of millions of users over the past decade. Privately owned with 160 employees, and growing, ATG has proven a fun and challenging place to work based on retention and product quality. ATG offers competitive pay, medical/dental/vision benefits, profit sharing, and 401k (with vested matching!).</p>
+<p>
+We perform the duties of Systems Administration, Operations, and Engineering on a daily basis. We maintain 1200+ servers - mostly running Linux, the rest FreeBSD - supporting millions of users every single day. Our web infrastructure is large scale and the amount of data we handle is astonishing. We pride ourselves on using open-source products and DIY thinking and ability.</p>
+<p>
+It is a must that you:</p>
+<ul>
+<li>
+are self-driven</li>
+<li>
+have configuration management experience (Puppet, Chef, etc.)</li>
+<li>
+have experience with load balancing solutions, preferably keepalived/IPVS</li>
+<li>
+have a sense of humor</li>
+<li>
+can solve problems using a scripting language (Bash, Perl, Python, etc)</li>
+<li>
+play well with others</li>
+</ul>
+<p>
+Your responsibilities will vary from:</p>
+<ul>
+<li>
+designing scalable systems</li>
+<li>
+continuously improve existing systems</li>
+<li>
+mentoring and training our more junior staff</li>
+<li>
+advising developers on best practices</li>
+</ul>
+<p>
+It can at times be stressful but as a group we have a lot of fun together. Group activites include regular team breakfasts, game nights, whirleyball, and of course happy hour.</p>
+<p>
+Salary range $95,000 - $105,000 based on experience.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/atg/nFOEZO"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130703161236_8FYM9HSJERWBP9XW]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Backend application developer]]></title>
+			<department><![CDATA[Billing and Tools]]></department>
+			<team><![CDATA[Billing and Tools]]></team>
+			<url><![CDATA[http://atg.theresumator.com/apply/HDf8Az/Backend-Application-Developer.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98121]]></postalcode>
+			<description><![CDATA[<h2>
+The Company</h2>
+<p>
+Accretive Technology Group is a leader in building web based video chat systems. We connect millions of people around the world requiring 24/7 uptime. We are located in downtown Seattle and have been in business for 14 years, have over 100 employees and need to add more employees to help us grow and improve our services.</p>
+<p>
+We offer a competitive salary, 100% employer paid medical, vision and dental insurance, 401k with 50% match, subsidized transportation passes/parking and a profit sharing program. Additional perks include: catered lunches, bagel/fruit Fridays, free coffee, tea, monthly team events and company paid events like trips to Europe, Brazil, Tahiti, Disneyland, cruises, paintball, family picnics, holiday dinners/parties and more.</p>
+<h2>
+The Position</h2>
+<p>
+The Billing and Tools team is looking for a<strong>&nbsp;senior level software developer</strong>&nbsp;to create and enhance mission-critical backend applications using php, java, perl, MySQL and industry standard software tools; and has a comprehensive knowledge of concepts, practices, and procedures in software development.</p>
+<p>
+You must be comfortable taking initiative and working across teams in an agile environment. Our developers love working as a team and proactively take the lead whenever necessary.</p>
+<p>
+Technologies we use: &nbsp;PHP, Perl and SQL (MySql).</p>
+<h2>
+Responsibilities</h2>
+<ul>
+<li>
+Design, document, code and debug applications in PHP&nbsp;while adhering to our established best practices</li>
+<li>
+Assist in creating, maintaining and promoting best practices</li>
+<li>
+Assist&nbsp;lesser skilled developers with assignments through mentoring and code reviews</li>
+<li>
+Work with technical leadership to design and implement new applications and/or improvements to existing applications</li>
+<li>
+Ability to performance tune, debug&nbsp;and integrate with existing applications</li>
+<li>
+Develop and test new code to ensure logic and syntax are correct, and results are accurate</li>
+</ul>
+<h2>
+Qualifications</h2>
+<ul>
+<li>
+<strong><u>Must be local to Washington State</u></strong></li>
+<li>
+4+ years professional experience developing software. Ideally in PHP but it doesn&#39;t need to be PHP.</li>
+<li>
+Hands on experience using UML to describe&nbsp;designs and/or interactions</li>
+<li>
+Must have strong object oriented design and coding skills</li>
+<li>
+Strong interpersonal skills with emphasis on verbal and <u>written communication</u></li>
+<li>
+Ability to solve problems quickly and completely</li>
+<li>
+Must be detail orientated</li>
+<li>
+Database design experience in SQL and NoSQL</li>
+<li>
+Proficient in API Design</li>
+<li>
+Skilling in caching methods (in memory)</li>
+<li>
+Worked with Multi-data center and distributed data</li>
+</ul>
+<p>
+Accretive Technology Group is an Equal Employment Opportunity employer. All qualified candidates will receive consideration for employment without regard to race, color, religion, sex, or national origin.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/atg/HDf8Az"></script>]]></buttons>
+		</job>
+	</jobs>

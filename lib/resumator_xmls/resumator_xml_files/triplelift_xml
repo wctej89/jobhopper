@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Triple Lift]]></company>
+			<job>
+			<id><![CDATA[job_20120614055433_TLPRVH6SQLFPDU3P]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[UI Engineer (JavaScript/PHP)]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://triplelift.theresumator.com/apply/Qnfb7z/UI-Engineer-JavaScriptPHP.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10001]]></postalcode>
+			<description><![CDATA[<p><strong>What Triple Lift is:</strong></p><p>Triple Lift is a world-class advertising technology company fresh off a vc-funding round from some of the top VC firms. We&#39;ve built an enterprise marketing platform for Pinterest. From in-depth analytics and audience insights to user engagement and media buying, our goal is to help companies capitalize on the explosive growth of Pinterest. Our clients include top 10 agencies and some of the most sophisticated and innovative brands in the industry.&nbsp;We&#39;ve also been named one of the most promising new companies to watch in New York (<a href="http://thenextweb.com/microsoft-ie9/2012/06/01/new-york-tech-scene/">The Next Web</a>)</p><p><strong>What the UI team does:</strong></p><p>The UI team is responsible for our client-facing applications. We focus on writing blazing-fast, reusable Javascript that provides a consistent user experience across all pages and applications. All our UIs are built on top of the same REST APIs that are available to our clients to use and build upon. We build responsive, beautiful UIs and have a passion for data visualization.&nbsp;</p><p><strong>Who you are:</strong></p><p>You possess as much of a problem solving mindset as you do web development skills. You are hands-on when designing applications and comfortable with an iterative development process. You are happy releasing new code every day, so you&rsquo;re both fast and accurate with your code and confident in your work. You thrive on immediately seeing the results of your work and your team&rsquo;s and clients&rsquo; reaction to what you have created.</p><p><strong>Requirements:</strong></p><ul><li>2+ years experience writing production-level code on the client-side</li><li>HTML5, CSS3</li><li>Strong knowledge of jQuery</li><li>Love of data visualization</li></ul><p><strong>Nice to have:</strong></p><ul><li>Experience using PHP and an MVC framework</li><li>Knowledge of SVG</li></ul><p><strong>Benefits:</strong></p><ul><li>Competitive salary</li><li>Meaningful equity</li><li>Full medical, dental, and vision coverage</li><li>Generous paid time off</li><li>Whatever equipment you need to be productive</li><li>Regular social events in and around our office in Chelsea</li></ul>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/triplelift/Qnfb7z"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120625173706_X60LQ8F2MWEOK22R]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[API Engineer (PHP/SQL)]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://triplelift.theresumator.com/apply/Cxi5sU/API-Engineer-PHPSQL.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10001]]></postalcode>
+			<description><![CDATA[<p><strong>What Triple Lift is:</strong></p><p>Triple Lift is a world-class advertising technology company fresh off a vc-funding round from some of the top VC firms. We&#39;ve built an enterprise marketing platform for Pinterest. From in-depth analytics and audience insights to user engagement and media buying, our goal is to help companies capitalize on the explosive growth of Pinterest. Our clients include top 10 agencies and some of the most sophisticated and innovative brands in the industry.&nbsp;We&#39;ve also been named one of the most promising new companies to watch in New York (<a href="http://thenextweb.com/microsoft-ie9/2012/06/01/new-york-tech-scene/">The Next Web</a>)</p><p><strong>What the API team does:</strong></p><p>The API team is responsible for developing our public-facing REST API that powers our UI and the UIs that our clients build on top of ours. We focus on optimized code, data analysis, caching (and pre-fetching), and uptime. Our API is primarily built in PHP and has heavy SQL and memcached components.&nbsp;</p><p><strong>Who you are:</strong></p><p>You possess as much of a problem solving mindset as you do web development skills. You are hands-on when designing applications and comfortable with an iterative development process. You are happy releasing new code every day, so you&rsquo;re both fast and accurate with your code and confident in your work. You thrive on immediately seeing the results of your work and your team&rsquo;s and clients&rsquo; reaction to what you have created.&nbsp;</p><p><strong>Requirements:</strong></p><ul><li>2+ years experience writing production-level code on the server-side in PHP using MVC</li><li>Strong knowledge of SQL and data caching</li></ul><p><strong>Benefits:</strong></p><ul><li>Competitive salary</li><li>Meaningful equity</li><li>Full medical, dental, and vision coverage</li><li>Generous paid time off</li><li>Whatever equipment you need to be productive</li><li>Regular social events in and around our office in Chelsea</li></ul>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/triplelift/Cxi5sU"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120625185537_GJXLUTP0TIKQJBOS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Data Engineer (SQL/Hadoop)]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://triplelift.theresumator.com/apply/RS4SKE/Data-Engineer-SQLHadoop.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10001]]></postalcode>
+			<description><![CDATA[<p><strong>What Triple Lift is:</strong></p><p>Triple Lift is a world-class advertising technology company fresh off a vc-funding round from some of the top VC firms. We&#39;ve built an enterprise marketing platform for Pinterest. From in-depth analytics and audience insights to user engagement and media buying, our goal is to help companies capitalize on the explosive growth of Pinterest. Our clients include top 10 agencies and some of the most sophisticated and innovative brands in the industry.&nbsp;We&#39;ve also been named one of the most promising new companies to watch in New York (<a href="http://thenextweb.com/microsoft-ie9/2012/06/01/new-york-tech-scene/">The Next Web</a>)</p><p><strong>What the data team does:</strong></p><p>The data team is responsible for our data pipeline and analytics. We focus on creating actionable insights from large, structured data. The data team develops our analytics platform using SQL and Hadoop components and creates a caching infrastructure for our API and UI teams to interact with.&nbsp;</p><p><strong>Who you are:</strong></p><p>You possess as much of a problem solving mindset as you do software development skills. You are excited about the challenge of finding novel insights based on social networking behavior. You are hands-on when designing applications and comfortable with an iterative development process. You are happy releasing new code every day, so you&rsquo;re both fast and accurate with your code and confident in your work. You thrive on immediately seeing the results of your work and your team&rsquo;s and clients&rsquo; reaction to what you have created.&nbsp;</p><p><strong>Requirements:</strong></p><ul><li>Solid mathematics skills, such as&nbsp;calculating&nbsp;confidence intervals and interpolation</li><li>Strong knowledge of SQL, Hadoop&nbsp;and data caching</li></ul><p><strong>Benefits:</strong></p><ul><li>Competitive salary</li><li>Meaningful equity</li><li>Full medical, dental, and vision coverage</li><li>Generous paid time off</li><li>Whatever equipment you need to be productive</li><li>Regular social events in and around our office in Chelsea</li></ul>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/triplelift/RS4SKE"></script>]]></buttons>
+		</job>
+	</jobs>

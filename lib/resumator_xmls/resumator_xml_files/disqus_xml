@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[DISQUS]]></company>
+			<job>
+			<id><![CDATA[job_20100717002823_XUGDFRN2BDTR869K]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Frontend Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://disqus.theresumator.com/apply/9waOKk/Frontend-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94105]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Engineer on the JavaScript embed system</strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	Disqus is hiring a software engineer to work on the core community system, focusing on developing new features and expanding upon the Disqus platform. The engineering emphasis is on high performing, highly optimized client-side code.</p>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>What you&#39;ll be doing</strong></p>
+<p>
+	&nbsp;</p>
+<ul>
+	<li>
+		JavaScript development on the core system. This is a distributed system powering hundreds of thousands of communities.</li>
+	<li>
+		Architect and implement features which will be used by millions of people upon release (Disqus receives nearly 200 million unique visitors per month)</li>
+	<li>
+		Develop highly optimized, raw JavaScript without depending on external framework. Disqus doesn&#39;t distribute any external JavaScript libraries with the system, but we do use jQuery on the website.</li>
+	<li>
+		Use the newest web technologies and bend existing web technologies to accomplish new things. We love and use HTML5 features, but also ensure that Disqus works on the widest array of browsers possible</li>
+	<li>
+		Engineer solutions for cross-domain, cross-browser, and clever uses of asynchronous JavaScript</li>
+	<li>
+		Write code with performance and compatibility in mind.</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>What it&#39;s like working here</strong></p>
+<ul>
+	<li>
+		Fast-paced environment with the right balance of quick, iterative development versus more deliberate, smart architecting</li>
+	<li>
+		You have a lot of freedom and flexibility to pursue projects your own way and set your own goals</li>
+	<li>
+		Small, very technically-minded team. We are a team of under 20 people, primarily engineers</li>
+	<li>
+		Casual but ambitious environment. We like what we do and we want to be the best at it. We&#39;re also going to have fun doing it</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>What we&#39;d like to see</strong></p>
+<p>
+	&nbsp;</p>
+<ul>
+	<li>
+		You&#39;re a JavaScript expert and can develop very interesting things (and have examples to show off).</li>
+	<li>
+		Very experienced with both common and more obscure cross-browser and cross-domain solutions</li>
+	<li>
+		Know HTML and CSS very well. A great sense of user experience and product design is highly desirable</li>
+	<li>
+		You love the web and technology in general. You have a real passion for what you&#39;re doing</li>
+	<li>
+		It&#39;d be extremely helpful if you are also familiar with Python (and Django)</li>
+	<li>
+		Excellent communication skills and the ability to work out solutions to problems with others</li>
+	<li>
+		Self-directed and self-motiviated. You should be able to identify and prioritize projects as well as you can execute on them</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>More about us</strong></p>
+<p>
+	Disqus is a web service that builds and connects communities through a networked comment system. Hundreds of thousands of websites rely on Disqus to power their discussions, and millions of people regularly use the comment system in discussions all over the web. Disqus is the leading comment system, reaching over 100 million unique people per month.</p>
+<p>
+	Our company is a growing startup based in the SOMA neighborhood of San Francisco. We are a small, tech-heavy team focused on building powerful, versatile software which perform and scale well, while being a joy to use and accessible to everyone.</p>
+<p>
+	Disqus was founded in 2007 and is backed by investors Union Square Ventures and Y Combinator.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/disqus/9waOKk"></script>]]></buttons>
+		</job>
+	</jobs>

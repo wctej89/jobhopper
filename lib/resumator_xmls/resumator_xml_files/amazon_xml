@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Amazon.com]]></company>
+			<job>
+			<id><![CDATA[job_20120717143323_NCLYKVNRUAEFBDVM]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://amazon.theresumator.com/apply/STmNFd/Software-Developer.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98102]]></postalcode>
+			<description><![CDATA[<p>Job Description:</p><p>Are you interested in developing cutting-edge technology that will help students study more effectively? Kindle for Education is a team focused on evolving Kindle into an indispensable educational tool. Recall the mountain of heavy textbooks, notes, and other course materials you had to drag around in your backpack. Kindle will put all of that information literally at your fingertips. And that&rsquo;s just the tip of the iceberg!</p><p><br />If you are a talented software engineer who is passionate about Kindle and its potential to transform education, then we want to talk to you! As a member of the team, you will have the opportunity to play a key role in building brand new software products and features from the ground up. Your work will allow you to utilize a melting pot of technologies, programming languages, and systems and require you to keep up with the ever-changing technological landscape. Your responsibilities will include all aspects of software development, with the freedom and encouragement to explore your own ideas, and the reward of seeing your contributions benefit students and Amazon.com customers worldwide.</p><p>Basic Qualifications:</p><ul><li>Bachelor&rsquo;s Degree in Computer Science or related field, or 4+ years relevant work experience</li><li>Computer Science fundamentals in object-oriented design</li><li>Computer Science fundamentals in data structures</li><li>Computer Science fundamentals in algorithm design, problem solving, and complexity analysis</li><li>Proficiency in, at least, one modern programming language such as Java, C++, C#, Ruby, Python or Perl</li></ul><p>Preferred Qualifications:</p><ul><li>Knowledge of professional software engineering practices &amp; best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations</li><li>Experience with distributed computing and enterprise-wide systems</li><li>Hands-on expertise in many disparate technologies, typically ranging from front-end user interfaces through to back-end systems and all points in between</li><li>Expertise in Java or C++</li><li>Strong skills in Relational Data Modeling</li><li>Experience with several of the following technologies: Linux, iOS, Android, TCP/IP, HTTP, HTML + JavaScript + CSS, Web services, distributed systems, mobile systems, open source frameworks (e.g., Spring and Hibernate)</li><li>Passion for software craftsmanship that yields clean, elegant and maintainable code</li></ul><p>&nbsp;</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/amazon/STmNFd"></script>]]></buttons>
+		</job>
+	</jobs>

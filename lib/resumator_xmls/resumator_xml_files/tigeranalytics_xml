@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Tiger Analytics]]></company>
+			<job>
+			<id><![CDATA[job_20130219013741_Z5JNGAE3TSYKOBA9]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Analytics Consultant]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://tigeranalytics.theresumator.com/apply/ApZIEL/Analytics-Consultant.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+- 2-3 years of experience with data analytics and predictive modeling.</p>
+<p>
+- Excellent knowledge of SAS, R, Python</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/tigeranalytics/ApZIEL"></script>]]></buttons>
+		</job>
+	</jobs>

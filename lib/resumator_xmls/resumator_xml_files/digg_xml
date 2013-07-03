@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Digg]]></company>
+			<job>
+			<id><![CDATA[job_20120925192638_CJHUSZGKE2ADOUUQ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Engineer / Technologist]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://digg.theresumator.com/apply/whNcwQ/Engineer-Technologist.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10014]]></postalcode>
+			<description><![CDATA[<p>
+We&rsquo;re looking for a technologist with experience building large-scale/large-data web applications. We&rsquo;d like you to build the internal and external APIs that will power new features for Digg. Experience building social applications is ideal. Experience with Python is a must.</p>
+<p>
+The fine print</p>
+<ul>
+<li>
+3+ years experience developing web-based applications/sites using Python</li>
+<li>
+Experience with building REST/JSON APIs</li>
+<li>
+Familiarity with one or more of the following: redis, memcache, nginx, tornado, hadoop, mongo, mysql</li>
+<li>
+Amazon Web Services (EC2, S3)</li>
+<li>
+BS/MS in Computer Science preferred</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/digg/whNcwQ"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130312190455_FA6RLVK62TMQYOZG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Android Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://digg.theresumator.com/apply/S4tLTO/Android-Developer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10014]]></postalcode>
+			<description><![CDATA[<p>
+We&rsquo;re looking for an experienced developer to build the future of Digg for Android phones and tablets.&nbsp; Knowledge across frontend and backend Android frameworks is essential. Experience building social, news, and/or content applications is ideal. Must be prepared to own the product from start to finish, from networking and storage to view hierarchies and animation.</p>
+<p>
+<strong>The fine print</strong></p>
+<ul>
+<li>
+1+ years of Android experience, with at least one app in the app store</li>
+<li>
+4+ years of software and/or web development experience</li>
+<li>
+Strong technical depth, design and user experience skills a plus</li>
+<li>
+Experience working with remote data via REST and JSON</li>
+<li>
+BS/MS in Computer Science preferred</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/digg/S4tLTO"></script>]]></buttons>
+		</job>
+	</jobs>

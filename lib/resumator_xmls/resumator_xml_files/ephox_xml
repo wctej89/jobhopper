@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Ephox]]></company>
+			<job>
+			<id><![CDATA[job_20130408215408_8SCYCGSRN3VPKM1P]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Developer]]></title>
+			<department><![CDATA[R&D]]></department>
+			<team><![CDATA[R&D]]></team>
+			<url><![CDATA[http://ephox.theresumator.com/apply/j7jixn/Software-Developer.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94303]]></postalcode>
+			<description><![CDATA[<p>
+Key responsibilities:</p>
+<ul>
+<li>
+Design, rapidly prototype, and implement features</li>
+<li>
+Identify and address performance bottlenecks</li>
+<li>
+Assist support and engineering departments to prioritize bug fixes and product enhancements.</li>
+<li>
+Build and maintain relationships with the Open Source community by contributing to projects via patches and support</li>
+</ul>
+<p>
+Requirements</p>
+<ul>
+<li>
+Significant (3+ years) experience developing modern, cross-browser JavaScript</li>
+<li>
+Knowledge and use of frameworks for building large scale client-side projects</li>
+<li>
+Ability to write simple, well-abstracted, reusable code</li>
+<li>
+Knowledge of modern programming patterns</li>
+<li>
+BS or advanced degree in computer science</li>
+<li>
+Excellent written and verbal communication skills</li>
+</ul>
+<p>
+Pay based on experience.</p>
+<p>
+<strong>About Ephox</strong></p>
+<p>
+Ephox is a profitable, bootstrapped startup with hundreds of customers worldwide. We have a very open and fun culture and we are looking to grow our team with people who have a passion for building great software. Ephox does a lot with open source, check out some of our projects at https://github.com/ephox</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/ephox/j7jixn"></script>]]></buttons>
+		</job>
+	</jobs>

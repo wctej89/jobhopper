@@ -1,0 +1,643 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Cloudant]]></company>
+			<job>
+			<id><![CDATA[job_20121129211350_NN67ONTFQZKUVBKW]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Erlang/OTP Software Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudant.theresumator.com/apply/jUcs6h/ErlangOTP-Software-Developer.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98104]]></postalcode>
+			<description><![CDATA[<p>
+Overview:<br />
+Cloudant develops cutting-edge data and analytics solutions for the next generation of globally distributed, highly available business applications. &nbsp;</p>
+<p>
+We&rsquo;re hiring the most talented developers with experience in Erlang/OTP and distributed systems to help us build out our global data platform. We have assembled a top-notch engineering team with deep roots in the open source community. The ideal candidate should have a passion for solving hard problems. By the way, we don&rsquo;t care where you are as long as you&rsquo;re the best. And, guess what, if you&rsquo;re the best and you want to move to sunny Boston? we&rsquo;ll make it happen!</p>
+<p>
+Primary Objectives:</p>
+<ul>
+<li>
+Working with our core development to build, test, and deploy our globally distributed data service.</li>
+</ul>
+<p>
+Must-Haves:</p>
+<ul>
+<li>
+Demonstrable experience building applications in Erlang</li>
+<li>
+Experience working with distributed development teams</li>
+<li>
+Passion for solving hard data problems</li>
+<li>
+Excellent communications skills, both written and verbal</li>
+</ul>
+<p>
+Nice-to-Haves:</p>
+<ul>
+<li>
+Experience with cloud providers like Amazon EC2, SoftLayer, and RackSpace</li>
+<li>
+Experience with Apache CouchDB, SaaS, and RESTful services a plus</li>
+<li>
+History of contributions to Open Source projects</li>
+</ul>
+<p>
+At Cloudant, we are passionate about 2 things: building great software to solve complex data problems and providing an amazing service to our customers. &nbsp;Our team takes pride in seeing our products used by application developers around the world. &nbsp;If this sounds like something you&#39;re interested in, we look forward to hearing from you.</p>
+<p>
+About Cloudant<br />
+Founded in 2008, Cloudant provides the leading global data platform for JSON. Our service allows our customers to collect, replicate and federate JSON. Today, Cloudant&rsquo;s service powers 1,000&rsquo;s of applications that need to scale seamlessly from small to very large datasets, yield realtime insights, and replicate and synchronize data around the world. Cloudant is headquartered in Boston, MA.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudant/jUcs6h"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121129211714_WJOAU4PIW59FM1MV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Developer Advocate - Mobile]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudant.theresumator.com/apply/ZjCwrJ/Developer-Advocate-Mobile.html]]></url>
+			<city><![CDATA[Boston]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02111]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Developer Advocate &ndash; Mobile</strong></p>
+<p>
+The Cloudant Data Layer as a service is revolutionizing application development. Samsung, Microsoft, Hothead Games, Salesforce.com, EasyBib, and other top web and mobile app developers are using Cloudant to speed up development and scale their apps. Cloudant is a distributed NoSQL database service we developed (based on Apace CouchDB) to scale massively across a network of data centers around the globe. Built in MapReduce, Lucene-powered text search, geo-spatial, mobile replication &amp; sync enable customers to develop really cool apps.</p>
+<p>
+As a Cloudant Developer Advocate, you&rsquo;ll develop software and content that improves the Cloudant user experience for mobile app developers and evangelize the use of Cloudant within the mobile&nbsp; tech community.&nbsp; You&rsquo;ll also influence the Cloudant product roadmap and marketing plans in ways that help grow and satisfy the community of mobile app developers.</p>
+<p>
+<strong>Responsibilities:</strong></p>
+<p>
+Cloudant Developer Advocates are the owners of their respective developer communities within Cloudant. This person in this position is responsible for improving the developer experience and raising awareness of Cloudant among mobile app developers by:</p>
+<p>
+- Developing or contributing to open source applications, frameworks, and libraries that enrich the mobile application development experience with Cloudant<br />
+- Publishing sample apps, tutorials, articles, and other &quot;best-practices&quot; content that makes it easier for mobile app developers to learn and use Cloudant<br />
+- Evangelizing Cloudant within the mobile dev community, in person at developer conferences, and on-line via blogging and interacting with mobile email lists and discussion forums<br />
+- Providing direction into the product roadmap, marketing, and customer support to help grow and serve the community of mobile app developers using Cloudant</p>
+<p>
+<strong>Requirements:</strong></p>
+<p>
+- 3+ years success as a software developer, architect, technology evangelist, CTO, or consultant working with mobile and web technologies. A history of having contributed to open source projects or communities is a strong plus.<br />
+- Respect among peers in the mobile tech community. Knowledge of the key players, vendors, conferences and web sites to work with to engage further with that community.<br />
+- Excellent technical writing and presentation skills.<br />
+- Proven track record of blogging, tweeting, and presenting on mobile app development topics. Having an existing follower base is a very strong plus.<br />
+- Expertise with HTTP and RESTful interfaces, JSON, JavaScript, plus iOS and/or Android development and server-device data management or replication.<br />
+- Good understanding of database systems, preferably NoSQL. CouchDB, MongoDB, DynamoDB, Cassandra, Redis or Riak experience is a plus.<br />
+- Understanding of large-scale mobile app architecture and technology landscapes.<br />
+- Experience with Restructured Text, Sphinx, Markdown or other documentation formats and tools.<br />
+- Experience with git SCM, issue/task tracking software, IRC, video conferencing.<br />
+- The ability to work in and effectively communicate with a distributed team, with minimal supervision.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudant/ZjCwrJ"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121129210319_VOMUEEWCJ8A29GZR]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sales Engineer]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudant.theresumator.com/apply/tmjHl4/Sales-Engineer.html]]></url>
+			<city><![CDATA[Boston]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02111]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Overview</strong></p>
+<p>
+Cloudant develops cutting-edge data and analytics products for the next generation of globally distributed, highly available business applications. At Cloudant, we aim for two things: building great software which solves complicated data problems and providing in-depth help to our customers when they need support. As a Sales Engineer you will be responsible for introducing the Cloudant Data Layer to our customers. You will work closely with the sales team with global reach and work with customers building the next generation of distributed, large-scale, redundant web and mobile applications.</p>
+<p>
+<strong>Responsibilities:</strong></p>
+<p>
+- Introduce Cloudant services to customers, describe its benefits, and recommend solutions.<br />
+- Work directly with customers to understand their needs and develop solutions that fit.<br />
+- Work closely with product development, Identifying features and product gaps.<br />
+- Developing proofs of concept (PoC).Conduct training, develop documentation and demo applications.</p>
+<p>
+<strong>Qualifications/Requirements:</strong></p>
+<p>
+- Strong technical problem solving skills.<br />
+- Understanding of RESTful web services, HTML5 /CSS a plus<br />
+- Hands on experience developing with Javascript, Python, Ruby, or Java<br />
+- Understand the architecture of large-scale websites.</p>
+<p>
+<strong>About Cloudant</strong></p>
+<p>
+Cloudant provides developers of large or fast-growing Web and mobile applications with the world&rsquo;s first globally distributed &ldquo;data layer as a service&rdquo; for loading, storing, analyzing, and distributing application data. The Cloudant Data Layer is a managed service that helps developers to eliminate the delays, costs, and distractions inherent in working with databases and their administrators, while providing unmatched scalability, availability, and performance. This capability accelerates time-to-market and time-to-innovation, because it frees developers from the mechanics of data management so they can focus exclusively on creating great applications. Cloudant is privately held and backed by top-tier investors including Avalon Ventures and Y Combinator. For more information, visit https://cloudant.com/.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudant/tmjHl4"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121129211213_4LNTXNWKTOSTWXBX]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Erlang/OTP Software Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudant.theresumator.com/apply/VzF4dl/ErlangOTP-Software-Developer.html]]></url>
+			<city><![CDATA[Boston]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02111]]></postalcode>
+			<description><![CDATA[<p>
+Overview:<br />
+Cloudant develops cutting-edge data and analytics solutions for the next generation of globally distributed, highly available business applications. &nbsp;</p>
+<p>
+We&rsquo;re hiring the most talented developers with experience in Erlang/OTP and distributed systems to help us build out our global data platform. We have assembled a top-notch engineering team with deep roots in the open source community. The ideal candidate should have a passion for solving hard problems. By the way, we don&rsquo;t care where you are as long as you&rsquo;re the best. And, guess what, if you&rsquo;re the best and you want to move to sunny Boston? we&rsquo;ll make it happen!</p>
+<p>
+Primary Objectives:</p>
+<ul>
+<li>
+Working with our core development to build, test, and deploy our globally distributed data service.</li>
+</ul>
+<p>
+Must-Haves:</p>
+<ul>
+<li>
+Demonstrable experience building applications in Erlang</li>
+<li>
+Experience working with distributed development teams</li>
+<li>
+Passion for solving hard data problems</li>
+<li>
+Excellent communications skills, both written and verbal</li>
+</ul>
+<p>
+Nice-to-Haves:</p>
+<ul>
+<li>
+Experience with cloud providers like Amazon EC2, SoftLayer, and RackSpace</li>
+<li>
+Experience with Apache CouchDB, SaaS, and RESTful services a plus</li>
+<li>
+History of contributions to Open Source projects</li>
+</ul>
+<p>
+At Cloudant, we are passionate about 2 things: building great software to solve complex data problems and providing an amazing service to our customers. &nbsp;Our team takes pride in seeing our products used by application developers around the world. &nbsp;If this sounds like something you&#39;re interested in, we look forward to hearing from you.</p>
+<p>
+About Cloudant<br />
+Founded in 2008, Cloudant provides the leading global data platform for JSON. Our service allows our customers to collect, replicate and federate JSON. Today, Cloudant&rsquo;s service powers 1,000&rsquo;s of applications that need to scale seamlessly from small to very large datasets, yield realtime insights, and replicate and synchronize data around the world. Cloudant is headquartered in Boston, MA.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudant/VzF4dl"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121128194856_16C205QPCTBNHT4A]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior/Mid Front End Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudant.theresumator.com/apply/Ka5soG/SeniorMid-Front-End-Developer.html]]></url>
+			<city><![CDATA[Boston]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02118]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Senior/Mid Front-End Developer</strong></p>
+<p>
+Cloudant is looking to add a Front-End Developer to our fast growing team. This individual would be responsible for collaborating with back-end developers on planning and implementing code that can drive our product and service offerings.</p>
+<p>
+As a company, we need help showing off what our product and service can do as well as inspire where we&rsquo;re going.</p>
+<p>
+<strong>Must have skills:</strong></p>
+<p>
+- Proficient with open-source standards in HTML and CSS3</p>
+<p>
+- Deep experience with Javascript, including libraries (jQuery, Underscore), as well as MVC frameworks (Backbone.js)</p>
+<p>
+- Solid knowledge of RESTful APIs and JSON</p>
+<p>
+- Passionate and clear communication</p>
+<p>
+- Git, or similar</p>
+<p>
+- Teamwork</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Nice-to-haves:</strong></p>
+<p>
+- Experience building event driven, server-side apps with Node.js</p>
+<p>
+- NoSQL DB experience (CouchDB, MongoDB)</p>
+<p>
+- iOS and Android development</p>
+<p>
+- UX chops</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Responsibilities:</strong></p>
+<p>
+- Build interfaces for the front-end</p>
+<p>
+- Build browser-based software</p>
+<p>
+- Data visualization</p>
+<p>
+- Mobile dev</p>
+<p>
+- Flexible and adaptable to project and company changes</p>
+<p>
+- Collaborate with front-end and back-end developers by sharing new tools and techniques</p>
+<p>
+- Research and share industry innovations and trends</p>
+<p>
+- Promote Cloudant via social networks, blogs, and speaking engagements</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Experience:</strong></p>
+<p>
+- 5+ yrs building production web apps</p>
+<p>
+&nbsp;</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>About Cloudant</strong></p>
+<p>
+<br />
+Cloudant provides developers of large or fast-growing Web and mobile applications with the world&rsquo;s first globally distributed &ldquo;data layer as a service&rdquo; for loading, storing, analyzing, and distributing application data. The Cloudant Data Layer is a managed service that helps developers to eliminate the delays, costs, and distractions inherent in working with databases and their administrators, while providing unmatched scalability, availability, and performance. This capability accelerates time-to-market and time-to-innovation, because it frees developers from the mechanics of data management so they can focus exclusively on creating great applications. Cloudant is privately held and backed by top-tier investors including Avalon Ventures and Y Combinator. For more information, visit https://cloudant.com/.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudant/Ka5soG"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121129210246_BOGHR0SFQJQB2S5P]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Solutions Architect]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudant.theresumator.com/apply/aUwKkP/Solutions-Architect.html]]></url>
+			<city><![CDATA[Boston]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02118]]></postalcode>
+			<description><![CDATA[<p>
+Cloudant builds The Data Layer, a cutting-edge data and analytics solution for the next generation of distributed, connected web and mobile applications. We are looking for brilliant and talented engineers to help ensure our customers are successful. We have assembled a top-notch engineering team with deep roots in the open source community.&nbsp;As a Solutions Architect you will be responsible for introducing the Cloudant Data Layer to our customers. You will work closely with a sales team with global reach and work with customers building the next generation of distributed, large-scale, redundant web and mobile applications.</p>
+<p>
+<strong>You might be a good fit if you...</strong></p>
+<ul>
+<li>
+Love digging in and solving hard technical problems.</li>
+<li>
+Enjoy helping people and introducing them to new technologies.</li>
+<li>
+Have a passion for data-driven web and mobile applications.</li>
+<li>
+Understand when NoSQL makes sense and when it does not.</li>
+<li>
+Have built and scaled a production web or mobile application.</li>
+<li>
+Are self-directed and take pride in a job well done.</li>
+</ul>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Introduce Cloudant services to customers, describe its benefits, and recommend solutions.</li>
+<li>
+Work directly with customers to understand their needs and develop solutions that fit.</li>
+<li>
+Developing proofs of concept (PoC).</li>
+<li>
+Conduct training, develop documentation and demo applications.</li>
+<li>
+Identify feature and product gaps to provide feedback to Engineering.</li>
+<li>
+Identify and introduce new, improved or modified techniques to customers.</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Skills and Experience</strong></p>
+<ul>
+<li>
+Strong technical problem solving skills.</li>
+<li>
+Strong understanding of RESTful web services.</li>
+<li>
+Hands on experience developing with Javascript</li>
+<li>
+Hands on experience with any of Python, Ruby, or Java</li>
+<li>
+Understand the architecture of large-scale websites.</li>
+<li>
+Excellent written and verbal communication skills.</li>
+<li>
+Erlang experience not required but is a big plus.</li>
+<li>
+Willing to work support hours (rotating)</li>
+</ul>
+<p>
+<strong>About Cloudant</strong></p>
+<p>
+Cloudant provides developers of large or fast-growing Web and mobile applications with the world&rsquo;s first globally distributed &ldquo;data layer as a service&rdquo; for loading, storing, analyzing, and distributing application data. The Cloudant Data Layer is a managed service that helps developers to eliminate the delays, costs, and distractions inherent in working with databases and their administrators, while providing unmatched scalability, availability, and performance. This capability accelerates time-to-market and time-to-innovation, because it frees developers from the mechanics of data management so they can focus exclusively on creating great applications. Cloudant is privately held and backed by top-tier investors including Avalon Ventures and Y Combinator. For more information, visit https://cloudant.com/.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudant/aUwKkP"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121129210911_PYUHYAJHG4G3SYV2]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Business Development Representative]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudant.theresumator.com/apply/5LRt0T/Business-Development-Representative.html]]></url>
+			<city><![CDATA[Boston]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02118]]></postalcode>
+			<description><![CDATA[<p>
+Cloudant develops cutting-edge data and analytics solutions for the new generation of distributed, connected business applications. We are looking for a creative, flexible, high-energy individual to organize and drive our business development and strategic sales efforts. We&rsquo;re an early-stage company with huge growth potential. We have assembled a top-notch engineering and operations team and achieved early market acceptance. We now seek a business development/sales executive who works effectively in a fast-paced and distributed team environment. The ideal candidate has a strong knowledge of and experience in open-source software and SaaS sales models, and a proven track record of closing deals in early markets.</p>
+<p>
+Responsibilities:</p>
+<ul>
+<li>
+Structure and drive an efficient sales cycle from raw lead through close</li>
+<li>
+Improvise as needed to close business while developing sales templates, processes, and forecast models</li>
+<li>
+Analyze customer pain points and work with engineering to optimize solutions</li>
+<li>
+Build long-term profitable relationships with customers</li>
+</ul>
+<p>
+Experience:</p>
+<ul>
+<li>
+5+ years experience selling software or SaaS in a B2B environment</li>
+<li>
+Proven track record of exceeding sales and revenue targets</li>
+<li>
+Strong history of getting immediate results while building repeatable processes</li>
+<li>
+Demonstrated success in selling innovative technologies to medium and large organizations</li>
+<li>
+Skills:</li>
+<li>
+Ability to &lsquo;hunt&rsquo; new customers and develop current ones</li>
+<li>
+Excellent written, verbal, and presentation skills</li>
+<li>
+Energy, motivation, enthusiasm and ability to work in a team</li>
+<li>
+Previous sales methodology training, CRM experience, and account management experience is plus</li>
+<li>
+Engineering experience and a deep understanding of software is a plus</li>
+<li>
+Computer proficiency in office suite and web-based collaboration tools</li>
+</ul>
+<p>
+About Cloudant<br />
+Cloudant develops and markets advanced data and analytics solutions based on NoSQL technology rooted in Apache CouchDB, the most mature NoSQL project. Cloudant&rsquo;s solutions have been adopted by organizations around the globe to power consumer and business-facing applications that need to scale seamlessly from small to very large datasets, yield realtime insights, and replicate and synchronize across a wide range of devices. Cloudant solutions are designed to power the new generation of distributed, connected business applications. &nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudant/5LRt0T"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121129211017_ESFJBRBL2MF3G0NV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Development Operations Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudant.theresumator.com/apply/AwXdnW/Development-Operations-Engineer.html]]></url>
+			<city><![CDATA[Boston]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02130]]></postalcode>
+			<description><![CDATA[<p>
+Cloudant develops cutting-edge data and analytics solutions for the new generation of distributed, connected business applications. We are looking for a brilliant and talented ops engineer to manage, monitor, and scale our infrastructure. We have assembled a top-notch engineering team with deep roots in the open source community. We use and rely on cutting edge tools to develop our cloud-hosted platform. The ideal candidate is obsessed with high-availability distributed systems and cannot sleep unless the servers are well-oiled and humming.</p>
+<ul>
+<li>
+You might be a good fit if you ...</li>
+<li>
+Think devops makes a lot of sense</li>
+<li>
+Have contributed a patch to Chef</li>
+<li>
+Have written a simple Erlang program</li>
+<li>
+Setup a high availability load balancer installation</li>
+<li>
+Like to automate everything</li>
+<li>
+Are a self-starter and can push a project forward without much guidance</li>
+<li>
+Own your work</li>
+</ul>
+<p>
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+Develop, improve, and maintain the infrastructure management systems behind Cloudant&rsquo;s hosted data platform</li>
+<li>
+Manage our global cloud deployments across multiple providers</li>
+<li>
+Manage our deployment, testing, and CI infrastructure</li>
+<li>
+Maintain Cloudant&rsquo;s open source BigCouch packages and cookbooks</li>
+</ul>
+<p>
+<strong>Experience:</strong></p>
+<ul>
+<li>
+5+ years experience running production web systems in varied deployment environments</li>
+<li>
+Experience working with cloud providers such as AWS, Softlayer, and Rackspace</li>
+<li>
+Data center operations experience a plus</li>
+<li>
+Experience configuring network equipment a plus</li>
+</ul>
+<p>
+<strong>Skills:</strong></p>
+<ul>
+<li>
+Mastery of the tools and systems Cloudant uses including Ubuntu Linux, Amazon EC2, Chef, HAProxy, Munin, Jenkins, git, and CouchDB.</li>
+<li>
+Ability to build Debian and RPM packages</li>
+<li>
+Ruby and Erlang knowledge a big plus</li>
+</ul>
+<p>
+<br />
+<strong>About Cloudant</strong></p>
+<p>
+Cloudant provides developers of large or fast-growing Web and mobile applications with the world&rsquo;s first globally distributed &ldquo;data layer as a service&rdquo; for loading, storing, analyzing, and distributing application data. The Cloudant Data Layer is a managed service that helps developers to eliminate the delays, costs, and distractions inherent in working with databases and their administrators, while providing unmatched scalability, availability, and performance. This capability accelerates time-to-market and time-to-innovation, because it frees developers from the mechanics of data management so they can focus exclusively on creating great applications. Cloudant is privately held and backed by top-tier investors including Avalon Ventures and Y Combinator. For more information, visit https://cloudant.com/.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudant/AwXdnW"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130517205456_IFECHKF5EVRAIEXW]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Customer Support Engineer]]></title>
+			<department><![CDATA[Customer Support and Success]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudant.theresumator.com/apply/AMtgEx/Customer-Support-Engineer.html]]></url>
+			<city><![CDATA[Boston]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02111]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Overview</strong></p>
+<p>
+Cloudant develops cutting-edge data and analytics products for the next generation of globally distributed, highly available business applications. At Cloudant, we aim for two things: building great software which solves complicated data problems and providing in-depth help to our customers when they need support. As a Customer Support Engineer, you will be a key part of a team dedicated to helping customers navigate the world of big data and ensuring their success on our platform. We pride ourselves on helping our customers find real fixes rather than giving canned answers when they come to us with questions, so you&#39;ll need to be willing to learn about the ins and outs of our system. We also would like you to read code and file bugs if it&#39;s causing customers pain. We are looking for people who love working with computer software, solving customer problems and want to be part of a fast-growing, industry leading technology company. As an Engineer at Cloudant you will become an expert at NoSQL and geospatial data modelling, writing MapReduce functions and using Lucene for Full Text Indexing and Query. Successful Customer Support Engineers will have significant opportunities for career growth at Cloudant.</p>
+<p>
+<br />
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Take ownership of customer support requests via chat, email and phone</li>
+<li>
+Collaborate directly with Cloudant Engineering and Operations to help our customers solve big data problems of incredible scale</li>
+<li>
+Interact with the developer community by turning common questions into online solutions (stackoverflow, quora, HN, etc)</li>
+<li>
+Help build and grow our developer community</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Excellent problem solving ability</li>
+<li>
+Exceptionally clear written and verbal communication skills</li>
+<li>
+Strong knowledge of Javascript, Python, Ruby, and/or Java</li>
+<li>
+Desire to take on responsibility and be accountable</li>
+<li>
+Passion for learning new technologies and languages.</li>
+</ul>
+<p>
+<strong>About Cloudant</strong></p>
+<p>
+Cloudant provides developers of large or fast-growing Web and mobile applications with the world&rsquo;s first globally distributed &ldquo;data layer as a service&rdquo; for loading, storing, analyzing, and distributing application data. The Cloudant Data Layer is a managed service that helps developers to eliminate the delays, costs, and distractions inherent in working with databases and their administrators, while providing unmatched scalability, availability, and performance. This capability accelerates time-to-market and time-to-innovation, because it frees developers from the mechanics of data management so they can focus exclusively on creating great applications. Cloudant is privately held and backed by top-tier investors including Avalon Ventures and Y Combinator. For more information, visit https://cloudant.com/.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudant/AMtgEx"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130604134855_3GWNBYFVNJPUMCOL]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Customer Support Engineer]]></title>
+			<department><![CDATA[Customer Support and Success]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudant.theresumator.com/apply/nee2CI/Customer-Support-Engineer.html]]></url>
+			<city><![CDATA[Bristol]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[BS1 5EH]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Overview</strong></p>
+<p>
+Cloudant develops cutting-edge data and analytics products for the next generation of globally distributed, highly available business applications. At Cloudant, we aim for two things: building great software which solves complicated data problems and providing in-depth help to our customers when they need support. As a Customer Support Engineer, you will be a key part of a team dedicated to helping customers navigate the world of big data and ensuring their success on our platform. We pride ourselves on helping our customers find real fixes rather than giving canned answers when they come to us with questions, so you&#39;ll need to be willing to learn about the ins and outs of our system. We also would like you to read code and file bugs if it&#39;s causing customers pain. We are looking for people who love working with computer software, solving customer problems and want to be part of a fast-growing, industry leading technology company. As an Engineer at Cloudant you will become an expert at NoSQL and geospatial data modelling, writing MapReduce functions and using Lucene for Full Text Indexing and Query. Successful Customer Support Engineers will have significant opportunities for career growth at Cloudant.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Take ownership of customer support requests via chat, email and phone</li>
+<li>
+Collaborate directly with Cloudant Engineering and Operations to help our customers solve big data problems of incredible scale</li>
+<li>
+Interact with the developer community by turning common questions into online solutions (stackoverflow, quora, HN, etc)</li>
+<li>
+Help build and grow our developer community</li>
+</ul>
+<p>
+<br />
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Excellent problem solving ability</li>
+<li>
+Exceptionally clear written and verbal communication skills</li>
+<li>
+Strong knowledge of Javascript, Python, Ruby, and/or Java</li>
+<li>
+Desire to take on responsibility and be accountable</li>
+<li>
+Passion for learning new technologies and languages</li>
+</ul>
+<p>
+<br />
+<strong>About Cloudant</strong></p>
+<p>
+Cloudant provides developers of large or fast-growing Web and mobile applications with the world&rsquo;s first globally distributed &ldquo;data layer as a service&rdquo; for loading, storing, analyzing, and distributing application data. The Cloudant Data Layer is a managed service that helps developers to eliminate the delays, costs, and distractions inherent in working with databases and their administrators, while providing unmatched scalability, availability, and performance. This capability accelerates time-to-market and time-to-innovation, because it frees developers from the mechanics of data management so they can focus exclusively on creating great applications. Cloudant is privately held and backed by top-tier investors including Avalon Ventures and Y Combinator. For more information, visit https://cloudant.com/.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudant/nee2CI"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130604135116_Y0SGGOMATXZKVKUM]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Customer Support Engineer]]></title>
+			<department><![CDATA[Customer Support and Success]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudant.theresumator.com/apply/Df1o0M/Customer-Support-Engineer.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98104]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Overview</strong></p>
+<p>
+Cloudant develops cutting-edge data and analytics products for the next generation of globally distributed, highly available business applications. At Cloudant, we aim for two things: building great software which solves complicated data problems and providing in-depth help to our customers when they need support. As a Customer Support Engineer, you will be a key part of a team dedicated to helping customers navigate the world of big data and ensuring their success on our platform. We pride ourselves on helping our customers find real fixes rather than giving canned answers when they come to us with questions, so you&#39;ll need to be willing to learn about the ins and outs of our system. We also would like you to read code and file bugs if it&#39;s causing customers pain. We are looking for people who love working with computer software, solving customer problems and want to be part of a fast-growing, industry leading technology company. As an Engineer at Cloudant you will become an expert at NoSQL and geospatial data modeling, writing MapReduce functions and using Lucene for Full Text Indexing and Query. Successful Customer Support Engineers will have significant opportunities for career growth at Cloudant.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Take ownership of customer support requests via chat, email and phone</li>
+<li>
+Collaborate directly with Cloudant Engineering and Operations to help our customers solve big data problems of incredible scale</li>
+<li>
+Interact with the developer community by turning common questions into online solutions (stackoverflow, quora, HN, etc)</li>
+<li>
+Help build and grow our developer community</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Excellent problem solving ability</li>
+<li>
+Exceptionally clear written and verbal communication skills</li>
+<li>
+Strong knowledge of Javascript, Python, Ruby, and/or Java</li>
+<li>
+Desire to take on responsibility and be accountable</li>
+<li>
+Passion for learning new technologies and languages</li>
+</ul>
+<p>
+<strong>About Cloudant</strong></p>
+<p>
+Cloudant provides developers of large or fast-growing Web and mobile applications with the world&rsquo;s first globally distributed &ldquo;data layer as a service&rdquo; for loading, storing, analyzing, and distributing application data. The Cloudant Data Layer is a managed service that helps developers to eliminate the delays, costs, and distractions inherent in working with databases and their administrators, while providing unmatched scalability, availability, and performance. This capability accelerates time-to-market and time-to-innovation, because it frees developers from the mechanics of data management so they can focus exclusively on creating great applications. Cloudant is privately held and backed by top-tier investors including Avalon Ventures and Y Combinator. For more information, visit https://cloudant.com/.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudant/Df1o0M"></script>]]></buttons>
+		</job>
+	</jobs>

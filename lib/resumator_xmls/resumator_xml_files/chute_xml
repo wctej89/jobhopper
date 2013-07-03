@@ -1,0 +1,343 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Chute]]></company>
+			<job>
+			<id><![CDATA[job_20120722050100_NIFEU0NPTWDWNWID]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[DevOps Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://chute.theresumator.com/apply/24ybsJ/DevOps-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p><strong>About Chute</strong></p><p>We are a venture funded, Y Combinator-backed, engineering-driven startup in SoMA, San Francisco. Our goal is to serve, route, or analyze every photo and video on the web. We are a small team of mostly engineers and growing, but are already collecting and serving photos and videos for huge, paying customers including NBC News, TNT, Taylormade, Golf Digest, Lucky Magazine, Saks, and many more.</p><p>We have a fast-paced and fun team and a highly collaborative culture. We&#39;re looking for a badass Lead DevOps Engineer to address the challenges of building an internet-scale platform. You&#39;ll join a growing team solving extremely challenging engineering and operational issues. You&#39;ll be in charge of all of our development and production environments and software deployments.&nbsp;</p><p><strong>The Tech Stack</strong></p><ul><li>Ruby on Rails</li><li>Node.js</li><li>Postgres and MongoDB</li><li>EC2 and Heroku</li></ul><p><strong>Your Challenges</strong></p><ul><li>Preach and practice scaling</li><li>Build APIs that can withstand a millions of end users hitting us a billion times a day</li><li>Build services with self healing properties and enterprise-class SLAs</li><li>Build redundancy into all layers of the stack</li><li>Dive deep into the stack to troubleshoot as needed</li><li>Understand and practice the role of DevOps by reading and modifying code as needed</li><li>Live and breathe automation as you hate being interrupted at night by PagerDuty</li></ul><p><strong>Skills and Knowledge</strong></p><ul><li>Deep experience with Amazon Web Services</li><li>Data stores&mdash;architecture and management (MongoDB, Postgres, etc.)</li><li>Crazy troubleshooting skills</li><li>Monitoring, alerting, dashboard, operational tools development skills</li><li>Experience running and evangelizing continuously integrated&nbsp;and highly instrumented dev cycles&nbsp;</li><li>Passion about what we do and about driving Chute through a period of rapid growth and adoption</li></ul><p><strong>Benefits</strong></p><ul><li>Competitive salary</li><li>Health insurance</li><li>Stock options in a growing startup</li><li>Catered lunch everyday</li><li>Fully stocked kitchen with beverages and snacks</li><li>Work at our great, relaxed HQ in SoMA, San Francisco, with ping pong table, big screen, and gaming area (Xbox + Kinect)</li><li>Paid relocation to San Francisco if necessary</li></ul>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/chute/24ybsJ"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120724082402_ZCH2X4XJ7K5SUVHZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Rails+NodeJS Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://chute.theresumator.com/apply/cjvLn5/RailsNodeJS-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>About Chute</strong></p>
+<p>
+	We are a venture funded, Y Combinator-backed, engineering-driven startup in SoMA, San Francisco. Our goal is to serve, route, or analyze every photo and video on the web. We are a small team of mostly engineers and growing, but are already collecting and serving photos and videos for huge, paying customers including NBC News, TNT, Taylormade, Golf Digest, Lucky Magazine, Saks, and many more.</p>
+<p>
+	We&#39;re looking for a badass full-stack engineer to join our growing engineering team.&nbsp; We have a fast-paced, fun team and a highly collaborative culture.&nbsp; You&#39;re versed in all things Ruby,Rails.&nbsp; You relish solving problems at scale.</p>
+<p>
+	<strong>The Tech Stack</strong></p>
+<ul>
+	<li>
+		Ruby on Rails</li>
+	<li>
+		Node.js</li>
+	<li>
+		Postgres and MongoDB</li>
+	<li>
+		EC2 and Heroku</li>
+</ul>
+<p>
+	<strong>Your Challenges</strong></p>
+<ul>
+	<li>
+		Work seamlessly between Rails, Ruby and Node environments</li>
+	<li>
+		Build simple, scalable solutions for customer problems</li>
+	<li>
+		Design web services to power both our&nbsp;applications and our community&#39;s at large&nbsp;</li>
+	<li>
+		Traverse browser compatibility issues in a single bound</li>
+	<li>
+		Write stories and tests that guarantee your code works&nbsp;</li>
+</ul>
+<p>
+	<strong>Skills and Knowledge</strong></p>
+<ul>
+	<li>
+		Extensive Ruby on Rails experience</li>
+	<li>
+		Deep experience with jQuery, DOM and more</li>
+	<li>
+		Experience with Amazon Web Services</li>
+	<li>
+		Experience with &nbsp;Postgres and MongoDB</li>
+	<li>
+		Crazy troubleshooting skills and willigness to make people happy</li>
+	<li>
+		Passion about what we do and about driving Chute through a period of rapid growth and adoption</li>
+</ul>
+<p>
+	<strong>Benefits</strong></p>
+<ul>
+	<li>
+		Competitive salary</li>
+	<li>
+		Health insurance</li>
+	<li>
+		Stock options in a growing startup</li>
+	<li>
+		Catered lunch everyday</li>
+	<li>
+		Fully stocked kitchen with beverages and snacks</li>
+	<li>
+		Work at our great, relaxed HQ in SoMA, San Francisco, with ping pong table, big screen, and gaming area (Xbox + Kinect)</li>
+	<li>
+		Paid relocation to San Francisco if necessary</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/chute/cjvLn5"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121214225353_Q1HDDAZIAIELRCMC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Customer Success Associate]]></title>
+			<department><![CDATA[Customer Success]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://chute.theresumator.com/apply/Zwp0rc/Customer-Success-Associate.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+&nbsp;</p>
+<p>
+Customer Success Associate</p>
+<p>
+<strong>About Chute</strong></p>
+<p>
+We are a venture funded, Y Combinator-backed, product-driven startup in SoMA, San Francisco. Our goal is to serve, route, or analyze every photo and video on the web. We are a small team, but growing; we have paying customers including NBC, TNT, Taylormade and more.&nbsp;</p>
+<p>
+<strong>Position</strong></p>
+<p>
+We&#39;re looking for an energetic Customer Success Associate to help our customers win using the Chute platform. Your job is to help us capitalize on an enormous market opportunity by engaging current and prospective customers and converting them into long-term partners.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Manage and act as the main point of contact for key Chute accounts.</li>
+<li>
+Constantly remain in touch with key accounts, answering questions, providing support, building awareness of new products and features, in order to increase adoption and revenue.</li>
+<li>
+Work hand-in-hand with sales team through entire sales process including sales collateral, product demos, pricing, negotiating, contracting, etc.</li>
+<li>
+Own the customer onboarding process: education/training, advice and consultation around campaigns, and launch of first-run campaigns.</li>
+<li>
+Provide constant feedback regarding customer needs to management and technical staff.</li>
+</ul>
+<br />
+<p>
+<strong>Cultural Fit</strong></p>
+<ul>
+<li>
+You stay ahead of the social media curve for work and play.&nbsp; You use Facebook, Twitter, Insatgram, Twitter, Path, and etc; take photos on a daily basis; and love social media.</li>
+<li>
+You&rsquo;re driven to support and serve Chute customers and your Chute colleagues while learning and growing into a future role.</li>
+<li>
+<p>
+You aren&rsquo;t afraid of business technology: SalesForce reporting, basic CSS/HTML, and the Microsoft Suite.</p>
+</li>
+<li>
+<p>
+You are detail oriented, analytical, creative, enjoy hustling, and like people.</p>
+</li>
+<li>
+<p>
+You want to get an inside view of a venture-backed, Y-Combinator company with aggressive growth goals and fun customers.</p>
+</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Skills and Knowledge</strong></p>
+<ul>
+<li>
+1-2 years of experience in a customer-facing role at an digital agency, consulting firm, or SaaS (software-as-a-service) company</li>
+<li>
+Self-motivated with the ability to handle customer responsibility</li>
+<li>
+Outstanding oral and written communication ability, including presentation ability</li>
+<li>
+Excellent project management skills</li>
+<li>
+Expertise with use of sales and CRM databases</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<br />
+<strong>Benefits</strong></p>
+<ul>
+<li>
+Competitive salary</li>
+<li>
+Health insurance</li>
+<li>
+Catered lunch everyday</li>
+<li>
+Fully stocked kitchen with beverages and snacks</li>
+<li>
+Work at our great, relaxed HQ in SoMA, San Francisco, with ping pong table, big screen, and gaming area (Xbox + Kinect)</li>
+<li>
+Paid relocation to San Francisco if necessary</li>
+</ul>
+<br />
+<p>
+Location: San Francisco</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/chute/Zwp0rc"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130507213831_W5UNAQAJPYFDEO47]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Business Development Representative]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://chute.theresumator.com/apply/86LIn2/Business-Development-Representative.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+Are you looking to make an immediate impact at a well-funded, fast-growing startup? Chute is looking for a talented and competitive Business Development Representative to help us extend our lead in the market over the next few years.&nbsp;</p>
+<p>
+The Business Development role will focus on reaching out to new potential clients and gaining enough of their interest to continue working with our senior sales team.&nbsp;&nbsp; You&rsquo;ll be well rewarded for your efforts and there is potential to grow quickly within the organization.&nbsp;</p>
+<p>
+<strong>About Chute:&nbsp;</strong><br />
+Chute is the leading solution for brands and publishers to collect, curate, and create displays of user-generated social media.&nbsp; Imagine an Instagram photo being discovered by a major news organization and having it appear on their site in front of millions of people, in real-time.&nbsp;</p>
+<p>
+We&rsquo;re based in the SoMa district in San Francisco, minutes away from Muni, BART, and Caltrain.&nbsp; We offer our full-time employees a competitive salary, generous equity, healthcare, free lunch daily, a table tennis paddle stipend, and other startup benefits.</p>
+<p>
+<br />
+<strong>Here is what the job entails:</strong></p>
+<ul>
+<li>
+Owning your own set of leads (100+ calls a day)</li>
+<li>
+Setting other team members up to conduct demos</li>
+<li>
+Working within Salesforce.com to collect data on every activity with our clients</li>
+<li>
+Competing within a collaborative and fun environment</li>
+<li>
+Attend daily/weekly sales meetings and team meetings</li>
+<li>
+Training to grow your skillset as quickly as possible</li>
+<li>
+Here&rsquo;s what we&rsquo;re looking for:</li>
+<li>
+1-3 years experience from an inside sales/lead development role</li>
+<li>
+Confidence in yourself and the company&rsquo;s products and vision</li>
+<li>
+Desire to be a leader and move quickly into an expanded role</li>
+<li>
+Encompasses the work hard/play hard attitude</li>
+<li>
+Is a hustler and self-motivated, taking aggressive goals on as a challenge</li>
+<li>
+Loves a challenge and can take several angles to answer any objections</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/chute/86LIn2"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130703175610_KQMLQCW6FABYFM8W]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Communications / PR Manager]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://chute.theresumator.com/apply/f8A9qZ/Communications-PR-Manager.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About Chute</strong></p>
+<p>
+We are a venture funded, Y Combinator-backed, product-driven startup in SoMA, San Francisco. Chute is powering the visual revolution, we help brands, publishers, agencies and developers harness media and display it anywhere. Our goal is to serve, route, or analyze every photo and video on the web. We are a small team, but growing; we have paying customers including NBC, TNT, Taylormade and more.</p>
+<p>
+<strong>Position</strong></p>
+<p>
+We&#39;re looking for someone who knows how to make connections and tell a great story. The ideal candidate should be comfortable with extensive outreach &amp; media relations, event management experience is a plus.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Manage and act as the main point of contact for media / PR.</li>
+<li>
+Formulate policies and procedures related to company messaging</li>
+<li>
+Manage &amp; Coordinate public outreach &amp; educational events, including lectures, workshops and conferences.</li>
+<li>
+Coordinate speaking engagements</li>
+<li>
+Brief journalists as required and draft reactive statements</li>
+<li>
+Build relationships and undertake proactive media and journalist engagement with an emphasis on press mentions</li>
+</ul>
+<p>
+<br />
+<strong>Cultural Fit</strong></p>
+<ul>
+<li>
+You stay ahead of the social media curve for work and play.&nbsp; You use Facebook, Twitter, Insatgram, Twitter, Path, and etc; take photos on a daily basis; and love social media.</li>
+<li>
+You&rsquo;re driven to support and serve Chute customers and your Chute colleagues while learning and growing into a future role.</li>
+<li>
+You aren&rsquo;t afraid of business technology.</li>
+<li>
+You are detail oriented, analytical, creative, enjoy hustling, and like people.</li>
+<li>
+You want to get an inside view of a venture-backed, Y-Combinator company with aggressive growth goals and fun customers.</li>
+</ul>
+<p>
+<strong>Skills and Knowledge</strong></p>
+<ul>
+<li>
+3+ years of experience in a communications / PR role at a digital agency, consulting firm, or SaaS (software-as-a-service) company</li>
+<li>
+Self-motivated, and must enjoy getting your hands dirty</li>
+<li>
+Outstanding oral and written communication ability, including presentation ability</li>
+<li>
+Excellent project management skills</li>
+</ul>
+<p>
+<strong>Benefits</strong></p>
+<ul>
+<li>
+Competitive salary</li>
+<li>
+Health insurance</li>
+<li>
+Catered lunch everyday</li>
+<li>
+Fully stocked kitchen with beverages and snacks</li>
+<li>
+Work at our great, relaxed HQ in SoMA, San Francisco, with ping pong table, big screen, and gaming area (Xbox + Kinect)</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/chute/f8A9qZ"></script>]]></buttons>
+		</job>
+	</jobs>

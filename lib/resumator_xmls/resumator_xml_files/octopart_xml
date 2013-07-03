@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Octopart Inc]]></company>
+			<job>
+			<id><![CDATA[job_20110922212221_VIMMB7EYYGEMUOGP]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer: Frontend]]></title>
+			<department><![CDATA[Product]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://octopart.theresumator.com/apply/KyXha2/Software-Engineer-Frontend.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10001]]></postalcode>
+			<description><![CDATA[<p>
+	Octopart builds tools to help engineers and scientists change the world. Our electronic part search engine is already being used by hundreds of thousands of engineers to design electronic hardware and we&rsquo;re just getting started. Join our team and help us solve problems that will impact the pace of technological innovation.</p>
+<p>
+	We&rsquo;re looking for a multidisciplinary engineer who is passionate about engineering and science but who ultimately loves to code. We want someone who can build a beautiful user interface quickly and knows how to implement fast, elegant code. We value self-motivated individuals who are always generating new ideas and testing them out in the real world.</p>
+<p>
+	<strong>Responsibilities</strong></p>
+<ul>
+	<li>
+		Make UI and UX decisions</li>
+	<li>
+		Implement user facing features on Octopart.com</li>
+	<li>
+		Prototype experimental features</li>
+	<li>
+		Work on low-level code when a feature requires it</li>
+</ul>
+<p>
+	<br />
+	<strong>Qualifications</strong></p>
+<ul>
+	<li>
+		Mastered at least one programming language. We write mostly Python and Javascript but also some Java.</li>
+	<li>
+		Extremely comfortable with Linux</li>
+	<li>
+		Exceptional proficiency using HTML/CSS/Javascript/AJAX in a production environment</li>
+	<li>
+		Personal projects that show passion for frontend engineering and product design</li>
+	<li>
+		You know how the web works from TCP to HTML even if you need to look up the details</li>
+</ul>
+<p>
+	<br />
+	<strong>Desirable</strong></p>
+<ul>
+	<li>
+		Experience in the physical or biological sciences</li>
+</ul>
+<p>
+	<br />
+	<strong>Benefits</strong></p>
+<ul>
+	<li>
+		Stock options</li>
+	<li>
+		Competitive salary</li>
+	<li>
+		Medical insurance</li>
+	<li>
+		A pony<br />
+		&nbsp;</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/octopart/KyXha2"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120327170201_FIGJRACZNT5IMRS8]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[REST API]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://octopart.theresumator.com/apply/leIBFi/REST-API.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p>
+	Octopart builds tools to help engineers and scientists change the world. Our electronic part search engine is already used by hundreds of thousands of engineers to design electronic hardware and we&rsquo;re just getting started. Join our team and help us solve problems that will impact the pace of technological innovation.</p>
+<p>
+	We&rsquo;re looking for a software engineer who is passionate about helping developers to build powerful design tools for electrical engineers. We want someone who can design and build a REST API that is extremely responsive, well documented, and fun to use. We value self-motivated individuals who are always generating new ideas and testing them out in the real world.</p>
+<p>
+	<strong>Responsibilities</strong></p>
+<ul>
+	<li>
+		Design and build the next version of the Octopart API</li>
+	<li>
+		Write client libraries for multiple languages</li>
+	<li>
+		Design and build a&nbsp;well-documented&nbsp;website for the API</li>
+	<li>
+		Grow our developer community</li>
+	<li>
+		Attend hackathons and help developers use the Octopart API</li>
+	<li>
+		Work on low-level code when a feature requires it</li>
+</ul>
+<p>
+	<strong>Qualifications</strong></p>
+<ul>
+	<li>
+		Mastery of at least one programming language (preferably Python)</li>
+	<li>
+		Extremely comfortable with Linux</li>
+	<li>
+		Obsessed with documentation</li>
+	<li>
+		You&#39;ve used other REST API&#39;s before and have strong opinions on API design</li>
+</ul>
+<p>
+	<strong>Desirable</strong></p>
+<ul>
+	<li>
+		Experience in the physical or biological sciences</li>
+	<li>
+		Experience with Lucene/Solr</li>
+</ul>
+<p>
+	<strong>Benefits</strong></p>
+<ul>
+	<li>
+		Stock options</li>
+	<li>
+		Competitive salary</li>
+	<li>
+		Medical insurance</li>
+	<li>
+		A pony</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/octopart/leIBFi"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121120143948_JG0SGKRFJLQ6Z8RY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Engineering]]></title>
+			<department><![CDATA[Product]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://octopart.theresumator.com/apply/aWqzXy/Engineering.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10001]]></postalcode>
+			<description><![CDATA[<p>
+Octopart builds tools to help engineers and scientists change the world. Our electronic part search engine is already being used by hundreds of thousands of engineers to design electronic hardware and we&rsquo;re just getting started. Join our team and help us solve problems that will impact the pace of technological innovation.</p>
+<p>
+<strong>Qualifications</strong></p>
+<ul>
+<li>
+Mastered&nbsp;at least one programming language. We write mostly Python and Javascript but also some Java.</li>
+<li>
+Extremely comfortable with Linux</li>
+<li>
+Personal projects that show passion for engineering and product design</li>
+<li>
+You know how the web works from TCP to HTML even if you need to look up the details</li>
+</ul>
+<p>
+<strong>Desirable</strong></p>
+<ul>
+<li>
+Experience in the physical or biological sciences</li>
+</ul>
+<p>
+<strong>Benefits</strong></p>
+<ul>
+<li>
+Stock options</li>
+<li>
+Competitive salary</li>
+<li>
+Medical insurance</li>
+<li>
+A pony</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/octopart/aWqzXy"></script>]]></buttons>
+		</job>
+	</jobs>

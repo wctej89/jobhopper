@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[ByteLight]]></company>
+			<job>
+			<id><![CDATA[job_20120529210346_R7X1RPIH1GZ4ZH3U]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Back-End/Rails Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://bytelight.theresumator.com/apply/1L0M9x/BackEndRails-Developer.html]]></url>
+			<city><![CDATA[Cambridge]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02142]]></postalcode>
+			<description><![CDATA[<p>ByteLight is looking for an experienced software engineer to join our team as a founding member creating the ByteLight product platform. We are a funded, early stage startup, working out of Dogpatch Labs (Cambridge, MA), creating a revolutionary indoor GPS platform. While the majority of our work is in software, we aren&rsquo;t afraid of blowing up some light bulbs.<br /><br />Candidates must have the experience and skills necessary to design and build a product platform from the ground up including server architecture, REST APIs, back office applications, automated testing, deployment procedures, and supporting a stable platform while evolving it.</p><p><br />Essential skills and experience:&nbsp;</p><ul style=""><li>5+ years creating database-driven web applications</li><li>Strong in Ruby, Rails and front-end technologies (HTML, CSS, JS)</li><li>A generalist that can work full stack: from database to front end</li><li>Modern software engineering tools and disciplines such as version control, TDD &amp;&nbsp;continuous integration and agile process</li><li>Mature with lots of passion for creating great software</li><li>A great work ethic and the ability to consistently deliver high quality work</li><li>A need to be challenged, wear lots of hats, and create something great</li></ul><p>Nice to haves:&nbsp;</p><ul><li>Experience managing a small- or medium-size development team</li><li>Experience developing and supporting a platform or product</li><li>NoSQL databases</li><li>Experience designing and deploying both cloud-based and traditional server architectures</li><li>Mobile application development</li><li>Experience with any of the following: git, CoffeeScript, Sass, iOS, Android, HTML5, Redis, MongoDB, Amazon AWS</li></ul><p><br />Why you should work here:&nbsp;</p><ul><li>&bull; Located in Kendall Square on the Red Line in the heart of the Boston startup community</li><li>&bull; Compensation includes equity. Varies with skills and experience.</li><li>&bull; Be part of a small team of talented, passionate people creating something great</li><li>&bull; Work with the latest technologies from the server side to mobile</li></ul>]]></description>
+			<type><![CDATA[Contracted to Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bytelight/1L0M9x"></script>]]></buttons>
+		</job>
+	</jobs>

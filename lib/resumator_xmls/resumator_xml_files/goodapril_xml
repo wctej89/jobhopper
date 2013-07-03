@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[GoodApril]]></company>
+			<job>
+			<id><![CDATA[job_20130617164134_DEL4WRMCBPVLU5LG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Lead Developer: Full Stack Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://goodapril.theresumator.com/apply/byeFij/Lead-Developer-Full-Stack-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94111]]></postalcode>
+			<description><![CDATA[<p>
+<strong>We&rsquo;re Looking for our First, Lead Developer / CTO</strong><br />
+<em>San Francisco-based startup currently participating in TechStars Boulder</em></p>
+<p>
+<u>About Us:</u> GoodApril is the first online tax planning solution for consumers.&nbsp; Unlike after-the-fact tax filing solutions like TurboTax, GoodApril leverages data aggregation to provide ongoing, in-year tax guidance to consumers, giving them confidence that they&#39;re only paying their fair share to Uncle Sam and aren&#39;t in for an April &quot;surprise.&quot;&nbsp; Founded by a pair of experienced FinTech entrepreneurs, GoodApril is a funded, TechStars-backed startup.</p>
+<p>
+<u>The Role:</u> GoodApril is looking for a Lead Developer / CTO to accelerate the development of our Ruby on Rails web application.&nbsp; You will be our first full-time engineer, and will play a critical role in expanding our technology stack and online customer experience.&nbsp; You will be responsible for both architecting and developing technology &ndash; this is a hands-on, individual contributor role with the opportunity to build out a team under you.</p>
+<p>
+Ideal candidates will have most of the following:</p>
+<ul>
+<li>
+BS or MS in Computer Science or equivalent work experience</li>
+<li>
+At least 2+ years of web development experience (if you&rsquo;re an Engineer savant, more if you&rsquo;re not)</li>
+<li>
+A passion for building amazing consumer technology experiences, and the intuition and skills to actually do it</li>
+<li>
+Experience building financial technology, and a decent understanding of personal finance</li>
+<li>
+Language agnostic, but interested in and have experience building in Ruby on Rails and using Ruby Metaprogramming</li>
+<li>
+You are comfortable working in all aspects of a web application: front-end, back-end, database, performance tuning</li>
+<li>
+Solid understanding of the diverse web development languages and frameworks in use today: Ruby, JavaScript, HTML, CSS, Node.js etc.</li>
+<li>
+A desire to learn and apply new technologies when needed</li>
+<li>
+Javascript MVC framework experience (angularjs, backbone.js, ember.js, etc.)</li>
+<li>
+Ability to work in a fast-paced, high energy, and dynamic work environment</li>
+<li>
+Self-motivated with the ability to work individually and with a team</li>
+</ul>
+<p>
+Under &quot;Website, Blog or Portfolio&quot;, below, please include your GitHub account. &nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/goodapril/byeFij"></script>]]></buttons>
+		</job>
+	</jobs>

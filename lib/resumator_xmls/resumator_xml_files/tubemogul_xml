@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[TubeMogul]]></company>
+			<job>
+			<id><![CDATA[job_20110915191345_APRSAA66V6WUSGAQ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Systems Operations Developer at TubeMogul]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://tubemogul.theresumator.com/apply/nu9S3f/Systems-Operations-Developer-At-TubeMogul.html]]></url>
+			<city><![CDATA[Emeryville]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94608]]></postalcode>
+			<description><![CDATA[<p>
+	Our operations team is searching for another Systems Operations Developer to help build out an advanced, cloud-based application. The operations team leverages some of the most cutting edge technology to simplify an otherwise complex system.</p>
+<p>
+	<strong>Required :</strong></p>
+<ul>
+	<li>
+		Linux Ubuntu, Debian, CentOS</li>
+	<li>
+		Bash or other shell</li>
+	<li>
+		At least one of : Perl, Python, Ruby</li>
+	<li>
+		Configuration and automation of Nagios</li>
+	<li>
+		Knowledge of TCP/IP, DNS (Bind), LDAP (OpenLDAP), NFS, SSH Tunnelling, OpenVPN, Apache httpd 2.x</li>
+</ul>
+<p>
+	<strong>Desired skills :</strong></p>
+<ul>
+	<li>
+		Knowledge in deploying / configuring Java applications (Servlet Container : Tomcat, Jetty, Virgo, Glassfish)</li>
+	<li>
+		Ganglia / Munin plugin</li>
+	<li>
+		MySQL</li>
+	<li>
+		Haproxy or any other software loadbalancer solution</li>
+	<li>
+		Software Raid with LVM or mdadm</li>
+</ul>
+<p>
+	<strong>Bonus :</strong></p>
+<ul>
+	<li>
+		Lua and MySQL Proxy</li>
+	<li>
+		Java, C/C++, PHP</li>
+	<li>
+		Puppet/Cfengine or any other configuration management tool</li>
+	<li>
+		Rsnapshot, Bacula</li>
+	<li>
+		Experience with Amazon AWS (EC2, S3, EBS, EIP)</li>
+	<li>
+		Membase and memcached</li>
+	<li>
+		Hadoop, Hive, Hbase, Zookeeper Administration</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>Who We Are Looking For:</strong><br />
+	Candidates will be familiar with the technologies we are using but may have not necessarily had the ability to work on them in their current job setting. That&#39;s generally ok. What we value over direct experience with the latest buzzword is true passion for technology that is apparent thru your previous work. Furthermore, the best candidates are excellent team players -- prima donnas need not apply. One of the benefits of working here is coming to work with people you like to work with.</p>
+<p>
+	Engineering roles at TubeMogul are not necessarily rigid. Developers interested in developing skills outside of their core competency are often rotated into projects that interest them.&nbsp; Again, the best candidates will have a passion for technology and eagerness to pick up new skills.</p>
+<p>
+	Finally, while it is true that we have a vending machine stocked with beer and other &quot;nonstandard&quot; beverages, we take our work quite seriously. Various members of the team are involved in open source projects and speaking events. Furthermore, out products speak for themselves thru high adoption and client retention.</p>
+<p>
+	<br />
+	<strong>What is TubeMogul?</strong><br />
+	TubeMogul is the only video marketing company built for branding. By integrating real-time media buying, ad serving, targeting, optimization and brand measurement into its PlayTime platform, TubeMogul simplifies the delivery of video ads.</p>
+<p>
+	<strong>Benefits and Perks:</strong><br />
+	You&rsquo;ll appreciate a competitive compensation package including generous benefits and stock options. You&rsquo;ll love a challenging work environment, A-player colleagues, momentum, strong leadership and clear objectives and the ability to make a difference. Other benefits include: health and dental, 401k, bonus program, cool office with outdoor patio, flat screen monitors, in-office game room, choice of Windows or Mac laptop with SSD drive and lots more.&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/tubemogul/nu9S3f"></script>]]></buttons>
+		</job>
+	</jobs>

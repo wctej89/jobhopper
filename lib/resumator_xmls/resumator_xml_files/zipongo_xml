@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Zipongo]]></company>
+			<job>
+			<id><![CDATA[job_20121105084352_BJXSB0XTSLGJNCQF]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Software Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Product, Engineering and User Marketing]]></team>
+			<url><![CDATA[http://zipongo.theresumator.com/apply/qSbVyp/Senior-Software-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94111]]></postalcode>
+			<description><![CDATA[<p>
+<span id="internal-source-marker_0.9994779566325546" style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: bold; font-style: normal; text-decoration: none; vertical-align: baseline;">About Us</span><br />
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">&nbsp;&nbsp;&nbsp; </span><br />
+<span style="background-color: transparent; color: rgb(0, 0, 0); font-family: Arial; font-size: 10pt; ">We are fast-growing health tech startup with a vision for decreasing the prevalence of chronic disease. &nbsp;Our National digital grocery integration network gives us access to grocery shopping history data to power rewards for healthy eating and a personalized GroceryRx-- the first component of our Prescription for Healthy Living.&nbsp; Our unique approach to personalized healthy meal planning and promotions will change the way people eat and buy food, and receive guidance from their care providers.</span></p>
+<p>
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; vertical-align: baseline; ">Rather than Ninjas or Rockstars, we employee Fire Spinners (ok, one of our engineers is, but it&#39;s okay if you bring spark, without the fire). We are backed by marquee investors and advisors, and located in the heart of San Francisco near the Embarcadero and Levi&#39;s Plaza in San Francisco. &nbsp;</span><span style="background-color: transparent; color: rgb(0, 0, 0); font-family: Arial; font-size: 10pt; ">We are engineers, designers, MBA&rsquo;s, personal trainers, nutritionists, chefs and foodies, working to Be the Change we Want to See in the World.&nbsp; </span><span style="background-color: transparent; color: rgb(0, 0, 0); font-family: Arial; font-size: 10pt; ">We are seeking A+ players to join our dynamic and driven team, to tackle our exciting opportunities, and lead the execution of a creative &amp; focused product roadmap.&nbsp; Check us out at www.zipongo.com!</span></p>
+<p>
+<br />
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: bold; font-style: normal; text-decoration: none; vertical-align: baseline;">About You</span><br />
+<br />
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">As a Senior Software Engineer, you&rsquo;ll lead the development of the Zipongo platform and applications, in an Agile environment, working with our team members and users to translate user stories into specs. &nbsp;You&rsquo;ll also ultimately develop, document, test and maintain our platform and applications.</span><br />
+<br />
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">RESPONSIBILITIES:</span></p>
+<ul>
+<li style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">Develop web-based tools and Restful APIs&nbsp;with PHP/ Zend Platform, JavaScript, Node.js, and related technologies, through Agile methodologies and user stories</span></li>
+<li style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">Lead new and existing applications through their full lifecycle &ndash; provide training, support, and maintenance as necessary</span></li>
+<li style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">Create beautiful front-end UIs that are also simple, intuitive, and efficient, in collaboration with our UX and Visual Design team</span></li>
+<li style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">Develop efficient and maintainable web services/ Restful APIs supporting web and mobile applications</span></li>
+<li style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">Help administer servers and databases necessary to host the tools</span></li>
+<li style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">Thoroughly document new and existing tools, both at the code level and the user level</span></li>
+</ul>
+<p>
+<span style="background-color: transparent; color: rgb(0, 0, 0); font-family: Arial; font-size: 10pt; ">As a strong candidate, you have&hellip;</span></p>
+<ul>
+<li style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">A BS or MS in Computer Science,&nbsp;Engineering or related field</span></li>
+<li style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">PHP, JavaScript, MySQL, HTML, and CSS skills (5+ years experience)</span></li>
+<li style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">
+<span style="font-size: 10pt; background-color: transparent; vertical-align: baseline;">Skilled with JQuery and AJAX</span></li>
+<li style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">Experienced with web services development, XML, JSON</span></li>
+<li style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">Proficiency with&nbsp;SVN or Git&nbsp;and standard code management tools</span></li>
+<li style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">Organized, detail oriented and highly dependable</span></li>
+</ul>
+<p>
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">As an Exceptional candidate, you have&hellip;</span></p>
+<ul>
+<li style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">Experience with Zend and MVC programming</span></li>
+<li style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">Experience with additional languages, such as Java, Python,&nbsp;Ruby, and Objective-C</span></li>
+<li style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">
+<span style="background-color: transparent; font-size: 10pt;">Knowledge of AWS and cloud based server tools</span></li>
+<li style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">Effective problem solving skills including decision making and time management</span></li>
+<li style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">Ability to approach problems logically &amp; rationally</span></li>
+<li style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">Action-oriented, internally driven and self disciplined</span></li>
+<li style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">Ability to quickly &amp; effectively prioritize to meet business needs and deadlines</span></li>
+</ul>
+<p>
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">The Opportunity</span></p>
+<ul>
+<li style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">Leadership, Autonomy and Creative Collaboration</span></li>
+<li style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">Mentorship from National Leaders in web engineering, design, social entrepreneurship, venture investing, public health and medicine</span></li>
+<li style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">Equity, Competitive Salary and Benefits Options</span></li>
+<li style="list-style-type: disc; font-size: 11pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">Positively impacting the way people eat and live</span></li>
+</ul>
+<p>
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">We believe in our mission, and we want to be joined by brilliant, creative, hard working and balanced people who want to have a positive impact on our culture. If you&#39;re interested, please Apply from this page. Include your resume, and a cover letter that includes an explanation of your interest in Zipongo, a theory on the meaning of our name, or your best joke.&nbsp;</span><br />
+<br />
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">Thanks! </span><br />
+<span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: normal; font-style: normal; text-decoration: none; vertical-align: baseline;">The zSquad</span></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/zipongo/qSbVyp"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121105085736_PX6FXCLAS8ZTWW4H]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Mobile Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Product, Engineering and User Marketing]]></team>
+			<url><![CDATA[http://zipongo.theresumator.com/apply/dpoFM9/Mobile-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94111]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About Zipongo:</strong></p>
+<p>
+We are a funded, fast-growing health tech startup with a vision for decreasing the prevalence of chronic disease globally.&nbsp; We are scaling our social/ mobile/ local healthy foods marketplace through our newly developed National digital grocery integration network.&nbsp; Our unique approach to personalized healthy meal planning and promotions will change the way people eat and buy food, and receive guidance from their care providers.</p>
+<p>
+We are backed by marquee investors and advisors, and located in the heart of San Francisco near the Embarcadero in San Francisco.&nbsp; We are seeking A+ players to join our dynamic and driven team (we have a Fire Spinner--seemed more novel than a ninja or rockstar), to tackle our exciting opportunities, and lead the execution of a creative &amp; focused product roadmap.&nbsp; Check us out at zipongo.com!</p>
+<p>
+<strong>Zipongo.&nbsp; Health Yourself&trade;.</strong></p>
+<p>
+Job Description:</p>
+<p>
+We are looking for a Mobile Lead Developer who has a passion for applying technology to advance health and can lead the design and development of an innovative new Mobile solution.&nbsp; Our ideal candidate has experience in driving mobile projects end-to-end, collaborating on product definitions with business teams, architecting and implementing the technical solution, and measuring its success. Our ideal candidate thrives in a fast-moving, startup environment, has a personal interest in health and wellness, and is passionate about Zipongo&#39;s mission.</p>
+<p>
+Key Responsibilities:<br />
+&bull; Develop Zipongo&rsquo;s mobile applications<br />
+&bull; Participate in overall planning, and execution of mobile projects<br />
+&bull; Work closely with the product and design teams</p>
+<p>
+Requirements:<br />
+&bull; 5+ years professional experience in full lifecycle software development<br />
+&bull; Extensive eperience developing iOS applications<br />
+&bull; Shipped web and/or mobile products at scale (hundreds of thousands of users)<br />
+&bull; Hands-on experience with best practices - rapid, test-driven development, continuous deployment, and clean, well-documented code<br />
+&bull; Experience defining APIs for internal and external use, and opening up a platform to 3rd party developers.<br />
+&bull; Experience and ability to work with code at every level from the UI to backend services<br />
+&bull; Experience with publishing an app to the App Store or Google Play<br />
+&bull; Good track record of working in a culture of collaboration and execution<br />
+&bull; Prior experience working in the nutrition, healthcare, or recipe space and with personalization analytics a plus.<br />
+&bull; Personal interest in health and wellness.<br />
+&bull; Heavy user of mobile applications in day-to-day life<br />
+&bull; BS or MS in Computer Science or related field.</p>
+<p>
+Bonus if you:<br />
+&bull; Have developed Android or Windows 7 applications<br />
+&bull; Understand retail environments and/or consumer eCommerce applications<br />
+&bull; Can code in PHP<br />
+&bull; Know front end software development (HTML5, JavaScript, AJAX, CSS, JQuery, Sencha, etc)</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/zipongo/dpoFM9"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130308000920_FHSEEV8XFB6CSKID]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Community Management and Marketing Intern]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://zipongo.theresumator.com/apply/Tc35Oy/Community-Management-And-Marketing-Intern.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94111]]></postalcode>
+			<description><![CDATA[<p>
+About Zipongo:<br />
+Zipongo is a funded, fast-growing health tech startup with a vision for decreasing the prevalence of chronic disease globally.&nbsp; We have built a social/ mobile/ local healthy foods marketplace powered by our newly developed national digital grocery integration network.&nbsp; Our unique approach to personalized healthy meal planning and promotions will change the way people eat and buy food, and receive guidance from their care providers.</p>
+<p>
+We are backed by marquee investors and advisors, and located in the heart of San Francisco.&nbsp; We are seeking A+ players to join our dynamic and driven team, to tackle our exciting opportunities, and lead the execution of a creative &amp; focused product roadmap.&nbsp; Check us out at www.zipongo.com!<br />
+Zipongo.&nbsp; Health Yourself&trade;.</p>
+<p>
+Job Description:<br />
+Zipongo seeks a resourceful, creative, and people-oriented Community Management and Marketing Intern to work with our product and marketing team.&nbsp; Our ideal candidate thrives in a fast-moving, startup environment; he/she is a self-starter who is great at spotting opportunities, and has the unique ability to take action to &ldquo;make awesome things happen&rdquo;. This individual has a deep interest in health and wellness (like all of us here on the team), and is passionate about Zipongo&#39;s mission.</p>
+<p>
+Key Responsibilities Include:<br />
+Community Management<br />
+Outreach to Zipongo users<br />
+Social media management (primarily Facebook, Pinterest, Twitter)<br />
+Customer support</p>
+<p>
+PR<br />
+Outreach to media contacts<br />
+Cultivate relationships with blogger networks and communities<br />
+Organize press materials<br />
+Help with Zipongo&rsquo;s presence at major events</p>
+<p>
+Additionally, this individual will lead/support other marketing activities as opportunities arise</p>
+<br />
+<p>
+Skills/Experience Requirements:<br />
+Bachelors degree</p>
+<p>
+Strong written and verbal communication skills<br />
+Proficient with Google Drive/Documents and Microsoft Word and Excel<br />
+Motivated and detail-oriented<br />
+Able to manage time wisely and multi-task<br />
+Prior experience in consumer web/mobile applications and software as a service a plus<br />
+Prior experience in marketing, PR, social media, and/or customer support a plus<br />
+Prior experience in food and nutrition a plus</p>
+<p>
+Internship length is 10 weeks. School credit can be applied.&nbsp; Local San Francisco Bay Area candidates only.</p>
+<p>
+Please include your cover letter and resume if interested.</p>
+]]></description>
+			<type><![CDATA[Internship]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/zipongo/Tc35Oy"></script>]]></buttons>
+		</job>
+	</jobs>

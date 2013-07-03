@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Stitch Labs]]></company>
+			<job>
+			<id><![CDATA[job_20130626012958_BP1Y5VDXM6OC5HQU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Backend PHP Ninja - Democratize Commerce for Businesses]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://stitchlabs.theresumator.com/apply/0LG3Oy/Backend-PHP-Ninja-Democratize-Commerce-For-Businesses.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About Us</strong><br />
+We are democratizing commerce for businesses. At a time when the world needs small businesses to stimulate the economy, we strive to be the company that helps businesses designing, making and selling products succeed. You know someone out there selling products; we know you do. Wouldn&#39;t it be amazing to help them make more money, hire another person, or chase their dream? If you&#39;re down with that, read on.</p>
+<p>
+<strong>Growing Stitch Labs</strong><br />
+We&#39;re looking for a dedicated backend PHP engineer to join us on our mission to help product-based businesses with the not-so-fun stuff (which is way more fun than it sounds). We love beautiful design, brilliant UX/UI, and value integrity, trust, and respect.</p>
+<p>
+Stitch Labs is an awesome place to work. We are not interested in unnecessary hierarchy; instead we work as a collaborative team where we know what each other does and focus on getting things done. Everyone who works here has a voice and we all know our contributions make a real difference to the overall picture. Did we mention that Stitch is an awesome place to work?</p>
+<p>
+With great responsibility comes great reward, and we pay well for peoples&#39; commitment. We are an early stage company and you need to be willing to work on a small team (less than 15 people) and provide real impact.<br />
+Check out Our Mission and Values.</p>
+<p>
+<strong>What You&rsquo;ll Be Doing</strong><br />
+In short, you&rsquo;ll be helping to supercharge our backend and take Stitch to the next level of awesome. You&rsquo;ll get to solve complex, high concurrency, direct customer impacting riddles.....with support from the rest of the team of course! We&rsquo;ve more than quadrupled our growth in the last year with no signs of slowing down, we&rsquo;ll need someone to help keep that pace and keep us going! If you love having big goals, impossible challenges, and making customers incredibly happy whilst fostering your obsessive need for perfect code and user experience, this is the job for you.</p>
+<p>
+Along with coding, you will be responsible for working with our frontend developers on our agile and ultra-efficient team. Communicating with customers is a must to make sure we are delivering the most beautiful, intuitive application possible.</p>
+<p>
+Stitch is evolving rapidly, and we want you to help shape the backend development of that process.</p>
+<p>
+<strong>Required Skills</strong></p>
+<ul>
+<li>
+3+ years of experience with PHP</li>
+<li>
+1+ years of experience with MySQL</li>
+<li>
+Experience working on teams and/or open source projects</li>
+<li>
+Experience with GIT SCM</li>
+<li>
+Experience working with RESTful APIs (both consuming and providing)</li>
+<li>
+Passion for solving complex resource scaling problems (We&rsquo;re going to need A LOT more cowbell...)</li>
+<li>
+Basic Linux knowledge (primarily debian based)</li>
+<li>
+Understanding of job/message queues (Gearman, Resque anyone?)</li>
+<li>
+Experience with configuration management tools (primarily Puppet)</li>
+<li>
+Passion for user experience</li>
+<li>
+Never ending desire to self-educate on the latest PHP, MySQL, Elasticsearch, and other scalable backend technologies</li>
+</ul>
+<p>
+<strong>Benefits &amp; Perks</strong></p>
+<ul>
+<li>
+Downtown SF office</li>
+<li>
+Competitive salary &amp; equity package</li>
+<li>
+Health, dental, and optical insurance</li>
+<li>
+Outstanding network of start-up businesses backed by top tier venture capitalists</li>
+<li>
+Team events, meals, shelves stocked with snacks, and other fun outside-the-office activities</li>
+<li>
+Your choice of hardware - Want the latest Mac? We&rsquo;re down with that! A workhorse Lenovo? We like your style... Multiple monitors? You got it!</li>
+<li>
+Responsibility and autonomy in a flexible work environment</li>
+<li>
+An exciting, challenging role in a growing business</li>
+<li>
+Ground floor - be one of the early employees and help develop processes for a growing company</li>
+</ul>
+<p>
+<strong>Fun Stuff</strong><br />
+We&#39;re a VC funded start-up. You&#39;re going to get paid well, and yes, we&#39;ll have lots of cold beer in the fridge and more craft coffee than you could possibly drink. You better be able to bowl above 100 and if you can eat 6 saltine crackers in under a minute, without the assistance of H2O, you will instantly become our hero. You will be tested.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/stitchlabs/0LG3Oy"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130626013222_DCSLAGIUIZR4FZXH]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Frontend Javascript Superhero - Democratize Commerce for Businesses]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://stitchlabs.theresumator.com/apply/tkINwy/Frontend-Javascript-Superhero-Democratize-Commerce-For-Businesses.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About Us</strong><br />
+We are democratizing commerce for businesses. At a time when the world needs small businesses to stimulate the economy, we strive to be the company that helps businesses designing, making and selling products succeed. You know someone out there selling products; we know you do. Wouldn&#39;t it be amazing to help them make more money, hire another person, or chase their dream? If you&#39;re down with that, read on.</p>
+<p>
+<strong>Growing Stitch Labs</strong><br />
+We&#39;re looking for a dedicated front-end engineer to join us on our mission to help product-based businesses with the not-so-fun stuff (which is way more fun than it sounds). We love beautiful design, brilliant UX/UI, and value integrity, trust, and respect.</p>
+<p>
+Stitch Labs is an awesome place to work. We are not interested in unnecessary hierarchy; instead we work as a collaborative team where we know what each other does and focus on getting things done. Everyone who works here has a voice and we all know our contributions make a real difference to the overall picture. Did we mention that Stitch is an awesome place to work?</p>
+<p>
+With great responsibility comes great reward, and we pay well for peoples&#39; commitment. We are an early stage company and you need to be willing to work on a small team (less than 15 people) and provide real impact.<br />
+Check out Our Mission and Values.</p>
+<p>
+<strong>What You&rsquo;ll Be Doing</strong><br />
+In short, you will be building Trousers. Trousers is the next generation of Stitch and will use the latest javascript, CSS, and HTML technologies.</p>
+<p>
+You will have a blank canvas to architect and develop our next gen application from the ground up, with support from the rest of the team of course! If you love having big goals, impossible challenges, and making customers incredibly happy whilst fostering your obsessive need for perfect code and user experience, this is the job for you.</p>
+<p>
+Along with coding, you will be responsible for working with our backend developers and designers on our agile and ultra-efficient team. Communicating with customers is a must to make sure we are delivering the most beautiful, intuitive application possible.</p>
+<p>
+Stitch is evolving rapidly, and we want you to lead the front-end development of that process.</p>
+<p>
+<strong>Required Skills</strong></p>
+<ul>
+<li>
+3+ years of experience with javascript (not just jQuery)</li>
+<li>
+1+ years of experience with a javascript MVC such as backbone.js, angular.js, knockout.js, ember.js, etc.</li>
+<li>
+1+ years of experience with CSS framework such as LESS, Sass, etc.</li>
+<li>
+Experience working on teams and/or open source projects</li>
+<li>
+Firm grasp of framework URL based routing principles</li>
+<li>
+Familiarity with standard javascript async patterns (closures, callbacks, promises, error handling, etc.)</li>
+<li>
+Experience with GIT SCM</li>
+<li>
+Experience working with RESTful APIs</li>
+<li>
+Passion for user experience</li>
+<li>
+Never ending desire to self-educate on the latest HTML, CSS, javascript, and other web technologies</li>
+<li>
+Basic understanding of PHP</li>
+<li>
+Basic understanding of Photoshop and ability to slice a document into pixel perfect HTML &amp; CSS</li>
+<li>
+Experience with a data visualization package is a huge plus! (Highcharts, d3.js, etc.)</li>
+</ul>
+<p>
+<strong>Benefits &amp; Perks</strong></p>
+<ul>
+<li>
+Downtown SF office</li>
+<li>
+Competitive salary &amp; equity package</li>
+<li>
+Health, dental, and optical insurance</li>
+<li>
+Outstanding network of start-up businesses backed by top tier venture capitalists</li>
+<li>
+Team events, meals, shelves stocked with snacks, and other fun outside-the-office activities</li>
+<li>
+Your choice of hardware - Want the latest Mac? We&rsquo;re down with that! A workhorse Lenovo? We like your style... Multiple monitors? You got it!</li>
+<li>
+Responsibility and autonomy in a flexible work environment</li>
+<li>
+An exciting, challenging role in a growing business</li>
+<li>
+Ground floor - be one of the early employees and help develop processes for a growing company</li>
+</ul>
+<p>
+<strong>Fun Stuff</strong><br />
+We&#39;re a VC funded start-up. You&#39;re going to get paid well, and yes, we&#39;ll have lots of cold beer in the fridge and more craft coffee than you could possibly drink. You better be able to bowl above 100 and if you can eat 6 saltine crackers in under a minute, without the assistance of H2O, you will instantly become our hero. You will be tested.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/stitchlabs/tkINwy"></script>]]></buttons>
+		</job>
+	</jobs>

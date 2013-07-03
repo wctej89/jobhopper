@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[HealthGrades, Inc.]]></company>
+			<job>
+			<id><![CDATA[job_20120125235331_BPBI4GEMM7RUAYAQ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior .Net Services Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://healthgrades.theresumator.com/apply/GZyJfD/Senior-Net-Services-Developer.html]]></url>
+			<city><![CDATA[Denver]]></city>
+			<state><![CDATA[CO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[80202]]></postalcode>
+			<description><![CDATA[<p>
+	Join us at HealthGrades.com, a leading healthcare information website guiding Americans to their best health.&nbsp; We are transforming how patients select healthcare and healthcare providers.&nbsp; Visit our web sites -- Healthgrades.com and Bettermedicine.com &ndash; to get access to choosing a healthcare provider, as well as, relevant healthcare information.&nbsp; Our sites are the No. 3 consumer destination for healthcare information.&nbsp; Our vision is to become the number 1 site for quality, relevant healthcare information.<br />
+	<br />
+	HealthGrades is over 14 years old, with an entrepreneurial spirit and the energy of a start-up.&nbsp; We are in the process of redesigning our core infrastructure from the ground-up.&nbsp; Do you enjoy collaborating with smart, enthusiastic professionals with passion and drive?&nbsp; Do you like making a difference?</p>
+<p>
+	------------</p>
+<p>
+	<strong>Description</strong></p>
+<p>
+	We are looking for a senior developer with ASP.net services and backend expertise. We are building external and internal RESTful services that need someone with strong experience in building useful APIs.&nbsp; The external API will be consumed in real-time for some of the largest healthcare web sites in the industry so scalability, monitoring, and quality are critical to its success. You will define and drive the overall enterprise services solutions, including features like location, mapping, geoip, provider, ratings and make them available through the public web.&nbsp; Some of your customers will be internal developers and team leads who need to consume your services. The approach is to develop a framework and approach that can easily be extended by other teams at HealthGrades.</p>
+<p>
+	<strong>Background Required</strong></p>
+<p>
+	A strong candidate will have 5+ years of professional web development, a proven track record developing public-facing web sites,and a general passion for web-development.</p>
+<p>
+	Education:</p>
+<ul>
+	<li>
+		Bachelor&rsquo;s Degree</li>
+</ul>
+<p>
+	Experience:</p>
+<ul>
+	<li>
+		5+ years of professional web development</li>
+	<li>
+		Experience developing data driven web applications in ASP.net (MVC 3), WCF (SOAP) and using WPF (MVVM).</li>
+	<li>
+		Expert-level knowledge and experience building RESTful APIs.</li>
+	<li>
+		Strong understanding of object-oriented design and software development principles</li>
+	<li>
+		Strong understanding of web-based architecture (web servers, load balancing, caching, databases, replication, etc.)</li>
+	<li>
+		Mastery of databases (SQL Server)</li>
+	<li>
+		Mastery of search engines (Solr)</li>
+	<li>
+		Experience with JavaScript and other web technologies (XHTML, CSS, Ajax, Json, etc.)</li>
+	<li>
+		Understanding of version control techniques (Git, Subversion, TFS 2010)</li>
+	<li>
+		Test-driven development (TDD) and creating unit tests</li>
+	<li>
+		Up-to-date knowledge of latest trends in web application development</li>
+	<li>
+		Experience meeting SLA objectives</li>
+	<li>
+		Expert tuning of services and using caching technologies</li>
+	<li>
+		Familiar with Web APIs like Amazon EC2, Salesforce, Google, and Bing.</li>
+	<li>
+		Familiar with SOAP APIs</li>
+	<li>
+		Strong communication skills and attention to detail</li>
+</ul>
+<p>
+	HealthGrades offers a fast-paced, dynamic work environment including a competitive salary and benefits including medical, dental, vision, 401(k), vacation and holidays.&nbsp; The exciting part of working here is not the dental plans but the opportunity to be a key player in helping consumers make healthcare decisions and working with like-minded people who are passionate, focused and driven to make a difference in an industry that touches everyone&rsquo;s lives.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/healthgrades/GZyJfD"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120208181700_NLEILWYQSRJHPII4]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Configuration Manager]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://healthgrades.theresumator.com/apply/CUI7Wj/Software-Configuration-Manager.html]]></url>
+			<city><![CDATA[Denver]]></city>
+			<state><![CDATA[CO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[80202]]></postalcode>
+			<description><![CDATA[<p>
+	Join us at HealthGrades.com, a leading healthcare information website guiding Americans to their best health.&nbsp; We are transforming how patients select healthcare and healthcare providers.&nbsp; Visit our web sites -- Healthgrades.com and Bettermedicine.com &ndash; to get access to choosing a healthcare provider, as well as, relevant healthcare information.&nbsp; Our sites are the No. 3 consumer destination for healthcare information.&nbsp; Our vision is to become the number 1 site for quality, relevant healthcare information.</p>
+<p>
+	HealthGrades is over 14 years old, with an entrepreneurial spirit and the energy of a start-up.&nbsp; We are in the process of redesigning our core infrastructure from the ground-up.&nbsp; Do you enjoy collaborating with smart, enthusiastic professionals with passion and drive?&nbsp; Do you like making a difference?<br />
+	------------<br />
+	<strong>Description</strong></p>
+<p>
+	We are looking for a Software Configuration Manager to be responsible for collaborating with multiple teams on configuration management, build, and release activities. The primary development and build platform is Microsoft Windows Server 2008 with related technologies including .Net 4, IIS 7, Team Foundation Server 2010, Visual Studio 2010, and SQL Server 2008. This position will provide guidance and implement Software Configuration Management (SCM), source code branching, merging, build strategies and deployment strategies along with maintaining the tools and environments to help the teams deliver major software releases.<br />
+	&nbsp;</p>
+<p>
+	<strong>Background Required</strong></p>
+<p>
+	A strong candidate will have 7+ years of software configuration management experience, a proven track record in a company developing public-facing web sites, and a general passion for delivering high-quality releases.<br />
+	&nbsp;</p>
+<p>
+	Education:</p>
+<ul>
+	<li>
+		Bachelor&rsquo;s Degree</li>
+</ul>
+<p>
+	Certifications:</p>
+<ul>
+	<li>
+		CTFL, ISTQB, CSQA, or CSTE preferred</li>
+</ul>
+<p>
+	Experience:</p>
+<ul>
+	<li>
+		7+ years in software configuration management</li>
+	<li>
+		Experience implementing SCM policies and procedures</li>
+	<li>
+		Ability to implement, document, and maintain CM scripts</li>
+	<li>
+		Experience implementing CM best practices in an Agile development environment</li>
+	<li>
+		Hands-on experience assisting developers with development issues related to CM tool use (check in/out, branching, and tagging)</li>
+	<li>
+		Hands-on experience performing software builds and releases</li>
+	<li>
+		Ability to manage and track multiple configurations of a system under test (hardware and software)</li>
+	<li>
+		Considerable knowledge of Team Foundation Server (TFS) 2010 and Git</li>
+	<li>
+		Considerable knowledge of build definitions, IIS7 administration and application deployment</li>
+	<li>
+		Considerable knowledge of .Net and Java programming</li>
+	<li>
+		Considerable knowledge of SQL Server / T-SQL</li>
+	<li>
+		Knowledge of Agile/Scrum methodology</li>
+	<li>
+		Skill in resolving basic hardware/software problems or malfunctions</li>
+	<li>
+		Skill in solid decision-making and problem solving</li>
+	<li>
+		Skill in understanding and focusing on the clients&#39; needs, establishing credibility and building client relationships</li>
+	<li>
+		Ability to communicate effectively verbally and in writing</li>
+	<li>
+		Ability to work cooperatively with technical and business personnel in a joint application development approach</li>
+	<li>
+		Ability to establish and maintain effective working relationships</li>
+</ul>
+<p>
+	HealthGrades offers a fast-paced, dynamic work environment including a competitive salary and benefits including medical, dental, vision, 401(k), vacation and holidays.&nbsp; The exciting part of working here is not the dental plans but the opportunity to be a key player in helping consumers make healthcare decisions and working with like-minded people who are passionate, focused and driven to make a difference in an industry that touches everyone&rsquo;s lives.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/healthgrades/CUI7Wj"></script>]]></buttons>
+		</job>
+	</jobs>

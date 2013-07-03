@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[CircleUp]]></company>
+			<job>
+			<id><![CDATA[job_20130207195455_KXPMNSL9EETFM3ZD]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front-End Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://circleup.theresumator.com/apply/aFf67t/FrontEnd-Engineer.html]]></url>
+			<city><![CDATA[San Francisco Bay Area]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94102]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Skills &amp; Experience</strong></p>
+<ul>
+<li>
+Expert-level proficiency in HTML5, CSS3, Javascript, jQuery, and AJAX.</li>
+<li>
+B.S. in Computer Science or equivalent and minimum 3 years web development experience</li>
+</ul>
+<p>
+<br />
+<strong>Nice-to-haves</strong></p>
+<ul>
+<li>
+Python/Django application stack experience, basic backend coding</li>
+<li>
+Familiarity with rich client-side Javascript frameworks (Backbone, Knockout, AngularJS, Ember)</li>
+<li>
+Familiarity with mobile web development best practices (i.e. responsive design, progressive enhancement, graceful &nbsp;<span style="font-size: 12px;">degradation</span></li>
+</ul>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+You&rsquo;ll work on the full stack and own the front-end (as Engineer #3) on our small, agile team of engineers and designers.</li>
+<li>
+You&rsquo;ll help solve engineering challenges around the elegant display of complex information, the social graph, the mobile web, scale, security, performance, and more.</li>
+<li>
+You&rsquo;ll rapidly iterate on a product roadmap driven by lean startup principles.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/circleup/aFf67t"></script>]]></buttons>
+		</job>
+	</jobs>

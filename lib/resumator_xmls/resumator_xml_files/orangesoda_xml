@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Orangesoda]]></company>
+			<job>
+			<id><![CDATA[job_20111122200315_HJ9KIUCDUMLLC4B0]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[HR Coordinator]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://orangesoda.theresumator.com/apply/38huJA/HR-Coordinator.html]]></url>
+			<city><![CDATA[American Fork]]></city>
+			<state><![CDATA[UT]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[84003]]></postalcode>
+			<description><![CDATA[<p>
+	Must show competence</p>
+<p>
+	Testing capabilities</p>
+<p>
+	What do you have to offer me?</p>
+]]></description>
+			<type><![CDATA[Part Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/orangesoda/38huJA"></script>]]></buttons>
+		</job>
+	</jobs>

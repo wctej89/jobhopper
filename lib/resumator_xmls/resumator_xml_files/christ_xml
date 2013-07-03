@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Topindo Lucky Sports]]></company>
+			<job>
+			<id><![CDATA[job_20130222072633_8MPP3OI3MCTDYBZF]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Recruitment Staff]]></title>
+			<department><![CDATA[HRD]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://christ.theresumator.com/apply/pxFPgf/Recruitment-Staff.html]]></url>
+			<city><![CDATA[Jakarta]]></city>
+			<state><![CDATA[Jakarta]]></state>
+			<country><![CDATA[Indonesia]]></country>
+			<postalcode><![CDATA[12210]]></postalcode>
+			<description><![CDATA[<p>
+Recruiting talented people that has a great personality and match to company culture, mission, and vision</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/christ/pxFPgf"></script>]]></buttons>
+		</job>
+	</jobs>

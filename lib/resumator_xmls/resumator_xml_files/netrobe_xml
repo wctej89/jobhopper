@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Netrobe]]></company>
+			<job>
+			<id><![CDATA[job_20120529101503_MYTXTVTOM8LGOTDZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front-end developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://netrobe.theresumator.com/apply/UinOhD/Frontend-Developer.html]]></url>
+			<city><![CDATA[Athens]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Greece]]></country>
+			<postalcode><![CDATA[15125]]></postalcode>
+			<description><![CDATA[<p>We&#39;re looking to hire a passionate, full-time front end engineer to join our small team.<br />You&#39;ll be working close with the founders, providing feedback on every aspect of the upcoming website.</p><p><strong>YOUR RESPONSIBILITIES</strong></p><ul><li>design and building scalable frontend applications in clean and beautiful code</li><li>create performing and intuitive web interfaces, focusing on UX best practices</li><li>keep learning</li></ul><p><strong>REQUIREMENTS</strong></p><ul><li>love and passion for your work</li><li>best practices evangelist</li><li>strong OOP javascript experience</li><li>W3C standards compliant coding</li><li>mastery of cross browser/platform HTML5/CSS3 coding</li><li>responsive design/coding experience</li><li>excellent understanding of composition, page layout and typography</li><li>committed to user-centered design, web standards, usability and accessibility</li><li>source control knowledge (we  git and github)</li></ul><p><strong>HERE&#39;S WHAT WE CURRENTLY USE</strong></p><ul><li>jQuery</li><li>backbone.js</li><li>handlebars.js</li><li>raphael.js</li><li>node.js</li><li>selenium</li></ul><p><strong>WE&#39;DE LOVE IF YOU HAVE</strong></p><ul><li>experience with django templating system</li><li>experience with HTML5 Canvas</li></ul>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/netrobe/UinOhD"></script>]]></buttons>
+		</job>
+	</jobs>

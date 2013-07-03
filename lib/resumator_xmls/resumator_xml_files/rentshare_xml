@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[RentShare Inc.]]></company>
+			<job>
+			<id><![CDATA[job_20110817215011_8PESL2NGPH4VFVGP]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Python Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://rentshare.theresumator.com/apply/7yFqca/Python-Developer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10012]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Overview</strong></p>
+<p>
+	RentShare.com is a fast growing social payment platform that makes it easy for renters to pay rent online and share expenses with roommates.</p>
+<p>
+	We are currently traveling to Cincinnati from Brooklyn, NY to be a part of this year&#39;s Brandery (a top-ten startup incubator/accelerator and part of the TechStars network) .</p>
+<p>
+	We are looking for one or more strong developers who are innovative and creative. You should be someone who is enthusiastic about tech and startups, who not only can build great software but can also design it (and I&#39;m not talking about graphic design). You should be comfortable with foss software and linux environments. Former experience is not as important as your ability to learn new technologies or create them BUT strong python knowledge is a PLUS.<br />
+	New features and site updates are released on a strict monthly schedule.</p>
+<p>
+	<strong>Responsibilities</strong></p>
+<ul>
+	<li>
+		Back end development (Python/MySQL)</li>
+	<li>
+		Product testing</li>
+	<li>
+		Product collaboration (Help with brainstorming and specing out new features)</li>
+</ul>
+<p>
+	<strong>Experience</strong></p>
+<ul>
+	<li>
+		Back-end web development experience</li>
+	<li>
+		Database, application architecture and software system design experience</li>
+	<li>
+		Experience with interpretive languages ( Python, JavaScript, Ruby, PHP )</li>
+	<li>
+		Python, linux, mysql experience is a PLUS</li>
+</ul>
+<p>
+	<strong>Skills</strong></p>
+<ul>
+	<li>
+		Excellent problem solving skills</li>
+	<li>
+		A firm grasp on http client/server interaction, data structures, and computer science fundamentals</li>
+	<li>
+		At least practical knowledge of information security techniques</li>
+</ul>
+<p>
+	<strong>Education</strong></p>
+<ul>
+	<li>
+		Computer science related degree OR equivalent professional experience.</li>
+</ul>
+<p>
+	<strong>Compensation (DOE)</strong></p>
+<ul>
+	<li>
+		Monetary Compensation will be low for the first 3 to 6 months. (We are an early stage startup in the midst of raising funds.)</li>
+	<li>
+		Equity Compensation will be generous.</li>
+	<li>
+		Exciting Work Environment (We are a relatively young team sharing an open office space with several other startups.)</li>
+</ul>
+<p>
+	Please respond with resume and cover letter.</p>
+<p>
+	Thank you for your time, and we look forward to hearing from you!</p>
+<p>
+	(Telecommuting is allowed) &nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/rentshare/7yFqca"></script>]]></buttons>
+		</job>
+	</jobs>

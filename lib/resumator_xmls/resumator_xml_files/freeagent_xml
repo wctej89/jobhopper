@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[FreeAgent]]></company>
+			<job>
+			<id><![CDATA[job_20130111172810_QMZQ6TFRRJJVJM2M]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://freeagent.theresumator.com/apply/q9e7DA/Software-Engineer.html]]></url>
+			<city><![CDATA[Edinburgh]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EH3 8JB]]></postalcode>
+			<description><![CDATA[<p>
+Were looking for talented, passionate Software Engineers to come and help build and maintain FreeAgent, our hugely popular flagship product. You&#39;ll have a deep interest in high-volume web appications and how to scale them, and you&#39;ll thrive in developing creative solutions to solve complex technical challenges using your Computer Science background.</p>
+<p>
+<strong>Required</strong></p>
+<p>
+&nbsp;</p>
+<ul>
+<li>
+Minimum of 3 years experience in programming web apps, ideally using Ruby on Rails and ideally in a commercial environment</li>
+<li>
+Thorough understanding of OOD, TDD and MVC</li>
+<li>
+Ability to quickly solve problems and make pragmatic engineering decisions</li>
+<li>
+MySQL experience, the deeper knowledge you have the better</li>
+<li>
+Pro-active, &#39;can do&#39; attitude</li>
+<li>
+BSc/Masters degree in Computer Science or equivalent</li>
+</ul>
+<p>
+<strong>Desired</strong></p>
+<ul>
+<li>
+Previous experience working on high-traffic commercial web applications, ideally in SaaS</li>
+<li>
+Open source contributions</li>
+</ul>
+<p>
+We&#39;re looking for people to work full-time with the team in our lovely Edinburgh office, but we will consider a remote working arrangement for exceptional candidates. We have a relocation package available and Edinburgh is a fantastic place to live!</p>
+<p>
+Youll get to work in our fantastic office in central Edinburgh with some of the best Rubyists in the UK. We provide weekly catered team lunches, free fruit and drinks, free beer fridge, Aeron chairs and you&#39;ll get to use the best hardware we can find.</p>
+<p>
+Tell us about yourself, we&#39;re interested!</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/freeagent/q9e7DA"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130111173523_ZU5ZNMOVFXD5SEWM]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Summer Internship]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://freeagent.theresumator.com/apply/AaoQow/Summer-Internship.html]]></url>
+			<city><![CDATA[Edinburgh]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EH3 8JB]]></postalcode>
+			<description><![CDATA[<p>
+Every summer we invite two or more interns to join our Edinburgh-based Engineering team for three months between June and September. Our interns are treated as full-time employees and become a core part of the engineering team. You will work alongside and be mentored by our engineers, and you&#39;ll have the opportunity to add valuable features to our product. Last summer our two interns developed our Online Payment Portal, one of the most requested FreeAgent features ever!</p>
+<p>
+We pay well, we have a great office in central Edinburgh (you&#39;ll be here during festival time!) and a fantastic team of people to learn from and become friends with. You can read about the experience, as blogged about by one of the Class of 2011.</p>
+<p>
+In order to qualify for an internship you need to meet the following criteria:</p>
+<ul>
+<li>
+Be a full-time student at a UK university, ideally (but not essentially) studying Computer Science or similar</li>
+<li>
+Be eligible to work in the UK during university vacations</li>
+<li>
+Be able to relocate to Edinburgh for the duration of the internship</li>
+<li>
+Have a huge passion for web programming</li>
+<li>
+Have demonstrable web programming experience, ideally in Ruby</li>
+<li>
+Have a huge passion and willingness to learn Ruby and the Rails framework</li>
+</ul>
+<p>
+<br />
+If you&rsquo;re interested, please write to us at jobs@freeagent.com with details about your university course, examples of your work and tell us why you want to join us for the summer!</p>
+]]></description>
+			<type><![CDATA[Internship]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/freeagent/AaoQow"></script>]]></buttons>
+		</job>
+	</jobs>

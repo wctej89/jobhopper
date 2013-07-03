@@ -1,0 +1,657 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[AnchorFree Inc]]></company>
+			<job>
+			<id><![CDATA[job_20120904212227_OWFZH2R27FGYD69P]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Data Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://anchorfree.theresumator.com/apply/KlsIO9/Data-Engineer.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94043]]></postalcode>
+			<description><![CDATA[<p>
+AnchorFree enables users to browse the web on desktop and mobile devices, with privacy and security through our Hotspot Shield application. Hotspot Shield is the world&#39;s most popular consumer virtual private network (VPN). It allows people worldwide to access content on the Internet without restrictions or censorship.<br />
+Hotspot Shield has been downloaded more than 70 million times and is the number one security app on the iPhone. Hotspot Shield has over 100 million monthly user sessions. Securing over 3 billion pages per month for its users, AnchorFree is ranked among the top 50 online destinations as far as total traffic (by Quantcast).<br />
+AnchorFree is funded by blue chip investors that include: Goldman Sachs, Bert Roberts (former chairman and CEO of MCI), Doug Maine (former CFO of IBM); Esther Dyson, Subrah Iyar (founder of Webex), Greg Coleman (former president of Huffington Post), Rick Roth (former CEO of OgilvyAction). AnchorFree is located at the heart of Silicon Valley - Mountain View, CA. The office contains a gym, foosball, a pool table, ping pong, free food and drinks.</p>
+<p>
+Position:</p>
+<p>
+Are you interested in developing algorithms that increase relevancy of the ad content offered to free users, while respecting their privacy and anonymity? Would you like to impact millions of users worldwide? If you&#39;re an engineer who is passionate about data, quality, results, and innovation, if you have experience applying information retrieval, natural language processing, or machine learning techniques to solve practical business problems, if you are a creative problem-solver -if you build prototypes for breakfast -then we want to hear from you!</p>
+<p>
+Job Responsibilities:</p>
+<p>
+&bull; Optimize our distributed logs processing / big data framework<br />
+&bull; Design and optimize our data flow<br />
+&bull; Experiment with different tools, data stores, libraries, and environments to optimize our heterogeneous data (activity stream, impressions, transactions, users etc)<br />
+&bull; Create data-parsing mechanisms to extract data that is relevant to the engineering and business teams<br />
+&bull; Develop and optimize real-time content analysis tools to increase relevancy of offered content<br />
+&bull; Strong experience in the design and development of large scale data processing systems. Active experience with open source distributed processing components such as Hadoop, MySQL etc.<br />
+&bull; Slice and dice big data, perform data mining and fuel analytics applications<br />
+&bull; Demonstrated interest and capacity to stay apprised of technology trends and resourcefulness in effectively applying them to solutions<br />
+&bull; Build a fast, reliable and scalable database system to hold and report business and engineering related data<br />
+&bull; Collaborate with other engineers and users to provide timely access to data and support company initiative<br />
+&bull; Use front-end and back-end technologies such as advanced JavaScript, PHP.<br />
+Job Qualifications:<br />
+&bull; Think, breathe and dream metrics<br />
+&bull; Love big data &amp; distributed systems<br />
+&bull; Experience building large scalable database structures<br />
+&bull; Experience working with parsing servers to extract relevant data<br />
+&bull; Experience analyzing data and insuring its accuracy<br />
+&bull; +5 years of MySQL database experience and building large scale data bases<br />
+&bull; +3 years of Hadoop or other NO-SQL database technologies<br />
+&bull; Experience with web servers &amp; databases<br />
+&bull; Experience with distributed systems and huge datasets<br />
+&bull; Solid experience with advanced Javascript (experience limited to jquery is not enough), HTML, CSS.&nbsp;<br />
+&bull; Extensive experience programming on Unix Platforms.<br />
+&bull; Good knowledge of the LAMP stack</p>
+<p>
+Preferable Job Qualifications:</p>
+<p>
+&bull; Industry experience with large data sets<br />
+&bull; Masters degree in Computer Science<br />
+&bull; Knowledge of Perl, Python or other scripting languages<br />
+&bull; Experience with searching and indexing</p>
+<p>
+Compensation and Benefits:</p>
+<p>
+&bull; Very competitive salary<br />
+&bull; Excellent employee stock option plan<br />
+&bull; Relocation assistance available<br />
+&bull; Free food and drinks<br />
+&bull; Foosball, Small gym and showers, Pool table, Table Tennis<br />
+&bull; FREE Medical, Dental and Vision<br />
+&bull; 401k<br />
+&bull; Easy Access to Caltrain and Light Rail (free pass)<br />
+&bull; Employee discounts on HP, Apple and Verizon<br />
+To apply please email your resume to: jobs(at)anchorfree.com</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/anchorfree/KlsIO9"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120604202810_LSVO8CZBU8WYURW5]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[PHP Web Developer (E-Commerce)]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://anchorfree.theresumator.com/apply/S4hXSA/PHP-Web-Developer-ECommerce.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94043]]></postalcode>
+			<description><![CDATA[<p>
+<br />
+Why Work at AnchorFree?<br />
+<br />
+AnchorFree is one of the fastest growing technology companies in Silicon Valley that makes a significant impact on people&rsquo;s lives around the globe by enabling free access to all information and content online and enabling millions of users to browse the web securely and privately. In regions that censor the web, AnchorFree&rsquo;s product Hotspot Shield is one of the few ways that users can have full access to the Internet. Travelers, Expats, and security conscious consumers use AnchorFree to securely surf the web in more than 190 countries.<br />
+<br />
+AnchorFree is constantly innovating and creating new technologies to help people secure their lives through our products.&nbsp; AnchorFree&rsquo;s vision is to be a security platform that allows people to be secure and private while they go about their lives. Because we have such a small team, you&#39;ll be owning huge ideas from the start. Meanwhile, you&#39;ll join talented teammates to create something that protects people&#39;s online lives.<br />
+<br />
+Position:</p>
+<p>
+We are looking for rock star Web Developer with expertise in Javascript and PHP. This is a great opportunity to define and implement interactive technologies that will have a positive social impact on millions of users. You will be part of a passionate and high energy team that is creating compelling, new and innovative online technologies.&nbsp; The ideal candidate will have experience building and working with ecommerce and dynamic image generation. This position requires someone who thrives on finding innovative solutions to real problems.<br />
+<br />
+Job Responsibilities:</p>
+<p>
+&bull; Work with 3rd party shopping cart solutions by enabling users around the globe to make payments<br />
+&bull; Work on innovative email security platform to enable users communicate privately<br />
+&bull; Design, develop and test new software products while also supporting existing commercial products<br />
+&bull; Develop related applications/utilities, widgets, and help build out our platform<br />
+&bull; Work with web proxies, enhancing content delivery performance<br />
+&bull; Provide creativity and new, fresh ideas<br />
+Job Qualifications:<br />
+&bull; Proven experience in developing frameworks and UI for web-based payments: authentication, account management, integration with payment gateways, transaction history, credits and refunds.<br />
+&bull; Recent hands-on with LAMP (Linux, Apache, MySql, PHP) and open source development<br />
+&bull; Expertise in HTML, CSS, DOM, AJAX; deep understanding of cookies, client-side storage.<br />
+&bull; Experience with cross-platform, cross-browser development<br />
+&bull; A track record of delivering quality bug-free code on schedule</p>
+<p>
+Preferable Job Qualifications:</p>
+<p>
+&bull; Experience with web proxies<br />
+&bull; JavaScript experience<br />
+&bull; Web Design Skills (Photoshop, Illustrator)<br />
+&bull; Open Source contribution is a plus<br />
+&bull; BS in Computer Science or equivalent job experience</p>
+<p>
+Benefits &amp; Perks:<br />
+We offer a very competitive salary package including generous equity and full benefits (medical, dental, vision, life &amp; disability insurance, 401K). Our employees enjoy free food and drinks. We offer commuter benefits (i.e. Cal Train and Light Rail) and break rooms with foosball, billiard table, XBOX, and massage chair. Also you can enjoy our gym facility here at our offices. Our offices are located close to public transportation in Mountain View, CA.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/anchorfree/S4hXSA"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120924213248_VDMP7XCNV5VJ94NK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Reliability Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://anchorfree.theresumator.com/apply/Ad8hZb/Reliability-Engineer.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94043]]></postalcode>
+			<description><![CDATA[<p>
+Position:<br />
+As a Reliability Engineer at AnchorFree, Inc. you will be working with our engineering team to improve the reliability and performance of our products. You will be deeply involved with the design process, and build the next generation of web applications and systems infrastructure. This individual will be responsible for monitoring connectivity, latency and throughput as well as improve reliability of AnchorFree&rsquo;s services.<br />
+<br />
+Job Responsibilities:<br />
+&bull; Work closely with engineering groups to design, build, and maintain systems.<br />
+&bull; Write scripts to monitor and automate processes.<br />
+&bull; Troubleshoot issues across the whole stack - hardware, software, applications and network.<br />
+&bull; Document current and future configuration processes and policies.</p>
+<p>
+Qualifications:<br />
+&bull; Experience in operations of a large-scale Internet service.<br />
+&bull; 4+ years of experience with Linux.<br />
+&bull; Familiarity with systems management tools like Puppet, Nagios, Monstat.<br />
+&bull; Demonstrable knowledge of TCP/IP, HTTP, security, and memcached.<br />
+&bull; Practical knowledge of shell scripting and at least one scripting language (Python, Ruby, Perl).<br />
+&bull; Ability to prioritize tasks and work independently.<br />
+&bull; Track record of practical problem solving, excellent communication, and documentation skills.<br />
+Desired<br />
+&bull; Experience building fault tolerant, scalable systems<br />
+&bull; Experience automating systems administration tasks<br />
+&bull; Experience with existing open source projects such as Apache, Hadoop, MySQL, Scribe, Zookeeper, etc<br />
+&bull; B.S. in computer science</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/anchorfree/Ad8hZb"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130325184420_VRXFON7G4H63DUIK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[PHP Web Developer (Ad Delivery)]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://anchorfree.theresumator.com/apply/Du8L54/PHP-Web-Developer-Ad-Delivery.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94043]]></postalcode>
+			<description><![CDATA[<p>
+<br />
+Why Work at AnchorFree?<br />
+<br />
+AnchorFree is one of the fastest growing technology companies in Silicon Valley that makes a significant impact on people&rsquo;s lives around the globe by enabling free access to all information and content online and enabling millions of users to browse the web securely and privately. In regions that censor the web, AnchorFree&rsquo;s product Hotspot Shield is one of the few ways that users can have full access to the Internet. Travelers, Expats, and security conscious consumers use AnchorFree to securely surf the web in more than 190 countries.<br />
+<br />
+AnchorFree is constantly innovating and creating new technologies to help people secure their lives through our products.&nbsp; AnchorFree&rsquo;s vision is to be a security platform that allows people to be secure and private while they go about their lives. Because we have such a small team, you&#39;ll be owning huge ideas from the start. Meanwhile, you&#39;ll join talented teammates to create something that protects people&#39;s online lives.</p>
+<br />
+<p>
+Position:</p>
+<p>
+We are looking for rock star Web Developer with expertise in Javascript and PHP. This is a great opportunity to define and implement interactive technologies that will have a positive social impact on millions of users. You will be part of a passionate and high energy team that is creating compelling, new and innovative online technologies.&nbsp; The ideal candidate will have experience building and working with online advertising platforms.&nbsp; Experience working with Internet proxies and online ads is a big plus. This position requires someone who thrives on finding innovative solutions to real problems.<br />
+<br />
+Job Responsibilities:</p>
+<p>
+&bull; Work with our Ad Server to optimize and streamline advertising delivery<br />
+&bull; Work to increase productivity of the ad servers to decrease latency in Ad Delivery<br />
+&bull; Design, develop and test new software products while also supporting existing commercial products<br />
+&bull; Develop related applications/utilities, widgets, and help build out our platform<br />
+&bull; Work with Online Marketing and Video Advertising to improve the user experience<br />
+&bull; Develop new online video players, streaming applications, and content delivery technologies<br />
+&bull; Work with web proxies, enhancing content delivery performance<br />
+&bull; Provide creativity and new, fresh ideas<br />
+Job Qualifications:<br />
+&bull; Recent hands-on with LAMP (Linux, Apache, MySql, PHP) and open source development<br />
+&bull; Proven experience in debugging and optimization of JavaScript for dynamic, interactive web sites.<br />
+&bull; Expertise in HTTP, CSS, DOM, AJAX; deep understanding of cookies, client-side storage.<br />
+&bull; Experience with cross-platform, cross-browser development<br />
+&bull; A track record of delivering quality bug-free code on schedule</p>
+<p>
+Preferable Job Qualifications:</p>
+<p>
+&bull; Experience with web proxies<br />
+&bull; OpenX Ad server experience<br />
+&bull; Open Source contribution is a plus<br />
+&bull; Familiarity with Flex, streaming video, codecs<br />
+&bull; Knowledge of Perl, Python or other scripting languages<br />
+&bull; Experience in debugging and optimization of ActionScript (including AS3) for complex Flash applications.</p>
+<p>
+Benefits &amp; Perks:<br />
+We offer a very competitive salary package including generous equity and full benefits (medical, dental, vision, life &amp; disability insurance, 401K). Our employees enjoy free food and drinks. We offer commuter benefits (i.e. Cal Train and Light Rail) and break rooms with foosball, billiard table, XBOX, and massage chair. Also you can enjoy our gym facility here at our offices. Our offices are located close to public transportation in Mountain View, CA.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/anchorfree/Du8L54"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130325184816_SJGG6FGQ2KGYLPLF]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[iOS Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://anchorfree.theresumator.com/apply/RZwBBY/IOS-Developer.html]]></url>
+			<city><![CDATA[mountain view]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94043]]></postalcode>
+			<description><![CDATA[<p>
+<br />
+Why Work at AnchorFree?<br />
+<br />
+AnchorFree is one of the fastest growing technology companies in Silicon Valley that makes a significant impact on people&rsquo;s lives around the globe by enabling free access to all information and content online and enabling millions of users to browse the web securely and privately. In regions that censor the web, AnchorFree&rsquo;s product Hotspot Shield is one of the few ways that users can have full access to the Internet. Travelers, Expats, and security conscious consumers use AnchorFree to securely surf the web in more than 190 countries.<br />
+<br />
+AnchorFree is constantly innovating and creating new technologies to help people secure their lives through our products.&nbsp; AnchorFree&rsquo;s vision is to be a security platform that allows people to be secure and private while they go about their lives. Because we have such a small team, you&#39;ll be owning huge ideas from the start. Meanwhile, you&#39;ll join talented teammates to create something that protects people&#39;s online lives.<br />
+<br />
+Position:</p>
+<p>
+We are actively seeking a rock star Mac OS X Developer with experience in Cocoa and new features of Leopard and Snow Leopard. You will work on the client-side team providing your expertise in leading the development of our next-generation client for our flagship product, Hotspot Shield. You should have a passion for, and expert-level of proficiency with, Mac OS X development internals, multi-threaded programming, networking programming and some Socket programming. Additional experience with background process development such as Launch Agent daemons and working with VPN clients is a strong plus.&nbsp;</p>
+<p>
+Job Responsibilities:</p>
+<p>
+&bull; Collaborate with Engineering leadership to design, develop and create our technology presence on the iOS platform<br />
+&bull; Work with partners and product team&nbsp; to improve adoption of our mobile products<br />
+&bull; Rapidly create prototypes, synthesize feedback and develop a production quality release candidate.<br />
+&bull; Work on the next generation of security platform that will impact millions of users<br />
+&bull; Design, develop and test new software products, as well as supporting existing commercial products<br />
+Job Qualifications:<br />
+&bull; Skilled iOS software engineer working both client and server side development.<br />
+&bull; Very comfortable with unit testing and rapid release cycles.<br />
+&bull; Expert in iOS development tools such as XCode 4, Cocoa and others<br />
+&bull; Ability to Debug and Profile a Cocoa Touch application<br />
+&bull; Skilled objected-oriented analysis, design and implementation<br />
+&bull; Ability to complete code with minimum supervision<br />
+&bull; A track record of published applications to the App Store</p>
+<p>
+Preferable Job Qualifications:</p>
+<p>
+&bull; Experience with HTML, XML, JavaScript<br />
+&bull; Virtual private networks, SSL<br />
+&bull; Agile development experience<br />
+&bull; Open Source contribution is a plus<br />
+&bull; BS in Computer Science or equivalent job experience</p>
+<p>
+Benefits &amp; Perks:<br />
+We offer a very competitive salary package including generous equity and full benefits (medical, dental, vision, life &amp; disability insurance, 401K). Our employees enjoy free food and drinks. We offer commuter benefits (i.e. Cal Train and Light Rail) and break rooms with foosball, billiard table, XBOX, and massage chair. Also you can enjoy our gym facility here at our offices. Our offices are located close to public transportation in Mountain View, CA.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/anchorfree/RZwBBY"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130325220114_PVCFYLC7MJQKXKII]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Linux Systems Administrator]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://anchorfree.theresumator.com/apply/TL63Qg/Linux-Systems-Administrator.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94043]]></postalcode>
+			<description><![CDATA[<p>
+<br />
+Why Work at AnchorFree?<br />
+<br />
+AnchorFree is one of the fastest growing technology companies in Silicon Valley that makes a significant impact on people&rsquo;s lives around the globe by enabling free access to all information and content online and enabling millions of users to browse the web securely and privately. In regions that censor the web, AnchorFree&rsquo;s product Hotspot Shield is one of the few ways that users can have full access to the Internet. Travelers, Expats, and security conscious consumers use AnchorFree to securely surf the web in more than 190 countries.<br />
+<br />
+AnchorFree is constantly innovating and creating new technologies to help people secure their lives through our products.&nbsp; AnchorFree&rsquo;s vision is to be a security platform that allows people to be secure and private while they go about their lives. Because we have such a small team, you&#39;ll be owning huge ideas from the start. Meanwhile, you&#39;ll join talented teammates to create something that protects people&#39;s online lives.</p>
+<p>
+Position:</p>
+<p>
+AnchorFree is looking for all-star Systems Administrator to become part of their talented team of engineers! Responsible for installing, maintaining and monitoring AnchorFree&rsquo;s hardware and software for its operations. Candidate will help our team manage our production environment in our 9 data centers around the world with over 600 systems servicing our users. Candidate is expected to apply their base of technical, operational, process or project skills to identify opportunities for process improvement, lead portions of projects or processes, and bring new knowledge into the organization. This position interfaces with the engineering, development and operations teams.</p>
+<p>
+<br />
+Job Responsibilities:</p>
+<br />
+<p>
+&bull; The Systems Administrator is responsible for all aspects of the AnchorFree&rsquo;s production data center services including servers, operating systems and storage.<br />
+&bull; Prepare network gear for deployment in the data centers.<br />
+&bull; Troubleshoot internal and external applications, hardware problems, operating system issues and work with new services on a daily basis.<br />
+&bull; Formulating and implementing monitoring policies, procedures and standards relating to server and storage management.<br />
+&bull; Ensure that all Sys Admin projects are documented, including design documents, ongoing status reports, and summary reports<br />
+&bull; Negotiate peering relationships with content and ISP&rsquo;s to help decrease latency and improve quality of service.<br />
+&bull; Maintain installation and configuration procedures.<br />
+&bull; Test new technologies that can be implemented for more productive environment.<br />
+&bull; Repair and recover from hardware or software failures. Conduct emergency maintenance.<br />
+&bull; Perform regular security monitoring to prevent / identify any possible intrusions.<br />
+&bull; Apply OS patches and upgrades on a regular basis, and upgrade administrative tools and utilities. Configure / add new services as necessary.</p>
+<p>
+Minimum Job Qualifications:<br />
+&bull; Experience working with Linux CentOS, Cacti, Nagios, Zabbix.<br />
+&bull; Scripting and programming skills (Shell, Awk, Perl).<br />
+&bull; Working knowledge of standard infrastructure tools. (DHCP, DNS, NTP, SYSLOG, SSH, SVN etc).<br />
+&bull; 5-7 years of Linux Administration experience with high availability systems.<br />
+&bull; Demonstrated solid understanding of Linux internals, performance tuning and general systems trouble shooting skills.<br />
+&bull; Experience developing system automation tools (using scripting language or config management tools).<br />
+&bull; Exposure to database technologies (MySQL, Hadoop and others ).<br />
+&bull; Demonstrated troubleshooting skills through resolution; understanding problem from the network, OS, and application levels.<br />
+&bull; Ability to configure, customize, and support typical UNIX daemons, including NFS, BIND and Apache.<br />
+&bull; Strong grasp of standard network services (including DNS, DHCP, RADIUS, HTTPS, and SSH).<br />
+&bull; Comfortable in a colocation environment, with regards to power and cable management, cooling, and adherence to installation standards.<br />
+Preferable Job Qualifications:<br />
+&bull; Bachelor&#39;s degree in Information Technology or related field.<br />
+&bull; Experience with high availability systems and storage solutions / architectures.<br />
+&bull; Experience working in a large (1000+ server) and complex hosting operations environment.<br />
+&bull; Experience working with Juniper networking equipment.</p>
+<br />
+<p>
+Benefits &amp; Perks:<br />
+We offer a very competitive salary package including generous equity and full benefits (medical, dental, vision, life &amp; disability insurance, 401K). Our employees enjoy free food and drinks. We offer commuter benefits (i.e. Cal Train and Light Rail) and break rooms with foosball, billiard table, XBOX, and massage chair. Also you can enjoy our gym facility here at our offices. Our offices are located close to public transportation in Mountain View, CA.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/anchorfree/TL63Qg"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130625012942_LZFVNNZ80E8MECVM]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Network Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://anchorfree.theresumator.com/apply/AJVCvg/Senior-Network-Engineer.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94043]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About AnchorFree</strong><br />
+AnchorFree believes in placing consumers in control of their personal information online. The company&rsquo;s mission is to enable secure access to the world&rsquo;s information for an addressable market of 5 billion people who access the Web through computers or mobile devices. AnchorFree does this through Hotspot Shield, the world&rsquo;s most popular app for safe browsing. Hotspot Shield secures all Internet communications, protects the user&rsquo;s identity online, and provides universal access to all Internet content.<br />
+Hotspot Shield has been downloaded more than 120 million times and is the number one security app on the iPhone. Hotspot Shield has over 100 million monthly user sessions. Securing over 4 billion pages per month for its users, AnchorFree is ranked among the top 50 online destinations as far as total traffic (by Quantcast).<br />
+AnchorFree is funded by blue chip investors that include: Goldman Sachs, Bert Roberts (former chairman and CEO of MCI), Doug Maine (former CFO of IBM); Esther Dyson, Subrah Iyar (founder of WebEx), Greg Coleman (former president of Huffington Post), Rick Roth (former CEO of OgilvyAction). AnchorFree is located at the heart of Silicon Valley - Mountain View, CA. The office contains a gym, foosball, a pool table, ping pong, free food and drinks.</p>
+<p>
+<strong>Position:</strong><br />
+AnchorFree is looking for all-star Network Engineer to become part of their talented team of engineers! Responsible for installing, maintaining and monitoring AnchorFree&rsquo;s network operations. Candidate will help our team manage our production environment in our 9 data centers around the world with over 600 systems servicing our users. Candidate is expected to apply their base of technical, operational, process or project skills to identify opportunities for process improvement, lead portions of projects or processes, and bring new knowledge into the organization. This position interfaces with the engineering and operations teams.</p>
+<p>
+<br />
+<strong>Job Responsibilities:</strong><br />
+Network Engineer will be responsible for all aspects of the AnchorFree&rsquo;s network infrastructure<br />
+Prepare network gear for deployment in the data centers<br />
+Troubleshoot internal and external applications, hardware problems, or network links<br />
+Formulating and implementing monitoring policies, procedures and standards relating to network monitoring<br />
+Implement and manage peering relationships with peering exchange members<br />
+Optimize network routes to decrease latency and improve quality of service<br />
+Balance network traffic between multiple carriers<br />
+Ensure that all Sys Admin projects are documented, including design documents, ongoing status reports, and summary reports<br />
+Maintain installation and configuration procedures<br />
+Test new technologies that can be implemented for more productive environment<br />
+Repair and recover from hardware or software failures. Conduct emergency maintenance<br />
+Perform regular security monitoring to prevent / identify any possible intrusions.<br />
+Apply OS patches and upgrades on a regular basis, and upgrade administrative tools and utilities. Configure / add new services as necessary</p>
+<p>
+<br />
+<strong>Minimum Job Qualifications:</strong><br />
+Experience working Juniper MX and EX network equipment<br />
+Scripting and programming skills (Shell, Awk, Perl)<br />
+Working knowledge of standard infrastructure tools. (DHCP, DNS, NTP, SYSLOG, SSH, SVN etc).<br />
+5-7 years of Network Administration experience with high availability systems<br />
+Experience with BGP configuration and Peering<br />
+Experience developing system automation tools (using scripting language or config management tools)<br />
+Demonstrated troubleshooting skills through resolution; understanding problem from the network, OS, and application levels<br />
+Comfortable in a colocation environment, with regards to power and cable management, cooling, and adherence to installation standards</p>
+<p>
+<strong>Preferable Job Qualifications:</strong><br />
+Exposure to database technologies (MySQL, Hadoop and others)<br />
+Experience working for a network provider (ISP) as a network engineer or similar<br />
+Experience with high availability systems and storage solutions / architectures<br />
+Bachelor&#39;s degree in Information Technology or related field</p>
+<p>
+<strong>Compensation and Benefits:</strong><br />
+Highly competitive salary<br />
+Excellent employee stock option plan<br />
+Relocation assistance available<br />
+Free food and drinks<br />
+Foosball, Small gym and showers, Pool table, Table Tennis<br />
+FREE Medical, Dental and Vision<br />
+401k<br />
+Easy Access to Caltrain and Light Rail (free pass)<br />
+New Laptop (mac or pc) and Monitor<br />
+Employee discounts on HP, Apple and Verizon</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/anchorfree/AJVCvg"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130625014254_7RNQ4D2YZWUNDCCY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Cyber Security Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://anchorfree.theresumator.com/apply/JLCm7K/Cyber-Security-Engineer.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94043]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About AnchorFree</strong><br />
+AnchorFree believes in placing consumers in control of their personal information online. The company&rsquo;s mission is to enable secure access to the world&rsquo;s information for an addressable market of 5 billion people who access the Web through computers or mobile devices. AnchorFree does this through Hotspot Shield, the world&rsquo;s most popular app for safe browsing. Hotspot Shield secures all Internet communications, protects the user&rsquo;s identity online, and provides universal access to all Internet content.<br />
+Hotspot Shield has been downloaded more than 120 million times and is the number one security app on the iPhone. Hotspot Shield has over 100 million monthly user sessions. Securing over 4 billion pages per month for its users, AnchorFree is ranked among the top 50 online destinations as far as total traffic (by Quantcast).<br />
+AnchorFree is funded by blue chip investors that include: Goldman Sachs, Bert Roberts (former chairman and CEO of MCI), Doug Maine (former CFO of IBM); Esther Dyson, Subrah Iyar (founder of WebEx), Greg Coleman (former president of Huffington Post), Rick Roth (former CEO of OgilvyAction). AnchorFree is located at the heart of Silicon Valley - Mountain View, CA. The office contains a gym, foosball, a pool table, ping pong, free food and drinks.<br />
+&nbsp;</p>
+<p>
+<strong>Position:</strong><br />
+We are looking for rock star Security Engineer with expertise in cyber security. This is a great opportunity to define and implement interactive technologies that will have a positive social impact on millions of users. There is a lot of companies in the area of network security that sell software and other solutions to clients that range from small companies to governments. But there is only one company that stood up and started to use network security to secure network communication for consumers all over the world despite the efforts of many repressive governments to stop us. If you want to be on the front line of the Cyberwar for freedom on the Internet then join us now! Many criminals who erroneously name themselves &quot;hackers&quot; are trying to abuse networks around the world join us to fight them back!<br />
+&nbsp;</p>
+<p>
+<strong>Job Responsibilities:</strong><br />
+Research, design, develop and deploy the intelligent solutions for providing innovative services in the area of network security.<br />
+Develop solutions for intrusion detection and intrusion prevention.<br />
+Work on developing solutions for malware and bot detection.<br />
+Develop solutions for e-mail analysis and spam filtering.<br />
+Develop solutions for heuristic analysis and discovery of new networking security threats.<br />
+Develop solutions for traffic masquerading and tunneling in order to unblock Internet access for people in censored countries.<br />
+&nbsp;</p>
+<p>
+<strong>Job Qualifications:</strong><br />
+3+ years of C development experience (ideally: networking, M/T, DBs, H.A., performance optimization).<br />
+3+ years of Perl development experience<br />
+3+ years of Linux/Apache/Mysql/PHP stack<br />
+3+ years of experience with networking protocols such as TCP/IP, UDP<br />
+Experience with Linux system administration<br />
+Some experience with development of syntax analysis and text parsing<br />
+Experience with malware analysis/reverse engineering is a strong plus<br />
+Ability to prove all ideas and defend all implementations by performing precise and informative measurements.<br />
+&nbsp;</p>
+<p>
+<strong>Preferable Job Qualifications:</strong><br />
+Experience with machine learning is a plus<br />
+Experience with malware analysis/reverse engineering is a strong plus<br />
+Knowledge of Perl, Python or other scripting languages<br />
+&nbsp;</p>
+<p>
+<strong>Compensation and Benefits:</strong><br />
+Highly competitive salary<br />
+Excellent employee stock option plan<br />
+Relocation assistance available<br />
+Free food and drinks<br />
+Foosball, Small gym and showers, Pool table, Table Tennis<br />
+FREE Medical, Dental and Vision<br />
+401k<br />
+Easy Access to Caltrain and Light Rail (free pass)<br />
+New Laptop (mac or pc) and Monitor<br />
+Employee discounts on HP, Apple and Verizon</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/anchorfree/JLCm7K"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130626195809_IJ9XY2BDT3GCLGCF]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Business Analyst]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://anchorfree.theresumator.com/apply/yOMs9c/Business-Analyst.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94043]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About AnchorFree</strong><br />
+AnchorFree believes in placing consumers in control of their personal information online. The company&rsquo;s mission is to enable secure access to the world&rsquo;s information for an addressable market of 5 billion people who access the Web through computers or mobile devices. AnchorFree does this through Hotspot Shield, the world&rsquo;s most popular app for safe browsing. Hotspot Shield secures all Internet communications, protects the user&rsquo;s identity online, and provides universal access to all Internet content.</p>
+<p>
+Hotspot Shield has been downloaded more than 120 million times and is the number one security app on the iPhone. Hotspot Shield has over 100 million monthly user sessions. Securing over 4 billion pages per month for its users, AnchorFree is ranked among the top 50 online destinations as far as total traffic (by Quantcast).</p>
+<p>
+AnchorFree is funded by blue chip investors that include: Goldman Sachs, Bert Roberts (former chairman and CEO of MCI), Doug Maine (former CFO of IBM); Esther Dyson, Subrah Iyar (founder of WebEx), Greg Coleman (former president of Huffington Post), Rick Roth (former CEO of OgilvyAction). AnchorFree is located at the heart of Silicon Valley - Mountain View, CA. The office contains a gym, foosball, a pool table, ping pong, free food and drinks.</p>
+<p>
+<strong>Position:&nbsp;</strong> Buiness Analyst</p>
+<p>
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+Provide analytical support to Marketing, Product, Advertising and Engineering teams</li>
+<li>
+Import, organize, clean data and maintain key metrics for AnchorFree&#39;s desktop and mobile products</li>
+<li>
+Participate in long term analytics projects and studies</li>
+<li>
+Build and own ad-hoc reports, scorecards, dashboards and presentations</li>
+<li>
+Participate and share ideas in ongoing Marketing and Product team projects</li>
+</ul>
+<p>
+<strong>Job Qualifications:</strong></p>
+<ul>
+<li>
+Undergraduate degree in a quantitative field such as Math, Finance, Economics, Econometrics, Statistics OR a degree in a Social science with an aptitude for numbers (we will test you)</li>
+<li>
+An understanding of internet trends and technologies</li>
+<li>
+Knowledge of web analytics, metrics and tools/platforms such as Google Analytics or others</li>
+<li>
+Excel proficiency (pivot tables, vlookup)</li>
+<li>
+Knowledge of SQL, Unix, and a scripting language (PHP, Python, JS) desired but not required</li>
+<li>
+Experience with statistical tools such as MATLAB, R, STATA as well as visualization tools such as Tableau are a plus</li>
+<li>
+A desire to learn and work independently (some training will be provided)</li>
+</ul>
+<p>
+<strong>Compensation and Benefits:</strong></p>
+<ul>
+<li>
+Highly competitive salary</li>
+<li>
+Excellent employee stock option plan</li>
+<li>
+Relocation assistance available</li>
+<li>
+Free food and drinks</li>
+<li>
+Foosball, Small gym and showers, Pool table, Table Tennis</li>
+<li>
+FREE Medical, Dental and Vision</li>
+<li>
+401k</li>
+<li>
+Easy Access to Caltrain and Light Rail (free pass)</li>
+<li>
+New Laptop (mac or pc) and Monitor</li>
+<li>
+Employee discounts on HP, Apple and Verizon</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/anchorfree/yOMs9c"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130626200439_LIZAWVJMRQMXQVTC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Unix Systems Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://anchorfree.theresumator.com/apply/7csNfY/Unix-Systems-Software-Engineer.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94043]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About AnchorFree</strong></p>
+<p>
+AnchorFree believes in placing consumers in control of their personal information online. The company&rsquo;s mission is to enable secure access to the world&rsquo;s information for an addressable market of 5 billion people who access the Web through computers or mobile devices. AnchorFree does this through Hotspot Shield, the world&rsquo;s most popular app for safe browsing. Hotspot Shield secures all Internet communications, protects the user&rsquo;s identity online, and provides universal access to all Internet content.</p>
+<p>
+Hotspot Shield has been downloaded more than 120 million times and is the number one security app on the iPhone. Hotspot Shield has over 100 million monthly user sessions. Securing over 4 billion pages per month for its users, AnchorFree is ranked among the top 50 online destinations as far as total traffic (by Quantcast).</p>
+<p>
+AnchorFree is funded by blue chip investors that include: Goldman Sachs, Bert Roberts (former chairman and CEO of MCI), Doug Maine (former CFO of IBM); Esther Dyson, Subrah Iyar (founder of WebEx), Greg Coleman (former president of Huffington Post), Rick Roth (former CEO of OgilvyAction). AnchorFree is located at the heart of Silicon Valley - Mountain View, CA. The office contains a gym, foosball, a pool table, ping pong, free food and drinks.</p>
+<p>
+<strong>Position:</strong></p>
+<p>
+Work as an integral member of our backend Linux team responsible for developing and maintaining our core server-side technology</p>
+<p>
+<strong>Job Responsibilities:</strong></p>
+<ul>
+<li>
+Develop and implement product enhancements resulting in increased innovation, speed, quality and overall user experience for our customers</li>
+<li>
+Contribute to design, and development of new networking features and feature enhancements for application proxies spanning a wide range of layer 7 protocols and web applications</li>
+<li>
+Communicate effectively with peers to highlight and clarify software design requirements</li>
+<li>
+Experiment with new open source technologies that would improve stability and performance of our server infrastructure</li>
+<li>
+Work closely with application development team to identify challenges, investigate, and design solutions that improve product quality</li>
+<li>
+Full lifecycle responsibility for all aspects of software development including design, lmcoding, testing and debugging</li>
+</ul>
+<p>
+<br />
+<strong>Job Qualifications:</strong></p>
+<p>
+Bachelor of Science in Computer Engineering / IT|IS Management or related is required<br />
+5 years of Linux / Unix development; including system-level programming, networking, and packet filtering</p>
+<p>
+<strong>Experience to include:</strong></p>
+<p>
+Working with various flavors of Unix including Linux, BSD<br />
+Thorough understanding of Internet protocols such as HTTP, DNS, and TCP/IP and their implementation on various flavors of Unix.<br />
+Experience in TCP/IP stack programming from systems to application level, multi-threading<br />
+Deep understanding Unix operating systems concepts and design as I/O, scheduling, SMP, memory management.<br />
+Experience in packet filtering and modification mechanisms under various Unix OS&nbsp;<br />
+&nbsp;</p>
+<p>
+<strong>Preferable Job Qualifications:</strong></p>
+<ul>
+<li>
+Experience with web proxies</li>
+<li>
+JavaScript experience</li>
+<li>
+Web Design Skills (Photoshop, Illustrator)</li>
+<li>
+Open Source contribution is a plus</li>
+<li>
+BS in Computer Science or equivalent job experience</li>
+</ul>
+<p>
+<strong>Compensation and Benefits:</strong></p>
+<ul>
+<li>
+Highly competitive salary</li>
+<li>
+Excellent employee stock option plan</li>
+<li>
+Relocation assistance available</li>
+<li>
+Free food and drinks</li>
+<li>
+Foosball, Small gym and showers, Pool table, Table Tennis</li>
+<li>
+FREE Medical, Dental and Vision</li>
+<li>
+401k</li>
+<li>
+Easy Access to Caltrain and Light Rail (free pass)</li>
+<li>
+New Laptop (mac or pc) and Monitor</li>
+<li>
+Employee discounts on HP, Apple and Verizon</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/anchorfree/7csNfY"></script>]]></buttons>
+		</job>
+	</jobs>

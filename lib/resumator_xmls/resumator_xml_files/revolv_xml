@@ -1,0 +1,239 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Revolv]]></company>
+			<job>
+			<id><![CDATA[job_20121206010428_SIXMO5YFG6SCKDPB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Lead Cloud Platform Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://revolv.theresumator.com/apply/M4sADU/Lead-Cloud-Platform-Engineer.html]]></url>
+			<city><![CDATA[Boulder]]></city>
+			<state><![CDATA[CO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[80302]]></postalcode>
+			<description><![CDATA[<p>
+As a lead cloud engineer, you will be responsible for architecting and building our backend infrastructure. The Internet-of-Things is a massive challenge, our platform needs to be scalable and able to maintain communication with hundreds of millions of devices simultaneously. You will be working closely with our gateway and mobile engineers to define the necessary backend APIs to support real-time control of thousands of different products.</p>
+<p>
+<strong>About you:</strong></p>
+<ul>
+<li>
+Deep experience building and running fault-tolerant, scalable backend platforms</li>
+<li>
+Familiar with using and scaling NoSQL databases</li>
+<li>
+Know how to properly design RESTful and WebSocket based backend interfaces</li>
+<li>
+Believe in the importance of unit tests and QA</li>
+<li>
+Expert with JVM based languages (ie Java, Scala, or Groovy)</li>
+<li>
+Strong understanding of Amazon Web Services (in particular EC2, DynamoDB, S3, and SQS)</li>
+<li>
+Experience with JVM concurrency</li>
+<li>
+Strong understanding of security practices to protect user data and prevent unauthorized access</li>
+<li>
+Passion for working with Big-Data</li>
+</ul>
+<p>
+<strong>Pluses:</strong></p>
+<ul>
+<li>
+Experience with Chef or Puppet</li>
+<li>
+Familiarity with the design and implementation of frontend web interfaces</li>
+<li>
+Creativity and passion to do interesting things with internet connected devices</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/Revolv/M4sADU"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130619224606_1OY412Q8NJMIGMST]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Lead Mobile Designer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://revolv.theresumator.com/apply/otR2e7/Lead-Mobile-Designer.html]]></url>
+			<city><![CDATA[Boulder]]></city>
+			<state><![CDATA[CO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[80302]]></postalcode>
+			<description><![CDATA[<p>
+&nbsp; &nbsp; Here at Revolv, we believe design is problem solving.&nbsp; We&#39;re solving big problems, like how to keep your house safe with an app you never open, and how to sell a product that doesn&#39;t work until you&#39;ve bought a piece of hardware.&nbsp; As such, we need incredible design.&nbsp; Design that starts from how people actually use their houses and their phones, and grows into something light and fun and delightful.&nbsp; Design with its feet grounded in UX and its head in the clouds.&nbsp; We&#39;re not making a remote control for your house, we&#39;re making your house revolv (yup, can&#39;t help ourselves) around you!&nbsp; It&#39;s an experience not just a product!</p>
+<p>
+<strong>Requirements:</strong></p>
+<p>
+&nbsp; &nbsp; You spend as much time with a sketch book as you do photoshop.&nbsp; You take pride in making complicated things look simple.&nbsp; You adjust the font size of your designs based on their screen size.&nbsp; You know you shouldn&#39;t use blend modes, but you can&#39;t always stop yourself.&nbsp; You refuse to design a website that doesn&#39;t support retina display.&nbsp; You delight in delighters.&nbsp; You&#39;ve seen Helvetica.&nbsp; You use dribbble, and not just for redesigning iOS 7 icons.&nbsp;</p>
+<p>
+<br />
+&nbsp; &nbsp; You know that design is all about the details, but you don&#39;t lose sight of the bigger picture, how people actually use what you are making.</p>
+<p>
+<strong>Please submit your Dribbble profile in the&nbsp;Website, Blog or Portfolio link.</strong></p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/Revolv/otR2e7"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130619213513_KNO7CJ5R6FF4PHSL]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Office Manager]]></title>
+			<department><![CDATA[Administration]]></department>
+			<team><![CDATA[Office-Manager]]></team>
+			<url><![CDATA[http://revolv.theresumator.com/apply/r676n3/Office-Manager.html]]></url>
+			<city><![CDATA[Boulder]]></city>
+			<state><![CDATA[CO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[80302]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Who we are:&nbsp;</strong></p>
+<p>
+We are a tech start-up company based out of Boulder, CO. Above all else we value playfulness, aspiration, candor, empathy, hard work, transparency and teamwork. We are looking for an individual who embodies all of those characteristics and more.&nbsp; As the office manager, your job is to ensure that the executive team spends zero minutes on anything that isn&rsquo;t related to developing a product, selling, marketing and delivering it. We are looking for an individual who is motivated, self-reliant and will make a positive, energetic addition to our staff.&nbsp;</p>
+<p>
+<strong>Job Requirements:</strong></p>
+<ul>
+<li>
+5+ years of Quickbooks Premiere or comparable experience is required; experience working with inventory in accounting systems is a plus.</li>
+<li>
+3+ years of experience with the hiring process, offer letters and HR matters; experience dealing with legal contracts and legal language is a plus</li>
+<li>
+3+ years experience interacting with banks, bank accounts, etc...</li>
+<li>
+3+ years experience interacting with PEOs such as Trinet around employee benefits, employee issues and payroll</li>
+<li>
+3+ years experience procuring IT equipment for employees</li>
+<li>
+3+ years experience as public interface with great positive and empathetic disposition.</li>
+<li>
+Ideally has 3+ years experience supervising office administrative workers.</li>
+<li>
+Ideally has experience facilitating at least one office move</li>
+<li>
+Passionate about being a team player who establishes trust with respect relationships, meets their commitments and focuses on the company&#39;s outcome</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<br />
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+Execute the financial systems put in place by financial experts (separately employed).</li>
+<li>
+Execute the hiring processes put in place for EACH new hire.&nbsp;&nbsp;</li>
+<li>
+Interface with landlord and facilities to take care of any facilities problems.&nbsp;</li>
+<li>
+Interface with bank regarding basic transaction logistics and banking needs.&nbsp;&nbsp;</li>
+<li>
+Search for and procure new office; facilitate move.&nbsp;</li>
+<li>
+Execute processes around NDAs and legal document archival.&nbsp;&nbsp; Interface and execute necessary activities with payroll and health insurers</li>
+<li>
+Plan for and procure all office needs ranging from furniture, to new employee equipment, to closet supplies.</li>
+<li>
+Be the point of contact for the non-customer public.&nbsp;</li>
+<li>
+Interface with outsourced IT shop for normal/easy day-to-day IT needs</li>
+<li>
+Handle non-customer shipping &amp; receiving</li>
+<li>
+Schedule travel arrangements for employees and help to coordinate shipping of materials, traveling and agenda for trade shows</li>
+<li>
+Hire and supervise minimum-wage workers who perform menial tasks related to the above responsibilities.&nbsp;&nbsp;</li>
+<li>
+Handle organization of all our corporate electronic docs, dropbox folder, etc.&nbsp;&nbsp;</li>
+<li>
+Plan for and execute all office-related events such as lunch, happy hours, etc&hellip;</li>
+<li>
+Maintain general office needs such as ensuring that the fridge stays stocked, handling errand runs, purchases of supplies &amp; food, tidying up the office, cleaning whiteboards, making sure the conference room always looks presentable, and retrieving extra &quot;stuff&quot; to and from off-site storage.</li>
+<li>
+Approach the job with a mind-set of responsibility, identification of important problems to solve and creative problem solving</li>
+<li>
+Highly detail oriented and great multi-tasking ability</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/Revolv/r676n3"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130408232039_WU1GLKJ8BIWPRXMP]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Operations Analyst - Manufacturing]]></title>
+			<department><![CDATA[Operations]]></department>
+			<team><![CDATA[Operations]]></team>
+			<url><![CDATA[http://revolv.theresumator.com/apply/kxOcAl/Operations-Analyst-Manufacturing.html]]></url>
+			<city><![CDATA[Boulder]]></city>
+			<state><![CDATA[CO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[80302]]></postalcode>
+			<description><![CDATA[<p>
+The Role<br />
+We are looking for a Operations Analyst to support the head of Manufacturing Operations on day-to-day basis.&nbsp;&nbsp; These tasks may include:</p>
+<p>
+&bull; Support production engineering for products after transfer from design to high volume production<br />
+&bull; Support ongoing execution and development manufacturing test activities<br />
+&bull; Interfaces with design, process, test and reliability engineering to solve problems<br />
+&bull; Sustains products with cost reduction and yield improvements<br />
+&bull; Support component procurement<br />
+&bull; Manage inventory flow post production<br />
+&bull; Managing suppliers and 3PLs<br />
+&bull; Create monthly and ad hoc reports and dashboards for production metrics<br />
+&bull; Methodically drive business process improvements to enhance informational speed and accuracy<br />
+&bull; Present results of analysis and research on a variety of business operations topics including customer metrics, order management tracking, and capacity utilization trends</p>
+<p>
+<br />
+About You<br />
+You are an Excel wiz. &nbsp;In your past work experience, you have worked in a manufacturing facility and are familiar with manufacturing principles in both academic and practice. &nbsp;You have executed and managed manufacturing test processes. &nbsp;Big bonus if you have had Lean Six Sigma training!&nbsp; Given that we are a startup, you must have a strong work ethic and accountability to deadlines; this means no excuses!&nbsp;&nbsp; You must also have strong quantitative, analytical, and organizational skills.&nbsp; Trite but none the less, you must have excellent interpersonal, verbal, and written communications skills.&nbsp; Lastly, you have a profound penchant for problem solving, insatiable desire for learning, and a constant desire to achieve greatness.&nbsp; If this sounds like you, we would love to hear from you.</p>
+<p>
+Education/Experience<br />
+&bull; 4-year degree with a major in engineering, operations management, or related field with exceptional academic achievements<br />
+&bull; 4-6 Years of prior relevant work experience</p>
+<p>
+&nbsp;</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/Revolv/kxOcAl"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130620000411_AQ4KWB8VRND6O48A]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sr. Mobile Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://revolv.theresumator.com/apply/JyFpGW/Sr-Mobile-Engineer.html]]></url>
+			<city><![CDATA[Boulder]]></city>
+			<state><![CDATA[CO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[80302]]></postalcode>
+			<description><![CDATA[<p>
+&nbsp; &nbsp; We&#39;re looking for an iOS developer to help build a world class application that makes your house revolv around you (yeah, we just went there).&nbsp; We&#39;re pulling together a killer team from UI/UX design all the way to plastics injection molding, and our app ties everything together.</p>
+<p>
+<strong>Requirements: &nbsp;</strong></p>
+<p>
+&nbsp; &nbsp; You&#39;ve got a penchanct for problem solving and a head for quality.&nbsp; You&#39;ve got apps on the store with five star ratings (real ratings from strangers, not those easy ratings you got from your mom and your cat).&nbsp; You&#39;ve taken apart the AFNetworking library and you know how the reachability section works.&nbsp; We can talk about the MVVM design pattern and why addObserver:forKeyPath: is pretty much the coolest thing ever.&nbsp; You&#39;ve put together a static library in XCode and compiled the simulator and device executables into one shippable piece.&nbsp; You love what you do, even when you are fighting XCode for the right to compile your project; I thought there WASN&#39;T an entitlements.plist file anymore!</p>
+<p>
+<strong>Please submit your App Store URL in the Website, Blog or Portfolio link.</strong></p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/Revolv/JyFpGW"></script>]]></buttons>
+		</job>
+	</jobs>

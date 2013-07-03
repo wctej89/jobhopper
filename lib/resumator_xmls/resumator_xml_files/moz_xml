@@ -1,0 +1,940 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Moz]]></company>
+			<job>
+			<id><![CDATA[job_20121108000822_7PSF4D267LZB8R2E]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Design Engineer in Test - Big Data]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering - Q&A]]></team>
+			<url><![CDATA[http://moz.theresumator.com/apply/kG3f48/Software-Design-Engineer-In-Test-Big-Data.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98101]]></postalcode>
+			<description><![CDATA[<p>
+There are a few things in life you are probably good at, such as nautical knots, pie eating contests and World of Starcraft - but you take pride in your ability to quickly spot errors in someone&rsquo;s code. And generally, people either love you for it or hate you for it. If you are as good as we need you to be, you can spot bugs from 1 million miles away, and with the snap of your Indiana Jones whip - you have them bugs marching in unison down the drain of despair with no chance of showing their ugly faces to our customers. OK, but it paints a picture :)</p>
+<p>
+<strong>About the Position</strong></p>
+<p>
+You will be expected to invent and implement architecture for driving the automated testing of existing systems that have formerly had very limited testing. As a leader you will work with software engineers to build stubs for upstream testing, tests integrated with build tools and working with development and product teams dedicated to quality software. You will need to be confident in your ability to architect and code solutions that the group can use for years to come and tests that are clever enough to be flexible across releases.</p>
+<p>
+We are looking for smart C++ coders interested in creating testing frameworks around complex data problems and distributed systems who love tackling problems around scalability and performance load testing. We need you to be innovative, have an entrepreneur&rsquo;s approach and use creativity to improve our services on a daily basis. This job is much more than defining tests for existing distributed systems and API&rsquo;s, as you will also be working with the software engineers and production teams on early detection and monitoring solutions.</p>
+<p>
+You must be responsive, flexible and able to succeed within an open collaborative peer environment.</p>
+<p>
+The candidate must be an adaptable writer who learns quickly, communicates clearly, and enjoys working with engineers on complex technology in a fun, high-energy working environment. You should have an in-depth knowledge of Quality Assurance, a solid understanding of computer science principles, as well as knowledge of how to architect software for maximum longevity. The test software you will build should expose software defects in production level code, batch processing code as well as defects at the component and feature integration level.</p>
+<ul>
+<li>
+Bachelor&#39;s degree in Computer Science, Computer Engineering or similar technical field.</li>
+<li>
+5+ years of experience as a developer, QA Engineer, or SDET. Preferably with distributed, customer-facing services.</li>
+<li>
+5+ years experience in object oriented programming (C++ preferred). Python, Ubuntu, Linux, shell programming skills and using open source tools are a plus.</li>
+<li>
+Strong understanding of HTTP delivery protocols and a solid understanding of Internet networking protocols such as TCP, UDP, IP, HTTP, and SSL</li>
+<li>
+Experience with web/caching technologies such as nginx, squid, and varnish a bonus</li>
+<li>
+Proficient in testing methodologies</li>
+<li>
+Automation architecture development and/or maintenance experience</li>
+<li>
+Experience with automated test and specification frameworks (selenium, cucumber experience a plus)</li>
+<li>
+Comfort and familiarity with common data structures, algorithms and collections.</li>
+<li>
+Excellent leadership, communication, collaboration, organization, analytical and problem solving skills.</li>
+<li>
+Keen attention to detail and high level of commitment.</li>
+</ul>
+<p>
+<strong>About the company</strong></p>
+<p>
+Moz is a rapidly-growing, profitable technology startup.&nbsp; That said, we dream big--we aim to provide companies with the best, most advanced ways to measure and improve their organic web marketing (i.e. any traffic source you don&rsquo;t pay for - SEO, social, blogs, viral videos, etc.).</p>
+<p>
+We&rsquo;ve got the reputation of a big player with the energy of a small, nimble organization.&nbsp; This allows us to do very exciting things when we smell opportunity.&nbsp; We pride ourselves on developing kick-ass (and good-looking) software, indexing the web, providing a robust API that serves hundreds of millions of queries each day, and hosting the web&rsquo;s most vibrant web marketing community.</p>
+<p>
+In our downtown Seattle offices, mere steps from Pike Place Market, we maintain a fun, supportive, laid-back work environment.&nbsp; We pay well (salaries are on par with the big guys - Google, Microsoft, Facebook, Sauron) and we work hard (sometimes long hours are a must, but we pride ourselves on working smart, not 80-hour nightmare weeks).&nbsp; We&rsquo;re also very generous with vacation and flex time because we understand that our employees have lives, interests, and obligations outside of the office.</p>
+<p>
+Our core values include being transparent (you&rsquo;ll get every key metric about the business each week), having fun (pie-eating contests - check! Team ice cream trips - check! Friday afternoon Settlers of Catan parties - check!) and creating exceptional products our customers love. We strongly encourage you to read more about the company - our core values (below and here: http://moz.com/about/tagfee), our history (http://moz.com/about), what we do (http://moz.com/products) and a video about why we love Moz (http://youtu.be/_rr2XKYoc30)!</p>
+<p>
+<strong>Moz believes in the TAGFEE tenets. As Mozzers, we strive to exemplify these core values.</strong></p>
+<ul>
+<li>
+<strong>Transparency</strong> means I have nothing to hide from our customers. Good news is good news. Bad news is bad. I promise to never &lsquo;sugar-coat&rsquo; or &lsquo;oversell&rsquo; by delivering false pretenses. I want everyone at Moz to understand how our business is doing, what our product does, and how you can get the most out of it. I also want to be transparent about limitations. I believe in empowering people and building culture through shared knowledge.</li>
+<li>
+<strong>Authenticity</strong> means I have true self-awareness of my strengths, weaknesses, and beliefs. I represent these attributes honestly. I am the same person at work that I am outside of work - my authentic self doesn&rsquo;t hide behind a veil of professionalism or ego. I strive for humility and reject the pitfalls of pride.</li>
+<li>
+Being <strong>Generous</strong> means giving more than I receive. This serves not only those I give to, but myself as well.</li>
+<li>
+Having <strong>Fun</strong> means staying in the moment, losing my ego, and laughing with my team.</li>
+<li>
+<strong>Empathy</strong>. This is Moz&rsquo;s most important core value. I put myself in the shoes of others - customers, partners, and co-workers to understand their motivations, and why, especially when things are tough, they believe, act, and communicate as they do. Empathy is more than just listening and understanding - it&rsquo;s about embracing the emotions and viewpoints around me so that communication can be truly honest.</li>
+<li>
+Being <strong>Exceptional</strong> means delivering the unexpected, delightful, and illuminating.</li>
+</ul>
+<p>
+<strong>Compensation</strong></p>
+<p>
+We&rsquo;re offering a very competitive salary for this position (based on experience) to attract exciting candidates. In addition, we also provide:</p>
+<ul>
+<li>
+100% Paid Medical, Dental &amp; Vision benefits (50% for dependents)</li>
+<li>
+Generous stock options (1 year to first stake, 4 years to full vesting)</li>
+<li>
+PAID, paid Vacation - $3,000 per year toward vacation expenses</li>
+<li>
+100% match of your 401k contributions up to 3% of your gross income</li>
+<li>
+150% charity matching program</li>
+<li>
+21 days annual paid time off, 7 days of sick/safe leave and paid holidays</li>
+<li>
+Professional coaching</li>
+<li>
+Subsidized gym membership</li>
+<li>
+Subsidized internet access for your home</li>
+<li>
+Commuting benefits</li>
+<li>
+Fully stocked fridge, bar, cereal bar and all the turkey jerky and candy you want!<br />
+&nbsp;</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/moz/kG3f48"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121108002746_8U3A7WN6EKUROPMT]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Clever SDET]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering - Q&A]]></team>
+			<url><![CDATA[http://moz.theresumator.com/apply/e4vAX3/Clever-SDET.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98101]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About the Position</strong></p>
+<p>
+You will be expected to invent and implement architecture for driving the automated testing of new products and supporting software and services. As a leader you will work with developers to build stubs for upstream testing, tests integrated with build tools and working with development and product teams dedicated to quality software. You will need to be confident in your ability to architect and code solutions that the group can use for years to come and tests that are clever enough to be flexible across releases.</p>
+<p>
+We are looking for the unique combination of development skills and passion for testing features and services. We need you to be innovative, have an entrepreneur&rsquo;s approach and use creativity to improve our services on a daily basis. This job is much more than defining tests for existing API&#39;s and features,&nbsp; as you will also be working with the development and production teams on early detection and monitoring solutions.</p>
+<p>
+You must be responsive, flexible and able to succeed within an open collaborative peer environment.</p>
+<p>
+The candidate must be an adaptable writer who learns quickly, communicates clearly, and enjoys working with engineers on complex technology in a fun, high-energy working environment. You should have a combination of solid in-depth knowledge of Quality Assurance, solid understanding of computer science principles, as well as knowledge of how to architect software for maximum longevity. The test software you will build should expose API defects in production level code as well as defects at the component and feature integration level.</p>
+<ul>
+<li>
+Bachelor&#39;s degree in Computer Science, Computer Engineering or similar technical field.</li>
+<li>
+2+ years of experience as a developer, QA Engineer, or SDET.</li>
+<li>
+2+ years of expertise in an object oriented programming language.</li>
+<li>
+Proficient in an object oriented programming language.</li>
+<li>
+Proficient in testing methodologies</li>
+<li>
+Experience with open source tools and resources.</li>
+<li>
+Practical coding experience on a mobile platform</li>
+<li>
+Automation architecture development and/or maintenance experience</li>
+<li>
+Ability to programmatically test any software product and develop automation for it.</li>
+<li>
+Experience with automated test and specification frameworks ( selenium, cucumber experience a plus)</li>
+<li>
+Familiar with RoR, AJAX, SQL vs NoSQL data stores, cloud computing, etc</li>
+<li>
+Comfort and familiarity with common data structures, algorithms and collections.</li>
+<li>
+Excellent communication, collaboration, reporting, analytical and problem solving skills.</li>
+</ul>
+<p>
+<strong>About the Company</strong></p>
+<p>
+Moz is a rapidly-growing, profitable technology startup.&nbsp; That said, we dream big--we aim to provide companies with the best, most advanced ways to measure and improve their organic web marketing (i.e. any traffic source you don&rsquo;t pay for - SEO, social, blogs, viral videos, etc.).</p>
+<p>
+We&rsquo;ve got the reputation of a big player with the energy of a small, nimble organization.&nbsp; This allows us to do very exciting things when we smell opportunity.&nbsp; We pride ourselves on developing kick-ass (and good-looking) software, indexing the web, providing a robust API that serves hundreds of millions of queries each day, and hosting the web&rsquo;s most vibrant web marketing community.</p>
+<p>
+In our downtown Seattle offices, mere steps from Pike Place Market, we maintain a fun, supportive, laid-back work environment.&nbsp; We pay well (salaries are on par with the big guys - Google, Microsoft, Facebook, Sauron) and we work hard (sometimes long hours are a must, but we pride ourselves on working smart, not 80-hour nightmare weeks).&nbsp; We&rsquo;re also very generous with vacation and flex time because we understand that our employees have lives, interests, and obligations outside of the office.</p>
+<p>
+Our core values include being transparent (you&rsquo;ll get every key metric about the business each week), having fun (pie-eating contests - check! Team ice cream trips - check! Friday afternoon Settlers of Catan parties - check!) and creating exceptional products our customers love. We strongly encourage you to read more about the company - our core values (below and here: http://moz.com/about/tagfee), our history (http://moz.com/about), what we do (http://moz.com/products) and a video about why we love Moz (http://youtu.be/_rr2XKYoc30)!</p>
+<p>
+<strong>Moz believes in the TAGFEE tenets. As Mozzers, we strive to exemplify these core values.</strong></p>
+<ul>
+<li>
+<strong>Transparency</strong> means I have nothing to hide from our customers. Good news is good news. Bad news is bad. I promise to never &lsquo;sugar-coat&rsquo; or &lsquo;oversell&rsquo; by delivering false pretenses. I want everyone at Moz to understand how our business is doing, what our product does, and how you can get the most out of it. I also want to be transparent about limitations. I believe in empowering people and building culture through shared knowledge.</li>
+<li>
+<strong>Authenticity</strong> means I have true self-awareness of my strengths, weaknesses, and beliefs. I represent these attributes honestly. I am the same person at work that I am outside of work - my authentic self doesn&rsquo;t hide behind a veil of professionalism or ego. I strive for humility and reject the pitfalls of pride.</li>
+<li>
+Being <strong>Generous</strong> means giving more than I receive. This serves not only those I give to, but myself as well.</li>
+<li>
+Having <strong>Fun</strong> means staying in the moment, losing my ego, and laughing with my team.</li>
+<li>
+<strong>Empathy</strong>. This is Moz&#39;s most important core value. I put myself in the shoes of others - customers, partners, and co-workers to understand their motivations, and why, especially when things are tough, they believe, act, and communicate as they do. Empathy is more than just listening and understanding - it&rsquo;s about embracing the emotions and viewpoints around me so that communication can be truly honest.</li>
+<li>
+Being <strong>Exceptional</strong> means delivering the unexpected, delightful, and illuminating.</li>
+</ul>
+<p>
+<strong>Compensation</strong></p>
+<p>
+We&rsquo;re offering a very competitive salary for this position (based on experience) to attract exciting candidates. In addition, we also provide:</p>
+<ul>
+<li>
+100% Paid Medical, Dental &amp; Vision benefits (50% for dependents)</li>
+<li>
+Generous stock options (1 year to first stake, 4 years to full vesting)</li>
+<li>
+PAID, paid Vacation - $3,000 per year toward vacation expenses</li>
+<li>
+100% match of your 401k contributions up to 3% of your gross income</li>
+<li>
+150% charity matching program</li>
+<li>
+21 days annual paid time off, 7 days of sick/safe leave and paid holidays</li>
+<li>
+Professional coaching</li>
+<li>
+Subsidized gym membership</li>
+<li>
+Subsidized internet access for your home</li>
+<li>
+Commuting benefits</li>
+<li>
+Fully stocked fridge, bar, cereal bar and all the turkey jerky and candy you want!</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/moz/e4vAX3"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121108005508_L3FGVHB2V2SPGWEC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Technical Project Manager]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering - TPM]]></team>
+			<url><![CDATA[http://moz.theresumator.com/apply/QHUutX/Technical-Project-Manager.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98101]]></postalcode>
+			<description><![CDATA[<p>
+Can you command the attention of a group while a Nerf Gun war is at hand? Are you whip-smart, funny and have a passion for getting things done while having fun? Can you handle more than one thing at a time and do you like to?</p>
+<p>
+Are you wanting to work for a small, growing and profitable startup with a fuzzy robot mascot named Roger? Please read on!</p>
+<p>
+Don&#39;t be wooed by the big companies; come to a place where your talents are appreciated, your voice is heard, and your work has an impact.</p>
+<p>
+<strong>About the position</strong></p>
+<p>
+First, a few questions:</p>
+<p>
+Is your hatred for cubicles exceeded only by your desire to make the web a better place?<br />
+Do you want to work with a bunch of smart, passionate people building some really cool software?<br />
+Do you love learning new things and want to be the best at your craft?<br />
+Are status reports your middle name (or you are so good at them that it could be)?<br />
+Have you ever wondered why your LOL Gerbils blog does not rank #1 in Google?</p>
+<p>
+If you&#39;ve answered heck yeah! to the above, congratulations! You&#39;re a lot like us and we can&#39;t wait to meet you.</p>
+<p>
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+Take ownership of projects from cradle to grave; planning to launch</li>
+<li>
+Maintain project timelines and keep our agile development on schedule and on track</li>
+<li>
+Deeply understand our business, industry, and customers; translate needs into product requirements, product wireframes, and specifications</li>
+<li>
+Contribute creative and innovative ideas to the business.</li>
+<li>
+Help triage and prioritize - be the customer advocate but also balance the ROI of development work</li>
+<li>
+Be the central point of communication for all owned projects</li>
+<li>
+You are so organized your momma gave a label maker instead of a rattle (just kidding, but being organized and handling all the details is crucial)</li>
+<li>
+Work effectively with everyone at the company; developers, designers, marketers, and everyone in between</li>
+<li>
+Keep on top of the details so that nothing slips through the cracks</li>
+</ul>
+<p>
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+3 -8 years of recent experience as a program or project manager</li>
+<li>
+B.S. or higher in Computer Science</li>
+<li>
+Excellent problem solver, creative thinker, and extremely self-motivated</li>
+<li>
+Analytical and detail oriented. Able to prioritize, execute and deliver projects on time</li>
+<li>
+Writing, reviewing, and editing technical specifications</li>
+<li>
+Translating business requirements into technical specifications</li>
+<li>
+Experience with web-oriented interface specifications, e.g. SOAP, REST</li>
+<li>
+Experience with web-oriented data formats, e.g. JSON, XML</li>
+<li>
+Experience with Agile processes / scrum</li>
+<li>
+Strong customer empathy</li>
+<li>
+A high-level understanding and curiosity about technology &ndash; you won&rsquo;t write code, but you need to work intelligently with those who do</li>
+<li>
+Great written and verbal communication skills</li>
+<li>
+Able to herd cats, dogs, and the occasional circus animal</li>
+<li>
+Add energy to already energetic team</li>
+<li>
+Quick to make a new pot of coffee after drinking the last cup</li>
+<li>
+U.S. citizenship or permanent resident status required</li>
+</ul>
+<p>
+<strong>Preferred Skills &amp; Abilities (Bonus Round):</strong></p>
+<p>
+The following attributes, while not required, would be valuable to the team and useful in many of the tasks and projects you&#39;ll be assigned:</p>
+<ul>
+<li>
+Participation in the social web (blogosphere, YouTube, Twitter, etc.)</li>
+<li>
+Experience in a high-energy startup or an enterprise class software company is a plus</li>
+<li>
+A computer science or coding background could come in very handy</li>
+<li>
+Experience with Big Data</li>
+<li>
+Experience doing SEO or knowledge of organic marketing techniques could also come in handy</li>
+</ul>
+<p>
+<strong>About the Company</strong></p>
+<p>
+Moz is a rapidly-growing, profitable technology startup.&nbsp; That said, we dream big--we aim to provide companies with the best, most advanced ways to measure and improve their organic web marketing (i.e. any traffic source you don&rsquo;t pay for - SEO, social, blogs, viral videos, etc.).</p>
+<p>
+We&rsquo;ve got the reputation of a big player with the energy of a small, nimble organization.&nbsp; This allows us to do very exciting things when we smell opportunity.&nbsp; We pride ourselves on developing kick-ass (and good-looking) software, indexing the web, providing a robust API that serves hundreds of millions of queries each day, and hosting the web&rsquo;s most vibrant web marketing community.</p>
+<p>
+In our downtown Seattle offices, mere steps from Pike Place Market, we maintain a fun, supportive, laid-back work environment.&nbsp; We pay well (salaries are on par with the big guys - Google, Microsoft, Facebook, Sauron) and we work hard (sometimes long hours are a must, but we pride ourselves on working smart, not 80-hour nightmare weeks).&nbsp; We&rsquo;re also very generous with vacation and flex time because we understand that our employees have lives, interests, and obligations outside of the office.</p>
+<p>
+Our core values include being transparent (you&rsquo;ll get every key metric about the business each week), having fun (pie-eating contests - check! Team ice cream trips - check! Friday afternoon Settlers of Catan parties - check!) and creating exceptional products our customers love. We strongly encourage you to read more about the company - our core values (below and here: http://moz.com/about/tagfee), our history (http://moz.com/about), what we do (http://moz.com/products) and a video about why we love Moz (http://youtu.be/_rr2XKYoc30)!</p>
+<p>
+<strong>Moz believes in the TAGFEE tenets. As Mozzers, we strive to exemplify these core values.</strong></p>
+<ul>
+<li>
+Transparency means I have nothing to hide from our customers. Good news is good news. Bad news is bad. I promise to never &lsquo;sugar-coat&rsquo; or &lsquo;oversell&rsquo; by delivering false pretenses. I want everyone at Moz to understand how our business is doing, what our product does, and how you can get the most out of it. I also want to be transparent about limitations. I believe in empowering people and building culture through shared knowledge.</li>
+<li>
+Authenticity means I have true self-awareness of my strengths, weaknesses, and beliefs. I represent these attributes honestly. I am the same person at work that I am outside of work - my authentic self doesn&rsquo;t hide behind a veil of professionalism or ego. I strive for humility and reject the pitfalls of pride.</li>
+<li>
+Being Generous means giving more than I receive. This serves not only those I give to, but myself as well.</li>
+<li>
+Having Fun means staying in the moment, losing my ego, and laughing with my team.</li>
+<li>
+Empathy. This is Moz&rsquo;s most important core value. I put myself in the shoes of others - customers, partners, and co-workers to understand their motivations, and why, especially when things are tough, they believe, act, and communicate as they do. Empathy is more than just listening and understanding - it&rsquo;s about embracing the emotions and viewpoints around me so that communication can be truly honest.</li>
+<li>
+Being Exceptional means delivering the unexpected, delightful, and illuminating.</li>
+</ul>
+<p>
+<strong>Compensation</strong></p>
+<p>
+We&rsquo;re offering a very competitive salary for this position (based on experience) to attract exciting candidates. In addition, we also provide:</p>
+<ul>
+<li>
+100% Paid Medical, Dental &amp; Vision benefits (50% for dependents)</li>
+<li>
+Generous stock options (1 year to first stake, 4 years to full vesting)</li>
+<li>
+PAID, paid Vacation - $3,000 per year toward vacation expenses</li>
+<li>
+100% match of your 401k contributions up to 3% of your gross income</li>
+<li>
+150% charity matching program</li>
+<li>
+21 days annual paid time off, 7 days of sick/safe leave and paid holidays</li>
+<li>
+Professional coaching</li>
+<li>
+Subsidized gym membership</li>
+<li>
+Subsidized internet access for your home</li>
+<li>
+Commuting benefits</li>
+<li>
+Fully stocked fridge, bar, cereal bar and all the turkey jerky and candy you want!<br />
+&nbsp;</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/moz/QHUutX"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130412232808_NFVL9RDDZG3WFD6H]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Director of Accounting]]></title>
+			<department><![CDATA[Finance]]></department>
+			<team><![CDATA[Finance]]></team>
+			<url><![CDATA[http://moz.theresumator.com/apply/RXmrQu/Director-Of-Accounting.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98101]]></postalcode>
+			<description><![CDATA[<ul>
+<li>
+Do you &lt;3 spreadsheets?</li>
+<li>
+Are you a GAAP master?</li>
+<li>
+Do you have trouble sleeping if your accounts don&rsquo;t reconcile?</li>
+<li>
+Are your management skills so exceptional they call you sensei?</li>
+</ul>
+<p>
+If yes, then we should meet! We&rsquo;re searching for the World&rsquo;s Best Director of Accounting to help keep our financial house organized, efficient, and innovative during a period of aggressive growth.</p>
+<p>
+<strong>The Top 6 Job Responsibilities:</strong></p>
+<ol>
+<li>
+GAAP wizard who salivates over complex journal entries and champions accounting policies</li>
+<li>
+&nbsp;Manager, mentor and team builder who inspires others to do their best work and meet important reporting deadlines</li>
+<li>
+Strangely enthusiastic for audits because you&rsquo;ve been prepping all year and you know your stuff</li>
+<li>
+Obsessed with providing accurate, informative, and timely financial reports</li>
+<li>
+Capable of translating the department&rsquo;s strategic vision into actionable steps to take us from a startup to a global superpower</li>
+<li>
+TAGFEE to the T!</li>
+</ol>
+<p>
+<strong>(And the rest...)</strong></p>
+<ul>
+<li>
+Lead the communication and implementation of accounting principles, practices and procedures to ensure FASB, GAAP, IFRS and Sarbanes-Oxley compliance. Make us IPO ready.</li>
+<li>
+Manage a hard working, fun, and brilliant accounting team. Lucky you!</li>
+<li>
+Lead monthly accounting close efforts including the preparation and review of journal entries, balance sheet reconciliations, accruals, reserves and maintenance of the company chart accounts.</li>
+<li>
+Help us find and implement the best technology to run our financial department in a secure, accurate, efficient, and paper-free manner.</li>
+<li>
+Support financial planning, analysis, and reporting efforts by collaborating with folks in other departments to identify, track, and evangelize their KPIs.</li>
+<li>
+Be an audit superhero by keeping us audit-ready in all the relevant jurisdiction. Bring on the annual audit!</li>
+<li>
+Work with local agencies and independent auditors in all jurisdictions in the preparation of required statutory reporting.</li>
+<li>
+Collaborate with tax experts in the development of appropriate tax strategies and preparation of relevant tax return filings.</li>
+<li>
+Work with the Chief Operating Officer on implementation of strategic business and/or operational strategies and systems.</li>
+</ul>
+<p>
+<strong>Skillz &amp; Qualifications:</strong></p>
+<ul>
+<li>
+Zealous attention to detail and the ability to prioritize multiple tasks</li>
+<li>
+An almost unhealthy obsession with organizing EVERYTHING</li>
+<li>
+Independent thinker with the ability to recognize where processes can be improved and how to successfully implement change</li>
+<li>
+High degree of integrity and professionalism</li>
+<li>
+Passionate about technology and the Internet</li>
+<li>
+Exceptional verbal and written communication skills</li>
+<li>
+Infectious positive attitude with other team members and customers</li>
+<li>
+Sense of humor and ability to laugh at yourself and bad jokes</li>
+<li>
+Minimum Bachelor&rsquo;s degree with emphasis on accounting or finance</li>
+<li>
+CPA with Big Four accounting experience</li>
+<li>
+Proven success leading a team of people to achieve specified objectives using a collaborative management style</li>
+<li>
+Experienced operator (6-8 years) in a high growth technology company--you know what it&rsquo;s like to start small and take a company public and international</li>
+<li>
+Experience with a subscription business a bonus!</li>
+<li>
+Proficiency in QuickBooks, Excel, Google Apps, MS Word, PowerPoint, WorkDay</li>
+</ul>
+<p>
+<strong>About SEOmoz</strong></p>
+<p>
+Moz is a rapidly-growing, profitable technology startup.&nbsp; That said, we dream big--we aim to provide companies with the best, most advanced ways to measure and improve their organic web marketing (i.e. any traffic source you don&rsquo;t pay for - SEO, social, blogs, viral videos, etc.).</p>
+<p>
+We&rsquo;ve got the reputation of a big player with the energy of a small, nimble organization.&nbsp; This allows us to do very exciting things when we smell opportunity.&nbsp; We pride ourselves on developing kick-ass (and good-looking) software, indexing the web, providing a robust API that serves hundreds of millions of queries each day, and hosting the web&rsquo;s most vibrant web marketing community.</p>
+<p>
+In our downtown Seattle offices, mere steps from Pike Place Market, we maintain a fun, supportive, laid-back work environment.&nbsp; We pay well (salaries are on par with the big guys - Google, Microsoft, Facebook, Sauron) and we work hard (sometimes long hours are a must, but we pride ourselves on working smart, not 80-hour nightmare weeks).&nbsp; We&rsquo;re also very generous with vacation and flex time because we understand that our employees have lives, interests, and obligations outside of the office.</p>
+<p>
+Our core values include being transparent (you&rsquo;ll get every key metric about the business each week), having fun (pie-eating contests - check! Team ice cream trips - check! Friday afternoon Settlers of Catan parties - check!) and creating exceptional products our customers love. We strongly encourage you to read more about the company - our core values (below and here: http://moz.com/about/tagfee), our history (http://moz.com/about), what we do (http://moz.com/products) and a video about why we love Moz (http://youtu.be/_rr2XKYoc30)!</p>
+<p>
+<strong>Moz believes in the TAGFEE tenets. As Mozzers, we strive to exemplify these core values.</strong></p>
+<ul>
+<li>
+<strong>Transparency</strong> means I have nothing to hide from our customers. Good news is good news. Bad news is bad. I promise to never &lsquo;sugar-coat&rsquo; or &lsquo;oversell&rsquo; by delivering false pretenses. I want everyone at Moz to understand how our business is doing, what our product does, and how you can get the most out of it. I also want to be transparent about limitations. I believe in empowering people and building culture through shared knowledge.</li>
+<li>
+<strong>Authenticity</strong> means I have true self-awareness of my strengths, weaknesses, and beliefs. I represent these attributes honestly. I am the same person at work that I am outside of work - my authentic self doesn&rsquo;t hide behind a veil of professionalism or ego. I strive for humility and reject the pitfalls of pride.</li>
+<li>
+Being <strong>Generous</strong> means giving more than I receive. This serves not only those I give to, but myself as well.</li>
+<li>
+Having <strong>Fun</strong> means staying in the moment, losing my ego, and laughing with my team.</li>
+<li>
+<strong>Empathy</strong>. This is Moz&rsquo;s most important core value. I put myself in the shoes of others - customers, partners, and co-workers to understand their motivations, and why, especially when things are tough, they believe, act, and communicate as they do. Empathy is more than just listening and understanding - it&rsquo;s about embracing the emotions and viewpoints around me so that communication can be truly honest.</li>
+<li>
+Being <strong>Exceptional</strong> means delivering the unexpected, delightful, and illuminating.</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Compensation</strong></p>
+<p>
+We&rsquo;re offering a very competitive salary for this position (based on experience) to attract exciting candidates. In addition, we also provide:</p>
+<ul>
+<li>
+100% Paid Medical, Dental &amp; Vision benefits (50% for dependents)</li>
+<li>
+Generous stock options (1 year to first stake, 4 years to full vesting)</li>
+<li>
+PAID, paid Vacation - $3,000 per year toward vacation expenses</li>
+<li>
+100% match of your 401k contributions up to 3% of your gross income</li>
+<li>
+150% charity matching program</li>
+<li>
+21 days annual paid time off, 7 days of sick/safe leave and paid holidays</li>
+<li>
+Professional coaching</li>
+<li>
+Subsidized gym membership</li>
+<li>
+Subsidized internet access for your home</li>
+<li>
+Commuting benefits</li>
+<li>
+Fully stocked fridge, bar, cereal bar and all the turkey jerky and candy you want!</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Senior Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/moz/RXmrQu"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130411165049_LVOD2AYQYRE5WVIV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Chief Marketing Officer]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[Eteam]]></team>
+			<url><![CDATA[http://moz.theresumator.com/apply/CeN1eq/Chief-Marketing-Officer.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98101]]></postalcode>
+			<description><![CDATA[<p>
+Moz is recruiting a Head of Marketing to oversee our talented, diverse marketing team. Inspiring people, providing exceptional mentorship, building transparent, authentic processes that scale, and enabling Moz&rsquo;s marketers to do their best work are the most important functions of this role. This is a key executive position reporting directly to the CEO and will be responsible for contributing to company strategy and communicating marketing vision directly to the Board of Directors. The Head of Marketing will lead, grow, and manage a high-performance marketing team to define and deliver innovative and TAGFEE marketing that drives our self-service Saas business into its next phase of growth and beyond.</p>
+<p style="text-align: center; ">
+<strong>KEY CHALLENGES/OBJECTIVES:</strong></p>
+<p>
+<strong>PROVIDE TRUSTWORTHY, THOUGHTFUL, AND INSPIRATIONAL LEADERSHIP TO AN AGILE, WORLD-CLASS, COLLABORATIVE TEAM OF ~17 MARKETERS</strong></p>
+<ul>
+<li>
+Oversee the marketing, content creation, and community management from planning to tactical execution, serving as chief steward and champion in the management of Moz&#39;s marketing efforts..l</li>
+<li>
+Coach, mentor, and develop Moz&#39;s marketers. Be the best manager they&rsquo;ve ever met. Provide responsive leadership that allows the marketing team to move forward confidently and efficiently in their decisions.</li>
+<li>
+Grow the marketing team without compromising the bar for competency and culture fit.</li>
+<li>
+Oversee the marketing, content creation, and community management from planning to tactical execution, serving as chief steward and champion in the management of Moz&#39;s marketing efforts.</li>
+</ul>
+<p>
+<strong>ON-TIME EXECUTION OF INNOVATIVE AND TAGFEE CAMPAIGNS, MARKETING INITIATIVES AND PRODUCT LAUNCHES</strong></p>
+<ul>
+<li>
+Maintain and exceed Moz&#39;s reputation as a trustworthy, friendly, cutting-edge inbound marketing technology company.</li>
+<li>
+Create realistic, predictable, dependable launch plans and targets.&nbsp; Work closely with stakeholders to effectively balance aggressive speed-to-market with flawless quality and scalability.</li>
+<li>
+You smile and radiate calm under extreme stress. Your team seeks you out to provide value to their problem solving and decision-making.</li>
+</ul>
+<p>
+<strong>CREATE A COMPANY CULTURE THAT IS OBSESSED WITH ANALYTICS</strong></p>
+<ul>
+<li>
+Drive the marketing team to hit key metrics and goals, and tie everything back to our data and analytics. Coordinate strategic projects and actions to move the needle across multiple fronts.</li>
+<li>
+Build repeatable, scalable processes that will improve team efficiency and add data and science to the art of marketing.</li>
+<li>
+Balance long-term investments and vision with short-term customer acquisition and retention requirements.</li>
+</ul>
+<p>
+<strong>PROVIDE THE MARKETING VIEWPOINT INTO CORPORATE STRATEGY AND DECISION-MAKING PROCESSES</strong></p>
+<ul>
+<li>
+Develop and communicate a clear vision and roadmap for Moz&#39;s marketing portfolio across the organization and the inbound marketing community; interact with Product Management, Engineering, and Operations to ensure compelling message and strategic alignment.</li>
+<li>
+Contribute to and deliver on a multi-year product roadmap that goes far beyond today&rsquo;s product portfolio.</li>
+<li>
+Work with stakeholders to develop a long-term and short-term marketing strategy, including identifying high-quality markets, effective steps to reach the target markets, and realistic goals to measure success.</li>
+</ul>
+<p style="text-align: center; ">
+<strong>IDEAL CANDIDATE PROFILE</strong></p>
+<p>
+Incredibly passionate about innovating and leveraging technology to reach new markets, the Head of Marketing will be relied upon by the CEO to deliver world-class inbound marketing strategies with a view towards long-term growth, lasting value, and customer delight. The Head of Marketing will also provide key information and perspective to help shape product development and strategic partnerships. The role suits someone who thrives in a fast-paced entrepreneurial start-up environment, believes in data-driven decisions, and demonstrates consistent, innovative executive leadership.</p>
+<p>
+<strong>MINIMUM OF 8 YEARS DIGITAL MARKETING AND LEADERSHIP EXPERIENCE:</strong></p>
+<ul>
+<li>
+A long history of hiring, managing, and mentoring highly skilled marketers to great happiness and business success.</li>
+<li>
+Ability to retain and recruit an amazing team and can leverage a powerful network of digital marketers.</li>
+<li>
+Past success in a marketing executive role with fast-growth company with a record of great achievements. Public company experience a plus.</li>
+<li>
+Led teams through a full product cycle, from identifying the target market for the product and working with the engineering and product teams to assure feature fit, to product positioning, successful launch, and iteration to maximize reach.</li>
+<li>
+Proven track record of strategic planning, creating complete and delightful launch collateral, and launching on time.</li>
+</ul>
+<p>
+<strong>MARKETING CREDENTIALS:</strong></p>
+<ul>
+<li>
+Deep knowledge and connections in the Internet marketing space, especially content marketing, SEO, SMM, CRO, and PPC. The choice of Head of Marketing will reflect on the credibility of our product, and we&rsquo;re looking for a capable spokesperson on behalf of SEOmoz, as well as an experienced manager and marketer.</li>
+<li>
+Understand the KPIs that drive subscription businesses.</li>
+<li>
+Experience building world-class marketing teams supporting multiple business lines and highly trafficked websites. Has developed marketing processes appropriate to team and business needs.</li>
+</ul>
+<p>
+<strong>CULTURAL AND EXPERIENTIAL INDICATORS:</strong></p>
+<p>
+Moz strives to be a fun, laid-back work environment. We work hard and sometimes put in long hours to accomplish our goals, but we&#39;re not unreasonable tyrants. We&#39;re very generous with vacation and flex time, and understand that our employees have lives, interests, and obligations outside of the office. We maintain a close-knit, warm, nurturing atmosphere, but we know how to buckle down and get things done, providing an objective eye and constructive criticism when needed. Our ideal Head of Marketing Candidate will reflect the following indicators:</p>
+<ul>
+<li>
+<strong>Transparent, authentic, generous, fun, empathetic, and exceptional (TAGFEE)</strong>. Cultural fit and values are of utmost importance at Moz. Our values are outlined in the TAGFEE Tenets, which is required reading for everyone interested in becoming part of the Moz team.</li>
+<li>
+<strong>Belief in our Mission</strong>. We want people who are passionate about our mission: to help marketers do better marketing. It&#39;s our goal to transform online marketing software and process into a positive, exciting experience that creates opportunities. We&rsquo;re working to make SEO and inbound marketing more enjoyable and valuable for all.</li>
+<li>
+<strong>Commitment to User Experience</strong>. Great web experiences are about delighting and engaging people in a way that makes the user thoroughly enjoy and appreciate their time online. A great leader will have an instinctive feel for what makes UX work, along with a set of flexible rules that help set the tone for exceptional user happiness in a web product or marketing experience.</li>
+<li>
+<strong>Speed and Pace</strong>. Action-oriented. Has built and managed small team&ndash;based digital marketing organizations in an unpredictable, extremely fast-paced, data-driven environment. Project success in a cross-functional environment is a routine part of the gig.</li>
+<li>
+<strong>Organizational agility</strong>.&nbsp; Flexible and adaptable. Socially intelligent. Proven ability to quickly assimilate, build relationships, earn credibility, and add value in new environments. This individual brings a breadth of experience with organizations of various size, stage, and industries, and exposure to various organizational and leadership styles.</li>
+<li>
+<strong>Technically Capable</strong>. While computer science and web programming languages may not be in your skillset, we are seeking someone who has a strong desire and proven ability to remain technically relevant, and who can participate meaningfully in technical discussions with engineers on a regular basis.</li>
+<li>
+<strong>Talent Magnet</strong>. This unique leader is a talent magnet whose leadership at Moz will engender confidence in the local talent pools, and enable Moz to attract, recruit, and hire the highest caliber marketing, engineering, product, and operations folks.</li>
+</ul>
+<p>
+<strong>ABOUT THE COMPANY</strong></p>
+<p>
+Moz is a rapidly-growing, profitable technology startup.&nbsp; That said, we dream big--we aim to provide companies with the best, most advanced ways to measure and improve their organic web marketing (i.e. any traffic source you don&rsquo;t pay for - SEO, social, blogs, viral videos, etc.).</p>
+<p>
+We&rsquo;ve got the reputation of a big player with the energy of a small, nimble organization.&nbsp; This allows us to do very exciting things when we smell opportunity.&nbsp; We pride ourselves on developing kick-ass (and good-looking) software, indexing the web, providing a robust API that serves hundreds of millions of queries each day, and hosting the web&rsquo;s most vibrant web marketing community.</p>
+<p>
+In our downtown Seattle offices, mere steps from Pike Place Market, we maintain a fun, supportive, laid-back work environment.&nbsp; We pay well (salaries are on par with the big guys - Google, Microsoft, Facebook, Sauron) and we work hard (sometimes long hours are a must, but we pride ourselves on working smart, not 80-hour nightmare weeks).&nbsp; We&rsquo;re also very generous with vacation and flex time because we understand that our employees have lives, interests, and obligations outside of the office.</p>
+<p>
+Our core values include being transparent (you&rsquo;ll get every key metric about the business each week), having fun (pie-eating contests - check! Team ice cream trips - check! Friday afternoon Settlers of Catan parties - check!) and creating exceptional products our customers love. We strongly encourage you to read more about the company - our core values (below and here: http://moz.com/about/tagfee), our history (http://moz.com/about), what we do (http://moz.com/products) and a video about why we love Moz (http://youtu.be/_rr2XKYoc30)!</p>
+<p>
+Moz believes in the TAGFEE tenets. As Mozzers, we strive to exemplify these core values.</p>
+<ul>
+<li>
+<strong>Transparency</strong> means I have nothing to hide from our customers. Good news is good news. Bad news is bad. I promise to never &lsquo;sugar-coat&rsquo; or &lsquo;oversell&rsquo; by delivering false pretenses. I want everyone at Moz to understand how our business is doing, what our product does, and how you can get the most out of it. I also want to be transparent about limitations. I believe in empowering people and building culture through shared knowledge.</li>
+<li>
+<strong>Authenticity</strong> means I have true self-awareness of my strengths, weaknesses, and beliefs. I represent these attributes honestly. I am the same person at work that I am outside of work - my authentic self doesn&rsquo;t hide behind a veil of professionalism or ego. I strive for humility and reject the pitfalls of pride.</li>
+<li>
+Being <strong>Generous</strong> means giving more than I receive. This serves not only those I give to, but myself as well.</li>
+<li>
+Having <strong>Fun</strong> means staying in the moment, losing my ego, and laughing with my team.</li>
+<li>
+<strong>Empathy</strong>. This is Moz&#39;s most important core value. I put myself in the shoes of others - customers, partners, and co-workers to understand their motivations, and why, especially when things are tough, they believe, act, and communicate as they do. Empathy is more than just listening and understanding - it&rsquo;s about embracing the emotions and viewpoints around me so that communication can be truly honest.</li>
+<li>
+Being <strong>Exceptional</strong> means delivering the unexpected, delightful, and illuminating.</li>
+</ul>
+<p>
+<strong>COMPENSATION</strong></p>
+<p>
+We&rsquo;re offering a very competitive salary for this position (based on experience) to attract exciting candidates. In addition, we also provide:</p>
+<ul>
+<li>
+100% Paid Medical, Dental &amp; Vision benefits (50% for dependents)</li>
+<li>
+Generous stock options (1 year to first stake, 4 years to full vesting)</li>
+<li>
+PAID, paid Vacation - $3,000 per year toward vacation expenses</li>
+<li>
+100% match of your 401k contributions up to 3% of your gross income</li>
+<li>
+150% charity matching program</li>
+<li>
+21 days annual paid time off, 7 days of sick/safe leave and paid holidays</li>
+<li>
+Professional coaching</li>
+<li>
+Subsidized gym membership</li>
+<li>
+Subsidized internet access for your home</li>
+<li>
+Commuting benefits</li>
+<li>
+Fully stocked fridge, bar, cereal bar and all the turkey jerky and candy you want!</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Executive]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/moz/CeN1eq"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130429232425_LE4OVVN9VDRKWBEB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Developer in Big Data]]></title>
+			<department><![CDATA[Engineering - Big Data]]></department>
+			<team><![CDATA[Engineering - Big Data]]></team>
+			<url><![CDATA[http://moz.theresumator.com/apply/nw0b5t/Software-Developer-In-Big-Data.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98101]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About You</strong></p>
+<p>
+You want to solve really hard problems using cutting-edge web technologies with a team of awesome people (while taking a surprising amount of joy from lobby karaoke contests, dance-offs, themed parties, Nerf guns, ping pong tournaments and Poker)? Then please apply immediately, because Moz is the right place for you!</p>
+<p>
+<strong>About the position</strong></p>
+<p>
+Our systems crawl the web, generate an inverse link graph of 10-20% of the Internet, apply lots of interesting algorithms (we use machine learning and advance modeling heuristics) to synthesize this data, and then serve up the petabytes of generated data via a highly scalable API. Oh, and we do all this in the cloud.</p>
+<p>
+This position specifically involves the retrieval of data from the web. We are building a SOA to continuously build/update/maintain/distribute a schedule of crawl-able URLs and the associated distributed crawler network to crawl retrieve cross validate and provide data to the processing back-end. If you think SOA or SETI@Home was cool then this is a job for you!</p>
+<p>
+Our ideal candidate has some experience with one or more of the following: highly scalable distributed systems, SOA, high performance computing search and cloud-based systems. You should be prepared to design systems, write code, and test your applications.</p>
+<p>
+<strong>Qualifications:</strong></p>
+<ul>
+<li>
+Required: BS in Computer Science (or a great reason for not having one) Nice to have (MS or PhD)</li>
+<li>
+Required: C++/Shell.&nbsp; Nice to have: Python/Java/Erlang/SQL/Bash</li>
+<li>
+Required: At least 2+ years of relevant industry experience</li>
+<li>
+Required: Linux/Unix development experience</li>
+<li>
+Nice to have: Experience with distributed/large-scale/cloud/big-data systems</li>
+<li>
+Nice to have: Knowledge of low latency/high volume APIs</li>
+<li>
+Nice to have: Data Modeling skills</li>
+<li>
+Nice to have: Startup experience is great.</li>
+<li>
+Nice to have: Open Source experience and contributions</li>
+</ul>
+<p>
+<strong>About the company</strong></p>
+<p>
+Moz is a rapidly-growing, profitable technology startup.&nbsp; That said, we dream big--we aim to provide companies with the best, most advanced ways to measure and improve their organic web marketing (i.e. any traffic source you don&rsquo;t pay for - SEO, social, blogs, viral videos, etc.).</p>
+<p>
+We&rsquo;ve got the reputation of a big player with the energy of a small, nimble organization.&nbsp; This allows us to do very exciting things when we smell opportunity.&nbsp; We pride ourselves on developing kick-ass (and good-looking) software, indexing the web, providing a robust API that serves hundreds of millions of queries each day, and hosting the web&rsquo;s most vibrant web marketing community.</p>
+<p>
+In our downtown Seattle offices, mere steps from Pike Place Market, we maintain a fun, supportive, laid-back work environment.&nbsp; We pay well (salaries are on par with the big guys - Google, Microsoft, Facebook, Sauron) and we work hard (sometimes long hours are a must, but we pride ourselves on working smart, not 80-hour nightmare weeks).&nbsp; We&rsquo;re also very generous with vacation and flex time because we understand that our employees have lives, interests, and obligations outside of the office.</p>
+<p>
+Our core values include being transparent (you&rsquo;ll get every key metric about the business each week), having fun (pie-eating contests - check! Team ice cream trips - check! Friday afternoon Settlers of Catan parties - check!) and creating exceptional products our customers love. We strongly encourage you to read more about the company - our core values (below and here: http://moz.com/about/tagfee), our history (http://moz.com/about), what we do (http://moz.com/products) and a video about why we love Moz (http://youtu.be/_rr2XKYoc30)!</p>
+<p>
+<strong>Moz believes in the TAGFEE tenets. As Mozzers, we strive to exemplify these core values.</strong></p>
+<ul>
+<li>
+<strong>Transparency</strong> means I have nothing to hide from our customers. Good news is good news. Bad news is bad. I promise to never &lsquo;sugar-coat&rsquo; or &lsquo;oversell&rsquo; by delivering false pretenses. I want everyone at Moz to understand how our business is doing, what our product does, and how you can get the most out of it. I also want to be transparent about limitations. I believe in empowering people and building culture through shared knowledge.</li>
+<li>
+<strong>Authenticity</strong> means I have true self-awareness of my strengths, weaknesses, and beliefs. I represent these attributes honestly. I am the same person at work that I am outside of work - my authentic self doesn&rsquo;t hide behind a veil of professionalism or ego. I strive for humility and reject the pitfalls of pride.</li>
+<li>
+Being <strong>Generous</strong> means giving more than I receive. This serves not only those I give to, but myself as well.</li>
+<li>
+Having <strong>Fun</strong> means staying in the moment, losing my ego, and laughing with my team.</li>
+<li>
+<strong>Empathy</strong>. This is Moz&rsquo;s most important core value. I put myself in the shoes of others - customers, partners, and co-workers to understand their motivations, and why, especially when things are tough, they believe, act, and communicate as they do. Empathy is more than just listening and understanding - it&rsquo;s about embracing the emotions and viewpoints around me so that communication can be truly honest.</li>
+<li>
+Being <strong>Exceptional</strong> means delivering the unexpected, delightful, and illuminating.</li>
+</ul>
+<p>
+<strong>Compensation</strong></p>
+<p>
+We&rsquo;re offering a very competitive salary for this position (based on experience) to attract exciting candidates. In addition, we also provide:</p>
+<ul>
+<li>
+100% Paid Medical, Dental &amp; Vision benefits (50% for dependents)</li>
+<li>
+Generous stock options (1 year to first stake, 4 years to full vesting)</li>
+<li>
+PAID, paid Vacation - $3,000 per year toward vacation expenses</li>
+<li>
+100% match of your 401k contributions up to 3% of your gross income</li>
+<li>
+150% charity matching program</li>
+<li>
+21 days annual paid time off, 7 days of sick/safe leave and paid holidays</li>
+<li>
+Professional coaching</li>
+<li>
+Subsidized gym membership</li>
+<li>
+Subsidized internet access for your home</li>
+<li>
+Commuting benefits</li>
+<li>
+Fully stocked fridge, bar, cereal bar and all the turkey jerky and candy you want!<br />
+&nbsp;</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/moz/nw0b5t"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130702222232_M35LV2LJJIVOZ3QK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Software Engineer]]></title>
+			<department><![CDATA[Moz Local]]></department>
+			<team><![CDATA[Engineering - Moz Local]]></team>
+			<url><![CDATA[http://moz.theresumator.com/apply/WRUiPP/Senior-Software-Engineer.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98101]]></postalcode>
+			<description><![CDATA[<p>
+We&#39;re looking for the next great hacker for a tight-knit, highly skilled web-app team here at Moz.</p>
+<p>
+<strong>About you:</strong></p>
+<ul>
+<li>
+You must like to ship software, and you have shipped software.</li>
+<li>
+You like to ship delightful and exceptional software.</li>
+<li>
+You&#39;ve been building web software for 5+ years, and are very good at it.</li>
+<li>
+You&#39;re a generalist, able to move wherever in the stack you might be needed.</li>
+<li>
+You love to learn new techniques, languages, and tools.</li>
+<li>
+You&#39;re comfortable working in a *nix environment.</li>
+<li>
+You have a CS degree. CS minor is also OK, but raises eyebrows.</li>
+</ul>
+<p>
+<strong>About the team:</strong></p>
+<ul>
+<li>
+We use Node.js, Backbone.js, and CoffeeScript, with a dash of other languages and frameworks to taste.</li>
+<li>
+We believe simple is beautiful. We&#39;re hard-asses on code reviews. We hold the bar high and expect people to rise to the occasion.</li>
+<li>
+On the backend, you&lsquo;ll find Cassandra, Redis, MySQL, nsq, and any other tool that solves our problems effectively. We probably don&rsquo;t like any of them, but we know better than to re-invent the wheel.</li>
+<li>
+We iterate and ship fast.</li>
+<li>
+We expect everyone to have a good time working hard.</li>
+</ul>
+<p>
+<strong>What we&#39;d love to see:</strong></p>
+<ul>
+<li>
+Open source projects or contributions.</li>
+<li>
+A portfolio of some projects you&#39;ve built.</li>
+<li>
+Framed CS degree behind museum quality glass.</li>
+</ul>
+<p>
+<strong>You need to approve 2 out of 3 of these videos:</strong></p>
+<ul>
+<li>
+http://www.youtube.com/watch?v=YbpCLqryN-Q</li>
+<li>
+http://www.youtube.com/watch?v=lunlZr1BmhY</li>
+<li>
+http://images.elephantjournal.com/wp-content/uploads/2011/08/ivneP.gif</li>
+</ul>
+<p>
+<strong>About Moz:</strong></p>
+<p>
+We&#39;re a rapidly-growing, profitable technology startup. We aim to provide companies with the best, most advanced ways to measure and improve their organic web marketing (i.e. any traffic source you don&rsquo;t pay for - SEO, social, blogs, viral videos, etc.).</p>
+<p>
+We&rsquo;ve got the reputation of a big player with the energy of a small, nimble organization. This allows us to do very exciting things when we smell opportunity. We pride ourselves on developing kick-ass (and good-looking) software, indexing the web, providing a robust API that serves hundreds of millions of queries each day, and hosting the web&rsquo;s most vibrant web marketing community.</p>
+<p>
+In our downtown Seattle offices, mere steps from Pike Place Market, we maintain a fun, supportive, laid-back work environment. We pay well (salaries are on par with the big guys - Google, Microsoft, Facebook, Sauron) and we work hard (sometimes long hours are a must, but we pride ourselves on working smart, not 80-hour nightmare weeks). We&rsquo;re also very generous with vacation and flex time because we understand that our employees have lives, interests, and obligations outside of the office.</p>
+<p>
+Our core values include being transparent (you&rsquo;ll get every key metric about the business each week), having fun (pie-eating contests - check! Team ice cream trips - check! Friday afternoon Settlers of Catan parties - check!) and creating exceptional products our customers love. We strongly encourage you to read more about the company - our core values (below and here: http://moz.com/about/tagfee), our history (http://moz.com/about), what we do (http://moz.com/products) and a video about why we love Moz (http://youtu.be/_rr2XKYoc30)!</p>
+<p>
+<strong>Moz believes in the TAGFEE tenets. As Mozzers, we strive to exemplify these core values.</strong></p>
+<ul>
+<li>
+<strong>Transparency</strong> means I have nothing to hide from our customers. Good news is good news. Bad news is bad. I promise to never &lsquo;sugar-coat&rsquo; or &lsquo;oversell&rsquo; by delivering false pretenses. I want everyone at Moz to understand how our business is doing, what our product does, and how you can get the most out of it. I also want to be transparent about limitations. I believe in empowering people and building culture through shared knowledge.</li>
+<li>
+<strong>Authenticity</strong> means I have true self-awareness of my strengths, weaknesses, and beliefs. I represent these attributes honestly. I am the same person at work that I am outside of work - my authentic self doesn&rsquo;t hide behind a veil of professionalism or ego. I strive for humility and reject the pitfalls of pride.</li>
+<li>
+Being <strong>Generous</strong> means giving more than I receive. This serves not only those I give to, but myself as well.</li>
+<li>
+Having <strong>Fun</strong> means staying in the moment, losing my ego, and laughing with my team.</li>
+<li>
+<strong>Empathy.</strong> This is Moz&rsquo;s most important core value. I put myself in the shoes of others - customers, partners, and co-workers to understand their motivations, and why, especially when things are tough, they believe, act, and communicate as they do. Empathy is more than just listening and understanding - it&rsquo;s about embracing the emotions and viewpoints around me so that communication can be truly honest.</li>
+<li>
+Being <strong>Exceptional</strong> means delivering the unexpected, delightful, and illuminating.What you&#39;ll get:</li>
+</ul>
+<p>
+<strong>Compensation:</strong></p>
+<p>
+We offer a very competitive salary for this position (based on experience) to attract exciting candidates. In addition, we also provide:</p>
+<ul>
+<li>
+100% Paid Medical, Dental &amp; Vision benefits (50% for dependents)</li>
+<li>
+Generous stock options (1 year to first stake, 4 years to full vesting)</li>
+<li>
+PAID, paid Vacation - $3,000 per year toward vacation expenses</li>
+<li>
+100% match of your 401k contributions up to 3% of your gross income</li>
+<li>
+150% charity matching program</li>
+<li>
+21 days annual paid time off, 7 days of sick/safe leave and paid holidays</li>
+<li>
+Professional coaching</li>
+<li>
+Subsidized gym membership</li>
+<li>
+Subsidized internet access for your home</li>
+<li>
+Commuting benefits</li>
+<li>
+Fully stocked fridge, bar, cereal bar and all the turkey jerky and candy you want!</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/moz/WRUiPP"></script>]]></buttons>
+		</job>
+	</jobs>

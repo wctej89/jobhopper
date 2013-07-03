@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Expense Cloud]]></company>
+			<job>
+			<id><![CDATA[job_20130129160740_YRTQEIXTDI5AYBFV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Customer Service Representative]]></title>
+			<department><![CDATA[ExpenseCloud, A TriNet Company]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://expensecloud.theresumator.com/apply/8PXDWC/Customer-Service-Representative.html]]></url>
+			<city><![CDATA[Santa Moninca]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90405]]></postalcode>
+			<description><![CDATA[<p>
+The Customer Service Representative is responsible for interacting and providing quality assistance to all ExpenseCloud customers.&nbsp; They are also responsible for keeping up to date on the various products provided; helping the organization reduce customer service time so as to reduce wait-times, and assigning customers with how-to knowledge, training and possible product defects.&nbsp; Additionally, this role will participate actively in customer training and ultimately, build a strong rapport with customers to achieve a high level of customer satisfaction.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/expensecloud/8PXDWC"></script>]]></buttons>
+		</job>
+	</jobs>

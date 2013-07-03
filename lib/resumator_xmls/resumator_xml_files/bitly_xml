@@ -1,0 +1,410 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Bitly]]></company>
+			<job>
+			<id><![CDATA[job_20110620153555_DKRQRFBNOCJRRQPW]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior iOS Engineer]]></title>
+			<department><![CDATA[Bitly]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://bitly.theresumator.com/apply/3XOW4i/Senior-IOS-Engineer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10003]]></postalcode>
+			<description><![CDATA[<p>
+Bitly is looking for an experienced iOS engineer to join our team. Applicants should have knowledge across both frontend and backend iOS frameworks and be prepared to own a project from start to finish, from networking and storage to view hierarchies and animation.</p>
+<p>
+What we are looking for:</p>
+<ul>
+<li>
+1+ years of iOS experience</li>
+<li>
+4+ years of software and/or web development experience, especially mobile</li>
+<li>
+Strong technical background required, design and user experience skills a plus</li>
+<li>
+Experience with Core Data and Core Animation</li>
+<li>
+Experience working with remote data via REST and JSON</li>
+<li>
+At least one application in the App Store</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bitly/3XOW4i"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110802214307_SCG3QNA9MATA92OD]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Application Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://bitly.theresumator.com/apply/SVanih/Application-Engineer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10014]]></postalcode>
+			<description><![CDATA[<p>
+Bitly is seeking an application engineer to create the next generation of our social media sharing product, enabling social media producers to better understand, engage and interact with their audience. This is a great position for you if love building products that generate insights from massive amounts of data and simplify workflow to make your users the hero.</p>
+<p>
+You obsess about software quality, scalability, and usability<br />
+You have mastered at least one server-side programming language (Python, Ruby, Java, C, C++)<br />
+You have experience with a relational datastore<br />
+You have some experience with non-relational datastores<br />
+You have experience with Javascript, HTML and CSS<br />
+You are a hacker at heart, with wide and varied interests</p>
+<p>
+Bitly is based in NYC&#39;s Union Square. Benefits include Macs with huge monitors; a kitchen filled with your favorite treats; flexible hours; frequent guest speakers; company-sponsored training and conferences; excellent health benefits; equity; and a chance to do work impacting millions of users and the underlying fabric of the social web.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bitly/SVanih"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110525102142_8PI9Q38HVBDIXDI4]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front-End Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://bitly.theresumator.com/apply/oYkqkl/FrontEnd-Developer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10009]]></postalcode>
+			<description><![CDATA[<div>
+You enjoy bending the DOM to your will, crafting rich, performant cross platform interfaces, and making browsers do things they didn&#39;t know they were capable of doing. You manipulate CSS/JS as if they were silly putty. You&#39;ll be working from the application layer forward (server-side), working closely with both our UI/UX team, and our infrastructure team. Python experience is a plus.</div>
+<div>
+&nbsp;</div>
+<div>
+You have the following:</div>
+<ul>
+<li>
+A strong understanding of JavaScript outside of libraries / frameworks, i.e. the language itself, not just how to use jQuery, Mootools or Dojo.</li>
+<li>
+Deep understanding of:
+<ul>
+<li>
+Events</li>
+<li>
+Remote Data</li>
+<li>
+Closures</li>
+<li>
+The DOM</li>
+<li>
+Object Prototypes</li>
+<li>
+Data Types</li>
+<li>
+Scope</li>
+</ul>
+</li>
+<li>
+Detailed knowledge of CSS, the box model, semantic markup, and HTML5.</li>
+<li>
+Experience with performance tuning re: script / css / image loading.</li>
+<li>
+An understanding of application side security models, client side app hardening, XSRF, etc.</li>
+<li>
+Experience with a version control system (preferably git or svn).</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bitly/oYkqkl"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110803172452_RQCG9L27ABFBUKVP]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Systems Administrator]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Operations]]></team>
+			<url><![CDATA[http://bitly.theresumator.com/apply/O3nlQB/Systems-Administrator.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10014]]></postalcode>
+			<description><![CDATA[<p>
+You have &nbsp;managed high availability systems with a multitude of virtual machines on multitudes of hosts in multiple data centers, used by millions of people. The kernel fears you, not the other way around. &nbsp;You understand linux enough to know that /proc is always the best place to look. You do everything from adding users and locking down boxes, to configuring and maintaining nginx/mysql/nosql. You&#39;re thorough and detail oriented, but you don&#39;t shy away from the bleeding edge of technology.</p>
+<p>
+<strong>More About the Job</strong></p>
+<ul>
+<li>
+Building and maintaining bitly&#39;s infrastructure, without anyone on the internet ever noticing</li>
+<li>
+Taking part in a 24x7 on-call rotation</li>
+<li>
+Supporting the business with project based work</li>
+<li>
+Automating and scripting everything</li>
+<li>
+Take lead on new projects and work with development to shape architecture of services<br />
+&nbsp;</li>
+</ul>
+<p>
+<strong>About You</strong></p>
+<ul>
+<li>
+Strong Linux experience , RHEL/CentOS experience preferred.</li>
+<li>
+Strong scripting abilities, preferred Python and BASH.</li>
+<li>
+Experience with Git/SVN</li>
+<li>
+Nagios monitoring, experience with any trending software such as Munin, Cacti, Graphite or Ganglia</li>
+<li>
+Excellent communication skills, both written and verbal</li>
+</ul>
+<p>
+<br />
+<strong>While we are asking, It would be terrific if you also knew...</strong></p>
+<ul>
+<li>
+Configuration Management experience with Chef/Puppet/CF Engine</li>
+<li>
+Management and deployment of Python web applications</li>
+<li>
+MongoDB</li>
+<li>
+EC2</li>
+<li>
+Hadoop cluster management</li>
+<li>
+Nginx &nbsp;</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bitly/O3nlQB"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120604141556_0S5RUPMUIP5SJQFY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Data Artist]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Science]]></team>
+			<url><![CDATA[http://bitly.theresumator.com/apply/mM1Vht/Data-Artist.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10011]]></postalcode>
+			<description><![CDATA[<p>
+We have a lot of data. <a href="http://bit.ly/puUbzs">Unique</a>, <a href="http://bit.ly/uZP3cP">hilarious</a>, <a href="http://bit.ly/ugfHQC">important</a> data.</p>
+<p>
+We&rsquo;re looking for a talented designer to work with our data science team to tell the stories in our data in a beautiful and witty way.</p>
+<p>
+Our ideal collaborator can see a story from chaos and communicate it visually, and has experience creating simple designs that communicate complex data in a variety of different media.</p>
+<p>
+You&rsquo;ll be working on everything from product design to interactive widgets to <a href="http://bit.ly/vSa6AO">print design with media partners</a>, so be flexible and excited to take on new challenges.</p>
+<p>
+Our team is a bunch of quirky computer scientists, physicists, and mathematicians. You shouldn&rsquo;t be afraid of math and code!</p>
+<p>
+If this sounds great to you, send us a few samples of your work along with a few reasons why you would like to join our team. We&rsquo;re looking forward to meeting you.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bitly/mM1Vht"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130108174943_ISGIYKI8QSFOZH0F]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[API Hacker]]></title>
+			<department><![CDATA[platform team]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://bitly.theresumator.com/apply/bRVxsO/API-Hacker.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10003]]></postalcode>
+			<description><![CDATA[<p>
+bitly is seeking an enthusiastic and talented API hacker to join our platform team. You&rsquo;ll be helping to make the bitly APIs an awesome resource for developers and partners. You&rsquo;ll get to work with a talented team of engineers and data scientists to make the social web a more insightful and engaging place!</p>
+<p>
+This is a fulltime role in our NYC office, and will include some travel.</p>
+<p>
+Responsibilities:</p>
+<ul>
+<li>
+Develop and maintain official bitly libraries for our API</li>
+<li>
+Push the bitly API forward by developing new features and capabilities</li>
+<li>
+Evangelize our API at hackathons and other developer-centric events</li>
+<li>
+Work with developers integrating bitly into their products</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+Qualifications:</p>
+<ul>
+<li>
+You can write code in at least one server-side programming language (Python, Ruby, C, etc.)</li>
+<li>
+You are enthusiastic about the power of the social web, and excited to share it with others</li>
+<li>
+You can explain complex technical concepts</li>
+<li>
+You&rsquo;re curious about the world and excited to learn new things</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bitly/bRVxsO"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130508191155_6QFSTEQ19GK0CNSC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[VP, Marketing]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[Sales, Marketing and BizDev]]></team>
+			<url><![CDATA[http://bitly.theresumator.com/apply/cyIJiN/VP-Marketing.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10003]]></postalcode>
+			<description><![CDATA[<p>
+Job Description</p>
+<p>
+Bitly is looking for a VP of Marketing to join our executive team to create and own our marketing strategy for both our brand and our leading real-time social intelligence platform.&nbsp;<br />
+Ideally, you have:</p>
+<ul>
+<li>
+Strong Marketing Leadership experience within start-up environments in the Software vertical</li>
+<li>
+Very strong experience creating marketing strategy and initiatives covering: Social Media, Digital Marketing and Branding initiatives.</li>
+<li>
+Track record of success in building and leading a small, technical marketing team</li>
+<li>
+Experience driving leads for B2B sales team, preferably in the software or SaaS space</li>
+<li>
+Deep digital marketing understanding built through industry experience</li>
+<li>
+Experience in conveying the value of analytics, online metrics and ROI</li>
+<li>
+Press Relations / Analyst Relations</li>
+</ul>
+<p>
+Specific Responsibilities:<br />
+This role requires a broad set of skills that cover all areas of product positioning, promotion, product design, competitive and partner strategy for both a consumer brand and SaaS solution.</p>
+<p>
+Management:</p>
+<ul>
+<li>
+<span style="font-size: 12px;">Build a marketing team responsible for market analysis, product planning, program strategies, all aspects of sales, and much more.</span></li>
+<li>
+<span style="font-size: 12px;">Be the primary brand champion within the project team to continuously ensure all marketing activities are optimally aligned with the business needs.</span></li>
+<li>
+<span style="font-size: 12px;">Manage and coordinate all marketing activities, including web, social, press releases, newsletters, creative presentations, and industry events.</span></li>
+</ul>
+<p>
+Execution:</p>
+<ul>
+<li>
+<span style="font-size: 12px;">Ensure deliverables meet high standards of consistency and quality.</span></li>
+<li>
+<span style="font-size: 12px;">Inspect marketing and design progress at the end of every sprint to accept or reject completed work</span></li>
+</ul>
+<p>
+Strategy:</p>
+<ul>
+<li>
+Develop and lead the program strategy for product releases, including launch plans, training documents &amp; videos and sales collateral.</li>
+<li>
+Develop a product marketing strategy and drive innovation in product and process via design and market trends in web and mobile technologies.</li>
+</ul>
+<p>
+Planning:</p>
+<ul>
+<li>
+Develop and maintain detailed marketing deliverables in a prioritized product backlog that accurately reflects customer and business priorities.</li>
+</ul>
+<p>
+Collaboration:</p>
+<ul>
+<li>
+Collaborate with leaders in Management and Product Development to create business strategy, product roadmaps, and identify gaps in and opportunities for product marketing.</li>
+</ul>
+<p>
+Required Skills &amp; Experience:</p>
+<ul>
+<li>
+10+ years of experience in marketing with an expertise in digital</li>
+<li>
+Must have experience developing marketing programs for start-up companies.</li>
+<li>
+Must have new product launch experience within online (SaaS) and consumer product based customers.</li>
+<li>
+Strong experience building a social media strategy is essential</li>
+<li>
+Ability to manage multiple projects and priorities.</li>
+<li>
+4 Year Degree (a degree in Marketing or an MBA would be a huge plus)</li>
+</ul>
+<p>
+About Bitly<br />
+Bitly is based in NYC&#39;s Union Square.&nbsp; Benefits include Macs with huge monitors; a team that eats lunch together almost every day; flexible hours; frequent guest speakers; company-sponsored training and conferences; full benefits; equity; and a chance to do work impacting millions of users and the underlying fabric of the social web</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Executive]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bitly/cyIJiN"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130521211242_NOY3ISKKOVM6XDWG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Business Development Representative]]></title>
+			<department><![CDATA[Sales & Marketing]]></department>
+			<team><![CDATA[Sales]]></team>
+			<url><![CDATA[http://bitly.theresumator.com/apply/5EYmv2/Business-Development-Representative.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10003]]></postalcode>
+			<description><![CDATA[<p>
+Bitly is looking for a Sales Development Researcher to expand our enterprise business through initial development of inbound leads and sourcing new outbound contacts.</p>
+<p>
+<u><strong>Details:</strong></u></p>
+<p>
+Bitly is growing its B2B client base, discovering new audiences and industries that benefit from our business insights. Now we&rsquo;re looking to build a process for pre-sales qualification of inbound leads as well as define outbound prospecting through measurement and conversion.</p>
+<p>
+We&rsquo;re looking for a professional with 1-2 years experience in customer acquisition, customer conversion or sales development.</p>
+<p>
+You are comfortable talking to strangers. You are resourceful and metrics driven. You are an expert at making first contact and building knowledge-based product value from limited information.</p>
+<p>
+This role involves owning a process that is crucial to bitly&rsquo;s business maturity and developing that process as seamless bridge from marketing to sales.&nbsp;</p>
+<p>
+<u><strong>Specific Responsibilities:</strong></u></p>
+<p>
+&nbsp; &nbsp; &nbsp; &bull; Outreach to all inbound leads that need further qualification.</p>
+<p>
+&nbsp; &nbsp; &nbsp; &bull; Qualified lead assignment to inside sales team.</p>
+<p>
+&nbsp; &nbsp; &nbsp; &bull; Outbound prospecting for new contacts at companies not yet using bitly.</p>
+<p>
+&nbsp; &nbsp; &nbsp; &bull; Maintenance and measurement of all stages of pre-sales lead pipeline.</p>
+<p>
+&nbsp; &nbsp; &nbsp; &bull; Daily use and update of bitly&rsquo;s business systems: Hubspot and Salesforce.</p>
+<p>
+<u><strong>Candidate Requirements:</strong></u></p>
+<ul>
+<li>
+1 - 2 years experience in a client communication position, ideally new client development,&nbsp;customer acquisition, or customer conversion.</li>
+</ul>
+<ul>
+<li>
+Familiarity with Salesforce and Hubspot or comparable marketing measurement and customer relationship management tools.</li>
+</ul>
+<ul>
+<li>
+Experience on in a&nbsp;team environment that required email and phone outreach and analyzed performance by measured results.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bitly/5EYmv2"></script>]]></buttons>
+		</job>
+	</jobs>

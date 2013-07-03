@@ -1,0 +1,835 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Tue, 2 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Heroku]]></company>
+			<job>
+			<id><![CDATA[job_20120628220505_METCCBL5WKKNQ2RI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Cloud Platform Support Engineer]]></title>
+			<department><![CDATA[Support Engineering]]></department>
+			<team><![CDATA[Support]]></team>
+			<url><![CDATA[http://heroku.theresumator.com/apply/3miGYT/Cloud-Platform-Support-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About You</strong></p>
+<p>
+Are you a <strong>software engineer</strong> passionate about web apps and related open source projects? Do you get a serious kick out of tracking down hard-to-pinpoint issues and solving problems for customers? If so, we&rsquo;d like to talk to you about joining our support team at Heroku.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<p>
+Heroku takes a heavy engineering driven approach to support. Our team of support engineers intimately understand cloud application architecture and common issues putting them in a unique position to build customer facing diagnostic tools.&nbsp;</p>
+<p>
+While you will be developing and improving our documentation and participating in forums and discussions, you will also be a key person:</p>
+<ul>
+<li>
+Building customer facing tools and applications</li>
+<li>
+Building and maintaining support&#39;s internal tools</li>
+<li>
+Developing sample applications</li>
+<li>
+Implementing Bug fixes</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+Heroku&rsquo;s customers are deploying some of the coolest and most innovative web applications today. Your primary responsibility will be supporting them by:</p>
+<ul>
+<li>
+Developing resolutions to the root causes of common customer problems</li>
+<li>
+Monitor and address customer tickets to understand common issues.</li>
+</ul>
+<p>
+In addition, we highly encourage active participation in open source projects of any language.</p>
+<p>
+<strong>Experience</strong></p>
+<ul>
+<li>
+You should have experience as a software engineer and/or white-box tester</li>
+<li>
+Be passionate about helping real customers solve real problems</li>
+<li>
+Have a strong background in web application development using technologies such as
+<ul>
+<li>
+Ruby</li>
+<li>
+Rails</li>
+<li>
+javascript</li>
+<li>
+memcached,</li>
+<li>
+and RDBMS such as PostgreSQL and MySQL</li>
+</ul>
+</li>
+<li>
+Be a well-organized and effective communicator.</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+---</p>
+<p>
+Department: Support Engineering</p>
+<p>
+Teams: Support Engineering</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/heroku/3miGYT"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120717204036_PP3PI5GLTSZ06K23]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front End / Rails Web Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Web Apps]]></team>
+			<url><![CDATA[http://heroku.theresumator.com/apply/PZBnE5/Front-End-Rails-Web-Developer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+The Heroku Web Apps team is dedicated to beautiful, usable, and valuable web apps. We&rsquo;re highly collaborative, make decisions in minutes, and ship features in hours. We believe in getting customer validation early, verifying with real data, but also running with our gut. The small team includes UI/UX design and product management, but everyone on the team is responsible for the success of our products, including that we&rsquo;re building the right thing in the first place, and that it&rsquo;s polished and beautiful when it&rsquo;s done.</p>
+<p>
+We&#39;re seeking a developer with a passion for UI/UX, great HTML/CSS/Javascript skills and that can own the entire stack of a Ruby on Rails app, including ongoing operations and maintenance. The ideal profile combines deep experience in full-stack web development with a strong computer science background. You must be able to demonstrate prior experience on web sites you&rsquo;re proud to show off for their polished UI, appropriate use of Javascript, and optimized backends.</p>
+<p>
+You should be passionate about:</p>
+<p>
+&bull; User experience and goal-directed design<br />
+&bull; Current Rails/jQuery best practices<br />
+&bull; Style, presentation, and design</p>
+<p>
+You should be very strong on all of the following:</p>
+<p>
+&bull; HTML/CSS &ndash; not a web designer, but extremely good at implementing markup<br />
+&bull; Javascript &ndash; including jQuery and cross-browser compatibility<br />
+&bull; Ruby on Rails<br />
+&bull; Performance optimization, SQL tuning, caching strategies<br />
+&bull; Ability to own projects end-to-end</p>
+<p>
+Bonus skills:</p>
+<p>
+&bull; Async (e.g. Backbone.js, EventMachine, Node.js)<br />
+&bull; HTML5 fanciness (e.g. websockets, canvas)<br />
+&bull; Test Driven Development (TDD)<br />
+&bull; Amazon Web Services (AWS e.g. S3, EC2)<br />
+&bull; Having founded your own startup</p>
+<p>
+Attach a resume, but also include something about yourself in your message. Tell us why you love the product, why you want to work at Heroku, why you want this job, and why you&rsquo;re qualified. Use the resume to back yourself up.</p>
+<p>
+UI samples (or URLs) should be included.</p>
+<p>
+This position does require that you live in, or be willing to relocate to, San Francisco and that you already have the right to work in the US.</p>
+<p>
+---<br />
+Department: Engineering<br />
+Teams: Web Apps</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/heroku/PZBnE5"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120801214838_4O7FX3LP2VHUVAIY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Technical Sales Representative]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[Sales]]></team>
+			<url><![CDATA[http://heroku.theresumator.com/apply/xcyVcP/Technical-Sales-Representative.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+Heroku is growing and we are looking to hire technical sales representatives to join our team.&nbsp; We foster an entrepreneurial work environment where being inquisitive is valued.<br />
+<br />
+Being passionate about working with customers and technology while helping to innovate and redefine how technology is sold are traits we look for in people.&nbsp;&nbsp; If you are someone who has experience in a highly technical sales role, as an SE or even does some developing or hacking in his or her spare time, we would be interested in speaking with you.<br />
+<br />
+This position will be responsible for:<br />
+<br />
+* &nbsp;Managing inbound sales inquiries and following up on high value user activities<br />
+* &nbsp;Communicating with customers via their preferred virtual channels (phone, skype, email, tickets, IM) with occasional face-to-face interactions<br />
+* &nbsp;Working with current customers to grow/expand relationships<br />
+* &nbsp;Ensuring customers are successful on our platform<br />
+* &nbsp;Being the internal champion on technical and business issues for customers<br />
+* &nbsp;Building relationships and align with partners to co-sell the Heroku platform<br />
+<br />
+Required skills and experience:<br />
+<br />
+* &nbsp;5+ years sales experience<br />
+* &nbsp;2+ years technical sales experience<br />
+* &nbsp;Technical background and the ability to get into code (not an engineer, but understanding of how code works)<br />
+* &nbsp;Strong track record of being a top producer<br />
+* &nbsp;Someone who has an appetite for success and willing to work on a team to reach goals<br />
+<br />
+This position requires that you live in or be willing to relocate to the San Francisco Bay Area.</p>
+<p>
+---</p>
+<p>
+Department: Sales</p>
+<p>
+Teams: Sales</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/heroku/xcyVcP"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120813223558_1A4NHAJZWAAZ5DA7]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Systems Engineer]]></title>
+			<department><![CDATA[Runtime]]></department>
+			<team><![CDATA[Platform Engineering]]></team>
+			<url><![CDATA[http://heroku.theresumator.com/apply/W4eur1/Systems-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+We&rsquo;re seeking a talented Systems Engineer to help build the distributed execution substrate that powers Heroku.</p>
+<p>
+You will join the Heroku Runtime Team in designing and implementing a robust, secure, highly dynamic, and massively scalable multi-tenant execution system. This system will coordinate with Heroku&rsquo;s distributed process management layer to manage all processes in the Heroku dyno manifold, the kernel to Heroku&rsquo;s cloud operating system.</p>
+<p>
+Problems that you will work on:</p>
+<ul>
+<li>
+Dynamic execution: executing arbitrary heterogeneous processes at scale and propagating process state changes in real time.</li>
+<li>
+Distribution: maintaining an appropriate pool of hosts and distribution of user processes in this highly dynamic environment.</li>
+<li>
+Containerization: fully isolating individual processes on the same host and across hosts.</li>
+<li>
+Resource control: constraining and accounting for resource use along several dimensions at the process level.</li>
+<li>
+Resiliency: transparently repairing user process formations in the face of continuous underlying infrastructure failures.</li>
+<li>
+Security: maintaining multiple levels of security in our multi-tenant execution environment.</li>
+</ul>
+<p>
+Things you should be passionate about:</p>
+<ul>
+<li>
+Unix and Linux (e.g. sockets, syscalls, memory management, scheduling, kernel modules)</li>
+<li>
+Process management (e.g. init, systemd, Upstart)</li>
+<li>
+File systems (e.g. ext3, XFS, LVM,&nbsp;Aufs)</li>
+<li>
+Networking and network protocols (e.g. TCP/IP, UDP, HTTP, SSH)</li>
+<li>
+Virtualization and containerization (e.g. Xen, VirtualBox, cgroups, LXC)</li>
+<li>
+Systems and scripting programming languages (e.g. C, Bash, Go, Ruby)</li>
+<li>
+Ability to be on call on a rotational basis</li>
+</ul>
+<p>
+Bonus points for:</p>
+<ul>
+<li>
+Startup experience</li>
+<li>
+Linux Kernel commits</li>
+<li>
+6+ years experience</li>
+</ul>
+<p>
+When applying, include as many of the following as possible:</p>
+<ul>
+<li>
+A link to your Github account</li>
+<li>
+Two or three code snippets that you think represent your coding style</li>
+<li>
+Brief description of your skills, passions, and work style</li>
+<li>
+Link to your blog and/or other personal/hobby apps you&rsquo;ve built</li>
+</ul>
+<p>
+This position is at Heroku&#39;s office in San Francisco.</p>
+<p>
+&nbsp;</p>
+<p>
+---<br />
+Department: Engineering<br />
+Teams: Runtime</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/heroku/W4eur1"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121018231844_U3KTMZPHEOMAZ7XD]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Product Designer, Web Apps]]></title>
+			<department><![CDATA[Design]]></department>
+			<team><![CDATA[Web Apps]]></team>
+			<url><![CDATA[http://heroku.theresumator.com/apply/QTqCqy/Product-Designer-Web-Apps.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+The Heroku Web Apps team is dedicated to beautiful, usable, and valuable web apps. We&rsquo;re highly collaborative, make decisions in minutes, and ship features in hours. We believe in getting customer validation early, verifying with real data, but also running with our gut. The small team includes UI/UX design, development, and product management, but everyone on the team is responsible for the success of our products, including that we&rsquo;re building the right thing in the first place, and that it&rsquo;s polished and beautiful when it&rsquo;s done.</p>
+<p>
+Come craft the Heroku experience. Build world class user interfaces and design products for our growing customer base of leading web developers.&nbsp;As a Product Designer, you will be involved in every aspect of the product development process. You will own the experience (product design, interaction design, and visual design) for one or more of our products.</p>
+<p>
+If you love designing for user experience and appreciate the needs of developers, we want to talk to you!</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Shape conceptual ideas into finished products.</li>
+<li>
+Design beautiful and intuitive interfaces (notification centers, dashboards, admin interfaces, etc.) from concept to production (and then some more).</li>
+<li>
+Validate your design hypotheses with our customers.</li>
+<li>
+Work closely with other designers, product managers, and engineers to oversee the user experience of a product from beginning to end.</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Strong portfolio featuring real world examples of interaction design work (the more we can click through the happier we are).</li>
+<li>
+Experience with HTML and CSS (you must be able to build what you design).</li>
+<li>
+Capability of rendering and implementing gorgeous visuals (to ship products you need to do more than just wireframing).</li>
+<li>
+Comfort with an iterative design process.</li>
+<li>
+Excellent verbal and written communication skills (we want you to articulate your design decisions).</li>
+</ul>
+<p>
+<strong>Even Better</strong></p>
+<ul>
+<li>
+Excellent copywriting skills.</li>
+<li>
+Experience rendering beautiful icons.</li>
+<li>
+Experience with launching your own product or running a startup.</li>
+<li>
+Experience with Javascript, Ruby, and Git.</li>
+</ul>
+<p>
+Attach a resume, but also include something about yourself in your message. Tell us why you love the product, why you want to work at Heroku, why you want this job, and why you&rsquo;re qualified. Use the resume to back yourself up.</p>
+<p>
+UI samples (or URLs) must be included.</p>
+<p>
+This position does require that you live in, or be willing to relocate to, San Francisco and that you&#39;re already legally able to work in the US - H1B quotas don&#39;t open up again until April. If you&#39;re Canadian or Australian with a 4 year degree, we might be able to do something.</p>
+<p>
+---<br />
+Department: Design<br />
+Teams: Web Apps</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/heroku/QTqCqy"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130318231702_QBWZK4UJBHYYGFCR]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Technical Account Manager]]></title>
+			<department><![CDATA[Support]]></department>
+			<team><![CDATA[Support]]></team>
+			<url><![CDATA[http://heroku.theresumator.com/apply/khhoSd/Technical-Account-Manager.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+Heroku&#39;s platform is becoming increasingly popular for web application deployment. Our customers are deploying incredibly exciting applications and we need to guide them in getting the most out of the platform across their entire organization. We&#39;re looking to hire a seasoned Technical Account Manager to foster the technical success and overall happiness of our customers.</p>
+<p>
+The ideal TAM candidate has web development experience and proven success building strong relationships with customers. If you have those characteristics coupled with a desire to apply those skills to make Heroku&#39;s top-tier customers fanatic Heroku fans, we want to meet you.</p>
+<p>
+You will be responsible for getting new customers quickly up to speed on Heroku, ensuring that they get the most out of the platform, helping them continue to develop and expand their successful use of Heroku, and uncover additional opportunities to deploy on the platform.</p>
+<p>
+<strong>Responsibilities include:</strong></p>
+<ul>
+<li>
+Training new customers on Heroku</li>
+<li>
+Maintaining a high retention rate of customers you manage</li>
+<li>
+Building strong relationships with developers and business contacts</li>
+<li>
+Expanding the use of Heroku broadly within the organizations you manage</li>
+<li>
+Showing customers how Heroku&#39;s deployment model can save time, money &amp; support innovation</li>
+<li>
+Championing technical &amp; business side issues for customers</li>
+<li>
+Making Heroku customers wildly successful</li>
+</ul>
+<p>
+<strong>You should be passionate about:</strong></p>
+<ul>
+<li>
+Heroku&#39;s polyglot platform</li>
+<li>
+Web development and deployment</li>
+<li>
+Scaling high traffic web applications</li>
+<li>
+Engaging with customers to make them successful using Heroku</li>
+</ul>
+<p>
+Customer facing experience as well as exposure to modern web languages like Ruby, Python, and Node in a development capacity are required.</p>
+<p>
+This position is open for local, to San Francisco, and remote employees.</p>
+<p>
+---<br />
+Department: Customer Engagement<br />
+Teams: Technical Account Management</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/heroku/khhoSd"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130404214027_A0YCWIF8SH4MHQHX]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Application Developer]]></title>
+			<department><![CDATA[Add Ons]]></department>
+			<team><![CDATA[Add-ons]]></team>
+			<url><![CDATA[http://heroku.theresumator.com/apply/sabm2o/Application-Developer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+Application Developer</p>
+<p>
+The Heroku Add-ons team is dedicated to building a thriving ecosystem of cloud services, allowing developers to focus on their apps and providers to spend more time building great services. We&#39;re a small team, who emphasize delivering real products, and doing so quickly based on user feedback. We&#39;re seeking an application developer who is opinionated on UI/UX, who is willing to try their hand at all levels of the stack, is able to completely own the delivery of a product or feature, and can also communicate and collaborate effectively with a team. You must be able to demonstrate prior experience on web sites you&rsquo;re proud to show off for their polished UI, appropriate use of Javascript, and optimized backends.</p>
+<p>
+We&#39;re looking for someone to help us evolve the Add-ons Marketplace, to make it easier for developers to find the solutions they need and to allow Add-on Providers to run their businesses effectively on Heroku.</p>
+<p>
+You should be passionate about:</p>
+<p>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &bull; User experience and goal-directed design<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &bull; Test Driven Design/Development<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &bull; Improving developer productivity</p>
+<p>
+You should be very strong on all of the following:</p>
+<p>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &bull; Ruby<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &bull; SQL (preferable Postgres)<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &bull; Javascript (and jQuery)<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &bull; Heroku app deployment &amp; management</p>
+<p>
+Bonus skills:</p>
+<p>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &bull; An interest in product marketing<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &bull; Validation techniques (A/B, multi-variate, bandit testing, etc.)<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &bull; Numerous javascript frameworks (backbone, angular, flight, etc)<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &bull; Having founded your own startup<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &bull; Having run an add-on</p>
+<p>
+Attach a resume, but also include something about yourself in your message. Tell us why you love Heroku, what excites you specifically about Add-ons, why you want this job, and why you&rsquo;re qualified. Use the resume to back yourself up.<br />
+UI or code samples (or URLs) that you feel are representative of your style should be included.</p>
+<p>
+---<br />
+Department: Engineering<br />
+Teams: AddOns</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/heroku/sabm2o"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130421170655_BADVNYBW6XUMW1DN]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Product Marketing Manager]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://heroku.theresumator.com/apply/hSXfQb/Product-Marketing-Manager.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Product Marketing Manager</strong></p>
+<p>
+<strong>Reports to CMO</strong></p>
+<p>
+Heroku is looking for a rock star product marketing manager&nbsp; to help drive the positioning and go-to-market strategy for Heroku&rsquo;s core product. A big part of the job will include partnering with product managers and engineers to bring exceptional product to market, secure user adoption, analyze market opportunities and trends, communicate with users and customers, and, ultimately, drive a set of product marketing programs to deliver pipeline and building best practice tools for our amazing sales and service organizations.</p>
+<p>
+<strong>Here&rsquo;s what you&rsquo;d be doing:</strong></p>
+<p>
+<strong>Position &amp; Articulate:</strong></p>
+<ul>
+<li>
+Coordinate and manage cross-functional teams (including public relations, design, sales, product, and engineering stakeholders) to deliver world-class product marketing communications.</li>
+<li>
+Work with product management to distill key functionality and benefits into core product marketing messages.</li>
+<li>
+Develop and drive programs to frame and track competitive landscape, understand target markets and identify market insights to inform product strategies and go-to-market activities.</li>
+<li>
+Partner with web team and the outbound marketing team to quantitatively define and refine messages that work</li>
+<li>
+Evangelize the power of Heroku to developers, analysts, press businesses and employees.</li>
+</ul>
+<p>
+<strong>Create &amp; distribute content:</strong></p>
+<ul>
+<li>
+Create killer sales tools that help the sales teams in all phases of the sales cycle.</li>
+<li>
+Build exceptional demos, screencasts, webinars, and presentations designed to convey the value of Heroku to our constituent audiences</li>
+</ul>
+<p>
+<strong>Execute:</strong></p>
+<ul>
+<li>
+Drive product adoption and usage rates through scalable marketing programs and launch support</li>
+<li>
+Manage product launches from conception to final execution</li>
+<li>
+Support other stakeholders on the marketing team in the development of tools and resources for current and prospective customers, developers, press, spokespeople and sales teams</li>
+<li>
+Work closely with content and events teams to execute live and online events worldwide</li>
+<li>
+Work closely with digital marketing to execute awesome online marketing campaigns, SEO, and web design.</li>
+</ul>
+<p>
+<strong>Experience/Skills Required:</strong></p>
+<ul>
+<li>
+5+ years software development experience, ideally much of that with Heroku and modern languages like Ruby and Python</li>
+<li>
+5+ years experience in product marketing in a high tech company</li>
+<li>
+Familiarity with the developer community and the landscape of tools and technologies developers use to bring products to market</li>
+<li>
+Proven track record in performing well in a fast pace environment and organizational skills to manage multiple projects with tight deadlines effectively</li>
+<li>
+Exceptional communication skills, including writing and executive presentations</li>
+<li>
+MBA preferred but not required</li>
+</ul>
+<p>
+---</p>
+<p>
+Department: Marketing<br />
+Teams: Marketing</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/heroku/hSXfQb"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130428193522_TSQEYTQYAR9RN3JA]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Software Engineer]]></title>
+			<department><![CDATA[Build and Packaging]]></department>
+			<team><![CDATA[Platform Engineering]]></team>
+			<url><![CDATA[http://heroku.theresumator.com/apply/Vwm6rZ/Senior-Software-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+We&#39;re seeking a talented Senior Engineer to help build the services that support Heroku&#39;s deployment experience.</p>
+<p>
+You will be part of the Heroku Build and Packaging team. Heroku&#39;s deployment and build interface is the piece of the platform that many users interact with more than any other. Our team owns the future of that experience along with a massively scaled and infinitely flexible multi-tenant build system.</p>
+<p>
+What you will work on:</p>
+<ul>
+<li>
+Creating a great build and deployment experience that improves the lives of thousands of developers a day</li>
+<li>
+The multi-tenant git service that supports Heroku&#39;s deployment interface</li>
+<li>
+The services that enable Heroku to build any application in any language at large scale</li>
+<li>
+The API that enables [Heroku Buildpacks](https://devcenter.heroku.com/articles/buildpacks)</li>
+<li>
+Monitoring and reliability for build and deployment transactions across a distributed system</li>
+<li>
+Designing the future of build and deployment on Heroku</li>
+</ul>
+<p>
+Things you should be passionate about:</p>
+<ul>
+<li>
+Software build and deployment lifecycles (Continuous integration, repeatable build and deployment)</li>
+<li>
+Advancing the state of the art in software delivery</li>
+<li>
+Continuous delivery workflows</li>
+<li>
+Working in multiple programming languages and learning new ones</li>
+<li>
+Creating software services that work together and recover from issues at scale</li>
+<li>
+Building and operating distributed systems</li>
+</ul>
+<p>
+Skills you should have:</p>
+<ul>
+<li>
+5 years of experience working in multiple server side programming languages</li>
+<li>
+Linux system level programming or dev ops&nbsp;(e.g. using C, Bash, Go or&nbsp;Ruby to deal with low level networking or memory management operations)</li>
+<li>
+Experience setting up or working in multiple Continuous Integration&nbsp;or Continuous Delivery&nbsp;environemnts</li>
+<li>
+Test driven development experience</li>
+<li>
+A strong understanding of the build and dependency management landscape in software today</li>
+</ul>
+<p>
+Bonus points for:</p>
+<ul>
+<li>
+Open source contributions</li>
+<li>
+Experience building tools for developers</li>
+<li>
+System administration experience</li>
+<li>
+Fluent in a JVM based language</li>
+</ul>
+<p>
+When applying, include as many of the following as possible:</p>
+<ul>
+<li>
+A link to your Github account</li>
+<li>
+Two or three code snippets that you think represent your coding style</li>
+<li>
+Brief description of your skills, passions, and work style</li>
+<li>
+Link to your blog and/or other personal/hobby apps you&rsquo;ve built</li>
+</ul>
+<p>
+This position is at Heroku&#39;s office in San Francisco.</p>
+<p>
+---<br />
+Department: Engineering<br />
+Teams: Build and Packaging</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/heroku/Vwm6rZ"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130507205239_MFHT0ZE20SS71KZR]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Vibe Coordinator/Receptionist - Contract]]></title>
+			<department><![CDATA[Vibe]]></department>
+			<team><![CDATA[Vibe]]></team>
+			<url><![CDATA[http://heroku.theresumator.com/apply/sWmkDf/Vibe-CoordinatorReceptionist-Contract.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+Heroku is looking for a receptionist to be the first face to all external guests and internal employees when they come into the office.&nbsp; The candidate should demonstrate a positive, outgoing, energetic personality with an accommodating and professional demeanor, capped off with the standard Heroku charm, while maintaining various projects that will be assigned on a regular basis to support The Team.</p>
+<p>
+Our culture is fast paced, entrepreneurial, friendly and fun, and in order to support this we make sure the office is laid-back and beautiful. We believe the state of our workspace is a reflection of who we are and how we work together. The office vibe belongs to everyone; we treat our employees well and encourage the execution of tasteful ideas.</p>
+<p>
+Working at Heroku offers the freedom of a small company with the support of a large company. We&#39;re growing quickly and you will be asked to step in and help wherever possible. We carry the attitude that no job is beneath us, everyone is expected to jump in and do what it takes to make stuff happen.</p>
+<p>
+Heroku aims to make developers lives easier and so should you. You will have a highly visible role supporting the day-to-day operations  of the office, greeting our guests, supporting staff and working with outside partners. You will help grow the vibe and dream of ways to make our days easier and more awesome at Heroku.</p>
+<p>
+<strong>Core Responsibilities:</strong></p>
+<p>
+<em>Front Desk</em></p>
+<ul>
+<li>
+Design front of house experience.
+<ul>
+<li>
+Maintain security of all who come and go through the front doors.</li>
+<li>
+Greet and welcome guests, offer coffee and tea when possible, give wifi info, and ping Herokai to let them know their guest has arrived.</li>
+</ul>
+</li>
+<li>
+Have guests sign NDA&#39;s at front door.</li>
+<li>
+Accept packages and mail and distribute accordingly.</li>
+<li>
+Help design front of house systems for our new office.</li>
+</ul>
+<p>
+<em>Facilities</em></p>
+<ul>
+<li>
+Daily maintenance (i.e. being mindful, keeping things tidy, and picking up clutter) of common areas:&nbsp; lobby, entrance areas, restrooms, kitchen, conference rooms, basement, zen room, music room, gym and swag.</li>
+<li>
+Be point of contact for conference room scheduling issues (quickly resolve conflicts, locate alternative accommodations).</li>
+<li>
+Make sure flower arrangements are fresh and plants cared for.</li>
+<li>
+Put dishes away before lunch.</li>
+<li>
+Show the lunch caterers where to set up and make sure the area is ready for lunch.</li>
+<li>
+Make sure laundry from the gym gets put out, picked up, and then put away when it is returned.</li>
+<li>
+Help folks find office supplies as needed.</li>
+<li>
+Set up/take down conference room scheduling iPads for overnight charging.</li>
+</ul>
+<p>
+<em>Administrative Support</em></p>
+<ul>
+<li>
+Accept office requests, issues and escalate to appropriate person in office.</li>
+<li>
+Mail out small swag items that are requested by Herokai that are not marketing related.</li>
+<li>
+Help coordinate monthly Heroku Newsletter.</li>
+<li>
+Research and give additional support for Vibe (re: facilities, food, internal events) when needed.</li>
+</ul>
+<p>
+<strong>You love:</strong></p>
+<ul>
+<li>
+Customer Service</li>
+<li>
+Multi-tasking</li>
+<li>
+Getting your hands dirty</li>
+<li>
+Iterating creatively and thinking outside the box</li>
+<li>
+Technology</li>
+<li>
+Going above and beyond</li>
+<li>
+Constantly seeking to improve work efficiency</li>
+<li>
+Being organized</li>
+<li>
+Worker health and productivity</li>
+<li>
+Sustainability principles </li>
+</ul>
+<p>
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+2+ years overall office support experience</li>
+<li>
+Excellent Vibes and the embodiment of at least 15 super adjectives</li>
+<li>
+Ability to deal with and (learn to) love constantly shifting priorities while being able to effectively prioritize and work independently</li>
+<li>
+Comfortable with computers and using technology to improve productivity and workflow</li>
+<li>
+Creative and excellent organizational and communication skills</li>
+<li>
+A self-motivated team player with a positive attitude</li>
+<li>
+Demonstrated clerical skills and professionalism, even in high pressure situations</li>
+<li>
+Meticulous attention to detail with ability to follow-through</li>
+<li>
+Takes initiative and has a pro-active attitude</li>
+<li>
+Reliable and has a strong work ethic</li>
+<li>
+Ability to lift 50 pounds without assistance </li>
+<li>
+Be willing to work a flexible schedule as the job demands</li>
+</ul>
+<p>
+---<br />
+Department: Vibe<br />
+Teams: Vibe</p>
+]]></description>
+			<type><![CDATA[Contracted]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/heroku/sWmkDf"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130603001250_TVMZNTBVZWI9O48K]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Marketing Automation Specialist]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[Marketing]]></team>
+			<url><![CDATA[http://heroku.theresumator.com/apply/SsQDkf/Marketing-Automation-Specialist.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+Heroku is looking for a rock star Marketing Automation Specialist to administer, manage and grow Heroku&#39;s lead and demand generation programs.</p>
+<p>
+You will be responsible for creating, testing, executing, tracking and analyzing automated marketing campaigns. The position plays a key role in Heroku&#39;s lead and demand generation activity in an evolving marketing and sales environment. They will interface with members of Product Marketing, Sales Operations, and Marketing Communications groups.</p>
+<p>
+Key Responsibilities:</p>
+<ul>
+<li>
+Collaborate with Marketing teams to understand business requirements and desired enhancements for nurturing and marketing automation programs.</li>
+<li>
+Advise marketing campaign requestors of best practices with regard to marketing automation capabilities, testing and projected results</li>
+<li>
+Build new and update existing marketing automation programs in Marketo, including program design, configuration, testing, transition planning, and deployment.</li>
+<li>
+Build and maintain HTML templates, landing pages and forms for marketing communications.</li>
+<li>
+Participate in Marketo user forums, conferences and other events to stay current on best practices and new product offerings.</li>
+<li>
+&nbsp;</li>
+</ul>
+<p>
+Minimum Requirements/Qualifications:</p>
+<p>
+&nbsp;</p>
+<ul>
+<li>
+Bachelor&rsquo;s degree in marketing, web, or related discipline highly desired</li>
+<li>
+3+ years experience with marketing campaigns and program development.</li>
+<li>
+Understanding of key online marketing strategies and concepts.</li>
+<li>
+Experience using Marketo, or similar marketing automation system, such as Eloqua or Hubspot, strongly preferred.</li>
+<li>
+Working knowledge of HTML and CSS strongly preferred.</li>
+<li>
+1+ years of CRM experience, preferably salesforce.com preferred.</li>
+<li>
+High attention to detail, organization skills, and ability to multi-task.</li>
+<li>
+Self-motivated, results-orientated and ability to work independently.</li>
+<li>
+Professional demeanor, strong communication skills, and ability to work with remote co-workers.</li>
+<li>
+Bachelor&#39;s degree in marketing, web or related discpipline highly desired</li>
+</ul>
+<p>
+----</p>
+<p>
+Department: &nbsp;Marketing</p>
+<p>
+Teams: &nbsp;Marketing</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/heroku/SsQDkf"></script>]]></buttons>
+		</job>
+	</jobs>

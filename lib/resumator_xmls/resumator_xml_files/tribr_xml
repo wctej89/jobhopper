@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[tribr, inc.]]></company>
+			<job>
+			<id><![CDATA[job_20120726033406_NRGWLFJNVL2ANI1X]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer- Ruby/Rails or Python/Django]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://tribr.theresumator.com/apply/4hIq6B/Software-Engineer-RubyRails-Or-PythonDjango.html]]></url>
+			<city><![CDATA[Anywhere, USA]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[000000]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Software Engineer Mission:</strong></p>
+<p>
+To delight our users by solving their problems as elegantly as possible by continually improving our product and our the dev ops process while managing our systems. &nbsp;&nbsp;</p>
+<p>
+<strong>Software Engineer Objectives:</strong></p>
+<ol>
+<li>
+Design and implement improvements to our existing features</li>
+<li>
+Design and implement new features based on our product vision and user feedback</li>
+<li>
+Implement a continuous release process that&nbsp;that integrates tightly with our designer&nbsp;workflow</li>
+<li>
+Manage all of our infrastructure&nbsp;(all hosted)</li>
+<li>
+Learn and improve your own skills continually</li>
+<li>
+Contribute on major strategy, product, technical, and hiring decisions</li>
+<li>
+Eventually, rearchitect the product from the ground up based on our vision and user feedback (our current product is Ruby on Rails, but I am open to hiring a non-Ruby on Rails person, as rewriting in a different language/framework for future versions is an option and learning Ruby on Rails won&#39;t be that hard.)</li>
+</ol>
+<p>
+<strong>Software Engineer Competencies</strong>:</p>
+<ul>
+<li>
+Creative problem solving</li>
+<li>
+Story creation and estimation</li>
+<li>
+Software architecture design</li>
+<li>
+Ability to quickly learn new languages/frameworks/platforms and implement them as needed</li>
+<li>
+Continuous integration, testing, and release experience</li>
+<li>
+Web app testing and&nbsp;debugging experience</li>
+<li>
+Mobile app testing and debugging experience</li>
+<li>
+Ruby/Rails and/or Python/Django</li>
+<li>
+mySQL, Postgres</li>
+<li>
+HTML, CSS, Javascript</li>
+<li>
+GitHub</li>
+<li>
+Heroku, Amazon</li>
+<li>
+Willingness to learn and use hybrid frame work (trigger.io,&nbsp;PhoneGap, etc), Objective-C for iOS and Java for Andriod</li>
+</ul>
+]]></description>
+			<type><![CDATA[Part Time to Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/tribr/4hIq6B"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Red Hot Labs]]></company>
+			<job>
+			<id><![CDATA[job_20130602184319_G9ON2SR5PHEZKIPT]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Fullstack Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://redhotlabs.theresumator.com/apply/UYHjOJ/Fullstack-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94102]]></postalcode>
+			<description><![CDATA[<p>
+Red Hot Labs (RHL) is looking for full-stack engineers at all levels that want to work on cutting edge mobile games and services for other mobile developers.</p>
+<p>
+<br />
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Write both server and client-side mobile code for iOS and Android apps.&nbsp;(We can teach you this!)</li>
+<li>
+Actively learn and work with new technologies. There&rsquo;s a very good chance&nbsp;you&rsquo;ll pick up experience with a new language / technology stack here!</li>
+<li>
+Collaborate closely with myself and the rest of our team to develop&nbsp;products and services with a high quality user-experience.</li>
+<li>
+Architect and own big parts of our infrastructure.</li>
+</ul>
+<p>
+<br />
+<strong>Your skills</strong></p>
+<ul>
+<li>
+REQUIRED: CS degree or significant experience in a low-level language (C, C++).
+<ul>
+<li>
+We&#39;re trying to hire smart folks that have a solid CS foundation.</li>
+</ul>
+</li>
+<li>
+REQUIRED: Prior experience working with Javascript required.</li>
+<li>
+REQUIRED: Ability to pick up new languages and frameworks quickly.</li>
+<li>
+PREFERRED: Prior experience developing either business intelligence or games.</li>
+<li>
+PREFERRED: Prior mobile experience in either iOS or Android.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/redhotlabs/UYHjOJ"></script>]]></buttons>
+		</job>
+	</jobs>

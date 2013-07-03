@@ -1,0 +1,2118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Tue, 2 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[App Annie]]></company>
+			<job>
+			<id><![CDATA[job_20120611074609_FHP0FEI3EIRHM2GG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Chief Data Scientist, San Francisco]]></title>
+			<department><![CDATA[Data Science]]></department>
+			<team><![CDATA[Engineering-Data]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/dprmUU/Chief-Data-Scientist-San-Francisco.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[100026]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role</strong><br />
+We are seeking an experienced Chief Data Scientist interested in working in the hot space of app store data and analytics, from iOS to Android and other platforms. Using data modeling, linear regression, statistical methods and the incomparable App Annie proprietary data, your role is to discover trends, uncover app store application evaluation methodologies, and provide estimates based on this data. Working closely with the product manager, the engineer team and the data analysts, you will be responsible for the creation and the evolution of the tools and methods critical to producing quality market data.</p>
+<p>
+As Chief Data Scientist, you will be a member of the leadership team. You will be responsible for:</p>
+<ul>
+<li>
+Leading the development and testing of hypotheses across all functional areas at App Annie</li>
+<li>
+Researching and applying multidisciplinary techniques, findings and approaches to App Annie problems</li>
+<li>
+Designing, implementing and analyzing algorithms which substantially impact multiple App Annie products</li>
+<li>
+Leading development of prototypes and guiding solutions into production</li>
+<li>
+Establishing App Annie&rsquo;s strategic research roadmap</li>
+<li>
+Serving as a primary person to consult on complex data science issues, contributing key ideas</li>
+<li>
+Growing and leading the data science group</li>
+<li>
+Serving as spokesperson and advocate on relevant data science issues to both internal and external audiences and stakeholders</li>
+<li>
+This location can be based in Beijing&nbsp;or SF</li>
+</ul>
+<p>
+<strong>You</strong></p>
+<ul>
+<li>
+PhD in computer science, stats or related field</li>
+<li>
+Obsession with data and system improvement, tempered with pragmatic ability to prioritize</li>
+<li>
+Proven research background, in academic or industrial work, with an emphasis on delivering practical research that has a critical impact on multiple projects</li>
+<li>
+Awareness of business objectives and ability to apply this understanding to recommend and implement product development for difficult and complex technical issues</li>
+<li>
+Comfort working within a modern engineering environment (Linux, system architecture, Java, Python, PostGreSQL, multithreaded programming)</li>
+<li>
+Ability to script experimental solutions and use off-the-shelf statistical analysis tools</li>
+<li>
+Ability to quickly prototype experimental solutions and develop robust, maintainable production systems</li>
+<li>
+Familiarity with Hadoop and related sub-projects (MapReduce, Pig, HBase, Mahout, etc.)</li>
+<li>
+Strong results driven personality, with a high level of enthusiasm, energy and confidence</li>
+<li>
+Excellent analytical, communication, organizational and presentation skills</li>
+<li>
+Managerial skills: hire, train and mentor research team</li>
+<li>
+Ability to demonstrate flexibility and integrity: be able and willing to work hands on, independently or with a small team providing leadership</li>
+<li>
+Experience working at a growth-stage startup company</li>
+<li>
+Experience with large scale algorithm challenges in the consumer Internet space</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/dprmUU"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120401094431_UT610AANV0ANDKJE]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior QA Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering-All]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/BTz9AA/Senior-QA-Engineer.html]]></url>
+			<city><![CDATA[Beijing]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[China]]></country>
+			<postalcode><![CDATA[100026]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role</strong><br />
+We are seeking an experienced QA engineer to design, implement and execute the test cases required by the App Annie platform to guarantee the highest level of quality and performance. You will be fully integrated to the development team and you will have a complete vision of the platform. Your input will be required from the feature design stage to make sure about the possible impact of a change, and in a second phase you will be responsible for defining the tests required to guarantee successful deployment. Your expertise will be global, from back-end validation and troubleshooting to front end functional testing, including data validation. In addition to ad hoc testing, your mission will be to develop a strategy to automate feature testing as part of the product lifecycle.</p>
+<p>
+Your responsibilities will include:</p>
+<ul>
+<li>
+Leading Quality Assurance side of the App Annie platform, including product and data</li>
+<li>
+Defining&nbsp;and implementing the testing methodology related to new features</li>
+<li>
+Identifying&nbsp;and defining&nbsp;of defects</li>
+<li>
+Providing&nbsp;tiers 1 product support using Zendesk</li>
+<li>
+Executing manual and automated test cases to ensure the quality of each feature and release (on going process)</li>
+<li>
+Providing&nbsp;feedback to the development and product team</li>
+<li>
+Ensuring&nbsp;the work is carried out in accordance with the process, schedule and requirements</li>
+</ul>
+<p>
+<strong>You</strong><br />
+You should be passionate about Web application, Data with an obsession for tracking problems and improving quality.</p>
+<ul>
+<li>
+3-5 years of software testing or development experience, with background in QA methodologies</li>
+<li>
+Thorough knowledge of structured test methods and processes</li>
+<li>
+Strong problem solving, analytical and troubleshooting skills</li>
+<li>
+Strong experience in testing backend system manipulating large scale data</li>
+<li>
+Strong skills in scripting using Python/Ruby</li>
+<li>
+Strong SQL skills with significant experiences (PostgreSQL, MySQL)</li>
+<li>
+Proven experience of testing complex user interfaces</li>
+<li>
+Good knowledge of HTML, CSS, JavaScript and JQuery</li>
+<li>
+Experience in testing using an automated test tool such as HP&rsquo;s QTP or LoadRunner is a plus</li>
+<li>
+Skilled in Linux working environment</li>
+<li>
+Experienced in data mining and data analysis is a big plus</li>
+<li>
+Strong customer and user focus</li>
+<li>
+Degree in Computer Science or related field</li>
+<li>
+Passion for digital content and mobile apps is a definite plus</li>
+<li>
+Very good level of English written and spoken</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Senior Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/BTz9AA"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120401112527_CPZIKPDQXIEFWKRR]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior UI/UX Designer]]></title>
+			<department><![CDATA[Product]]></department>
+			<team><![CDATA[Engineering-UI/UX]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/x4I7jI/Senior-UIUX-Designer.html]]></url>
+			<city><![CDATA[Beijing]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[China]]></country>
+			<postalcode><![CDATA[100026]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role</strong><br />
+We are seeking a talented individual to own the user experience design for the App Annie Web UI. Your role will be end-to-end, taking responsibility in the early concept and interaction design stage right to execution and development.&nbsp;</p>
+<p>
+You will have ownership of the entire user experience and will be working closely with the product and development teams as well as the marketing team, with the following responsibilities:</p>
+<ul>
+<li>
+Responsible for the&nbsp;user experience of the App Annie&nbsp;Web UI</li>
+<li>
+Tasked with all components that make up the user experience process user research, usability testing, information architecture, interaction design and UI design</li>
+<li>
+Gather business, interface, and information architecture requirements for interactive web applications</li>
+<li>
+Prepare prototypes for the new features of the product</li>
+<li>
+Analyze quantitative data from web analytics and qualitative data from user research to intelligently iterate on products</li>
+<li>
+Create wireframes, interaction workflows, annotated mock-ups and layouts</li>
+<li>
+Create visual components for web pages</li>
+<li>
+This is a unique role in the company for a gifted designer who wants to build a career at a fast-growing start-up</li>
+</ul>
+<p>
+<strong>You</strong><br />
+The ideal candidate should have a passion for great design combined with the technical ability to achieve it. You have solid experience in web or user interface design and now want to take your career to the next level by joining this fast growing SaaS start-up. As such, you&#39;ll need to demonstrate more than just exceptional skills in interface design and web development. Youll need to demonstrate that you have the potential to really excel and grow at this company.</p>
+<ul>
+<li>
+More than 5 years of web application design experience with an emphasis on interaction and interface design</li>
+<li>
+Strong portfolio demonstrating clean, intuitive, and functional UX design (Please include a link of your online portfolio)</li>
+<li>
+Ability to translate business requirements into functional design and seamless execution. You should feel equally comfortable wearing business, design and technical hats</li>
+<li>
+Technical requirements include:
+<ul>
+<li>
+Experience with Adobe Fireworks, Adobe Illustrator</li>
+<li>
+Excellent knowledge of front-end development - HTML, CSS, JavaScript, jQuery</li>
+<li>
+Experience in designing mobile websites / applications is a&nbsp;plus</li>
+<li>
+Good Python/PHP or other server side scripting language is a plus</li>
+</ul>
+</li>
+<li>
+Methodical and detail orientated there is not a thing you havent thought about in your designs. You demonstrate true design discipline</li>
+<li>
+Efficient, organized and very effective within a collaborative team environment</li>
+<li>
+Great customer mindset and advocate must absolutely get and care for what drives customers</li>
+<li>
+Voracious appetite for all things Web; solid understanding of the capabilities of web browsers across multiple platforms</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/x4I7jI"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120401112921_HRITHOTZEF2BICVA]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Analytics Manager]]></title>
+			<department><![CDATA[Product]]></department>
+			<team><![CDATA[Product Magt]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/g74ngd/Analytics-Manager.html]]></url>
+			<city><![CDATA[Beijing]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[China]]></country>
+			<postalcode><![CDATA[100026]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role</strong><br />
+How do you know when you are really an analytics expert? When you&#39;re the Analytics Manager for the world&#39;s leading app store analytics and market intelligence company. We are seeking a talented analytics expert to own the metrics infrastructure, dashboard, reporting and analysis across the whole company. You&rsquo;ll be responsible for tracking, reporting and optimizing web traffic performance, product engagement, online marketing campaigns, user database demographics and revenue projections. Your analysis and insights will be invaluable towards informing the company&rsquo;s product and marketing strategy. As such, you&rsquo;ll collaborate closely with the product development and marketing teams, giving them clear recommendations on how to optimize.</p>
+<p>
+You&rsquo;ll be responsible for a number of &nbsp;analytical deliverables, tracking and reporting metrics across the product, marketing and sales teams. These include:&nbsp;</p>
+<ul>
+<li>
+Building a new analytics infrastructure and dashboard for App Annie connecting multiple sources of user, revenue and marketing data</li>
+<li>
+Weekly and monthly company performance reports</li>
+<li>
+Website behavior and user experience analysis</li>
+<li>
+Creation of multivariate and A/B testing across products</li>
+<li>
+Marketing campaign tracking reports</li>
+<li>
+Social media monitoring and trending reports</li>
+<li>
+Revenue analysis, projections and optimization</li>
+</ul>
+<p>
+<strong>You</strong><br />
+We are looking for someone who combines innate analytical skills, web analysis experience and business acumen.</p>
+<ul>
+<li>
+Quantitative degree from a top Chinese or international university</li>
+<li>
+3-5 years&rsquo; experience working in an analytical role, preferably in an internet company</li>
+<li>
+Experience building and maintaining analytics dashboards and reporting structures</li>
+<li>
+Expert knowledge of web analytics methodologies and tools such as Google Analytics, Kissmetrics, Omniture, CoreMetrics etc</li>
+<li>
+Solid experience with SEM, PPC and SEO and a good methodology for measuring and optimizing for success</li>
+<li>
+Excellent knowledge of Microsoft Excel</li>
+<li>
+SAS, VBA, SQL query coding capability a plus</li>
+<li>
+Good understanding of internet industries, e-commerce and online marketing</li>
+<li>
+Good communication skills &ndash; able to explain complex analytical reports to management staff in a simple and clear way</li>
+<li>
+Excellent presentation skills &ndash; you create well-labeled, clear and concise reports that drive towards actionable data</li>
+<li>
+Fluent written and spoken English (we work in an international work environment)</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/g74ngd"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120401114237_VGQC3UBGWCYUYIO9]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front-End Web Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering-FE]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/Vz5aTl/FrontEnd-Web-Developer.html]]></url>
+			<city><![CDATA[Beijing]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[China]]></country>
+			<postalcode><![CDATA[100026]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role</strong><br />
+We are seeking a talented front-end web developer to build websites and software dashboard interfaces for App Annie. Your interfaces will be used by the top app publishers around the world. You will be integral to the team working directly with the UI / UX Designer and product and marketing teams.</p>
+<p>
+Your responsibilities will include:</p>
+<ul>
+<li>
+Working with the UI / UX Designer on designing and executing on new features for App Annies industry-leading analytics dashboard (web)</li>
+<li>
+Being responsible for all front-end development execution across a wide range of online marketing campaigns including web, social media and email</li>
+<li>
+Working with the Creative Director to maintain consistent branding across all App Annie web interfaces</li>
+</ul>
+<p>
+<strong>You</strong><br />
+You should be a talented web developer with enough experience to hit the ground running. Ideal candidates will have a can-do attitude, passion for technology, extensive HTML/CSS/JavaScript development experience and will be able to get up to speed quickly.</p>
+<ul>
+<li>
+Ability to work in a team environment, from making pixel perfect sites that meet the design requirements to integrating code with the back-end development team</li>
+<li>
+3-5 years of web development experience</li>
+<li>
+Excellent knowledge of front-end development - HTML, CSS, JavaScript, jQuery</li>
+<li>
+Very good Python/PHP or other server side scripting language skills</li>
+<li>
+Good knowledge of browser quirks and how to address them</li>
+<li>
+Experience in working with a code management system (Git, SVN)</li>
+<li>
+Experience of coding emails a major plus</li>
+<li>
+Working knowledge of Photoshop to able to cutup comps from the design team</li>
+<li>
+Good level of English to communicate in an international environment</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/Vz5aTl"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120401122545_T1EWR3UZVBXSDLXS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Others-back up account]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/frmLzD/Senior-Software-Engineer.html]]></url>
+			<city><![CDATA[Beijing]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[China]]></country>
+			<postalcode><![CDATA[100026]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>The Role</strong><br />
+	We&rsquo;re looking for an experienced developer who can lead teams and create innovative new products in the analytics and data space. You will lead the development team that creates the world&#39;s #1 Apple App Store analytics service. Together with the team you will build out new product features and applications using agile methodologies and open source technologies. You will work directly with the Director of Product and Director of Engineering, and will be on the front lines of coding new and exciting mobile app analytics products. You should be passionate about what you do and excited to join an entrepreneurial start-&shy;up.</p>
+<p>
+	<strong>You</strong><br />
+	You should be a strong engineer with significant experience in back-&shy;end system design, profiling and optimization (database / software design). You&rsquo;ve worked at companies before at a management level and therefore know what it takes to lead, manage, mentor and train.</p>
+<ul>
+	<li>
+		5+ years computer development experience, or less experience if exceptional skills combined with a Computer Science degree</li>
+	<li>
+		Good communication skills with management experience</li>
+	<li>
+		Great mentor to junior and mid level engineers</li>
+	<li>
+		Passionate about and good understanding of development methodologies such as&nbsp;XP, Scrum and RUP</li>
+	<li>
+		Strong knowledge of Linux</li>
+	<li>
+		Good working knowledge of at least 2 of the following topics:
+		<ul>
+			<li>
+				Web development framework: Python/Django or others (ASP.NET, PHP, Ruby on Rails, etc.)</li>
+			<li>
+				Browser technologies: HTML/CSS/Javascript/jQuery</li>
+			<li>
+				DB development: Postgresql or other server database</li>
+			<li>
+				High performance computing: in-&shy;memory database, cloud computing, caching optimization techniques, cluster management, etc</li>
+			<li>
+				Data mining: statistics packages (&ldquo;R&rdquo;, SPSS, SAS, Matlab, Mathematica), data visualization (&ldquo;Tableau&rdquo;) and&nbsp; analytics databases (Vertica, Sybase IQ, etc.)</li>
+		</ul>
+	</li>
+	<li>
+		You must be a great problem solver, with the ability to dive deeply into complex&nbsp;problems and emerge with clear and pragmatic solutions</li>
+	<li>
+		Good English spoken and written skills. You will need to be able to work with&nbsp;Western managers in a bilingual environment.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/frmLzD"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120509082228_B4I64YVWVDV3YAUF]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Others-back up account]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/FXiH86/Software-Engineer.html]]></url>
+			<city><![CDATA[Beijing]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[China]]></country>
+			<postalcode><![CDATA[100026]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>The Role</strong><br />
+	We&rsquo;re looking for a Software Engineer having a first or an advanced experience to create innovative new products in the analytics and data space. You will participate to the development that creates the world&#39;s #1 app stores analytics service. The Software Engineer will work in collaboration with Technical Product Manager, UI/UX designers, Software Architects, Software Engineers and other members of the technical staff to define technical requirements specifications and deliver high-quality code. You should demonstrate flexibility and perseverance to ensure the team and the company succeeds, in a fast paced start-up environment.</p>
+<p>
+	<strong>You</strong><br />
+	You should be a software engineer with a proven experience in backend and/or front-end system implementation</p>
+<ul>
+	<li>
+		2+ years software development experience</li>
+	<li>
+		Passionate about and good understanding of development methodologies such as XP, Scrum and RUP.</li>
+	<li>
+		Knowledge of Linux</li>
+	<li>
+		Good working knowledge of at least 2 of the following topics:
+		<ul>
+			<li>
+				Programming language such as Java, PHP, Ruby or C#. Python is a big plus</li>
+			<li>
+				Object-oriented analysis</li>
+			<li>
+				Front End technologies such as HTML, CSS, JavaScript and jQuery</li>
+			<li>
+				Web development framework knowledge such as Django, Ruby on Rails, Yii&hellip;</li>
+			<li>
+				Experience&nbsp;with Relational Database and SQL programming</li>
+		</ul>
+	</li>
+	<li>
+		Experience in Statistics and Data mining is a big plus</li>
+	<li>
+		High performance computing: in-memory database-caching, cloud computing, optimization techniques, cluster management, etc. is a big plus</li>
+	<li>
+		Completion of Bachelor&#39;s level degree program in Computer Science or Mathematics.</li>
+	<li>
+		Good English spoken and written skills. You will need to be able to work with Western managers in a bilingual environment.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/FXiH86"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130405102220_UJJMOIPHCYCXW4C3]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Mobile UI/UX Designer]]></title>
+			<department><![CDATA[Product]]></department>
+			<team><![CDATA[Engineering-UI/UX]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/uus2zC/Senior-Mobile-UIUX-Designer.html]]></url>
+			<city><![CDATA[Beijing]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[China]]></country>
+			<postalcode><![CDATA[100026]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role</strong></p>
+<p>
+We are seeking a uniquely talented individual to own the user experience design across all App Annie mobile interfaces. Your role will be end-to-end, taking responsibility in the early concept and interaction design stage right to execution.&nbsp;</p>
+<p>
+You will have ownership of the mobile user experience and will be working closely with the product and development teams as well as the marketing team, with the following responsibilities:</p>
+<ul>
+<li>
+Tasked with all components that make up the user experience process user research, usability testing, information architecture, interaction design and UI design</li>
+<li>
+Gather business, interface, and information architecture requirements for interactive mobile applications</li>
+<li>
+Prepare prototypes for the new product applications and features</li>
+<li>
+Analyze quantitative data from web analytics and qualitative data from user research to intelligently iterate on products</li>
+<li>
+Create wireframes, interaction workflows, annotated mock-ups and layouts for all new products and features</li>
+<li>
+Create visual components for the mobile screens</li>
+<li>
+Work with the mobile engineers to deliver the final product</li>
+</ul>
+<p>
+<strong>You</strong><br />
+You have solid experience in mobile apps design and now want to take your career to the next level by joining this fast growing start-up. As such, you&rsquo;ll need to demonstrate more than just exceptional skills in interface design and web development. You need to demonstrate that you have the potential to really excel and grow at this company.</p>
+<ul>
+<li>
+Minimum of 3+ years experience participating in the complete product development lifecycle of several successfully launched Mobile app. (Include a link of your online portfolio)</li>
+<li>
+Strong portfolio demonstrating clean, intuitive, and functional UX design</li>
+<li>
+5+ years total industry experience (corporate, software, web, mobile, agency experience)</li>
+<li>
+Solid understanding of digital design concepts, best practices, graphic production and asset optimization, and basic HTML and CSS coding.</li>
+<li>
+Technical requirements include:
+<ul>
+<li>
+Expert knowledge in wireframing tools such as Adobe Illustrator, Omnigraffle, Adobe Fireworks, Adobe Photoshop</li>
+<li>
+Experience in designing mobile websites / applications</li>
+<li>
+Must have solid grasp of mobile app design principles and good understanding of current mobile technologies (iOS, Android, Windows).</li>
+<li>
+Knowledge of front-end development - HTML, CSS, JavaScript, jQuery is a big plus</li>
+</ul>
+</li>
+<li>
+Ability to translate business requirements into functional design and seamless execution. You should feel equally comfortable wearing business, design and technical hats</li>
+<li>
+Ability to create information architecture diagrams, wireframes, prototypes, and screen flows.</li>
+<li>
+Methodical and detail orientated there is not a thing you haven&rsquo;t thought about in your designs. You demonstrate true design discipline</li>
+<li>
+Efficient, organized and very effective within a collaborative team environment</li>
+<li>
+Great customer mindset and advocate must absolutely get and care for what drives customers</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/uus2zC"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120529020109_LGKJWX2ISXHCJAZS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Marketing Intern]]></title>
+			<department><![CDATA[Internships]]></department>
+			<team><![CDATA[Marketing-Intern position]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/ViWWuh/Marketing-Intern.html]]></url>
+			<city><![CDATA[Beijing]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[China]]></country>
+			<postalcode><![CDATA[100026]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role</strong></p>
+<p>
+App Annie is looking for an energetic and fun internationally-minded undergraduate for a paid internship. We are the industry leader in app store analytics and market intelligence with clients that include Microsoft, GREE, and EA. You will have an important role in building a fast-growing global startup, reporting directly to the VP Marketing.&nbsp;<br />
+<br />
+Your responsibilities will include:</p>
+<ul>
+<li>
+Conducting industry and competitor product research</li>
+<li>
+Monitoring and analysis of competitor&rsquo;s marketing</li>
+<li>
+Organizing&nbsp;marketing collateral for events in the U.S., China, Japan, and Korea (No travel required)</li>
+<li>
+Managing App Annie&#39;s social media channels&nbsp;</li>
+<li>
+Working along side recruiting team on recruitment marketing</li>
+</ul>
+<p>
+<strong>You</strong></p>
+<p>
+You are an extremely extroverted, organized and personable individual who is passionate about working with a high caliber team in an international startup environment. Your energy should be infectious and your interest in technology and marketing ample.&nbsp;</p>
+<ul>
+<li>
+Available as a full-time (40+ hours/week) or half-time (20+ hours/week) position in our Sanlitun offices&nbsp;(Local to Beijing preferred. Relocation not offered)</li>
+<li>
+A stellar internet researcher and more than competent writer</li>
+<li>
+A self-starter who identifies and solves problems before anyone has noticed.</li>
+<li>
+You are an organizational guru and excellent multi-tasker.</li>
+<li>
+You are structured, punctual and efficient in the way you complete projects and tasks.&nbsp;</li>
+<li>
+Able to handle deadlines and work well in diverse environments</li>
+<li>
+Fluent in Microsoft Office applications and a quick learner of new software</li>
+<li>
+User of social media such as Facebook, Twitter, and Weibo</li>
+<li>
+A likeable, extroverted character. We like likeable people!&nbsp;</li>
+<li>
+Native English speaker or native Chinese speaker that is fluent in written and oral English (We work in an international work environment.)</li>
+</ul>
+<p>
+<em>Please apply to <u>one</u> internship role.&nbsp; We will consider applicants for other internship roles where appropriate.</em></p>
+]]></description>
+			<type><![CDATA[Internship]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/ViWWuh"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120921121452_FNPIAYFXGOYJZLDI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Big Data Architect]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering-All]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/iLl2z2/Big-Data-Architect.html]]></url>
+			<city><![CDATA[Beijing]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[China]]></country>
+			<postalcode><![CDATA[100026]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role</strong><br />
+We&rsquo;re looking for an experienced Architect who can lead teams and create scalable architectures to support innovative products in the analytics and data space. You will lead the development team that creates the world&#39;s #1 Apple App Store analytics service. Together with the team you will build out new product features and applications using agile methodologies and open source technologies. You will work directly with the Director of Product and Director of Engineering, and will be on the front lines of designing new and exciting analytics products. You should be passionate about what you do and excited to join an entrepreneurial start-&shy;up.</p>
+<p>
+<strong>You</strong><br />
+You should have a significant experience in distributed back-&shy;end system design, profiling and optimization (database / software design). You&rsquo;ve worked at companies before at a management level and therefore know what it takes to lead, manage and mentor in a fast moving, dynamic and exciting start up environment.</p>
+<ul>
+<li>
+8+ years computer development experience</li>
+<li>
+Relevant experiences in a similar position</li>
+<li>
+Good communication skills with management experience</li>
+<li>
+Agile development processes</li>
+<li>
+Rich experience in designing distributed and high scalable platforms</li>
+<li>
+Good knowledge of the cloud base computing solutions: AWS, Hadoop, etc</li>
+<li>
+High performance computing: in-&shy;memory DB, caching optimization, cluster management, etc</li>
+<li>
+Big data management: DB optimization, partitioning, clustering</li>
+<li>
+Knowledge in iOS and Android apps development is a big plus</li>
+<li>
+Stats and Data mining background is a big plus</li>
+<li>
+Python scripting + Web development framework (Django, Lamb, Ruby on Rails, etc.) is a plus</li>
+<li>
+You must be a great problem solver, with the ability to dive deeply into complex problems and emerge with clear and pragmatic architectures</li>
+<li>
+Good English spoken and written skills. You will need to be able to work with Western managers in a bilingual environment.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/iLl2z2"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120921121758_FBWN6FKNITG82CMS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Director of Engineering, Beijing]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering-All]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/pQshLO/Director-Of-Engineering-Beijing.html]]></url>
+			<city><![CDATA[Beijing]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[China]]></country>
+			<postalcode><![CDATA[100026]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role</strong><br />
+We are looking for an experienced Director of engineering to lead product development for a thriving international start-up. You&rsquo;ll be taking the success of the world&rsquo;s #1 app store analytics product suite and utilizing that know-how to build a completely new line of products to serve the international app publisher ecosystem. You&rsquo;ll be responsible for an innovative analytics platform that has the potential to impact the economics of the global app publisher ecosystem. You will work with cross-functional teams (Engineering, Operations, Marketing and Sales) to define and implement the product. In addition you will contribute to the high level strategy for product solutions and lead product enhancements through the entire lifecycle.</p>
+<p>
+Your responsibilities will include:</p>
+<ul>
+<li>
+Leading a team through the design, development and product launch using Agile methodology</li>
+<li>
+Developing an extremely thorough product design spec and detailed prioritized product development roadmap in collaboration with the Product Manager</li>
+<li>
+Liaising with Product Managers and&nbsp;the&nbsp;Marketing team</li>
+<li>
+Providing platform support including troubleshooting, root cause analysis, and problem resolution</li>
+<li>
+Interfacing with internal/external partners to ensure successful platform delivery</li>
+<li>
+Understanding the international app publisher ecosystem</li>
+</ul>
+<p>
+<strong>You</strong><br />
+You should be an experienced Director of Engineering who has international experience and a strong technical background:</p>
+<ul>
+<li>
+8 years plus working experience, including at least 3 years in a Director of Engineering role (Big&nbsp;web site, SaaS platform)</li>
+<li>
+Strong skills in requirements gathering and formulating a development plan</li>
+<li>
+Strong general technical background and&nbsp;particularly in
+<ul>
+<li>
+Distributed architecture</li>
+<li>
+Large scale data and DB</li>
+<li>
+Web development</li>
+</ul>
+</li>
+<li>
+Experience in Mobile apps development is a big plus</li>
+<li>
+Experienced in Linux working environment</li>
+<li>
+Passion for mobile apps, advertising and analytics</li>
+<li>
+Excellent written and communication skills</li>
+<li>
+Fluent English a must</li>
+<li>
+Should be excited about exponential growth opportunities at a successful start-up</li>
+<li>
+BS or higher degree in Computer Science or related discipline required</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Senior Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/pQshLO"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130617031149_XHCIFWHQBZ2ABOHJ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Director of People Operations, San Francisco]]></title>
+			<department><![CDATA[HR]]></department>
+			<team><![CDATA[HR]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/hZarHi/Director-Of-People-Operations-San-Francisco.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[w1]]></postalcode>
+			<description><![CDATA[<p>
+As the recognised market and thought leader for app store analytics, App Annie continues to be the industry pioneer, surfing the next wave of market intelligence to extraordinary growth and success. In line with this growth, we are searching for a dynamic, open-minded HR leader to take on a Director of People Operations role that encompasses a truly global presence through offices in London, San Francisco, Beijing, Tokyo and Seoul.<br />
+Based in sunny San Francisco, this role will report directly to the CFO/COO and be responsible for leading all global people operation functions this individual must have a proactive desire to establish strong HR process, manage global recruitment and instil positive and lasting company culture in line with the multinational, &lsquo;best-in-class&rsquo; ideals that App Annie represents.</p>
+<p>
+<br />
+<strong>The Role:</strong></p>
+<p>
+&bull; Ensuring that HR priorities are aligned to business requirements<br />
+&bull; Updating and establishing HR processes to support increased and increasing organisation growth<br />
+&bull; Working collaboratively with the CFO/COO to create compensation and benefits programs that are competitive, consistent with App Annie&rsquo;s culture, cost effective and align individual performance with company success<br />
+&bull; Manage the global HR team and all external vendors to build the most effective, creative and efficient HR function possible<br />
+&bull; Develop practice and programs that attract, retain and develop the best possible talent in the marketplace and makes the company attractive to them through competitive pay and an engaging culture, based on data driven decisions<br />
+&bull; Creating and enhancing unique and successful on-boarding techniques<br />
+&bull; Bringing expert advice and tact in resolving employee relations issues<br />
+&bull; Provide guidance on employment contract negotiations<br />
+&bull; Monitoring the company&rsquo;s cultural environment and proactively addressing issues when possible<br />
+&bull; Ensuring that the company is compliant with all current human resource related laws, regulations and administrative rulings of governmental organizations worldwide</p>
+<p>
+<strong>You:</strong></p>
+<p>
+<br />
+&bull; 7+ years&rsquo; HR or consulting experience, with 2-3 years in a management role<br />
+&bull; Experience in a high-growth, fast-paced, and changing environment<br />
+&bull; Proven leader with demonstrated success implementing people programs and initiatives who can credibly drive change in the organization<br />
+&bull; Flexible, able to manage change, and manage multiple projects successfully to completion<br />
+&bull; Excellent communications skills<br />
+&bull; Bachelor&rsquo;s degree or equivalent relevant experience<br />
+&bull; Global human resources experience<br />
+&bull; Experience in a technology company is preferred<br />
+&bull; Experience of working in a start-up is preferred</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/hZarHi"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121112113613_RGJV2FVWJYQSGWTZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Associate Product Manager]]></title>
+			<department><![CDATA[Product]]></department>
+			<team><![CDATA[Product Magt]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/EHs3HT/Associate-Product-Manager.html]]></url>
+			<city><![CDATA[Beijing]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[China]]></country>
+			<postalcode><![CDATA[100026]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role</strong><br />
+We are giving a talented data rockstar the opportunity to develop their career as a product manager within the app industry&#39;s leader in analytics and market intelligence. You&rsquo;ll work within one of the product teams (analytics, market intelligence or new product development), supporting the product lead and learning how to develop world-class data products used by companies such as EA, Google, Microsoft, Zynga and Tencent.</p>
+<p>
+Your responsibilities will include:</p>
+<ul>
+<li>
+Analyzing&nbsp;and optimizing&nbsp;the product&rsquo;s in-depth metrics regarding user demographics, user behavior, retention, virality and feature engagement</li>
+<li>
+Monitoring competitor products and industry trends - ensuring&nbsp;the company&rsquo;s product strategy is well positioned within the app store analytics and intelligence space</li>
+<li>
+Being the voice of the App Annie user / customer within the company - conducting surveys and detailed user research across the world&rsquo;s top app publishers, indie developers and mobile industry executives</li>
+<li>
+Defining&nbsp;feature and design requirements and briefing the UI / UX design and engineering teams, ensuring those requirements are met before release</li>
+<li>
+Working closely with Technical Product Management and UI / UX Design leads</li>
+<li>
+Developing A/B and multivariate testing practices of all new feature releases and building good practice methodologies for feature optimization</li>
+<li>
+Discussing and developing product partnerships and integrations with potential partners in the apps space</li>
+</ul>
+<p>
+<strong>You</strong><br />
+We are looking for someone with a stellar educational background and a keen and demonstrated interest in analytics, apps, mobile, data, more data and how about data? You&#39;re early in your career, but you already know that you&nbsp;who really understands from experience what app publishers are looking for in an analytics and market data solution. Therefore you should ideally have already worked in and around apps, with experience publisher, platform or vendor side. Our vision is large and wide &ndash; the rise of the app industry marks a gravitational shift in content distribution &ndash; our aim is to create the new industry standard for app store analytics and market intelligence. You need to be a driven individual and self-starter who can take the initiative in helping us achieve that goal.</p>
+<ul>
+<li>
+1-2&nbsp;years&rsquo; experience in a product management and/or strategy role within the internet industries, with solid experience using a variety of analytics and data tools</li>
+<li>
+Experience working with app publishers and mobile ad networks a key requirement</li>
+<li>
+Strong analytical skills with an emphasis on data-driven decision making</li>
+<li>
+Strategic thinker with a strong understanding of freemium, B2B and internet business models</li>
+<li>
+Disciplined, well-organized and efficient &ndash; you have a detailed and methodical approach to every project</li>
+<li>
+An excellent writer of product design briefs and specs &ndash; the documentation you create is marked by clarity and presentational excellence</li>
+<li>
+Excellent Powerpoint and Excel capabilities; familiar with a number of analytics tools</li>
+<li>
+Good sense of functional interface design to allow you to work seamlessly with UI/UX design team</li>
+<li>
+Knowledge of mobile technology, its boundaries and potential as it applies to the analytics and intelligence space</li>
+<li>
+You love apps. You breathe analytics. And you can&rsquo;t wait to be a central part of the app store analytics space.</li>
+<li>
+Fluent written and spoken English (we work in an international work environment); Mandarin Chinese a plus.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/EHs3HT"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121210042639_IDBL1X4V2EM590FB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Director of Product Marketing]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[Others-back up account]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/UEur6a/Director-Of-Product-Marketing.html]]></url>
+			<city><![CDATA[Beijing]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[China]]></country>
+			<postalcode><![CDATA[100027]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role</strong><br />
+We are looking for a product marketing guru to take the lead on educating the wider app industry on App Annie&#39;s app store data product suite. From analytics to market data, and from free to ultra premium, you&#39;ll be tasked with communicating App Annie&#39;s product leadership across a variety of vertical audiences - app publishers, platforms, mobile telecom, investors, advertising, media companies and much more. One in five apps on the App Store are powered by App Annie Analytics, and 11 of the Top 15 iOS publishers by revenue use App Annie Intelligence. Your goal is to drive that growth even further across a broader audience so that everyone in Silicon Valley, Hollywood, Wall Street and Madison Avenue is using App Annie&#39;s analytics and market data products. And then we have the rest of the world.</p>
+<p>
+You&#39;ll be responsible for all new feature, product and platform launches. And you&#39;ll be the creative force behind all product marketing campaigns. You will drive product marketing, oversee the online marketing team and be the key liaison with product managers, helping them convert their innovative product features into simple and clear user value propositions that resonate with a variety of customer audiences. And you&#39;ll be tasked with maintaining product leadership for App Annie across its entire suite, whilst converting that into exponential user and revenue growth through well-designed online marketing programs.</p>
+<p>
+Your responsibilities will include:</p>
+<ul>
+<li>
+Oversee, lead and drive global product&nbsp;and online marketing initiatives across the company</li>
+<li>
+Develop a deep understanding of App Annie&#39;s current product and its future product roadmap</li>
+<li>
+Develop product value proposition for multiple vertical audiences, driving segmented product marketing that targets everyone from indie app publishers to large media conglomerates.</li>
+<li>
+Work with the marketing team to design strong product marketing infrastructure including landing pages, interactive content, user guides, brochures etc.</li>
+<li>
+Work with product management to design and develop well-segmented and sequenced product launch and go-to-market strategies</li>
+<li>
+Develop innovative and high impact campaigns that drive user adoption and virality</li>
+<li>
+Work with user acquisition manager to drive user and customer growth across industry and regional verticals. Analyze campaign effectiveness and ROI through analytics tools.</li>
+<li>
+Develop strong relationships with industry partners, leveraging co-marketing initiatives and product partnerships</li>
+<li>
+Understand market dynamics and user reaction to our products with a view to informing product roadmap and communications</li>
+</ul>
+<p>
+<strong>You</strong><br />
+The ideal candidate combines a deep level of product marketing experience in technology with a passion for the apps industry and the analytics products that drive it.</p>
+<ul>
+<li>
+5-7&nbsp;years&#39; experience in a product marketing, online marketing and/or brand marketing role, preferably in an internet company.</li>
+<li>
+Disciplined, well-organized and efficient &ndash; you have a detailed and methodical approach to every project</li>
+<li>
+Demonstrated analytical skills and ability to develop strategy, business plans, customer segmentation&nbsp;and market insights.</li>
+<li>
+Excellent writing skills - you write clearly and credibly and can turn complex features into simple value propositions.</li>
+<li>
+Passion for analytics and apps. You recognize the importance of data behind every commercial decision, and you understand where the growth of apps and digital content is going to come.</li>
+<li>
+Excellent Powerpoint and Excel capabilities; familiar with a number of analytics tools</li>
+<li>
+Fluent written and spoken English (we work in an international work environment); Mandarin Chinese a plus.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Senior Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/UEur6a"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130205021846_Q6TUKYUCWJO9OZLU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Data Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering-Data]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/69aZm4/Data-Engineer.html]]></url>
+			<city><![CDATA[Beijing]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[China]]></country>
+			<postalcode><![CDATA[100027]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role</strong></p>
+<p>
+We&rsquo;re looking for a Data Engineer having a first or an advanced experience to support data quality and delivery to customers in the analytics and data space. You will be part of the Delivery Team and you will participate throughout the whole data delivery process, including data quality assurance, report generation, data visualization and report delivery as well as help to improve processes by using new tools and solutions in order to provide a scalable platform delivering gigabytes to our customers every week. You should demonstrate flexibility and perseverance to ensure the team and the company succeeds, in a fast paced start-up environment.</p>
+<p>
+<strong>Your responsibilities will include:</strong></p>
+<ul>
+<li>
+Support the App Annie Intelligence data quality assurance process from end to end, making sure that our customers get the best data possible.</li>
+<li>
+Support the report generation and data delivery processes on weekly and monthly basis.</li>
+<li>
+Assist on the provisioning of App Annie data process for different departments and locations worldwide.</li>
+<li>
+Help to develop an optimized and scalable ETL process to transform our products&rsquo; data used as input for our BI team.</li>
+<li>
+Collaborate with the development of advanced data visualization dashboards using Tableau or other reporting tools.</li>
+<li>
+Provide insights on new tools and methodologies that can make all the tasks above more efficient.</li>
+</ul>
+<p>
+<strong>You</strong></p>
+<ul>
+<li>
+Computer science or other related fields graduated</li>
+<li>
+2+ years as data engineer or in a position focused on data management</li>
+<li>
+Passionate about data and agile environments</li>
+<li>
+Mastering of Linux and shell programming is a must - Python is a big plus</li>
+<li>
+ETL and data integration tools (Pentaho, SSIS) usage and best practices is a big plus.</li>
+<li>
+Knowledge on data warehousing architecture and data modeling best practices</li>
+<li>
+Experience with Relational Database and SQL programming.</li>
+<li>
+Experience in Statistics and Data mining, Big data or BI solutions is a big plus.</li>
+<li>
+Good English spoken and written skills. You will need to be able to work with western managers in a bilingual environment.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/69aZm4"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130205112221_BSWSHXYVR9VMJLRC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Customer Success Manager/Analyst (EMEA-Russia)]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[Sales]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/801MM6/Customer-Success-ManagerAnalyst-EMEARussia.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[EMEA]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[W1]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role</strong></p>
+<p>
+<br />
+App Annie is looking for an energetic and experienced manager of Customer Success/Analyst to drive related initiatives at an international tech start-up.<br />
+Securing long-term business relationships with existing key customers is one of the major functions of the Customer Success Manager. We are currently 70+ people and growing at an exponential pace. App Annie is the industry leader in app store analytics and market intelligence with clients that include Google, Microsoft, GREE, and EA. You will have an important role in building a global company across locations in the US, Europe, and Asia, You will be a part of the sales team and support sales activities, reporting directly to the VP of your region.</p>
+<p>
+Also, as an industry Analyst, you will work with our HQ Market Insights team. Your role will be to use MS Excel and data visualization tools to turn raw data into valuable market insights and then work with the marketing and sales team to package these insights into accessible data reports, whitepapers, infographics, news stories and the like. You&rsquo;ll need to keep your finger on the pulse of the app stores&rsquo; latest commercial trends by utilizing App Annie&rsquo;s data, developer community and by keeping abreast of the latest mobile and technology news. Your purpose is to use App Annie data to educate and inform the wider app industry about Europe, positioning the company as the foremost thought leader in the space.</p>
+<p>
+<br />
+Your responsibilities will include:</p>
+<ul>
+<li>
+On-going continuous commercial support via telephone, instant message, and email</li>
+<li>
+Pre-sales support managing custom requirements, trial accounts</li>
+<li>
+Handle post-sales / support issues</li>
+<li>
+Manage client on-boarding process: knowledgeable and able to explain our data and visualization tools (like Tableau) to clients.</li>
+<li>
+Work closely with local sales team and communicate any potential need for customer upgrades or sales leads</li>
+<li>
+Gathering customer feedback and utilizing it to enhance App Annie&rsquo;s customer service experience</li>
+<li>
+Work with key App Annie customers to collaboratively create testimonials</li>
+<li>
+Develop vertical best practices</li>
+<li>
+Collaborate with App Annie&rsquo;s product team to address and fulfill customers&rsquo; current needs and pragmatically predict future needs </li>
+<li>
+Drawing on App Annie market data and a range of other data sources to create first-to-market insights around the international app store economy.</li>
+<li>
+Using MS Excel and other data reporting tools to visualize data and spot new trends.</li>
+<li>
+Turning these data analyses into well-presented charts that are clearly labeled and to the point.</li>
+<li>
+Creating concise and pointed written reports &ndash; work with the marketing team to bring these to life in the form of blog posts, infographics, press releases and the like.</li>
+</ul>
+<p>
+<strong>You</strong></p>
+<ul>
+<li>
+Mandatory requirements
+<ul>
+<li>
+At least 3 years of working experience in related field</li>
+<li>
+Project planning and contract experience</li>
+<li>
+Experienced working with and supporting international customers (big and start-up) over email and telephone</li>
+<li>
+Fluent in English, 2nd European Language skills an advantage</li>
+<li>
+Data analysis experience, preferably in Excel</li>
+<li>
+Attention to detail and ability to produce highly accurate analysis</li>
+<li>
+Business savvy; ability to translate business needs into data and product requirements</li>
+<li>
+Mobile and app store knowledge</li>
+</ul>
+</li>
+<li>
+Preferred
+<ul>
+<li>
+Degree in Computer Science, Mathematics, Statistics, or other Technical field</li>
+</ul>
+</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/801MM6"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130227111424_WXQBCVCRZWZ8L91E]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Director of Design, Beijing]]></title>
+			<department><![CDATA[Design]]></department>
+			<team><![CDATA[Marketing-Design]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/jO8B1B/Director-Of-Design-Beijing.html]]></url>
+			<city><![CDATA[Beijing]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[China]]></country>
+			<postalcode><![CDATA[100026]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role</strong><br />
+We are have an exciting role for a talented and experienced design visionary to build, manage and lead the design team at one of the world&#39;s hottest analytics startups. The design team&#39;s scope will encompass everything from brand and marketing design to product and UX design, building a consistent design vision as the company scales through its innovative app analytics products.</p>
+<ul>
+<li>
+Take full ownership, creative direction and vision for brand, marketing, product and UI / UX design across the company.</li>
+<li>
+Ensure that App Annie&#39;s design vision meets the needs of the company&#39;s strategic goals, customer verticals and product roadmap.</li>
+<li>
+Hire,&nbsp;recruit, manage and motivate&nbsp;the design team, including brand, graphic&nbsp;and UI / UX designers</li>
+<li>
+Manage the relationship and budget with all design agency or freelance vendors.</li>
+<li>
+Oversee the quality control of all design and production, ensuring that all marketing or product output meets the standard that you set.</li>
+<li>
+Work closely with the marketing and product teams to make sure all design team output&nbsp;meets their business and strategic needs. Be responsible for the quality of that output.</li>
+</ul>
+<p>
+<strong>You</strong><br />
+We&#39;re looking for a design visionary who wants to re-apply their expertise to one of the hottest startups in the apps space. Your unrivalled design expertise is complemented by your passion for technology and your mature understanding of the business world, and how design can drive revenue even in a B2B environment. You are not a design diva, you&#39;re a genuine leader with a mature approach to the role of design in shaping a company&#39;s future. And you&#39;ve spent the last decade of your career training, nurturing and developing designers around you. Not only are you brilliant at what you do, but you make designers around you fifty percent better by supporting and encouraging their ideas within a clear framework for success.</p>
+<ul>
+<li>
+10+ years&#39; design experience, spanning across both brand / graphic design as well as UI / UX design. Even if you do not consider yourself to be an absolute expert in both, you can demonstrate wise judgment in either.</li>
+<li>
+Can objectively and passionately design for different target audiences and brands. Your design prowess can make App Annie the analytics brand of choice amongst Silicon Valley hackers and Wall Street bankers.</li>
+<li>
+Inspirational team leader - you get the best out of other designers and they respect you for that</li>
+<li>
+Clarity of judgment - you make wise design judgments that are objective, imaginative and always by design</li>
+<li>
+Great presenter and communicator - you&nbsp;are extremely&nbsp;articulate when it comes to talking about creative work and design logic.&nbsp;You can effortlessly communicate the business logic behind a design&nbsp;to &nbsp;management executives.</li>
+<li>
+Solid knowledge of Adobe PS, AI, Acrobat and 3D.</li>
+<li>
+Attention to detail - you are disciplined in your design and expect the same of designers you work with. No pixel has not been thought about and considered.</li>
+<li>
+Fluent written and spoken English</li>
+<li>
+Impressive portfolio of past work, including projects in the technology and B2B space.</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Executive]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/jO8B1B"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130301042334_9WYQJ3IH5R9QMMOQ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Chief Data Scientist, Beijing]]></title>
+			<department><![CDATA[Data Science]]></department>
+			<team><![CDATA[Engineering-Data]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/3T4oPE/Chief-Data-Scientist-Beijing.html]]></url>
+			<city><![CDATA[Beijing]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[China]]></country>
+			<postalcode><![CDATA[100026]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role</strong><br />
+We are seeking an experienced Chief Data Scientist interested in working in the hot space of app store data and analytics, from iOS to Android and other platforms. Using data modeling, linear regression, statistical methods and the incomparable App Annie proprietary data, your role is to discover trends, uncover app store application evaluation methodologies, and provide estimates based on this data. Working closely with the product manager, the engineer team and the data analysts, you will be responsible for the creation and the evolution of the tools and methods critical to producing quality market data.</p>
+<p>
+As Chief Data Scientist, you will be a member of the leadership team. You will be responsible for:</p>
+<ul>
+<li>
+Leading the development and testing of hypotheses across all functional areas at App Annie</li>
+<li>
+Researching and applying multidisciplinary techniques, findings and approaches to App Annie problems</li>
+<li>
+Designing, implementing and analyzing algorithms which substantially impact multiple App Annie products</li>
+<li>
+Leading development of prototypes and guiding solutions into production</li>
+<li>
+Establishing App Annie&rsquo;s strategic research roadmap</li>
+<li>
+Serving as a primary person to consult on complex data science issues, contributing key ideas</li>
+<li>
+Growing and leading the data science group</li>
+<li>
+Serving as spokesperson and advocate on relevant data science issues to both internal and external audiences and stakeholders</li>
+<li>
+This location can be based in Beijing&nbsp;or SF</li>
+</ul>
+<p>
+<strong>You</strong></p>
+<ul>
+<li>
+PhD in computer science, stats or related field</li>
+<li>
+Obsession with data and system improvement, tempered with pragmatic ability to prioritize</li>
+<li>
+Proven research background, in academic or industrial work, with an emphasis on delivering practical research that has a critical impact on multiple projects</li>
+<li>
+Awareness of business objectives and ability to apply this understanding to recommend and implement product development for difficult and complex technical issues</li>
+<li>
+Comfort working within a modern engineering environment (Linux, system architecture, Java, Python, PostGreSQL, multithreaded programming)</li>
+<li>
+Ability to script experimental solutions and use off-the-shelf statistical analysis tools</li>
+<li>
+Ability to quickly prototype experimental solutions and develop robust, maintainable production systems</li>
+<li>
+Familiarity with Hadoop and related sub-projects (MapReduce, Pig, HBase, Mahout, etc.)</li>
+<li>
+Strong results driven personality, with a high level of enthusiasm, energy and confidence</li>
+<li>
+Excellent analytical, communication, organizational and presentation skills</li>
+<li>
+Managerial skills: hire, train and mentor research team</li>
+<li>
+Ability to demonstrate flexibility and integrity: be able and willing to work hands on, independently or with a small team providing leadership</li>
+<li>
+Experience working at a growth-stage startup company</li>
+<li>
+Experience with large scale algorithm challenges in the consumer Internet space</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/3T4oPE"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130318070243_Q9QE464FBOE6RAMA]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Marcoms Manager US]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[Marketing]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/yhUP1B/Marcoms-Manager-US.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role</strong></p>
+<p>
+App Annie is looking for a marketing communications expert to help App Annie launch new app products across a wide range of audiences. You&#39;ll be directly working with App Annie&#39;s product development and user acquisition teams to launch products both in the US and globally. And you&#39;ll be responsible for the product&#39;s brand positioning, go-to-market strategy, PR programs and launches.</p>
+<p>
+Based in App Annie&#39;s San Francisco office, you will report directly to the Director of Corporate Communications, owning marketing communications across a range of product initiatives. Your key responsibilities will include:</p>
+<ul>
+<li>
+Working closely with product and marketing teams to plan and execute strategic PR programs to support new product launches</li>
+<li>
+Leading the development of messaging, press materials, blog posts, infographics and app store reports, and&nbsp;working closely with the content marketing team</li>
+<li>
+Driving positive&nbsp;coverage and leadership for App Annie&#39;s new product launches</li>
+<li>
+Drive mass user adoption of App Annie&#39;s products</li>
+<li>
+Working directly with and handling&nbsp;relationship with App Annie&#39;s public relations&nbsp;agency</li>
+<li>
+Managing&nbsp;all communications budgets, schedules and quarterly objective plans</li>
+<li>
+Tracking the performance and ROI of product-driven PR programs</li>
+</ul>
+<p>
+<strong>You</strong></p>
+<p>
+You are an consumer tech communications guru who knows exactly how to launch products and drive mass user adoption of apps through PR programs. You&#39;ve got a strong portfolio of innovative launch campaigns that don&#39;t necessarily rely on dollar spend to drive dollar value. You&#39;ve worked directly with marketing and user acquisition teams and have experience of driving user adoption and virality through well-designed PR programs.</p>
+<ul>
+<li>
+3-5&nbsp;years in marketing communications for consumer tech&nbsp;and mobile app brands.</li>
+<li>
+Track record at an agency and&nbsp;in-house of planning and executing largescale product launches in the US and globally</li>
+<li>
+A great story-teller, you really know how to weave a product story into a real life story and create a compelling story for the reader</li>
+<li>
+Ability to write copy in a variety of styles from entertaining and social to matter-of-fact and pointed. You also have a hawk eye for typos, bad grammar and unclear phrasing</li>
+<li>
+Ability to thrive and multi-task in a fast-paced environment</li>
+<li>
+Ability to work pro-actively,&nbsp;independently and internationally in a team that&#39;s based across San Francisco, Europe&nbsp;and Beijing</li>
+<li>
+&quot;Roll your sleeves up&quot; attitude - you&#39;ll be working in a fast-growing startup where everyone&#39;s in it together</li>
+<li>
+Passion for apps - you&#39;re an app evangelist at heart and you really know the space</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/yhUP1B"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130329035029_NRXMIHFSIX8HRLZZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Mobile User Acquisition Manager]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[Others-back up account]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/Vi1qSr/Mobile-User-Acquisition-Manager.html]]></url>
+			<city><![CDATA[Beijing]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[China]]></country>
+			<postalcode><![CDATA[100027]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role</strong><br />
+We are offering a unique opportunity to an experienced mobile user acquisition guru to help drive App Annie&#39;s mobile app products. You&#39;ll be tasked with managing a significant ad budget, identifying innovative channels and solutions for user acquisition and growing App Annie&#39;s userbase on mobile.</p>
+<ul>
+<li>
+Identify the most efficient and effective user acquisition channels&nbsp;for mobile app products</li>
+<li>
+Manage paid acquisition ad buys on a variety of mobile ad networks to drive volume, quality and ROI</li>
+<li>
+Explore and test new acquisition channels including cross-promotion, partnerships etc.</li>
+<li>
+Drive user virality through innovative social features and well-optimized mobile app design</li>
+<li>
+Develop A/B and multivariate testing programs to improve acquisition efficiency</li>
+<li>
+Generate performance reports and present to senior management</li>
+</ul>
+<p>
+<strong>You</strong><br />
+We are looking for an analytically-driven user acquisition guru who is motivated to leverage their skills to get into the exciting apps space. You have a solid track record in e-commerce, digital media planning and/or performance marketing and significant experience growing large online userbases for internet properties. You&rsquo;re motivated by something that is both international and entrepreneurial and have the capabilities to drive mobile user acquisition for a fast-growing internet startup.</p>
+<ul>
+<li>
+3-5 years&#39; experience managing user acquisition on web and/or mobile</li>
+<li>
+Strong understanding of the iOS and Android ecosystems</li>
+<li>
+Deep experience negotiating largescale ad buys, particularly on mobile</li>
+<li>
+Ability to compile and analyze performance data and metrics and make decisions regarding campaign direction based on analysis.</li>
+<li>
+Passion for results, consistent track record of exceeding targets.</li>
+<li>
+Ability to thrive in a demanding, fast-paced environment.</li>
+<li>
+Keen interest in the apps space; entrepreneurial outlook to your career &ndash; you&rsquo;re looking for a place to grow exponentially.</li>
+<li>
+Fluent written and spoken English (we work in an international work environment)</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/Vi1qSr"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130403114954_6E3YG3CRGOWNZPHP]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Director of Design, San Francisco]]></title>
+			<department><![CDATA[Design]]></department>
+			<team><![CDATA[Marketing-Design]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/ibNX1O/Director-Of-Design-San-Francisco.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role</strong></p>
+<p>
+<br />
+We are have an exciting role for a talented and experienced design visionary to build, manage and lead the design team at one of the world&#39;s hottest analytics startups. The design team&#39;s scope will encompass everything from brand and marketing design to product and UX design, building a consistent design vision as the company scales through its innovative app analytics products.</p>
+<ul>
+<li>
+Take full ownership, creative direction and vision for brand, marketing, product and UI / UX design across the company.</li>
+<li>
+Ensure that App Annie&#39;s design vision meets the needs of the company&#39;s strategic goals, customer verticals and product roadmap.</li>
+<li>
+Hire,&nbsp;recruit, manage and motivate&nbsp;the design team, including brand, graphic&nbsp;and UI / UX designers</li>
+<li>
+Manage the relationship and budget with all design agency or freelance vendors.</li>
+<li>
+Oversee the quality control of all design and production, ensuring that all marketing or product output meets the standard that you set.</li>
+<li>
+Work closely with the marketing and product teams to make sure all design team output&nbsp;meets their business and strategic needs. Be responsible for the quality of that output.</li>
+</ul>
+<p>
+<strong>You</strong></p>
+<p>
+<br />
+We&#39;re looking for a design visionary who wants to re-apply their expertise to one of the hottest startups in the apps space. Your unrivalled design expertise is complemented by your passion for technology and your mature understanding of the business world, and how design can drive revenue even in a B2B environment. You are not a design diva, you&#39;re a genuine leader with a mature approach to the role of design in shaping a company&#39;s future. And you&#39;ve spent the last decade of your career training, nurturing and developing designers around you. Not only are you brilliant at what you do, but you make designers around you fifty percent better by supporting and encouraging their ideas within a clear framework for success.</p>
+<ul>
+<li>
+10+ years&#39; design experience, spanning across both brand / graphic design as well as UI / UX design. Even if you do not consider yourself to be an absolute expert in both, you can demonstrate wise judgment in either.</li>
+<li>
+Can objectively and passionately design for different target audiences and brands. Your design prowess can make App Annie the analytics brand of choice amongst Silicon Valley hackers and Wall Street bankers.</li>
+<li>
+Inspirational team leader - you get the best out of other designers and they respect you for that</li>
+<li>
+Clarity of judgment - you make wise design judgments that are objective, imaginative and always by design</li>
+<li>
+Great presenter and communicator - you&nbsp;are extremely&nbsp;articulate when it comes to talking about creative work and design logic.&nbsp;You can effortlessly communicate the business logic behind a design&nbsp;to &nbsp;management executives.</li>
+<li>
+Solid knowledge of Adobe PS, AI, Acrobat and 3D.</li>
+<li>
+Attention to detail - you are disciplined in your design and expect the same of designers you work with. No pixel has not been thought about and considered.</li>
+<li>
+Fluent written and spoken English</li>
+<li>
+Impressive portfolio of past work, including projects in the technology and B2B space.</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Executive]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/ibNX1O"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130412090257_UPRAPNTCH67WOC41]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Android Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering-All]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/eHXt45/Senior-Android-Engineer.html]]></url>
+			<city><![CDATA[Beijing]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[China]]></country>
+			<postalcode><![CDATA[100026]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role</strong><br />
+We are actively searching for a Senior Android Developer to be at the cutting edge of internet tech as App Annie brings data analytics to Android. You will play a key role in shaping the experiences of millions of app publishers as you work directly with our game changing engineers while drawing on the resources of our product and marketing teams.</p>
+<p>
+<strong>Your responsibilities</strong></p>
+<ul>
+<li>
+Act as &lsquo;Go-to&rsquo; Senior Developer for Android platform related projects</li>
+<li>
+In charge of the full development process of mobile apps</li>
+<li>
+Work with UI/UX Designer and develop user interface according to customer requirements and storyboards</li>
+<li>
+Develop standards, repeatable processes and reusable components</li>
+<li>
+Participate in project planning, including the development of timelines and resources required</li>
+<li>
+Work with the development team throughout all phases of the project, including requirements validation, detail design and implementation</li>
+<li>
+Collaborate as part of a diverse team in development, product planning, product verification and documentation to deliver high quality, complete product releases</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>You</strong></p>
+<ul>
+<li>
+A  bachelor&#39;s  degree  in  Computer  Science  or  equivalent  experience</li>
+<li>
+A  passion  for  mobile  device  technologies,  especially  Android</li>
+<li>
+5+  years  of  software  development  experience</li>
+<li>
+3+  years  hands on  the  Android  SDK</li>
+<li>
+Thorough understanding of both client and web application architectures (AJAX, HTML, JavaScript, CSS)</li>
+<li>
+Good understanding of backend system, scalable and highly available architecture</li>
+<li>
+Experience in working with a code management system (Git, SVN)</li>
+<li>
+Management experience is a plus</li>
+<li>
+Good level of English to communicate in an international environment</li>
+<li>
+Should be excited about exponential growth opportunities at a successful start-up</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/eHXt45"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130416043141_HDMAAUADBJMVCPQV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Director of People Operations, Beijing]]></title>
+			<department><![CDATA[HR]]></department>
+			<team><![CDATA[HR]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/rmdKwq/Director-Of-People-Operations-Beijing.html]]></url>
+			<city><![CDATA[Beijing]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[China]]></country>
+			<postalcode><![CDATA[100027]]></postalcode>
+			<description><![CDATA[<p>
+As the recognised market and thought leader for app store analytics, App Annie continues to be the industry pioneer, surfing the next wave of market intelligence to extraordinary growth and success. In line with this growth, we are searching for a dynamic, open-minded HR leader to take on a Director of People Operations role that encompasses a truly global presence through offices in London, San Francisco, Beijing, Tokyo and Seoul.<br />
+Based in sunny San Francisco, this role will report directly to the CFO/COO and be responsible for leading all global people operation functions this individual must have a proactive desire to establish strong HR process, manage global recruitment and instil positive and lasting company culture in line with the multinational, &lsquo;best-in-class&rsquo; ideals that App Annie represents.</p>
+<p>
+<br />
+<strong>The Role:</strong></p>
+<p>
+&bull; Ensuring that HR priorities are aligned to business requirements<br />
+&bull; Updating and establishing HR processes to support increased and increasing organisation growth<br />
+&bull; Working collaboratively with the CFO/COO to create compensation and benefits programs that are competitive, consistent with App Annie&rsquo;s culture, cost effective and align individual performance with company success<br />
+&bull; Manage the global HR team and all external vendors to build the most effective, creative and efficient HR function possible<br />
+&bull; Develop practice and programs that attract, retain and develop the best possible talent in the marketplace and makes the company attractive to them through competitive pay and an engaging culture, based on data driven decisions<br />
+&bull; Creating and enhancing unique and successful on-boarding techniques<br />
+&bull; Bringing expert advice and tact in resolving employee relations issues<br />
+&bull; Provide guidance on employment contract negotiations<br />
+&bull; Monitoring the company&rsquo;s cultural environment and proactively addressing issues when possible<br />
+&bull; Ensuring that the company is compliant with all current human resource related laws, regulations and administrative rulings of governmental organizations worldwide</p>
+<p>
+<strong>You:</strong></p>
+<p>
+<br />
+&bull; 7+ years&rsquo; HR or consulting experience, with 2-3 years in a management role<br />
+&bull; Experience in a high-growth, fast-paced, and changing environment<br />
+&bull; Proven leader with demonstrated success implementing people programs and initiatives who can credibly drive change in the organization<br />
+&bull; Flexible, able to manage change, and manage multiple projects successfully to completion<br />
+&bull; Excellent communications skills<br />
+&bull; Bachelor&rsquo;s degree or equivalent relevant experience<br />
+&bull; Global human resources experience<br />
+&bull; Experience in a technology company is preferred<br />
+&bull; Experience of working in a start-up is preferred</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/rmdKwq"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130522095628_JWSNLT3HLTRAQ5YE]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Business Development Manager, Russia / CIS Region]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[Sales]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/VhxBxP/Business-Development-Manager-Russia-CIS-Region.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[EMEA]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[W1]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role</strong></p>
+<p>
+App Annie is the industry leader in app store analytics and market intelligence for the global app economy. More than 80 percent of the Top 100 Grossing iOS publishers rely on App Annie services for the highest quality market data available across app categories and regions worldwide. App Annie is a privately held global company with offices in Beijing, Hong Kong, London and San Francisco.<br />
+App Annie is a successful international start-up looking for a motivated, high energy, creative and flexible Business Development Manager in Moscow covering the Russian and CIS market reporting to the Vice President of EMEA-RUSSIA.</p>
+<p>
+<br />
+Your role will be to drive our Russia and CIS sales revenues with a mix of sales campaigns, networking, and marketing activities. You will serve as App Annie's key representative for the Russian and CIS market, helping us driving business networking and product awareness amongst the top Russian companies in the mobile internet space. Your responsibilities will include:</p>
+<p>
+ </p>
+<ul>
+<li>
+Proactively prospect, qualify, grow and maintain Russian and CIS accounts to achieve assigned sales targets</li>
+<li>
+Update and create sales proposals and sale reports as required</li>
+<li>
+Work closely with local the Vice President of EMEA-RUSSIA</li>
+<li>
+Develop product positioning that differentiates our products</li>
+<li>
+• Working with our marketing and data analysis teams to create unique content for the Russian tech and business press including market analyses, quarterly reports, blog articles etc.</li>
+<li>
+Working with the European sales team to identify the right contacts at key target companies in the mobile telecom, gaming, internet and publishing industries</li>
+<li>
+Representing App Annie as a knowledge expert at industry conferences in Russia, and securing speaking slots and sponsorship opportunities for the company</li>
+<li>
+Providing strategic counsel to the management team on Russian market dynamics and trends</li>
+<li>
+Being the main point of contact for all Russian bloggers, writers, journalists making enquiries to App Annie</li>
+<li>
+This location can be based in Moscow or St Petersburg, Russia</li>
+</ul>
+<p>
+<strong>You</strong></p>
+<p>
+<br />
+You are widely considered an expert in the Russian and CIS region mobile and tech industry. You're an excellent networker and maintain a very good reputation. You are best described by the following qualities:</p>
+<ul>
+<li>
+3~4 years' experience working in the mobile, apps and internet industries in the Russian and CIS region.</li>
+<li>
+Unrivalled understanding of the corporate scene in Russian and CIS region's internet, mobile and content publishing industries</li>
+<li>
+Good understanding of the importance of market data to businesses</li>
+<li>
+Analytical and strategic mind that can be applied to app store market data</li>
+<li>
+Native Russian speaker, fluent English for spoken and written skills</li>
+<li>
+Able to work remotely and independently outside of an office</li>
+<li>
+Excited to work at high-growth companies</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/VhxBxP"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130527085426_GNN1VYGXOJJGY8Q0]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Visual Designer, Beijing]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[Marketing-Design]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/WMu2VV/Visual-Designer-Beijing.html]]></url>
+			<city><![CDATA[Beijing]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[China]]></country>
+			<postalcode><![CDATA[100027]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role </strong></p>
+<p>
+App Annie is looking for a talented designer and/or illustrator to help shape App Annie&#39;s expanding marketing programs and brand within the app industry.We are the industry leader in app store analytics and market intelligence with clients that include Microsoft, GREE, and EA. You will be responsible for design and illustration across a range of projects spanning brand development, animated demo videos, online advertising, content editorial design, branded swag design and much much more.</p>
+<p>
+Your responsibilities will include:</p>
+<ul>
+<li>
+Support App Annie&#39;s marketing team in San Francisco on a variety of brand and marketing collateral.</li>
+<li>
+Develop graphics for inclusion in many formats including: banner ads, animated demo videos, website landing and tour pages, booth designs, posters, VIP invitations, schwag and much more.</li>
+<li>
+Convert creative briefs into concepts and concepts into artwork and design. Own the creative process for US marketing materials.</li>
+<li>
+Report to App Annie&#39;s Global Director of Design in the Beijing office.</li>
+<li>
+Work with and assess App Annie&#39;s design and production vendors in the US including brand design, printing and web development shops.</li>
+</ul>
+<p>
+<br />
+<strong>You </strong></p>
+<p>
+<br />
+You&#39;ll have a sharp eye for detail, layout and typography but be cool, calm and collected under pressure to deliver all work to deadlines. You are excited about working with a high caliber team in an international work environment and contributing to a top-tier global startup.</p>
+<ul>
+<li>
+2-4 years work experience in a design role within a fast-paced environment</li>
+<li>
+Solid educational background in a design or art-related field</li>
+<li>
+Master of Adobe - especially InDesign, Photoshop and Illustrator</li>
+<li>
+Strong competency to both select the right typography and convey clear messaging through design and visuals</li>
+<li>
+A thorough and diligent worker with a laser-sharp eye on design</li>
+<li>
+Structured, punctual and efficient in the way you accomplish tasks in detail</li>
+<li>
+Able to work well in diverse environments with a cross functional team</li>
+<li>
+Capable of applying a high degree of mastery in the use of a variety of media with dynamic layouts in the preparation of roughs, sketches, comprehensives and complete finished art work for publications</li>
+<li>
+Business fluent English language ability</li>
+<li>
+Provide a portfolio including both online and/or offline designs to showcase your excellent creative talent</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/WMu2VV"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130524105136_YRWKFLIE2LKKWHIN]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Visual Designer, San Francisco]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[Marketing-Design]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/GlYj0r/Visual-Designer-San-Francisco.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role </strong></p>
+<p>
+App Annie is looking for a talented designer and/or illustrator to help shape App Annie&#39;s expanding marketing programs and brand within the app industry.We are the industry leader in app store analytics and market intelligence with clients that include Microsoft, GREE, and EA. You will be responsible for design and illustration across a range of projects spanning brand development, animated demo videos, online advertising, content editorial design, branded swag design and much much more.</p>
+<p>
+Your responsibilities will include:</p>
+<ul>
+<li>
+Support App Annie&#39;s marketing team in San Francisco on a variety of brand and marketing collateral.</li>
+<li>
+Develop graphics for inclusion in many formats including: banner ads, animated demo videos, website landing and tour pages, booth designs, posters, VIP invitations, schwag and much more.</li>
+<li>
+Convert creative briefs into concepts and concepts into artwork and design. Own the creative process for US marketing materials.</li>
+<li>
+Report to App Annie&#39;s Global Director of Design in the Beijing office.</li>
+<li>
+Work with and assess App Annie&#39;s design and production vendors in the US including brand design, printing and web development shops.</li>
+</ul>
+<p>
+<br />
+<strong>You </strong></p>
+<p>
+<br />
+You&#39;ll have a sharp eye for detail, layout and typography but be cool, calm and collected under pressure to deliver all work to deadlines. You are excited about working with a high caliber team in an international work environment and contributing to a top-tier global startup.</p>
+<ul>
+<li>
+2-4 years work experience in a design role within a fast-paced environment</li>
+<li>
+Solid educational background in a design or art-related field</li>
+<li>
+Master of Adobe - especially InDesign, Photoshop and Illustrator</li>
+<li>
+Strong competency to both select the right typography and convey clear messaging through design and visuals</li>
+<li>
+A thorough and diligent worker with a laser-sharp eye on design</li>
+<li>
+Structured, punctual and efficient in the way you accomplish tasks in detail</li>
+<li>
+Able to work well in diverse environments with a cross functional team</li>
+<li>
+Capable of applying a high degree of mastery in the use of a variety of media with dynamic layouts in the preparation of roughs, sketches, comprehensives and complete finished art work for publications</li>
+<li>
+Business fluent English language ability</li>
+<li>
+Provide a portfolio including both online and/or offline designs to showcase your excellent creative talent</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/GlYj0r"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130528070536_YRLJWYZUDWFNVJRH]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[UI/UX Design Intern]]></title>
+			<department><![CDATA[Internships]]></department>
+			<team><![CDATA[Engineering-UI/UX]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/a2hmyx/UIUX-Design-Intern.html]]></url>
+			<city><![CDATA[Beijing]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[China]]></country>
+			<postalcode><![CDATA[100027]]></postalcode>
+			<description><![CDATA[<ul>
+<li>
+<strong>The Role</strong></li>
+</ul>
+<p>
+<br />
+App Annie is looking for an enthusiastic postgraduate or undergraduate student. We are the industry leader in app store analytics and market intelligence with clients that include Microsoft, Google and EA. You will have an important role in internationalizing App Annie research, reports, content marketing and product marketing for a global audience of developers, investors, ad agencies and media companies. This is a unique opportunity to get in on the ground floor of a top tier, international mobile startup.</p>
+<p>
+Responsibilities include:</p>
+<ul>
+<li>
+Compose specification for the design components and make a good track</li>
+<li>
+Create detailed mockup for each development logic</li>
+<li>
+Assist in brainstorming concepts for upcoming projects</li>
+<li>
+Turn ideas into elegant usable web interfaces</li>
+<li>
+Other duties as assigned</li>
+</ul>
+<p>
+<strong>You</strong></p>
+<ul>
+<li>
+Available as a full-time (40+ hours/week) or half-time (20+ hours/week) position in our Sanlitun offices (Local to Beijing preferred. Relocation not offered)</li>
+<li>
+Technical requirements include:
+<ul>
+<li>
+&nbsp;&nbsp; Experience with Adobe Fireworks, Adobe Illustrator</li>
+<li>
+&nbsp; &nbsp;Experience with HTML and CSS,</li>
+<li>
+&nbsp; &nbsp;Know JavaScript, jQuery is a plus</li>
+</ul>
+</li>
+<li>
+You are an organizational guru and excellent multi-tasker.</li>
+<li>
+You are structured, punctual and efficient in the way you complete projects and tasks.</li>
+<li>
+Able to handle deadlines and work well in diverse environments</li>
+<li>
+Good level of English to communicate in an international environment</li>
+</ul>
+]]></description>
+			<type><![CDATA[Internship to Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/a2hmyx"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130617031430_R31CPLZR1QGHUFVQ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Director of Engineering, San Francisco]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering-All]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/Bc8j3a/Director-Of-Engineering-San-Francisco.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[W1]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role</strong><br />
+We are looking for an experienced Director of engineering to lead product development for a thriving international start-up. You&rsquo;ll be taking the success of the world&rsquo;s #1 app store analytics product suite and utilizing that know-how to build a completely new line of products to serve the international app publisher ecosystem. You&rsquo;ll be responsible for an innovative analytics platform that has the potential to impact the economics of the global app publisher ecosystem. You will work with cross-functional teams (Engineering, Operations, Marketing and Sales) to define and implement the product. In addition you will contribute to the high level strategy for product solutions and lead product enhancements through the entire lifecycle.</p>
+<p>
+Your responsibilities will include:</p>
+<ul>
+<li>
+Leading a team through the design, development and product launch using Agile methodology</li>
+<li>
+Developing an extremely thorough product design spec and detailed prioritized product development roadmap in collaboration with the Product Manager</li>
+<li>
+Liaising with Product Managers and&nbsp;the&nbsp;Marketing team</li>
+<li>
+Providing platform support including troubleshooting, root cause analysis, and problem resolution</li>
+<li>
+Interfacing with internal/external partners to ensure successful platform delivery</li>
+<li>
+Understanding the international app publisher ecosystem</li>
+</ul>
+<p>
+<strong>You</strong><br />
+You should be an experienced Director of Engineering who has international experience and a strong technical background:</p>
+<ul>
+<li>
+8 years plus working experience, including at least 3 years in a Director of Engineering role (Big&nbsp;web site, SaaS platform)</li>
+<li>
+Strong skills in requirements gathering and formulating a development plan</li>
+<li>
+Strong general technical background and&nbsp;particularly in
+<ul>
+<li>
+Distributed architecture</li>
+<li>
+Large scale data and DB</li>
+<li>
+Web development</li>
+</ul>
+</li>
+<li>
+Experience in Mobile apps development is a big plus</li>
+<li>
+Experienced in Linux working environment</li>
+<li>
+Passion for mobile apps, advertising and analytics</li>
+<li>
+Excellent written and communication skills</li>
+<li>
+Fluent English a must</li>
+<li>
+Should be excited about exponential growth opportunities at a successful start-up</li>
+<li>
+BS or higher degree in Computer Science or related discipline required</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Senior Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/Bc8j3a"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130701023101_LPOSXOF0SDFWP5QK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Data Collection Intern]]></title>
+			<department><![CDATA[Internships]]></department>
+			<team><![CDATA[Product Magt]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/4pBOKr/Data-Collection-Intern.html]]></url>
+			<city><![CDATA[Beijing]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[China]]></country>
+			<postalcode><![CDATA[100027]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role</strong></p>
+<p>
+App Annie is looking for an energetic and fun internationally-minded undergraduate for a paid internship. We are the industry leader in app store analytics and market intelligence with clients that include Microsoft, Baidu, EA and more.</p>
+<p>
+You will have an important role in building a fast-growing global startup, reporting directly to the Senior Product Manager.</p>
+<p>
+Your responsibilities will to&nbsp;help us collect and verify information on apps.&nbsp;We need someone dependable with great English skills.&nbsp;</p>
+<p>
+<strong>You</strong></p>
+<p>
+You are an extremely extroverted, organized and personable individual who is passionate about working with a high caliber team in an international startup environment. Your energy should be infectious and your interest in technology and marketing ample.</p>
+<ul>
+<li>
+Available as a full-time (40+ hours/week) position in our Sanlitun offices (Local in Beijing, relocation not offered.)</li>
+<li>
+A self-starter who identifies and solves problems before anyone has noticed.</li>
+<li>
+You are an organizational guru and excellent multi-tasker.</li>
+<li>
+You are structured, punctual and efficient in the way you complete projects and tasks.</li>
+<li>
+Need to read and write english fluently.</li>
+<li>
+Can be a recent graduate or even still finishing school</li>
+<li>
+Should be reliable and hardworking</li>
+<li>
+Familiar with Microsoft Excel is a puls&nbsp;</li>
+</ul>
+<p>
+App Annie is a great place to work and learn and we look forward to your application.</p>
+]]></description>
+			<type><![CDATA[Internship to Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/4pBOKr"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130627094334_DWXK1ODKITUNSUPM]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Junior IT Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering-All]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/lAXlvO/Junior-IT-Engineer.html]]></url>
+			<city><![CDATA[Beijing]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[China]]></country>
+			<postalcode><![CDATA[100026]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role</strong><br />
+This will be a great position for someone that loves IT, is self-motivated and enjoys collaborating with departments to enhance productivity and operations. As the secondary IT professional in the company you will be responsible for managing the current infrastructure, developing solutions to a variety of problems as well as take care about the purchases and the setup of hardware equipment. This is great opportunity to get experience building up the IT infrastructure of a fast-growing startup.</p>
+<p>
+Your responsibilities will include:</p>
+<ul>
+<li>
+Maintaining, with a very high availability and quality, the network infrastructure including WAN, LAN, Internet access, VPN and proxies</li>
+<li>
+Performing&nbsp;necessary troubleshooting, diagnostic, research, evaluation and documentation of various WAN/LAN/VoIP and data communications issues and solutions</li>
+<li>
+Configuring&nbsp;maintain and administrate servers: development and production machines (Linux and possibly Windows)</li>
+<li>
+Ensuring&nbsp;compliance with data security policies and procedures relative to all network systems</li>
+<li>
+Coordinating&nbsp;with service providers in scheduling preventive maintenance, upgrades and repair and maintains records</li>
+<li>
+Making IT material purchases and configuration: laptops, servers, software and services</li>
+<li>
+Setting up hardware&nbsp;and troubleshooting (Mac, Linux)</li>
+</ul>
+<p>
+<strong>You</strong><br />
+You should have a good experience in the IT related field and be ready to take the responsibility of managing this important part of App Annie.</p>
+<ul>
+<li>
+2+ years experience in network and system engineering position</li>
+<li>
+Good knowledge of Linux is a plus (Ubuntu)</li>
+<li>
+Skilled in MacOS and Windows platform</li>
+<li>
+Experience managing vendor relationships</li>
+<li>
+Skilled in configuring Routers, Switches and Firewalls,&nbsp;NAT,&nbsp;VPN and Proxy</li>
+<li>
+Experience in Database administration (PostgreSQL) is a plus</li>
+<li>
+Good level of English written and spoken</li>
+<li>
+Bachelor&#39;s degree in Computer Science, Information Management Systems, or equivalent experience</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/lAXlvO"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130628032123_HL4FWNF4562CK2RU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Office Manager / Executive Assistant]]></title>
+			<department><![CDATA[HR]]></department>
+			<team><![CDATA[Others-back up account]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/8ww91G/Office-Manager-Executive-Assistant.html]]></url>
+			<city><![CDATA[Beijing]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[China]]></country>
+			<postalcode><![CDATA[100027]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role</strong><br />
+App Annie is the recognized market and thought leader for app store analytics, and has experienced extraordinary growth and success throughout our expansion across the world to offices in Beijing, Paris, San Francisco, London and Tokyo.</p>
+<p>
+We are looking for the right individual to organize and run our Beijing office while coordinating senior executives&rsquo; international travel and appointment schedules. With 70+ employees and a diverse mix of nationalities (50% Chinese, 50% foreign) this is a truly international office, and your role will be to create and maintain an ideal a working environment as possible for this diverse group of people.</p>
+<p>
+<strong>Responsibilities&nbsp;</strong></p>
+<ul>
+<li>
+Manage all administrative tasks of the Beijing office</li>
+<li>
+Ensure all aspects of office is run smoothly and efficiently</li>
+<li>
+Help create optimum working environment for large (70+) international office</li>
+<li>
+Keep office kitchen supplied with everything people want, while removing items that aren&rsquo;t popular</li>
+<li>
+Handle scheduling of appointments and visitors to the office</li>
+<li>
+Create and maintain database for the tracking of all office supplies and requirements</li>
+<li>
+Manage and maintain schedules, appointments and travel arrangements of senior executives</li>
+<li>
+Receive and greet incoming visitors</li>
+<li>
+Pick up and coordinate project-based work</li>
+</ul>
+<p>
+<strong>You</strong></p>
+<ul>
+<li>
+2-4 years experience as an office manager desired</li>
+<li>
+Experience as an executive assistant highly preferred</li>
+<li>
+Experience working in an international environment</li>
+<li>
+Must be detail oriented and good with people</li>
+<li>
+Excellent administrative, organisational, time-management and follow up skills</li>
+<li>
+Confident to the point of bossy, able to dictate how things should be done, proactively solve problems and come to management with feedback on inefficiencies in the current system</li>
+<li>
+Must be able to multi-task and work efficiently independently with little supervision</li>
+<li>
+Technology proficient, comfortable using Mac OS and MS Office Suite tools such as Mail, Excel and Word</li>
+<li>
+Excellent verbal and written communication skills</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/8ww91G"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130628081559_2OYFUWIYM4V7GTFS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Dictionary Analyst]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering-Data]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/ylpjTR/Dictionary-Analyst.html]]></url>
+			<city><![CDATA[Beijing]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[China]]></country>
+			<postalcode><![CDATA[100027]]></postalcode>
+			<description><![CDATA[<p>
+&nbsp;</p>
+<p>
+<strong>The Role</strong></p>
+<p>
+We&#39;re looking for a motivated individual to work on our Dictionary team managing and improving our current proprietary app classification system.</p>
+<p>
+Your responsibilities will include:</p>
+<ul>
+<li>
+Lead and enhance the current processes implemented to maintain our app taxonomy system.</li>
+<li>
+Cooperate with product managers to adapt our dictionary to support our new products and requirements.</li>
+<li>
+Set in place processes and systems to ensure the quality of the data, from the obtention from the source to the delivery to our customers.</li>
+<li>
+Research on public / private databases or data other sources, as well as vendors and partners to up to date and with the highest quality standards.</li>
+<li>
+Gather user feedback in order to improve the accuracy of the taxonomy data.</li>
+</ul>
+<p>
+<strong>You</strong></p>
+<ul>
+<li>
+You have excellent research skills.&nbsp; You are resourceful and can find information on your own.&nbsp; You are strong at gathering, organizing, and classifying data.&nbsp; You bring structure and discipline to your projects.</li>
+<li>
+You have a passion for the app, mobile, and technology spaces and have a keen desire to learn more.</li>
+<li>
+You pay close attention to detail and produce accurate, reliable work.</li>
+<li>
+You manage projects, tasks and people in a timely and efficient manner.&nbsp; You can manage competing priorities and overlapping projects with the resources you have.&nbsp; You are results-oriented and do what it takes to get things done.</li>
+<li>
+You are a motivated self-starter who can work independently, as well as collaborate with team members.&nbsp; You identify and solve problems proactively rather than waiting to be asked to do so.&nbsp; You show initiative in improving systems and processes.</li>
+<li>
+You want to work with a high-caliber team at a fast-paced, demanding, entrepreneurial startup where you can grow exponentially and have a big impact on the company&rsquo;s success.</li>
+<li>
+You have the energy and flexibility to work with colleagues across App Annie&rsquo;s international North America, Asia, and Europe offices as needed.</li>
+<li>
+You have solid Excel skills (e.g. VLOOKUP, pivot tables).</li>
+<li>
+You are fluent in English.&nbsp; (Fluency in Korean, Russian, Chinese, or Japanese is a plus, but certainly not required).</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/ylpjTR"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130628093511_KADLCVS7SSCMIPAH]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Director of Product Marketing]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[Others-back up account]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/sdgGeY/Director-Of-Product-Marketing.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94108]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role</strong><br />
+We are looking for a product marketing guru to take the lead on educating the wider app industry on App Annie&#39;s app store data product suite. From analytics to market data, and from free to ultra premium, you&#39;ll be tasked with communicating App Annie&#39;s product leadership across a variety of vertical audiences - app publishers, platforms, mobile telecom, investors, advertising, media companies and much more. One in five apps on the App Store are powered by App Annie Analytics, and 11 of the Top 15 iOS publishers by revenue use App Annie Intelligence. Your goal is to drive that growth even further across a broader audience so that everyone in Silicon Valley, Hollywood, Wall Street and Madison Avenue is using App Annie&#39;s analytics and market data products. And then we have the rest of the world.</p>
+<p>
+You&#39;ll be responsible for all new feature, product and platform launches. And you&#39;ll be the creative force behind all product marketing campaigns. You will drive product marketing, oversee the online marketing team and be the key liaison with product managers, helping them convert their innovative product features into simple and clear user value propositions that resonate with a variety of customer audiences. And you&#39;ll be tasked with maintaining product leadership for App Annie across its entire suite, whilst converting that into exponential user and revenue growth through well-designed online marketing programs.</p>
+<p>
+Your responsibilities will include:</p>
+<ul>
+<li>
+Oversee, lead and drive global product&nbsp;and online marketing initiatives across the company</li>
+<li>
+Develop a deep understanding of App Annie&#39;s current product and its future product roadmap</li>
+<li>
+Develop product value proposition for multiple vertical audiences, driving segmented product marketing that targets everyone from indie app publishers to large media conglomerates.</li>
+<li>
+Work with the marketing team to design strong product marketing infrastructure including landing pages, interactive content, user guides, brochures etc.</li>
+<li>
+Work with product management to design and develop well-segmented and sequenced product launch and go-to-market strategies</li>
+<li>
+Develop innovative and high impact campaigns that drive user adoption and virality</li>
+<li>
+Work with user acquisition manager to drive user and customer growth across industry and regional verticals. Analyze campaign effectiveness and ROI through analytics tools.</li>
+<li>
+Develop strong relationships with industry partners, leveraging co-marketing initiatives and product partnerships</li>
+<li>
+Understand market dynamics and user reaction to our products with a view to informing product roadmap and communications</li>
+</ul>
+<p>
+<strong>You</strong><br />
+The ideal candidate combines a deep level of product marketing experience in technology with a passion for the apps industry and the analytics products that drive it.</p>
+<ul>
+<li>
+5-7&nbsp;years&#39; experience in a product marketing, online marketing and/or brand marketing role, preferably in an internet company.</li>
+<li>
+Disciplined, well-organized and efficient &ndash; you have a detailed and methodical approach to every project</li>
+<li>
+Demonstrated analytical skills and ability to develop strategy, business plans, customer segmentation&nbsp;and market insights.</li>
+<li>
+Excellent writing skills - you write clearly and credibly and can turn complex features into simple value propositions.</li>
+<li>
+Passion for analytics and apps. You recognize the importance of data behind every commercial decision, and you understand where the growth of apps and digital content is going to come.</li>
+<li>
+Excellent Powerpoint and Excel capabilities; familiar with a number of analytics tools</li>
+<li>
+Fluent written and spoken English (we work in an international work environment); Mandarin Chinese a plus.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Senior Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/sdgGeY"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130701081300_DHRAK5IZWXWSH0MW]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Recruitment Coordinator]]></title>
+			<department><![CDATA[HR]]></department>
+			<team><![CDATA[HR]]></team>
+			<url><![CDATA[http://appannie.theresumator.com/apply/ZL4PVs/Recruitment-Coordinator.html]]></url>
+			<city><![CDATA[Beijing]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[China]]></country>
+			<postalcode><![CDATA[100026]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role&nbsp;&nbsp;</strong></p>
+<p>
+App Annie is looking for a motivated, energetic and fun internationally-minded recruitment coordinator. We are the industry leader in app store analytics and market intelligence with clients that include Zynga, Microsoft, and EA. We have offices in Beijing, San Francisco, London, Tokyo, and Hong Kong and are growing at an exponential pace. You will have an important role in building a fast-growing global start up.&nbsp;</p>
+<p>
+Your responsibilities will include:&nbsp;</p>
+<ul>
+<li>
+Coordinate interviews across global offices</li>
+<li>
+Greet candidates upon arrival, and set up interviews</li>
+<li>
+Follow up the interviews</li>
+<li>
+Liaise between candidates, headhunters and hiring managers</li>
+<li>
+Support Senior Recruiter&rsquo;s work</li>
+<li>
+Support full circle work, projects, events that related to recruitment</li>
+</ul>
+<p>
+<strong>You&nbsp;</strong></p>
+<ul>
+<li>
+Organized, detail-oriented self-starter and quick learner.</li>
+<li>
+Excellent communication skills.</li>
+<li>
+Good time/task management skills, and are able to work under pressure and meet deadlines.</li>
+<li>
+Ability to assume full responsibility for tasks with limited supervision.</li>
+<li>
+Excited and comfortable to work with a high caliber team in an international setting and contribute to an aggressively expanding Internet start-up.&nbsp;</li>
+<li>
+A patient, likable, extroverted character.</li>
+<li>
+Proficiency in Microsoft Office applications and a quick learner of new software.</li>
+<li>
+Fluency in oral and written English/Chinese.</li>
+<li>
+No direct or related experience required (You will have a buddy in the first few weeks to help you learn the ropes).</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appannie/ZL4PVs"></script>]]></buttons>
+		</job>
+	</jobs>

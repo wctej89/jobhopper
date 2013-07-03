@@ -1,0 +1,692 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Voxer]]></company>
+			<job>
+			<id><![CDATA[job_20120210191006_3BSXCJAQN5FDOHJ1]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Server Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Server]]></team>
+			<url><![CDATA[http://voxer.theresumator.com/apply/zfpjQ9/Server-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94102]]></postalcode>
+			<description><![CDATA[<p>
+Voxer is the fastest growing voice application in the world and we need your help to keep growing. We are solving hard problems at massive scale using Node.js, Riak, Redis and running in the Joyent Cloud. If you like writing simple, elegant, high-performance code and building large, scalable servers, then we&rsquo;d like to talk to you.</p>
+<p>
+Responsibilities</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Lead the design and development of our server applications</li>
+<li>
+&nbsp;&nbsp;&nbsp; Scale and monitor busy Node.js clusters</li>
+<li>
+&nbsp;&nbsp;&nbsp; Work closely with the core Node and DTrace teams (we&#39;re on Joyent and that&#39;s where they work), as well as Basho and Redis core teams</li>
+<li>
+&nbsp;&nbsp;&nbsp; Write code that touches millions of users every day</li>
+</ul>
+<p>
+Qualifications</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Some formal education in Computer Science or equivalent, but the exact degree or number of years of professional experience you have isn&#39;t as important as your enthusiasm and ability</li>
+<li>
+&nbsp;&nbsp;&nbsp; A generalist with experience with many parts of the server software / hardware stack</li>
+<li>
+&nbsp;&nbsp;&nbsp; Experience with Node.js, Riak, and Redis is very helpful. We depend on these technologies every day.</li>
+<li>
+&nbsp;&nbsp;&nbsp; Ability to pick up new technologies quickly</li>
+</ul>
+<p>
+Pluses</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Experience with DTrace, Hadoop or Splunk is a plus.&nbsp; We are starting to incorporate these technologies into our operation.</li>
+</ul>
+<p>
+If you have a Github account, please submit it with your application.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/voxer/zfpjQ9"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120407010047_YGQ1QOKY3P5TYEVV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Big Data Software Engineer]]></title>
+			<department><![CDATA[Data & Analytics]]></department>
+			<team><![CDATA[Analytics]]></team>
+			<url><![CDATA[http://voxer.theresumator.com/apply/XkSYAk/Big-Data-Software-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94102]]></postalcode>
+			<description><![CDATA[<p>
+Voxer is now the fastest growing voice application in the world and we need your help to keep growing. We are solving really hard problems at massive scale with Node.js, Riak, Redis and run on Joyent Cloud. We are generating a lot of data in the process - more than 25 billion events every day. Hidden inside this mountain of data are crucial insights into how to make our users happier, make our service better, and keep our operating costs down. We just jumped into the Hadoop ecosystem and are running our own cluster, which processes terabytes of data. If you love working on these kinds of problems, get in touch and maybe we can figure them out together.</p>
+<p>
+Responsibilities</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Contribute to the design and development of Voxer&rsquo;s big data pipeline</li>
+<li>
+&nbsp;&nbsp;&nbsp; Scale and develop our Hadoop cluster</li>
+<li>
+&nbsp;&nbsp;&nbsp; Collaborate with our engineering and product teams to help us better visualize core growth and engagement drivers</li>
+</ul>
+<p>
+Qualifications</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Some formal education in Computer Science or equivalent, but the exact degree or number of years of professional experience you have isn&#39;t as important as your enthusiasm and ability.</li>
+<li>
+&nbsp;&nbsp;&nbsp; Experience with Hadoop</li>
+<li>
+&nbsp;&nbsp;&nbsp; Experience working with Hive, Pig or Hbase</li>
+<li>
+&nbsp;&nbsp;&nbsp; A genuine curiosity about data</li>
+<li>
+&nbsp;&nbsp;&nbsp; Experience with large data stores</li>
+<li>
+&nbsp;&nbsp;&nbsp; Thorough understanding of statistical analysis and the ability to communicate the results of your analyses and put your findings in a product perspective</li>
+</ul>
+<p>
+Pluses</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Experience with Javascript, JSON, Riak, and Redis</li>
+</ul>
+<p>
+If you have a Github account - please submit it with your application.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/voxer/XkSYAk"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120420230205_PLPNGDVRTPJPN9WY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[General Applications]]></title>
+			<department><![CDATA[General Applications]]></department>
+			<team><![CDATA[Voxer]]></team>
+			<url><![CDATA[http://voxer.theresumator.com/apply/9BhF9K/General-Applications.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94102]]></postalcode>
+			<description><![CDATA[<p>
+Although we&#39;re primarily focused on hiring engineers right now, we don&#39;t want to discourage other candidates to apply, even if you&#39;re not suitable for any of the roles we currently have listed. &nbsp;Please feel free to submit a general application, but specify very clearly what you&#39;re looking to work on. &nbsp;We&#39;d love to hear from you!</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Voxer</strong></p>
+<p>
+Voxer is more than just a walkie-talkie app, it is one of the most used Push-to-Talk and messaging applications in the world. Voxer iOS and Android apps allow tens of millions of users across the world to communicate instantly. We&#39;re making voice and multimedia communication faster, more efficient, and more social. Our goal is ambitious - we&#39;re building the next generation communication voice service at the intersection between PTT, phone calls, SMS, conference calls, and multimedia messaging.</p>
+<p>
+It&#39;s no small feat to achieve, to keep one of the world&#39;s fastest growing voice applications humming along and growing at a phenomenal pace. But we are 50 dedicated individuals who are putting some of the most exciting technology in the world to work right now - we are the world&#39;s largest Node.js site, and we also run one of the largest Riak clusters in the world.</p>
+<p>
+We are dedicated and solely focused on building the next generation of communication. The problems we&#39;re facing are at a scale only seen at companies like Twitter and Facebook and we&#39;re looking for exceptional people who can help us tackle them.</p>
+<p>
+We closed our first outside round of funding last spring, and our brand new offices are right off Market Street in San Francisco. There&#39;s tons of restaurants and shopping nearby at Westfield and Union Square to spend your hard earned cash on, and if you&#39;re a musician there&#39;s a few outside on the street that we wouldn&#39;t mind you teaching a few new songs to. There are plenty of MUNI lines right outside, BART is a block away, plus the Ferry to Oakland and Marin is a pleasant fifteen minute stroll or five minute bus ride away.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/voxer/9BhF9K"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130206202147_OPYFXGEPOLQZ4DHY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front End Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Web]]></team>
+			<url><![CDATA[http://voxer.theresumator.com/apply/Tgq6jw/Front-End-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94102]]></postalcode>
+			<description><![CDATA[<p>
+Voxer is the fastest growing voice application in the world. We began our journey as a mobile app company, but now we are taking on a new challenge of conquering the web. We started with web sharing and have been hard at work on a full-featured browser client of Voxer.&nbsp; We&#39;re looking for someone to help us wrangle the intricacies of cross-browser compatibility and work with different technologies to get those Voxes flowing in and out in a reliable way for our users. We&#39;re excited to see where the web takes us, and we&#39;d love to have you guide us there.</p>
+<p>
+Responsibilities</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Design and develop Voxer&rsquo;s first ever web client using JavaScript, CSS3, HTML5, and other cutting-edge front-end technologies</li>
+<li>
+&nbsp;&nbsp;&nbsp; Collaborate with our product and engineering team to create high-performance, captivating user experiences</li>
+<li>
+&nbsp;&nbsp;&nbsp; Implement new user interfaces and features to battle browser inconsistencies</li>
+<li>
+&nbsp;&nbsp;&nbsp; Be the go-to person for all things web!</li>
+</ul>
+<p>
+Qualifications</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; In-depth knowledge of HTML/5 and CSS/3</li>
+<li>
+&nbsp;&nbsp;&nbsp; Excellent JavaScript background including experience with Backbone.js, jQuery, AMD, Require.js, and Socket.io</li>
+<li>
+&nbsp;&nbsp;&nbsp; Background in developing rich user interfaces for web applications (single page apps)</li>
+<li>
+&nbsp;&nbsp;&nbsp; Experience with client-side testing using tools like Selenium, Jasmine, and Phantom.js</li>
+<li>
+&nbsp;&nbsp;&nbsp; Appreciation for web standards and clean, simple code</li>
+<li>
+&nbsp;&nbsp;&nbsp; Attention to accessibility and cross-browser consistency. The latter is particularly important for our business products&mdash;we strive to support as many browsers as possible.</li>
+</ul>
+<p>
+Pluses</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Experience with Node.js</li>
+<li>
+&nbsp;&nbsp;&nbsp; UI/UX experience</li>
+<li>
+&nbsp;&nbsp;&nbsp; Experience with a templating language, such as Mustache, EJS, and Eco</li>
+<li>
+&nbsp;&nbsp;&nbsp; Previous work with / developing RESTful web services</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/voxer/Tgq6jw"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130320035318_EWQMQPTHYY53KEVK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Site Reliability Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[SRE]]></team>
+			<url><![CDATA[http://voxer.theresumator.com/apply/FYipsd/Site-Reliability-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94102]]></postalcode>
+			<description><![CDATA[<p>
+Voxer is the fastest growing voice application in the world and we need your help to keep growing. We are solving really hard problems at massive scale with Node.js, Riak, Redis and run on Joyent Cloud. We&#39;re looking for a Site Reliability Engineer (SRE) to join our team to not only help us keep our services running, but running well.&nbsp; We&#39;ve got hundreds of servers and thousands of processes, a sophisticated metrics system taking in billions of data points a day, and some novel approaches to how things should scale.&nbsp; The ideal candidate is meticulous, detail oriented, yet understands the intricacies of large-scale systems from both a hardware and software perspective.</p>
+<p>
+Responsibilities</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Build highly scalable and stable systems to support our production environment</li>
+<li>
+&nbsp;&nbsp;&nbsp; Scale and monitor busy Node.js clusters with HTTP and JSON</li>
+<li>
+&nbsp;&nbsp;&nbsp; Work closely with the core Node and DTrace teams (we&#39;re on Joyent and that&#39;s where they work), as well as Basho and Redis core teams</li>
+</ul>
+<p>
+Qualifications</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Some formal education in Computer Science or equivalent, but the exact degree or number of years of professional experience you have isn&#39;t as important as your enthusiasm and ability.</li>
+<li>
+&nbsp;&nbsp;&nbsp; Experience with Node.js, Riak, and Redis is very helpful. We depend on these technologies every day.</li>
+<li>
+&nbsp;&nbsp;&nbsp; Experience with DTrace, Hadoop, Smart OS or Splunk is a plus.</li>
+<li>
+&nbsp;&nbsp;&nbsp; Experience with many parts of the server software/hardware stack with a keen understanding of how software and hardware work together</li>
+<li>
+&nbsp;&nbsp;&nbsp; Excellent networking knowledge and internal systems knowledge</li>
+<li>
+&nbsp;&nbsp;&nbsp; Ability to measure and act on system behavior to diagnose any issues</li>
+<li>
+&nbsp;&nbsp;&nbsp; Meticulous attention to detail</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/voxer/FYipsd"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130403162431_P6KGYJOEXLKWAMLZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Build/Release Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Release]]></team>
+			<url><![CDATA[http://voxer.theresumator.com/apply/fI6ceV/BuildRelease-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94102]]></postalcode>
+			<description><![CDATA[<p>
+Voxer is the fastest growing voice application in the world and we need your help to keep growing. We are solving really hard problems at massive scale with Node.js, Riak, Redis and run on Joyent Cloud. The Build/Release Engineer role is mission critical.&nbsp; We have millions of users and businesses that rely on Voxer every single day and this is a chance to build and improve our deployment process so that things get out the door quickly and safely. We&#39;re looking for a talented and highly motivated Build and Release Engineer with a strong focus on designing systems to build, package, and deploy software to millions of users.</p>
+<p>
+Responsibilities</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Design and develop from the early stages an automated build pipeline</li>
+<li>
+&nbsp;&nbsp;&nbsp; Improve speed, efficiency, and scalability of the build system</li>
+<li>
+&nbsp;&nbsp;&nbsp; Deploy code that touches millions of users every day across hundreds of servers</li>
+<li>
+&nbsp;&nbsp;&nbsp; Manage builds in different environments including Node.js, Web, Android, and iOS</li>
+</ul>
+<p>
+Qualifications</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Generalist with experience with many parts of the server software</li>
+<li>
+&nbsp;&nbsp;&nbsp; Superior scripting skills in Linux or Solaris platforms (we use SmartOS)</li>
+<li>
+&nbsp;&nbsp;&nbsp; Experience working on / building an end-to-end Continuous Integration Solution</li>
+<li>
+&nbsp;&nbsp;&nbsp; Good knowledge of Jenkins / Hudson</li>
+<li>
+&nbsp;&nbsp;&nbsp; Meticulous attention to detail</li>
+</ul>
+<p>
+Pluses</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Familiarity with Chef or other configuration management tools</li>
+<li>
+&nbsp;&nbsp;&nbsp; Experience with automated builds for Android and iOS</li>
+<li>
+&nbsp;&nbsp;&nbsp; Familiarity with Git</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/voxer/fI6ceV"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130415000249_RF9TUUFACXRCXSQ7]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[iOS Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[iOS]]></team>
+			<url><![CDATA[http://voxer.theresumator.com/apply/lLPPOo/IOS-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94102]]></postalcode>
+			<description><![CDATA[<p>
+We are looking for an iOS engineer to contribute towards making our app even better. You will be responsible for defining and implementing new features, improving performance, and ensuring an easy-to-use, silky-smooth and beautiful user interface. You will be working in a small team where your fantastic ideas and talents will be greatly impactful and recognized. If you chose iOS development not because it is a popular platform, but because it is a platform you love and want to code for, we want to talk to you!</p>
+<p>
+Responsibilities</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Architect and implement features for Voxer&rsquo;s iOS app</li>
+<li>
+&nbsp;&nbsp;&nbsp; Collaborate with our design and product team to bring their user experience designs to life</li>
+<li>
+&nbsp;&nbsp;&nbsp; Write code that touches millions of users every day</li>
+</ul>
+<p>
+Qualifications</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Thorough understanding of object-oriented programming concepts</li>
+<li>
+&nbsp;&nbsp;&nbsp; Familiarity with agile software development practices like Scrum or Kanban</li>
+<li>
+&nbsp;&nbsp;&nbsp; Extensive knowledge of Objective-C and the UIKit framework</li>
+<li>
+&nbsp;&nbsp;&nbsp; Basic understanding of C pointers, manual memory management (malloc and free) and pure C programing paradigms</li>
+<li>
+&nbsp;&nbsp;&nbsp; Have one or multiple apps in the App Store, either personal projects or apps worked on previously as a part of other companies</li>
+<li>
+&nbsp;&nbsp;&nbsp; Relentless attention to detail especially when designing UI elements and workflows</li>
+</ul>
+<p>
+Pluses</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Familiar with CFNetwork and/or ASIHTTPRequest beyond simple request/response handling</li>
+<li>
+&nbsp;&nbsp;&nbsp; Concurrent Core Data, especially the recent additions (parent/child contexts)</li>
+<li>
+&nbsp;&nbsp;&nbsp; GitHub/BitBucket account with examples of recent iOS related projects</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/voxer/lLPPOo"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130415000859_BDOIFTAFNITXIHE3]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Android Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Android]]></team>
+			<url><![CDATA[http://voxer.theresumator.com/apply/z65C6i/Android-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94102]]></postalcode>
+			<description><![CDATA[<p>
+Voxer is the fastest growing voice application in the world and we need your help to keep growing.&nbsp; We are looking for an Android engineer to contribute towards making our app even better. You will be responsible for defining and implementing new features, improving performance, and ensuring an easy-to-use, beautiful interface. If you like working on a small team so that your fantastic ideas and talents have more impact, and more recognition, then we want to meet you.</p>
+<p>
+Responsibilities</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Design and implement features for Voxer&rsquo;s Android app</li>
+<li>
+&nbsp;&nbsp;&nbsp; Collaborate with our design and product team to bring their user experience designs to life</li>
+<li>
+&nbsp;&nbsp;&nbsp; Write code that touches millions of users every day</li>
+</ul>
+<p>
+Qualifications</p>
+<ul>
+<li>
+&nbsp;&nbsp; Must have at least 2 years of experience with Android development, having a live application in Google Play is a plus</li>
+<li>
+&nbsp;&nbsp;&nbsp; Experience with Android JNI</li>
+<li>
+&nbsp;&nbsp;&nbsp; 3 years of Java/C++ experience</li>
+<li>
+&nbsp;&nbsp;&nbsp; Ability to define and build beautiful APIs</li>
+<li>
+&nbsp;&nbsp;&nbsp; Demonstrated knowledge of HTTP</li>
+<li>
+&nbsp;&nbsp;&nbsp; Must love JSON</li>
+</ul>
+<p>
+If you have a Github account - please submit it with your application.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/voxer/z65C6i"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130422232247_ETPSHDQHHH6VOWIC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[QA Automation Engineer]]></title>
+			<department><![CDATA[Quality Assurance]]></department>
+			<team><![CDATA[QA]]></team>
+			<url><![CDATA[http://voxer.theresumator.com/apply/xbzGsa/QA-Automation-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94102]]></postalcode>
+			<description><![CDATA[<p>
+Voxer is the fastest growing voice application in the world and we need your help to keep growing. We are looking for a Lead Automation Engineer who is obsessed with quality and has the experience to make a profound impact on raising the bar even higher. If this sounds like you, let&rsquo;s talk!</p>
+<p>
+Responsibilities</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Partner with product management and development teams to review and automate product features</li>
+<li>
+&nbsp;&nbsp;&nbsp; Develop tools and scripts to integrate automated tests into our continuous build environment</li>
+<li>
+&nbsp;&nbsp;&nbsp; Construct a large-scale regression suite and append new feature tests</li>
+<li>
+&nbsp;&nbsp;&nbsp; Design and build a reporting framework for automated test results</li>
+<li>
+&nbsp;&nbsp;&nbsp; Traverse the defect life-cycle from initial reporting through resolution and closure</li>
+</ul>
+<p>
+<br />
+Qualifications</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; 3+ years experience implementing, extending, and maintaining mobile client automation frameworks, preferably Robotium and UIAutomation</li>
+<li>
+&nbsp;&nbsp;&nbsp; Familiar with Eclipse and Xcode</li>
+<li>
+&nbsp;&nbsp;&nbsp; Experience automating Mobile UI and server-based API&#39;s</li>
+<li>
+&nbsp;&nbsp;&nbsp; In-depth knowledge of Continuous Integration testing with Jenkins</li>
+<li>
+&nbsp;&nbsp;&nbsp; Coding experience with Java and JavaScript</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/voxer/xbzGsa"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130530173135_IKDHPXVPLLUMG51H]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Android Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Android]]></team>
+			<url><![CDATA[http://voxer.theresumator.com/apply/nkg3Ms/Android-Engineer.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94032]]></postalcode>
+			<description><![CDATA[<p>
+Voxer is the fastest growing voice application in the world and we need your help to keep growing.&nbsp; We are looking for an Android engineer to contribute towards making our app even better. You will be responsible for defining and implementing new features, improving performance, and ensuring an easy-to-use, beautiful interface. If you like working on a small team so that your fantastic ideas and talents have more impact, and more recognition, then we want to meet you.</p>
+<p>
+Responsibilities</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Design and implement features for Voxer&rsquo;s Android app</li>
+<li>
+&nbsp;&nbsp;&nbsp; Collaborate with our design and product team to bring their user experience designs to life</li>
+<li>
+&nbsp;&nbsp;&nbsp; Write code that touches millions of users every day</li>
+</ul>
+<p>
+Qualifications</p>
+<ul>
+<li>
+&nbsp;&nbsp; Must have at least 2 years of experience with Android development, having a live application in Google Play is a plus</li>
+<li>
+&nbsp;&nbsp;&nbsp; Experience with Android JNI</li>
+<li>
+&nbsp;&nbsp;&nbsp; 3 years of Java/C++ experience</li>
+<li>
+&nbsp;&nbsp;&nbsp; Ability to define and build beautiful APIs</li>
+<li>
+&nbsp;&nbsp;&nbsp; Demonstrated knowledge of HTTP</li>
+<li>
+&nbsp;&nbsp;&nbsp; Must love JSON</li>
+</ul>
+<p>
+If you have a Github account - please submit it with your application.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/voxer/nkg3Ms"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130530173837_ISD4FC8NIMNUIMGS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[iOS Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[iOS]]></team>
+			<url><![CDATA[http://voxer.theresumator.com/apply/OW9qpR/IOS-Engineer.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94032]]></postalcode>
+			<description><![CDATA[<p>
+We are looking for an iOS engineer to contribute towards making our app even better. You will be responsible for defining and implementing new features, improving performance, and ensuring an easy-to-use, silky-smooth and beautiful user interface. You will be working in a small team where your fantastic ideas and talents will be greatly impactful and recognized. If you chose iOS development not because it is a popular platform, but because it is a platform you love and want to code for, we want to talk to you!</p>
+<p>
+Responsibilities</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Architect and implement features for Voxer&rsquo;s iOS app</li>
+<li>
+&nbsp;&nbsp;&nbsp; Collaborate with our design and product team to bring their user experience designs to life</li>
+<li>
+&nbsp;&nbsp;&nbsp; Write code that touches millions of users every day</li>
+</ul>
+<p>
+Qualifications</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Thorough understanding of object-oriented programming concepts</li>
+<li>
+&nbsp;&nbsp;&nbsp; Familiarity with agile software development practices like Scrum or Kanban</li>
+<li>
+&nbsp;&nbsp;&nbsp; Extensive knowledge of Objective-C and the UIKit framework</li>
+<li>
+&nbsp;&nbsp;&nbsp; Basic understanding of C pointers, manual memory management (malloc and free) and pure C programing paradigms</li>
+<li>
+&nbsp;&nbsp;&nbsp; Have one or multiple apps in the App Store, either personal projects or apps worked on previously as a part of other companies</li>
+<li>
+&nbsp;&nbsp;&nbsp; Relentless attention to detail especially when designing UI elements and workflows</li>
+</ul>
+<p>
+Pluses</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Familiar with CFNetwork and/or ASIHTTPRequest beyond simple request/response handling</li>
+<li>
+&nbsp;&nbsp;&nbsp; Concurrent Core Data, especially the recent additions (parent/child contexts)</li>
+<li>
+&nbsp;&nbsp;&nbsp; GitHub/BitBucket account with examples of recent iOS related projects</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/voxer/OW9qpR"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130530174137_E2T2NMEXVWFSV9PC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Server Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Server]]></team>
+			<url><![CDATA[http://voxer.theresumator.com/apply/1XWVCB/Server-Engineer.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94032]]></postalcode>
+			<description><![CDATA[<p>
+Voxer is the fastest growing voice application in the world and we need your help to keep growing. We are solving hard problems at massive scale using Node.js, Riak, Redis and running in the Joyent Cloud. If you like writing simple, elegant, high-performance code and building large, scalable servers, then we&rsquo;d like to talk to you.</p>
+<p>
+Responsibilities</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Lead the design and development of our server applications</li>
+<li>
+&nbsp;&nbsp;&nbsp; Scale and monitor busy Node.js clusters</li>
+<li>
+&nbsp;&nbsp;&nbsp; Work closely with the core Node and DTrace teams (we&#39;re on Joyent and that&#39;s where they work), as well as Basho and Redis core teams</li>
+<li>
+&nbsp;&nbsp;&nbsp; Write code that touches millions of users every day</li>
+</ul>
+<p>
+Qualifications</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Some formal education in Computer Science or equivalent, but the exact degree or number of years of professional experience you have isn&#39;t as important as your enthusiasm and ability</li>
+<li>
+&nbsp;&nbsp;&nbsp; A generalist with experience with many parts of the server software / hardware stack</li>
+<li>
+&nbsp;&nbsp;&nbsp; Experience with Node.js, Riak, and Redis is very helpful. We depend on these technologies every day.</li>
+<li>
+&nbsp;&nbsp;&nbsp; Ability to pick up new technologies quickly</li>
+</ul>
+<p>
+Pluses</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Experience with DTrace, Hadoop or Splunk is a plus.&nbsp; We are starting to incorporate these technologies into our operation.</li>
+</ul>
+<p>
+If you have a Github account, please submit it with your application.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/voxer/1XWVCB"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130530174310_XIPAYGXYFYLGCEHQ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Site Reliability Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[SRE]]></team>
+			<url><![CDATA[http://voxer.theresumator.com/apply/VwymXW/Site-Reliability-Engineer.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94032]]></postalcode>
+			<description><![CDATA[<p>
+Voxer is the fastest growing voice application in the world and we need your help to keep growing. We are solving really hard problems at massive scale with Node.js, Riak, Redis and run on Joyent Cloud. We&#39;re looking for a Site Reliability Engineer (SRE) to join our team to not only help us keep our services running, but running well.&nbsp; We&#39;ve got hundreds of servers and thousands of processes, a sophisticated metrics system taking in billions of data points a day, and some novel approaches to how things should scale.&nbsp; The ideal candidate is meticulous, detail oriented, yet understands the intricacies of large-scale systems from both a hardware and software perspective.</p>
+<p>
+Responsibilities</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Build highly scalable and stable systems to support our production environment</li>
+<li>
+&nbsp;&nbsp;&nbsp; Scale and monitor busy Node.js clusters with HTTP and JSON</li>
+<li>
+&nbsp;&nbsp;&nbsp; Work closely with the core Node and DTrace teams (we&#39;re on Joyent and that&#39;s where they work), as well as Basho and Redis core teams</li>
+</ul>
+<p>
+Qualifications</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Some formal education in Computer Science or equivalent, but the exact degree or number of years of professional experience you have isn&#39;t as important as your enthusiasm and ability.</li>
+<li>
+&nbsp;&nbsp;&nbsp; Experience with Node.js, Riak, and Redis is very helpful. We depend on these technologies every day.</li>
+<li>
+&nbsp;&nbsp;&nbsp; Experience with DTrace, Hadoop, Smart OS or Splunk is a plus.</li>
+<li>
+&nbsp;&nbsp;&nbsp; Experience with many parts of the server software/hardware stack with a keen understanding of how software and hardware work together</li>
+<li>
+&nbsp;&nbsp;&nbsp; Excellent networking knowledge and internal systems knowledge</li>
+<li>
+&nbsp;&nbsp;&nbsp; Ability to measure and act on system behavior to diagnose any issues</li>
+<li>
+&nbsp;&nbsp;&nbsp; Meticulous attention to detail</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/voxer/VwymXW"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130530174357_IC8HXIQDBCDZZJ7U]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Big Data Software Engineer]]></title>
+			<department><![CDATA[Data & Analytics]]></department>
+			<team><![CDATA[Analytics]]></team>
+			<url><![CDATA[http://voxer.theresumator.com/apply/Tq2rgL/Big-Data-Software-Engineer.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94032]]></postalcode>
+			<description><![CDATA[<p>
+Voxer is now the fastest growing voice application in the world and we need your help to keep growing. We are solving really hard problems at massive scale with Node.js, Riak, Redis and run on Joyent Cloud. We are generating a lot of data in the process - more than 25 billion events every day. Hidden inside this mountain of data are crucial insights into how to make our users happier, make our service better, and keep our operating costs down. We just jumped into the Hadoop ecosystem and are running our own cluster, which processes terabytes of data. If you love working on these kinds of problems, get in touch and maybe we can figure them out together.</p>
+<p>
+Responsibilities</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Contribute to the design and development of Voxer&rsquo;s big data pipeline</li>
+<li>
+&nbsp;&nbsp;&nbsp; Scale and develop our Hadoop cluster</li>
+<li>
+&nbsp;&nbsp;&nbsp; Collaborate with our engineering and product teams to help us better visualize core growth and engagement drivers</li>
+</ul>
+<p>
+Qualifications</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Some formal education in Computer Science or equivalent, but the exact degree or number of years of professional experience you have isn&#39;t as important as your enthusiasm and ability.</li>
+<li>
+&nbsp;&nbsp;&nbsp; Experience with Hadoop</li>
+<li>
+&nbsp;&nbsp;&nbsp; Experience working with Hive, Pig or Hbase</li>
+<li>
+&nbsp;&nbsp;&nbsp; A genuine curiosity about data</li>
+<li>
+&nbsp;&nbsp;&nbsp; Experience with large data stores</li>
+<li>
+&nbsp;&nbsp;&nbsp; Thorough understanding of statistical analysis and the ability to communicate the results of your analyses and put your findings in a product perspective</li>
+</ul>
+<p>
+Pluses</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Experience with Javascript, JSON, Riak, and Redis</li>
+</ul>
+<p>
+If you have a Github account - please submit it with your application.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/voxer/Tq2rgL"></script>]]></buttons>
+		</job>
+	</jobs>

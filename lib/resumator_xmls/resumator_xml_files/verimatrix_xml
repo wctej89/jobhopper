@@ -1,0 +1,1099 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Verimatrix]]></company>
+			<job>
+			<id><![CDATA[job_20130116190823_7EYETMKSSEXKYAMR]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior QA Engineer]]></title>
+			<department><![CDATA[Quality Assurance]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://verimatrix.theresumator.com/apply/SWVvUv/Senior-QA-Engineer.html]]></url>
+			<city><![CDATA[San Diego]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[92121]]></postalcode>
+			<description><![CDATA[<p>
+Verimatrix is&nbsp;looking for <strong>Senior QA Engineers</strong>, committed to quality and professional excellence, who desire to lead and participate in the test effort of state-of-the-art Video Content Security products, in a fast-paced environment.</p>
+<p>
+<strong>ESSENTIAL DUTIES &amp; RESPONSIBILITIES</strong></p>
+<ul>
+<li>
+Estimate, design, and execute tests and accurately and concisely report both progress and defect status via Test Case and Defect Tracking databases, tracking issues to resolution.&nbsp; Test all product deliverables for professional work, including the product, installation of product, and User Documentation for product.</li>
+<li>
+Write and execute tests that verify internal API functions, user interface, and interoperability with between product modules.</li>
+<li>
+Lead assigned QA activities through entire development cycle (Requirements, Design, Test Development/Execution, and Verification &amp; Validation.) Review requirements, design, code, test cases, and other documentation for potential issues. Work with the development team, project management, and network operations to ensure that requirements are verifiable.</li>
+<li>
+Plan, size, and schedule testing activities accordingly.&nbsp; Develop Test Strategies and Master Test Plans.</li>
+<li>
+Set up networked (IP) equipment for video content security tests in Windows, Linux, and Solaris.</li>
+<li>
+Work with Development and Customer Care Departments to better characterize defects.</li>
+<li>
+Lead improvements to existing quality processes, including processes spanning multiple departments; lead the development of organization-wide quality plans.</li>
+<li>
+Lead and mentor others in all the above.</li>
+<li>
+Position may focus on Functional, System, Automation, or Performance Testing.</li>
+<li>
+Other duties may be assigned as needed by the Department.</li>
+</ul>
+<p>
+<strong>QUALIFICATION REQUIREMENTS</strong></p>
+<ul>
+<li>
+Bachelor&rsquo;s Degree in Computer Science, Mathematics, EE or similar field is required. Further professional certifications/professional growth achievements are a plus.</li>
+<li>
+5-7 years real world testing experience, three of which include leading projects.</li>
+<li>
+Excellent understanding of typical software engineering practices (Defect Tracking, Test Case Management, Lifecycle models.)&nbsp; Experience with Agile methods is a plus.</li>
+<li>
+Experience with Backend/Application Server Testing is essential. Tester-level proficiency in LinuxWinSolaris.</li>
+<li>
+Knowledge of network principles and of TCP/UDP/IP technology required.&nbsp; Previous experience testing internet video products is a plus.</li>
+<li>
+Understanding of Relational Databases and use of basic SQL commands.</li>
+<li>
+Excellent analytical skills.&nbsp; Root cause analysis in both software bugs and in processes.</li>
+<li>
+Experience in QA activities for unit, component, system, smoke, regression, and automated testing.&nbsp; Proven methodic approach to these is required (equivalence tests, boundary tests, state-transition, orthogonal arrays).</li>
+<li>
+Proven good scripting/coding skills. Understanding of Coding Concepts such as OOP.</li>
+<li>
+Excellent attention to detail and follow-through.</li>
+<li>
+Excellent ability to work independently, in team, and in leading a team.</li>
+<li>
+Personal Traits: Strong written, verbal, and presentation skills.&nbsp; Excellent interpersonal skills.&nbsp; Self-motivated and energetic team player.</li>
+</ul>
+<p>
+<strong>Each of the Following would be a Plus:</strong><br />
+&bull; Digital Rights Management<br />
+&bull; Experience in a security organization<br />
+&bull; JDBC<br />
+&bull; NoSQL<br />
+&bull; OCI<br />
+&bull; ODBC<br />
+&bull; Oracle certification<br />
+&bull; Server and application programming in Linux, OS X, or Windows<br />
+&bull; Service-oriented architecture<br />
+&bull; Video Conditional Access Systems<br />
+&bull; Video standards such as: DECE/UltraViolet, MPEG2/4, AVC, H.264, MPEG DASH, HTTP Live Streaming, PlayReady, Marlin and RTSP<br />
+&bull; Virtualization<br />
+&bull; Windows Media</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/verimatrix/SWVvUv"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130116191051_EL8AZJKL62IEYTZR]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sr. Global Services Engineer]]></title>
+			<department><![CDATA[Operations]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://verimatrix.theresumator.com/apply/iMUCeF/Sr-Global-Services-Engineer.html]]></url>
+			<city><![CDATA[San Diego]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[92121]]></postalcode>
+			<description><![CDATA[<p>
+A <strong>Senior Global Services Engineer</strong> at Verimatrix is that rare breed of being a blend of a highly-skilled engineer who also resolves the most complex and complicated technical issues while being customer-facing and helping other Global Services Engineers build expertise in Verimatrix&rsquo;s products and services.</p>
+<p>
+The Senior Global Services Engineers participate in the installation, configuration, acceptance testing, troubleshooting and maintenance of Verimatrix&rsquo;s content protection and security solutions for cable, satellite, IPTV and InternetTV operators worldwide. The Senior Global Services Engineer comes from a background in systems administration and/or network administration, and focuses on having a whole system view of how Verimatrix&rsquo;s products work within the larger ecosystem of off-the-shelf and custom solutions.&nbsp; A successful Senior Global Services Engineer will be proactive, interactive, creative, and flexible to anticipate questions and issues customers and partners may have, and provide that feedback into the Product Management, Engineering and Quality Assurance teams.&nbsp;</p>
+<p>
+We have several hundred customers in 96 countries, and appreciate people with global awareness and knowledge, so fluency in other languages is a bonus. Our team provides 24x7x365 support for customers and partners around the world. Our headquarters are located in San Diego, California with regional offices in Munich and Singapore.&nbsp;</p>
+<p>
+<strong>Some tasks the Senior Global Services Engineer will have include, but are not limited to:&nbsp;</strong></p>
+<p>
+&bull; Work with customers, partners, customer support, and other technical staff on the implementation design, configuration, optimization, migration, troubleshooting and ongoing maintenance for Verimatrix&rsquo;s products both on-site and remotely.<br />
+&bull; Identify potential customer-facing risks during planning and implementation phases.<br />
+&bull; Support customer and partner issues reported via Customer Care portal&nbsp; within contractual service level agreement periods.<br />
+&bull; Replicate, validate, coordinate and escalate issues to software development, quality assurance, and operations teams to resolve more complex customer installation and support issues.<br />
+&bull; Collaborate with the Product Management, Engineering and Quality Assurance teams to give systems administration perspective on how to improve Verimatrix&rsquo;s products.<br />
+&bull; Share technical knowledge and skills throughout the department and Company by creating knowledge base articles, best practices documentation and training materials.<br />
+&bull; Generate root cause analysis reports for critical and major customer issues that summarize the issue, the chronology of events leading to the fault, investigation and replication steps, corrective actions and verification steps that the issue was permanently corrected.<br />
+&bull; Proactively suggest changes to Verimatrix&rsquo;s products, processes or internal tools to improve efficiency.<br />
+&bull; Proactively make recommendations software platforms and tools company should evaluate, test against, etc.&nbsp;<br />
+&bull; Providing Level 2 and Level 3 troubleshooting for customer issues.<br />
+&bull; Available as part of a 24/7/365 global team via mobile, email and Skype to assist with on-call duties and follow-the-sun support rotations.</p>
+<p>
+This position reports to the Global Services Manager.</p>
+<p>
+<strong>Required Qualifications:</strong></p>
+<p>
+&bull; Advanced critical-thinking, problem-solving capabilities, high attention to detail and ability to think in systems.<br />
+&bull; 5 or more years of systems administration experience on Linux or Solaris servers for high-availability database-driven applications.<br />
+&bull; 5 or more years of high-availability network administration and troubleshooting experience with Cisco, Juniper, F5 Networks, or Foundry switches, routers, and load balancers.<br />
+&bull; IP and RF network monitoring experience with tools such as tcpdump, Wireshark, VLC, Splunk, Ineoquest, Tektronix, etc.<br />
+&bull; Professional, customer-facing written, verbal and presentation skills in English.<br />
+&bull; Bachelor&rsquo;s degree in computer-related field or equivalent experience.<br />
+&bull; Willingness to travel up to 50% per month domestically and internationally.<br />
+&bull; Ability to maintain a professional, positive, &ldquo;can-do&rdquo; attitude, poise under intense pressure to perform, extreme reliability.</p>
+<p>
+<br />
+<strong>Each of the Following would be a Plus:</strong></p>
+<p>
+&bull; Previous broadcast experience with cable, satellite, IPTV or Internet streaming technologies for live and on-demand video content.<br />
+&bull; Systems administration certification in Red Hat Enterprise Linux, Solaris or Windows Server.<br />
+&bull; Network administration certification from Cisco, Juniper, F5 Networks, Foundry, etc.<br />
+&bull; iOS, Android or Windows Mobile application development experience.<br />
+&bull; Scripting experience in bash, Ruby, Perl, or Python to assist with occasional tools development.<br />
+&bull; SQL database experience with Oracle, SQL Server, MySQL or similar.<br />
+&bull; Conditional Access or Digital Rights Management (DRM) experience with Windows Media DRM, RealNetworks Helix, Apple Fairplay, Adobe Flash Access, Marlin, Widevine, Conax, Nagra, NDS, Irdeto, etc.<br />
+&bull; Embedded software experience on set-top boxes, mobile devices, Internet-connected devices, etc.<br />
+&bull; Security protocols, server hardening techniques, cryptography, PGP, PKI, SSL/TLS experience.<br />
+&bull; Network and log server monitoring experience with SNMP, Syslog, Wireshark, Splunk, etc.<br />
+&bull; Video standards such as: DECE/Ultraviolet, MPEG-2/MPEG-4 AVC, H.264, MPEG-DASH, HTTP Live Streaming, Microsoft Windows Media / PlayReady, Apple HLS, Marlin and RTSP.<br />
+&bull; Business-level fluency in a non-English language.</p>
+<p>
+<strong>About Verimatrix</strong><br />
+Verimatrix specializes in securing and enhancing revenue for multi-screen digital TV services around the globe. The award-winning and independently audited Verimatrix Video Content Authority System (VCAS&trade;) and ViewRight&reg; solutions offer an innovative approach for cable, satellite, terrestrial and IPTV operators to cost-effectively extend their networks and enable new business models.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/verimatrix/iMUCeF"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130116191416_FUI4FESV1KBUPCMV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sr. Development Database Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://verimatrix.theresumator.com/apply/Cjg7Yf/Sr-Development-Database-Engineer.html]]></url>
+			<city><![CDATA[San Diego]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[92121]]></postalcode>
+			<description><![CDATA[<p>
+A <strong>Senior Development Database Engineer</strong> at Verimatrix participates in the creation of a large product suite that enables content protection and security for video delivered via satellite, cable, or the Internet.&nbsp; In particular, the engineer is responsible for designing and developing data models, stored procedures, and scripts to support new applications and enhance existing applications; solving problems both for internal and external clients, and maintaining and enhancing our use of Oracle RAC and Dataguard.&nbsp; The engineer will review requirements, develop the architecture and design of features (including the relevant documentation), develop prototypes, participate in design and code reviews, and program (including unit testing).&nbsp; The engineer must be able to demonstrate technical excellence in his/her personal work as well as contribute to the team&#39;s continued success by sharing technical knowledge.&nbsp; The engineer must be able to follow our development process and contribute to its implementation. The engineer must be able to provide constructive criticism and feedback to colleagues in design and code reviews (in group settings as well as one-on-one) as well as be able to receive constructive criticism and feedback from colleagues. The engineer must be willing to work on existing applications (including defect repairs) as well as develop new features. The engineer must be able to travel occasionally. The engineer must be able to take direction and be able to work independently to implement.&nbsp; The engineer must be able to communicate professionally and positively with Verimatrix clients.</p>
+<p>
+<strong>Some tasks the engineer will have:&nbsp;</strong></p>
+<p>
+&bull; Develop and maintain Java and C++ DAO libraries<br />
+&bull; Develop recognized, industry-standard best practice solutions for data archival<br />
+&bull; Optimize and manage the performance of the database, through data engineering and performance analysis<br />
+&bull; Develop the database portions of new enhancements to products in the Verimatrix suite of applications including participating in requirement review, design, and development<br />
+&bull; Provide maintenance on existing database structure and code for products in the Verimatrix suite of applications<br />
+&bull; Provide a third-tier of support for the database portion of the products in the Verimatrix suite of applications<br />
+&bull; Play a supporting role in product architecture design, assisting the architecture team with feedback as necessary<br />
+&bull; Operates as a mentor to associate database and software engineers, providing an open learning environment for cross-team knowledge sharing<br />
+&bull; Share technical knowledge in both one-on-one and group settings<br />
+&bull; Play a vocal role in design and code reviews for products throughout the Verimatrix suite of applications<br />
+&bull; Participate in creating and maintaining department standards for software development best practices<br />
+&bull; Estimate and plan development tasks, improve development processes and tools to meet corporate targets<br />
+&bull; Provide accurate, timely, and detailed work notes and status in the company issue tracking system&nbsp;<br />
+&bull; Create and review documentation for both internal and customer-facing documentation for best practices, configuration and deployment<br />
+&bull; Develop tools for engineering and Global services to help monitor, upgrade and ensure a healthy product deployment<br />
+&bull; Others as assigned</p>
+<p>
+This position reports to a technical manager within the development team.</p>
+<p>
+<strong>Required Qualifications:</strong></p>
+<p>
+&bull; 8&nbsp;+ years software engineering work experience<br />
+&bull; 5&nbsp;+ years experience as a DBA for an RDBMS<br />
+&bull; 5&nbsp;+ years SQL querying and scripting experience<br />
+&bull; 4&nbsp;+ years PL-SQL stored procedure development<br />
+&bull; 3&nbsp;+ years data modeling experience<br />
+&bull; 3&nbsp;+ years query optimization<br />
+&bull; 2 +&nbsp;years programming C/C++, Java, or Objective C&nbsp;<br />
+&bull; 2&nbsp;+ years Oracle RAC and Dataguard experience<br />
+&bull; 2&nbsp;+ years of experience architecting and maintaining highly available database clusters<br />
+&bull; Self-directed, capable of independent work<br />
+&bull; Excellent communication skills including documentation<br />
+&bull; Bachelors degree in computer science or related field or equivalent experience</p>
+<p>
+<br />
+<strong>Each of the Following would be a Plus:</strong></p>
+<p>
+&bull; Digital Rights Management<br />
+&bull; Experience in a security organization<br />
+&bull; JDBC<br />
+&bull; NoSQL<br />
+&bull; OCI<br />
+&bull; ODBC<br />
+&bull; Oracle certification<br />
+&bull; Server and application programming in Linux, OS X, or Windows<br />
+&bull; Service-oriented architecture<br />
+&bull; Video Conditional Access Systems<br />
+&bull; Video standards such as: DECE/UltraViolet, MPEG2/4, AVC, H.264, MPEG DASH, HTTP Live Streaming, PlayReady, Marlin and RTSP<br />
+&bull; Virtualization<br />
+&bull; Windows Media<br />
+&nbsp;</p>
+<p>
+<strong>About Verimatrix</strong><br />
+Verimatrix specializes in securing and enhancing revenue for multi-screen digital TV services around the globe. The award-winning and independently audited Verimatrix Video Content Authority System (VCAS&trade;) and ViewRight&reg; solutions offer an innovative approach for cable, satellite, terrestrial and IPTV operators to cost-effectively extend their networks and enable new business models.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/verimatrix/Cjg7Yf"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130618213134_PLH6OMPCLWPX4IC3]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Technical Project Manager (EMEA)]]></title>
+			<department><![CDATA[Operations]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://verimatrix.theresumator.com/apply/nUFSxQ/Technical-Project-Manager-EMEA.html]]></url>
+			<city><![CDATA[Munich]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Germany]]></country>
+			<postalcode><![CDATA[80331]]></postalcode>
+			<description><![CDATA[<p>
+A <strong>Technical Project Manager</strong> at Verimatrix is a highly visible, customer-facing team member responsible for managing complex, multi-phase high-profile, and mission-critical customer projects for our customers, partners and resellers.&nbsp;&nbsp;</p>
+<p>
+The Technical Project Manager represents Verimatrix in the planning and execution of our content protection and security solutions for cable, satellite, IPTV, and InternetTV operators worldwide. The Technical Project Manager has experience in software and/or hardware project management, where they structure timelines, milestones, deliverables, risks and proxy information on behalf of the company to all levels of an organization internally and externally.&nbsp; A successful Technical Project Manager will be proactive, driven, creative, interactive, communicative, a strong critical thinker, and flexible to anticipate questions and issues that customers and partners may encounter, and provide the pertinent information back to the Sales, Operations, Product Management, Engineering, and Quality Assurance teams.&nbsp;</p>
+<p>
+We have several hundred customers in 96 countries and appreciate people with global awareness and knowledge, so fluency in other languages is a bonus. Our ISO 9001 certified company provides 24x7x365 support for customers and partners around the world. Verimatrix headquarters are located in San Diego, California with regional offices in Munich and Singapore.&nbsp;</p>
+<p>
+<strong>Some tasks the Technical Project Manager will include, but are not limited to:&nbsp;</strong></p>
+<p>
+&bull; Has ownership of project artifacts such as SOW, schedules, change management plans, and cross-department project progress reporting.<br />
+&bull; Responsible for all project management activities, customer communication and project deliverables for assigned customer implementations.<br />
+&bull; Breaking down large, complex, complicated, mission-critical projects into smaller milestones and actionable phases to help reduce risk and better guarantee success for all stakeholders.<br />
+&bull; Work with customers, resellers, partners, support personnel, and other technical staff on project implementation, design, configuration, optimization, migration, troubleshooting and ongoing maintenance of Verimatrix&rsquo;s products both on-site and remotely.<br />
+&bull; Identify, document, and present on potential customer-facing risks during planning and implementation phases.<br />
+&bull; Lead project specific workshops with our customers and partners, as well as maintain regular face-to-face meetings and conference calls as necessary to ensure project success.<br />
+&bull; Collaborate and coordinate project related deliverables with the Product Management, Engineering, and Quality Assurance teams to steward product improvements and issues resolution.<br />
+&bull; Share technical knowledge and skills throughout the department and Company by creating knowledge base articles, best practices documentation, and training materials.<br />
+&bull; Ability to develop a strong working relationship with Sales, Product Management, Engineering, Quality Assurance, Operations teams and partner vendors to achieve exceptional customer satisfaction levels.</p>
+<p>
+This position reports to the Senior Director of Global Operations.</p>
+<p>
+<strong>Required Qualifications</strong>:</p>
+<p>
+&bull; Thrives in a self-directed environment where solutions are sought-out rather than pre-packaged.<br />
+&bull; Ability to manage multiple concurrent projects and meet tight deadlines with a significant workload in high-ambiguity, high-volatility environments that demand adaptability and a strong sense of urgency.<br />
+&bull; Advanced critical-thinking, problem-solving capabilities, high attention to detail and ability to think in systems.<br />
+&bull; Ability to maintain a professional, positive, &ldquo;can-do&rdquo; attitude, poise under intense pressure to perform with extreme reliability.<br />
+&bull; Experience leading customer and partner meetings and presenting to C-level executives.<br />
+&bull; Strong presentation, meeting facilitation, and communication skills in English across geographies, cultures and time zones.<br />
+&bull; 5-10 years of experience with end-to-end solutions engineering and managing projects with multiple stakeholders.<br />
+&bull; Willingness to travel up to 50% per month domestically and internationally as necessary<br />
+&bull; PMP or CAPM certification.<br />
+&bull; Bachelor&rsquo;s Degree.</p>
+<p>
+<strong>Each of the Following would be a Plus</strong>:</p>
+<p>
+&bull; Previous broadcast experience with cable, satellite, IPTV or Internet streaming technologies for live and on-demand video content.<br />
+&bull; Familiarity with Conditional Access or Digital Rights Management (DRM) experience with Windows Media DRM, RealNetworks Helix, Apple Fairplay, Adobe Flash Access, Marlin, Widevine, Conax, Nagra, NDS, Irdeto, etc.<br />
+&bull; Basic understanding of broadcast network interoperability from Head-End to Home Subscriber<br />
+&bull; Embedded software experience on set-top boxes, tablets, smartphones, Internet-connected devices, etc.<br />
+&bull; Video standards such as: DECE/Ultraviolet, MPEG-2/MPEG-4 AVC, H.264, MPEG-DASH, HTTP Live Streaming, Microsoft Windows Media / PlayReady, Apple HLS, Marlin and RTSP.<br />
+&bull; Previous vendor and/or reseller management and international relationship management experience across one or more cultural regions.<br />
+&bull; Business-level fluency in a non-English language.<br />
+&bull; MBA or MS in Computer Science, Electrical Engineering or related field.</p>
+<p>
+<strong>About Verimatrix</strong><br />
+Verimatrix specializes in securing and enhancing revenue for multi-screen digital TV services around the globe. The award-winning and independently audited Verimatrix Video Content Authority System (VCAS&trade;) and ViewRight&reg; solutions offer an innovative approach for cable, satellite, terrestrial and IPTV operators to cost-effectively extend their networks and enable new business models.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/verimatrix/nUFSxQ"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130131234012_XB6LUENTT3TLJMKN]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Integration Engineer II]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://verimatrix.theresumator.com/apply/Ma0eqF/Integration-Engineer-II.html]]></url>
+			<city><![CDATA[Munich]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Germany]]></country>
+			<postalcode><![CDATA[80331]]></postalcode>
+			<description><![CDATA[<p>
+An Integration Engineer II at Verimatrix participates in the integration of our multiple products into set top boxes for use by our clients and partners.&nbsp; Our product suite enables content protection and security for video delivered via satellite, cable, or the Internet.&nbsp; The integration engineer collaborates with his/her teammates to deliver high-performing, scalable, high-quality products.&nbsp; The engineer should enjoy working through the software development lifecycle.&nbsp; A successful engineer will be proactive, interactive, creative, and flexible.&nbsp; The engineer will need to learn and understand the entire Verimatrix product suite as well as gain deep technical knowledge of set top box integrations.&nbsp; The integration engineer will work with Verimatrix partners, suppliers, and customers frequently so the engineer needs excellent communication skills and a professional manner.&nbsp; We are a global company and appreciate people with global awareness and knowledge.&nbsp;</p>
+<p>
+<strong>Some tasks the integration engineer will have:&nbsp;</strong><br />
+&bull; Design and develop software integrations of the Verimatrix product suite into set top boxes<br />
+&bull; Participate and lead discussions dealing with specifications, requirements, testing and design reviews<br />
+&bull; Write code, write and perform unit tests, support testing/certification, and follow deliverables through the integration lifecycle<br />
+&bull; Estimate and plan development tasks, improve development processes and tools to meet corporate targets<br />
+&bull; Communicate with hardware manufacturers about hardware integration tools and documentation<br />
+&bull; Do security reviews of implementation and hardware configuration<br />
+&bull; Write technical documents, such as design documents, integration manuals<br />
+&bull; Support partner companies in applying our SDKs<br />
+&bull; Support other teams on product technical issues such as product usage, sample, problem analysis<br />
+&bull; Work closely with QA team to provide feedback to test design, coverage, methodology, etc., to advance product quality  <br />
+&bull; Understand the needs and concerns of various levels of management including project management both internally and externally and be able to provide appropriate status to the different audiences<br />
+&bull; Implement code image signing and verification techniques<br />
+&bull; Implement interfaces to hardware security mechanisms embedded in media SOCs<br />
+&bull; Provide tier 3 technical support as needed<br />
+&bull; Others as assigned</p>
+<p>
+This position reports to a technical manager within the engineering team.</p>
+<p>
+<br />
+<strong>Required Qualifications:</strong><br />
+&bull; 5-7 years software engineering work experience<br />
+&bull; 4&nbsp;+ years C and C++ software development experience<br />
+&bull; 3&nbsp;+ years embedded software development experience, particularly in Linux set top boxes<br />
+&bull; Significant experience in:&nbsp;<br />
+o Low-level programming (boot loader, coding on hardware or on top of driver level)<br />
+o Cryptology (ciphers, signing processes, certificates, etc.)<br />
+o Secure hardware coding and configuration<br />
+&bull; Linux experience from bootloader to kernel to drivers to application programming<br />
+&bull; Strong analytical skills<br />
+&bull; Excellent verbal and written communication skills including documentation in English<br />
+&bull; Bachelors degree in computer science/electrical engineering or related field or equivalent experience</p>
+<p>
+<br />
+<strong>Each of the Following would be a Plus:</strong><br />
+&bull; Copy control&nbsp;<br />
+&bull; Digital Rights Management<br />
+&bull; DVB<br />
+&bull; German language proficiency<br />
+&bull; ISO 7816 chip card technology<br />
+&bull; Java coding experience<br />
+&bull; RS-232 programming<br />
+&bull; Ruby<br />
+&bull; Security protocols, cryptography, PKI, SSL/TLS experience<br />
+&bull; Service-oriented architecture<br />
+&bull; Video Conditional Access Systems<br />
+&bull; Video standards such as: DECE/UltraViolet, MPEG2/4, AVC, H.264, MPEG DASH, HTTP Live Streaming, PlayReady, Marlin and RTSP<br />
+&bull; Video watermarking<br />
+&bull; Virtualization<br />
+&bull; Working knowledge of commercial security analysis and protection tools</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/verimatrix/Ma0eqF"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130131234833_R4LP5INDOMR5XHP2]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Integration Test and Certification Engineer II]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://verimatrix.theresumator.com/apply/CFNCeD/Integration-Test-And-Certification-Engineer-II.html]]></url>
+			<city><![CDATA[Munich]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Germany]]></country>
+			<postalcode><![CDATA[80331]]></postalcode>
+			<description><![CDATA[<p>
+A <strong>Senior Integration Test and Certification Engineer</strong> at Verimatrix participates in the integration of our multiple products into set top boxes for use by our clients and partners.&nbsp; Our product suite enables content protection and security for video delivered via satellite, cable, or the Internet.&nbsp; The integration test and certification engineer collaborates with his/her teammates to deliver high-performing, scalable, high-quality products.&nbsp; The engineer should enjoy working through the software development lifecycle.&nbsp; A successful engineer will be proactive, interactive, creative, and flexible.&nbsp; The engineer will need to learn and understand the entire Verimatrix product suite as well as gain deep technical knowledge of set top box integrations.&nbsp; The engineer will work with Verimatrix partners, suppliers, and customers frequently so the engineer needs excellent communication skills and a professional manner.&nbsp; We are a global company and appreciate people with global awareness and knowledge.&nbsp;</p>
+<p>
+<strong>Some tasks the integration test and certification engineer will have:&nbsp;</strong></p>
+<p>
+&bull; Communicate with hardware manufacturers about hardware integration tools and documentation<br />
+&bull; Assist with security reviews of implementation and hardware configuration<br />
+&bull; Support partner companies in applying our SDKs<br />
+&bull; Support other teams on product technical issues such as product usage, problem analysis<br />
+&bull; Estimate, design, and execute tests and accurately and concisely report both progress and defect status via test case and defect tracking databases, tracking issues to resolution<br />
+&bull; Test all product deliverables for professional work, including the product, installation of product, and documentation for product<br />
+&bull; Write and execute tests that verify internal API functions, user interface, and interoperability with between product modules<br />
+&bull; Review requirements, design, code, test cases, and other documentation for potential issues<br />
+&bull; Work with the development team, project management, and network operations to ensure that requirements are verifiable<br />
+&bull; Plan, size, and schedule testing and certification activities<br />
+&bull; Contribute to test strategies and master test plans<br />
+&bull; Set up networked (IP) equipment for video content security tests in Windows, Linux, and Solaris<br />
+&bull; Perform all system tests<br />
+&bull; Execute certifications for embedded system implementations by partners (set-top boxes, connected TVs, etc.)<br />
+&bull; Test and evaluate the system using the specified test procedure and initiate corrective action if required<br />
+&bull; Document the test results in a test report<br />
+&bull; Develop, configure and maintain test harness and/or test equipment used for tests and certifications<br />
+&bull; Work with Set Top Box manufacturers to address issues<br />
+&bull; Lead and mentor others in all the above<br />
+&bull; Provide tier 3 technical support as needed<br />
+&bull; Others as assigned</p>
+<p>
+This position reports to a technical manager within the engineering team.</p>
+<p>
+<strong>Required Qualifications:</strong></p>
+<p>
+&bull; 5-7 years software engineering work experience<br />
+&bull; 4 or more years software testing experience<br />
+&bull; 3 or more years client/server testing experience, particularly in Linux set top boxes<br />
+&bull; Excellent understanding of typical software engineering practices (defect tracking, test case management, lifecycle models)<br />
+&bull; Excellent analytical skills including root cause analysis in both software bugs and in processes<br />
+&bull; Experience in QA activities for unit, component, system, smoke, regression, and automated testing including proven methodic approach to these is required (equivalence tests, boundary tests, state-transition, orthogonal arrays)<br />
+&bull; Proven scripting/coding skills<br />
+&bull; Excellent attention to detail and follow-through<br />
+&bull; Excellent ability to work independently and in a team<br />
+&bull; Strong analytical skills<br />
+&bull; Tester-level proficiency in Linux and Windows<br />
+&bull; Knowledge of<br />
+o network principles and of TCP/UDP/IP technology<br />
+o application, realization and use of the test system<br />
+o RDBMS<br />
+o Coding concepts such as OOP<br />
+&bull; Basic proficiency in SQL<br />
+&bull; Ability to identify weak points and risks<br />
+&bull; Demonstrated attention to detail and high-levels of accuracy<br />
+&bull; Excellent verbal and written communication skills including documentation in English<br />
+&bull; Bachelors degree in computer science/electrical engineering or related field or equivalent experience</p>
+<p>
+<br />
+<strong>Each of the Following would be a Plus:</strong></p>
+<p>
+&bull; Agile software development lifecycle experience<br />
+&bull; Copy control&nbsp;<br />
+&bull; Digital Rights Management<br />
+&bull; DVB<br />
+&bull; Experience testing video products<br />
+&bull; German language proficiency<br />
+&bull; Professional certifications/professional growth achievements<br />
+&bull; Programming knowledge (at least one scripting language like Perl, ruby, etc.).&nbsp;<br />
+&bull; Security protocols, cryptography, PKI, SSL/TLS experience<br />
+&bull; Service-oriented architecture<br />
+&bull; Video Conditional Access Systems<br />
+&bull; Video standards such as: DECE/UltraViolet, MPEG2/4, AVC, H.264, MPEG DASH, HTTP Live Streaming, PlayReady, Marlin and RTSP<br />
+&bull; Video watermarking<br />
+&bull; Virtualization<br />
+&bull; Working knowledge of commercial security analysis and protection tools</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/verimatrix/CFNCeD"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130306191014_ZNSNCQCKWPM3ZZSA]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[QA Developer]]></title>
+			<department><![CDATA[Quality Assurance]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://verimatrix.theresumator.com/apply/5QZ5zf/QA-Developer.html]]></url>
+			<city><![CDATA[San Diego]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[92122]]></postalcode>
+			<description><![CDATA[<p>
+We&rsquo;re looking for a <strong>QA Developer,</strong>&nbsp; passionate about excellence to join our Test Automation and Tool Development efforts.&nbsp; These efforts are used to test the functionality and performance of our state-of-the-art Video Content Security Products (client/server solution.)</p>
+<p>
+<strong>JOB DUTIES &amp; RESPONSIBILITIES</strong><br />
+&bull; Interface with Engineering group and Solutions Team group to select tests best-suited for test automation, for our video content security products.<br />
+&bull; Design, develop, and maintain tests to test security and other functions of our products.<br />
+&bull; Participate in code reviews and evaluate test implementation for adherence to test design.<br />
+&bull; Develop/Maintain tools that facilitate either automated tests or manual tests.<br />
+&bull; Develop/Maintain tools for performance testing; develop tools that emulate components of the system and implement them.<br />
+&bull; Communicate progress on tasks.<br />
+&bull; Other duties may be assigned as needed by the Department.</p>
+<p>
+<strong>QUALIFICATION REQUIREMENTS</strong><br />
+1. Bachelor&rsquo;s Degree in Computer Science, Mathematics, EE or similar field is required. Further professional certifications/professional growth achievements are a plus.<br />
+2. At least 3 years real-world software experience, one of which includes coding to an API.<br />
+3. Strong desire to use automation in testing, testing tasks, or otherwise improve schedules and quality.&nbsp; Passion for quality is a must.<br />
+4. Excellent coding skills in any interpreted/compiled language such as Ruby, Python, Java, C/C++, or C#<br />
+5. Knowledge of network principles and of TCP/UDP/IP technology required.<br />
+6. Strong experience with Backend/Application Servers is essential. Linux is essential.<br />
+7. Excellent analytical skills.<br />
+8. Fast learner.<br />
+9. Excellent attention to detail and follow-through.<br />
+10. Strong written, verbal, and presentation skills.&nbsp; Excellent interpersonal skills.&nbsp; Self-motivated and energetic team player.</p>
+<p>
+<strong>Each of the Following would be a Plus:</strong><br />
+1. Ruby<br />
+2. Automated API Testing<br />
+3. C#<br />
+4. SOAP<br />
+5. Relational Database experience<br />
+6. Security protocols, cryptography, PKI, SSL/TLS<br />
+7. SNMP<br />
+8. Digital Rights Management<br />
+9. Erlang<br />
+10. Video Conditional Access Systems<br />
+11. Video standards such as DECE/UltraViolet, MPEG2/4, AVC, H.264, MPEG DASH, HTTP Live Streaming, PlayReady, Marlin and RTSP<br />
+12. Virtualization</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/verimatrix/5QZ5zf"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130320180204_UBC7PFDDCDEMMAXK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Technical Writer II]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://verimatrix.theresumator.com/apply/uccdjj/Technical-Writer-II.html]]></url>
+			<city><![CDATA[San Diego]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[92121]]></postalcode>
+			<description><![CDATA[<p>
+A <strong>Technical Writer II</strong> at Verimatrix participates in the creation of a large product suite that enables content protection and security for video delivered via satellite, cable, or the Internet.&nbsp; The technical writer collaborates with his/her teammates to deliver documentation for this product suite.&nbsp; The writer should enjoy working through the software development lifecycle.&nbsp; A successful writer will be proactive, interactive, creative, and flexible.&nbsp; The writer will need to learn and understand the entire Verimatrix product suite at the level needed to write the appropriate documentation. We are a global company and appreciate people with global awareness and knowledge (languages other than English are a bonus).&nbsp;</p>
+<p>
+<strong>Some tasks the technical writer will have:&nbsp;</strong></p>
+<ul>
+<li>
+Follows established style guidelines in creating or editing documentation.</li>
+<li>
+Helps establish style guidelines for all types of documentation.&nbsp;</li>
+<li>
+Take disparate initial drafts of documents from others and transform them into polished, cohesive, and complete documents.&nbsp; This includes following up with others to flush out missing details or clarify any ambiguities.&nbsp;</li>
+<li>
+Create, edit, and maintain user documentation for current and future applications (i.e., user and administrator manuals).</li>
+<li>
+Create, edit, and maintain technical documentation for internal and external staff. (i.e., Configuration documents, API documentation).&nbsp;</li>
+<li>
+Typical assignments include: development of operating manuals to be used by field and operations staff; produce technical/operations advisories for customer consumption.&nbsp;</li>
+<li>
+Observe customer usage of company products to develop understanding of business processes and how they relate to company product usage.</li>
+<li>
+Observes software development to determine operating procedures, configuration requirements, and interaction with other software feature toggles.</li>
+<li>
+Organizes material and completes writing assignments according to set standards regarding order, conciseness, style, and terminology.</li>
+<li>
+Ensures accuracy and completeness of technical documentation.</li>
+<li>
+Communicates project status to department personnel and team members.</li>
+<li>
+Increases product knowledge and understanding of product functionality by doing the following: Reads journals, reports and other materials, studies software design documents, QA test cases, Training materials, attends user training classes in company products.&nbsp;</li>
+<li>
+Enters and reviews information and recommends revisions or changes in scope, format, content, and methods of reproduction and binding.&nbsp; Maintains records and files of work and revisions.</li>
+<li>
+Selects screen shots, photographs, drawings, sketches, diagrams and charts to illustrate material.</li>
+<li>
+Assists in laying out material for publication.</li>
+<li>
+Ability to work individually and in teams.&nbsp;</li>
+<li>
+Other assignments as provided.</li>
+</ul>
+<p>
+This position reports to a technical manager within the development team.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Required Qualifications</strong>:</p>
+<ul>
+<li>
+Must have excellent English communication skills, both verbal and written including:</li>
+<li>
+Strong customer service mindset/skills comfortable talking with external and internal customers</li>
+<li>
+Ability to communicate effectively with software engineers/programmers</li>
+<li>
+Five years of experience in software technical writing</li>
+<li>
+Understanding of basic computer software design</li>
+<li>
+Strong Microsoft Office usage skills (Word, Excel, Powerpoint)</li>
+<li>
+Expertise with publishing tools such as Framemaker or AuthorIt</li>
+<li>
+Experience with integrated text, graphic, or image processing, document layout, formatting software documentation</li>
+<li>
+Experience developing online help</li>
+<li>
+Experience with graphics packages such as Adobe Photoshop and Illustrator</li>
+<li>
+Self-directed, capable of independent work</li>
+<li>
+Bachelors&rsquo; degree in Communications, Science, Computer Science, Engineering or related field or equivalent experience</li>
+</ul>
+<p>
+<strong>Each of the Following would be a Plus:</strong></p>
+<ul>
+<li>
+Android or iOS development documentation</li>
+<li>
+Digital Rights Management</li>
+<li>
+Experience with requirements management software</li>
+<li>
+Knowledge of RDMBS, particularly Oracle</li>
+<li>
+Security protocols, cryptography, PKI, SSL/TLS experience</li>
+<li>
+Service-oriented architecture</li>
+<li>
+Video Conditional Access Systems</li>
+<li>
+Video standards such as: DECE/UltraViolet, MPEG2/4, AVC, H.264, MPEG DASH, HTTP Live Streaming, PlayReady, Marlin and RTSP</li>
+<li>
+Video watermarking</li>
+<li>
+Virtualization</li>
+<li>
+Windows Media</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/verimatrix/uccdjj"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130321201658_C1HM9SZZWVDNLYSI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Development Manager]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://verimatrix.theresumator.com/apply/BlbCjb/Software-Development-Manager.html]]></url>
+			<city><![CDATA[San Diego]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[92121]]></postalcode>
+			<description><![CDATA[<p>
+A <strong>Software Development Manager</strong> at Verimatrix participates in the creation of a large product suite that enables content protection and security for video delivered via satellite, cable, or the Internet.&nbsp; The development manager collaborates with his/her teammates to deliver high-performing, scalable, high-quality products.&nbsp; The manager should enjoy working through the software development lifecycle.&nbsp; A successful manager will be proactive, interactive, creative, and flexible.&nbsp;</p>
+<p>
+This position is responsible for managing the development of the software products assigned to the Development Manager.&nbsp; This includes reviewing and scheduling work requests, participating in scope definition for the products, driving the technical direction of the software products (in conjunction with the Software Architects and Product Managers), reviewing and approving requirements specifications, scheduling product versions, managing a team of software engineers, DBAs, and/or other technical specialists, leading project-level change control boards, overseeing the development of documentation to support the products, co-ordinating with QA leads and manager(s) to ensure the effective testing of the products, and other duties as assigned.&nbsp; Each team can have one or more leads as needed.&nbsp; The leads provide recommendations to the manager as well as assist in the daily management of the teams.</p>
+<p>
+The Software Development Manager will need to learn and understand the entire Verimatrix product suite as well as gain deep technical knowledge of particular solutions in the group he/she joins.&nbsp; We are a global company and appreciate people with global awareness and knowledge (languages other than English are a bonus).&nbsp;</p>
+<p>
+<strong>Some tasks the development manager will have:&nbsp;</strong></p>
+<ul>
+<li>
+Develops a world-class software engineering team.&nbsp;</li>
+<li>
+Includes recruiting, training, and mentoring of software engineers and other technical specialists reporting to the Development Manager.&nbsp;</li>
+<li>
+Provides meaningful performance feedback to his/her direct reports including annual personnel reviews.&nbsp;</li>
+<li>
+Works with each direct report to set and achieve annual goals.&nbsp;</li>
+<li>
+Empowers teams to meet the product and project objectives.&nbsp;&nbsp;</li>
+<li>
+Interacts with other Development Managers to ensure compatibility with other company produced software, co-ordinate software releases, and remove roadblocks for the teams.</li>
+<li>
+Understands, in detail, the complexity and intricacies of engineering software development methodologies and software development plan(s).&nbsp;</li>
+<li>
+Plans and organizes regular team training and team meetings as needed.</li>
+<li>
+Participates with and leads others in achieving department goals.</li>
+<li>
+Co-ordinates third tier technical support and provides assistance to our technical support team.</li>
+<li>
+Reviews, edits, and approves software requirements documents for software products under the Development Manager&rsquo;s jurisdiction.</li>
+<li>
+Reviews, edits, and approves engineering documentation, such as installation prerequisites, installation instructions, developer guides, and user and administrator guides.</li>
+<li>
+Manages issues in the corporate issue management system for the software products under the Development Manager&rsquo;s jurisdiction.</li>
+<li>
+Creates and maintains software product project plan(s) as necessary.&nbsp; Ensures that the plan is maintained and communicated to key personnel and appropriate work groups on a regular basis.</li>
+<li>
+Participates in setting and maintaining the department budget.&nbsp;</li>
+<li>
+Works with the Director and VP of Engineering to develop and implement Engineering policies and procedures.</li>
+<li>
+Ensures that all Engineering policies and procedures are fully explained and implemented and that the team adheres to all Engineering policies and procedures.</li>
+<li>
+Develops and maintains departmental performance standards.</li>
+<li>
+Other assignments as may be provided.</li>
+</ul>
+<p>
+This position reports to Director of Engineering within the development team.</p>
+<p>
+<strong>Required Qualifications</strong>:</p>
+<ul>
+<li>
+Minimum two years experience leading a team of 8-20 software engineers or other technical specialists (DBAs, configuration managers, etc.) or five years experience leading a smaller team (8 or less)</li>
+<li>
+Minimum one year experience working on mission critical software</li>
+<li>
+Minimum five years experience in software engineering/development in a full lifecycle environment as a software engineer</li>
+<li>
+Minimum two years experience with C/C++/Java.&nbsp;</li>
+<li>
+Capable of analyzing and interpreting professional journals or technical procedures</li>
+<li>
+Must be an effective communicator both verbally and in written language with experience in writing reports, business correspondence, and procedure manuals</li>
+<li>
+Must have a thorough understanding of software engineering practices including a demonstrated commitment to software engineering best practices required.</li>
+<li>
+Self-directed and independent worker and manager.&nbsp; Must be able to take a direction from supervisor, flush it out, and implement it without direct supervision.&nbsp;</li>
+<li>
+Must be able to communicate with both technical and non-technical people including clients and vendors</li>
+<li>
+Must be able to lead meetings and present to groups of at least 25 people&nbsp;</li>
+<li>
+Bachelors degree in computer science or related field or equivalent experience</li>
+</ul>
+<p>
+<strong>Each of the Following would be a Plus</strong></p>
+<ul>
+<li>
+Android or iOS development</li>
+<li>
+Copy control&nbsp;</li>
+<li>
+DCE/RPC</li>
+<li>
+Digital Rights Management</li>
+<li>
+Embedded software development experience, particularly in Linux set top boxes</li>
+<li>
+Experience working in an agile software environment (particularly Scrum and/or Kanban)</li>
+<li>
+ISO 7816 chip card technology</li>
+<li>
+NoSQL</li>
+<li>
+Object-oriented design and programming experience</li>
+<li>
+PLC programming/ladder logic, particularly Omron-based</li>
+<li>
+RDMBS, particularly Oracle, development experience (administration experience a bonus)</li>
+<li>
+RS-232 programming</li>
+<li>
+Ruby</li>
+<li>
+Scrum Master certification</li>
+<li>
+Security protocols, cryptography, PKI, SSL/TLS experience</li>
+<li>
+Service-oriented architecture</li>
+<li>
+SNMP</li>
+<li>
+SOAP</li>
+<li>
+Video Conditional Access Systems</li>
+<li>
+Video standards such as: DECE/UltraViolet, MPEG2/4, AVC, H.264, MPEG DASH, HTTP Live Streaming, PlayReady, Marlin and RTSP</li>
+<li>
+Video watermarking</li>
+<li>
+Virtualization</li>
+<li>
+Windows Media</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/verimatrix/BlbCjb"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130328202435_E6EAHU0OQCNUV1DT]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[DVB Product Manager]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://verimatrix.theresumator.com/apply/MMzhiK/DVB-Product-Manager.html]]></url>
+			<city><![CDATA[Munich]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Germany]]></country>
+			<postalcode><![CDATA[80331]]></postalcode>
+			<description><![CDATA[<p>
+<strong>GENERAL PURPOSE:</strong> The individual will wholly manage a combination of inbound and outbound marketing activities for specific Verimatrix video security solutions, as a part of a team that drives product strategy and sales promotion programs across the full range of Verimatrix offerings. Our offerings today include a full DVB broadcast conditional access solution, an award winning IPTV security solution and a standards-centric Internet TV security solution, all of which are integrated and managed within our innovative VCAS&nbsp; multi-network architecture.</p>
+<p>
+<strong>ESSENTIAL DUTIES AND RESPONSIBILITIES</strong>: To include the core marketing activities and themes listed below. Other duties may be assigned, as required, to help promote an effective dialog between sales, customers and engineering on the inbound communication front, and from the product team as a whole to the targeted market segments on the outbound side of things.</p>
+<ul>
+<li>
+Bring a passion for understanding core customer requirements and business objectives as they relate to Verimatrix solutions, and interface closely with our direct sales, channel partners and internal engineering teams to coordinate related technical and market facing initiatives.</li>
+<li>
+Work closely with engineering, sales and other marketing tem members to develop the product requirements, features, interfaces, and other &ldquo;whole product&rdquo; components for competitive DVB Conditional Access (CA) products, IPTV security and Internet TV DRM based video delivery services</li>
+<li>
+Participate fully in the creation of&nbsp; high-level and detailed plans for delivery and integration of complete security solutions that will support millions of subscribers</li>
+<li>
+Lead technical product line management activities and engineering interface functions for one or more CA/DRM solution components</li>
+<li>
+Support project management tasks for development and delivery of CA/DRM subsystems.</li>
+<li>
+Align Verimatrix and partner activities in integration and delivery of complete CA/DRM solutions to our common customers</li>
+<li>
+Travel to customer and partner sites to help ensure effective communication and customer satisfaction.</li>
+</ul>
+<p>
+Central to the role is close working with other marketing, operations, support and marketing communication team members to ensure accurate and timely availability of products together with supporting sales channel material, demonstration systems and trade show demonstrations.</p>
+<p>
+<strong>QUALIFICATION REQUIREMENTS:</strong> To perform this job successfully, an individual must be able to perform each essential duty satisfactorily.&nbsp; The requirements listed below are representative of the knowledge, skill, and/or ability required.&nbsp; Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.</p>
+<ul>
+<li>
+Detailed knowledge of digital video broadcast systems, system standards (such as MPEG, DVB, IP Multicast, HTTP Live Streaming etc) and/or practical system implementations that include one or more of these technologies</li>
+<li>
+An understanding of the interplay of hardware and software in developing a security solution on client devices and a general knowledge of the cryptographic principles involved in such implementations.</li>
+<li>
+Project management experience in the development and integration of complex, high reliability systems for telecoms or digital TV applications</li>
+<li>
+Demonstrated systematic approach to handling cross functional development, partner and marketing challenges</li>
+</ul>
+<p>
+A BS degree or equivalent in a related field is required; MS preferred</p>
+<p>
+<strong>Preferred but Not Required:</strong></p>
+<ul>
+<li>
+Previous participation in DVB conditional access or DRM system implementations or system integrations</li>
+<li>
+Experience of end to end digital TV system architectures, operations or testing</li>
+<li>
+Background in digital set-top box architecture or implementation, or in DRM systems on tablet or smartphone devices</li>
+</ul>
+<p>
+As Verimatrix is a company with a global marketplace and diverse customer base, it is very helpful if candidates have experience of business in foreign markets, and fluency in one or more foreign languages is a plus. Candidates should expect to travel 25% in support of trade shows and customer events.</p>
+<p>
+<br />
+<strong>PHYSICAL DEMANDS:</strong> The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.</p>
+<p>
+<br />
+<strong>WORK ENVIRONMENT:</strong> Generally a very good work environment.&nbsp; Work is performed indoors, typically in an air-conditioned building.&nbsp; Moderate noise level due to light traffic, computers, printers, fax/copy machines.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/verimatrix/MMzhiK"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130329002107_05LLJYA3HVACA7WX]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[QA Performance Engineer]]></title>
+			<department><![CDATA[Quality Assurance]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://verimatrix.theresumator.com/apply/jz4LpC/QA-Performance-Engineer.html]]></url>
+			<city><![CDATA[San Diego]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[92121]]></postalcode>
+			<description><![CDATA[<p>
+<strong>GENERAL PURPOSE:&nbsp;</strong></p>
+<p>
+We&rsquo;re looking for QA Engineers, committed to quality and professional excellence, to measure the performance/scalability and redundancy of state-of-the-art Video Content Security products, in a fast-paced environment.</p>
+<p>
+<strong>JOB DUTIES &amp; RESPONSIBILITIES:</strong></p>
+<ul>
+<li>
+Measure performance (characterization and benchmarking) of our server/client video content security products.&nbsp;</li>
+<li>
+Collect, analyze, interpret, and communicate results on performance/scalability.</li>
+<li>
+Report diagnosed issues.&nbsp; Work with Engineering to better characterize the product.</li>
+<li>
+Set up and configure isolated IP networks/infrastructure (Linux/Windows) for testing and for reproducing reported issues. Identify issues with the test environment, or with the performance methodology, and resolve them.</li>
+<li>
+Accurately and concisely report both progress and defect status via Test Case and Defect Tracking databases.&nbsp; Track issues to resolution.</li>
+<li>
+Execute redundancy tests, as requested.</li>
+<li>
+Perform other duties and projects as assigned.</li>
+</ul>
+<p>
+<strong>QUALIFICATION REQUIREMENTS:</strong></p>
+<ul>
+<li>
+Bachelor&rsquo;s Degree in Computer Science, Mathematics, Statistics, EE or similar field is required. Further professional certifications/professional growth achievements are a plus.</li>
+<li>
+2-3 years real-world software experience.</li>
+<li>
+At least 1 year experience in Linux / UNIX system administration.</li>
+<li>
+Excellent testing skills.&nbsp; Proven desire to obtain reliable, consistent, repeatable results.</li>
+<li>
+Knowledge of network principles (7 layer OSI model/subnetting) and of TCP/UDP/IP technology and troubleshooting required.&nbsp; Experience with network capture analysis tools - tcpdump, wireshark, fiddler, etc.</li>
+<li>
+Experience with Backend/Application Servers is essential.&nbsp;</li>
+<li>
+Previous experience administrating a relational database system - Oracle preferred but MS SQL Server, MySQL, etc. would be applicable.</li>
+<li>
+Good understanding of typical software engineering practices (Defect Tracking, Test Case Management, Lifecycle models.)&nbsp; Experience with Agile methods is a plus.</li>
+<li>
+Excellent analytical skills; attention to detail and follow-through.</li>
+<li>
+Excellent ability to work independently, as well as in a team environment.</li>
+<li>
+Strong written, verbal, and presentation skills.&nbsp; Excellent interpersonal skills.&nbsp; Self-motivated and energetic team player.</li>
+</ul>
+<p>
+<strong>PLUSES:</strong></p>
+<ul>
+<li>
+Past experience setting up/using Oracle RAC and Oracle Data Guard are a big plus</li>
+<li>
+Past experience managing redundant systems (Windows or Linux) or configuring load balancers</li>
+<li>
+Past performance testing (measuring performance, analyzing, and presenting results).</li>
+<li>
+Previous experience testing internet video products.</li>
+<li>
+Knowledge of processor architectures and software architectures is a big plus.</li>
+<li>
+Any scripting language could be useful - shell, Perl, php, Ruby, etc.</li>
+<li>
+Past statistical measurements and sampling experience.</li>
+<li>
+Competence with Excel is useful.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/verimatrix/jz4LpC"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130410013959_IC18ASSXGCRZ8ZJB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sr. Global Services Engineer]]></title>
+			<department><![CDATA[Operations]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://verimatrix.theresumator.com/apply/JGWRZF/Sr-Global-Services-Engineer.html]]></url>
+			<city><![CDATA[Dubai]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Arab Emirates]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+A <strong>Senior Global Services Engineer</strong> at Verimatrix is that rare breed of being a blend of a highly-skilled engineer who also resolves the most complex and complicated technical issues while being customer-facing and helping other Global Services Engineers build expertise in Verimatrix&rsquo;s products and services.</p>
+<p>
+The Senior Global Services Engineers participate in the installation, configuration, acceptance testing, troubleshooting and maintenance of Verimatrix&rsquo;s content protection and security solutions for cable, satellite, IPTV and InternetTV operators worldwide. The Senior Global Services Engineer comes from a background in systems administration and/or network administration, and focuses on having a whole system view of how Verimatrix&rsquo;s products work within the larger ecosystem of off-the-shelf and custom solutions.&nbsp; A successful Senior Global Services Engineer will be proactive, interactive, creative, and flexible to anticipate questions and issues customers and partners may have, and provide that feedback into the Product Management, Engineering and Quality Assurance teams.&nbsp;</p>
+<p>
+We have several hundred customers in 96 countries, and appreciate people with global awareness and knowledge, so fluency in other languages is a bonus. Our team provides 24x7x365 support for customers and partners around the world. Our headquarters are located in San Diego, California with regional offices in Munich and Singapore.&nbsp;</p>
+<p>
+<strong>Some tasks the Senior Global Services Engineer will have include, but are not limited to:&nbsp;</strong></p>
+<p>
+&bull; Work with customers, partners, customer support, and other technical staff on the implementation design, configuration, optimization, migration, troubleshooting and ongoing maintenance for Verimatrix&rsquo;s products both on-site and remotely.<br />
+&bull; Identify potential customer-facing risks during planning and implementation phases.<br />
+&bull; Support customer and partner issues reported via Customer Care portal&nbsp; within contractual service level agreement periods.<br />
+&bull; Replicate, validate, coordinate and escalate issues to software development, quality assurance, and operations teams to resolve more complex customer installation and support issues.<br />
+&bull; Collaborate with the Product Management, Engineering and Quality Assurance teams to give systems administration perspective on how to improve Verimatrix&rsquo;s products.<br />
+&bull; Share technical knowledge and skills throughout the department and Company by creating knowledge base articles, best practices documentation and training materials.<br />
+&bull; Generate root cause analysis reports for critical and major customer issues that summarize the issue, the chronology of events leading to the fault, investigation and replication steps, corrective actions and verification steps that the issue was permanently corrected.<br />
+&bull; Proactively suggest changes to Verimatrix&rsquo;s products, processes or internal tools to improve efficiency.<br />
+&bull; Proactively make recommendations software platforms and tools company should evaluate, test against, etc.&nbsp;<br />
+&bull; Providing Level 2 and Level 3 troubleshooting for customer issues.<br />
+&bull; Available as part of a 24/7/365 global team via mobile, email and Skype to assist with on-call duties and follow-the-sun support rotations.</p>
+<p>
+This position reports to the Global Services Manager.</p>
+<p>
+<strong>Required Qualifications:</strong></p>
+<p>
+&bull; Advanced critical-thinking, problem-solving capabilities, high attention to detail and ability to think in systems.<br />
+&bull; 5 or more years of systems administration experience on Linux or Solaris servers for high-availability database-driven applications.<br />
+&bull; 5 or more years of high-availability network administration and troubleshooting experience with Cisco, Juniper, F5 Networks, or Foundry switches, routers, and load balancers.<br />
+&bull; IP and RF network monitoring experience with tools such as tcpdump, Wireshark, VLC, Splunk, Ineoquest, Tektronix, etc.<br />
+&bull; Professional, customer-facing written, verbal and presentation skills in English.<br />
+&bull; Bachelor&rsquo;s degree in computer-related field or equivalent experience.<br />
+&bull; Willingness to travel up to 50% per month domestically and internationally.<br />
+&bull; Ability to maintain a professional, positive, &ldquo;can-do&rdquo; attitude, poise under intense pressure to perform, extreme reliability.</p>
+<p>
+<br />
+<strong>Each of the Following would be a Plus:</strong></p>
+<p>
+&bull; Previous broadcast experience with cable, satellite, IPTV or Internet streaming technologies for live and on-demand video content.<br />
+&bull; Systems administration certification in Red Hat Enterprise Linux, Solaris or Windows Server.<br />
+&bull; Network administration certification from Cisco, Juniper, F5 Networks, Foundry, etc.<br />
+&bull; iOS, Android or Windows Mobile application development experience.<br />
+&bull; Scripting experience in bash, Ruby, Perl, or Python to assist with occasional tools development.<br />
+&bull; SQL database experience with Oracle, SQL Server, MySQL or similar.<br />
+&bull; Conditional Access or Digital Rights Management (DRM) experience with Windows Media DRM, RealNetworks Helix, Apple Fairplay, Adobe Flash Access, Marlin, Widevine, Conax, Nagra, NDS, Irdeto, etc.<br />
+&bull; Embedded software experience on set-top boxes, mobile devices, Internet-connected devices, etc.<br />
+&bull; Security protocols, server hardening techniques, cryptography, PGP, PKI, SSL/TLS experience.<br />
+&bull; Network and log server monitoring experience with SNMP, Syslog, Wireshark, Splunk, etc.<br />
+&bull; Video standards such as: DECE/Ultraviolet, MPEG-2/MPEG-4 AVC, H.264, MPEG-DASH, HTTP Live Streaming, Microsoft Windows Media / PlayReady, Apple HLS, Marlin and RTSP.<br />
+&bull; Business-level fluency in a non-English language.</p>
+<p>
+<strong>About Verimatrix</strong><br />
+Verimatrix specializes in securing and enhancing revenue for multi-screen digital TV services around the globe. The award-winning and independently audited Verimatrix Video Content Authority System (VCAS&trade;) and ViewRight&reg; solutions offer an innovative approach for cable, satellite, terrestrial and IPTV operators to cost-effectively extend their networks and enable new business models.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/verimatrix/JGWRZF"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130511003028_WRXELHXLTGCKHDDM]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Fulfillment Intern]]></title>
+			<department><![CDATA[Operations]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://verimatrix.theresumator.com/apply/CLQ7OW/Software-Fulfillment-Intern.html]]></url>
+			<city><![CDATA[San Diego]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[92007]]></postalcode>
+			<description><![CDATA[<p>
+A <strong>Software Fulfillment Intern</strong> at Verimatrix participates in the fulfillment of purchase orders for software and license deliveries to customers. Intern will be responsible for coordinating with Sales Order Manager in San Diego and with salespeople around the world to assist with delivery of products to over 650 customers in 96 countries on 4 product lines in the streaming media and content security industry.<br />
+To be successful in this role, you must be proactive, take initiative, ask lots of questions and not be afraid to make suggestions on improvement. We are a global company and appreciate people with global awareness and knowledge (languages other than English are a bonus).</p>
+<p>
+This position reports to the Sales Order Manager.</p>
+<p>
+<strong>Some tasks the Software Fulfillment Intern will have include, but are not limited to:</strong><br />
+<br />
+&middot;&nbsp;&nbsp;&nbsp; Work with Sales Order Manager to ensure all prerequisites for delivery have been completed, records updated in Salesforce.com, proactively notify customers of delivery or delays to delivery, and run reports for management on deliveries and backlog.<br />
+&middot;&nbsp;&nbsp;&nbsp; Generate software licenses for Verimatrix products, and process electronic (and occasionally physical) deliveries of software and licenses to customers and partners worldwide.<br />
+&middot;&nbsp;&nbsp;&nbsp; Other tasks, as needed.<br />
+<br />
+<strong>Required Qualifications</strong><br />
+&middot;&nbsp;&nbsp;&nbsp; Basic Linux systems experience including S/FTP and SSH.<br />
+&middot;&nbsp;&nbsp;&nbsp; Strong written and verbal communications skills.<br />
+&middot;&nbsp;&nbsp;&nbsp; Experience with Microsoft Office.<br />
+&middot;&nbsp;&nbsp;&nbsp; Experience with Salesforce.com or another similar CRM tool is a bonus.</p>
+]]></description>
+			<type><![CDATA[Internship]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/verimatrix/CLQ7OW"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130514190556_QJNHD1SMZ9GJLTKP]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Marketing Intern]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://verimatrix.theresumator.com/apply/V6l8b6/Marketing-Intern.html]]></url>
+			<city><![CDATA[San Diego]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[92121]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Verimatrix Marketing Intern </strong>- Mass Email Marketing</p>
+<p>
+This position will encompass duties related to the Verimatrix mass email marketing campaigns, for example:</p>
+<p>
+&bull; Prepare email file in co-operation with marketing, PR and external consultant<br />
+&bull; Set up email blast in Act-On, the mass email marketing tool used by Verimatrix<br />
+&bull; Prepare email recipient list by filtering from existing databases<br />
+&bull; Execute email blast<br />
+&bull; Add new recipient lists as they become available from external sources<br />
+&bull; Analyze job reports from completed email blasts, and prepare summary job statistics reports<br />
+&bull; Improve the effectiveness of blasts based on reports analysis and mass marketing best practices<br />
+&bull; Support the 2013 lead management process in Sales Force CRM and Act-On systems</p>
+]]></description>
+			<type><![CDATA[Internship]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/verimatrix/V6l8b6"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130517150859_VWMAURTM50EJULNI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Salesforce Administrator Internship]]></title>
+			<department><![CDATA[G & A]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://verimatrix.theresumator.com/apply/XNrqWl/Salesforce-Administrator-Internship.html]]></url>
+			<city><![CDATA[San Diego]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[92121]]></postalcode>
+			<description><![CDATA[<p>
+<strong>General Purpose:</strong></p>
+<p>
+Verimatrix is looking for a bright, eager, and technically skilled individual to join our Information Systems team. The <strong>Salesforce Administrator intern</strong> will help build and improve our CRM system that facilitates key business processes for Verimatrix.&nbsp; A successful candidate presents a strong desire to innovate and be a part of a stimulating, high-growth environment.</p>
+<p>
+<strong>Essential Duties and Responsibilities:</strong></p>
+<p>
+&bull; Support our Salesforce configuration &ndash;emphasis on user roles, security, database content and structure, and process logic<br />
+&bull; Ensure data quality through creation of validations, naming conventions and structured processes<br />
+&bull; Create and maintain training materials and documentation that stimulates user adoption and best practices<br />
+&bull; Assist users with report/dashboard customization &ndash; including trend, summary and usage reports&nbsp;<br />
+&bull; Maintain high-level familiarity with other software applications/systems to make recommendations&nbsp; for integration points with Salesforce<br />
+&bull; Collaborate across departments to collect requirements, research and implement solutions, collect feedback, and iterate</p>
+<p>
+<strong>Qualifications:</strong></p>
+<p>
+&bull; Keen understanding of Excel and relational databases<br />
+&bull; Self-directed with a strong desire to take the initiative on a project through completion<br />
+&bull; Ability to exercise clear and concise verbal and written communication<br />
+&bull; Excellent analytical and problem solving skills<br />
+&bull; Astute attention to detail<br />
+&bull; Demonstrated ability to multi-task in a fast-paced environment with competing priorities<br />
+&bull; Experience with APEX/Force.com, Visual Force, and/or any other programming languages a plus<br />
+&bull; Salesforce experience a big plus</p>
+<p>
+<strong>Education:</strong></p>
+<p>
+2+ years pursuing a degree in Information Systems, Information Technology, Computer Science, or related field</p>
+<p>
+<strong>Physical Demands:</strong></p>
+<p>
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.</p>
+<p>
+<strong>Work Environment</strong><strong>:</strong></p>
+<p>
+Generally a very good work environment.&nbsp; Work is performed indoors, typically in an air-conditioned building.&nbsp; Low-Moderate noise level due to light traffic, computers, printers, fax/copy machines.</p>
+]]></description>
+			<type><![CDATA[Internship]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/verimatrix/XNrqWl"></script>]]></buttons>
+		</job>
+	</jobs>

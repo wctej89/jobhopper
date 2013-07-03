@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 3 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Snibbe Studio]]></company>
+			<job>
+			<id><![CDATA[job_20130304215500_V2M8VZDGBKE2WCYB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Interactive Graphics Architect for Visual Music App Platform]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://snibbestudio.theresumator.com/apply/eNXvt2/Interactive-Graphics-Architect-For-Visual-Music-App-Platform.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+Are you a brilliant computer graphics architect with an interest in apps and music? <a href="http://snibbestudio.com">Snibbe Studio</a>, creator of music apps for Bj&ouml;rk, Beck, and Philip Glass, is seeking an Interactive Graphics Software Architect with strong computer graphics development experience to be part of a small founding team building a new interactive music platform. We are looking for an inventive and highly talented engineer who is an expert with architecting and engineering a generalized, sophisticated cross-platform interactive computer graphics systems much like a game engine. You will design and create scalable and reusable software components for creating category-defying, highly interactive applications that span generative 2D and 3D graphics visualizers to interactive photo and video effects.</p>
+<p>
+From time-to-time, your system and architecture work will overlap with contributing to individual best-selling app experiences, and to work with well-known collaborators in the arts, music, and entertainment. This is a wonderful opportunity for a senior software engineer with interests in graphics, gaming, or music who wants a uniquely satisfying job. Snibbe Studio provides a uniquely positive, playful and kind workplace filled with &ldquo;A&rdquo; players from all fields. The position is available immediately.</p>
+<p>
+<strong>Key skills required:</strong></p>
+<ul>
+<li>
+Demonstrated experience architecting and engineering to scalable graphics architectures including, or similar to: openFrameworks, Cinder, Processing, Unity, etc.</li>
+<li>
+Deeply versed in all aspects of 2D and 3D C++ Computer graphics programming in OpenGL and OpenGL ES</li>
+<li>
+Experience with interactive real-time video and photo effects and shaders</li>
+<li>
+Excellent interpersonal and communications skills</li>
+<li>
+Sensitivity to aesthetic details in color, movement, and sound</li>
+<li>
+Interface and configure high-level back-end systems such as Parse</li>
+</ul>
+<p>
+<br />
+<strong>Skills and interest in the following areas are also useful:</strong></p>
+<ul>
+<li>
+Masters&rsquo; degree or equivalent in Computer Science (Graphics, Interface, or Systems)</li>
+<li>
+Experience with iOS programming for iPad and iPhone</li>
+<li>
+Visualization programming</li>
+<li>
+Music programming &ndash; FMOD, CoreAudio, or related systems</li>
+<li>
+Animation, art, or music background</li>
+<li>
+Experience on Android platform with NDK</li>
+</ul>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Architect and engineer our underlying systems for rapidly and scalably producing cross-platform interactive music and entertainment apps.</li>
+<li>
+Inspiring and expanding the engineering team&rsquo;s knowledge by solving difficult problems, and introducing the team to innovative graphics and software engineering techniques.</li>
+<li>
+Generalize program modules from pre-existing apps, and extend our existing framework and engines.</li>
+<li>
+Expand documentation, quality assurance techniques (including automated testing), and coding standards.</li>
+<li>
+Working collaboratively with producers, interaction designers, musicians, filmmakers, and the CEO, Scott Snibbe.</li>
+<li>
+Work closely with creative staff to translate designs and concepts into software systems.</li>
+<li>
+Please send a letter of interest, resume, and sample work to jobs@snibbestudio.com. We will request interviews and recommendation letters from the top candidates.</li>
+</ul>
+<p>
+<strong>ABOUT SNIBBE STUDIO</strong></p>
+<p>
+Snibbe Studio is a rapidly growing startup, pioneering apps as a new interactive medium with the emotional impact of music and movies, yet one where we play an active part in changing, creating, and exploring worlds beneath our fingertips. We produce original, category-defying music and entertainment apps, and partner creatively with musicians, filmmakers, labels, and studios. We believe interactivity is capable of no less than bringing our dreams to life. Our company&rsquo;s work includes the bestselling apps Gravilux, Bubble Harp, OscilloScoop, Bj&ouml;rk&rsquo;s Biophilia, and the Beck/Philip Glass REWORK_ App Album.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/snibbestudio/eNXvt2"></script>]]></buttons>
+		</job>
+	</jobs>
