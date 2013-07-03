@@ -1,0 +1,11 @@
+.new_user_form
+  .social_sign_up
+    =button_to('Sign Up with Linked In', '/auth/linkedin', :class => 'btn btn-large btn-primary')
+  =form_for(User.new) do |f|
+    = f.text_field :name, :placeholder => "Name..."
+    = f.text_field :email, :placeholder => "Email..."
+    = f.password_field :password, :placeholder => "Password..."
+    = f.password_field :password_confirmation, :placeholder => "Confirmation..."
+    .submit_button
+      = f.submit "Sign Up", :class =>  "btn btn-large btn-primary"
+    %end 
