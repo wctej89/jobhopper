@@ -17,6 +17,8 @@ gem 'omniauth-linkedin'
 gem 'heroku'
 gem 'faraday'
 gem 'linkedin'
+gem 'compass'
+gem 'zurb-foundation'
 
 #############################
 # Environment-specific gems #
@@ -29,7 +31,6 @@ end
 # The :assets group is for building static assets
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'                # syntatically awesome stylesheets - sass-lang.com for more info
-  gem 'bootstrap-sass'
   gem 'therubyracer', :require => 'v8'                            # javascript runtime to support coffeescript
   gem 'uglifier', '>= 1.0.3'
   gem 'handlebars_assets'

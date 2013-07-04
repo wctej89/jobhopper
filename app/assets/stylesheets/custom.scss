@@ -1,0 +1,66 @@
+@import "foundation";
+
+/*universal*/
+
+body {
+  padding-top: 0px !important;
+}
+
+#wrapper {
+  width: 100%;
+}
+
+.container {
+  margin-left: 10%;
+  margin-right: 10%;
+  //need to change this to accomodate inifinite scroll
+  min-height: 900px;
+}
+
+.top-bar  h1  {
+  color: white;
+}
+
+
+/* home */ 
+
+.logo {
+  background:url(/assets/logo.jpg);
+  background-size:80px 60px;
+  background-repeat:no-repeat;
+  
+}
+
+.home-search input {
+  font-size:48px !important;
+  border: none !important;
+}
+
+
+.search-results {
+  list-style: none;
+}
+
+.search-results li {
+  margin-left: 15%;
+  height: 100px;
+}
+
+.job-info {
+  margin: 0;
+  width: 50%;
+  float:left;
+}
+
+.job-info h1 {
+  margin: 0;
+}
+
+.job-info h3 {
+  margin: 0;
+}
+
+.job-buttons {
+  float: left;
+  width: 50%;
+}

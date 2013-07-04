@@ -4,9 +4,11 @@
     = stylesheet_link_tag "application"
     = stylesheet_link_tag "custom"
     = javascript_include_tag "application"
+    = javascript_include_tag "vendor/custom.modernizr"
     = csrf_meta_tags
   %body
     #wrapper
+      %div{:class => "contain-to-grid sticky"}
       =render 'shared/header'
       .container  
         =render 'shared/alerts'

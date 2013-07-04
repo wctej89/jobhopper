@@ -1,15 +1,6 @@
-%section.call_to_action
-  .inner_container
-    .catchphrase
-      %h1 Lorem Ipsum
-      %h3 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-    .sign_up_form
-      =render :partial => 'shared/sign_up_form'
-%section.more_info
-  %h1 Catchphrase
-  %h3 Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-  .row
-    %h1 put stuff here
-    .marketing#1
-    .marketing#2
-    .marketing#3
+%section.search
+  .logo
+  =form_tag '#', :method => 'get' do
+    = text_field_tag :search, params[:search], :placeholder => "Enter keywords here", :class => "home-search", :style => "font-size: 48px; border: none;"
+  %ul.search-results
+
