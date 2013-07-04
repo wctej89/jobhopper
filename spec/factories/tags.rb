@@ -2,5 +2,8 @@
 
 FactoryGirl.define do
   factory :tag do
+    name "TAG"
+    user
+    job
   end
 end
