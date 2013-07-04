@@ -12,11 +12,11 @@ namespace :jobs do
   end
 
   def load_results(page, pages)
-    until page > pages 
+    unless page > pages 
       response = make_connection(page)
       results = JSON.parse(response.body)
       results["jobs"].each do |result|
-        Job.create(:name => result["title"], :description => result["startup"]["description"], :company => result["startup"]["name"], :source_url => result["startup"]["angellist_url"])
+        Job.create(:name => result["title"], :description => result["startup"]["product_desc"], :company => result["startup"]["name"], :source_url => result["startup"]["angellist_url"])
       end
       next_page = page += 1
       load_results(next_page, pages)
