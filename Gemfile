@@ -21,6 +21,8 @@ gem 'compass'
 gem 'zurb-foundation'
 gem 'geokit'
 gem 'tire'  
+gem 'sidekiq'
+gem 'redis'
 
 #############################
 # Environment-specific gems #

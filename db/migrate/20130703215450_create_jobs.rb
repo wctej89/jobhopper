@@ -6,6 +6,7 @@ class CreateJobs < ActiveRecord::Migration
       t.string :email
       t.string :company
       t.string :source_url
+      t.integer :angellist_id
       t.timestamps
     end
   end
