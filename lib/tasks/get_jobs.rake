@@ -16,7 +16,10 @@ namespace :jobs do
       response = make_connection(page)
       results = JSON.parse(response.body)
       results["jobs"].each do |result|
-        Job.create(:name => result["title"], :description => result["startup"]["product_desc"], :company => result["startup"]["name"], :source_url => result["startup"]["angellist_url"])
+        job = Job.create(:name => result["title"], :description => result["startup"]["product_desc"], :company => result["startup"]["name"], :source_url => result["startup"]["angellist_url"])
+        result["tags"].each do |tag|
+          job.tags << Tag.find_or_create_by_name(name: tag["name"])
+        end
       end
       next_page = page += 1
       load_results(next_page, pages)
