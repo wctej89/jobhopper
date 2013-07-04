@@ -14,6 +14,27 @@ namespace :jobs do
     pages = results["last_page"].to_i
     current_page = results["page"].to_i
     load_results(current_page, pages)
+    # update_tags(current_page, pages)
+  end
+
+  # desc "Update tags with type"
+  # task :tagtype => :environment do
+
+  # end
+
+  def update_tags(page, pages)
+    unless page > pages 
+      response = make_connection(page)
+      results = JSON.parse(response.body)
+      results["jobs"].each do |result|
+        result["tags"].each do |tag|
+          fuck = Tag.find_by_name(tag["name"])
+          fuck.update_attribute(:tag_type, tag["tag_type"])
+        end
+      end
+      next_page = page += 1
+      update_tags(next_page, pages)
+    end
   end
 
   def load_results(page, pages)
@@ -26,6 +47,8 @@ namespace :jobs do
           job.tags << Tag.find_or_create_by_name(name: tag["name"])
         end
       end
+      next_page = page += 1
+      load_results(next_page, pages)
     end
   end
 
