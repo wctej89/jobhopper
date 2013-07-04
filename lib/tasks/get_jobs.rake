@@ -38,13 +38,14 @@ namespace :jobs do
   end
 
   def load_results(page, pages)
-    unless page > pages 
+    unless page > 3
       response = make_connection(page)
       results = JSON.parse(response.body)
       results["jobs"].each do |result|
         job = Job.create(:name => result["title"], :description => result["startup"]["product_desc"], :company => result["startup"]["name"], :source_url => result["startup"]["angellist_url"])
         result["tags"].each do |tag|
-          job.tags << Tag.find_or_create_by_name(name: tag["name"])
+
+          job.tags << Tag.create(name: tag["name"], tag_type: tag["tag_type"])
         end
       end
       next_page = page += 1

@@ -19,6 +19,8 @@ gem 'faraday'
 gem 'linkedin'
 gem 'compass'
 gem 'zurb-foundation'
+gem 'geokit'
+gem 'geokit-rails'
 
 #############################
 # Environment-specific gems #
