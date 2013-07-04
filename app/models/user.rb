@@ -1,7 +1,8 @@
 class User < ActiveRecord::Base
   attr_accessible :name, :email, :password, :password_confirmation
   has_secure_password
-  has_many :tags
+  has_many :user_tags
+  has_many :tags, :through => :user_tags
   validates :email, presence: true, uniqueness: { case_sensitive: false }
   validates_email_format_of :email
 

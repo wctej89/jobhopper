@@ -1,5 +1,5 @@
 class Tag < ActiveRecord::Base
-  attr_accessible :name, :user_id, :job_id
+  attr_accessible :name
   belongs_to :user
   belongs_to :job
 end

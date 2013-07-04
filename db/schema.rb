@@ -11,7 +11,14 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130704064223) do
+ActiveRecord::Schema.define(:version => 20130704085054) do
+
+  create_table "job_tags", :force => true do |t|
+    t.integer  "job_id"
+    t.integer  "tag_id"
+    t.datetime "created_at", :null => false
+    t.datetime "updated_at", :null => false
+  end
 
   create_table "jobs", :force => true do |t|
     t.string   "name"
@@ -25,11 +32,16 @@ ActiveRecord::Schema.define(:version => 20130704064223) do
 
   create_table "tags", :force => true do |t|
     t.string   "name"
-    t.integer  "user_id"
-    t.integer  "job_id"
     t.datetime "created_at", :null => false
     t.datetime "updated_at", :null => false
     t.string   "tag_type"
+  end
+
+  create_table "user_tags", :force => true do |t|
+    t.integer  "user_id"
+    t.integer  "tag_id"
+    t.datetime "created_at", :null => false
+    t.datetime "updated_at", :null => false
   end
 
   create_table "users", :force => true do |t|
