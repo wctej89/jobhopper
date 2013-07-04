@@ -12,7 +12,8 @@ resumator_company_file = File.open('resumator_clients.txt','a+')
 
 companies.each_with_index do |company, i|
   puts i
-  begin 
+  begin
+    sleep(0.1) 
     company_data = Hash.from_xml(open("http://app.theresumator.com/feeds/export/jobs/#{company}").read)
   rescue Exception => e
     company_data = {}

@@ -22,12 +22,8 @@ gem 'linkedin'
 # Environment-specific gems #
 #############################
 
-group :production do 
+group :development, :production do 
   gem 'pg'
-end
-
-group :development do
-  gem 'sqlite3'
 end
 
 # The :assets group is for building static assets
