@@ -16,6 +16,7 @@ gem 'omniauth'
 gem 'omniauth-linkedin'
 gem 'heroku'
 gem 'faraday'
+gem 'linkedin'
 
 #############################
 # Environment-specific gems #

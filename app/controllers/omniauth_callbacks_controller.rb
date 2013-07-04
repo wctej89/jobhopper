@@ -2,7 +2,7 @@ class OmniauthCallbacksController < ApplicationController
   
   def all
     user = User.from_omniauth(auth_hash)
-    debugger
+    raise auth_hash.to_yaml
     if user.persisted?
       sign_in(user)
       flash[:notice] = "Signed In"
