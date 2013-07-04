@@ -16,6 +16,14 @@ class User < ActiveRecord::Base
       # TODO hack PLEASE FIX THIS
       user.password = "blank_string"
       user.password_confirmation = "blank_string"
+      user.build_skills(auth_hash["extra"]["raw_info"]["skills"]["values"])
+    end
+  end
+
+  def build_skills(skills)
+    skills.each do |skill|
+      tag = Tag.find_or_create_by_name(skill["skill"]["name"].downcase)
+      self.tags << tag
     end
   end
 

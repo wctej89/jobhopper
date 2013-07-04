@@ -86,6 +86,11 @@ describe User do
         linkedin_user = User.from_omniauth(@auth_hash)
         linkedin_user.should be_valid
       end
+
+      it "should add to the user's tags" do
+        linkedin_user = User.from_omniauth(@auth_hash)
+        linkedin_user.tags
+      end
     end
   end
 end

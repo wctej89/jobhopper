@@ -16,7 +16,8 @@ module OmniauthTest
       :credentials => {
         :token => '1234567', 
         :secret => '1234567',
-      }
+      },
+      :extra => {:raw_info => {:skills => {:values => [{:skill => {:name => 'Ruby on Rails'}}]}}}
     })
   end
 end
