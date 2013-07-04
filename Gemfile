@@ -19,6 +19,8 @@ gem 'faraday'
 gem 'linkedin'
 gem 'compass'
 gem 'zurb-foundation'
+gem 'sidekiq'
+gem 'redis'
 
 #############################
 # Environment-specific gems #
