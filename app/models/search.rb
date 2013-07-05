@@ -1,4 +1,3 @@
-require 'geokit'
 module Search
 
   def query_exact(query_string)
@@ -76,5 +75,5 @@ module Search
   def to_rad(coordinate)
     coordinate.to_f * Math::PI / 180
   end
-
 end
+
