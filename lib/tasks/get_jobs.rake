@@ -1,4 +1,5 @@
 require_relative('../angellist')
+require_relative('../add_location')
 class String
   def strip_tags
     ActionController::Base.helpers.strip_tags(self)
@@ -6,6 +7,7 @@ class String
 end
 
 include Angellist
+include Addlocation
 namespace :jobs do
   desc "Get Jobs from Angellist"
   task :angellist => :environment do
@@ -17,10 +19,10 @@ namespace :jobs do
     # update_tags(current_page, pages)
   end
 
-  # desc "Update tags with type"
-  # task :tagtype => :environment do
-
-  # end
+  desc "Add locations"
+  task :locations => :environment do
+    populate
+  end
 
   def update_tags(page, pages)
     unless page > pages 
@@ -38,13 +40,12 @@ namespace :jobs do
   end
 
   def load_results(page, pages)
-    unless page > 3
+    unless page > pages
       response = make_connection(page)
       results = JSON.parse(response.body)
       results["jobs"].each do |result|
         job = Job.create(:name => result["title"], :description => result["startup"]["product_desc"], :company => result["startup"]["name"], :source_url => result["startup"]["angellist_url"])
         result["tags"].each do |tag|
-
           job.tags << Tag.create(name: tag["name"], tag_type: tag["tag_type"])
         end
       end

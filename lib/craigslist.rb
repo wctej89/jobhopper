@@ -2,7 +2,7 @@ require 'mechanize'
 require 'debugger'
 
 module Craigslist
-  def scrape(url)
+  def scrape(urlTag)
     agent = Mechanize.new
     index_page = agent.get(url)
     rows = agent.page.parser.css('.row')

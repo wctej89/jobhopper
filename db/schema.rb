@@ -11,8 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-<<<<<<< Updated upstream
-ActiveRecord::Schema.define(:version => 20130704085054) do
+ActiveRecord::Schema.define(:version => 20130704193008) do
 
   create_table "job_tags", :force => true do |t|
     t.integer  "job_id"
@@ -20,9 +19,6 @@ ActiveRecord::Schema.define(:version => 20130704085054) do
     t.datetime "created_at", :null => false
     t.datetime "updated_at", :null => false
   end
-=======
-ActiveRecord::Schema.define(:version => 20130704193008) do
->>>>>>> Stashed changes
 
   create_table "jobs", :force => true do |t|
     t.string   "name"
