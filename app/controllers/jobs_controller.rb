@@ -1,6 +1,7 @@
 class JobsController < ApplicationController
   before_filter :authenticate_user
 
+  #TODO think about adding this to the lists controller
   def add_to_queue
     @list = current_user.list
     if @list.add_job(params[:id])
@@ -13,7 +14,8 @@ class JobsController < ApplicationController
   end
 
   def remove_from_queue
-    JobList.find_by_list_id_and_job_id(current_user.list, params[:id]).destroy
+    list = current_user.list
+    list.remove_job(params[:id])
     render :text => "fuck yeah"
   end
 end

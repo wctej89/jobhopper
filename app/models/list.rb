@@ -10,4 +10,8 @@ class List < ActiveRecord::Base
     job = Job.find(id)
     self.job_lists.create(:list_id => self.id, :job_id => job.id, :status => "pending")
   end
+
+  def remove_job(id)
+    JobList.find_by_list_id_and_job_id(self.id, id).destroy
+  end
 end
