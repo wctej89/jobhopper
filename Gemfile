@@ -19,6 +19,7 @@ gem 'faraday'
 gem 'linkedin'
 gem 'compass'
 gem 'zurb-foundation'
+gem 'tire'  
 
 #############################
 # Environment-specific gems #
