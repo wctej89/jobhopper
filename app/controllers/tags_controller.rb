@@ -1,16 +1,15 @@
 class TagsController < ApplicationController
+  include Search
 
 
   def search
-    @query = params[:search].split(/,/)
+    # TODO Benchmark this 
+    # @query = params[:search].split(/,/)
     page = params[:page].to_i
-    searches = Tag.search(params[:search])
-    jobs = []
-    debugger
-    searches.each do |tag|
-      jobs << tag.jobs
-    end
-    results = jobs.flatten.uniq
+    location = params[:user_location] || cookies[:user_location]
+    #TODO think about background workers here... two+ indexes
+    tags = search_tags(params[:search], location)
+    jobs = search_jobs(params[:search], location)
     start_index = (page-1) * 20
     response = {}
     response[:total] = results.count
