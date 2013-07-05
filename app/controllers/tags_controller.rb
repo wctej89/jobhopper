@@ -4,6 +4,7 @@ class TagsController < ApplicationController
     @query = params[:search].split(/,/)
     searches = Tag.search(params[:search])
     jobs = []
+    debugger
     searches.each do |tag|
       jobs << tag.jobs
     end
