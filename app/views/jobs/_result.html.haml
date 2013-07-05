@@ -5,3 +5,9 @@
     .buttons
       %button Not Relevant
       %button Add to Queue
+      %button More info
+    %ul.more-info{:style => "display:none;"}
+      %li= job.company
+      %li= job.source_url
+      %li
+        %p= job.description
