@@ -2,6 +2,8 @@
   .logo
   =form_tag search_path, :method => 'get' do
     = text_field_tag :search, params[:search], :placeholder => "Enter keywords here", :class => "home-search", :style => "font-size: 48px; border: none;"
+    %p.location
+      Looking for Jobs in 
   %ul.search-results
 
 :javascript

@@ -10,7 +10,7 @@ module Addlocation
             coordinates = Geokit::Geocoders::GoogleGeocoder3.geocode(tag.name)
             job.update_attribute(:lat, coordinates.lat)
             job.update_attribute(:lng, coordinates.lng)
-            sleep(0.2)
+            sleep(0.5)
           end
         end
       end

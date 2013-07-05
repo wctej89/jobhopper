@@ -1,6 +1,27 @@
-7/3/13 
+7/5/13 
 
--Neil --- made many to many relationships between tags and jobs and tags and users. 
+Jobhopper: Get Started
 
--Updated specs for job_tags and user_tags
-- 
+1. Install elastic search 
+
+brew install elasticsearch
+
+2. Run elasticsearch
+
+elasticsearch -f -D es.config=/usr/local/opt/elasticsearch/config/elasticsearch.yml
+
+3. bundle
+
+4. rake db:drop && rake db:create
+
+5. seed the db
+
+psql jobhopper_development < jobhopper_development.sql
+
+7. Get lats and long's for jobs
+
+rake jobs:location
+
+8. Reindex the search indexes
+
+rake search:reindex

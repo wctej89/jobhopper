@@ -12,4 +12,4 @@ LINKEDIN_CONFIGURATION = { :site => 'https://api.linkedin.com',
 Geokit::default_units = :miles
 Geokit::default_formula = :sphere
 
-Geokit::Geocoders::google = 'AIzaSyBl7QY2_mD9bBhZvI3U8o_0ggqIhgu9VpA'
+Geokit::Geocoders::google = 'AIzaSyCezPxXqt_kWkjBmJVveal4fGgngT4keGg'

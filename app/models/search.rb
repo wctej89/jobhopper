@@ -37,6 +37,7 @@ module Search
     if user_loc
       user_loc.map! {|coordinate| coordinate.to_f}
       sorted_by_distance = {}
+      i = 0
       jobs_array.each do |job|
         if job.has_coordinates
           job_coordinates = [job.lat, job.lng]
@@ -44,7 +45,6 @@ module Search
           sorted_by_distance[distance] = job
         else
           #TODO HACK FIX THIS SHIT
-          i = 0
           sorted_by_distance[100000000 + i] = job
           i += 1
         end
