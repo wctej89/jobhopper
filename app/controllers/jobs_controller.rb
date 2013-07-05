@@ -11,4 +11,9 @@ class JobsController < ApplicationController
       # TODO Log errors
     end
   end
+
+  def remove_from_queue
+    JobList.find_by_list_id_and_job_id(current_user.list, params[:id]).destroy
+    render :text => "fuck yeah"
+  end
 end

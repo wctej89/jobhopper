@@ -3,5 +3,5 @@ class JobList < ActiveRecord::Base
   belongs_to :job
   belongs_to :list
 
-  validates :job_id, uniqueness: true
+  validates_uniqueness_of :job_id, :scope => :list_id
 end
