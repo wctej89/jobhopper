@@ -24,5 +24,12 @@ class ApplicationController < ActionController::Base
     end
   end
 
+  def authenticate_user
+    if current_user.nil?
+      redirect_to new_session_path
+      flash[:errors] = "you must sign up before you do that"
+    end
+  end
+
   helper_method :current_user
 end

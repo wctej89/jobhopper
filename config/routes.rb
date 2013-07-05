@@ -9,6 +9,8 @@ OptionsIo::Application.routes.draw do
   match '/signout', to: 'sessions#destroy'
   match '/search', to: 'tags#search'
   match '/location', to: 'static_pages#location'
+  match '/add_to_queue/:id', to: 'jobs#add_to_queue', :as => 'add_to_queue'
+
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

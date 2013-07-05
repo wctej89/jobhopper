@@ -1,5 +1,6 @@
 $(document).ready(function(){
 
+
   $('input').on('keyup', function(e){
     console.log(e.keyCode);
     if(e.keyCode == 188){
@@ -13,12 +14,23 @@ $(document).ready(function(){
         data: "search=" + tag
       }).success(function(response){
         console.log(response);
-        $('.search-results').prepend(response)
+        $('.search-results').prepend(response);
       });
     }
     if(e.target.value === ''){
-      console.log("Test")
+      console.log("Test");
       $('.search-results').html('');
     }
+  });
+
+   $(document).on('click', '.add_to_queue', function(e){
+      e.preventDefault();
+
+    $.ajax({
+      method: "GET",
+      url: $(this).attr('href')
+    }).success(function(response){
+      console.log($(this));
+    });
   });
 });
