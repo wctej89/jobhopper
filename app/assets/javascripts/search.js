@@ -25,12 +25,13 @@ $(document).ready(function(){
 
    $(document).on('click', '.add_to_queue', function(e){
       e.preventDefault();
-
+      var job = this
     $.ajax({
       method: "GET",
       url: $(this).attr('href')
     }).success(function(response){
-      console.log($(this));
+      $(job).closest('li').remove();
     });
+    
   });
 });
