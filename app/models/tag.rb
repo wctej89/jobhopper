@@ -9,7 +9,6 @@ class Tag < ActiveRecord::Base
   # validates :name, uniqueness: true
   validates :name, presence: true
 
-
   def self.search(params)
     tire.search(load: true) do
       query { string params, default_operator: "AND" } if params.present?

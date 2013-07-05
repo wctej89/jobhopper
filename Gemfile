@@ -19,12 +19,8 @@ gem 'faraday'
 gem 'linkedin'
 gem 'compass'
 gem 'zurb-foundation'
-<<<<<<< HEAD
 gem 'geokit'
-# gem 'geokit-rails'
-=======
 gem 'tire'  
->>>>>>> working commit
 
 #############################
 # Environment-specific gems #
