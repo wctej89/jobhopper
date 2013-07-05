@@ -6,6 +6,7 @@ class TagsController < ApplicationController
     page = params[:page].to_i
     searches = Tag.search(params[:search])
     jobs = []
+    debugger
     searches.each do |tag|
       jobs << tag.jobs
     end
