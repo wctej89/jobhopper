@@ -1,5 +1,6 @@
 require_relative('../angellist')
 require_relative('../add_location')
+require_relative('../scrapers/angellist')
 class String
   def strip_tags
     ActionController::Base.helpers.strip_tags(self)
