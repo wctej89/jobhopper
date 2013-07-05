@@ -1,10 +1,24 @@
 $(document).ready(function(){
 
-  // this is test functionality - not meant for production
-  // reach out to a rails controller and get html partials here
-  //render the html partials as li's in the search-results list
-  $('.home-search').on('keyup', function(e){
-
-    $('.search-results').append('<li><div class="job-info"><h1>The Best Job Ever</h1><h3><a href="http://company.com">Company name</a></div></h3><div class="job-buttons"><button>Not Relevant</button><button>Add to Queue</button></div></li>');
+  $('input').on('keyup', function(e){
+    console.log(e.keyCode);
+    if(e.keyCode == 188){
+      var tag_array = $('.home-search').val().split(/,/).map(function(t){return t.trim()});
+      var tag = tag_array[tag_array.length - 2];
+      console.log(tag_array);
+      console.log(tag);
+      $.ajax({
+        method: "GET", 
+        url: '/search',
+        data: "search=" + tag
+      }).success(function(response){
+        console.log(response);
+        $('.search-results').prepend(response)
+      });
+    }
+    if(e.target.value === ''){
+      console.log("Test")
+      $('.search-results').html('');
+    }
   });
 });

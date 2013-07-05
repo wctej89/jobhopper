@@ -7,6 +7,7 @@ OptionsIo::Application.routes.draw do
 
   match '/auth/:provider/callback', to: 'omniauth_callbacks#all'
   match '/signout', to: 'sessions#destroy'
+  match '/search', to: 'tags#search'
 
 
   # The priority is based upon order of creation:
