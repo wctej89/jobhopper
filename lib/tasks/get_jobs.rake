@@ -18,7 +18,7 @@ namespace :jobs do
     pages = results["last_page"].to_i
     current_page = results["page"].to_i
     load_results(current_page, pages)
-    # update_tags(current_page, pages)
+    update_tags(current_page, pages)
   end
 
   desc "Add locations"

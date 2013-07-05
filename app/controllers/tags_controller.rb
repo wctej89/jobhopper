@@ -3,22 +3,20 @@ class TagsController < ApplicationController
 
   def search
     # TODO Benchmark this 
-    # @query = params[:search].split(/,/)
+    location = [cookies['lat'], cookies['lon']] if (cookies['lat'] && cookies['lon'])
     page = params[:page].to_i
-    location = params[:user_location]
     #TODO think about background workers here... two+ indexes
-    tags = search_tags(params[:search], location)
-    jobs = search_jobs(params[:search], location)
-    location = params[:user_location] || cookies[:user_location]
-    #TODO think about background workers here... two+ indexes
-    tags = search_tags(params[:search], location)
-    jobs = search_jobs(params[:search], location)
-    results = (jobs << tags).flatten.uniq
+    results = search_all(params[:search], location)
+    render :json => paginate(results, page)
+  end
+
+  protected 
+
+  def paginate(array, page)
     start_index = (page-1) * 20
     response = {}
-    response[:total] = results.count
-    response[:total_pages] = results.count/20
-    response[:results] = results[start_index...(start_index+20)]
-    render :json => response[:results]
+    response[:total] = array.count
+    response[:total_pages] = array.count/20
+    response[:results] = array[start_index...(start_index+20)]
   end
 end
