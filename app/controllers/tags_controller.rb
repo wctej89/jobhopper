@@ -9,11 +9,16 @@ class TagsController < ApplicationController
     #TODO think about background workers here... two+ indexes
     tags = search_tags(params[:search], location)
     jobs = search_jobs(params[:search], location)
+    location = params[:user_location] || cookies[:user_location]
+    #TODO think about background workers here... two+ indexes
+    tags = search_tags(params[:search], location)
+    jobs = search_jobs(params[:search], location)
+    results = (jobs << tags).flatten.uniq
     start_index = (page-1) * 20
     response = {}
     response[:total] = results.count
     response[:total_pages] = results.count/20
     response[:results] = results[start_index...(start_index+20)]
-    render :json => response
+    render :json => response[:results]
   end
 end
