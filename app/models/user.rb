@@ -3,10 +3,12 @@ class User < ActiveRecord::Base
   has_secure_password
   has_many :user_tags
   has_many :tags, :through => :user_tags
+  has_one :list
   validates :email, presence: true, uniqueness: { case_sensitive: false }
   validates_email_format_of :email
 
   before_save :downcase_email
+  after_create :create_list
 
   def self.from_omniauth(auth_hash)
     where(auth_hash.slice(:provider, :uid)).first_or_create do |user|
@@ -29,6 +31,10 @@ class User < ActiveRecord::Base
   end
 
 private
+
+  def create_list
+    List.create(:user_id => self.id)
+  end
 
   def downcase_email
     self.email.downcase!

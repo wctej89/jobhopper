@@ -6,7 +6,7 @@ class TagsController < ApplicationController
     @query.each do |tag|
       puts "Tag Name --- " + tag
       puts "-" * 100
-      jobs << Tag.find_by_name(tag.downcase.strip).jobs[0..10]
+      jobs << Tag.find_by_name(tag.downcase.strip).jobs.first
     end
     results = jobs.flatten.uniq
     render :partial => 'jobs/result', :locals => {jobs: results}

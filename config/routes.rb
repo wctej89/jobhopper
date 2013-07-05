@@ -8,6 +8,7 @@ OptionsIo::Application.routes.draw do
   match '/auth/:provider/callback', to: 'omniauth_callbacks#all'
   match '/signout', to: 'sessions#destroy'
   match '/search', to: 'tags#search'
+  match '/add_to_queue/:id', to: 'jobs#add_to_queue', :as => 'add_to_queue'
 
 
   # The priority is based upon order of creation:

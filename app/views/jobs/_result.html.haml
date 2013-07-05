@@ -4,7 +4,7 @@
       %h1= job.name
     .buttons
       %button Not Relevant
-      %button Add to Queue
+      =link_to "+ Queue", add_to_queue_path(job), class: "button add_to_queue" 
       %button More info
     %ul.more-info{:style => "display:none;"}
       %li= job.company
