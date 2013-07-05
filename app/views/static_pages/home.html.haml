@@ -4,3 +4,18 @@
     = text_field_tag :search, params[:search], :placeholder => "Enter keywords here", :class => "home-search", :style => "font-size: 48px; border: none;"
   %ul.search-results
 
+:javascript
+    if (navigator.geolocation)
+      {
+      navigator.geolocation.getCurrentPosition(sendPositionToServer);
+      }
+    else{x.innerHTML="Geolocation is not supported by this browser.";}
+  function sendPositionToServer(position){
+     $.ajax({
+      url: '/location',
+      type: 'get',
+      data: {lat: position.coords.latitude, lng: position.coords.longitude}
+    }).done(function(response){
+       $('form').append("I know you live in " + response.city)
+    });
+  }
