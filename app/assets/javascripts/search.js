@@ -10,7 +10,7 @@ $(document).ready(function(){
       $.ajax({
         method: "GET", 
         url: '/search',
-        data: "search=" + tag
+        data: "search=" + tag + "&page=" + 1
       }).success(function(response){
         console.log(response);
         $('.search-results').prepend(response)
