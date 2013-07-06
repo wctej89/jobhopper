@@ -14,5 +14,14 @@
 //= require jquery_ujs
 //= require foundation
 //= require_tree .
+//= require mustache
+//= require underscore
+
+/*!
+ * mustache.js - Logic-less {{mustache}} templates with JavaScript
+ * http://github.com/janl/mustache.js
+ */
+
+/*global define: false*/
 
 $(function(){ $(document).foundation(); });

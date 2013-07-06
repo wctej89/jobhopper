@@ -16,3 +16,14 @@
     $.cookie('lat', position.coords.latitude);
     $.cookie('lon', position.coords.longitude);
     };
+
+%script{:id => "results", :type => "template"}
+  {{#jobs}}
+  %li
+    .job-info
+      %h1 {{name}}
+    .buttons
+      %button Not Relevant
+      %button Add to Queue
+      %button More info
+  {{/jobs}}
