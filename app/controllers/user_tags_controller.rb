@@ -2,7 +2,6 @@ class UserTagsController < ApplicationController
 
 
   def create
-    debugger
     user = User.find(params["user_tags"]["user_id"].to_i)
     tags = params["user_tags"]["tags"]
     tags.each do |tag|
@@ -10,7 +9,8 @@ class UserTagsController < ApplicationController
     end
   end
 
-  def update
-    debugger
+  def destroy
+    user = current_user
+    
   end
 end
