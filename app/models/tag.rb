@@ -14,4 +14,8 @@ class Tag < ActiveRecord::Base
       query { string params, default_operator: "AND" } if params.present?
     end
   end
+
+  def is_location?
+    self.tag_type = 'LocationTag'
+  end
 end

@@ -15,7 +15,8 @@
 //= require foundation
 //= require_tree .
 //= require mustache
-//= require underscore
+//= require underscore  
+//= require chosen.jquery.js
 
 /*!
  * mustache.js - Logic-less {{mustache}} templates with JavaScript
@@ -25,3 +26,7 @@
 /*global define: false*/
 
 $(function(){ $(document).foundation(); });
+
+$(function(){
+  $('.chzn-select').chosen();
+});
