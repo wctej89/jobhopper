@@ -1,11 +1,10 @@
 class OmniauthCallbacksController < ApplicationController
 
-  
   def all
     user = User.from_omniauth(auth_hash) 
     if user.persisted?
       sign_in(user)
-      wizard
+      wizard(user)
     else
       redirect_to new_user_path
       flash[:notice] = "Please create yourself"
@@ -16,7 +15,7 @@ class OmniauthCallbacksController < ApplicationController
 
   protected
 
-  def wizard
+  def wizard(user)
     if current_user.created_at >= (DateTime.now - 10.minutes)
       redirect_to wizard_path
     else

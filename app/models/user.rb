@@ -1,4 +1,5 @@
 class User < ActiveRecord::Base
+  include Search
   attr_accessible :name, :email, :password, :password_confirmation
   has_secure_password
   has_many :user_tags
@@ -28,6 +29,14 @@ class User < ActiveRecord::Base
       tag = Tag.find_or_create_by_name(skill["skill"]["name"].downcase)
       self.tags << tag
     end
+  end
+
+  def feed
+    tags = current_user.tags
+    jobs_array = []
+    tags.jobs.each {|job| jobs_array << job }
+    #sort by distance
+
   end
 
 private

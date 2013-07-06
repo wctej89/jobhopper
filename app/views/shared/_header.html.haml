@@ -4,10 +4,17 @@
       %h1 Jobhopper
   %section.top-bar-section
     %ul.right
-      %li.divider
-      // when logged in
-      %li Notifications
-      %li divider
-      %li User
-      %li divider 
-      %li Sign Out
+      -if current_user
+        %li.divider
+        %li 
+          %a{href: '#'} Notifications
+        %li.divider
+        %li
+          %a{href: user_path(current_user)} Me
+        %li.divider  
+        %li 
+          %a{href: signout_path} Sign Out 
+      -else
+        %li.divider
+        %li
+          %a{href: '/auth/linkedin'} Sign In
