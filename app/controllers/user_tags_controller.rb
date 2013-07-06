@@ -18,3 +18,4 @@ class UserTagsController < ApplicationController
     render nothing: true
   end
 end
+
