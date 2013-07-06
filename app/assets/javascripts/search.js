@@ -1,5 +1,5 @@
 function shitFuck(){
-  if($(window).height() + $(window).scrollTop() + 100 > $(document).height()){
+  if($(window).height() + $(window).scrollTop() + 150 > $(document).height()){
     var page_num = $.cookie('page_num')
     var search_term = $.cookie('search_term')
     $.ajax({
@@ -16,7 +16,7 @@ function shitFuck(){
 $(document).ready(function(){
   $.cookie('page_num','0');
   
-  $(window).on("scroll",_.debounce(shitFuck,1000));
+  $(window).on("scroll",_.debounce(shitFuck,200));
 
 
 
@@ -41,6 +41,7 @@ $(document).ready(function(){
     }
     if(e.target.value === ''){
       $('.search-results').html('');
+      $.cookie('page_num','');
     }
   }
 

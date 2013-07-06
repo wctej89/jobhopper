@@ -10,8 +10,8 @@ module Search
   end
 
   def search_all(query_string, location)
-    tags = search_tags(params[:search])
-    jobs = search_jobs(params[:search])
+    tags = search_tags(query_string)
+    jobs = search_jobs(query_string)
     results = sort_by_radius((tags << jobs).flatten, location)
     results
   end
