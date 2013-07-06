@@ -6,6 +6,7 @@ class WizardsController < ApplicationController
   end
 
   def locations
-    @locations = current_user.locations
+    @locations = Tag.all.reject {|tag| !tag.is_location? }
+    @user_locs = current_user.tags.where('tag_type =?', 'LocationTag')
   end
 end

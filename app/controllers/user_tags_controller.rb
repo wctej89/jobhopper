@@ -7,9 +7,11 @@ class UserTagsController < ApplicationController
     tags.each do |tag|
       user.user_tags.create(:tag_id => Tag.find(tag.to_i))
     end
+    render :nothing => true
   end
 
   def destroy
+
     if current_user.id = params[:id]
       UserTag.find_by_tag_id_and_user_id(params[:id],current_user.id).destroy
     end
