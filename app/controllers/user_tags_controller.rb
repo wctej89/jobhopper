@@ -10,6 +10,9 @@ class UserTagsController < ApplicationController
   end
 
   def destroy
-    UserTag.where(tag_id: 11 && user_id=1)[0].destroy
+    if current_user.id = params[:id]
+      UserTag.find_by_tag_id_and_user_id(params[:id],current_user.id).destroy
+    end
+    render nothing: true
   end
 end
