@@ -1,5 +1,7 @@
 require_relative('../angellist')
 require_relative('../add_location')
+require_relative('../scrapers/angellist')
+
 class String
   def strip_tags
     ActionController::Base.helpers.strip_tags(self)
@@ -16,7 +18,7 @@ namespace :jobs do
     pages = results["last_page"].to_i
     current_page = results["page"].to_i
     load_results(current_page, pages)
-    # update_tags(current_page, pages)
+    update_tags(current_page, pages)
   end
 
   desc "Add locations"

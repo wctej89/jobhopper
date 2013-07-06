@@ -25,5 +25,3 @@ companies.each_with_index do |company, i|
     puts company
   end
 end
-  
-  
