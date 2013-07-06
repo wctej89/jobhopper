@@ -3,6 +3,8 @@ OptionsIo::Application.routes.draw do
   root :to => 'static_pages#home'
   resources :users
   resources :sessions, :only => [:new, :create, :destroy]
+  resources :user_tags
+  resources :job_tags
 
 
   match '/auth/:provider/callback', to: 'omniauth_callbacks#all'
@@ -11,6 +13,7 @@ OptionsIo::Application.routes.draw do
   match '/location', to: 'static_pages#location'
   match '/add_to_queue/:id', to: 'jobs#add_to_queue', :as => 'add_to_queue'
   match '/remove_from_queue/:id', to: 'jobs#remove_from_queue', :as => 'remove_from_queue'
+  match '/wizards/skills', to: 'wizards#skills', :as => 'wizard'
 
 
   # The priority is based upon order of creation:
