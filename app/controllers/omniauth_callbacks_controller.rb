@@ -1,11 +1,11 @@
 class OmniauthCallbacksController < ApplicationController
+
   
   def all
     user = User.from_omniauth(auth_hash) 
     if user.persisted?
       sign_in(user)
-      flash[:notice] = "Signed In"
-      redirect_to user_path(user)
+      wizard
     else
       redirect_to new_user_path
       flash[:notice] = "Please create yourself"
@@ -15,6 +15,14 @@ class OmniauthCallbacksController < ApplicationController
   alias_method :linkedin, :all
 
   protected
+
+  def wizard
+    if current_user.created_at >= (DateTime.now - 10.minutes)
+      redirect_to wizard_path
+    else
+      redirect_to user_path(user)
+    end
+  end
 
   def auth_hash
     request.env['omniauth.auth']
