@@ -10,7 +10,7 @@ gem 'data-table'
 gem 'haml'
 gem 'ejs'
 gem 'backbone-on-rails'
-gem 'bcrypt-ruby'
+gem 'bcrypt-ruby', '~> 3.0.0'
 gem 'validates_email_format_of'
 gem 'omniauth'
 gem 'omniauth-linkedin'
@@ -41,7 +41,7 @@ end
 group :test do
   gem 'capybara'                                # integration testing DSL
   gem 'capybara-webkit'                         # browser driver for capybara
-  gem 'capybara-mechanize'
+  gem 'capybara-mechanize'            
 end
 
 group :test, :development do
