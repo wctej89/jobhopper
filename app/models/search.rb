@@ -9,7 +9,7 @@ module Search
     query_string.strip.gsub(/~/, "").gsub(/\W+/, ",").split(",").map! { |k| "#{k}~0.7" }.join("+")
   end
 
-  def search_all(query_string, location)
+  def search_all
     tags = search_tags(query_string)
     jobs = search_jobs(query_string)
     results = sort_by_radius((tags << jobs).flatten, location)
