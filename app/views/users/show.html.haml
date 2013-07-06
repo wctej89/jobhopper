@@ -1,4 +1,11 @@
+%h1= @user.email
 %h1= @user.name + "'s Dashboard"
+%p= "Bio: #{@user.bio}"
+%p= "Location: #{@user.location}"
+%h2 Search Tags
+-@user.tags.each do |tag|
+  %button{:id => tag.id, :class => "remove_tag", :value => "Remove"}
+    %p= tag.name
 %h2 Your Queue
 -@user.list.jobs.each do |job|
   %li
