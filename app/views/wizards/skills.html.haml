@@ -1,8 +1,9 @@
 .skills
   %ul.skills-list
   -@skills.each do |skill|
-    %button=skill.name 
-    %a.delete{:id => skill.id, :href => '#'} X 
+    %li
+      %button=skill.name 
+      %a.delete{:id => skill.id, :href => '#'} X 
 
 
 .new_skills
