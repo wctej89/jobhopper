@@ -5,9 +5,9 @@ class UserTagsController < ApplicationController
     user = User.find(params["user_tags"]["user_id"].to_i)
     tags = params["user_tags"]["tags"]
     tags.each do |tag|
-      user.user_tags.create(:tag_id => Tag.find(tag.to_i))
+      user.user_tags.create(:tag_id => tag.to_i)
     end
-    render :nothing => true
+    redirect_to :back
   end
 
   def destroy
