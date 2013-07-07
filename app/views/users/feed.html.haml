@@ -13,6 +13,12 @@
           $( this ).find( ".placeholder" ).remove();
           $( "<li id=" + job_id + "></li>" ).text( ui.draggable.text() ).appendTo( this );
           $("#"+job_id).remove();
+          $.ajax({
+            method: "GET",
+            url: '/add_to_queue/' + job_id
+          }).success(function(response){
+            console.log("oo shit mothafucka")
+          });
         }
       }).sortable({
         items: "li:not(.placeholder)",
@@ -20,14 +26,6 @@
           $( this ).removeClass( "ui-state-default" );
         }
       });
-
-     $("#catalog ul").droppable({
-      drop: function(event, ui) {
-          $(ui.draggable).remove();
-      },
-      hoverClass: "ui-state-hover",
-      accept: '.cart-item'
-    });
   });
 .feed
   %h2 Your feed
