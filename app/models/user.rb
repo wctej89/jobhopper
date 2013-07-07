@@ -32,12 +32,11 @@ class User < ActiveRecord::Base
     end
   end
 
-  def feed
-    tags = current_user.tags
+  def feed(location)
+    tags = self.tags
     jobs_array = []
-    tags.jobs.each {|job| jobs_array << job }
+    tags.each {|job| jobs_array << job }
     #sort by distance
-
   end
 
 private

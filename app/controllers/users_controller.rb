@@ -2,6 +2,7 @@ class UsersController < ApplicationController
 
   before_filter :find_user, :only => [:edit, :show, :feed]
   before_filter :check_user_id, :only => [:edit]
+  before_filter :logged_in?, :only => [:new, :create]
   
   def new
     @user = User.new
@@ -23,7 +24,7 @@ class UsersController < ApplicationController
   end
 
   def update
-    if @user.update_attributes(params[:user])
+    if @user.update_attributes(para ms[:user])
       flash[:success] = "Profile Updated"
       redirect_to(@user)
     else
@@ -51,6 +52,7 @@ class UsersController < ApplicationController
   end
 
   private 
+
 
   def get_results(location)
     current_user.feed(location)

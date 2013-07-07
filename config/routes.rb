@@ -1,6 +1,6 @@
 OptionsIo::Application.routes.draw do
   match '/users/:id/feed', to: 'users#feed'
-  root :to => 'static_pages#home'
+  root :to => 'users#new'
   resources :users
   resources :sessions, :only => [:new, :create, :destroy]
   resources :user_tags

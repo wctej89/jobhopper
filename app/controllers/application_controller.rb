@@ -17,6 +17,10 @@ class ApplicationController < ActionController::Base
     cookies.delete(:user_id)
   end
 
+  def logged_in?
+    redirect_to user_feed_path(current_user) if current_user
+  end
+
   def check_user_id
     if current_user.id != params[:id]
       redirect_to user_path(current_user)

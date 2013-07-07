@@ -42,4 +42,5 @@
           %li{:class => "placeholder"} Add you jobs here
         -else
           -@queue.each do |job|
-            %li= job.name
+            %li="#{job.name}" 
+            
