@@ -36,14 +36,22 @@ class UsersController < ApplicationController
   end
 
   def feed
-    # TODO Benchmark this 
-    page = params[:page].to_i
+    page = 1
     #TODO think about background workers here... two+ indexes
-    results = current_user.feed
+    @results = get_results([cookies["lat"], cookies["lon"]])
+  end
+
+  def get_results
+    page = params[:page].to_i
+    results = get_results([cookies["lat"], cookies["lon"]])
     render :json => paginate(results, page)
   end
 
   private 
+
+  def get_results(location)
+    current_user.feed(location)
+  end
 
   def paginate(array, page)
     start_index = (page-1) * 20

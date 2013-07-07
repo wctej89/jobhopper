@@ -1,0 +1,11 @@
+%h2 Your feed
+%div#catalog
+  %ul
+  -@results.each do |job|
+    %li{:id => job.id, :class => "job"}= job.name
+
+%div{:id => "cart"}
+  %h1{:class => "ui-widget-header"}
+  %div{:class => "ui-widget-content"}
+    %ol
+      %li{:class => "placeholder"} Add your Jobs Here
