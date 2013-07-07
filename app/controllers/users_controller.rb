@@ -47,9 +47,9 @@ class UsersController < ApplicationController
     CraigslistWorker.perform_async(tags, location)
   end
 
-  def get_results
+  def results
     location = get_location
-    CraigslistWorker.perform_async(location, current_user)
+    CraigslistWorker.perform_async(current_user)
     page = params[:page].to_i
     results = get_results([cookies["lat"], cookies["lon"]])
     render :json => paginate(results, page)

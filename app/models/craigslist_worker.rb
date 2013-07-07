@@ -6,9 +6,7 @@ class CraigslistWorker
     location = current_user.location
     zip = check_tags(location)
     url = get_craigslist_url(zip)
-    tags.each do |tag|
-      url << tag.parameterize('+')
-    end
+    tags.each {|tag| url << 'search/jjj?zoomToPosting?&query=' << tag.name.parameterize('+') << '&srchType=A' }
     results = scrape(url)
   end
 
@@ -16,21 +14,22 @@ class CraigslistWorker
     location_tags = Tag.where('tag_type = ?', 'LocationTag')
     results = []
     location_tags.each do |tag|
-      if !tag.tag_name.scan(location.downcase).empty?
+      unless (location.downcase.scan(tag.name)).empty?
         results << tag
-        break
       end
     end
-    results = Geokit::Geocoders::GoogleGeocoder3.geocode(results.first.name)
-    coordinates = 'results.lat, results.lng'
-    zip = Geokit::Geocoders::GoogleGeocoder3.geocode(coordinates)
+    puts results.first.name
+    city = Geokit::Geocoders::GoogleGeocoder3.geocode(results.first.name)
+    coordinates = "#{city.lat}, #{city.lng}"
+    puts coordinates
+    zip = Geokit::Geocoders::GoogleGeocoder3.geocode(coordinates).zip
   end
 
   def get_craigslist_url(zip)
     Zip.find_by_zip_code(zip).url
   end
 
-  def scrape(urlTag)
+  def scrape(url)
     agent = Mechanize.new
     index_page = agent.get(url)
     rows = agent.page.parser.css('.row')
@@ -52,7 +51,7 @@ class CraigslistWorker
       email = job_page.links[6].node.children.text
       title = agent.page.parser.css('h2').text.strip
       description = agent.page.parser.css('#postingbody').text
-      Job.create(:source_url => url, :email => email, :description => description, :name => name)
+      Job.create(:source_url => url, :email => email, :description => description, :name => title)
     end
     scrape(next_link) if next_link
   end
