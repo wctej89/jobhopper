@@ -1,5 +1,5 @@
 class NotificationMailer < ActionMailer::Base
-
+  default from: 'from@example.com'
   def notification_email(notification)
     @user = notification.user
     @url  = 'http://example.com/login'
