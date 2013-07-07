@@ -34,7 +34,6 @@ module Feed
         results << tag
       end
     end
-    puts results.first.name
     city = Geokit::Geocoders::GoogleGeocoder3.geocode(results.first.name)
     [city.lat.to_f, city.lng.to_f]
   end

@@ -2,6 +2,7 @@ OptionsIo::Application.routes.draw do
   match '/users/:id/feed', to: 'users#feed'
   root :to => 'users#new'
   resources :users
+  resources :jobs, :only => [:show]
   resources :sessions, :only => [:new, :create, :destroy]
   resources :user_tags
   resources :job_tags
@@ -14,10 +15,6 @@ OptionsIo::Application.routes.draw do
   match '/wizards/skills', to: 'wizards#skills', :as => 'wizard'
   match '/wizards/locations', to: 'wizards#locations', :as => 'wizard_location'
   match '/users/:id/feed', to: 'users#feed', :as => 'user_feed'
-  
-  scope "api" do
-    match '/results', to: 'users#results', :as => 'user_results'
-  end
 
 
 
