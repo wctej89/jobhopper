@@ -19,7 +19,7 @@ gem 'zurb-foundation'
 gem 'geokit'
 gem 'tire'  
 gem 'sidekiq'
-
+gem 'mechanize'
 #############################
 # Environment-specific gems #
 #############################
