@@ -19,6 +19,10 @@ class UsersController < ApplicationController
     end
   end
 
+  def feed
+    @jobs = Job.all[0..7]  
+  end
+
   def edit
   end
 
@@ -35,13 +39,13 @@ class UsersController < ApplicationController
   def show
   end
 
-  def feed
-    # TODO Benchmark this 
-    page = params[:page].to_i
-    #TODO think about background workers here... two+ indexes
-    results = current_user.feed
-    render :json => paginate(results, page)
-  end
+  # def feed
+  #   # TODO Benchmark this 
+  #   page = params[:page].to_i
+  #   #TODO think about background workers here... two+ indexes
+  #   results = current_user.feed
+  #   render :json => paginate(results, page)
+  # end
 
   private 
 
