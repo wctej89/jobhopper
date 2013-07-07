@@ -8,21 +8,19 @@ class TagWorker
 
   def tag_by_name(job)
     name_words = job.name.split(' ')
-    tags = []
-    name_words.each do |word|
-      tag = Tag.find_by_name(word.downcase)
-      if tag 
-        job.tags << tag
-      end
-    end
+    tag_words(name_words)
   end
 
   def tag_by_description(job)
     description_words = job.description.split(' ')
+    tag_words(description_words)
+  end
+
+  def tag_words(word_array)
     tags = []
-    description_words.each do |word|
+    word_array.each do |word|
       tag = Tag.find_by_name(word.downcase)
-      if tag
+      if tag 
         job.tags << tag
       end
     end
