@@ -15,6 +15,7 @@ OptionsIo::Application.routes.draw do
   match '/wizards/skills', to: 'wizards#skills', :as => 'wizard'
   match '/wizards/locations', to: 'wizards#locations', :as => 'wizard_location'
   match '/users/:id/feed', to: 'users#feed', :as => 'user_feed'
+  match '/feed', to: 'users#feed_results', :as => 'feed_results'
 
 
 

@@ -61,9 +61,9 @@ class User < ActiveRecord::Base
     final_result = remove_queued_jobs(sort_by_radius(jobs_array, self.location))
     result = {}
     result[:total] = final_result.count
-    result[:total_pages] = final_result.count/30
-    result[:results] = final_result.values[page..(page+10)]
-    result[:miles] = final_result.keys[page..(page+10)]
+    result[:total_pages] = final_result.count/10
+    result[:results] = final_result.values[page...(page+10)]
+    result[:miles] = final_result.keys[page...(page+10)]
     result
   end
 
