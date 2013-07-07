@@ -29,15 +29,7 @@
   });
 .feed
   %h2 Your feed
-  %div{:id => "catalog"}
-    %ul
-    -i = 0
-    -while i < @jobs[:miles].count
-      %ul
-        %li{:id => @jobs[:results][i].id, :class => "job"}= @jobs[:results][i].name
-        %li= "Added #{time_ago_in_words(@jobs[:results][i].created_at)} ago"
-        %li= "Approximately #{@jobs[:miles][i].to_i} miles away"
-      - i += 1
+  %ul.jobs
 .queue
   %div{:id => "cart"}
     %h1{:class => "ui-widget-header"} Job Queue

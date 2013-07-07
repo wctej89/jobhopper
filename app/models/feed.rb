@@ -35,7 +35,9 @@ module Feed
       end
     end
     begin
+      # TODO if the user already has a lat and lon don't do this
       city = Geokit::Geocoders::GoogleGeocoder3.geocode(results.first.name)
+      # TODO save the user's lat and lon in the database
       [city.lat.to_f, city.lng.to_f]
     rescue Exception => e
       puts e.message

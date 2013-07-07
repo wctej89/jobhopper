@@ -30,3 +30,5 @@ $(function(){ $(document).foundation(); });
 $(function(){
   $('.chzn-select').chosen();
 });
+
+$("abbr.timeago").timeago();
