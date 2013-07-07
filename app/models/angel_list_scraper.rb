@@ -11,7 +11,6 @@ def make_connection(page)
   response
 end
 
-module Job
   class AngelListScraper
     include Sidekiq::Worker
     sidekiq_options :retry => false
@@ -33,4 +32,3 @@ module Job
       job.update_attributes(:name => result["title"], :description => result["startup"]["product_desc"], :company => result["startup"]["name"], :source_url => result["startup"]["angellist_url"])
     end
   end
-end
