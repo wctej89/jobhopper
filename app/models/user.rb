@@ -27,6 +27,13 @@ class User < ActiveRecord::Base
     end
   end
 
+  def skills
+  end
+
+
+  def locations
+  end
+
   def build_skills(skills)
     skills.each do |skill|
       tag = Tag.find_or_create_by_name(skill["skill"]["name"].downcase)
@@ -35,7 +42,7 @@ class User < ActiveRecord::Base
   end
 
   def feed(location_array)
-    # TODO - right now feeds only include tagged jobs. need background workers here. 
+    # TODO - right now feeds only include tagged jobs.
     tags = self.tags
     jobs_array = []
     tags.each {|tag| tag.jobs.each { |job| jobs_array << job } }

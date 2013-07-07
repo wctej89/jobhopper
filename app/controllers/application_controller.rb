@@ -31,5 +31,16 @@ class ApplicationController < ActionController::Base
     end
   end
 
+  def get_location
+    if current_user
+      if current_user.location.nil?
+        location = [cookies['lat'], cookies['lon']]
+      else
+        location = current_user.location
+      end
+    end
+    location
+  end
+
   helper_method :current_user
 end
