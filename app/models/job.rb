@@ -7,7 +7,9 @@ class Job < ActiveRecord::Base
   has_many :job_lists, :dependent => :destroy
   has_many :lists, :through => :job_lists
 
+  #TODO fix background workers
   # after_create :tag_job still running into that redis issue
+  # after_create: :notify_users
 
 
   def has_coordinates
@@ -19,5 +21,9 @@ class Job < ActiveRecord::Base
 
   def tag_job
     TagWorker.perform_async(self)
+  end
+
+  def notify_users
+    NotificationWorker.perform_async(self)
   end
 end

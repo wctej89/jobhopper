@@ -6,6 +6,7 @@ class User < ActiveRecord::Base
   has_many :tags, :through => :user_tags
   has_one :list, :dependent => :destroy
   has_many :jobs, :through => :list
+  has_many :notifications
   
   validates :email, presence: true, uniqueness: { case_sensitive: false }
   validates_email_format_of :email
@@ -49,7 +50,7 @@ class User < ActiveRecord::Base
     end
   end
 
-  def feed(location_array)
+  def feed(location_array, page)
     # TODO - right now feeds only include tagged jobs.
     # begin rescue here
     #TODO fix async workers
@@ -57,7 +58,12 @@ class User < ActiveRecord::Base
     jobs_array = []
     self.tags.each {|tag| tag.jobs.each {|job| jobs_array << job }  }
     jobs_array.uniq!
-    remove_queued_jobs(sort_by_radius(jobs_array, self.location))
+    final_result = remove_queued_jobs(sort_by_radius(jobs_array, self.location))
+    result = {}
+    result[:total] = final_result.count
+    result[:total_pages] = final_result.count/30
+    result[:results] = final_result[page..(page+10)]
+    result
   end
 
   def remove_queued_jobs(array)

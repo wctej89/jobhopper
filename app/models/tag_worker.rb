@@ -1,7 +1,7 @@
 class TagWorker
   include Sidekiq::Worker
   
-  def perform_async(job)
+  def perform(job)
     tag_by_name(job)
     tag_by_description(job)
   end

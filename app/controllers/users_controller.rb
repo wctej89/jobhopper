@@ -39,33 +39,29 @@ class UsersController < ApplicationController
   end
 
   def feed
-    page = 1
+    if params[:page]
+      page = params[:page].to_i
+    else
+      page = 1
+    end
     location = get_location
-    tags = current_user.tags
-    @queue = current_user.list.jobs
-    @jobs = paginate(get_results([cookies["lat"], cookies["lon"]]), page)
-  end
-
-  def results
-    location = get_location
-    page = params[:page].to_i
-    results = get_results(current_user.location)
-    render :json => paginate(results, page)
+    @queue = current_user.jobs
+    @jobs = get_results(location, page)[:results]
   end
 
   private 
 
-  def get_results(location)
-    current_user.feed(location)
+  def get_results(location, page)
+    current_user.feed(location, page)
   end
 
-  def paginate(array, page)
-    start_index = (page-1) * 20
-    response = {}
-    response[:total] = array.count
-    response[:total_pages] = array.count/20
-    response[:results] = array[start_index...(start_index+100)]
-  end
+  # def paginate(array, page)
+  #   start_index = (page-1) * 20
+  #   response = {}
+  #   response[:total] = array.count
+  #   response[:total_pages] = array.count/20
+  #   response[:results] = array[start_index...(start_index+100)]
+  # end
 
   def find_user
     @user = User.find(params[:id])
