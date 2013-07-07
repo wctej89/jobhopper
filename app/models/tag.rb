@@ -8,6 +8,17 @@
   validates :name, :uniqueness => true
   validates :name, presence: true
 
+  def self.location_create(location_string)
+    locations = []
+    Tag.where('tag_type = ?', 'LocationTag').each do |tag|
+      if location_string.downcase.scan(tag.name)
+        locations << tag
+      else
+        Tag.create(:name => location_string.downcase, :tag_type => 'LocationTag')
+      end
+    end
+  end
+
   def self.search(params)
     tire.search(load: true) do
       query { string params, default_operator: "AND" } if params.present?
@@ -15,6 +26,6 @@
   end
 
   def is_location?
-    self.tag_type = 'LocationTag'
+    self.tag_type == 'LocationTag'
   end
 end

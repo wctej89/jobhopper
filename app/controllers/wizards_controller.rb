@@ -1,12 +1,12 @@
 class WizardsController < ApplicationController
 
   def skills
-    @skills = current_user.tags
+    @skills = current_user.skills
     @tags = Tag.limit(10)
   end
 
   def locations
-    @locations = Tag.all.reject {|tag| !tag.is_location? }
-    @user_locs = current_user.tags.where('tag_type =?', 'LocationTag')
+    @locations = Tag.all.select { |tag| tag.is_location? }
+    @user_locs = current_user.locations
   end
 end
