@@ -41,8 +41,7 @@ class UsersController < ApplicationController
 
   def feed
     location = get_location
-    tags = current_user.tags
-    CraigslistWorker.perform_async(tags, location)
+    CraigslistWorker.perform_async(current_user)
     page = 1
     @jobs = paginate(get_results([cookies["lat"], cookies["lon"]]), page)
   end
