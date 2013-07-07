@@ -3,9 +3,19 @@
 %p= "Bio: #{@user.bio}"
 %p= "Location: #{@user.location}"
 %h2 Search Tags
--@user.tags.each do |tag|
-  %button{:id => tag.id, :class => "remove_tag", :value => "Remove"}
-    %p= tag.name
+.skills
+  -@skills.each do |skill|
+    %span
+      %button.remove_tag{:id => skill.id}= skill.name 
+      %a.delete{:id => skill.id, :href => '#'}
+
+
+.new_skills
+  = form_tag user_tags_path, :class => "user_tags", :method => "post" do
+    = select_tag "user_tags[tags][]", options_from_collection_for_select(@tags, "id", "name"), {:multiple => true, :class => "chzn-select" }
+    =hidden_field_tag "user_tags[user_id]", current_user.id
+
+    =submit_tag "Next"
 %h2 Your Queue
 -@user.list.jobs.each do |job|
   %li
@@ -15,3 +25,4 @@
     .buttons
       =link_to "Remove from Queue", remove_from_queue_path(job), class: "button remove_from_queue"
       %button Apply
+

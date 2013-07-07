@@ -19,10 +19,6 @@ class UsersController < ApplicationController
     end
   end
 
-  def feed
-    @jobs = Job.all[0..7]  
-  end
-
   def edit
   end
 
@@ -37,12 +33,15 @@ class UsersController < ApplicationController
   end
 
   def show
+    @skills = current_user.tags
+    @tags = Tag.limit(10)
   end
 
   def feed
     page = 1
     #TODO think about background workers here... two+ indexes
     @jobs = get_results([cookies["lat"], cookies["lon"]])
+    @queue = current_user.list.jobs
   end
 
   def get_results

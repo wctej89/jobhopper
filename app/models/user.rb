@@ -1,6 +1,5 @@
 class User < ActiveRecord::Base
-  include Feed
-
+  include Search
   attr_accessible :name, :email, :password, :password_confirmation
   has_secure_password
   has_many :user_tags
@@ -18,9 +17,8 @@ class User < ActiveRecord::Base
       user.uid = auth_hash.uid
       user.email = auth_hash.info.email
       user.name = auth_hash.info.name
-      user.bio = auth_hash.extra.raw_info.summary
-      user.location = auth_hash.extra.raw_info.location.name
-      #TODO hack - fix this
+      user.bio = auth_hash.info.bio
+      # TODO hack PLEASE FIX THIS
       user.password = "blank_string"
       user.password_confirmation = "blank_string"
       user.build_skills(auth_hash["extra"]["raw_info"]["skills"]["values"])
@@ -34,12 +32,12 @@ class User < ActiveRecord::Base
     end
   end
 
-  def feed(location_array)
-    # TODO - right now feeds only include tagged jobs. need background workers here. 
-    tags = self.tags
+  def feed
+    tags = current_user.tags
     jobs_array = []
-    tags.each {|tag| tag.jobs.each { |job| jobs_array << job } }
-    results = sort_by_radius(jobs_array, location_array)
+    tags.jobs.each {|job| jobs_array << job }
+    #sort by distance
+
   end
 
 private
