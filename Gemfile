@@ -20,6 +20,9 @@ gem 'geokit'
 gem 'tire'  
 gem 'sidekiq'
 gem 'mechanize'
+gem 'sidekiq'
+gem 'redis'
+
 #############################
 # Environment-specific gems #
 #############################
