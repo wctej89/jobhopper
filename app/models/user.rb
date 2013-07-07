@@ -62,7 +62,8 @@ class User < ActiveRecord::Base
     result = {}
     result[:total] = final_result.count
     result[:total_pages] = final_result.count/30
-    result[:results] = final_result[page..(page+10)]
+    result[:results] = final_result.values[page..(page+10)]
+    result[:miles] = final_result.keys[page..(page+10)]
     result
   end
 

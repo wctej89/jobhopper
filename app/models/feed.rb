@@ -18,8 +18,8 @@ module Feed
       end
       # TODO shitty fucking code. please fix this shit.
       sorted_keys = sorted_by_distance.keys.sort
-      sorted_jobs = []
-      sorted_keys.each {|key| sorted_jobs << sorted_by_distance[key] }
+      sorted_jobs = {}
+      sorted_keys.each {|key| sorted_jobs[key] = sorted_by_distance[key] }
       sorted_jobs
     else
       jobs_array
@@ -34,8 +34,12 @@ module Feed
         results << tag
       end
     end
-    city = Geokit::Geocoders::GoogleGeocoder3.geocode(results.first.name)
-    [city.lat.to_f, city.lng.to_f]
+    begin
+      city = Geokit::Geocoders::GoogleGeocoder3.geocode(results.first.name)
+      [city.lat.to_f, city.lng.to_f]
+    rescue Exception => e
+      puts e.message
+    end
   end
 
   def haversine(user_coordinates, job_coordinates)
