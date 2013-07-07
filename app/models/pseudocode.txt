@@ -1,0 +1,23 @@
+
+# 1.Craigslist Worker
+# 2. Resumator Worker
+# 3. Angellist Worker
+
+# Craigslist Worker
+# If current user has location
+  # scan location tags for a match 
+  # if match 
+    # get lat and lon for location
+    # get zip for lat and lon
+    # Lookup zip in craigslist location table
+    # for each of the user's tags
+    # scrape craigslist first page with a query string 
+    # Write each new job into the jobs table but keep unique by
+    #finding by source url 
+  # if no location in source
+    # pass in location with lat and long
+    # geokit lat and lon for zip
+    # for each of the user's tags
+    # scrape craigslist first page with a query string 
+    # Write each new job into the jobs table but keep unique by
+    #finding by source url 

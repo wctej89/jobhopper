@@ -5,8 +5,6 @@ OptionsIo::Application.routes.draw do
   resources :sessions, :only => [:new, :create, :destroy]
   resources :user_tags
   resources :job_tags
-
-
   match '/auth/:provider/callback', to: 'omniauth_callbacks#all'
   match '/signout', to: 'sessions#destroy'
   match '/search', to: 'tags#search'
@@ -16,6 +14,10 @@ OptionsIo::Application.routes.draw do
   match '/wizards/skills', to: 'wizards#skills', :as => 'wizard'
   match '/wizards/locations', to: 'wizards#locations', :as => 'wizard_location'
   match '/users/:id/feed', to: 'users#feed', :as => 'user_feed'
+  
+  scope "api" do
+    match '/results', to: 'users#results', :as => 'user_results'
+  end
 
 
 

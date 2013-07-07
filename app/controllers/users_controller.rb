@@ -40,12 +40,14 @@ class UsersController < ApplicationController
 
   def feed
     page = 1
-    #TODO think about background workers here... two+ indexes
-    @jobs = get_results([cookies["lat"], cookies["lon"]])
+    location = get_location
+    tags = current_user.tags
     @queue = current_user.list.jobs
+    @jobs = paginate(get_results([cookies["lat"], cookies["lon"]]), page)
   end
 
-  def get_results
+  def results
+    location = get_location
     page = params[:page].to_i
     results = get_results([cookies["lat"], cookies["lon"]])
     render :json => paginate(results, page)
