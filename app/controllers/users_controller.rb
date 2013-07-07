@@ -42,7 +42,7 @@ class UsersController < ApplicationController
   def feed
     page = 1
     #TODO think about background workers here... two+ indexes
-    @results = get_results([cookies["lat"], cookies["lon"]])
+    @jobs = get_results([cookies["lat"], cookies["lon"]])
   end
 
   def get_results
