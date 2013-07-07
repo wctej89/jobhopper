@@ -29,15 +29,15 @@
       accept: '.cart-item'
     });
   });
-  
-%h2 Your feed
-%div{:id => "catalog"}
-  %ul
-  -@jobs.each do |job|
-    %li{:id => job.id, :class => "job"}= job.name
-
-%div{:id => "cart"}
-  %h1{:class => "ui-widget-header"} Job Queue
-  %div{:class => "ui-widget-content"}
-    %ol
-      %li{:class => "placeholder"} Add you jobs here
+.feed
+  %h2 Your feed
+  %div{:id => "catalog"}
+    %ul
+    -@jobs.each do |job|
+      %li{:id => job.id, :class => "job"}= job.name
+.queue
+  %div{:id => "cart"}
+    %h1{:class => "ui-widget-header"} Job Queue
+    %div{:class => "ui-widget-content"}
+      %ol
+        %li{:class => "placeholder"} Add you jobs here
