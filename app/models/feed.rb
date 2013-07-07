@@ -2,7 +2,8 @@ module Feed
 
   def sort_by_radius(jobs_array, user_loc)
     if user_loc
-      user_loc.map! {|coordinate| coordinate.to_f}
+      coordinates = get_coordinates(location)
+      coordinates.map! {|coordinate| coordinate.to_f}
       sorted_by_distance = {}
       i = 0
       jobs_array.each do |job|
@@ -24,6 +25,19 @@ module Feed
     else
       jobs_array
     end
+  end
+
+  def get_coordinates(location)
+    location_tags = Tag.where('tag_type = ?', 'LocationTag')
+    results = []
+    location_tags.each do |tag|
+      unless (location.downcase.scan(tag.name)).empty?
+        results << tag
+      end
+    end
+    puts results.first.name
+    city = Geokit::Geocoders::GoogleGeocoder3.geocode(results.first.name)
+    coordinates = [city.lat, city.lng]
   end
 
   def haversine(user_coordinates, job_coordinates)

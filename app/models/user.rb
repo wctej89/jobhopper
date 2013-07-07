@@ -1,5 +1,5 @@
 class User < ActiveRecord::Base
-  include Search
+  include Feed
   attr_accessible :name, :email, :password, :password_confirmation
   has_secure_password
   has_many :user_tags
@@ -26,10 +26,15 @@ class User < ActiveRecord::Base
   end
 
   def skills
+    skills = []
+    self.tags.each {|tag| skills << tag.tag_type != 'LocationTag' }
   end
 
 
   def locations
+    locations = []
+    self.tags.each {|tag| locations << tag.tag_type == 'LocationTag' }
+    locations
   end
 
   def build_skills(skills)
@@ -41,11 +46,16 @@ class User < ActiveRecord::Base
 
   def feed(location_array)
     # TODO - right now feeds only include tagged jobs.
+    # begin rescue here
+    # CraigslistWorker.perform_async(self)
     tags = self.tags
     jobs_array = []
-    tags.each {|job| jobs_array << job }
-    #sort by distance
+    tags.each {|tag| tag.jobs.each {|job| jobs_array << job }  }
+    jobs_array.uniq!
+    sort_by_radius(jobs_array, self.location)
   end
+
+
 
 private
 
