@@ -49,12 +49,11 @@ class UsersController < ApplicationController
   def results
     location = get_location
     page = params[:page].to_i
-    results = get_results([cookies["lat"], cookies["lon"]])
+    results = get_results(current_user.location)
     render :json => paginate(results, page)
   end
 
   private 
-
 
   def get_results(location)
     current_user.feed(location)
@@ -65,7 +64,7 @@ class UsersController < ApplicationController
     response = {}
     response[:total] = array.count
     response[:total_pages] = array.count/20
-    response[:results] = array[start_index...(start_index+20)]
+    response[:results] = array[start_index...(start_index+100)]
   end
 
   def find_user
