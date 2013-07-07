@@ -24,7 +24,7 @@ class UsersController < ApplicationController
   end
 
   def update
-    if @user.update_attributes(para ms[:user])
+    if @user.update_attributes(params[:user])
       flash[:success] = "Profile Updated"
       redirect_to(@user)
     else
@@ -46,7 +46,7 @@ class UsersController < ApplicationController
     end
     location = get_location
     @queue = current_user.jobs
-    @jobs = get_results(location, page)[:results]
+    @jobs = get_results(location, page)
   end
 
   private 
