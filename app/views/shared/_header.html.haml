@@ -1,7 +1,9 @@
 %nav.top-bar
   %ul.title-area
     %li.name
-      %h1 Jobhopper
+      %h1 
+        %img{src: '/assets/logo.png', style:'max-width: 4%;' }
+        Jobhopper 
   %section.top-bar-section
     %ul.right
       -if current_user
@@ -17,6 +19,5 @@
         %li 
           %a{href: signout_path} Sign Out 
       -else
-        %li.divider
         %li
           %a{href: '/auth/linkedin'} Sign In

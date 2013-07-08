@@ -13,7 +13,6 @@ body {
 .container {
   margin-left: 10%;
   margin-right: 10%;
-  //need to change this to accomodate inifinite scroll
   min-height: 900px;
 }
 
@@ -23,8 +22,8 @@ body {
 
 .title-area { 
   padding-left: 25px;
+  width: 79%;
 }
-
 
 /* home */ 
 
@@ -97,4 +96,21 @@ li {
 
 p {
   margin: 0
+}
+
+/* wizards */
+
+.search-field {
+  height: 70px;
+  width: 100%;
+}
+
+.search-field {
+  width: 100%;
+}
+
+.default {
+  width: 100% !important;
+  height: 100% !important;
+  font-size: 24px !important;
 }
