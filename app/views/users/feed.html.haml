@@ -35,7 +35,7 @@
     %h1{:class => "ui-widget-header"} Job Queue
     %div{:class => "ui-widget-content"}
       %ol
-        -if @queue == nil
+        -if @queue.empty?
           %li{:class => "placeholder"} Add you jobs here
         -else
           -@queue.each do |job|
@@ -47,3 +47,10 @@
     .job-info
       %h1 {{name}}
   {{/jobs}}
+            %button.apply{:id => job.id} Applied?
+    %h1 Organizer
+    %div.applied
+      -@applied.each do |job|
+        %li="#{job.name}" 
+        %button Submitted
+

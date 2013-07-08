@@ -18,4 +18,12 @@ class JobsController < ApplicationController
     list.remove_job(params[:id])
     render :text => "fuck yeah"
   end
+
+  def update
+    list_id = current_user.list.id
+    job = JobList.find_by_list_id_and_job_id(list_id, params[:id])
+    job.status = "applied"
+    job.save
+    render :text => "fuck yeah"
+  end
 end

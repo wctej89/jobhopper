@@ -21,4 +21,19 @@ $(document).ready(function(){
       $(job).closest('li').remove();
     });
   });
+
+ $(document).on('click', '.apply', function(e){
+    e.preventDefault();
+    var $job = $(this)
+    $.ajax({
+      type: 'put',
+      url: '/jobs/'+ $job.attr('id')
+    }).success(function(response){
+      $job.parent().remove();
+      console.log($job)
+      $('.applied').append("<li>"+$job.siblings().first()
+                          .text()+"</li><button>Submitted</button>")
+    })
+  })
+ 
 });

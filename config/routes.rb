@@ -2,7 +2,7 @@ OptionsIo::Application.routes.draw do
   match '/users/:id/feed', to: 'users#feed'
   root :to => 'users#new'
   resources :users
-  resources :jobs, :only => [:show]
+  resources :jobs, :only => [:show, :update]
   resources :sessions, :only => [:new, :create, :destroy]
   resources :user_tags
   resources :job_tags
