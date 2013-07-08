@@ -7,7 +7,6 @@ class UserTagsController < ApplicationController
     tags.each do |tag|
       user.user_tags.create(:tag_id => tag.to_i)
     end
-    debugger
     if cookies[:skills] == "true"
       redirect_to wizard_location_path
     else

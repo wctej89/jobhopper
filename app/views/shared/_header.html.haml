@@ -1,24 +1,26 @@
-.contain-to-grid-sticky
-  %nav.top-bar
-    %ul.title-area
-      %li.name
-        %h1 
-          %img{src: '/assets/logo.png', style:'max-width: 4%;' }
-          Jobhopper 
-    %section.top-bar-section
-      %ul.right
-        -if current_user
-          %li.divider
-          %li 
-            %a{href: '#'}
-              Notifications
-              %span=current_user.notifications.count 
-          %li.divider
-          %li
-            %a{href: user_path(current_user)} Me
-          %li.divider  
-          %li 
-            %a{href: signout_path} Sign Out 
-        -else
-          %li
-            %a{href: '/auth/linkedin'} Sign In
+%nav.top-bar
+  %ul.title-area
+    %li.name
+      %h1 
+        %img{src: '/assets/logo.png', style:'max-width: 4%;' }
+        Jobhopper
+    -if current_user
+      =form_tag search_path, :method => 'get' do
+        = text_field_tag :search, params[:search], :placeholder => "Enter keywords here", :class => "home-search", :style => "border: none; width: 20%;" 
+  %section.top-bar-section
+    %ul.right
+      -if current_user
+        %li.divider
+        %li 
+          %a{href: '#'}
+            Notifications
+            %span=current_user.notifications.count 
+        %li.divider
+        %li
+          %a{href: user_path(current_user)} Me
+        %li.divider  
+        %li 
+          %a{href: signout_path} Sign Out 
+      -else
+        %li
+          %a{href: '/auth/linkedin'} Sign In
