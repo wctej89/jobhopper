@@ -52,6 +52,8 @@
   {{#jobs}}
   %li{:id => "{{id}}"}
     .job-info
-      %h1 {{name}}
+      %h1 {{name}} - {{company}}
+      %p.desc {{description}}
+      %a.more_info more info
   {{/jobs}}
   
