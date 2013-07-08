@@ -14,7 +14,6 @@ class User < ActiveRecord::Base
 
   before_save :downcase_email
   after_create :create_list
-  after_create :tag_location
 
   def self.from_omniauth(auth_hash)
     where(auth_hash.slice(:provider, :uid)).first_or_create do |user|
@@ -81,13 +80,6 @@ class User < ActiveRecord::Base
 
 
 private
-
-  def tag_location
-    if self.location
-      tag = Tag.location_create(self.location)
-      self.tags << tag
-    end
-  end
 
   def create_list
     List.create(:user_id => self.id)

@@ -1,6 +1,7 @@
 class Job < ActiveRecord::Base
   include Tire::Model::Search
   include Tire::Model::Callbacks
+
   attr_accessible :name, :description, :email, :company, :source_url
   has_many :job_tags, :dependent => :destroy
   has_many :tags, :through => :job_tags
@@ -12,11 +13,9 @@ class Job < ActiveRecord::Base
 
   after_create :tag_job, :notify_users
 
-
   def has_coordinates
     return true if !(self.lat.nil? && self.lng.nil?)
   end
-
 
   private 
 

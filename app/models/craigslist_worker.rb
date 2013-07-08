@@ -48,7 +48,6 @@ class CraigslistWorker
       url = "http://sfbay.craigslist.org#{link}"
       job_page = agent.get(url)
       email = job_page.links[6].node.children.text
-      puts email
       title = agent.page.parser.css('h2').text.strip
       description = agent.page.parser.css('#postingbody').text
       #TODO add begin rescue end clause

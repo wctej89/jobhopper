@@ -23,7 +23,6 @@ $(document).ready(function(){
   });
 
  $(document).on('click', '.apply', function(e){
-  debugger;
     var $job = $(this).parent();
     $.ajax({
       type: 'put',
