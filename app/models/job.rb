@@ -7,6 +7,9 @@ class Job < ActiveRecord::Base
   has_many :job_lists, :dependent => :destroy
   has_many :lists, :through => :job_lists
 
+  validates_presence_of :name, :description, :source_url
+  validates_uniqueness_of :source_url
+
   after_create :tag_job, :notify_users
 
 
