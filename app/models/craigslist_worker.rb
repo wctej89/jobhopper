@@ -1,13 +1,14 @@
 class CraigslistWorker
   include Sidekiq::Worker
 
-  def perform(current_user)
-    tags = current_user.tags
+  def perform(user_id)
+    current_user = User.find(user_id)
+    tags = current_user.skills
     location = current_user.location
     zip = check_tags(location)
     url = get_craigslist_url(zip)
     tags.each {|tag| url << 'search/jjj?zoomToPosting?&query=' << tag.name.parameterize('+') << '&srchType=A' }
-    results = scrape(url)
+    scrape(url)
   end
 
   def check_tags(location)
@@ -18,10 +19,8 @@ class CraigslistWorker
         results << tag
       end
     end
-    puts results.first.name
     city = Geokit::Geocoders::GoogleGeocoder3.geocode(results.first.name)
     coordinates = "#{city.lat}, #{city.lng}"
-    puts coordinates
     zip = Geokit::Geocoders::GoogleGeocoder3.geocode(coordinates).zip
   end
 
@@ -45,14 +44,15 @@ class CraigslistWorker
       end
     end
 
-    job_links.each do |link|
+    job_links[0..11].each do |link|
       url = "http://sfbay.craigslist.org#{link}"
       job_page = agent.get(url)
       email = job_page.links[6].node.children.text
+      puts email
       title = agent.page.parser.css('h2').text.strip
       description = agent.page.parser.css('#postingbody').text
+      #TODO add begin rescue end clause
       Job.create(:source_url => url, :email => email, :description => description, :name => title)
     end
-    scrape(next_link) if next_link
   end
 end
