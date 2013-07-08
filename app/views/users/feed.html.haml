@@ -1,59 +1,59 @@
-:javascript
-  $(function() {
-      $( "#catalog li" ).draggable({
-        appendTo: "body",
-        helper: "clone"
-      });
-      $( "#cart ol" ).droppable({
-        activeClass: "ui-state-default",
-        hoverClass: "ui-state-hover",
-        accept: ":not(.ui-sortable-helper)",
-        drop: function( event, ui ) {
-          var job_id = ui.draggable.attr('id');
-          $(this).find( ".placeholder" ).remove();
-          ui.draggable.append("<button class='apply'>Applied?</button>");
-          $(this).append(ui.draggable);
-          $.ajax({
-            method: "GET",
-            url: '/add_to_queue/' + job_id
-          }).success(function(response){
-            console.log("oo shit mothafucka")
-          });
-        }
-      }).sortable({
-        items: "li:not(.placeholder)",
-        sort: function() {
-          $( this ).removeClass( "ui-state-default" );
-        }
-      });
-  });
-.feed
-  %h2 Your feed
-  %ul.jobs
-.queue
-  %div{:id => "cart"}
-    %h1{:class => "ui-widget-header"} Job Queue
-    %div{:class => "ui-widget-content"}
-      %ol
-        -if @queue.empty?
-          %li{:class => "placeholder"} Add you jobs here
-        -else
-          -@queue.each do |job|
-            %li{:id => job.id}
-              %h5= job.name
-              %button.apply Applied?
-    %h1 Organizer
-    %div.applied
-      -@applied.each do |job|
-        %li= job.name
-        / %button Submitted
-            
-%script{:id => "results", :type => "template"}
-  {{#jobs}}
-  %li{:id => "{{id}}"}
-    .job-info
-      %h1 {{name}} - {{company}}
-      %p.desc {{description}}
-      %a.more_info more info
-  {{/jobs}}
-  
+.feed_container
+  :javascript
+    $(function() {
+        $( "#catalog li" ).draggable({
+          appendTo: "body",
+          helper: "clone"
+        });
+        $( "#cart ol" ).droppable({
+          activeClass: "ui-state-default",
+          hoverClass: "ui-state-hover",
+          accept: ":not(.ui-sortable-helper)",
+          drop: function( event, ui ) {
+            var job_id = ui.draggable.attr('id');
+            $(this).find( ".placeholder" ).remove();
+            ui.draggable.append("<button class='apply'>Applied?</button>");
+            $(this).append(ui.draggable);
+            $.ajax({
+              method: "GET",
+              url: '/add_to_queue/' + job_id
+            }).success(function(response){
+              console.log("oo shit mothafucka")
+            });
+          }
+        }).sortable({
+          items: "li:not(.placeholder)",
+          sort: function() {
+            $( this ).removeClass( "ui-state-default" );
+          }
+        });
+    });
+  .feed
+    %h2 Your feed
+    %ul.jobs
+  .queue
+    %div{:id => "cart"}
+      %h1{:class => "ui-widget-header"} Job Queue
+      %div{:class => "ui-widget-content"}
+        %ol
+          -if @queue.empty?
+            %li{:class => "placeholder"} Add you jobs here
+          -else
+            -@queue.each do |job|
+              %li{:id => job.id}
+                %h5= job.name
+                %button.apply Applied?
+      %h1 Organizer
+      %div.applied
+        -@applied.each do |job|
+          %li= job.name
+          / %button Submitted            
+  %script{:id => "results", :type => "template"}
+    {{#jobs}}
+    %li{:id => "{{id}}", :class => 'feed-job'}
+      .job-info
+        %h1 {{name}} - {{company}}
+        %p.desc {{description}}
+        %a.more_info more info
+    {{/jobs}}
+    
