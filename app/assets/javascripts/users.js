@@ -30,13 +30,22 @@ function getResults(page){
   $.ajax({
     method: 'get',
     url: '/feed?page=' + page
-  }).done(function(response){
+  }).done(function(jobs){
+    var response = prepareResponse(jobs);
     removeKangaroo();
     var list = Mustache.render($('#results').html(),{jobs:response.results});
     $('.jobs').append(list);
     $('.desc').each(function(){$(this).text($(this).text().split(' ').slice(0,20).join(' ').concat('...'))});
     $('.more_info').each(function(){bindFirstLinkClick($(this))});
   });
+}
+
+function prepareResponse(jobs){
+  for(i=0;i<jobs['results'].length;i++)
+  {
+    jobs['results'][i]['miles'] = jobs['miles'][i];
+  }
+  return jobs;
 }
 
 function removeKangaroo(){
@@ -86,12 +95,22 @@ function bindFirstLinkClick($link){
       $self.text('less info');
       bindSecondLinkClick($self);
     });
-  })
+  });
 }
 
 $(document).ready(function(){
   var page_num = $.cookie('page_num');
   $('.jobs').append('<img class="kangaroo" src="/assets/kangourous-11.gif">');
   getResults(page_num);
+  $(document).on('click', $('.add_to_queue'), function(e){
+    debugger;
+    e.preventDefault();
+    $.ajax({
+      method: 'post',
+      url: '/add_to_queue/'+ $(this).closest('li').attr('id') + ''
+    }).success(function(response){
+      console.log(response);
+    });
+  });
   // $(document).on("scroll",_.debounce(, 200));
 });
