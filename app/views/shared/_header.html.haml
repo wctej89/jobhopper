@@ -7,7 +7,9 @@
       -if current_user
         %li.divider
         %li 
-          %a{href: '#'} Notifications
+          %a{href: '#'}
+            Notifications
+            %span=current_user.notifications.count 
         %li.divider
         %li
           %a{href: user_path(current_user)} Me
