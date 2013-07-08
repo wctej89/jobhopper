@@ -46,7 +46,7 @@
     %div.applied
       -@applied.each do |job|
         %li= job.name
-        %button Submitted
+        / %button Submitted
             
 %script{:id => "results", :type => "template"}
   {{#jobs}}

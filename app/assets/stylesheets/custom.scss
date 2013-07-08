@@ -82,10 +82,14 @@ body {
 .queue {
   width: 50%;
   float:left;
+  border: 1px solid red;
 }
 
-.ui-droppable {
-  border: 1px solid red;
-  width: 400px;
-  height: 200px;
+li {
+  list-style:none;
+}
+
+.job-info {
+  float: left;
+  clear: left;
 }
