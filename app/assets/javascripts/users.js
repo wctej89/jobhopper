@@ -98,19 +98,20 @@ function bindFirstLinkClick($link){
   });
 }
 
+
 $(document).ready(function(){
   var page_num = $.cookie('page_num');
   $('.jobs').append('<img class="kangaroo" src="/assets/kangourous-11.gif">');
   getResults(page_num);
-  $(document).on('click', $('.add_to_queue'), function(e){
-    debugger;
+  $('.feed_container').on('click', $('.add_to_queue'), function(e){
+    var $target = e.target;
     e.preventDefault();
     $.ajax({
       method: 'post',
-      url: '/add_to_queue/'+ $(this).closest('li').attr('id') + ''
+      url: $($target).attr('href')
     }).success(function(response){
-      console.log(response);
-    });
+      $($target).closest('li').fadeOut();
+   });
   });
   // $(document).on("scroll",_.debounce(, 200));
 });
