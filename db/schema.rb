@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130707102139) do
+ActiveRecord::Schema.define(:version => 20130708010253) do
 
   create_table "job_lists", :force => true do |t|
     t.integer  "list_id"
@@ -80,6 +80,11 @@ ActiveRecord::Schema.define(:version => 20130707102139) do
     t.string   "uid"
     t.string   "location"
     t.text     "bio"
+  end
+
+  create_table "zips", :force => true do |t|
+    t.string "zip_code"
+    t.string "url"
   end
 
 end

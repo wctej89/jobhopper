@@ -3,12 +3,12 @@ var Wizard = {
     $('.delete').on("click",function(){
       $.ajax({
         url: '/user_tags/' + $(this).attr('id'),
-        type: 'delete',
+        type: 'delete'
       });
       $(this).parent().remove();
     });
   }
-}
+};
 
 $(document).ready(function(){
   Wizard.init();
