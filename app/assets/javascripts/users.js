@@ -19,12 +19,12 @@
 // });
 
 
-function bindDraggableEvents(){
-  $(".jobs > li" ).draggable({
-    appendTo: "body",
-    helper: "clone"
-  });
-}
+// function bindDraggableEvents(){
+//   $(".jobs > li" ).draggable({
+//     appendTo: "body",
+//     helper: "clone"
+//   });
+// }
 
 function getResults(page){
   $.ajax({
@@ -34,7 +34,6 @@ function getResults(page){
     removeKangaroo();
     var list = Mustache.render($('#results').html(),{jobs:response.results});
     $('.jobs').append(list);
-    bindDraggableEvents();
     $('.desc').each(function(){$(this).text($(this).text().split(' ').slice(0,20).join(' ').concat('...'))});
     $('.more_info').each(function(){bindFirstLinkClick($(this))});
   });
