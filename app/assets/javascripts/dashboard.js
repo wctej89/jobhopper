@@ -1,5 +1,5 @@
 $(document).ready(function(){
-
+//commit
   $(document).on('click', '.remove_tag', function(e){
     e.preventDefault();
     var $tag = $(this)

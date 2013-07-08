@@ -56,6 +56,7 @@ class UsersController < ApplicationController
   end
 
   def feed_results
+    #commit
     if params[:page]
       page = params[:page].to_i
     else
