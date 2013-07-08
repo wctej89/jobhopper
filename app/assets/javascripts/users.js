@@ -105,7 +105,7 @@ $(document).ready(function(){
       $($target).closest('li').fadeOut();
    });
   });
-
+  
   setInterval(function(){
     fetchNewResults();
   }, 60000);
