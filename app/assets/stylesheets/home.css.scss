@@ -1,0 +1,107 @@
+@import "foundation";
+
+/*universal*/
+
+#wrapper {
+  width: 100%;
+}
+
+
+/* header */
+
+header {
+  min-height: 50px;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin-top: 20px;
+  border-bottom: 1px solid rgb(206, 206, 206);
+}
+
+.logo {
+  margin-top: 10px;
+  width: 50%;
+  float: left;
+}
+
+.brand {
+  font-size: 32px;
+}
+
+.white_space {
+  font-size: 18px;
+  float: left;
+  width: 25%;
+}
+
+.nav {
+  float: left;
+}
+
+
+/* sections */
+
+.call_to_action {
+  margin-top: -30px;
+  min-height: 400px;
+  background-image:url('/assets/background_3.jpg')  
+}
+
+.call_to_action h1 {
+  color: white;
+  font-size: 60px;
+}
+
+.call_to_action h3 {
+  color: rgb(145, 205, 231);
+  font-family: arial;
+}
+
+.inner_container {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.catchphrase {
+  padding-top: 50px;
+  width: 50%;
+  float: left;
+  margin-left: 30px;
+}
+
+.sign_up_form {
+  float: left;
+  width: 30%;
+  margin-left: 190px;
+  margin-top: 18%;
+}
+
+.more_info {
+  margin-top: 30px;
+  min-height: 400px;
+}
+
+.more_info h1 {
+  font-size: 44px;
+  text-align: center;
+}
+
+.more_info h3 {
+  text-align: center;
+}
+
+.row {
+  height: 300px;
+}
+
+.marketing {
+  float: left;
+  height: 300px;
+  width: 30%;
+  margin-right: 3%;
+}
+
+.marketing#1 {
+  margin-left: 100px;
+}
+
+

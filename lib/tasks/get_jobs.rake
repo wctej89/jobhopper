@@ -1,4 +1,3 @@
-require_relative('../angellist')
 require_relative('../add_location')
 require_relative('../scrapers/angellist')
 
@@ -8,7 +7,6 @@ class String
   end
 end
 
-include Angellist
 include Addlocation
 namespace :jobs do
   desc "Get Jobs from Angellist"
@@ -48,7 +46,12 @@ namespace :jobs do
       results["jobs"].each do |result|
         job = Job.create(:name => result["title"], :description => result["startup"]["product_desc"], :company => result["startup"]["name"], :source_url => result["startup"]["angellist_url"])
         result["tags"].each do |tag|
-          job.tags << Tag.create(name: tag["name"], tag_type: tag["tag_type"])
+          begin
+            job.tags << Tag.find_or_create_by_name(name: tag["name"], tag_type: tag["tag_type"])
+          rescue Exception => e
+            puts e.message
+            next
+          end
         end
       end
       next_page = page += 1

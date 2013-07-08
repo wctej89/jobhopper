@@ -2,12 +2,12 @@ class User < ActiveRecord::Base
   include Feed
 
   attr_accessible :name, :email, :password, :password_confirmation
-  has_secure_password 
+  # has_secure_password 
   has_many :user_tags, :dependent => :destroy
   has_many :tags, :through => :user_tags
   has_one :list, :dependent => :destroy
   has_many :jobs, :through => :list
-  has_many :notifications
+  has_many :notifications, :dependent => :destroy
   
   validates :email, presence: true, uniqueness: { case_sensitive: false }
   validates_email_format_of :email
@@ -25,8 +25,8 @@ class User < ActiveRecord::Base
       user.bio = auth_hash.info.summary
       user.location = auth_hash.info.location
       # TODO hack PLEASE FIX THIS
-      user.password = "blank_string"
-      user.password_confirmation = "blank_string"
+      # user.password = "blank_string"
+      # user.password_confirmation = "blank_string"
       user.build_skills(auth_hash["extra"]["raw_info"]["skills"]["values"])
     end
   end
