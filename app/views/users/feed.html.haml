@@ -41,3 +41,9 @@
           -@queue.each do |job|
             %li="#{job.name}" 
             
+%script{:id => "results", :type => "template"}
+  {{#jobs}}
+  %li
+    .job-info
+      %h1 {{name}}
+  {{/jobs}}
