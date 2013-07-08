@@ -39,6 +39,7 @@ class UsersController < ApplicationController
   end
 
   def feed
+    #adding a comment so I can cherry pick
     cookies[:page_num] = 1
     # queue = JobList.find_by_user_id(current_user.id)
     @queue = []
