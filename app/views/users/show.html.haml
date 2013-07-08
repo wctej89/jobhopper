@@ -1,9 +1,8 @@
 .user_container
-  %h1= @user.email
-  %h1= @user.name + "'s Dashboard"
-  %p= "Bio: #{@user.bio}"
-  %p= "Location: #{@user.location}"
-  %h2 Search Tags
+  %h1 Dashboard
+  %p= @user.bio
+  %p= @user.location
+  %h3 Add Skills
   .skills
     -@skills.each do |skill|
       %span
