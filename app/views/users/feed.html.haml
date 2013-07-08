@@ -10,9 +10,9 @@
         accept: ":not(.ui-sortable-helper)",
         drop: function( event, ui ) {
           var job_id = ui.draggable.attr('id');
-          $( this ).find( ".placeholder" ).remove();
-          $( "<li id=" + job_id + "></li>" ).text( ui.draggable.text() ).appendTo( this );
-          $("#"+job_id).remove();
+          $(this).find( ".placeholder" ).remove();
+          ui.draggable.append("<button class='apply'>Applied?</button>");
+          $(this).append(ui.draggable);
           $.ajax({
             method: "GET",
             url: '/add_to_queue/' + job_id
@@ -35,15 +35,16 @@
     %h1{:class => "ui-widget-header"} Job Queue
     %div{:class => "ui-widget-content"}
       %ol
-        -if @queue == nil
+        -if @queue.empty?
           %li{:class => "placeholder"} Add you jobs here
         -else
           -@queue.each do |job|
-            %li="#{job.name}" 
+            %li="#{job.name}"
+            %button.apply{:id => job.id} Applied?
             
 %script{:id => "results", :type => "template"}
   {{#jobs}}
-  %li
+  %li{:id => "{{id}}"}
     .job-info
       %h1 {{name}}
   {{/jobs}}
