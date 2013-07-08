@@ -11,4 +11,6 @@
     = select_tag "user_tags[tags][]", options_from_collection_for_select(@tags, "id", "name"), {:multiple => true, :class => "chzn-select" }
     =hidden_field_tag "user_tags[user_id]", current_user.id
 
-    =submit_tag "Next"
+    =submit_tag "Add", :class => "button"
+
+  =link_to "Next", wizard_location_path, :class => "button"
