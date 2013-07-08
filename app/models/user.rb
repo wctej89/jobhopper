@@ -1,5 +1,6 @@
 class User < ActiveRecord::Base
   include Feed
+
   attr_accessible :name, :email, :password, :password_confirmation
   has_secure_password 
   has_many :user_tags, :dependent => :destroy
@@ -54,7 +55,7 @@ class User < ActiveRecord::Base
     # TODO - right now feeds only include tagged jobs.
     # begin rescue here
     #TODO fix async workers
-    # CraigslistWorker.perform_async(self)
+    CraigslistWorker.perform_async(self.id)
     jobs_array = []
     self.tags.each {|tag| tag.jobs.each {|job| jobs_array << job }  }
     jobs_array.uniq!

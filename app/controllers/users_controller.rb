@@ -11,9 +11,9 @@ class UsersController < ApplicationController
   def create
     @user = User.new(params[:user])
     if @user.save
+      cookies[:new_user] = true
       sign_in(@user)
-      flash[:success] = "Welcome to Options IO"
-      redirect_to @user
+      redirect_to(user_feed_path(@user))
     else
       flash[:errors] = @user.errors.full_messages
       render 'new'
