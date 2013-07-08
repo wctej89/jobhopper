@@ -6,14 +6,15 @@
   %script{:id => "results", :type => "template"}
     {{#jobs}}
     %li{:id => "{{id}}", :class => 'feed-job'}
-      .job-info
       .add_to_queue
         %button.add_to_queue{href:"/add_to_queue/{{id}}"} Add to Queue
-      %h1 
-        %a{href: "/jobs/{{id}}"}
-          {{name}}
-      %h3 {{company}}
-      %span.miles_away {{miles}} Miles Away
-      %p.desc {{description}}
-      %a.more_info more info
+      .job-info
+        %h1 
+          %a{href: "/jobs/{{id}}"}
+            {{name}}
+        %h3 {{company}}
+        %span.miles_away {{miles}} Miles Away
+        %p.desc {{description}}
+        %a.more_info more info
     {{/jobs}}
+
