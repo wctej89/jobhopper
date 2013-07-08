@@ -1,16 +1,18 @@
-// function getNewPage(){
-//   if($(window).height() + $(window).scrollTop() + 150 > $(document).height()){
-//     page_num = parseInt($.cookie('page_num')) + 1
-//     $.ajax({
-//       method: "get",
-//       url: "search",
-//       data: "feed_results?page=" + page_num
-//     }).done(function(response){
-//       $.cookie('page_num',page_num);
-//       $('.search-results').append(Mustache.render($("#results").html(),{jobs: response}));
-//     });
-//   }
-// }
+function getNewPage(){
+  console.log("hello");
+  if($(window).height() + $(window).scrollTop() + 150 > $(document).height()){
+    page_num = parseInt($.cookie('page_num')) + 1
+    $.ajax({
+      method: "get",
+      url: "/feed",
+      data: "page=" + page_num
+    }).done(function(response){
+      console.log(response.results);
+      $.cookie('page_num',page_num);
+      $('.jobs').append(Mustache.render($("#results").html(),{jobs: response.results}));
+    });
+  }
+}
 
 // $(document).ready(function(){
 //   $.cookie('page_num','0');
@@ -100,7 +102,8 @@ function bindFirstLinkClick($link){
 
 
 $(document).ready(function(){
-  var page_num = $.cookie('page_num');
+  $.cookie('page_num',1);
+  var page_num = $.cookie('page_num',1)
   $('.jobs').append('<img class="kangaroo" src="/assets/kangourous-11.gif">');
   getResults(page_num);
   $('.feed_container').on('click', $('.add_to_queue'), function(e){
@@ -114,4 +117,5 @@ $(document).ready(function(){
    });
   });
   // $(document).on("scroll",_.debounce(, 200));
+  $(window).on("scroll",_.debounce(getNewPage,200));
 });
