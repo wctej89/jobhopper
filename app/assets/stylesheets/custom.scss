@@ -101,17 +101,11 @@ ul.right li {
 /* feed */ 
 
 .feed {
-  width: 50%;
+  width: 100%;
   float: left;
 }
 
-.queue {
-  width: 50%;
-  float:left;
-  border: 1px solid red;
-}
-
-li {
+.jobs li {
   list-style:none;
 }
 
@@ -199,8 +193,8 @@ ul.skills-list li{
 
 .feed_container {
   margin-top: 4%;
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 20%;
+  margin-right: 20%;
   padding: 2%;
   background-image:url('https://abs.twimg.com/a/1372759208/t1/img/wash-white-30.png');
   border-radius: 8px;
@@ -210,8 +204,27 @@ ul.skills-list li{
   float: left;
 }
 
+.feed {
+  // background-color: #;
+  border-radius: 8px;
+}
+
 .feed-job {
   float: left;
+  width: 100%;
+  border-radius: 4px;
+  padding: 1%;
+  background-color: #E6E6E6;
+}
+
+.feed ul li {
+  // border-top:
+}
+
+.jobs_header h3 {
+  color: white;
+  padding-left: 2%;
+  // border-bottom: 
 }
 
 /* user show */
@@ -227,4 +240,5 @@ ul.skills-list li{
 
 .job-info {
   float: left;
+  width: 100%;
 }
