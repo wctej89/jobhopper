@@ -39,8 +39,14 @@
           %li{:class => "placeholder"} Add you jobs here
         -else
           -@queue.each do |job|
-            %li="#{job.name}"
-            %button.apply{:id => job.id} Applied?
+            %li{:id => job.id}
+              %h5= job.name
+              %button.apply Applied?
+    %h1 Organizer
+    %div.applied
+      -@applied.each do |job|
+        %li= job.name
+        %button Submitted
             
 %script{:id => "results", :type => "template"}
   {{#jobs}}
@@ -48,10 +54,4 @@
     .job-info
       %h1 {{name}}
   {{/jobs}}
-            %button.apply{:id => job.id} Applied?
-    %h1 Organizer
-    %div.applied
-      -@applied.each do |job|
-        %li="#{job.name}" 
-        %button Submitted
-
+  

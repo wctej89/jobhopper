@@ -23,17 +23,13 @@ $(document).ready(function(){
   });
 
  $(document).on('click', '.apply', function(e){
-    e.preventDefault();
-    var $job = $(this)
+  debugger;
+    var $job = $(this).parent();
     $.ajax({
       type: 'put',
       url: '/jobs/'+ $job.attr('id')
     }).success(function(response){
-      $job.parent().remove();
-      console.log($job)
-      $('.applied').append("<li>"+$job.siblings().first()
-                          .text()+"</li><button>Submitted</button>")
-    })
-  })
- 
+      $('.applied').append($job)
+    });
+  });
 });
