@@ -14,11 +14,17 @@
 
 // $(document).ready(function(){
 //   $.cookie('page_num','0');
-  
+
 //   $(window).on("scroll",_.debounce(getNewPage,200));
 // });
 
 
+function bindDraggableEvents(){
+  $(".jobs > li" ).draggable({
+    appendTo: "body",
+    helper: "clone"
+  });
+}
 
 function getResults(page){
   $.ajax({
@@ -28,6 +34,7 @@ function getResults(page){
     removeKangaroo();
     var list = Mustache.render($('#results').html(),{jobs:response.results});
     $('.jobs').append(list);
+    bindDraggableEvents();
   });
 }
 

@@ -1,5 +1,5 @@
  class Tag < ActiveRecord::Base
-  attr_accessible :name
+  attr_accessible :name, :tag_type
 
   has_many :user_tags
   has_many :users, :through => :user_tags
@@ -11,7 +11,7 @@
   def self.location_create(location_string)
     locations = []
     Tag.where('tag_type = ?', 'LocationTag').each do |tag|
-      if location_string.downcase.scan(tag.name)
+      if location_string.downcase.scan(tag.name) != []
         locations << tag
       else
         Tag.create(:name => location_string.downcase, :tag_type => 'LocationTag')

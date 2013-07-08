@@ -58,6 +58,7 @@ class User < ActiveRecord::Base
     jobs_array = []
     self.tags.each {|tag| tag.jobs.each {|job| jobs_array << job }  }
     jobs_array.uniq!
+
     final_result = remove_queued_jobs(sort_by_radius(jobs_array, self.location))
     result = {}
     result[:total] = final_result.count
@@ -67,11 +68,14 @@ class User < ActiveRecord::Base
     result
   end
 
-  def remove_queued_jobs(array)
+  def remove_queued_jobs(job_hash)
     self.jobs.each do |job|
-      array.delete(job) if array.include?(job)
+       if job_hash.values.include?(job)
+        x = job_hash.values.index(job)
+        job_hash.delete(job_hash.keys[x])
+      end
     end
-    array
+    job_hash
   end
 
 
