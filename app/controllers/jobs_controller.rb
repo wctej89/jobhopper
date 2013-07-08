@@ -26,4 +26,8 @@ class JobsController < ApplicationController
     job.save
     render :text => "fuck yeah"
   end
+
+  def get_job
+    render :json => Job.find(params[:job_id])
+  end
 end

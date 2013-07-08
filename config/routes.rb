@@ -17,7 +17,7 @@ OptionsIo::Application.routes.draw do
   match '/users/:id/feed', to: 'users#feed', :as => 'user_feed'
   match '/feed', to: 'users#feed_results', :as => 'feed_results'
 
-
+  match '/get_job', to: 'jobs#get_job', :as => 'job_info'
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

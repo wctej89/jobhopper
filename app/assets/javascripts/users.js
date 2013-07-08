@@ -35,6 +35,8 @@ function getResults(page){
     var list = Mustache.render($('#results').html(),{jobs:response.results});
     $('.jobs').append(list);
     bindDraggableEvents();
+    $('.desc').each(function(){$(this).text($(this).text().split(' ').slice(0,20).join(' ').concat('...'))});
+    $('.more_info').each(function(){bindFirstLinkClick($(this))});
   });
 }
 
@@ -63,6 +65,30 @@ function removeKangaroo(){
 //       );
 //   }
 // }
+
+function bindSecondLinkClick($self){
+  $self.one("click",function(){
+    $self.prev().text($self.prev().text().split(' ').slice(0,20).join(' ').concat('...'));
+    bindFirstLinkClick($self);
+  });
+}
+
+function bindFirstLinkClick($link){
+  $link.one("click",function(){
+    console.log("hello");
+    var $self = $(this);
+    var job_id = $(this).closest('li').attr('id');
+    $.ajax({
+      url: '/get_job',
+      data: 'job_id=' + job_id
+    }).done(function(response){
+      console.log(response.description);
+      $self.prev().text(response.description);
+      $self.text('less info');
+      bindSecondLinkClick($self);
+    });
+  })
+}
 
 $(document).ready(function(){
   var page_num = $.cookie('page_num');
