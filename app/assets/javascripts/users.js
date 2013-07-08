@@ -9,7 +9,8 @@ function getNewPage(){
     }).done(function(response){
       console.log(response.results);
       $.cookie('page_num',page_num);
-      $('.jobs').append(Mustache.render($("#results").html(),{jobs: response.results}));
+      var jobs = prepareResponse(response);
+      $('.jobs').append(Mustache.render($("#results").html(),{jobs: jobs.results}));
     });
   }
 }
@@ -100,13 +101,31 @@ function bindFirstLinkClick($link){
   });
 }
 
+function fetchNewResults(){
+  $.ajax({
+    method: 'get',
+    url: '/feed'
+  }).success(function(jobs){
+    if (jobs['results'][0].company == $('.job-info').find('h3').first().text())
+    {
+      var response = prepareResponse(jobs);
+      console.log(response);
+      //testing
+      var json = $.parseJSON('{"0": {"company": "Bonobos","created_at": "Fuck you","description": "Software engineer","id": "9600","miles": "1","name": "Rails Beast","updated_at": "Fuck you again"}}');
+      response['results'][0] = json;
+      Mustache.render($('#results').html(),{jobs:response.results});
+    }
+  });
+}
+
 
 $(document).ready(function(){
   $.cookie('page_num',1);
   var page_num = $.cookie('page_num',1)
   $('.jobs').append('<img class="kangaroo" src="/assets/kangourous-11.gif">');
   getResults(page_num);
-  $('.feed_container').on('click', $('.add_to_queue'), function(e){
+
+  $('.feed_container').on('click', 'button.add_to_queue', function(e){
     var $target = e.target;
     e.preventDefault();
     $.ajax({
@@ -116,6 +135,10 @@ $(document).ready(function(){
       $($target).closest('li').fadeOut();
    });
   });
+
+  setInterval(function(){
+    fetchNewResults();
+  }, 5000);
   // $(document).on("scroll",_.debounce(, 200));
   $(window).on("scroll",_.debounce(getNewPage,200));
 });
