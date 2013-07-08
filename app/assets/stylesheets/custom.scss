@@ -112,8 +112,46 @@ p {
   width: 100%;
 }
 
+.skills-list li{
+  list-style:none;
+}
+
+ul.skills-list li{
+  display: inline;
+}
+
+.new_skills {
+  box-shadow: 10px 10px 5px #888888;
+  border-radius: 6px;
+  padding-top: 1%;
+  padding-left: 1%;
+  padding-right: 1%;
+  background-color: gray;
+}
+
+.skills {
+  margin-left: 1%;
+  margin-right: 1%;
+  background-color: gray;
+  border-radius: 11px;
+  padding: 2%;
+  box-shadow: 10px 10px 5px #888888;
+}
+
+.skills h3 {
+  text-align: center;
+  color: white;
+}
+
 .default {
   width: 100% !important;
   height: 100% !important;
   font-size: 24px !important;
+}
+
+/* feed */
+
+.feed_container {
+  margin-left: 10%;
+  margin-right: 10%;
 }
