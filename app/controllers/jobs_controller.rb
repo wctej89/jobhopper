@@ -4,6 +4,7 @@ class JobsController < ApplicationController
   #TODO think about adding this to the lists controller
   def add_to_queue
     @list = current_user.list
+    debugger
     if @list.add_job(params[:id])
       flash[:notice] = "Job successfully added"
       render :json => @list.jobs

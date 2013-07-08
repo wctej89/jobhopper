@@ -115,6 +115,10 @@ ul.right li {
   border-bottom: 1px solid #ccc;
 }
 
+.job-info h3 {
+  font-size: 14px;
+}
+
 p {
   margin: 0
 }
@@ -217,14 +221,10 @@ ul.skills-list li{
   background-color: #E6E6E6;
 }
 
-.feed ul li {
-  // border-top:
-}
 
 .jobs_header h3 {
   color: white;
   padding-left: 2%;
-  // border-bottom: 
 }
 
 /* user show */
@@ -241,4 +241,8 @@ ul.skills-list li{
 .job-info {
   float: left;
   width: 100%;
+}
+
+.job-info h3{
+  font-size:18px;
 }
