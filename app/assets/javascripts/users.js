@@ -9,7 +9,8 @@ function getNewPage(){
     }).done(function(response){
       console.log(response.results);
       $.cookie('page_num',page_num);
-      $('.jobs').append(Mustache.render($("#results").html(),{jobs: response.results}));
+      var jobs = prepareResponse(response);
+      $('.jobs').append(Mustache.render($("#results").html(),{jobs: jobs.results}));
     });
   }
 }
