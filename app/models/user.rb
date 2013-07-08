@@ -23,9 +23,6 @@ class User < ActiveRecord::Base
       user.name = auth_hash.info.name
       user.bio = auth_hash.info.summary
       user.location = auth_hash.info.location
-      # TODO hack PLEASE FIX THIS
-      # user.password = "blank_string"
-      # user.password_confirmation = "blank_string"
       user.build_skills(auth_hash["extra"]["raw_info"]["skills"]["values"])
     end
   end

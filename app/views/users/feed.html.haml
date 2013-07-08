@@ -47,11 +47,10 @@
       %div.applied
         -@applied.each do |job|
           %li= job.name
-          / %button Submitted
-              
+          / %button Submitted            
   %script{:id => "results", :type => "template"}
     {{#jobs}}
-    %li{:id => "{{id}}"}
+    %li{:id => "{{id}}", :class => 'feed-job'}
       .job-info
         %h1 {{name}} - {{company}}
         %p.desc {{description}}
