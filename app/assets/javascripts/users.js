@@ -10,7 +10,10 @@ function getNewPage(){
       console.log(response.results);
       $.cookie('page_num',page_num);
       var jobs = prepareResponse(response);
-      $('.jobs').append(Mustache.render($("#results").html(),{jobs: jobs.results}));
+      var filledTemplate = Mustache.render($("#results").html(),{jobs: jobs.results});
+      $('.jobs').append(filledTemplate);
+      $('.desc').each(function(){$(this).text($(this).text().split(' ').slice(0,20).join(' ').concat('...'))});
+      $('.more_info').each(function(){bindFirstLinkClick($(this))});
     });
   }
 }
@@ -80,11 +83,13 @@ function removeKangaroo(){
 function bindSecondLinkClick($self){
   $self.one("click",function(){
     $self.prev().text($self.prev().text().split(' ').slice(0,20).join(' ').concat('...'));
+    $self.text('more info')
     bindFirstLinkClick($self);
   });
 }
 
 function bindFirstLinkClick($link){
+  $link.off("click");
   $link.one("click",function(){
     console.log("hello");
     var $self = $(this);
@@ -136,9 +141,9 @@ $(document).ready(function(){
    });
   });
 
-  setInterval(function(){
-    fetchNewResults();
-  }, 5000);
+  // setInterval(function(){
+  //   fetchNewResults();
+  // }, 5000);
   // $(document).on("scroll",_.debounce(, 200));
   $(window).on("scroll",_.debounce(getNewPage,200));
 });
