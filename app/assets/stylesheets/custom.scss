@@ -2,6 +2,24 @@
 
 /*universal*/
 
+.right {
+  width: 45%;
+  background-color: white;
+} 
+
+.left {
+  width: 55%;
+}
+
+.left, .right, .container, #wrapper, body, html {
+  height: 100%;
+}
+
+.left {
+  background-color: black;
+  background-image: url('kangaroo1.jpeg');
+}
+
 html {
   overflow-x: hidden;
 }
@@ -281,4 +299,3 @@ ul.skills-list li{
 .feed-job {
   float: left;
 }
-
