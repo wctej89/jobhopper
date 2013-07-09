@@ -299,3 +299,21 @@ ul.skills-list li{
 .feed-job {
   float: left;
 }
+
+/* job show */
+
+.job_show {
+  line-height: 23px;
+  width: 75%;
+  padding: 5%;
+  border-radius: 2px;
+  margin: 0 auto;
+  font-family: 'Lato', sans-serif;
+  background-color: white;
+}
+
+.company_name {
+  font-weight: 200;
+  margin-top: -3%;
+  margin-left: 2px;
+}
