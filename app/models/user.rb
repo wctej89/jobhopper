@@ -49,7 +49,7 @@ class User < ActiveRecord::Base
 
   def feed(location_array, page)
     # TODO begin rescue here
-    CraigslistWorker.perform_in(3.hours.from.now, self.id)
+    CraigslistWorker.perform_in(3.hours, self.id)
     jobs_array = []
     self.tags.each {|tag| tag.jobs.each {|job| jobs_array << job }  }
     final_result = remove_queued_jobs(sort_by_radius(jobs_array.uniq, self.location))
