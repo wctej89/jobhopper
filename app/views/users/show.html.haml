@@ -17,14 +17,5 @@
       =hidden_field_tag "user_tags[user_id]", current_user.id
 
       =submit_tag "Next"
-      
-  %h2 Your Queue
-  -@user.list.jobs.each do |job|
-    %li
-      .job-info
-        %h1= job.name
-        %p=  job.company
-      .buttons
-        =link_to "Remove from Queue", remove_from_queue_path(job), class: "button remove_from_queue"
-        %button Apply
+    
 
