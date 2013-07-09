@@ -1,12 +1,19 @@
 = render :partial => "static_pages/queue", locals: {user: @user}
 .user_container
-  %h1 Dashboard
+  %h1{style: "font-family: 'Lato', sans-serif;"} Dashboard
   %p= @user.bio
-  %p= @user.location
-  %h3 Add Skills
+  %h3{style: "font-family: 'Lato', sans-serif;"} Add Skills
+
   .skills
+    %h4{style: "color: white; font-family: 'Lato', sans-serif;"} Skills
     -@skills.each do |skill|
-      %span
+      -if skill.tag_type == "SkillTag"
+        %button.remove_tag{:id => skill.id}
+          %span= skill.name
+        %a.delete{:id => skill.id, :href => '#'}
+    %h4{style: "color: white; font-family: 'Lato', sans-serif;"} Locations
+    -@skills.each do |skill|      
+      -if skill.tag_type == "LocationTag"
         %button.remove_tag{:id => skill.id}= skill.name 
         %a.delete{:id => skill.id, :href => '#'}
 
@@ -17,5 +24,7 @@
       =hidden_field_tag "user_tags[user_id]", current_user.id
 
       =submit_tag "Next"
+
+  .float_clear{style: "clear: both;"}
     
 
