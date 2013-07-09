@@ -1,7 +1,6 @@
 class TagWorker
   include Sidekiq::Worker
-
-  # TODO fix this so that tagging works on scan i.e. Data Science = 'data science job avalaible'
+  sidekiq_options retry: false
   
   def perform(id)
     job = Job.find(id)
