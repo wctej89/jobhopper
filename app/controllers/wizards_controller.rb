@@ -8,6 +8,7 @@ class WizardsController < ApplicationController
   end
 
   def locations
+    cookies[:skills] = false
     cookies[:new_user] = false
     @user = current_user
     @locations = Tag.all.select { |tag| tag.is_location? }

@@ -16,12 +16,19 @@
     end
   end
 
+  def self.search_location
+    tire.search(load: true) do 
+      # TODO filter by location tag
+      query { string 'tag_type:LocationTag' } if params["search"].present
+    end
+  end
+
   def self.location_create(location_string)
     locations = []
     Tag.where('tag_type = ?', 'LocationTag').each do |tag|
       if location_string.downcase.scan(tag.name) != []
         locations << tag
-    else
+      else
         Tag.create(:name => location_string.downcase, :tag_type => 'LocationTag')
       end
     end

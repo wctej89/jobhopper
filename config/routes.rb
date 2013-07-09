@@ -20,6 +20,7 @@ OptionsIo::Application.routes.draw do
   match '/feed', to: 'users#feed_results', :as => 'feed_results'
   match '/get_job', to: 'jobs#get_job', :as => 'job_info'
   match '/search_tags', to: 'tags#search', :as => 'search_tags'
+  match '/search_locations', to: 'tags#search_locations', :as => 'search_locations'
   mount Sidekiq::Web => '/sidekiq'
 
   # The priority is based upon order of creation:

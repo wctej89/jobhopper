@@ -3,10 +3,9 @@
     %h3= @user.location
   .new_skills
     %h3 Pick locations you're interested in
-    = form_tag user_tags_path, :class => "user_tags", :method => "post" do
-      = select_tag "user_tags[tags][]", options_from_collection_for_select(@locations, "id", "name"), {:multiple => true, :class => "chzn-select" }
-      =hidden_field_tag "user_tags[user_id]", current_user.id
-      =submit_tag "Finished", :class => "button large expand"
+    = form_tag search_locations_path, :class => "user_tags", :method => "get" do
+      = text_field_tag :search, params[:search], :placeholder => "Search for Locations", :class => "wizard-search", :style => "border:none; width: 20%;"
+  %ul.search_results
   .skills
     %ul.skills-list
     -@user_locs.each do |loc|
