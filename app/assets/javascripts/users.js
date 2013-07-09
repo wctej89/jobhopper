@@ -108,6 +108,7 @@ $(document).ready(function(){
   
   setInterval(function(){
     fetchNewResults();
+<<<<<<< HEAD
   }, 60000);
 
   $(window).on("scroll",_.debounce(getNewPage,200));

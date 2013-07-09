@@ -1,8 +1,10 @@
 class NotificationsController < ApplicationController
 
   def index
-    if current_user
-      render :json => current_user.notifications
+    @notifications = current_user.notifications
+    respond_to do |format|
+      format.html
+      format.json { render :json => @notifications }
     end
   end
 
