@@ -1,0 +1,12 @@
+.notifications_container
+  .notifications
+    %ul.notification
+      .notification_header
+      %h3 Notifications
+      -@notifications.each do |n|
+        %li{:id => n.id, :class => 'notification'}
+          .notification-info
+            %h1
+              %a{href:"/jobs/#{n.job_id}"} 
+                =Job.find(n.job_id).name
+            %p.desc= n.subject

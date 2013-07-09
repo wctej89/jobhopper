@@ -6,6 +6,7 @@ OptionsIo::Application.routes.draw do
   resources :sessions, :only => [:new, :create, :destroy]
   resources :user_tags
   resources :job_tags
+  resources :notifications, :only => [:index]
   match '/auth/:provider/callback', to: 'omniauth_callbacks#all'
   match '/signout', to: 'sessions#destroy'
   match '/search', to: 'tags#search'

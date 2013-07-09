@@ -15,7 +15,7 @@ class NotificationWorker
       end
     end
     users.uniq.each do |user|
-      user.notifications.create(:subject => job.name)
+      user.notifications.create(:subject => job.name, :job_id => job.id)
     end
   end
 end
