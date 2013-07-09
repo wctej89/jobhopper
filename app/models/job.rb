@@ -12,9 +12,10 @@ class Job < ActiveRecord::Base
   validates_uniqueness_of :source_url
 
   after_create :tag_job, :notify_users
+  # TODO get_job_location here
 
   def has_coordinates
-    return true if !(self.lat.nil? && self.lng.nil?)
+    return true if !(self.lat.nil? || self.lng.nil?)
   end
 
   private 
@@ -25,5 +26,9 @@ class Job < ActiveRecord::Base
 
   def notify_users
     NotificationWorker.perform_in(30.seconds, self.id)
+  end
+
+  def get_job_location
+    LocationWorker.perform_in(10.seconds, self.id)
   end
 end

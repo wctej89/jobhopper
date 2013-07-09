@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130709015341) do
+ActiveRecord::Schema.define(:version => 20130709042123) do
 
   create_table "job_lists", :force => true do |t|
     t.integer  "list_id"
@@ -36,8 +36,9 @@ ActiveRecord::Schema.define(:version => 20130709015341) do
     t.string   "email"
     t.string   "company"
     t.string   "source_url"
-    t.datetime "created_at",  :null => false
-    t.datetime "updated_at",  :null => false
+    t.integer  "angellist_id"
+    t.datetime "created_at",   :null => false
+    t.datetime "updated_at",   :null => false
     t.float    "lat"
     t.float    "lng"
   end
@@ -82,6 +83,8 @@ ActiveRecord::Schema.define(:version => 20130709015341) do
     t.string   "uid"
     t.string   "location"
     t.text     "bio"
+    t.float    "lat"
+    t.float    "lng"
   end
 
   create_table "zips", :force => true do |t|

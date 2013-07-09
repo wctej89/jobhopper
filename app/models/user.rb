@@ -48,15 +48,11 @@ class User < ActiveRecord::Base
   end
 
   def feed(location_array, page)
-    # TODO - right now feeds only include tagged jobs.
-    # begin rescue here
-    #TODO fix async workers
-    CraigslistWorker.perform_async(self.id)
+    # TODO begin rescue here
+    CraigslistWorker.perform_in(3.hours.from.now, self.id)
     jobs_array = []
     self.tags.each {|tag| tag.jobs.each {|job| jobs_array << job }  }
-    jobs_array.uniq!
-
-    final_result = remove_queued_jobs(sort_by_radius(jobs_array, self.location))
+    final_result = remove_queued_jobs(sort_by_radius(jobs_array.uniq, self.location))
     result = {}
     result[:total] = final_result.count
     start_index = (page-1)*10
@@ -75,7 +71,6 @@ class User < ActiveRecord::Base
     end
     job_hash
   end
-
 
 private
 
