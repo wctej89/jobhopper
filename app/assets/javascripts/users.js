@@ -1,14 +1,13 @@
 function getNewPage(){
-  console.log("hello");
+  var page_num = parseInt($.cookie('page_num')) + 1
+  $.cookie('page_num',page_num+1);
   if($(window).height() + $(window).scrollTop() + 150 > $(document).height()){
-    page_num = parseInt($.cookie('page_num')) + 1
     $.ajax({
       method: "get",
       url: "/feed",
       data: "page=" + page_num
     }).done(function(response){
       console.log(response.results);
-      $.cookie('page_num',page_num);
       var jobs = prepareResponse(response);
       var filledTemplate = Mustache.render($("#results").html(),{jobs: jobs.results});
       $('.jobs').append(filledTemplate);
@@ -92,7 +91,7 @@ function fetchNewResults(){
 
 $(document).ready(function(){
   $.cookie('page_num',1);
-  var page_num = $.cookie('page_num',1);
+  var page_num = $.cookie('page_num');
   $('.jobs').append('<img class="kangaroo" src="/assets/kangourous-11.gif">');
   getResults(page_num);
 
