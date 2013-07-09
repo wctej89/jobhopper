@@ -1,0 +1,15 @@
+=render :partial => 'static_pages/queue', locals: {user: current_user}
+.search_container
+  .search
+    %ul.jobs
+      .jobs_header
+        %h3 Results
+      -@results.each do |result|
+        %li{:id => "#{result.id}", :class => 'feed-job' }
+          .job-info
+            %h1
+              %a{href: "/jobs/#{result.id}"}
+                =result.name
+            %h3= result.company
+            %p.desc= result.description
+            %p= "Created #{time_ago_in_words(result.created_at)} ago"

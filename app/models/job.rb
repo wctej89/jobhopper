@@ -12,7 +12,14 @@ class Job < ActiveRecord::Base
   validates_uniqueness_of :source_url
 
   after_create :tag_job, :notify_users
-  # TODO get_job_location here
+  # TODO get_job_location here. Fix background worker
+
+  def self.search(params)
+    tire.search(load: true) do
+      query { string params["search"], default_operator: "AND" } if params["search"].present?
+      filter :range, created_at: { gte: Time.zone.now - 24.hours }
+    end
+  end
 
   def has_coordinates
     return true if !(self.lat.nil? || self.lng.nil?)
