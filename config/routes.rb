@@ -9,7 +9,7 @@ OptionsIo::Application.routes.draw do
   resources :notifications, :only => [:index]
   match '/auth/:provider/callback', to: 'omniauth_callbacks#all'
   match '/signout', to: 'sessions#destroy'
-  match '/search', to: 'tags#search'
+  match '/search', to: 'jobs#search'
   match '/location', to: 'static_pages#location'
   match '/add_to_queue/:id', to: 'jobs#add_to_queue', :as => 'add_to_queue'
   match '/remove_from_queue/:id', to: 'jobs#remove_from_queue', :as => 'remove_from_queue'

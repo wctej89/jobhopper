@@ -19,12 +19,6 @@
     end
   end
 
-  def self.search(params)
-    tire.search(load: true) do
-      query { string params, default_operator: "AND" } if params.present?
-    end
-  end
-
   def is_location?
     self.tag_type == 'LocationTag'
   end
