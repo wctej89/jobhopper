@@ -102,22 +102,24 @@
   }
 
 .left
+
+.left
   .stuff
     .signup
       Sign up for JobHopper 
     %h2.below Jobhopper is your best source for jobs.
+  .ninja{style: "position: fixed;"}
+    .linkedin_button    
+      %i.icon-linkedin-sign.icon-2x
+      %span.crap Sign up with LinkedIn
 
-  .linkedin_button    
-    %i.icon-linkedin-sign.icon-2x
-    %span.crap Sign up with LinkedIn
+    .facebook_button
+      %i.icon-facebook-sign.icon-2x
+      %span.crap Sign up with Facebook
 
-  .facebook_button
-    %i.icon-facebook-sign.icon-2x
-    %span.crap Sign up with Facebook
-
-  .google_button
-    %i.icon-google-plus-sign.icon-2x
-    %span.crap Sign up with Google
+    .google_button
+      %i.icon-google-plus-sign.icon-2x
+      %span.crap Sign up with Google
 
   .aispfu
     %h1 JobHopper
@@ -130,6 +132,6 @@
     if (el.className == "crap" || el.className == "linkedin_button");
         window.location.href = '/auth/linkedin';
     }
-};
+  };
 
 
