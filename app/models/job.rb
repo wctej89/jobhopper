@@ -2,7 +2,7 @@ class Job < ActiveRecord::Base
   include Tire::Model::Search
   include Tire::Model::Callbacks
 
-  attr_accessible :name, :description, :email, :company, :source_url
+  attr_accessible :name, :description, :email, :company, :source_url, :lat, :lng
   has_many :job_tags, :dependent => :destroy
   has_many :tags, :through => :job_tags
   has_many :job_lists, :dependent => :destroy
@@ -11,7 +11,7 @@ class Job < ActiveRecord::Base
   validates_presence_of :name, :description, :source_url
   validates_uniqueness_of :source_url
 
-  after_create :tag_job, :notify_users
+  after_create :tag_job, :notify_users, :get_job_location
   # TODO get_job_location here. Fix background worker
 
   def self.search(params)
