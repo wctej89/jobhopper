@@ -1,13 +1,14 @@
 .wizard_container
   .new_skills
-    %h3 Pick New Skills
+    %h3 Add New Skills
     = form_tag user_tags_path, :class => "user_tags", :method => "post" do
-      = select_tag "user_tags[tags][]", options_from_collection_for_select(@tags, "id", "name"), {:multiple => true, :class => "chzn-select", :remote => true }
+      = select_tag "user_tags[tags][]", options_from_collection_for_select(@tags, "id", "name"), {:multiple => true, :class => "chosen", :remote => true }
       =hidden_field_tag "user_tags[user_id]", current_user.id
 
       =submit_tag "Add", {:class => "large button expand add_skills", remote: true}
 
   .skills
+    %h3 Current Skills
     %ul.skills-list
       -@skills.each do |skill|
         %li

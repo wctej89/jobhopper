@@ -16,8 +16,9 @@ class OmniauthCallbacksController < ApplicationController
   protected
 
   def wizard(user)
-    if current_user.created_at >= (DateTime.now - 10.minutes)
-      redirect_to wizard_path
+    if current_user.created_at >= (DateTime.now - 30.minutes)
+      cookies[:new_user] = true
+      redirect_to user_feed_path(user)
     else
       redirect_to user_feed_path(user)
     end
