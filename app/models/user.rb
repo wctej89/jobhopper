@@ -21,7 +21,7 @@ class User < ActiveRecord::Base
       user.uid = auth_hash.uid
       user.email = auth_hash.info.email
       user.name = auth_hash.info.name
-      user.bio = auth_hash.info.summary
+      user.bio = auth_hash.extra.raw_info.summary
       user.location = auth_hash.info.location
       user.build_skills(auth_hash["extra"]["raw_info"]["skills"]["values"])
     end
