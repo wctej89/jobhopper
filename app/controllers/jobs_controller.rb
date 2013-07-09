@@ -30,4 +30,8 @@ class JobsController < ApplicationController
   def get_job
     render :json => Job.find(params[:job_id])
   end
+
+  def show
+    @job = Job.find(params[:id])
+  end
 end
