@@ -2,21 +2,7 @@
   .new_skills
     %h3 Add New Skills
     = form_tag search_tags_path, :class => "user_tags", :method => "get" do
-      = text_field_tag :search, params[:search], :placeholder => "Search For Skills" :class => "home-search", :style => "border: none; width: 20%;"
-
-  %ul.search_results
-%script{:id => "results", :type => "template"}
-  {{#tags}}
-  %li
-    .job-info
-      %h1 {{name}}
-    .buttons
-      %button Not Relevant
-      %button Add to Queue
-      %button More info
-  {{/tags}}
-
-
+      = text_field_tag :search, params[:search], :placeholder => "Search For Skills", :class => "wizard-search", :style => "border: none; width: 20%;"
   .skills
     %h3 Current Skills
     %ul.skills-list
