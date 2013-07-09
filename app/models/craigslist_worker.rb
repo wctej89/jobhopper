@@ -1,5 +1,6 @@
 class CraigslistWorker
   include Sidekiq::Worker
+  sidekiq_options retry: false
 
   def perform(user_id)
     current_user = User.find(user_id)

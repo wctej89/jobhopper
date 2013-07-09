@@ -28,6 +28,10 @@ group :development, :production do
   gem 'pg'
 end
 
+#monitoring sidekiq
+gem 'sinatra', '>= 1.3.0', :require => nil #for monitoring sidekiq
+gem 'slim', '>= 1.1.0'   #for monitoring sidekiq
+
 # The :assets group is for building static assets
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'                # syntatically awesome stylesheets - sass-lang.com for more info

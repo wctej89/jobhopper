@@ -1,6 +1,6 @@
 class LocationWorker
   include Sidekiq::Worker
-
+  sidekiq_options retry: false
 
   def perform(id)
      Geokit::Geocoders::google = APP_CONFIG['GOOGLE_MAP_API']

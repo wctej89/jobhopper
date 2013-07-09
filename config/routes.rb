@@ -1,3 +1,4 @@
+require 'sidekiq/web'
 OptionsIo::Application.routes.draw do
   match '/users/:id/feed', to: 'users#feed'
   root :to => 'users#new'
@@ -17,8 +18,8 @@ OptionsIo::Application.routes.draw do
   match '/wizards/locations', to: 'wizards#locations', :as => 'wizard_location'
   match '/users/:id/feed', to: 'users#feed', :as => 'user_feed'
   match '/feed', to: 'users#feed_results', :as => 'feed_results'
-
   match '/get_job', to: 'jobs#get_job', :as => 'job_info'
+  mount Sidekiq::Web => '/sidekiq'
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
