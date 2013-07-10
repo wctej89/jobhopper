@@ -29,7 +29,7 @@ module Feed
    a = Math.sin(dLat/2) * Math.sin(dLat/2) +
    Math.cos(to_rad(lat1)) * Math.cos(to_rad(lat2)) * Math.sin(dLon/2) * Math.sin(dLon/2);
    c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a))
-   ((6371 * c) * 0.62137).to_i # convert km to mi
+   ((6371 * c) * 0.62137).round(2) # convert km to mi
   end
 
   private 
