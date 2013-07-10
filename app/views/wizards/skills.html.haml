@@ -1,16 +1,2 @@
 .wizard_container
-  .new_skills
-    %h3 
-      Add New Skills
-    = form_tag search_tags_path, :class => "user_tags", :method => "get" do
-      = text_field_tag :search, params[:search], :placeholder => "Search", :class => "wizard-search"
-    %a{href: '/wizards/locations'}
-      %button{:class => "next large expand"} Next
-    %ul.tag_results
-  .skills
-    %h3 Current Skills
-    %ul.skills-list
-      -@skills.each do |skill|
-        %li
-          %button=skill.name 
-          %a.delete{:id => skill.id, :href => '#'} 
+  =render :partial => 'wizards/search', :locals => {:skills => current_user.skills, header_1: "Search Skills and Locations", header_2: "Current Skills and Locations", back: '/', feed: 'Back to Feed'  }

@@ -3,26 +3,22 @@
   %p= @user.bio
   %h3{style: "font-family: 'Lato', sans-serif;"} Add Skills
 
-  .skills
-    %h4{style: "color: white; font-family: 'Lato', sans-serif;"} Skills
-    -@skills.each do |skill|
-      -if skill.tag_type == "SkillTag"
-        %button.remove_tag{:id => skill.id}
-          %span= skill.name
-        %a.delete{:id => skill.id, :href => '#'}
-    %h4{style: "color: white; font-family: 'Lato', sans-serif;"} Locations
-    -@skills.each do |skill|      
-      -if skill.tag_type == "LocationTag"
-        %button.remove_tag{:id => skill.id}= skill.name 
-        %a.delete{:id => skill.id, :href => '#'}
+  / .skills
+  /   %h4{style: "color: white; font-family: 'Lato', sans-serif;"} Skills
+  /   -@skills.each do |skill|
+  /     -if skill.tag_type == "SkillTag"
+  /       %button.remove_tag{:id => skill.id}
+  /         %span= skill.name
+  /       %a.delete{:id => skill.id, :href => '#'}
+  /   %h4{style: "color: white; font-family: 'Lato', sans-serif;"} Locations
+  /   -@skills.each do |skill|      
+  /     -if skill.tag_type == "LocationTag"
+  /       %button.remove_tag{:id => skill.id}= skill.name 
+  /       %a.delete{:id => skill.id, :href => '#'}
 
 
-  .new_skills
-    = form_tag user_tags_path, :class => "user_tags", :method => "post" do
-      = select_tag "user_tags[tags][]", options_from_collection_for_select(@tags, "id", "name"), {:multiple => true, :class => "chzn-select" }
-      =hidden_field_tag "user_tags[user_id]", current_user.id
-
-      =submit_tag "Next"
+  / .new_skills
+  =render :partial => 'wizards/search', :locals => {:skills => @user.tags, header_1: "Search Skills and Locations", header_2: "Current Skills and Locations", back: '/', feed: 'Back to Feed'  }
 
   .float_clear{style: "clear: both;"}
     

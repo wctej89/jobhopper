@@ -1,0 +1,16 @@
+.new_skills
+  %h3 
+    =header_1
+  =form_tag search_tags_path, :class => "user_tags", :method => "get" do
+    =text_field_tag :search, params[:search], :placeholder => "Search", :class => "wizard-search", :autocomplete => 'false'
+  %a{href: "#{back}"}
+    %button{:class => "next large expand"}
+      = feed
+  %ul.tag_results
+.skills
+  %h3=header_2
+  %ul.skills-list
+    -skills.each do |skill|
+      %li
+        %button=skill.name 
+        %a.delete{:id => skill.id, :href => '#'} 
