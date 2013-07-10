@@ -4,11 +4,12 @@
     .add_button
       %a{href: "/add_to_queue/#{@job.id}"}
       -if current_user.jobs.include?(@job)
-        %button{:class => 'remove_from_queue'} Remove
+        %button{:class => 'remove_from_queue', :id => @job.id} Remove
       -else
-        %button{:class => ''} Add To Queue 
+        %a{href: "/add_to_queue/#{@job.id}"}
+          %button{:class => 'show_add_to_queue', :id => @job.id} Add To Queue 
   .job-description
     %h4.company_name= @job.company
     %p.description= @job.description
   %p Apply here:
-  %a{:href => @job.source_url}=@job.source_url
+  %a{:href => @job.source_url, :target => :_blank }=@job.source_url

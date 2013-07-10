@@ -1,4 +1,5 @@
--flash.each do |name, msg|
-  %p= content_tag :p, msg, :class => "#{name}" if msg.is_a?(String)
+.alerts
+  -flash.each do |name, msg|
+    %p= content_tag :p, msg, :class => "#{name}" if msg.is_a?(String)
 
 

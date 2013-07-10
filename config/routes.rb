@@ -21,6 +21,7 @@ OptionsIo::Application.routes.draw do
   match '/get_job', to: 'jobs#get_job', :as => 'job_info'
   match '/search_tags', to: 'tags#search', :as => 'search_tags'
   match '/search_locations', to: 'tags#search_locations', :as => 'search_locations'
+  match '/remove_from_queue', to: 'job_lists#destroy', :as => 'remove_from_queue'
   mount Sidekiq::Web => '/sidekiq'
 
   # The priority is based upon order of creation:

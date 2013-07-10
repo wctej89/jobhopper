@@ -4,8 +4,8 @@
       Add New Skills
     = form_tag search_tags_path, :class => "user_tags", :method => "get" do
       = text_field_tag :search, params[:search], :placeholder => "Search", :class => "wizard-search"
-      %a{href: '/wizards/locations'}
-        %button{:class => "next large expand"} Next
+    %a{href: '/wizards/locations'}
+      %button{:class => "next large expand"} Next
     %ul.tag_results
   .skills
     %h3 Current Skills

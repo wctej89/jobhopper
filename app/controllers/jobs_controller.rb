@@ -6,8 +6,9 @@ class JobsController < ApplicationController
   def add_to_queue
     @list = current_user.list
     if @list.add_job(params[:id])
-      flash[:notice] = "Job successfully added"
-      render :json => @list.jobs
+      respond_to do |format|
+        format.json { render :json => @list.jobs }
+      end
     else
       flash[:errors] = "Sorry, something went wrong"
       redirect_to :back
@@ -16,7 +17,8 @@ class JobsController < ApplicationController
 
   def remove_from_queue
     list = current_user.list
-    list.remove_job(params[:id])
+    list.remove!(params[:id])
+    render :json => list
   end
 
   def update
