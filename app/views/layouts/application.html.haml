@@ -13,6 +13,7 @@
     #wrapper
       =render 'shared/header'
       .container  
+        =render :partial => 'static_pages/queue', locals: {user: current_user}
         =render 'shared/alerts'
         = yield
       = render 'shared/footer'

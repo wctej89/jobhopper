@@ -338,6 +338,7 @@ ul.skills-list li{
 /* job show */
 
 .job_show {
+  margin-top: 7%;
   line-height: 23px;
   width: 75%;
   padding: 5%;
@@ -345,6 +346,10 @@ ul.skills-list li{
   margin: 0 auto;
   font-family: 'Lato', sans-serif;
   background-color: white;
+}
+
+.job-description {
+  margin-top: 50px;
 }
 
 .company_name {
