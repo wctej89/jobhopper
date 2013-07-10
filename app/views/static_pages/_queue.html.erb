@@ -5,27 +5,31 @@ body {
 }
 #slideout {
   padding-top: 20px;
-	background: rgb(241, 141, 47);
+	background-image:url('/assets/navy_blue.png');
 	position: fixed;
-	width: 1000px;
-	height: 480px;
-	top: 45%;
-	right: -1000px;
+	width: 298px;
+	height: 600px;
+	top: 30%;
+	right: -285px;
 	padding-left: 0px;
 	margin-top: -200px;
 	z-index: 5;
+	border-radius: 5px;
+	opacity: 0.98;
+	overflow-y: scroll;
+	overflow-x: hidden;
 }
     
 .crazy {
-    position: absolute;
-		margin-top: 80px;
+    position: fixed;
+		margin-top: 82px;
 		width: 150px;
 		background-color: #e74c3c;
 		height: 50px;
 		border-radius: 5px;
 		text-align: center;
 		padding-top: 10px;
-		margin-left: -100px;
+		margin-left: 93%;
 		-webkit-transform: rotate(-90deg);
 		top: 30px;
 }
@@ -45,26 +49,51 @@ body {
     float:left;
     z-index: 5;
 }
+
+.queued-job {
+	border-bottom: 1px dotted white;
+	width: 310px;
+	min-height: 110px;
+	margin-left: 20px;
+}
+/*.queued-job p{
+	border: 1px dotted white;
+		width: 150px;
+		height: 80px;
+	}
+
+.queued-job h5{
+	border: 1px dotted white;
+		width: 150px;
+		height: 80px;
+	}*/
+
+.queued-job div{
+	/*border: 1px dotted white;*/
+	width: 150px;
+	float: left;
+	/*height: 90px;*/
+	}
+
 </style>
 <body>
-
-	<div id="slideout">
-	    <div id="slidecontent">
-				<% user.jobs.each do |job| %>
-					<li>
-						<div class="job-info">
-							<h5><%= job.name %></h5>
-							<p><%= job.company %></p>
-						</div>
-						<div class="buttons">
-							<button>Apply</button>
-						</div>
-					</li>
-				<%end%>
-	    </div>
-	    <div class="crazy">
-    		<a id="baz">Queue</a>
-			</div>
-	</div>
+	  <div class="crazy">
+    	<a id="baz">Queue</a>
+	  </div>
+		<div id="slideout">
+		    <div id="slidecontent">
+					<% user.jobs.each do |job| %>
+						<li class="queued-job" style="list-style: none;">
+							<div>
+								<h5 style="color: white; font-family: 'Lato', sans-serif;"><%= job.name %></h5>
+								<p style="color: white; font-family: 'Lato', sans-serif;"><%= job.company %></p>
+							</div>
+							<div class="buttons">
+								<button>Apply</button>
+							</div>
+						</li>
+					<%end%>
+		    </div>
+		</div>
 </body>
 </div>
