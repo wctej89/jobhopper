@@ -92,9 +92,8 @@ function fetchNewResults(){
 $(document).ready(function(){
   $.cookie('page_num',1);
   var page_num = $.cookie('page_num');
-  $('.jobs').append('<img class="kangaroo" src="/assets/kangourous-11.gif">');
+  $('.jobs').append('<img class="kangaroo" src="/assets/kangourous-11.gif" style="margin-left: 157px;">');
   getResults(page_num);
-
   $('.feed_container').on('click', 'button.add_to_queue', function(e){
     var $target = e.target;
     e.preventDefault();
