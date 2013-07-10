@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[YMedia Labs]]></company>
+			<job>
+			<id><![CDATA[job_20100515123007_YWTCDQ43X4A1RJY9]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Development Engineer]]></title>
+			<department><![CDATA[Software Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://ymedialabs.theresumator.com/apply/EqyTW1/Software-Development-Engineer.html]]></url>
+			<city><![CDATA[Redwood City]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94063]]></postalcode>
+			<description><![CDATA[<p>
+	Software Development Engineer: Responsible for the complete IT project life cycle development from design &amp; development, to implementation &amp; product deployment. Utilize the following techs: C, C++, Java, Python, Linux, MySQL, Excel, Solaris., Xcode, Unity3D, Object Alloc, Balsamiq, Interface Builder, Open GL. Mail resume to: Dealclan LLC A.k.a Y Media Labs, 370 Convention Way, Redwood City, CA 94063. Attn: Sumit Mehra.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/ymedialabs/EqyTW1"></script>]]></buttons>
+		</job>
+	</jobs>

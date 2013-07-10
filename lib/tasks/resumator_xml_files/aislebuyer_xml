@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[AisleBuyer]]></company>
+			<job>
+			<id><![CDATA[job_20120209235825_QPTPNKC6RGRYQ7LJ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior iOS Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://aislebuyer.theresumator.com/apply/lRCd8G/Senior-IOS-Developer.html]]></url>
+			<city><![CDATA[Boston]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02210]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Who you are:</strong><br />
+	A Senior iOS Developer</p>
+<p>
+	<strong>What you&rsquo;ll do:</strong><br />
+	The responsibilities below are representative of daily tasks. However, we are a startup: the need is for someone flexible enough to accomplish business objectives and challenges as they arise.</p>
+<ul>
+	<li>
+		Develop new and existing AisleBuyer iOS products</li>
+	<li>
+		Participate in new feature concept, design, and development of the next generation of AisleBuyer iOS applications</li>
+	<li>
+		Application development, testing, and debugging, as well as helping polish our apps so they shine</li>
+	<li>
+		Rapid prototyping as part of new feature development and product demo&#39;s</li>
+	<li>
+		Pragmatically solving problems quickly and efficiently;</li>
+	<li>
+		Collaborating with product management, interaction designers, and other teams; and</li>
+	<li>
+		Perpetually looking for ways to make AisleBuyer better.</li>
+</ul>
+<p>
+	<strong>What you&rsquo;ve done:</strong><br />
+	The required suite of knowledge, skill, education, experience and ability of the ideal candidate are as follows:</p>
+<ul>
+	<li>
+		At least one application live in the Apple App store available or in review</li>
+	<li>
+		Thorough knowledge of iPhone/iPad development conventions and debugging</li>
+	<li>
+		Familiar with all common UIKit APIs and Interface Builder</li>
+	<li>
+		Experience with asynchronous networking in a client-server environment</li>
+	<li>
+		Familiarity with multi-threaded programming in a mobile context</li>
+	<li>
+		Experience with UIWebView and HTML/CSS/Javascript in an embedded UIWebView context</li>
+	<li>
+		Mobile API and SDK development experience is a plus, as is Agile development experience</li>
+	<li>
+		Ability to operate in a fast-growing, entrepreneurial start-up environment</li>
+	<li>
+		Ability to work hard and have a lot of fun at the same time</li>
+	<li>
+		Strong communication skills, both written and verbal; and</li>
+	<li>
+		Team-first mentality.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/AisleBuyer/lRCd8G"></script>]]></buttons>
+		</job>
+	</jobs>

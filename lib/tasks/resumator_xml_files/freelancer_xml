@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Freelancer.com]]></company>
+			<job>
+			<id><![CDATA[job_20130326034911_MA0L9XVBVO93ZXLC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[JavaScript Guru]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://freelancer.theresumator.com/apply/aEGynD/JavaScript-Guru.html]]></url>
+			<city><![CDATA[Pyrmont]]></city>
+			<state><![CDATA[NSW]]></state>
+			<country><![CDATA[Australia]]></country>
+			<postalcode><![CDATA[2009]]></postalcode>
+			<description><![CDATA[<p>
+Do you build snappy front ends that make people fall off their chair<br />
+in awe? Have you wrestled with Javascript scoping and won? If you want<br />
+to be creating next generation features with rock-solid maintainable<br />
+code then you&#39;re the guru we seek!</p>
+<p>
+What&#39;s more, your work will be used immediately: Freelancer.com has 7<br />
+million users and is already the largest Australian run website in<br />
+terms of global traffic. And we&#39;re growing fast.</p>
+<p>
+Essentials</p>
+<p>
+# HTML5 / CSS<br />
+# Javascript MVC frameworks (e.g. Backbone.js)<br />
+# Popular libraries (e.g. jQuery, require.js)<br />
+# Understanding of Javascript performance<br />
+# Writing re-usable UI components<br />
+# a Tertiary Degree in Computer Science/Engineering (or related)</p>
+<p>
+Also good</p>
+<p>
+# visualization libraries such as D3, Rapha&euml;l<br />
+# websockets<br />
+# web development at scale<br />
+# Python, Node.js, Ruby, Perl, C++<br />
+# nginx, Redis, Memcache, Varnish, MySQL, ElasticSearch, etc.<br />
+# MS or PhD</p>
+<p>
+Freelancer.com has a vibrant and fun team atmosphere where you can<br />
+enjoy our huge balcony overlooking the harbour, social events,<br />
+hackathons, poker tournaments, well-stocked kitchens, Friday BBQs, an<br />
+outdoor pool table, foosball table, and free gym membership. We<br />
+provide our staff with spacious desks, huge LCD monitors, and choice<br />
+of development platform (Unix, Mac, Windows). Happiness may also<br />
+result.</p>
+<p>
+Contact us if you are a high achiever who is looking for something<br />
+more than a boring job in corporate, wants to work with the best and<br />
+brightest, doesn&#39;t need to be hand held, and wants to get in early<br />
+with a company that has a shot at being one of the biggest sites on<br />
+the Internet.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/freelancer/aEGynD"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Strutta Media Inc]]></company>
+			<job>
+			<id><![CDATA[job_20100707175004_EJPFGDSW8FAHLZFZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[PHP/Drupal Developer]]></title>
+			<department><![CDATA[Strutta.com]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://strutta.theresumator.com/apply/wEplgR/PHPDrupal-Developer.html]]></url>
+			<city><![CDATA[Vancouver]]></city>
+			<state><![CDATA[BC]]></state>
+			<country><![CDATA[Canada]]></country>
+			<postalcode><![CDATA[V6B 1H5]]></postalcode>
+			<description><![CDATA[<p><span style="font-family: monospace;"><span style="line-height: normal; white-space: pre; font-size: medium;">
+<p><span style="font-family: monospace;"><span style="line-height: normal; font-size: medium;">We are a software company in Vancouver called Strutta. We use the latest technology to power online contests. We are looking for a talented PHP developer with experience in Drupal. Your PHP and Drupal experience are a must, but please tell us also if you experience and knowledge in other areas. The following skills would be a plus: </span></span></p>
+<p><span style="font-family: monospace;"><span style="line-height: normal; font-size: medium;"><br /></span></span></p>
+<p><span style="font-family: monospace;"><span style="line-height: normal; font-size: medium;">-web infrastructure and system administration</span></span></p>
+<p><span style="font-family: monospace;"><span style="line-height: normal; font-size: medium;">-experience using Amazon Web Services</span></span></p>
+<p><span style="font-family: monospace;"><span style="line-height: normal; font-size: medium;">-knowledge of Linux</span></span></p>
+<p><span style="font-family: monospace;"><span style="line-height: normal; font-size: medium;">-experience with object oriented environments</span></span></p>
+<p><span style="font-family: monospace;"><span style="line-height: normal; font-size: medium;">-pyhton or ruby experience a plus</span></span></p>
+<p><span style="font-family: monospace;"><span style="line-height: normal; font-size: medium;">-experience with large scale applications</span></span></p>
+<p><span style="font-family: monospace;"><span style="line-height: normal; font-size: medium;">-experience making open source software contributions</span></span></p>
+<p><span style="font-family: monospace;"><span style="line-height: normal; font-size: medium;"><br /></span></span></p>
+<p><span style="font-family: monospace;"><span style="line-height: normal; font-size: medium;">If this position interests you, please send us everything you think we need to see to prove that you are the one for the job.</span></span></p>
+</span></span></p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/strutta/wEplgR"></script>]]></buttons>
+		</job>
+	</jobs>

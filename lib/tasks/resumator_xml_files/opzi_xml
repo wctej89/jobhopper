@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Opzi]]></company>
+			<job>
+			<id><![CDATA[job_20110331080232_STGTLZB0MYPXQCUQ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://opzi.theresumator.com/apply/OomBZi/Software-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+	Opzi is changing the way people at companies share knowledge. &nbsp;</p>
+<p>
+	Our product replaces clunky wikis and enables information that was previously trapped in e-mails and the minds of employees to be shared and refined. &nbsp;Based on the simple premise of building products people want to use, we will be a leader in the next generation of enterprise software companies.</p>
+<p>
+	We are funded by Y Combinator, SV Angel, First Round Capital, and other great investors. &nbsp;We work out of our own loft office space in SOMA, close to the Whole Foods and Caltrain. &nbsp;We code primarily in Ruby + JS and are making heavy use of Node and Backbone. &nbsp;Currently, engineering for functionality, speed, security and scalability are at the top of our minds.</p>
+<p>
+	We&#39;re looking for great people to add to our all-engineer team. &nbsp;You should have experience building web products and be comfortable across the entire stack. &nbsp;You should also be keen on keeping up with evolving frameworks and best practices. &nbsp;Previous Ruby and Javascript experience is definitely a plus, but certainly not mandatory. &nbsp;We care most that you are smart and passionate about your work and building a new type of enterprise software product.</p>
+<p>
+	Send me a note at euwyn@opzi.com or use this form on Resumator if this sounds like a good fit. &nbsp;Earn bonus points by solving one of our <a href="http://opzi.posterous.com/tag/puzzles">programming challenges</a>.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/opzi/OomBZi"></script>]]></buttons>
+		</job>
+	</jobs>

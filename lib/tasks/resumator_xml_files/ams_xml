@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Advanced Medical Solutions Inc.]]></company>
+			<job>
+			<id><![CDATA[job_20120525224250_JSS6TEEWELQQNAQZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Primary Care Paramedic (PCP)]]></title>
+			<department><![CDATA[Industrial Department]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://ams.theresumator.com/apply/ysrbgp/Primary-Care-Paramedic-PCP.html]]></url>
+			<city><![CDATA[Labrador City]]></city>
+			<state><![CDATA[Newfoundland]]></state>
+			<country><![CDATA[Canada]]></country>
+			<postalcode><![CDATA[B3T 1W2]]></postalcode>
+			<description><![CDATA[<p>Primary Care Paramedic</p><p>Required on a 21 day rotations&nbsp;at two&nbsp;different sites in&nbsp;Newfoundland, Labrador City, Canada.</p><p>Compensation includes&nbsp;meal allowance, accommodation &amp; transport to Labrador City pre and post rotation.</p><p>&nbsp;</p><p>&nbsp;</p>]]></description>
+			<type><![CDATA[Temporary]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/AMS/ysrbgp"></script>]]></buttons>
+		</job>
+	</jobs>

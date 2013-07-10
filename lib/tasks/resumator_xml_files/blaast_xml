@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Blaast]]></company>
+			<job>
+			<id><![CDATA[job_20110626143237_7PESYKFWEPNBYPHH]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer: Platform]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://blaast.theresumator.com/apply/HvNyZV/Software-Engineer-Platform.html]]></url>
+			<city><![CDATA[Helsinki]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Finland]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+	We are looking for a generalist to help us build the platform that powers Blaast. You&#39;ll be working on the magic that gets Blaast running, from network communication, to distributed data handling and process isolation. You have the opportunity to shape how a platform that supports millions of users works. You&#39;ll also be safeguarding that the applications both ourselves and external developers are deploying on Blaast, are automatically provisioned by the platform across our backend, and have the resources to run.</p>
+<p>
+	Passion for going large scale is a must. You&#39;ll be supported by a team of like-minded people, generalists that have worked in all layers of a system, from kernel, to network stacks, distributed systems, and even UI and applications.</p>
+<p>
+	This is an opportunity to work on a set of different technology and languages: both the PaaS nature of platform, as well as the visible side of the software: its APIs. If you are looking for a challenge, this is it.</p>
+<p>
+	We&#39;re building a purely Javascript based platform, bringing many concepts close to web development to the mobile space. Our platform design is very de-coupled, with components being written in either Scala, Java or Javascript, wired together with Thrift or our streaming protocol. All user facing applications run within node.js, which we automatically deploy and scale.</p>
+<p>
+	<strong>Your responsibilities</strong></p>
+<ul>
+	<li>
+		Designing and implementing major platform components.</li>
+	<li>
+		Guaranteeing the reliability and scalability of the overall system.&nbsp;</li>
+	<li>
+		Improving existing components, from message passing, to data routing and deployment isolation.</li>
+	<li>
+		Getting Blaast to scale to the next order of magnitude.</li>
+</ul>
+<p>
+	Our mobile framework was built-in house, following a web model. Applications are written in Javascript, both client and backend parts, supported by the Blaast platform.&nbsp;Our backend is implemented in Scala, Java and Javascript (node.js). Our code sits in a Git repository and our philosophy is to automatically deploy anytime our product is better. The team is extremely familiar with Javascript, mobile platforms and high-scale software platforms. We often use existing open source software but are not afraid to build the tools to support our vision.</p>
+<p>
+	<strong>We Offer</strong></p>
+<ul>
+	<li>
+		Competitive salary and stock options.</li>
+	<li>
+		Work with world-class technology and solve some of its biggest challenges.  </li>
+	<li>
+		A clean table to try out your ideas and make a difference.</li>
+	<li>
+		An experienced team to support you.</li>
+</ul>
+<p>
+	<strong>We Expect</strong></p>
+<ul>
+	<li>
+		You to be a passionate, capable developer and fearless to tackle most problems.</li>
+	<li>
+		Ability to participate in a fast-paced, cross-functional team environment.</li>
+	<li>
+		Experience with Scala, Java, Javascript, Python or Ruby (functional programming a plus).</li>
+	<li>
+		Experience with event-based frameworks. One of Netty, node.js, Twisted, EventMachine.</li>
+	<li>
+		Experience in developing high-availability services.</li>
+	<li>
+		Having previously worked with Amazon EC2 is a plus.</li>
+</ul>
+<p>
+	<strong>Other Perks and Benefits</strong></p>
+<ul>
+	<li>
+		Flexible hours, we focus on results.</li>
+	<li>
+		The best hardware, snacks and weekly lunches/dinners.</li>
+	<li>
+		We&#39;ll help you settle and find a permanent place to live if you come from abroad.</li>
+	<li>
+		Blaast&#39;s health care plan, paid holidays.</li>
+</ul>
+<p>
+	<strong>About Blaast</strong></p>
+<p>
+	Blaast is building a cloud-powered mobile platform. We want to enable millions of people, regardless of what mobile device they may own, to access the content they care about.</p>
+<p>
+	Our platform enables applications to be written to seamlessly execute in a distributed fashion, between client device and our backend. Blaast apps are written completely in Javascript and are true to the web model: fast prototyping, content optimization and scaling across devices. We went one step further and built in some magic to blur the line between frontend and backend.</p>
+<p>
+	We are well-funded, backed by both experienced angel investors as well as the the founding engineers of Skype. This position is available in our office in downtown Helsinki, Finland. Helsinki is a gorgeous city with a high standard of living. And what&rsquo;s more, Newsweek recently ranked Finland as the world&rsquo;s best country to live in!&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blaast/HvNyZV"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110817074234_AI88RBC7UTPCSCBK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer: User Interface]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://blaast.theresumator.com/apply/Dnm1eN/Software-Engineer-User-Interface.html]]></url>
+			<city><![CDATA[Helsinki]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Finland]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+	We are looking for a pragmatic dreamer to help us build the user experience that powers Blaast. You&#39;ll be working in designing the core user interface and applications millions of users will have access to. You have the opportunity to redefine how people interact with the content they care about, and how Blaast helps them get connected with their friends, their ideas and entertainment, anywhere they are.</p>
+<p>
+	Passion for building a great product is a must. You&#39;ll be supported by a great team of design and product oriented people that believe mobile is and will be part of everyone&#39;s lives.</p>
+<p>
+	We&#39;re building a purely Javascript based platform, bringing many concepts from web development to the mobile space. Previous experience with Javascript is a plus but not a requirement. We believe in keeping on learning new technology, and expect that you do, too.</p>
+<p>
+	<strong>Your responsibilities</strong></p>
+<ul>
+	<li>
+		Implementing the core Blaast user experience.</li>
+	<li>
+		Designing the core user interface libraries -- making sure others can re-use our vision.</li>
+	<li>
+		Ensuring our product is accessible to millions of people, across the world.</li>
+</ul>
+<p>
+	Our mobile framework was built in-house, and designed to resemble the familiar web model. Applications are written in Javascript, both client and backend parts, supported by the Blaast platform.&nbsp;Our backend is implemented in Scala, Java and Javascript (node.js). Our code sits in a Git repository and our philosophy is to automatically deploy after any incremental improvement. The team is extremely familiar with Javascript, mobile platforms and high-scale software platforms. We often use existing open source software but are not afraid to build the tools to support our vision.</p>
+<p>
+	<strong>We Offer</strong></p>
+<ul>
+	<li>
+		Competitive salary and stock options.</li>
+	<li>
+		Work with world-class technology and solve some of its biggest challenges.  </li>
+	<li>
+		A clean table to try out your ideas and make a difference.</li>
+	<li>
+		An experienced team to support you.</li>
+</ul>
+<p>
+	<strong>We Expect</strong></p>
+<ul>
+	<li>
+		You to be a passionate, capable developer and fearless to tackle problems.</li>
+	<li>
+		Ability to participate in a fast-paced, cross-functional team environment.</li>
+	<li>
+		Experience with either Javascript, Java, Python or Ruby.</li>
+	<li>
+		Some experience with an existing web framework or mobile platform.</li>
+	<li>
+		Having previously developed a consumer product is a plus.</li>
+</ul>
+<p>
+	<strong>Other Perks and Benefits</strong></p>
+<ul>
+	<li>
+		Flexible hours, we focus on results.</li>
+	<li>
+		The best hardware, snacks and weekly lunches/dinners.</li>
+	<li>
+		We&#39;ll help you settle and find a permanent place to live if you come from abroad.</li>
+	<li>
+		Blaast&#39;s health care plan, paid holidays.</li>
+</ul>
+<p>
+	<strong>About Blaast</strong></p>
+<p>
+	Blaast is building a cloud-powered mobile platform. We want to enable millions of people, regardless of what mobile device they may own, to access the content they care about.</p>
+<p>
+	Our platform enables applications to be written to seamlessly execute in a distributed fashion, between client device and our backend. Blaast apps are written completely in Javascript and are true to the web model: fast prototyping, content optimization and scaling across devices. We went one step further and built in some magic to blur the line between frontend and backend.</p>
+<p>
+	We are well-funded, backed by both experienced angel investors as well as the the founding engineers of Skype. This position is available in our office in downtown Helsinki, Finland. Helsinki is a gorgeous city with a high standard of living. And what&rsquo;s more, Newsweek recently ranked Finland as the world&rsquo;s best country to live in!&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blaast/Dnm1eN"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120502060945_XNQRZRO5XU3F6HBM]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Lead DevOps Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://blaast.theresumator.com/apply/gNzHuf/Lead-DevOps-Engineer.html]]></url>
+			<city><![CDATA[Helsinki]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Finland]]></country>
+			<postalcode><![CDATA[00100]]></postalcode>
+			<description><![CDATA[<p>We are looking for a brilliant DevOps Engineer - an exceptional combination of system administrator and software developer to help us build,&nbsp;run and maintain the systems that power Blaast.</p><p>THE NEW WAY OF RUNNING OPERATIONS</p><p>You will work on scaling&nbsp;Blaast&nbsp;to millions of users. In close&nbsp;co-operation with the developers, you optimize the continuous deployment and delivery practices and ensure the uptime of the whole system. You take advantage of the latest innovations in the cloud technologies and tools to streamline operations.&nbsp;</p><p>We offer you a great opportunity to be part of the new school of&nbsp;operating services. You will have a chance to grow to be one of those people who can bridge the gap between operations and software engineers. We offer:<br />&bull;&nbsp;Flexible hours, we focus on results.<br />&bull;&nbsp;Competitive salary and stock options<br />&bull;&nbsp;Work with world-class technology and solve some of its biggest challenges.<br />&bull;&nbsp;A clean table to try out your ideas and make a difference.<br />&bull;&nbsp;An experienced team to support you.</p><p>YOUR ATTITUDE AND SKILLS MATTER</p><p>We expect you to be a generalist with can-do attitude, capable and fearless to tackle problems.&nbsp;You know your Linux inside out and have experience in&nbsp;building cloud based infrastructure.&nbsp;You will continuously improve the infrastructure, including&nbsp;implementing or evaluating better tools to improve the deployment process and to monitor and maintain the system.&nbsp;You also plan infrastructure growth, including cost estimates and possible technology migrations.&nbsp;Your responsibilities:<br />&bull;&nbsp;Ensuring Blaast&#39;s infrastructure is up and running at all times.<br />&bull;&nbsp;Deploy infrastructure that supports the demanding growing user base.<br />&bull;&nbsp;Design Blaast&#39;s infrastructure as we expand globally.<br />&bull;&nbsp;Build and improve the established good practices of automation and system monitoring.</p><p>You have core understanding of scalable design, scripting knowledge with shell scripts (Bash, zsh, etc.) and Python or Ruby, solid understanding of Linux and fluent English skills.</p><p>ABOUT BLAAST - THE CLOUD-POWERED MOBILE PLATFORM</p><p>Blaast is building a cloud-powered mobile platform. We want to enable millions of people, regardless of what&nbsp;mobile device they may own, to access the content they care about.</p><p>Our platform enables applications to be written to seamlessly execute in a distributed fashion, between client&nbsp;device and our backend. Blaast apps are written completely in Javascript and are true to the web model: fast&nbsp;prototyping, content optimization and scaling across devices. We went one step further and built in some magic to&nbsp;blur the line between frontend and backend.</p><p>We are well-funded, backed by both experienced angel investors as well as the the founding engineers of Skype.&nbsp;This position is available in our office in downtown Helsinki, Finland. Helsinki is a gorgeous city with a high&nbsp;standard of living. And what&rsquo;s more, Newsweek recently ranked Finland as the world&rsquo;s best country to live in!</p><p>If you have any questions please free feel to contact Lauri Vuornos at lauri.vuornos(at)blaast.com.</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blaast/gNzHuf"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Paperlex]]></company>
+			<job>
+			<id><![CDATA[job_20101223215858_T6S7KPHPCZDDTUEW]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Ruby on Rails Developer / Hacker Wanted]]></title>
+			<department><![CDATA[Technology and Product]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://paperlex.theresumator.com/apply/aCW34N/Ruby-On-Rails-Developer-Hacker-Wanted.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[
+	<p>We&#39;re a small team of coders, lawyers, and brains in Flatiron/Union Square looking to <strong>rid the world of egregious legal fees. </strong></p>
+	<p>Our main product is an easy-to-use software-as-a-service (SaaS) application, and we&#39;re looking for a talented Ruby on Rails Developer to join our team, iterate our product like crazy, and make our customers supremely happy.</p>
+
+
+   <p>A bit about the position:</p>   
+	<p>You&rsquo;re a competent technologist looking for a nascent, funded company that adds real value to its users and ALSO has a clear revenue model sans-advertising. (An oddity these days, we know.) You probably own a Mac with Terminal hot-keyed. </p>      
+	<p>      
+			<p><strong>Must haves</strong>:</p>
+<ul><li>4+ years development experience. </li>
+	<li>Experience in a leadership role. </li>
+	<li>Ruby on Rails and associated understanding of the community.        </li>
+	<li><span scaytid=&quot;15&quot; scayt_word=&quot;Git&quot;>Git</span>/<span scaytid=&quot;9&quot; scayt_word=&quot;Github&quot;>Github. </span><span scaytid=&quot;16&quot; scayt_word=&quot;PHP5&quot;>PHP5</span>/<span scaytid=&quot;17&quot; scayt_word=&quot;MySQL5&quot;>MySQL5.</span> Ruby. Regex. </li>
+	<li>Basic Server Administration (scripting, backups, etc.).</li>
+	<li>Excellent communication skills. Gets nerd humor. (<span scaytid=&quot;18&quot; scayt_word=&quot;SYN&quot;>SYN?</span>) </li>  </ul>
+                                               </p>
+
+	<p><strong>Should-haves</strong>:</p>
+<p>
+	
+	<ul><li>Bachelors in Computer Science or similar qualification.       </li>
+		<li>Ajax, <span scaytid=&quot;19&quot; scayt_word=&quot;JavaScript&quot;>JavaScript</span>, <span scaytid=&quot;20&quot; scayt_word=&quot;JQuery&quot;>JQuery, XML, etc etc.</span>  </li>
+		<li>Text Mate, VI, and/or Emacs Love.     </li>
+		<li>Experience in Agile environments.    </li>
+			                   </ul></p>
+			
+			<p><strong>Bonus-haves</strong>: <br></p>
+             <p>
+	<ul><li>Familiar with Mobile <span scaytid=&quot;21&quot; scayt_word=&quot;App&quot;>App Development</span>. (iPhone, <span scaytid=&quot;22&quot; scayt_word=&quot;BlackBerry&quot;>BlackBerry</span>, WAP) </li>
+		<li>Open-source development history.      </li>
+		</ul>
+</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/paperlex/aCW34N"></script>]]></buttons>
+		</job>
+	</jobs>

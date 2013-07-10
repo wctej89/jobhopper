@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Betaworks]]></company>
+			<job>
+			<id><![CDATA[job_20130403175653_KKGI2KGPU4K2SDDO]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Backend Engineer]]></title>
+			<department><![CDATA[Digg]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://betaworks.theresumator.com/apply/u4gafX/Backend-Engineer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10014]]></postalcode>
+			<description><![CDATA[<p>
+We&rsquo;re looking for a technologist with experience building large-scale/large-data web applications. We&rsquo;d like you to build the internal and external APIs that will power new features for Digg. Experience building social applications is ideal. Experience with Python is a must.</p>
+<p>
+&nbsp;</p>
+<p>
+3+ years experience developing web-based applications/sites using Python<br />
+Experience with building REST/JSON APIs<br />
+Familiarity with one or more of the following: redis, memcache, nginx, tornado, hadoop, mongo, mysql<br />
+Amazon Web Services (EC2, S3)<br />
+BS/MS in Computer Science preferred</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/betaworks/u4gafX"></script>]]></buttons>
+		</job>
+	</jobs>

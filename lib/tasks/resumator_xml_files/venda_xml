@@ -1,0 +1,438 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Venda]]></company>
+			<job>
+			<id><![CDATA[job_20130408154019_RLXYTUWTXWX6W3WW]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Lead Database Administrator]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://venda.theresumator.com/apply/Jq3cyW/Lead-Database-Administrator.html]]></url>
+			<city><![CDATA[Central London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[WC2N 4AZ]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Job Description</strong></p>
+<p>
+The lead DBA will take responsibility of support and management of the enterprise-wide PostgreSQL Databases in live, development and test environments.</p>
+<p>
+The lead DBA will work closely with the system engineers, Service desk, and software engineering, on database related projects, interfaces and support tickets.</p>
+<p>
+The successful incumbent will manage and maintain backup and recovery plans, implement and maintain database security, perform capacity planning, performance optimization, and will be part of a follow the sun service support function as well to an call rotation support.</p>
+<p>
+<strong>Primary duties and responsibilities</strong></p>
+<ul>
+<li>
+Experience at an eCommerce provider in a technical lead capacity.</li>
+<li>
+Administration of production PostgreSQL and MySQL databases in high-availability environment deployed across multiple datacenters.</li>
+<li>
+Provide system engineering, administration, installation, configuration management, performance tuning and capacity planning.</li>
+<li>
+Ensuring overall performance, availability and reliability of all live databases in conformance with service level agreements (SLA) and best practices.</li>
+<li>
+Development and document standards, policies and procedures for Database operations</li>
+<li>
+Lead collaboration with Development group to identify software bottlenecks and optimizations</li>
+<li>
+Drive System Administration group to identify hardware bottlenecks and to establish server configurations.</li>
+<li>
+Responsibility for managing/supporting data within the databases itself including data analysis, reporting or investigation, mitigation, data cleansing.</li>
+<li>
+Assist in the mentoring and coaching of less senior level database team members</li>
+<li>
+Have worked in 24 x 7 environments and willingness to be part of OnCall</li>
+</ul>
+<p>
+<strong>Desired skills</strong></p>
+<ul>
+<li>
+Deep expertise in PostgreSQL and MySQL&ndash; Certification in a major DB a plus.</li>
+<li>
+Effective problem-solving skills in a high pressure, demanding environment, specifically the ability to assess situations, evaluate options, make decisions, draw conclusions, and exercise judgment.</li>
+<li>
+Experience in being part of an on call rotation providing 24x7 support for production database issues</li>
+<li>
+Experience in planning and executing database server installations, database migration, upgrades, patches</li>
+<li>
+Experience in managing and maintaining backup and recovery plans, database security, capacity planning, performance tuning</li>
+<li>
+Ability to anticipate potential problems, determine and implement solutions.</li>
+<li>
+Bachelor&rsquo;s degree in Computer Science, MIS, Engineering, (any type) or a related field</li>
+<li>
+Database architecture and design skills</li>
+<li>
+Team players who can both lead and work collaboratively in a fast-paced environment.</li>
+<li>
+Excellent organizational, communication, and interpersonal skills.</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<br />
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/venda/Jq3cyW"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130517123353_FTM86GJQERWIRLBH]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Strategic Account Manager]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[UK SDM]]></team>
+			<url><![CDATA[http://venda.theresumator.com/apply/5XEiJ0/Strategic-Account-Manager.html]]></url>
+			<city><![CDATA[Central London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[WC2N 4AZ]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Job Purpose</strong></p>
+<p>
+Manage all aspects of the commercial relationship with assigned clients; ensure they make best possible use of the Venda platform (owning the business case); helping customers to realise their growth and expansion targets.</p>
+<p>
+<strong>Principal Job Objectives</strong></p>
+<p>
+1. Manage the commercial client relationship, as the principal client contact, e.g.:</p>
+<ul>
+<li>
+Ensure customers always have confidence in Venda, by representing Venda in a professional manner, and carefully managing customer expectations.</li>
+<li>
+Maintain knowledge of your clients&rsquo; contractual status, flagging key notice periods for contract renewal. RAG Dashboard /Highlights</li>
+<li>
+Maintain an &lsquo;overall&rsquo; view of assigned clients, including any ongoing projects, enhancements, support issues or disputes that may originate or be the responsibility of other internal Venda teams. Confluence Roadmap</li>
+<li>
+Be aware of all contacts between Venda and assigned clients, taking a proactive role wherever required to facilitate communication or advice to the client or internal team. Code upgrades communication and Planned Maintenance</li>
+<li>
+Maintain regular communication with all clients, on both a Face-to-face, written and verbal basis, being ready to reactively and proactively engage or initiate any request that may come about. F2F Quarterly Profit Clinics; Account Reviews; Conference Calls</li>
+<li>
+Communicate directly with your clients where you foresee strain in the client relationship, for instance following up on a service incident, ongoing support issue or contract renewal, etc. Act as the internal voice of the customer to escalate and mitigate risks and issues</li>
+<li>
+Escalate any issues outside of your control at the earliest opportunity. Drive a culture of accountability within the organisation OPS, Golive sessions, sessions with support and SDM</li>
+</ul>
+<p>
+2. Consult with the client to leverage the best of the Venda solution to optimise their site&rsquo;s performance, e.g.:</p>
+<ul>
+<li>
+Maintain a view of client commercial performance, understanding the client&rsquo;s perception of this and their targets/ KPI&rsquo;s.&nbsp; Report regularly on these client targets and objectives to all stakeholders in agreed format Dashboard, Highlights, TLM</li>
+<li>
+Take the lead on commercial discussions in relation to client enhancements &ndash; engage with relevant teams for specific advice/guidance, making proactive suggestions and offering viable solutions to customers such that they can meet their targets as cost effectively as possible. Utilise both Solution Engineering and TPE as a means of establishing solution and business case respectively.</li>
+<li>
+Be aware of client&rsquo;s knowledge gaps around the platform, VCP and templates &ndash; proactively suggesting the most appropriate solutions for any knowledge gaps Create and utilise&nbsp; training resource(s) to promote Venda services, functionality and capability.</li>
+<li>
+Provide ongoing Ecommerce analysis, at a suitable level to the role, using relevant analytical tools to inform and further consult with clients on site performance and optimisation. Google Analytics, Webtrends, Industry media/articles.</li>
+<li>
+Proactively seek information on upcoming Venda code updates to understand the ongoing improvement and development of the Venda solution. Set expectations with clients in relation to code upgrades, offering commercial guidance and support where necessary (in terms of implications for roadmap).</li>
+<li>
+Ensure clients are aware of any upcoming developments on the Venda platform and take full advantage of any feature that would help them to meet their targets.</li>
+<li>
+Work closely with the client and internal teams to precisely gather enhancement scope/high level business requirements, such that high margin is achieved through effective delivery Functionality Requirements Documentation</li>
+<li>
+Ensure clients make full use of existing platform functionality, with a minimal level of platform development. Standard Functionality Checklist</li>
+<li>
+Track client&rsquo;s marketing and sales activities, providing forecast and capacity management advice to clients and internal Venda stakeholders. Christmas forecasts and any marketing initiated peaks</li>
+</ul>
+<p>
+3. Deliver service revenue to agreed targets, e.g.:</p>
+<ul>
+<li>
+Provide clients with timely, consistent and clear quotes.</li>
+<li>
+Control and monitor the chargeable and non-chargeable work that is being completed for assigned clients.</li>
+<li>
+Wherever an opportunity exists, within the Venda charging framework, increase Venda service revenues.</li>
+<li>
+Maintain a clear view of the upcoming revenue pipeline for your assigned clients.</li>
+</ul>
+<p>
+4. Contribute to the Account Management team, e.g.:</p>
+<ul>
+<li>
+Help ensure the working environment is professional, positive and enjoyable place to work.</li>
+<li>
+Work with management to produce an &ldquo;excellent&rdquo; team.</li>
+<li>
+Train and mentor team mates &ndash; taking a full part in any meetings or training and development sessions</li>
+<li>
+Challenge the status quo and enhance processes and documentation wherever you see an opportunity.</li>
+<li>
+Look for opportunities to add increased value to Commercial teams/activities.</li>
+<li>
+Perform other duties, as required, to assist in managing and delivering world class Convergent-Commerce solutions to our clients.</li>
+</ul>
+<p>
+<strong>Knowledge, Experience &amp; Qualifications</strong></p>
+<ul>
+<li>
+Have Commercial/Account Management experience, gained in the eCommerce / SaaS sector.</li>
+<li>
+Successfully managed clients through the full client lifecycle, from initial on-boarding through to successful maturity and growth.</li>
+<li>
+Successfully delivered incremental service revenues with high levels of client retention and renewal of service.</li>
+<li>
+A track record of successfully managing difficult and demanding clients, while facilitating between the client and the company during periods of stress and conflict.</li>
+<li>
+Created and delivered effective, pragmatic, timely and cost-effective solutions to business issues and user requirements that leverage the Venda&rsquo;s solution to meet the client&rsquo;s needs.</li>
+<li>
+Exposure to project-based development useful.</li>
+<li>
+Experienced in delivering training to professionals and maintaining interest in a training program.</li>
+<li>
+Educated to degree level or equivalent.</li>
+</ul>
+<p>
+<strong>Skills</strong></p>
+<ul>
+<li>
+The ability to build professional relationships with clients across different vertical markets and backgrounds, showing empathy and understanding toward contacts with varying outlooks and personalities.</li>
+<li>
+Proven, and demonstrable, customer management ability: quick to comprehend requirements, clear in explanation of solutions, and extremely capable in steering and managing customer expectations through difficult situations.</li>
+<li>
+Confident and self-assured, displaying an air of gravitas and professionalism in all client dealings, comfortable with presenting and influencing at all levels.</li>
+<li>
+Excellent communication skills, both written and verbal, and able to communicate to all levels in the organisation.</li>
+<li>
+Extremely flexible and adept at managing change and conflicting priorities, against a backdrop of a dynamic entrepreneurial organisation.</li>
+<li>
+Able to operate as a team player.</li>
+<li>
+Self-motivated and can work at a senior level with minimal supervision.</li>
+<li>
+Target driven with the ability to easily understand what is required to meet the key indicators for your position and the proven ability to consistently meet agreed performance targets.</li>
+</ul>
+<p>
+<strong>Direct Reports</strong></p>
+<ul>
+<li>
+None</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/venda/5XEiJ0"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130522091709_AXFS25B8B7BZCSHU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Quality Assurance Analyst]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://venda.theresumator.com/apply/ZZwz2o/Quality-Assurance-Analyst.html]]></url>
+			<city><![CDATA[Central London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[WC2N 4AZ]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Role</strong></p>
+<p>
+The position of QA Analyst will be to support the continuing success and growth of the Venda by ensuring quality standards are met during the delivery of changes to the Venda Ecommerce Platform.&nbsp; The role will be responsible for conducting testing of code releases, patches and projects, and helping the QA team continuously improve the service it provides to internal/external customers.&nbsp; The individual will be expected to maintain high quality standards across all aspects of the role including automated test scripts creation/maintenance setting an example to team members and colleagues.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Create test plans and test cases from requirement specifications and user stories.</li>
+<li>
+Understand development requirements and take responsibility for testing to ensure requirements and quality standards are met.</li>
+<li>
+Be proactive in working with developers, and other staff, to ensure efficient progress of issues.</li>
+<li>
+Provide test result reports for stakeholders and departments, on time.</li>
+<li>
+Execution of functional, regression and release (patch) testing for the core platform applications.</li>
+<li>
+To write, modify and maintain test plans, test scripts, and test data according to business demands.</li>
+<li>
+Track defects and fixes within internal and external projects.</li>
+<li>
+Contribute testing knowledge and expertise to all phases of the development lifecycle.</li>
+<li>
+Analysing and interpreting technical data/reports generated by automated testing tools.</li>
+<li>
+Executing and generating reports for both manual and automated testing tools, including analysis of these reports.</li>
+<li>
+Provide weekly reporting on personal progress and achievements against objectives.</li>
+<li>
+Ensure continuous learning and improvement throughout the performing of the role.</li>
+<li>
+Contribute to project, team, and department meetings.</li>
+</ul>
+<p>
+<strong>Required Skills and Experience</strong></p>
+<ul>
+<li>
+Experience of using automated testing tools such as Selenium, Cucumber, or TestNG testing tools combined with Ruby programming language</li>
+<li>
+Excellent technical aptitude and knowledge of QA methodologies, processes and roles.</li>
+<li>
+Experience communicating with technical and development teams.</li>
+<li>
+Ability to use basic Linux command lines; experience desirable.</li>
+<li>
+Experience with full software development lifecycle.</li>
+<li>
+Commercial experience of using test case management, defect tracking &amp; bug management tools such as JIRA.</li>
+<li>
+Significant experience of testing high volume, heavy transactional e-commerce websites or systems.</li>
+<li>
+Knowledge in capacity planning and project estimation.</li>
+</ul>
+<p>
+<strong>Personal Qualities</strong></p>
+<ul>
+<li>
+Excellent attention to detail and a passion for ensuring quality.</li>
+<li>
+Enthusiasm for experimenting with new techniques to help improve and advance processes.</li>
+<li>
+Ability to communicate orally and in writing to all levels of staff in a clear, concise and convincing manner</li>
+<li>
+Able to multitask and work under pressure and deadlines.</li>
+<li>
+Ability to question established procedures and suggest improvement and alternatives.</li>
+<li>
+Highly motivated, proactive and able to work on own initiative.</li>
+<li>
+Ability to work in a fast-paced environment and able to accept rapidly changing business priorities.</li>
+<li>
+A willingness to be part of a team, and able to accept individual and collective responsibility.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/venda/ZZwz2o"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130522092413_ZPJ6EEWTPFG82EGH]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Head of Quality Assurance]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://venda.theresumator.com/apply/TTcrvV/Head-Of-Quality-Assurance.html]]></url>
+			<city><![CDATA[Central London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[WC2N 4AZ]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Role</strong></p>
+<p>
+The role requires the strong application of Quality Assurance practices for the Venda Technology Group team. The role will involve managing the existing QA team, leading the expansion and scalability of the team through the roll-out of automated testing, implementing best practice and performance monitoring. Working alongside the development teams you will be tasked with further developing the test and QA strategy. This will be a broad ranging position, critical to the overall business strategy and with significant focus in driving the automated testing procedures forward.&nbsp; We are looking for a dedicated, self-motivated, driven and experienced individual with very strong experience in QA methodologies, Agile project involvement and automation testing techniques expertise.</p>
+<p>
+<strong>Key Responsibilities</strong></p>
+<ul>
+<li>
+Responsible for complex automation and coverage techniques. Must be considered an expert within this field.</li>
+<li>
+Own all aspects of running and managing an Automated Managed Test Service.</li>
+<li>
+Reviews test scripts to ensure adherence to company&#39;s standards.</li>
+<li>
+Plans &amp; executes work that includes complex testing of high risk application areas.</li>
+<li>
+Improves upon QA approaches and processes.</li>
+<li>
+Applies significant experience from various SDLC models &amp; provides training to co-workers.</li>
+<li>
+Able to suggest and implement improvements to framework/ utilities.</li>
+<li>
+Advanced understanding of test frameworks.</li>
+<li>
+Capable of writing advanced test utilities if necessary.</li>
+<li>
+Works independently, requires no supervision for work tasks and minimal guidance for development of skills and career.</li>
+<li>
+Acts as a role model for other QA Engineers.</li>
+<li>
+Provides technical QA leadership to team members.</li>
+<li>
+Responsible for the supervision, guidance &amp; mentoring of other QA engineers.</li>
+<li>
+Responsible for the QA resource management optimizing resource based on business priority.</li>
+</ul>
+<p>
+<strong>Key Working Relationships</strong></p>
+<ul>
+<li>
+Working with other teams as part of a software project team to deliver quality software to deadlines.</li>
+<li>
+Demonstrate an ability to work closely with developers and build cross discipline relationships.</li>
+<li>
+Work with developers and QA staff to assist in writing test plans, test cases, and acceptance tests to help ensure quality processes.</li>
+<li>
+Liaise with project managers in the scheduling of pre-development quality assurance and post-development test execution.</li>
+</ul>
+<p>
+<strong>Essential Technical Skills</strong></p>
+<ul>
+<li>
+Strong Experience in the creation and maintenance of automated test scripts with a specific Selenium and Ruby expertise.</li>
+<li>
+Background in functional testing with the ability to plan, design, script and execute automation/manual test cases.</li>
+<li>
+Broad experience of the various models of the SDLC, with a high priority focus on Agile Software Delivery.</li>
+<li>
+Familiar with different types of testing frameworks; data driven and keyword driven.</li>
+<li>
+Educated to degree level in a science or technology related field.</li>
+</ul>
+<p>
+<strong>Essential Soft Skills</strong></p>
+<ul>
+<li>
+Really good communication skills (written, oral, presentations).</li>
+<li>
+Ability to bridge gaps and communicate effectively between cross functional teams.</li>
+<li>
+Excellent management and communication skills.</li>
+<li>
+Able to manage workload effectively.</li>
+<li>
+Self-motivating, adaptable and flexible.</li>
+<li>
+Able to work in a rapid development environment with flexible requirements.</li>
+</ul>
+<p>
+<strong>Desirable Skills</strong></p>
+<ul>
+<li>
+Experience of working in a Software As a Service or service delivery environment.</li>
+<li>
+Previous experience of the e-commerce industry.</li>
+<li>
+Awareness of the different types of testing frameworks; data driven and keyword driven.</li>
+<li>
+Awareness of object oriented programming concepts and how they should be used in test- framework architecture.</li>
+<li>
+Experience of SQL and database testing.</li>
+<li>
+ISEB Foundation Certificate in Software Testing.</li>
+</ul>
+<p>
+<strong>Knowledge, Experience &amp; Qualifications</strong></p>
+<ul>
+<li>
+Substantial experience creating automated user acceptance tests for web sites.</li>
+<li>
+Proactive work ethic with the ability to deliver results and meet challenging deadlines in a really fast-paced delivery environment.</li>
+<li>
+Proven experience developing/improving QA processes, increasing delivery efficiency and developing direct reports.</li>
+<li>
+Experience with customer centric industries and mission critical quality software standards.</li>
+<li>
+Significant experience in applying automated testing tools to number of successful software projects.</li>
+<li>
+An understanding of the strengths and limitations of specific testing tools.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/venda/TTcrvV"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Game Closure]]></company>
+			<job>
+			<id><![CDATA[job_20120306002621_HGBGQPJTPUNQ8PNC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[JavaScript Engineer]]></title>
+			<department><![CDATA[SDK]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://gameclosure.theresumator.com/apply/jy1eSy/JavaScript-Engineer.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94041]]></postalcode>
+			<description><![CDATA[<p>
+	We&rsquo;re building the best HTML5 game engine in the world for mobile platforms. As a JavaScript engineer, you will be creating tools for game developers to build and deploy high-quality HTML5 games. If you love working on libraries and tools that support an ecosystem of game developers, this team has an open spot for you.</p>
+<p>
+	For this position, you should be familiar with the latest HTML5 browser APIs and writing cross-browser code in JavaScript. UI design skills and server-side JavaScript skills are a plus. Experience building rich JavaScript clients using MVC frameworks like backbone.js is also useful. We also love to see Chrome experiments or Node KO entries.</p>
+<p>
+	Sympathy for the end user is a vital skill for this position. Experience writing and supporting libraries used by third-party developers is a major plus.</p>
+<p>
+	Required Experience:<br />
+	- JavaScript/HTML/CSS<br />
+	- scripting in the Unix environment</p>
+<p>
+	Beneficial Skills:<br />
+	- game development experience<br />
+	- library development and support<br />
+	- UI design<br />
+	- backbone.js<br />
+	- node.js<br />
+	- webGL<br />
+	- web sockets<br />
+	- HTML5 audio</p>
+<p>
+	<br />
+	Game Closure is a team of 25 passionate engineers building the world&rsquo;s best mobile<br />
+	game engine. We see HTML5 as the future for games on iOS and Android, and<br />
+	we use any technology necessary to make this vision true today, including Python,<br />
+	Java, JavaScript, C, C++, Objective-C, Clojure, and many more. We offer<br />
+	competitive benefits, salary, relocation and immigration support. We are located in the<br />
+	fantastic area of downtown Mountain View (on Castro Street), and we are a great team<br />
+	of fun-loving individuals who are looking for like-minded people to join us in changing<br />
+	the world!<br />
+	Join us!</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gameclosure/jy1eSy"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120306003025_MB0BN0TZL085VHOL]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Native Platform Engineer]]></title>
+			<department><![CDATA[Mobile]]></department>
+			<team><![CDATA[Native]]></team>
+			<url><![CDATA[http://gameclosure.theresumator.com/apply/kR472k/Native-Platform-Engineer.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94041]]></postalcode>
+			<description><![CDATA[<p>
+	Love games? Then come work at Game Closure and be part of the HTML5 mobile gaming revolution!</p>
+<p>
+	The Native Platform team is where the magic happens. You will be responsible for pushing the state of the art of &nbsp;JavaScript gaming on mobile devices. A deep knowledge of the Android NDK or the iPhone SDK is required. Knowledge of the internals and performance characteristics of v8, spidermonkey, or rhino is a plus. OpenGL shader experts should apply. Show us your native projects!</p>
+<p>
+	Who you are:<br />
+	Android/iOS hacker. You love getting into the internals of a high performance C project. You may be a openGL guru or love getting your hands dirty with v8 and Spidermonkey. Valgrind? GDB? Xcode performance tools? Heck, you&#39;re at home looking at a stack trace.</p>
+<p>
+	What you&#39;ll do:<br />
+	Work on a high performance JavaScript/HTML5 environment for games. Hack on a hardware accelerated HTML5 Canvas and webGL implementation that runs across the mobile spectrum. Optimize JavaScript engines running on hardware-limited environments.</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gameclosure/kR472k"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120306003648_V8WEE444DALQZJTI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Backend/Server Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://gameclosure.theresumator.com/apply/q4GmAa/BackendServer-Engineer.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94041]]></postalcode>
+			<description><![CDATA[<p>
+	Game Closure, based in Mountain View, CA., offers an environment to develop games that makes it easy to create, host, and deploy HTML5-based cross-platform, multiplayer games, starting with iOS, Android, and Facebook.&nbsp; Our team members come from across the United States, Europe, Australia, and the Asia Pacific region.&nbsp; We&#39;re very well funded, and we&#39;re growing aggressively.</p>
+<p>
+	&nbsp;</p>
+<p>
+	Description of role</p>
+<p>
+	<strong><u>Backend/Server Engineer</u></strong></p>
+<p>
+	Our HTML5 and Javascript technologies work in concert with equally important server infrastructure to make our software a state-of-the-art platform for mobile game developers. While we know HTML5 is all the rage, we also know that great HTML5 games wouldn&rsquo;t be possible without great server-side engineering. Can you architect a service that will support hundreds of users at once? Do you know all about RESTful services? Wouldn&rsquo;t it be fun to build services for mobile games? Do you enjoy writing Node.JS and using NoSQL databases? Are you ready to join a small team where you can really make your mark on the backend infrastructure? Look no further. We&#39;re looking for great backend engineers who are interested in working with the latest technologies to build services for hundreds of thousands of users.</p>
+<p>
+	Join us!</p>
+<p>
+	<strong><u>Experience</u></strong></p>
+<p>
+	Proficient in Javascript</p>
+<p>
+	Experience building and maintaining scalable databases (Relational or NoSQL)</p>
+<p>
+	Experience building web APIs using RESTful constraints</p>
+<p>
+	<strong><u>Beneficial Skills:</u></strong><br />
+	NodeJS and/or MongoDB strongly desired<br />
+	Python, Clojure, or AWS a plus<br />
+	Building large-scale, fault-tolerant backend infrastructure<br />
+	Linux System Administration</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gameclosure/q4GmAa"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120306181122_EBUXFPXI5ZXPSTCA]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Data Scientist]]></title>
+			<department><![CDATA[Anaytics]]></department>
+			<team><![CDATA[Analytics]]></team>
+			<url><![CDATA[http://gameclosure.theresumator.com/apply/zrWWNH/Data-Scientist.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94041]]></postalcode>
+			<description><![CDATA[<p>
+	Game Closure, based in Mountain View, CA., offers an environment to develop games that makes it easy to create, host, and deploy HTML5-based cross-platform, multiplayer games, starting with iOS, Android, and Facebook.&nbsp; Our team members come from across the United States, Europe, Australia, and the Asia Pacific region.&nbsp; We&#39;re very well funded, and we&#39;re growing aggressively.<br />
+	Description of role</p>
+<p>
+	Software Engineer: Data Scientist</p>
+<p>
+	You&#39;re a software engineer.&nbsp; You love data.&nbsp; And you design great products.</p>
+<p>
+	Game Closure is building the world&#39;s most insightful analytics platform.&nbsp; As a data scientist, you&#39;ll study mobile games:&nbsp; What motivates a person to play a mobile game?&nbsp; What is the definition of a successful game?&nbsp; y are some games successful, while others are not?&nbsp; How do game studios make decisions, and how can we help them to make better decisions?&nbsp; Do these pique your interest?&nbsp; If so, join us!</p>
+<p>
+	Responsibilities</p>
+<p>
+	Write robust, scalable software (You&#39;re a software engineer.)<br />
+	Choose the metrics to include in our suite.&nbsp; (You love data.)<br />
+	Turn those metrics into insights.&nbsp; (You design great products.)</p>
+<p>
+	Requirements</p>
+<p>
+	An impressive background in software engineering.&nbsp; eg: A few years in industry, a really cool open-source project, or a CS degree.<br />
+	Fluency in one of our core languages (Python, JavaScript, Java).<br />
+	An eye for product: you&#39;re not writing one-off analysis: you&#39;re building the world&#39;s most insightful analytics platform.<br />
+	Familiarity with the usual tools (MapReduce, SQL, distributed hash tables, REST APIs).</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gameclosure/zrWWNH"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120312212641_LZOS1UYJZUE5C4VS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sr. Web Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://gameclosure.theresumator.com/apply/Lx5Zd0/Sr-Web-Developer.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94041]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Job Description: Full-time Senior Web Developer</strong><br />
+	Come join the team of SDK Mobile Publishing Tools at Game Closure, where we are building the world&#39;s most advanced HTML5 game engine. You will work on tools to help our customer game studios understand their player demographics, and help them to optimize user acquisition and marketing efforts. These tools are crucial to the success of our customers&rsquo; mobile games and a core part of our product. This position involves working closely with the analytics and game engine teams, so our ideal candidates would be smart, passionate, and well-rounded engineers.</p>
+<p>
+	<strong>Required Qualifications</strong><br />
+	We are relatively technology agnostic from project to project, but there is currently a large focus on Python, node.js, MySQL, and MongoDB on the back-end, and backbone.js, mustache, jQuery, CoffeeScript, and underscore.js on the front-end. You should be familiar with at least half of these technologies and be ready to learn new tools and languages quickly. Most importantly, you should be able to start shipping functioning code the day you join and always move quickly. BS in Computer Science or a related field is strongly preferred.</p>
+<p>
+	<strong>About Game Closure</strong><br />
+	Game Closure is a team of 25 passionate engineers building the world&rsquo;s best mobile game engine. We believe that HTML5 is the future for games on iOS and Android, and we use any technology necessary to make this vision true today, including Python, Java, JavaScript, C, C++, Objective-C, ActionScript, Clojure, and many more. We offer competitive benefits, salary, relocation and immigration support. We are located in the fantastic area of downtown Mountain View (on Castro Street), and we are a great team of fun-loving individuals who are looking for like-minded people to join us in changing the world!</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gameclosure/Lx5Zd0"></script>]]></buttons>
+		</job>
+	</jobs>

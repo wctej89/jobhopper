@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[FundApps]]></company>
+			<job>
+			<id><![CDATA[job_20130601175512_HGSV8DSAIZKZEJFB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://fundapps.theresumator.com/apply/3o3ms3/Web-Developer.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[London]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EC1Y 2BJ]]></postalcode>
+			<description><![CDATA[<p>
+FundApps is all about simplicity. We&rsquo;re fed up with clunky installed software, manual testing and years between releases. We also think that clients are too! We believe in simplicity, automation and testing &ndash; that&rsquo;s why we&rsquo;re bringing the benefits of cloud based software, agile development and simpler user interfaces to the finance industry. Like the sound of us? Why not come and work for us?</p>
+<p>
+<strong>Join our growing development team building great technology and solving challenging problems.</strong></p>
+<p>
+Being the sort of person who is multi-talented you won&rsquo;t be afraid of getting your teeth stuck into the full range of software development including:</p>
+<ul>
+<li>
+Big architectural decisions down to front-end UI tweaks</li>
+<li>
+Back-end messaging processing with RabbitMQ through to AngularJS and selenium testing</li>
+<li>
+Establishing best practices</li>
+<li>
+Evaluating new technologies</li>
+<li>
+Helping us build FundApps team as we grow</li>
+</ul>
+<p>
+<strong>You</strong></p>
+<p>
+We love enthusiasm. So, if you have it by the bucketload then read on.</p>
+<p>
+Ideally you are someone who actively looks at new technologies in your spare time. The perfect candidate would bring some experience in .NET &amp; JavaScript but actively dip into other areas. Hopefully, our technology stack reads to you like a list of familiar friends, finger crossed you&rsquo;ve already spotted things we haven&rsquo;t mentioned and should&rsquo;ve !</p>
+<p>
+<strong>Passionate about code quality, agile and testing ?</strong></p>
+<p>
+If yes, then this is going very well. We use open source libraries all the time, and hopefully you&rsquo;ve contributed to open source projects (whether bug fixes or full blown contributions).</p>
+<p>
+<strong>FundApps Technology</strong></p>
+<p>
+Technology is at the core of everything we do &ndash; we&rsquo;re always looking for opportunities to improve the way we develop software and new tools that help us do that.</p>
+<p>
+<strong>Our current tech &amp; tools</strong><br />
+C#, ASP.NET MVC 4.0, ServiceStack, AngularJS, jQuery, RabbitMQ, TeamCity, Octopus Deploy, NCrunch, ReSharper, NuGet, SpecFlow, MSpec, Selenium, Mercurial and Post It notes</p>
+<p>
+<strong>We&rsquo;re currently evaluating</strong><br />
+Chef, StatsD, Logstash, Nginx, Jasmine, RavenDb, EventStore and many others</p>
+<p>
+<strong>Our future technology;</strong><br />
+You decide !</p>
+<p>
+<strong>Apply</strong></p>
+<p>
+Love the sound of us? Think we&rsquo;ll love the sound of you? We are super small so the idea of getting hand on &ndash; and making an immediate impact &ndash; should excite you rather than scare you.</p>
+<p>
+We&rsquo;re ready to be impressed and employ our new Web Developer so contact us and send us your CV.</p>
+<p>
+NO AGENCIES PLEASE We are very busy so every time we have to stop and talk to you costs us time so please do NOT call or mail us. Honestly, don&rsquo;t.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/fundapps/3o3ms3"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Barefoot Books]]></company>
+			<job>
+			<id><![CDATA[job_20100913194223_FZU3YIZFNVFXPWXX]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Software Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://barefootbooks.theresumator.com/apply/bPyK3n/Web-Software-Engineer.html]]></url>
+			<city><![CDATA[Cambridge]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02140]]></postalcode>
+			<description><![CDATA[<p>
+	<span style="color: rgb(191, 2, 34);"><strong>ABOUT YOU:</strong></span><br />
+	<br />
+	You love writing clean, modular code and keeping up with latest technologies. You want to make an impact in an agile environment on a small team where your ideas can be heard. You tackle challenges wherever they are found, moving comfortably between front-end and back-end technologies.</p>
+<p>
+	<span style="color: rgb(191, 2, 34);"><strong>RESPONSIBILITIES:</strong></span></p>
+<ul>
+	<li>
+		Implement new features to support the growth of our Ambassador community and improve the Barefoot Books web site.&nbsp;</li>
+	<li>
+		Work with an agile team to help influence and realize the product roadmap.</li>
+	<li>
+		Work closely with operations and marketing to support internal and external efforts.</li>
+	<li>
+		Participate in code reviews and assist with establishing best practices.</li>
+</ul>
+<p>
+	<span style="color: rgb(191, 2, 34);"><strong>REQUIREMENTS:</strong></span></p>
+<ul>
+	<li>
+		2+ years of software development experience. Compensation DOE.</li>
+	<li>
+		BS/MS/PhD degree in Computer Science or the equivalent</li>
+	<li>
+		Strong development experience in a PHP 5/LAMP environment</li>
+	<li>
+		Familiarity with object-oriented design patterns and frameworks</li>
+	<li>
+		Understanding of XHTML, CSS, XML, JavaScript, Ajax, and MySQL</li>
+	<li>
+		Experience with agile development practices and test-driven development a plus</li>
+	<li>
+		Experience with any of the following a plus: Magento eCommerce Platform, Zend Framework, jQuery</li>
+</ul>
+<p>
+	<br />
+	<span style="color: rgb(191, 2, 34);"><strong>ABOUT US:</strong></span><br />
+	<br />
+	Barefoot Books is an award-winning, independent children&rsquo;s publisher specializing in carefully crafted books, gifts and digital content to help children on their journey to become happy, engaged members of a global society. With offices in Cambridge, MA and Bath, England, our working culture is fast-paced, collaborative, entrepreneurial and highly innovative.<br />
+	<br />
+	This is a full-time position in our Cambridge, Massachusetts office.&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/barefootbooks/bPyK3n"></script>]]></buttons>
+		</job>
+	</jobs>

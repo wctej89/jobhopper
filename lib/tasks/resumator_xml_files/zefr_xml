@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[ZEFR]]></company>
+			<job>
+			<id><![CDATA[job_20120926190417_RMGTWSHBAJMV43LN]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[DevOps Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://zefr.theresumator.com/apply/ZznnFJ/DevOps-Engineer.html]]></url>
+			<city><![CDATA[Venice]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90291]]></postalcode>
+			<description><![CDATA[<p>
+	DevOps Engineer<br />
+	ZEFR is one of the fastest growing YouTube partners, bringing legal and licensed professional quality content on the biggest video platform on the web. Partnering with some of the largest content providers in the world, ZEFR is quickly becoming one of the hottest startups in the nation. Our videos reach over 200 Million monthly unique viewers around the world and with amazing growth comes a need for equally amazing people.</p>
+<p>
+	ZEFR is looking for a DevOps engineer who hates downtime, loves automation, agonizes over every 9 after the decimal, and someone who brings a positive, can-do attitude to our growing team.</p>
+<p>
+	Desired Skills &amp; Experience</p>
+<p>
+	Responsibilities:<br />
+	Build and develop the tools needed to scale the corporate infrastructure services<br />
+	Establish and maintain operational control and processes<br />
+	Produce automated systems that are scalable, and well-documented, and train others to take on operations<br />
+	Perform operational DBA duties on SQL RDBMS systems<br />
+	Data Warehouse design and tuning to support ETL processes and data analytics applications<br />
+	<br />
+	Skills and Experience:<br />
+	Highly Proficient in Linux systems administration and shell scripting (bash, zsh, perl, etc.)<br />
+	Bachelor&rsquo;s degree in Computer Science or equivalent on-the-job experience.<br />
+	Networking and Monitoring experience desired(Cisco routing/switch family is a plus)<br />
+	Sharp and tenacious troubleshooting skills: you can fix anything<br />
+	Ability to pick up new software, frameworks and APIs quickly<br />
+	Good verbal and written communications skills, all-around team player<br />
+	Virtualization and SAN storage experience are a plus<br />
+	DBA experience in a production environment is a big plus<br />
+	Experience with shared-nothing data warehouse applications, ETL techniques with large datasets, data warehouse technology and modeling tools are a big plus</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/ZEFR/ZznnFJ"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120926190840_YBGYYFOGSPHRDFPG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Technical Product Manager]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://zefr.theresumator.com/apply/zR1E8i/Technical-Product-Manager.html]]></url>
+			<city><![CDATA[Venice]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90291]]></postalcode>
+			<description><![CDATA[<p>
+	Technical Product Manager<br />
+	We&rsquo;re looking for a Product Manager to help define and execute the company&rsquo;s existing product roadmap as well as define and design new products. The product team is a small, scrappy team looking for someone not only to take the lead in conceptualizing and defining new products, but also shaping the tone, cadence, and process of the team as it grows. At Movieclips, Product Managers are responsible for gathering requirements from major stakeholders, defining the vision and scope of the product, working with engineering to outline the development roadmap, and ultimately ushering it through to completion. The Movieclips atmosphere and culture is very much a start up, despite our growth and success, and the ideal candidate will thrive in an environment of change, unknowns, and independence. As a small team, we can&rsquo;t take on every awesome idea that comes our way, instead the ideal candidate needs to become fluent in the business, key goals, and vision in order to make data driven decisions about product development.</p>
+<p>
+	Desired Skills &amp; Experience</p>
+<p>
+	Responsibilities:<br />
+	Work directly with senior management, business development, marketing, and sales to gather requirements for new products or enhancements to existing products<br />
+	Distill complex processes and concepts to simple, easy to use products focused on measurable solutions<br />
+	Produce product requirement documents and specifications<br />
+	Identify dependencies, assumptions and constraints that affect the outcome the project<br />
+	Be able to create wireframes or higher fidelity mock ups to illustrate user flows and major experiences<br />
+	Identify key metrics to track performance and use in future development and decision making process<br />
+	Communicate progress to major stakeholders throughout the development procsess<br />
+	Coordinate product launches including any necessary training, briefings, and presentations<br />
+	Independently identify problems and create solutions<br />
+	Experience:<br />
+	4+ years of Product Management experience<br />
+	Outstanding written, verbal, and visual communication skills<br />
+	Experience conceptualizing and documenting products<br />
+	An eye for UI/UX and familiarity with the latest cutting edge web and mobile technologies and conventions<br />
+	Degree or experience in CS a plus<br />
+	Understanding of key technologies used at Movieclips and YouTube<br />
+	Comfortable working in a fast paced environment<br />
+	Loves YouTube, social media, and mobile</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/ZEFR/zR1E8i"></script>]]></buttons>
+		</job>
+	</jobs>

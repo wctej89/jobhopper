@@ -1,0 +1,350 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Grovo]]></company>
+			<job>
+			<id><![CDATA[job_20130219025258_KKUZ4J731RNFAIUH]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://grovo.theresumator.com/apply/O23C3e/Software-Engineer.html]]></url>
+			<city><![CDATA[New York City]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10003]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Job Description</strong><br />
+We&rsquo;re looking for innovators and problem solvers who want to have an enormous impact on the world and are passionate about taking on the largest of challenges. Join Grovo&rsquo;s talented engineering team and lead the development of our core product features. You will be a critical member of the team as we build our product and continue expanding to a global audience.</p>
+<p>
+You will collaborate closely with our team of engineers, developing on the full application stack. We&rsquo;re fast-paced and we iterate quickly, pushing deployments to the live site several times a week on our agile development cycle. You will make an immediate impact by working on our engineering team, in our new office, which was named top 5 startup workplaces in NYC! http://thenextweb.com/insider/2012/12/27/awesome-offices-inside-15-fantastic-startup-workplaces-in-new-york/2/</p>
+<p>
+We&rsquo;re built on the LAMP stack and are hosted on AWS. We&rsquo;ve created several internal tools to automate processes and proprietary features that make us unique in the market. These include custom API integrations with Facebook and Twitter, our homegrown HTML5/Flash video player, a data warehouse built from scratch, and our own content management system built with a MongoDB backend. You&rsquo;ll have an opportunity to work with the latest technologies and contribute to these features.</p>
+<p>
+<strong>Skills &amp; Requirements</strong></p>
+<p>
+Essential Functions</p>
+<ul>
+<li>
+Work with our Product team to understand the core functionality and desired user experience for our products</li>
+<li>
+Work with our Growth team to iterate on the site in order to optimize our signup funnels and viral mechanics</li>
+<li>
+Collaborate with our front-end and backend engineers to develop full end-to-end features</li>
+<li>
+Run unit tests and take ownership of your code, maintaining and updating it as necessary</li>
+<li>
+Work within our fast-paced agile development process, releasing smaller updates as part of our daily Scrum and larger deployments within our weekly sprint cycles</li>
+</ul>
+<p>
+<br />
+Job Qualifications</p>
+<ul>
+<li>
+You have several years experience working with PHP in an MVC framework</li>
+<li>
+You&rsquo;ve worked on the full stack of a website
+<ul>
+<li>
+Strong skills (2+ years) in Javascript (we use the JQuery library)</li>
+<li>
+Strong skills (2+ years) with relational databases and SQL (we use MySQL)</li>
+<li>
+Ability to write semantic, valid HTML/CSS</li>
+</ul>
+</li>
+<li>
+You&rsquo;re cognizant of code performance and can optimize all levels of the application stack
+<ul>
+<li>
+You know how to use memcached efficiently, how to profile database queries and middle layer code, and can identify front-end inefficiencies using browser tools</li>
+</ul>
+</li>
+<li>
+You&rsquo;re knowledgeable with UNIX and source control revision systems</li>
+<li>
+You aren&rsquo;t afraid to get your hands dirty with new technologies and API&rsquo;s</li>
+</ul>
+<p>
+<br />
+Preferred</p>
+<ul>
+<li>
+Venture-funded start-up experience</li>
+<li>
+Contributed to open-source projects</li>
+<li>
+Public portfolio of past and ongoing work</li>
+<li>
+Knowledgeable of AWS and their cloud hosting services</li>
+<li>
+Located in NYC or willing to relocate for the right opportunity</li>
+</ul>
+<p>
+<br />
+Personal</p>
+<ul>
+<li>
+Love the web and technology</li>
+<li>
+Grow a product that helps people and adds value</li>
+<li>
+Always loves a good challenge</li>
+<li>
+Self aware with integrity</li>
+<li>
+Thrive in a fast-paced environment</li>
+<li>
+Confident and fun</li>
+</ul>
+<p>
+<br />
+<strong>About Grovo</strong></p>
+<p>
+We were the first to provide Internet education to the world.&nbsp; We created Grovo to help the world better use web and mobile apps with short-form video courses. Our mission is to be your trusted source of real-time, high quality updates to the web and mobile products you and your friends use.</p>
+<p>
+Grovo makes it easy to be more productive in your personal and professional lives. Grovo produces 1-minute videos covering the latest changes to Internet services like Facebook, Evernote, and Google Apps. Grovo maps these updates to the services people use. People are notified in real-time to help them use the services.</p>
+<p>
+People in 150 countries are using Grovo to save time and become more effective online. From K-12 school districts to 100 of the Fortune 500 companies, Grovo serves professionals and organizations of all sizes with its freemium business model.</p>
+<p>
+Grovo was founded in 2010 and is a privately held company headquartered in New York City. Grovo has delivered 1 million video lessons and has raised venture financing from some of Silicon Valley&rsquo;s most prestigious investors.</p>
+<p>
+Grovo employees enjoy great benefits and perks, including health and dental insurance, stock options, free food/drinks, video games, and more - grovo.com/careers</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/grovo/O23C3e"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130521005157_UFGCJGSXJEMIHGGI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Enterprise Sales Executive]]></title>
+			<department><![CDATA[Enterprise Sales]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://grovo.theresumator.com/apply/DPY9SE/Enterprise-Sales-Executive.html]]></url>
+			<city><![CDATA[Ventura]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[93003]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Position: &nbsp;Enterprise Solutions Advisor (Inside Sales)</strong></p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Company Overview</strong></p>
+<p>
+We&rsquo;re looking for innovators and problem solvers who want to have an enormous impact on the world and are passionate about taking on the largest of challenges.</p>
+<p>
+Grovo makes it easy to be more productive in your personal and professional lives online. Grovo produces 1-minute videos covering the latest changes to apps and online tools like Facebook, Evernote, and Google Apps. Grovo maps these updates to the services people use. People are notified in real-time to help them use the services.&nbsp;</p>
+<p>
+Grovo&rsquo;s proprietary technology harvests demand about the most immediate questions people have about new features and functionality. Every day, Grovo&rsquo;s in-house team produces short videos covering these updates and delivers them as they&rsquo;re happening. Currently, the library contains over 3,000 video lessons.&nbsp; Each lesson includes a multiple choice quiz, downloadable PDF and time-synced transcript.&nbsp;</p>
+<p>
+People in 150 countries are using Grovo to save time and become more effective online.&nbsp; From K-12 school districts to 100 of the Fortune 500 companies, Grovo serves professionals and organizations of all sizes with its freemium business model.</p>
+<p>
+Grovo was founded in 2010 and is a privately held company headquartered in New York City.&nbsp; Grovo has delivered 1 million video lessons and has raised venture financing from some of Silicon Valley&rsquo;s most prestigious investors.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Position Description</strong></p>
+<p>
+As an Enterprise Solutions Advisor, you will be responsible for establishing and building enduring customer relationships in your specific market segment.&nbsp; The ideal candidate is thoughtful and deliberate in their actions and believes in achieving personal success through customer success.&nbsp; They treat customers and colleagues alike with fairness, trust, and respect; and they work as smart as they do hard.&nbsp; They see opportunity in the face of challenge want to be part of a nimble and fast-growing start-up where change happens daily.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Essential Functions and&nbsp;</strong><strong>Responsibilities</strong></p>
+<ul>
+<li>
+Responsible for presenting, negotiating and implementing enterprise products and services to current and prospective clients.</li>
+<li>
+Follow up on new leads and referrals resulting from sales and marketing activities.</li>
+<li>
+Prepare presentations, proposals and sales agreements.</li>
+<li>
+Identify and resolve client concerns.</li>
+<li>
+Prepare a variety of status reports, such as activity, pipeline, follow-up, and other engagement metrics.</li>
+<li>
+Become an expert on each product you cover: communicate the core value of each product, know who&rsquo;s using it and for what they&rsquo;re using it, understand all of its features, and be able to present and demo it to prospective customers.</li>
+<li>
+Stay up-to-date on Internet trends and news related to the web products we cover, and provide your customers with updates that are relevant to their needs.</li>
+<li>
+Strong teamwork and interpersonal skills</li>
+</ul>
+<br />
+<p>
+<strong>Professional Requirements</strong></p>
+<ul>
+<li>
+2-5 years of corporate sales experience in an educational or SaaS industry (start-up experience preferred)</li>
+<li>
+Lives in Southern California or is willing to relocate for the right opportunity</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Preferred Experience</strong></p>
+<ul>
+<li>
+Undergraduate degree from a top 30 university or 20 liberal arts college</li>
+<li>
+Venture-funded start-up experience</li>
+<li>
+Proficient in Salesforce.com and Google Apps (Gmail, Calendar, Drive, etc.)</li>
+</ul>
+<p>
+<br />
+<strong>Personal</strong></p>
+<ul>
+<li>
+The ideal candidate:</li>
+<li>
+Flexible and able to shift needs with the demands of the business.</li>
+<li>
+Excellent listening, presentation and negotiation skills.</li>
+<li>
+Ability to foresee trends and react quickly.</li>
+<li>
+Demonstrate the ability to anticipate and solve practical problems or resolve issues.</li>
+<li>
+Lives and breathes the Internet</li>
+<li>
+Loves the start-up lifestyle and culture</li>
+<li>
+Positive, upbeat attitude</li>
+<li>
+Has attention to detail</li>
+<li>
+Takes pride in his or her work</li>
+<li>
+Is very proactive and solutions-focused</li>
+</ul>
+<p>
+<br />
+<strong>Compensation</strong><br />
+Competitive base salary, variable commission and bonus plan, stock options, free drinks and snacks, health and dental benefits, and video games</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/grovo/DPY9SE"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130528213043_UHGKWTBOIFPYEJQA]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Enterprise Product Analyst]]></title>
+			<department><![CDATA[Content]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://grovo.theresumator.com/apply/OsC15D/Enterprise-Product-Analyst.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10003]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Company Overview</strong><br />
+We&rsquo;re looking for innovators and problem solvers who want to have an enormous impact on the world and are passionate about taking on the largest of challenges.</p>
+<p>
+We were the first to provide Internet education to the world.&nbsp; We created Grovo to help the world better use web and mobile apps with short-form video courses.</p>
+<p>
+Grovo makes it easy to be more productive in your personal and professional lives online. Grovo produces 1-minute videos covering the latest changes to apps and online tools like Facebook, Evernote, and Google Apps. Grovo maps these updates to the services people use. People are notified in real-time to help them use the services.&nbsp;</p>
+<p>
+Grovo&rsquo;s proprietary technology harvests demand about the most immediate questions people have about new features and functionality. Every day, Grovo&rsquo;s in-house team produces short videos covering these updates and delivers them as they&rsquo;re happening. Currently, the library contains over 3,000 video lessons.&nbsp; Each lesson includes a multiple choice quiz, downloadable PDF and time-synced transcript.&nbsp;</p>
+<p>
+People in 150 countries are using Grovo to save time and become more effective online.&nbsp; From K-12 school districts to 100 of the Fortune 500 companies, Grovo serves professionals and organizations of all sizes with its freemium business model.</p>
+<p>
+Grovo was founded in 2010 and is a privately held company headquartered in New York City.&nbsp; Grovo has delivered 1 million video lessons and has raised venture financing from some of Silicon Valley&rsquo;s most prestigious investors.</p>
+<p>
+For more information, please visit: http://www.grovo.com.</p>
+<p>
+<strong>Position Description</strong><br />
+Each Product Analyst is responsible for a portfolio of some of the Internet&rsquo;s most popular web and mobile apps. Coverage ranges from project management and business tools to analytics and advertising platforms. As those web products and mobile apps change, our analysts provide real-time education for people all over the world, in the form of video lessons, text and infographics.</p>
+<p>
+Product Analysts work closely with our in-house content team of professional video editors, animators, illustrators and designers to produce video lessons and animations.</p>
+<p>
+<strong>Essential Functions</strong></p>
+<ul>
+<li>
+Responsible for a portfolio of web products, spanning a variety of topics, such as, business tools, project management software, analytics and advertising platforms.</li>
+<li>
+Become an expert on each product you cover: communicate the core value of each product, know who&rsquo;s using it and for what they&rsquo;re using it, understand all of its features, and can teach others how to use those features</li>
+<li>
+Stay up-to-date on Internet trends and news related to the web products you cover, and provide our users real-time education on those updates</li>
+<li>
+Write informative and engaging copy for video tutorials, blog posts and infographics</li>
+<li>
+Work side-by-side with professional video editors, animators and illustrators to produce top-quality videos, blog posts, infographics and other educational materials</li>
+<li>
+Work with our marketing and social media team to write intelligent, engaging and witty &lsquo;How-To,&rsquo; trend and advice articles for internal and external publication</li>
+<li>
+Strong teamwork and interpersonal skills</li>
+</ul>
+<p>
+<strong>Professional Requirements</strong></p>
+<ul>
+<li>
+2-5 years of professional experience as a research analyst, financial analyst, consultant, or content manager (start-up experience preferred)</li>
+<li>
+Undergraduate degree from a top 30 university or 20 liberal arts college</li>
+<li>
+Lives in NYC or is willing to relocate for the right opportunity</li>
+</ul>
+<p>
+<strong>Preferred</strong></p>
+<ul>
+<li>
+Venture-funded start-up experience</li>
+<li>
+Proficient in WordPress</li>
+<li>
+Previous experience writing about the Internet</li>
+</ul>
+<p>
+<strong>Personal</strong></p>
+<ul>
+<li>
+The ideal Product Analyst:</li>
+<li>
+Lives and breathes the Internet</li>
+<li>
+Loves the start-up lifestyle and culture</li>
+<li>
+Is an analytical thinker</li>
+<li>
+Positive, upbeat attitude</li>
+<li>
+Has great problem solving skills</li>
+<li>
+Has attention to detail</li>
+<li>
+Can communicate clearly, concisely and quickly, both verbally and in writing</li>
+<li>
+Takes pride in his or her work</li>
+<li>
+Is very proactive and solutions-focused</li>
+</ul>
+<p>
+<br />
+<strong>Compensation</strong><br />
+Competitive base salary, stock options, free drinks and snacks, health and dental benefits, and video games</p>
+<p>
+<br />
+<strong>Apply</strong><br />
+Email your application to tsamph@grovo.com. Please attach your resume and include each of the following items in the body of your email:</p>
+<ul>
+<li>
+A two sentence description of yourself</li>
+<li>
+Your favorite project management tool and why</li>
+<li>
+Your favorite advertising platform and why</li>
+<li>
+Your 3 favorite publications and the name of the last book you read</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/grovo/OsC15D"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[GameSalad]]></company>
+			<job>
+			<id><![CDATA[job_20120705193133_QNIJSMAVJM4JGSDU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Cocoa Software Engineer]]></title>
+			<department><![CDATA[Mac Team]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://gamesalad.theresumator.com/apply/vxuQwl/Cocoa-Software-Engineer.html]]></url>
+			<city><![CDATA[San Francisco, CA]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94105]]></postalcode>
+			<description><![CDATA[<p>GameSalad is looking for energetic and dedicated individuals with a keen interest in developing the future landscape of mobile gaming. The Cocoa Software Engineer will be responsible for developing, writing, and debugging code as well as working closely with design staff and other engineers to develop a broad range of application and client-based gameplay systems such as networking, graphics, and interface.</p><p>Responsibilities:</p><ul><li>Objective-C programming</li><li>Multi-threaded programming on OS X</li><li>Web service-oriented development</li><li>Cocoa and Cocoa Touch development on Mac and iOS, respectively</li><li>API design</li><li>Debugging</li></ul><p>Requirements:</p><ul><li>Strong knowledge of Objective-C runtime, language and techniques (memory management, introspection, dynamic methods)</li><li>Experience creating dynamic interfaces in Interface Builder</li><li>Must possess excellent architecture and API design instincts and skills</li><li>Must possess excellent profiling and debugging skills</li><li>Strong understanding of multi-threading techniques on OS X (NSOperation, Pthreads, GCD, etc.)</li><li>Strong networking understanding (TCP/IP, HTTP, SOAP)</li><li>Familiarity with Web service-oriented development</li><li>Must have modern Cocoa development experience</li></ul><p>Preferred:</p><ul><li>Experience using GameSalad Creator for Mac is a plus</li><li>Passion for creating first-rate software on Apple platforms</li><li>Understanding of user interface design concepts and best practices, such as Apple&#39;s HIG</li></ul><p>&nbsp;</p><p>GameSalad is a rapidly-growing company based in San Francisco, CA. We make GameSalad Creator, a visual tool that enables game creation for iOS, Android and HTML5. Like YouTube, Twitter and Instagram before us, GameSalad&#39;s mission is to turn games into the next powerful communication medium for the masses.</p><p>GameSalad is looking for contractors that could lead to full-time employment at our SF office.&nbsp; We value incredibly talented people with amazing attention to detail and uncanny teamwork skills. If you are passionate about the art and the science of game development tools, we want to hear from you. GameSalad is out to do nothing short of changing the world...</p><p>...and we need your help.</p><p><br />For more information about GameSalad, please go to gamesalad.com.</p><p>Please note that this is a contract position.</p>]]></description>
+			<type><![CDATA[Contracted]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gamesalad/vxuQwl"></script>]]></buttons>
+		</job>
+	</jobs>

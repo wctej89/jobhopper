@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Foodtree]]></company>
+			<job>
+			<id><![CDATA[job_20100902011606_LH3AC3RUO3XS2YPI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Lead Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://foodtree.theresumator.com/apply/cV6IVo/Lead-Developer.html]]></url>
+			<city><![CDATA[Vancouver]]></city>
+			<state><![CDATA[BC]]></state>
+			<country><![CDATA[Canada]]></country>
+			<postalcode><![CDATA[V6B 1H5]]></postalcode>
+			<description><![CDATA[<p>
+	Foodtree answers the question: Where is my food from? Whether you are a locavore, concerned about your carbon footprint, have food allergies or want the best quality, Foodtree is a trusted source of reliable and relevant information about food for the millions of consumers who want more information about their food purchases.&nbsp;<br />
+	<br />
+	Foodtree is searching for a whip-smart database engineer and perhaps a Rails wizard to join their small team.&nbsp;</p>
+<p>
+	Some Details:</p>
+<p>
+	- The successful candidate will need a high degree of familiarity with Ruby on Rails, SQL, and LAMP development. This is a highly technical, hands-on job so the Development Lead will need to handle all aspects of planning and development for the community.<br />
+	- Ideally the lead developer will have worked on a project shepherding an online community from prototype to completion. Experience working with contracted international development teams is very helpful.<br />
+	- Candidates with connections to or a background in food are strongly preferred. Did you grow up on a farm? Have you ever worked as a chef?<br />
+	- A passion for fixing the food system and a strong desire to make the world a better place are key ingredients to fitting in with the team.<br />
+	- This role will require a great deal of high-level communication as it&#39;s a key hire for the company; the candidate will be to expected to work on presentations, conduct meetings, and participate in key decisions.&nbsp;</p>
+<p>
+	Compensation and benefits commensurate with experience, but likely a combination of cash and equity. Must be able to work in downtown Vancouver.&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/foodtree/cV6IVo"></script>]]></buttons>
+		</job>
+	</jobs>

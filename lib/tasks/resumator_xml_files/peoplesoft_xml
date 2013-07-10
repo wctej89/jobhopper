@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Peoplesoft]]></company>
+			<job>
+			<id><![CDATA[job_20090529073056_BAFE0Z4QJJU7SJ7T]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[java 2+]]></title>
+			<department><![CDATA[FAS]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://peoplesoft.theresumator.com/apply/BbGsqa/Java-2.html]]></url>
+			<city><![CDATA[Bangalore]]></city>
+			<state><![CDATA[Karnataka]]></state>
+			<country><![CDATA[India]]></country>
+			<postalcode><![CDATA[560094]]></postalcode>
+			<description><![CDATA[<p>Java developer</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/peoplesoft/BbGsqa"></script>]]></buttons>
+		</job>
+	</jobs>

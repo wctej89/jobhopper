@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Niche]]></company>
+			<job>
+			<id><![CDATA[job_20120113220942_OX6M6GBPKEI1BFJB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[Web Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://niche.theresumator.com/apply/ROOhy2/Software-Engineer.html]]></url>
+			<city><![CDATA[Pittsburgh]]></city>
+			<state><![CDATA[PA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[15232]]></postalcode>
+			<description><![CDATA[<p>
+Niche is a rapidly growing startup company located in Pittsburgh, PA. Are you a motivated professional looking for a young, energetic workplace where you can make an impact? We&#39;re looking for a talented, hard-working software developer to contribute in the enhancement of a highly dynamic, high traffic web site.</p>
+<p>
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+Degree in Computer Science or a related field</li>
+<li>
+Experience in a web development language like php, Java, .NET, ROR, whatever</li>
+<li>
+Experience with Object Oriented Design</li>
+<li>
+Track record of delivering projects to completion</li>
+</ul>
+<p>
+<br />
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+The design, implementation, and documentation of high performance systems that can handle high traffic loads</li>
+<li>
+Translate business requirements into software, equipment, or recommended third-party services</li>
+<li>
+Work with design and quality assurance teams to ensure all back-end software fully supports required user experience and quality requirements</li>
+<li>
+Participate in database design and implementation</li>
+</ul>
+<p>
+<strong>Bonus if you have, but not required:</strong></p>
+<ul>
+<li>
+jQuery, MVC</li>
+<li>
+Start-up/small company experience</li>
+<li>
+Search services such as Solr</li>
+<li>
+Cool personal projects</li>
+</ul>
+<p>
+<br />
+<strong>Benefits:</strong></p>
+<p>
+This is a full time, salaried position with competitive compensation and benefits including 20 paid days off per year, stock options, and a comprehensive health plan provided at no cost to the employee.</p>
+<p>
+<strong>About Niche:</strong></p>
+<p>
+Niche provides in-depth reviews and analysis on colleges and K-12 schools. We started out in 2002 as collegeprowler.com and have since grown into one of the largest content startups in the U.S. Every year we help millions of students and parents choose their school and get the most out of their experience. EOE.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/niche/ROOhy2"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130619012517_OEI858B8XMWNRLEP]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Quality Assurance and Data Analyst]]></title>
+			<department><![CDATA[Quality Assurance and Data Analysis]]></department>
+			<team><![CDATA[QA and Data]]></team>
+			<url><![CDATA[http://niche.theresumator.com/apply/0wizx4/Quality-Assurance-And-Data-Analyst.html]]></url>
+			<city><![CDATA[Pittsburgh]]></city>
+			<state><![CDATA[PA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[15232]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Please note:</strong></p>
+<ul>
+<li>
+<strong>This an Entry Level position.</strong></li>
+</ul>
+<ul>
+<li>
+<strong>This is NOT a remote position. We are located in Pittsburgh, PA.</strong></li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+Niche (formerly College Prowler) is a rapidly growing startup located in Pittsburgh, PA. We&rsquo;re a fun, energetic bunch, with an extremely well-maintained foosball table. We&#39;re looking for a bright, tech-savvy Quality Assurance and Data Analyst. You&#39;ll work with two other Quality Assurance and Data Analysts to (1) design and execute tests to root out bugs and keep our website safe from harm, and (2) pull in and analyze school data that informs our school rankings and reviews.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+Conduct exploratory testing to uncover defects in new features for web and mobile&mdash;in other words, try to break stuff</li>
+<li>
+Take business requirements and turn them into systematically thought out test plans</li>
+<li>
+Perform test cases and record results with a high degree of accuracy</li>
+<li>
+Make suggestions to improve our functional, regression, load, performance, and security testing processes</li>
+<li>
+Write automated tests using tools you will learn, for example, Selenium WebDriver and NUnit</li>
+<li>
+Establish methods to import external data, develop routines to rectify data quality issues, develop data visualizations, conduct statistical analyses of data</li>
+</ul>
+<p>
+<br />
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+A love for finding bugs and making software bullet-proof</li>
+<li>
+Highly tech savvy, as demonstrated by extracurricular tech projects</li>
+<li>
+Demonstrated ability and desire to learn new skills quickly</li>
+<li>
+Able to convey criticism in a helpful manner</li>
+<li>
+Systematic, analytical thinker who is not afraid to ask questions</li>
+<li>
+Excellent writing skills</li>
+<li>
+Empirical frame of reference (you learn by running experiments)</li>
+</ul>
+<p>
+<br />
+<strong>Bonus points for:</strong></p>
+<ul>
+<li>
+Startup or small company experience</li>
+<li>
+A good sense of humor</li>
+<li>
+Experience with software testing or software development</li>
+<li>
+Experience with data import scripts or statistical analysis</li>
+<li>
+Experience with C#, NUnit, SQL, R, Javascript, Selenium IDE, Selenium WebDriver, or uTest</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Benefits:</strong></p>
+<p>
+This is a full time, salaried position with competitive compensation and benefits including 20 paid days off per year, weekly free lunches, stock options, and a comprehensive health plan (medical, dental, vision) provided at no cost to the employee.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>About Niche:</strong></p>
+<p>
+Niche provides in-depth reviews and analysis on colleges and K-12 schools. We started out in 2002 as Collegeprowler.com and have since grown into one of the largest content startups in the U.S. Every year we help millions of students and parents choose their school and get the most out of their experience. EOE.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/niche/0wizx4"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130625152054_4GLGHNUDJTV4JBGQ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Director of Sales]]></title>
+			<department><![CDATA[Business Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://niche.theresumator.com/apply/fjPw2J/Director-Of-Sales.html]]></url>
+			<city><![CDATA[Pittsburgh]]></city>
+			<state><![CDATA[PA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[15232]]></postalcode>
+			<description><![CDATA[<p>
+Niche is a rapidly growing startup company located in Pittsburgh, PA in the heart of Shadyside. We&rsquo;re looking for a highly motivated Sales Director to help us grow our business.&nbsp; You&rsquo;ll be tasked with building our sales team from the ground up.&nbsp; We have best-in-class content, millions of monthly website visitors, and we&rsquo;re just getting started.</p>
+<p>
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+5+ years of relevant experience&nbsp; in online media sales with a demonstrated record of success</li>
+<li>
+Personal rapport and contact with decision makers at both the client and the agency level</li>
+<li>
+Prior experience managing a sales team</li>
+<li>
+Able to thrive in a fast paced, team oriented environment.</li>
+<li>
+Excellent presentation and communication skills</li>
+<li>
+Willing to travel</li>
+</ul>
+<p>
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+Lead outbound sales efforts&nbsp; by proactively reaching out to potential advertisers</li>
+<li>
+Close high value direct banner advertising campaigns at premium CPM rates</li>
+<li>
+Establish meaningful relationships with top ad agencies and key brands targeting parents, teens, and young adults.</li>
+<li>
+Devise and pitch creative brand campaigns and sponsorships</li>
+<li>
+Hire, train, and mentor new sales reps</li>
+</ul>
+<p>
+<strong>Benefits:</strong><br />
+This is a full time, salaried position with competitive compensation and benefits including 20 paid days off per year, stock options, and a comprehensive health plan provided at no cost to the employee.&nbsp;&nbsp; We&rsquo;ve been ranked as one of the Best Places to Work in Southwestern PA by the Pittsburgh Business Times.</p>
+<p>
+<strong>About Niche:</strong><br />
+Niche provides in-depth reviews and analysis on colleges and K-12 schools. We started out in 2002 as Collegeprowler.com and have since grown into one of the largest content startups in the U.S. Every year we help millions of students and parents choose their school and get the most out of their experience. EOE.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/niche/fjPw2J"></script>]]></buttons>
+		</job>
+	</jobs>

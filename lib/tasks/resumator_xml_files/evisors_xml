@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Evisors]]></company>
+			<job>
+			<id><![CDATA[job_20130606162248_T23GYRE25RCVKPIN]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sales Manager, United States]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://evisors.theresumator.com/apply/zjU8H4/Sales-Manager-United-States.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10014]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Position Overview</strong></p>
+<p>
+As our Sales Manager for the U.S, you will be sowing the seeds of a revolution in career services by bringing the Evisors Career Services Platform to universities and colleges across the country. You&rsquo;ll be part of highly capable and global four-person sales and client services team working directly under the CEO. Location is flexible.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Take over and strengthen existing client relationships at U.S. universities and colleges</li>
+<li>
+Grow our list of leads and develop strong new university and college relationships</li>
+<li>
+Educate client administrators and students on our products</li>
+<li>
+Provide weekly sales reports</li>
+<li>
+Meet sales goals</li>
+<li>
+Provide product feedback and suggest solutions</li>
+<li>
+Assist in developing promotional materials</li>
+<li>
+Prepare for and attend university and college career services conferences</li>
+</ul>
+<p>
+<br />
+<strong>Qualifications</strong></p>
+<ul>
+<li>
+Bachelor&rsquo;s degree or equivalent</li>
+<li>
+2+ years of working in sales or at a university/college career/alumni office</li>
+<li>
+Experience selling to universities and especially career/alumni offices is a big plus</li>
+<li>
+General proficiency in Excel and PowerPoint</li>
+<li>
+Experience with Salesforce or other CRM tools</li>
+<li>
+Willingness and ability to sell and promote Evisors creatively</li>
+<li>
+Entrepreneurial spirit</li>
+</ul>
+<p>
+<br />
+<strong>Why Work at Evisors?</strong></p>
+<ul>
+<li>
+Be a part of something big. Our goal is to be present at every university in the world.</li>
+<li>
+Be entrepreneurial, cross-functional and creative. We care about the hole, not the drill.</li>
+<li>
+Work with great people. We&rsquo;re a group of smart, motivated, adventurous and really nice people.</li>
+<li>
+Own a piece of the company and work with the pride of ownership.</li>
+<li>
+Weekly dashboard meetings give everyone full transparency on where the company is going.</li>
+</ul>
+<p>
+<br />
+<strong>About Evisors</strong></p>
+<p>
+Evisors is a disruptive Edtech company on a mission to democratize the access to great career advice. We combine the world&rsquo;s largest network of career mentors with a career services platform that allows job-seekers to access personal career coaching and webinars from mentors with relevant professional backgrounds. Our technology allows universities to seamlessly connect students and alumni mentors, and organizations to better connect their members. Evisors was founded at Harvard Business School in 2010, inspired by the realization that even the world&rsquo;s best endowed career office couldn&rsquo;t afford enough career coaches to cover the needs of its students. Today, Evisors is funded by VC investors Vocap Ventures, Nebula Ventures and the New York Angels. We have worked with over 50 universities globally (including Oxford, Cambridge and Georgetown) and helped 10,000s of job-seekers land their dream job, but our journey has just begun.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/evisors/zjU8H4"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130701185032_TGTSDZBNMGBA95UC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[PHP engineer @ funded ed-tech startup]]></title>
+			<department><![CDATA[Tech/Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://evisors.theresumator.com/apply/Ie86Gb/PHP-Engineer-Funded-Edtech-Startup.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10014]]></postalcode>
+			<description><![CDATA[<p>
+<em><strong>Join the Evisors Team!</strong></em></p>
+<p>
+As an engineer at Evisors, you&#39;ll be helping people get great jobs by expanding our platform for connecting job seekers with experienced members of their industry. We have the world&#39;s largest network of career advisors and you can help us bring them to the whole world.</p>
+<p>
+<strong>What you</strong><strong>&#39;ll</strong><strong>&nbsp;be doing:</strong></p>
+<ul>
+<li>
+You&#39;ll be a member of our four person engineering team.</li>
+<li>
+We have a custom MVC framework and you&#39;ll be helping us expand and improve it. It&#39;ll be maintainable, reliable, and intuitive for the rest of our team to work with.</li>
+<li>
+Integrating 3rd party APIs, like Twilio, Stripe, and Postmarkapp, Mailchimp, and any other services that help us deliver a great product.</li>
+<li>
+Test driven development. I mentioned reliability; this is part of how we achieve that goal.</li>
+</ul>
+<p>
+<strong>How we work:</strong></p>
+<p>
+We&#39;re mostly scrum, using tools like pivotal tracker and fogbugz to manage our development process. Our daily standup meetings give us an opportunity to synchronize on individual tasks and unblock development. We have weekly dashboard meetings to discuss our metrics and to align with overall team and company goals.</p>
+<p>
+<strong>What you need to get the job:</strong></p>
+<ul>
+<li>
+<em>A strong CS background</em>. You should have a BS in software or extensive industry experience. Know your data structures &amp; algorithm fundamentals: time/space complexity,&nbsp;binary trees, hashes, etc.</li>
+<li>
+<em>Applied knowledge</em>. Most college programs don&#39;t cover things like RESTful APIs, XSS/XSRF &amp; HTML/CSS, but they&#39;re essential knowledge to do what we do.</li>
+<li>
+<em>Problem solving skills</em>. If the above knowledge are the tools, problem solving skills is the capacity to use them.</li>
+<li>
+<em>Time management skills</em>. In a small company like ours, we&#39;re often working on multiple tasks simultaneously. It&#39;s critical to be able to manage this effectively.</li>
+</ul>
+<p>
+<strong>Why Work at Evisors?</strong></p>
+<p>
+We&#39;re ambituous: we&#39;re working hard to make a product with the power to improve people&#39;s career prospects by democratizing the access to great personal career advisors. We work hard to ship great code and we have fun doing it. You&#39;ll own a part of the company.</p>
+<p>
+<strong>About Evisors:</strong></p>
+<p>
+Evisors was founded at Harvard Business School in 2010 and is funded by VC investors Vocap Ventures, Nebula Ventures, and the New York Angels. We have worked with over 50 universities globally (including Oxford, Cambridge and Georgetown) and helped 10,000s of job-seekers land their dream job, but our journey has only just begun. Join the Evisors Team!</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/evisors/Ie86Gb"></script>]]></buttons>
+		</job>
+	</jobs>

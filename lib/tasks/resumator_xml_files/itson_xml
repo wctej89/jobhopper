@@ -1,0 +1,365 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[ItsOn]]></company>
+			<job>
+			<id><![CDATA[job_20130319174345_MREIC0LKNOL5AD64]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Android Development Engineer]]></title>
+			<department><![CDATA[Device Engineering team]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://itson.theresumator.com/apply/lxMm5z/Android-Development-Engineer.html]]></url>
+			<city><![CDATA[Redwood City]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94065]]></postalcode>
+			<description><![CDATA[<p>
+<strong>SENIOR ANDROID ENGINEER<br />
+COMPANY OVERVIEW: ItsOn created the Smart Services&trade; revolution over three years ago. Comprised of pioneers in the wireless and security industries that have a track record of delivering SaaS client-cloud services to over 70 million consumers and invented the core technology behind LTE and WiFi 802.11N, the ItsOn team is well positioned to deliver the next wave of mobile wireless services technology.<br />
+Led by the inventor of core MIMO technology now in all 4G and WiFi standards, Dr. Greg Raleigh, the ItsOn team corporate leadership and technology experience covers Airgo Networks, Amazon Kindle wireless cloud service, Cisco, Clarity Wireless, McAfee, Qualcomm and Verizon. The engineering organization is a team of highly talented device and cloud development engineers, carrier support engineers, OEM support engineers and QA engineers with experience across Android, iPhone, Windows, cloud services, carrier mobile network integration, OEM device integration as well as cloud services hosting and management.<br />
+POSITION OVERVIEW:<br />
+We are currently looking for Senior Android Developers to join our high performance team engaged in architecting, developing and delivering an Android based solution that revolutionizes the way mobile users control their consumption. The role would entail designing and implementing mobile solution on Android devices with a focus on the application layer and user experience.<br />
+IDEAL PROFESSIONAL QUALIFICATIONS:<br />
+*Must have* at least 7 years of hands on experience developing applications on mobile or embedded platforms<br />
+*Must have* at least 2 years of hands on experience developing applications on Android devices<br />
+*Must have* Sound understanding of test driven development and continuous integration<br />
+*Must have* Experience applying design patterns<br />
+*A Plus* Hands on experience with Android kernel developments<br />
+Java, J2ME/J2EE, Publish/Subscribe Framework,<br />
+Good product life cycle experience and SCRUM principles<br />
+Understanding of how to develop a product for mass consumer use<br />
+A Passion for technology and quality<br />
+Can do/Can ship attitude</strong></p>
+<p>
+<strong> IDEAL PERSONAL QUALIFICATIONS:<br />
+&nbsp; *Must have* A Passion for mobile technology. The candidate will be immersed in mobile technology particular Android.<br />
+&nbsp; *Must have* High integrity, trustworthy operator that is intellectually honest yet a fundamental optimist, positive attitude<br />
+&nbsp; *Must have* Self starter who doesn&rsquo;t wait for instructions once the objectives are clear<br />
+&nbsp; Experience in both start ups and larger companies<br />
+&nbsp; Commitment to high standards of excellence and integrity</strong></p>
+<p>
+&nbsp;</p>
+<p>
+Skills: Mobile, Android, Java, Dalvik, J2ME, Embedded development</p>
+<p>
+Android Development Engineer</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/itson/lxMm5z"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130412214155_3FD3YBUXNZTHIJZI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Java Server Engineer]]></title>
+			<department><![CDATA[SaaS Team]]></department>
+			<team><![CDATA[Server Engineering]]></team>
+			<url><![CDATA[http://itson.theresumator.com/apply/eiYlnI/Java-Server-Engineer.html]]></url>
+			<city><![CDATA[Redwood City]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94065]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Java Server Engineer</strong></p>
+<p>
+<strong>COMPANY OVERVIEW:</strong></p>
+<p>
+ItsOn created the Smart Services&trade; revolution over three years ago. Comprised of pioneers in the wireless and security industries that have a track record of delivering SaaS client-cloud services to over 70 million consumers and invented the core technology behind LTE and WiFi 802.11N, the ItsOn team is well positioned to deliver the next wave of mobile wireless services technology.</p>
+<p>
+Led by the inventor of core MIMO technology now in all 4G and WiFi standards, Dr. Greg Raleigh, the ItsOn team corporate leadership and technology experience covers Airgo Networks, Amazon Kindle wireless cloud service, Cisco, Clarity Wireless, McAfee, Qualcomm and Verizon. The engineering organization is a team of highly talented device and cloud development engineers, carrier support engineers, OEM support engineers and QA engineers with experience across Android, iPhone, Windows, cloud services, carrier mobile network integration, OEM device integration as well as cloud services hosting and management.</p>
+<p>
+<strong>POSITION OVERVIEW:</strong></p>
+<p>
+We are currently looking for a Java Developer to join our high performance team engaged in architecting, developing and delivering SaaS applications. The role will entail designing and implementing solutions using architectures, technologies and platforms such as SOA, AJAX, Javascript, HTML, JEE, Web 2.0, Databases and various open source frameworks.</p>
+<p>
+<strong>IDEAL PROFESSIONAL QUALIFICATIONS:</strong></p>
+<p>
+&nbsp;</p>
+<ul>
+<li>
+<strong>*Must have*</strong> Strong Java experience including major frameworks, AJAX, HTML, Javascript, Core Java, Web Services (SOAP, REST), Oracle/Postgres</li>
+<li>
+<strong>*Must have*</strong> Sound understanding of test driven development and continuous integration</li>
+<li>
+<strong>*Must have</strong>* Ability to understand technical issues relating to enterprise class applications</li>
+<li>
+<strong>*Must have*</strong> Experience applying design patterns</li>
+<li>
+Good product life cycle experience and SCRUM principles</li>
+<li>
+Scalability and performance testing</li>
+<li>
+Understanding of how to develop a product for mass market use</li>
+<li>
+A Passion for technology and quality</li>
+<li>
+Understanding of Cloud/SaaS technology</li>
+<li>
+Can do/Can ship attitude</li>
+</ul>
+<p>
+<strong>IDEAL PERSONAL QUALIFICATIONS:</strong></p>
+<ul>
+<li>
+<strong>*Must have*</strong> A Passion for server and java technology. The candidate will be immersed in java and opensource frameworks.</li>
+<li>
+<strong>*Must have* </strong>High integrity, trustworthy operator that is intellectually honest yet a fundamental optimist, positive attitude</li>
+<li>
+<strong>*Must have*</strong> Self starter who doesn&rsquo;t wait for instructions once the objectives are clear</li>
+<li>
+Experience in both start ups and larger companies&nbsp;</li>
+<li>
+Commitment to high standards of excellence and integrity</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+&nbsp;</p>
+<p>
+Skills: Java, J2EE, ActiveMQ, JMS, JBoss, Hybernate, Oracle, MySQL, Spring</p>
+<p>
+Java Server Engineer</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/itson/eiYlnI"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130319175138_Q3R2YAMBH0STJZYB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[QA Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://itson.theresumator.com/apply/Nl5srC/QA-Engineer.html]]></url>
+			<city><![CDATA[Redwood City]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94065]]></postalcode>
+			<description><![CDATA[<p>
+<strong>COMPANY OVERVIEW:</strong></p>
+<p>
+ItsOn created the Smart Services&trade; revolution over three years ago. Comprised of pioneers in the wireless and security industries that have a track record of delivering SaaS client-cloud services to over 70 million consumers and invented the core technology behind LTE and WiFi 802.11N, the ItsOn team is well positioned to deliver the next wave of mobile wireless services technology.</p>
+<p>
+Led by the inventor of core MIMO technology now in all 4G and WiFi standards, Dr. Greg Raleigh, the ItsOn team corporate leadership and technology experience covers Airgo Networks, Amazon Kindle wireless cloud service, Cisco, Clarity Wireless, McAfee, Qualcomm and Verizon. The engineering organization is a team of highly talented device and cloud development engineers, carrier support engineers, OEM support engineers and QA engineers with experience across Android, iPhone, Windows, cloud services, carrier mobile network integration, OEM device integration as well as cloud services hosting and management.</p>
+<p>
+<strong>POSITION OVERVIEW:</strong></p>
+<p>
+The QA Engineers role will be responsible for testing both the client and server software. This will include creating and executing test cases and suites. Automating testing where possible. Using bug management tools to effective report issues and working with Software engineers to trouble shoot them.</p>
+<p>
+<strong>IDEAL PROFESSIONAL QUALIFICATIONS:</strong></p>
+<p>
+- <strong>*Must have*</strong> Sound understanding of QA practices and principles including<br />
+&nbsp; o Test case creation and management<br />
+&nbsp; o Test Automation both white and black box<br />
+&nbsp; o Defect managements and metrics<br />
+-<strong> *Must have*</strong> Good product lifecycle experience and SCRUM principles<br />
+- <strong>*Must have*</strong> Good&nbsp; understanding of how to apply Quality to an agile environment<br />
+- <strong>*Must have*</strong> Mobile Device testing experience<br />
+- Experience of testing the following<br />
+&nbsp; o Web based application<br />
+&nbsp; o Applications on PC and/or Android<br />
+&nbsp; o Scalability and performance<br />
+- Understanding of Cloud/SaaS technology<br />
+- Experience with tools like Selenium, Testrails and Jira<br />
+- Understand of how to test a product for a mass market use consumers<br />
+- Knowledge of Window, Linux and Android operating systems<br />
+- A Passion for quality<br />
+- Can do/Can ship attitude</p>
+<p>
+<br />
+<strong>IDEAL PERSONAL QUALIFICATIONS:</strong></p>
+<p>
+&bull; <strong>*Must have*</strong> A Passion for quality. The candidate will be immersed in quality assurance and a strong understanding of how to apply this to an agile environment.<br />
+&bull; <strong>*Must have*</strong> High integrity, trustworthy operator that is intellectually honest yet a fundamental optimist, positive attitude<br />
+&bull; <strong>*Must have*</strong> Self starter and natural leader, doesn&rsquo;t wait for instructions once the objectives are clear<br />
+&bull; Experience in both start ups and larger companies&nbsp;<br />
+&bull; Passion for technology and/or mobile<br />
+&bull; Commitment to high standards of excellence and integrity</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/itson/Nl5srC"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130321041217_FK5GQK5FKGEOVFID]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Server Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Server Engineering]]></team>
+			<url><![CDATA[http://itson.theresumator.com/apply/VfJqWb/Server-Engineer.html]]></url>
+			<city><![CDATA[San Diego]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[92128]]></postalcode>
+			<description><![CDATA[<p>
+<strong>COMPANY OVERVIEW:</strong></p>
+<p>
+ItsOn created the Smart Services&trade; revolution over three years ago. Comprised of pioneers in the wireless and security industries that have a track record of delivering SaaS client-cloud services to over 70 million consumers and invented the core technology behind LTE and WiFi 802.11N, the ItsOn team is well positioned to deliver the next wave of mobile wireless services technology.</p>
+<p>
+Led by the inventor of core MIMO technology now in all 4G and WiFi standards, Dr. Greg Raleigh, the ItsOn team corporate leadership and technology experience covers Airgo Networks, Amazon Kindle wireless cloud service, Cisco, Clarity Wireless, McAfee, Qualcomm and Verizon. The engineering organization is a team of highly talented device and cloud development engineers, carrier support engineers, OEM support engineers and QA engineers with experience across Android, iPhone, Windows, cloud services, carrier mobile network integration, OEM device integration as well as cloud services hosting and management.</p>
+<p>
+<strong>POSITION OVERVIEW:</strong></p>
+<p>
+We are currently looking for a Java Developer to join our high performance team engaged in architecting, developing and delivering SaaS applications. The role will entail designing and implementing solutions using architectures, technologies and platforms such as SOA, AJAX, Javascript, HTML, JEE, Web 2.0, Databases and various open source frameworks.</p>
+<p>
+<strong>IDEAL PROFESSIONAL QUALIFICATIONS:</strong></p>
+<p>
+&nbsp;</p>
+<ul>
+<li>
+<strong>*Must have*</strong> Sound understanding of test driven development and continuous integration</li>
+<li>
+<strong>*Must have</strong>* Ability to understand technical issues relating to enterprise class applications</li>
+<li>
+<strong>*Must have*</strong> Experience applying design patterns</li>
+<li>
+<strong>*Must have*</strong> Strong Java experience including major frameworks, AJAX, HTML, Javascript, Core Java, Web Services (SOAP, REST), Oracle/Postgres</li>
+<li>
+Good product life cycle experience and SCRUM principles</li>
+<li>
+Scalability and performance testing</li>
+<li>
+Understanding of how to develop a product for mass market use</li>
+<li>
+A Passion for technology and quality</li>
+<li>
+Understanding of Cloud/SaaS technology</li>
+<li>
+Can do/Can ship attitude</li>
+</ul>
+<p>
+<strong>IDEAL PERSONAL QUALIFICATIONS:</strong></p>
+<ul>
+<li>
+<strong>*Must have*</strong> A Passion for server and java technology. The candidate will be immersed in java and opensource frameworks.</li>
+<li>
+<strong>*Must have* </strong>High integrity, trustworthy operator that is intellectually honest yet a fundamental optimist, positive attitude</li>
+<li>
+<strong>*Must have*</strong> Self starter who doesn&rsquo;t wait for instructions once the objectives are clear</li>
+<li>
+Experience in both start ups and larger companies&nbsp;</li>
+<li>
+Commitment to high standards of excellence and integrity</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/itson/VfJqWb"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130319174842_I26XHVXZBJNG562W]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[UI/UX Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://itson.theresumator.com/apply/8QCdzO/UIUX-Engineer.html]]></url>
+			<city><![CDATA[Redwood City]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94065]]></postalcode>
+			<description><![CDATA[<p>
+<strong>COMPANY OVERVIEW:</strong></p>
+<p>
+ItsOn created the Smart Services&trade; revolution over three years ago. Comprised of pioneers in the wireless and security industries that have a track record of delivering SaaS client-cloud services to over 70 million consumers and invented the core technology behind LTE and WiFi 802.11N, the ItsOn team is well positioned to deliver the next wave of mobile wireless services technology.</p>
+<p>
+Led by the inventor of core MIMO technology now in all 4G and WiFi standards, Dr. Greg Raleigh, the ItsOn team corporate leadership and technology experience covers Airgo Networks, Amazon Kindle wireless cloud service, Cisco, Clarity Wireless, McAfee, Qualcomm and Verizon. The engineering organization is a team of highly talented device and cloud development engineers, carrier support engineers, OEM support engineers and QA engineers with experience across Android, iPhone, Windows, cloud services, carrier mobile network integration, OEM device integration as well as cloud services hosting and management.</p>
+<p>
+<strong>POSITION OVERVIEW:</strong></p>
+<p>
+We are seeking User Experience Designer who will be responsible for creating magical user experiences for our new mobile service. This includes mobile device software, web technology and a consumer oriented website. You will work collaboratively with fellow members of the team to conceptualize, design and prototype ideas; then inspire members of Product Management, Engineering and Quality Engineering to develop award winning products.</p>
+<p>
+<strong>IDEAL PROFESSIONAL QUALIFICATIONS:</strong></p>
+<p>
+-<strong> *Must have*</strong> Be able to represent the &quot;User Experience, translate customer requirements into defined specifications and inspire the Engineering team to develop the right product.<br />
+- <strong>*Must have*</strong> Be able to own the design of the most impactful user interface-related features and participate in the product definition process with the Product Manager, Engineering.<br />
+- <strong>*Must have*</strong> Experience developing and maintaining IA, wireframes, design mockups, user scenarios, prototypes, specifications, navigation maps and other design documents.<br />
+-<strong> *Must have*</strong> Worked on user research including user testing, user groups, surveying<br />
+- <strong>*Must have*</strong> Prototyping skills using tools like Flash, Flex, Dreamweaver, Justinmind + knowledge of imaging / video domain applications would be definite plus<br />
+-<strong> *Must have*</strong> Proven track record and a passion for designing compelling, award-winning user interfaces.<br />
+- Significantly influence product strategy and direction.<br />
+- Work with feature development teams to make sure that the workflow reflects the customer&#39;s needs and ensure consistency among features.<br />
+- Develop expert-level knowledge of competitive and complementary products<br />
+and bring new ideas to the team.<br />
+- Define innovative user interfaces and interaction styles which result in<br />
+improved user productivity.<br />
+- Work with external graphic designers as need for visual elements</p>
+<p>
+<strong>IDEAL PERSONAL QUALIFICATIONS:</strong></p>
+<p>
+&bull; <strong>*Must have*</strong> High integrity, trustworthy operator that is intellectually honest yet a fundamental optimist, positive attitude<br />
+&bull; <strong>*Must have* </strong>Self starter who doesn&rsquo;t wait for instructions once the objectives are clear<br />
+&bull; Experience in both start ups and larger companies&nbsp;<br />
+&bull; Commitment to high standards of excellence and integrity<br />
+&bull; A formal education in Interaction Design, Product Design, Industrial&nbsp;Design, HCI, Architecture, or related field and advantage<br />
+&bull; Excellent presentation skills &amp; and attention to detail<br />
+&bull; High degree of creativity, interaction design and problem solving ability<br />
+&bull; Uncanny drive to design the best user experience in the world<br />
+&bull; Strong software design communication skills. (Ability to communicate one&#39;s ideas through their design)</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/itson/8QCdzO"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130318233738_GKEMDCXVFOO1FI0K]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Development Engineer]]></title>
+			<department><![CDATA[eCommerce]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://itson.theresumator.com/apply/3odYOr/Web-Development-Engineer.html]]></url>
+			<city><![CDATA[Redwood City]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94065]]></postalcode>
+			<description><![CDATA[<p>
+Web Development Engineer</p>
+<p>
+<strong>COMPANY OVERVIEW:</strong></p>
+<p>
+ItsOn created the Smart Services&trade; revolution over three years ago. Comprised of pioneers in the wireless and security industries that have a track record of delivering SaaS client-cloud services to over 70 million consumers and invented the core technology behind LTE and WiFi 802.11N, the ItsOn team is well positioned to deliver the next wave of mobile wireless services technology.<br />
+Led by the inventor of core MIMO technology now in all 4G and WiFi standards, Dr. Greg Raleigh, the ItsOn team corporate leadership and technology experience covers Airgo Networks, Amazon Kindle wireless cloud service, Cisco, Clarity Wireless, McAfee, Qualcomm and Verizon. The engineering organization is a team of highly talented device and cloud development engineers, carrier support engineers, OEM support engineers and QA engineers with experience across Android, iPhone, Windows, cloud services, carrier mobile network integration, OEM device integration as well as cloud services hosting and management.</p>
+<p>
+<strong>POSITION OVERVIEW:</strong></p>
+<p>
+We are currently looking for a Web Front/Backend Developer to join our high performance team engaged in architecting, developing and delivering SaaS applications. The roles would entail designing and implementing solutions using architectures, technologies and platforms such as Drupal, SOA, AJAX, Javascript, HTML, JEE, Web 2.0, MySQL and various open source frameworks.</p>
+<p>
+<strong>IDEAL PROFESSIONAL QUALIFICATIONS:</strong></p>
+<p>
+-&nbsp;&nbsp;<strong>*Must have* </strong>Hands on&nbsp;PHP, Javascript, CSS and Drupal experience</p>
+<p>
+- <strong>*Must have*</strong> AJAX, HTML, Web Services (SOAP, REST) experience at scale</p>
+<p>
+<strong>- *Must have*</strong> Sound understanding of test driven development and continuous integration</p>
+<p>
+- <strong>*Must have*</strong> Good product life cycle experience and SCRUM principles<br />
+- <strong>*Must have*</strong> Web development for mobile device web experience<br />
+- Strong site design experience for consumer products<br />
+- Strong eCommerce experience<br />
+- Ability to understand technical issues relating to cloud/consumer/enterprise&nbsp; class applications<br />
+- Experience applying design patterns<br />
+- A Passion for technology and quality<br />
+- Can do/Can ship attitude</p>
+<p>
+<strong>IDEAL PERSONAL QUALIFICATIONS:</strong></p>
+<p>
+&bull; <strong>*Must have*</strong> A Passion for web and mobile technology. The candidate will be immersed in web technology particular Drupal.<br />
+&bull;<strong> *Must have*</strong> High integrity, trustworthy operator that is intellectually honest yet a fundamental optimist, positive attitude<br />
+&bull; <strong>*Must have*</strong> Self starter who doesn&rsquo;t wait for instructions once the objectives are clear<br />
+&bull; Experience in both start ups and larger companies&nbsp;<br />
+&bull; Commitment to high standards of excellence and integrity</p>
+<p>
+&nbsp;</p>
+<p>
+Skills: Javascript, HTML5, CSS, PHP, Drupal, Backbone.js, Bootstrap.js, Apache</p>
+<p>
+Web Development Engineer</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/itson/3odYOr"></script>]]></buttons>
+		</job>
+	</jobs>

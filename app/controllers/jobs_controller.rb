@@ -34,7 +34,7 @@ class JobsController < ApplicationController
   end
 
   def search
-    if params[:search] == "The Brown Team"
+    if params["search"] == "The Brown Team"
       redirect_to 'http://starlogs.net/nas887/jobhopper'
     else
       @results = Job.search(params)

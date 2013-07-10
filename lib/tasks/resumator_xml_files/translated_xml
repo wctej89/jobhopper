@@ -1,0 +1,336 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Tue, 9 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Translated]]></company>
+			<job>
+			<id><![CDATA[job_20130122121323_I5IWTERAVY2FY566]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[International Tender Coordinator]]></title>
+			<department><![CDATA[Business Developement]]></department>
+			<team><![CDATA[Translated Team]]></team>
+			<url><![CDATA[http://translated.theresumator.com/apply/gROIWa/International-Tender-Coordinator.html]]></url>
+			<city><![CDATA[Rome]]></city>
+			<state><![CDATA[RM]]></state>
+			<country><![CDATA[Italy]]></country>
+			<postalcode><![CDATA[00144]]></postalcode>
+			<description><![CDATA[<p>
+<strong>International Tender Coordinator Job Description</strong></p>
+<p>
+TRANSLATED SRL is a leading Multi-Language Service Provider, based in Rome, Italy, and founded in 2000 by a linguist and a computer scientist with the goal of exploiting technology to increase the quality of human translation, while reducing its turnaround time and cost. We have always stood apart from our competitors due to our capacity to integrate technology into the translation process. Today, our team is made up of linguists, computer scientists, project managers, language fanatics and over 68,000 freelance translators managing translation work for over 26,000 customers.</p>
+<p>
+TRANSLATED is recruiting an <strong>International Tender Coordinator</strong> to join our growing team in a 6 month internship. The Tender Coordinator will perform a vital role within the business, working closely with and reporting to TRANSLATED&rsquo;s Director of Business Development. The Tender Coordinator will be responsible for preparing and submitting tender applications. The Tender Coordinator will assist in the recruiting, drafting and submission of quality, credible and impactful documentation for tender proposals to secure new business for the organization.</p>
+<p>
+This is a key role that requires an ability to work under pressure to demanding deadlines, escalating issues as required and creating clear and compelling documentation as part of competitive proposals and tenders in response to solicited and unsolicited opportunities. Our services are delivered across a diverse client portfolio which requires the applicant to have a flexible and analytical approach.</p>
+<p>
+<strong>Key Responsibilities</strong><br />
+&bull; Work in accordance with TRANSLATED&rsquo;s strategic plan and core values.<br />
+&bull; Produce and submit initial expressions of interest where required<br />
+&bull; Draft formal tender documentation for review, approval and submission<br />
+&bull; Identify, recruit and validate the appropriate vendor resources specific to each tender as well as collect, review and edit the required documentation<br />
+&bull; Manage inputs from TRANSLATED&rsquo;s project management, account management and development teams where appropriate to ensure all relevant information is obtained for submissions in accordance with deadlines<br />
+&bull; Ensure all proposals and tenders are compliant, grammatically correct, conform to TRANSLATED&rsquo;s business objectives and are without errors<br />
+&bull; Ensure the final documentation packages are well produced, professionally presented and delivered to the appropriate address in advance of deadlines<br />
+&bull; Support staff and manage the tender proposal submission process<br />
+&bull; Participate in regular meetings to discuss current and forthcoming opportunities</p>
+<p>
+<strong>Specifications</strong><br />
+&bull; A university degree in one of the following areas: Business, Communications, Languages and/or Translation<br />
+&bull; At least 1 year verifiable, successful and relevant work experience in one of the following areas: Tender Proposals, Grant Writing, Project Management, Business Development, Vendor Management and/or Communications Coordination<br />
+&bull; Professional, credible, and comfortable in dealing directly with clients and vendors with excellent people and relationship management skills<br />
+&bull; Excellent communicator, both verbal and written skills, with the ability to see things from the other people&rsquo;s point of view<br />
+&bull; Able to work under tight deadlines, remain calm under pressure, and effectively plan and manage own time and workload<br />
+&bull; Able to work with a team, scheduling and setting clear deadlines to ensure timely submission of tenders and proposals<br />
+&bull; Fluency in English and at least 1 additional language<br />
+&bull; Excellent computer, MS Word, Excel, PowerPoint and typing skills as well as proficient with using the Internet as a research tool. Database skills are also a plus, but not required<br />
+&bull; Above all, passionate about TECHNOLOGY, people, business and languages, self-driven, results-oriented with a positive outlook, a clear focus on delivering high quality work, and a desire for new experiences and responsibilities</p>
+<p>
+<strong>How to apply:</strong><br />
+To express your interest in this position please submit a cover letter, outlining why you are the perfect candidate for this position, a current CV and 3 professional references.</p>
+]]></description>
+			<type><![CDATA[Contracted to Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/translated/gROIWa"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130516113027_CBTDGFCOT1Y4ZLUP]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior PHP Engineer]]></title>
+			<department><![CDATA[IT]]></department>
+			<team><![CDATA[Translated Team]]></team>
+			<url><![CDATA[http://translated.theresumator.com/apply/A9Tb95/Senior-PHP-Engineer.html]]></url>
+			<city><![CDATA[Rome]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Italy]]></country>
+			<postalcode><![CDATA[00144]]></postalcode>
+			<description><![CDATA[<p>
+<strong>General Description</strong></p>
+<p>
+Join a web company working on new technologies that will disrupt the language industry and create innovative services within the translation market. You will work with an international team that is using artificial intelligence technology and web information retrieval to help professional translators being more productive and to provide more efficient services to translation customers through automation and disintermediation.</p>
+<p>
+You will help us to develop Matecat (<a href="http://www.matecat.com">http://www.matecat.com</a>), a new web-based product aimed at creating a new translation environment that integrates innovative approaches to machine translation and increases productivity in translation.</p>
+<p>
+<strong>Primary Objectives</strong></p>
+<p>
+You will be involved in developing the server side core of MateCat and in improving the communication with the user interface and external services used by the tool.</p>
+<p>
+You will be involved in all stages of our engineering life cycle, including architectural design,&nbsp; and will be responsible to write high quality code, in terms of performance, readability and maintainability.</p>
+<ul>
+<li>
+<strong>During the first 30 days, </strong>you will work closely with the UX Engineer and will be involved in developing planned features like advanced filters and integration of an external service using NLP to extract terminology from big data.</li>
+<li>
+<strong>After this initial period</strong>, you will gradually take on new responsibilities to work autonomously on the design and development of further components.</li>
+</ul>
+<p>
+<strong>Skills and Experience</strong></p>
+<ul>
+<li>
+World-class programming skills.</li>
+<li>
+At least 5 years of professional experience as a web developer</li>
+<li>
+In-depth knowledge of: PHP &gt;=5.2 / MySQL</li>
+<li>
+In-depth knowledge of: regular expressions / REST webservices</li>
+<li>
+Knowledge of client side technologies : JQuery / HTML5 (included Websockets) / CSS3</li>
+<li>
+Big data and scalability focused technologies like:&nbsp; NodeJS, MongoDB</li>
+<li>
+Degree, master or doctorate in IT or computer engineering.</li>
+<li>
+A strong knowledge of both written and spoken English.</li>
+<li>
+Good relationship and communication skills.</li>
+<li>
+Propensity to work in an international environment.</li>
+</ul>
+<p>
+We are looking for an open minded person that loves programming, and is focused on the quality and performances.</p>
+<p>
+<br />
+<strong>Company Description</strong></p>
+<p>
+Translated is a language service provider that is changing the language industry by using NLP and AI technology to make translators&rsquo; life easier by minimizing repetitive tasks and making customers happier by reducing traditional agency intermediation.</p>
+<p>
+Translated was founded in 1999 and currently manages over 70,000 translators in 110 countries to provide translation services to more than 30,000 customers.</p>
+<p>
+Translated is focused on serving large businesses, startup and web 2.0 companies that need to speed-up and automate their globalization processes.</p>
+<p>
+Corporations like <strong>Google</strong>, <strong>Amazon</strong> and <strong>HP</strong> use our technologies and services in their localization processes.</p>
+<p>
+Translated uses NLP and AI technology to make translators&rsquo; life easier by minimizing repetitive tasks and making customers happier by reducing traditional agency intermediation.</p>
+<p>
+Thanks to its innovative approach to language technology, Translated has been chosen by Google to create new services for flagship products such as <strong>YouTube</strong> (&nbsp;<a href="http://techcrunch.com/2013/02/20/youtube-partners-with-gengo-and-translated-net-to-make-ordering-paid-caption-translations-easier/">http://techcrunch.com/2013/02/20/youtube-partners-with-gengo-and-translated-net-to-make-ordering-paid-caption-translations-easier/</a>) and, recently, &nbsp;the translation of the apps in the<strong>&nbsp;Google Play Store</strong> ( <a href="http://www.youtube.com/watch?v=9pmPa_KxsAM#t=40m44s">http://www.youtube.com/watch?v=9pmPa_KxsAM#t=40m44s</a>)</p>
+<p>
+Translated has created MyMemory (<a href="http://mymemory.translated.net">http://mymemory.translated.net</a>), the world&rsquo;s largest translation memory, that combines machine translation with over 600 million human contributions. Translated uses MyMemory to increase the quality and speed of translation by suggesting sentences that have already been translated.</p>
+<p>
+<strong>MateCat</strong> is the next big thing on which Translated is currently working: a web-based software that pushes forward what is considered the new frontier of Computer Assisted Translation technology, that is, how to effectively and ergonomically integrate Machine Translation within the human translation workflow.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/translated/A9Tb95"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130523140849_3K8SVLLNPIMVWDMS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[German Account Executive]]></title>
+			<department><![CDATA[Business Developement]]></department>
+			<team><![CDATA[Translated Team]]></team>
+			<url><![CDATA[http://translated.theresumator.com/apply/Hp57Na/German-Account-Executive.html]]></url>
+			<city><![CDATA[Rome]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Italy]]></country>
+			<postalcode><![CDATA[00144]]></postalcode>
+			<description><![CDATA[<p>
+<strong>General description</strong><br />
+<br />
+Reporting to the Account Manager, you will be a key point of contact for Translated&#39;s clients, as they continue to use our services.</p>
+<p>
+<strong>Primary objectives</strong><br />
+<br />
+You will be responsible for receiving individual client requests for some of Translated&#39;s enterprise and institutional clients, mostly German. You will have full responsibility for scoping requests and turning them into client projects, ensuring that appropriate resources are allocated, and guaranteeing a successful handover to project managers, ensuring passage of all relevant information to ensure project success.</p>
+<p>
+You will have a major contribution in ensuring profitability and success of projects, driving customer retention.</p>
+<p>
+You will proactively foresee any projects that will require non-standard management, briefing Account Managers and Project Managers. You will work with them in order to ensure effective resolution.</p>
+<p>
+You will be a key communicator for Translated, also helping new customers by providing them information about our service, and also by drawing up price proposals for them.&nbsp;</p>
+<ul>
+<li>
+<strong>During first 60 days</strong> You will be involved, as project manager, in our core operations in order to understand how the localization industry, and Translated in particular, work.</li>
+<li>
+<strong>During the first 90 days </strong>You will start receiving translation requests from Translated&#39;s key clients and start scoping and preparing projects for handover.</li>
+<li>
+<strong>By the end of the 90 days</strong> You will be a key point of contact in Translated for the clients you are assigned.</li>
+<li>
+<strong>After 12 months&nbsp;</strong>You will be contributing directly to the revenue and profit generated by the clients you service.</li>
+</ul>
+<p>
+<strong>Skill and Experience:</strong></p>
+<ul>
+<li>
+You will be mother tongue German or perfect German, perfect English&nbsp;and Italian,</li>
+<li>
+You will have already worked in customer facing roles,</li>
+<li>
+You will have an ambitious and optimistic nature, and will look to constantly improve your profile with new experience, knowledge, and expertise,</li>
+<li>
+Ideally, you will have already worked in a web company, and have a good understanding of web technologies,</li>
+<li>
+Ideally, you may have already worked in the localization sector,</li>
+<li>
+You will have achieved your degree to an excellent standard, and will be able to demonstrate sound business/commercial sense.</li>
+</ul>
+<p>
+If you think we are looking for you, send us your CV, and tell us how you can make a difference.</p>
+<p>
+<strong>Company Description</strong></p>
+<p>
+Translated is a language service provider focused on serving large businesses, startup and web 2.0 companies that need to speed-up and automate their globalization processes. Thanks to its innovative approach to language technology, it has been chosen by Google to create new services for flagship products such as YouTube (http://techcrunch.com/2013/02/20/youtube-partners-with-gengo-and-translated-net-to-make-ordering-paid-caption-translations-easier/) and, recently, for the translation of apps published in the Google Play Store ( http://www.youtube.com/watch?v=9pmPa_KxsAM#t=40m44s). Moreover, corporations like Amazon, Expedia and HP use our technologies and services in their localization processes. Choose a career at Translated and enjoy an innovative international environment where challenging and interesting work is part of daily life.</p>
+<p>
+<strong>Translated </strong>was founded in <strong>1999 </strong>and currently manages over <strong>73,000</strong> translators in 110 countries to provide translation services to more than 30,000 customers.<br />
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/translated/Hp57Na"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130527153125_ZBOVTU5DNIQADB5T]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Web Designer]]></title>
+			<department><![CDATA[IT & Marketing]]></department>
+			<team><![CDATA[Translated Team]]></team>
+			<url><![CDATA[http://translated.theresumator.com/apply/INsmDl/Senior-Web-Designer.html]]></url>
+			<city><![CDATA[Rome]]></city>
+			<state><![CDATA[Rome]]></state>
+			<country><![CDATA[Italy]]></country>
+			<postalcode><![CDATA[00144]]></postalcode>
+			<description><![CDATA[<h1>
+<strong>General Description</strong></h1>
+<p>
+<strong>Translated</strong> and <strong>Memopal</strong> team up to offer a unique opportunity to the smartest, most creative and innovative web designer. By joining our team you will work on a range of tasks that will challenge your creative side and push you to develop original solutions to guarantee the best communication and user experience for our customers, vendors and software users.</p>
+<p>
+<strong>About Us</strong></p>
+<p>
+<strong>Translated</strong> is a web company working on new technologies that will disrupt the language industry and create innovative services within the translation market.</p>
+<p>
+Thanks to our innovative approach to language technology, we have been chosen by <strong>Google</strong> to create new services for flagship products such as <strong><a href="http://techcrunch.com/2013/02/20/youtube-partners-with-gengo-and-translated-net-to-make-ordering-paid-caption-translations-easier/">YouTube</a></strong> and for the localization of <strong><a href="http://www.youtube.com/watch?v=9pmPa_KxsAM#t=29m32s">Android apps</a>.&nbsp;</strong>Moreover, corporations like <strong>Amazon</strong>, <strong>Expedia</strong> and <strong>HP</strong> use our technologies and services in their localization processes.</p>
+<p>
+Our focus on technology has brought us to develop and launch several products and companies such as <a href="http://www.memopal.com"><strong>Memopal</strong></a>, one of our main successes that in only five years has become a world-leader in the online backup market. Companies like <strong>Hitachi</strong>, <strong>Turk Telekom</strong> and <strong>Avira</strong> choose Memopal as a partner for providing online backup services to their users.</p>
+<p>
+<strong>Some of the cool things that you will find here:</strong></p>
+<ul>
+<li>
+International team - you will be working with people from all around the world.</li>
+<li>
+Fast-paced work and creative environment.</li>
+<li>
+Professionals used to thinking out-of-the box and with a solution-based approach.</li>
+<li>
+Crazy hard work while having fun.</li>
+<li>
+Best place to work: cool villa with a lush garden, shared kitchen, free snacks, beverages and food, weekly massage, spinning etc.</li>
+</ul>
+<p>
+<strong>About You</strong></p>
+<p>
+Your contribution will be instrumental in creating the best user experience for our customers, vendors and software users.</p>
+<p>
+You will:</p>
+<ul>
+<li>
+Work on innovative projects in close cooperation with UX engineers and software developers.</li>
+<li>
+Analyze user needs and come up with creative and effective UI solutions.</li>
+<li>
+Design appealing and engaging products.</li>
+<li>
+Develop innovative solutions to improve communication so as to increase the efficiency of our marketing campaigns.</li>
+<li>
+Create the design and develop smart user interfaces for all our web applications.</li>
+</ul>
+<p>
+<strong>Primary Objectives</strong></p>
+<p>
+You will be involved in the creation of design materials for all our web applications and marketing needs.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Design marketing and promotional materials across print, web, mobile and social media from layout to artwork.</li>
+<li>
+Create web-related designs, including graphic design, site navigation, user interfaces, content layout for our websites and web applications.</li>
+<li>
+Work closely with technical team and marketing team.</li>
+<li>
+Visualize concepts and translate requirements into visual prototypes using state-of-the-art software.</li>
+<li>
+Skills and Experience</li>
+<li>
+At least 5 years of professional experience as a web designer.</li>
+<li>
+Passion for the Internet, knowledge of web content publication processes.</li>
+<li>
+Impeccable attention to details.</li>
+<li>
+Proficient in the use of tools like: Dreamweaver, Adobe Fireworks, Adobe Photoshop, Adobe Illustrator, InDesign.</li>
+<li>
+In-depth knowledge of CSS3 and HTML5.</li>
+<li>
+Knowledge of jQuery.</li>
+<li>
+Focused on the efficiency of user experience in the communication process.</li>
+<li>
+Good knowledge of the English language, written and spoken.</li>
+</ul>
+<p>
+We are looking for an open-minded person with the ability of thinking in and out of the box, generating new and innovative ideas</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/translated/INsmDl"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130701134301_C23BXQMTOHMGAQVQ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Accounting Manager]]></title>
+			<department><![CDATA[Finance]]></department>
+			<team><![CDATA[Translated Team]]></team>
+			<url><![CDATA[http://translated.theresumator.com/apply/GqiKs9/Accounting-Manager.html]]></url>
+			<city><![CDATA[Roma]]></city>
+			<state><![CDATA[Lazio]]></state>
+			<country><![CDATA[Italy]]></country>
+			<postalcode><![CDATA[00144]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Translated </strong>is a language service provider focused on serving large businesses, startup and web 2.0 companies that need to speed-up and automate their globalization processes. Thanks to its innovative approach to language technology, it has been chosen by Google to create new services for flagship products such as <strong>YouTube </strong>(http://techcrunch.com/2013/02/20/youtube-partners-with-gengo-and-translated-net-to-make-ordering-paid-caption-translations-easier/) and, recently, for the translation of apps published in the <strong>Google Play Store</strong> ( http://www.youtube.com/watch?v=9pmPa_KxsAM#t=40m44s). Moreover, corporations like <strong>Amazon, Expedia</strong> and <strong>HP </strong>use our technologies and services in their localization processes. Choose a career at Translated and enjoy an innovative international environment where challenging and interesting work is part of daily life.<br />
+In today&rsquo;s marketplace, Accounting &amp; Financial efficiency is the foundation for a successful business. At Translated, we would not be able to increase our growth witout financial integrity. We are looking for very talented people to join our Accounting Department team in Rome, to fill the position of:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p style="text-align: center;">
+Accounting Manager</p>
+<p>
+Job Summary<br />
+The Accounting Specialist establishes financial status by developing and implementing sy stems for collecting, analyzing, verifying, and reporting financial information.</p>
+<p>
+&bull; Maintains cash flow by monitoring bank balances and cash requirements.<br />
+&bull; Collecting funds.<br />
+&bull; Approves cash disbursements by verifying check amounts against invoices, authorizing checks and wire transfers.<br />
+&bull; Meets accounting financial standards by providing accounting department annual budget information; monitoring expenditures; identifying variances; implementing corrective actions.<br />
+&bull; Maintains material and supply control by proofing and comparing documents.<br />
+&bull; Maintains credit cards by issuing cards; polling transactions; recording purchases.<br />
+&bull; Maintains financial security by following internal accounting procedures.<br />
+&bull; Maintains historical records by microfilming and filing documents.<br />
+&bull; Protects organization&#39;s value by keeping information confidential.<br />
+&bull; Prepares payments by verifying documentation, and requesting disbursements.<br />
+&bull; Maintains customer and translator&rsquo;s confidence, protects operations by keeping financial information confidential.</p>
+<p>
+<strong>Skills/Qualifications</strong>: Attention to Detail, Analyzing Information , Reporting Skills, General Math Skills, Organization, Deadline-Oriented, Thoroughness, Time Management,&nbsp; Accounting, Corporate Finance, Reporting Skills, Confidentiality, Data Entry Management.</p>
+<p>
+<strong>Language skills</strong>: Italian &amp; English mandatory and 1 other language among&nbsp; French, German or Spanish.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/translated/GqiKs9"></script>]]></buttons>
+		</job>
+	</jobs>

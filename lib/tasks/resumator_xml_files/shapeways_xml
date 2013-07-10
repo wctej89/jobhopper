@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Shapeways]]></company>
+			<job>
+			<id><![CDATA[job_20111227215309_JMYJEG7YHJFC6RUE]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://shapeways.theresumator.com/apply/PliQHY/Software-Engineer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10016]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Software Engineer</strong><br />
+	New York, NY, United States</p>
+<p>
+	Do you want to help change the world? We believe that 3D printing is the new way to manufacture anything you want. Using 3D printing we enable our users to design, personalize, buy and sell their custom-made products (puzzles, gadgets, trains, jewelry, art, etc). Shapeways.com is home to a large and diverse community of artists and enthusiasts, who engage in everything from collaborative creation to selling their 3D designs as products through the unique Shapeways Shops, an international marketplace for user created 3D printed products.</p>
+<p>
+	<br />
+	<strong>Position summary</strong></p>
+<p>
+	Shapeways is seeking software engineers to join our growing web development team. We are driven technologists who possess a blend of business savvy, product intuition, and superb coding skills. We run a LAMP stack for our consumer facing products, and have C/C++, Java, Python, and other technologies in our back-office and supply chain tools.</p>
+<p>
+	<br />
+	<strong>Responsibilities</strong>:</p>
+<ul>
+	<li>
+		Build new features and fix bugs on all Shapeways web properties</li>
+	<li>
+		Deploy software to production</li>
+	<li>
+		Design and upgrade our software architecture</li>
+	<li>
+		Mentor developers and run code reviews</li>
+	<li>
+		Collaborate with Product team on features and improvements</li>
+</ul>
+<p>
+	<strong>Qualifications:</strong></p>
+<ul>
+	<li>
+		4+ years or as a software engineer in a consumer facing e-commerce website</li>
+	<li>
+		Bachelor or higher preferably with a major in computing science or similar</li>
+	<li>
+		Familiar with PHP, Apache, MySQL, VCS, caching, Javascript, HTML, CSS</li>
+	<li>
+		Intimate knowledge of software development methodologies and processes</li>
+</ul>
+<p>
+	<strong>Skills / Abilities</strong></p>
+<p>
+	We understand that you may be more back-end or front-end, but we prefer end-to-end developers</p>
+<ul>
+	<li>
+		Linux/Unix</li>
+	<li>
+		SVN including individual and feature branching (Git a plus)</li>
+	<li>
+		Ability to read code in any language</li>
+	<li>
+		Ability to collaborate with Product team on project scope and functionality</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/shapeways/PliQHY"></script>]]></buttons>
+		</job>
+	</jobs>

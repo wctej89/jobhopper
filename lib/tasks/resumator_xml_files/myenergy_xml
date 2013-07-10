@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[MyEnergy]]></company>
+			<job>
+			<id><![CDATA[job_20120221174632_L5JEUZRXI6YRFQDQ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Rails Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://myenergy.theresumator.com/apply/KeNVo4/Rails-Engineer.html]]></url>
+			<city><![CDATA[Boston]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02109]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>What we&#39;re looking for</strong><br />
+	We&#39;re building the consumer side of the universal energy internet on Rails, and we&#39;re looking for talented Rubyists to bring it to life. Working atop datasets never before accessed and assembled in the same place, you&#39;ll build experiences and interactions that make a difference here at home and the world over. Frontend. Backend. We&#39;re looking for folks who are versatile and comfortable on all sides of a sophisticated web application, who aren&#39;t fazed by the difficult and who envision and execute on concepts never before possible.</p>
+<p>
+	<strong>Problems You&#39;ll Tackle</strong></p>
+<ul>
+	<li>
+		Energy Efficiency: Build a product that can have an impact on climate change &amp; the future of energy.</li>
+	<li>
+		User Growth: Create a clear and impactful signup experience that drives us toward many millions of users.</li>
+	<li>
+		Maintainability: Take what&#39;s useful from XP and agile to make sure that we&#39;re writing awesome code using practices like BDD, pair programming, and daily standups.</li>
+	<li>
+		Product design: Envision and execution on product features and entirely new products.</li>
+	<li>
+		Visualization: Create beautiful and meaningful visualizations that impact consumer energy usage.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/myenergy/KeNVo4"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120405174553_SCGPJ1O0HWOAMGYH]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front End Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://myenergy.theresumator.com/apply/jcey9N/Front-End-Developer.html]]></url>
+			<city><![CDATA[Boston]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02109]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>What we&#39;re looking for.</strong></p>
+<p>
+	We are looking for someone who knows that beauty is defined not only by an outside appearance and even more so by what&#39;s on the inside. We need someone who can bring designs to life and who cares about making the code just as beautiful. We don&#39;t want a code monkey but rather someone who cares and can provide value from the design stage all the way through production.</p>
+<p>
+	<br />
+	<strong>Does this sound something like you?</strong></p>
+<ul>
+	<li>
+		Extensive experience of CSS, XHTML, and jQuery</li>
+	<li>
+		Experience building and defining scalable front-end code.</li>
+	<li>
+		Can work with other people&#39;s code.</li>
+	<li>
+		Cares about speed and optimization</li>
+	<li>
+		Not afraid to make a design decision when no design is present.</li>
+</ul>
+<p>
+	<strong>Things that may give you the edge.</strong></p>
+<p>
+	&nbsp;</p>
+<ul>
+	<li>
+		Experience working within a Rails environment</li>
+	<li>
+		Experience building charts and graphs</li>
+	<li>
+		You are an energy nerd.</li>
+	<li>
+		You can serenade the office with your beautiful voice.</li>
+	<li>
+		Sincerely wants to make an effort to change the world</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/myenergy/jcey9N"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121022154449_RPRKFYDZVADLA3OX]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[DevOps Engineer]]></title>
+			<department><![CDATA[Boston Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://myenergy.theresumator.com/apply/jmjEJo/DevOps-Engineer.html]]></url>
+			<city><![CDATA[Boston]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02109]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>What we&#39;re looking for</strong></p>
+<p>
+	We&#39;re building the consumer side of the universal energy internet on Rails, and we&#39;re looking for multiskilled engineers that are equally comfortable getting their metaphorical fingers deep in the code, their virtual fingers floating in the cloud, and their physical fingers dirty in a laptop upgrade. You&#39;ll collaborate with all members of our development and product staff in building consumer facing web infrastructure, publishers and consumers of web APIs, and evolving a fast changing development environment. Working atop datasets never before accessed and assembled in the same place, you&#39;ll build experiences and interactions that make a difference here at home and the world over. We&#39;re looking for folks who are versatile and comfortable on all sides of a sophisticated web application, who aren&#39;t fazed by the difficult and who envision and execute on concepts never before possible.</p>
+<p>
+	<strong>Problems You&#39;ll Tackle</strong></p>
+<ul>
+	<li>
+		Data Collection: Integrate data feeds from thousands of sources into simple, clear models that support visualization of energy usage on a national scale.</li>
+	<li>
+		Scaling and Deployment: Build and refine a fast changing balance of SAAS, IAAS, and local resources in support of a portfolio of high capacity consumer and business applications and services.</li>
+	<li>
+		Development: Like to code? Over half of our staff contributes to our code base, and you&#39;ll have a range of interesting opportunities to show your chops.</li>
+	<li>
+		Energy Efficiency: Build a product that can have an impact on climate change &amp; the future of energy.</li>
+	<li>
+		User Growth: Create a clear and impactful signup experience that drives us toward many millions of users.</li>
+</ul>
+<p>
+	<strong>Your Job Duties</strong></p>
+<ul>
+	<li>
+		Depoly and Maintain multiple Heroku and AWS applications under the direct supervision of the VP Engineering</li>
+	<li>
+		Develop and extend Rails applications for data import</li>
+	<li>
+		Collaborate with entire engineering team on system architecture and development practices</li>
+</ul>
+<p>
+	<strong>Why MyEnergy?</strong></p>
+<ul>
+	<li>
+		Awesome downtown location</li>
+	<li>
+		Full Health and Life insurance, and excellent Dental coverage</li>
+	<li>
+		Competitive Salary</li>
+	<li>
+		Great working environment</li>
+	<li>
+		Bike friendly</li>
+</ul>
+<p>
+	&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/myenergy/jmjEJo"></script>]]></buttons>
+		</job>
+	</jobs>

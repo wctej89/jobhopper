@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Workshare]]></company>
+			<job>
+			<id><![CDATA[job_20130306162050_5G0HF5OGLGTPB0SU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Data Scientist - London, UK]]></title>
+			<department><![CDATA[Programme Management]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://workshare.theresumator.com/apply/lBWrtR/Data-Scientist-London-UK.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[London]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[E1 6PX]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Summary</strong></p>
+<p>
+We are looking for a dynamic Data Scientist to join our Lean Product Management team. The Data Scientist will work closely with the VP of Programme Management and VP of Product Management to analyse an amazing wealth of data to improve every aspect of our service.</p>
+<p>
+The ideal candidate will combine a deep passion for innovative use of data in a real world business context with a high degree of pragmatism.</p>
+<p>
+<strong>Essential Duties and Responsibilities</strong></p>
+<ol>
+<li>
+Work with the product and business teams to identify opportunities to use data to improve Workshare&rsquo;s existing product offerings, develop new products and services, as well as generally understanding Workshare&rsquo;s business and the social collaboration space better.</li>
+<li>
+Help define appropriate metrics and models to ensure that Workshare is able to understand how the Company products and services are performing, and advise on strategies for collecting appropriate data.</li>
+<li>
+Work with the Programme Management team to develop and maintain data products and tools for use across the broader company.</li>
+<li>
+Build models based on our data to better understand current trends and predict the likely effects of business decisions.</li>
+<li>
+Identify cases where there is value in collecting new types of data and work with third parties and members of the Workshare team to complete the data acquisition process.</li>
+<li>
+Advise the development team on the technical implementation of any products which make heavy use of data or data analysis technology.</li>
+</ol>
+<p>
+<strong>Qualifications:</strong></p>
+<ol>
+<li>
+A highly analytical approach. Ability to express business and product questions in precise terms and explore hypotheses systematically and scientifically.</li>
+<li>
+A background in data modelling, statistics, business intelligence, funnel/cohort analysis, etc. in a real-world business environment. The successful candidate will ideally have experience in a similar role.</li>
+<li>
+The ability to get things done and vigorously apply the 80/20 rule.</li>
+<li>
+Exceptional communication skills, whether with both technical and non-technical team members.</li>
+<li>
+A strong business sense and appreciation of how the work of the Data Scientist fits into the decision making process.</li>
+<li>
+Sufficient experience with software development to automate routine tasks and perform analysis at scale (MySQL, RoR, JS, R, MixPanel, Google Analytics, ..).</li>
+<li>
+University degree in mathematics or computer science (or other quantitative subjects)</li>
+</ol>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/workshare/lBWrtR"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130306171158_LIJF7T9VSXS6AJCO]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[SysAdmin/DevOps engineer - London, UK]]></title>
+			<department><![CDATA[Programme Management]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://workshare.theresumator.com/apply/zDrwCp/SysAdminDevOps-Engineer-London-UK.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[London]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[E1 6PX]]></postalcode>
+			<description><![CDATA[<p>
+<strong>We are</strong><br />
+Workshare is a next-generation enterprise collaboration platform that facilitates multi-party collaboration across departments, between offices, clients and among partners. Workshare solutions are used by individuals and organizations of all sizes to increase productivity and protect confidential information. Our mission is to provide a fully integrated, highly secure, enterprise-grade file sharing, collaboration and social platform across mobile, web and desktop.</p>
+<p>
+<strong>We seek</strong><br />
+Working in our HQ in East London, as a SysAdmin/DevOps engineer, you will be part of a talented agile development team building the Workshare platform and will report to the Senior Architect.</p>
+<p>
+<strong>Our tech stack</strong><br />
+AWS, Ubuntu, Gentoo, Vagrant, Chef, Puppet, Ruby, Rails, Node.js, MySQL, PostgreSQL, MongoDB, Redis, HAProxy, Apache, nginx, Tomcat, Java, Spring, Hibernate, Hazelcast, Solr, git, Maven, JavaScript, .NET, Selenium, Jenkins, Jira, Artifactory, VirtualBox, CloudSigma, Sonar, Linux, Mac OS X, Windows, iOS and Android devices.</p>
+<p>
+<strong>You are</strong></p>
+<ul>
+<li>
+An exceptional system administrator engineer, you can both support agile software development teams and follow production environments.</li>
+<li>
+A strong believer and committed practitioner of agile and lean methodologies, you understand the principles behind them beyond the buzzwords.</li>
+<li>
+Capable of troubleshooting production environments problems to the finest detail and collaborate closely with QA and developers for resolution.</li>
+<li>
+Deeply rooted in the DevOps culture, you do get &quot;infrastructure as code&quot;.</li>
+<li>
+A relentless automator and fond of anything continuous: integration, deployment and delivery, you know how to make the life the members of your team better through automation of every possible repeatable task.</li>
+<li>
+Skilled in cloud and virtualization, you understand IaaS, PaaS and SaaS and are able to setup private and public cloud infrastructures as well as repeatable virtualized environments for testing and deployment.</li>
+<li>
+Experienced in high availability, security and scaling technologies for the internet, you can setup operations to guarantee production SLAs.</li>
+</ul>
+<p>
+<strong>You have</strong></p>
+<ul>
+<li>
+Extensive experience in network, database and operating systems.</li>
+<li>
+Proven skills in Unix shell scripting.</li>
+<li>
+Production experience with public clouds like AWS, Rackspace or similar.</li>
+<li>
+Proven skills in automated tools for system provisioning like Chef, Puppet and Vagrant for local testing environment setups.</li>
+<li>
+Administered web applications (Java, Rails, .NET) and used monitoring software (Nagios, Zabbix) or cloud services (New Relic, Airbrake, SendGrid, MixPanel).</li>
+<li>
+Setup and supported software factories using Jira, Jenkins, Maven and git, rake, bundler.</li>
+</ul>
+<p>
+<strong>You should ideally have</strong></p>
+<ul>
+<li>
+BSc or Msc in Computer Science from a top university.</li>
+<li>
+Setup a private cloud infrastructure using CloudStack, OpenStack or similar and have strong knowledge of provisioning and packaging tools.</li>
+<li>
+Production support experience with NoSQL databases like MongoDB, Redis, OrientDB, Cassandra.</li>
+<li>
+Setup usage metrics collection system and related reporting and visualization to support business validation of new features.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/workshare/zDrwCp"></script>]]></buttons>
+		</job>
+	</jobs>

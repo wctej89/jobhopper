@@ -1,0 +1,505 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Voxy]]></company>
+			<job>
+			<id><![CDATA[job_20130112225802_JBCIRW736ERYGHVL]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Head of Marketing]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://voxy.theresumator.com/apply/eN4Sn9/Head-Of-Marketing.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10012]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Rapidly growing Ed Tech company seeks Head of Marketing</strong></p>
+<p>
+<strong><u>Company Description</u></strong><br />
+Voxy is a NYC-based company that is using mobile/web applications and sophisticated personalization technology to disrupt the $80B market for language education.&nbsp; Since launch in 2010 as a TechCrunch Disrupt finalist, Voxy has grown to over 2M users, tens of thousands of paying customers, and has the #1 rated education app in Brazil, Mexico, and dozens of other countries around the world.&nbsp; Voxy is backed by leading education investors, and has been recognized as a pioneer by The New York Times, CNN Money, Fast Company, Mashable, Univision, Veja (Brazil), Venturebeat, and others.</p>
+<p style="text-align: center;">
+<em>Recognized by Business Insider:</em></p>
+<p style="text-align: center;">
+<strong><a href="http://www.businessinsider.com/10-of-the-best-us-tech-companies-to-work-for-in-2012-2012-3#ixzz29ZXEQUzg">The 10 Best US Tech Companies To Work For In 2012</a></strong></p>
+<p>
+<u><strong>Role Description</strong></u><br />
+We are looking for an aggressive and talented online marketing superstar to lead customer acquisition, retention, and monetization for our rapidly growing global subscription business.&nbsp; The ideal candidate will be entrepreneurial, results-oriented, and love new challenges.&nbsp; We are serious about changing global education, and we are marketing a ground-breaking learning product across multiple platforms in developing markets all over the world.&nbsp; You will be obsessed with winning and enjoy the quantitative, results-oriented nature of online marketing, but also know how to build a team and work in a highly collaborative environment.&nbsp; While the role also will manage brand, PR and other marketing functions, there is a <strong>heavy emphasis on performance marketing to drive profitable conversions.</strong></p>
+<p>
+<br />
+This role reports directly to the CEO and has board-level responsibility, yet will also need to be in the trenches, building a team, and creatively solving problems.&nbsp; A hybrid CRO / &ldquo;growth hacker&rdquo;.</p>
+<p>
+<u><strong>Responsibilities</strong></u></p>
+<ul>
+<li>
+As part of the 6-person management team, provide senior leadership for the entire revenue function of the company</li>
+<li>
+Grow ROI-driven marketing spend from current level ($50k / month) to $1M / month</li>
+<li>
+Develop, implement and manage the company&rsquo;s mobile &amp; web paid customer acquisition strategy; including SEO/SEM, display, email, affiliate and social</li>
+<li>
+Manage, mentor, and train a team of 2 junior marketers to continually improve ROI of marketing spend (LTV/CPA); manage ad networks, agencies, and other partners</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+<strong>Demonstrated track record in user acquisition, engagement, retention and monetization for online service (5-10 years experience); management of marketing budgets of $1M+</strong></li>
+<li>
+Love of data; familiar with the metrics, analytics, and statistics of quantitative marketing</li>
+<li>
+Deep understanding of cohort analysis and the psychology that drives online engagement and purchases; understand funnels, customer segmentation, lead scoring, etc.</li>
+<li>
+Experience in online education a huge plus</li>
+<li>
+Familiarity with international online marketing (Brazil, LatAm, Asia) a huge plus</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Senior Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/voxy/eN4Sn9"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130314151619_VQ4508D2BMTOG6QU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[DevOps Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://voxy.theresumator.com/apply/OyEOF4/DevOps-Engineer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10012]]></postalcode>
+			<description><![CDATA[<p>
+<strong>COMPANY DESCRIPTION</strong></p>
+<p>
+Voxy is a NYC-based company that is using mobile/web applications and sophisticated personalization technology to disrupt the $80B market for language education. Voxy offers an entirely new, highly effective, and proven approach to language learning, that turns the media that you consume, the conversations that you have, and the activities you do into powerful contextual language lessons that are available anytime, anywhere. Since launch in 2010 as a TechCrunch Disrupt finalist, Voxy has grown to over 2M users, tens of thousands of paying customers, and has the #1 rated education app in Brazil, Mexico, and dozens of other countries around the world.&nbsp; Voxy is currently focused on teaching English to Spanish and Portuguese speakers, but is rapidly expanding into new markets and new languages to reach the billions of language learners across the globe.</p>
+<p style="text-align: center;">
+Recognized by Business Insider:<br />
+The 10 Best US Tech Companies To Work For In 2012</p>
+<p>
+&nbsp;</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>POSITION DESCRIPTION</strong></p>
+<p>
+Voxy is building a globally distributed architecture with endpoints in multiple AWS regions to serve our customers around the globe.&nbsp; We are looking for an experienced SysOp or Engineer to automate, monitor and tune our infrastructure.&nbsp; You will work as a member of the engineering team to ensure our architecture is highly available, fast, and easily expandable.</p>
+<p>
+<strong>RESPONSIBILITIES</strong></p>
+<p>
+Instrument logging, measurement and monitoring systems to quantify performance and service availability.&nbsp; Work with engineering to build systems that are more available, robust and efficient.</p>
+<p>
+Automate the following areas:</p>
+<ul>
+<li>
+Configuration and package management with Chef</li>
+<li>
+Common tasks in a scripting language of your choice (we &lt;3 python)</li>
+<li>
+Deployment (we use Fabric)</li>
+<li>
+Enhancements to our IRC bots to give them even more unreasonable amounts of power</li>
+</ul>
+<p>
+Participate in pager duty for on-call response to production issues</p>
+<p>
+Care and feeding of Linux servers in VPS environments inc. AWS</p>
+<p>
+<strong>QUALIFICATIONS</strong></p>
+<p>
+Experience working in a high growth environment, focused on scalability and high availability&nbsp;</p>
+<p>
+Grok CAP theorem and sharding concepts, experience configuring hot failover or multi-master database replication (we use PostgreSQL and Mongodb)</p>
+<p>
+Enthusiasm for security and cryptography, deep experience with ssh, ssl, ipsec, iptables</p>
+<p>
+Empirical and ambitious attitude towards performance. You know how to profile code, read an SQL query plan and stress test systems.&nbsp; You are a catalyst for quality and efficiency</p>
+<p>
+Familiarity with testing/CI methodology and tools</p>
+<p>
+Excellent troubleshooting skills</p>
+<ul>
+<li>
+breakfast: Nagios, Pingdom, New Relic, Sentry</li>
+<li>
+lunch: syslog, logstash, Munin/Ganglia, StatsD/Diamond, Graphite/Riemann/Librato</li>
+<li>
+dinner: strace, lsof, netcat, ntop/netstat, tshark/tcpdump</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/voxy/OyEOF4"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130520172422_C9OFLCZEEHTP07CL]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Backend Developer]]></title>
+			<department><![CDATA[Tech]]></department>
+			<team><![CDATA[Tech]]></team>
+			<url><![CDATA[http://voxy.theresumator.com/apply/hlnweP/Backend-Developer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10012]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Role Summary</strong></p>
+<p>
+Our product design is driven by efficacy research in second language acquisition, but we are truly differentiated in the language market by our cutting edge technology platform, serving web and native Android and iOS clients.&nbsp; We are building a scalable service oriented platform around patented algorithms, not a cardboard box around a CD-ROM, so our tech-driven startup culture is unique in the language education market.&nbsp; Members of the backend team solve hard problems using a bewildering array of open source software, here&rsquo;s what we&rsquo;ve been using in the last 6 months: mongodb, postgresql, redis, rabbitmq, beanstalkd, elastic search, hadoop+pig+EMR, numpy/scipy/scikit-learn, NLTK, memcached, varnish, nginx, uwsgi, python, gevent, bottle.py, django, fabric, chef, jenkins+nose and naturally it&rsquo;s all checked into git.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Devops: participate in on-call rotation and contribute to the automation of our infrastructure, deployment and CI systems with chef and fabric</li>
+<li>
+Solve hard problems in a highly collaborative agile/scrum environment.&nbsp; Build new backend APIs, internal tools and web services to fulfill product needs</li>
+<li>
+Communication and peer mentorship; bring something new to the table and spread your knowledge</li>
+</ul>
+<p>
+<strong>Experience</strong></p>
+<ul>
+<li>
+Demonstrated experience developing and shipping software in a startup environment</li>
+<li>
+Programming language mastery; python preferred, polyglots happily indoctrinated</li>
+<li>
+Relational and non-relational data design that is performant and extensible</li>
+<li>
+SQL fluency is a big plus (there&rsquo;s some PostgresQL here), but we primarily use mongodb and redis.</li>
+<li>
+Penchant for testing, measurement and instrumentation; you strive to build fast code with few errors which is easy to analyze and debug in production.</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Bonus round</strong></p>
+<p>
+In order to turn real world content into language learning tools we employ a number of interesting computational methods: NLP; Information Retrieval; Graph algorithms; Machine Learning; Map/Reduce-driven analysis.&nbsp; Members of the engineering team are encouraged to learn about these areas and contribute to the core IP of the product.</p>
+<p>
+<strong>Working here, you&#39;ll enjoy</strong></p>
+<ul>
+<li>
+Competitive salary and stock options</li>
+<li>
+Medical, Dental, Vision, Flex Spending benefits</li>
+<li>
+Sweet space in Noho with an awesome team of super creative, talented and motivated individuals with whom to collaborate</li>
+</ul>
+<p>
+<strong>About Us</strong></p>
+<br />
+<p>
+Voxy is a NYC-based company that is using mobile/web applications and sophisticated personalization technology to disrupt the $80B market for language education. Since launch in 2010 as a TechCrunch Disrupt finalist, Voxy has grown to over 2.5M users, tens of thousands of paying customers, and has the #1 rated education app in Brazil, Mexico, and dozens of other countries around the world. Voxy is backed by leading education investors, and has been recognized as a pioneer by The New York Times, CNN Money, Fast Company, Mashable, Univision, Veja (Brazil), Venturebeat, and others.</p>
+<p>
+&nbsp;</p>
+<p style="text-align: center;">
+<em>Recognized by Business Insider:</em></p>
+<p style="text-align: center;">
+<strong><a href="http://www.businessinsider.com/10-of-the-best-us-tech-companies-to-work-for-in-2012-2012-3#ixzz29ZXEQUzg">The 10 Best US Tech Companies To Work For In 2012</a></strong></p>
+<p style="text-align: center;">
+&nbsp;</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/voxy/hlnweP"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130529124954_B2V6WNB9EMEDRL9O]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Android Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Tech]]></team>
+			<url><![CDATA[http://voxy.theresumator.com/apply/aKddAP/Android-Developer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10012]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Role Description</strong></p>
+<p>
+Do Intents and the Fragment Lifecycle fascinate you? Do you get annoyed when an Android app looks like a webpage, or even worse - when it looks like an iOS app? If so, come join the team at Voxy and help us leverage mobile to disrupt language learning! We build fast, native apps targeting over 2000 devices from budget smartphones to monstrous tablets. Our Android and iOS apps leverage our internal backend API and patented algorithms to provide each Voxy user with a unique and adaptive learning experience. As an Android developer, you&rsquo;ll work alongside our mobile and backend developers, endeavoring to build new personalized and gamified experiences for our millions of learners.</p>
+<p>
+<strong>Qualifications</strong></p>
+<ul>
+<li>
+Outstanding engineering talent as shown through past projects and positions, either independent or professional</li>
+<li>
+1-2 years of experience with the Android platform and development environment, with an app in Google Play to which you contributed</li>
+<li>
+4 years of experience in software development and expert-level understanding of object oriented patterns and principles</li>
+<li>
+Comfortable with advanced and adaptive Android UI patterns using Fragments and Configuration Qualifiers</li>
+<li>
+Degree in Computer Science preferred but not required</li>
+</ul>
+<p>
+<strong>Extras</strong></p>
+<ul>
+<li>
+C++, NDK, or JNI experience</li>
+<li>
+iOS and other mobile experience - we&rsquo;re looking for developers who are enthralled by the mobile space</li>
+<li>
+Experience developing and/or consuming RESTful APIs</li>
+</ul>
+<p>
+<strong>Working here, you&#39;ll enjoy</strong></p>
+<ul>
+<li>
+Competitive salary and stock options</li>
+<li>
+Medical, Dental, Vision, Flex Spending benefits</li>
+<li>
+Sweet office space in downtown Manhattan, with an awesome team of super creative, talented, and motivated individuals</li>
+</ul>
+<p>
+<strong>About us</strong><br />
+Voxy is a NYC-based company that is using mobile/web applications and sophisticated personalization technology to disrupt the $80B market for language education. Since launch in 2010 as a TechCrunch Disrupt finalist, Voxy has grown to over 2.5M users, tens of thousands of paying customers, and has the #1 rated education app in Brazil, Mexico, and dozens of other countries around the world. Voxy is backed by leading education investors, and has been recognized as a pioneer by The New York Times, CNN Money, Fast Company, Mashable, Univision, Veja (Brazil), Venturebeat, and others.</p>
+<p>
+&nbsp;</p>
+<p style="text-align: center;">
+<em>Recognized by Business Insider:</em></p>
+<p style="text-align: center;">
+<strong><a href="http://www.businessinsider.com/10-of-the-best-us-tech-companies-to-work-for-in-2012-2012-3#ixzz29ZXEQUzg">The 10 Best US Tech Companies To Work For In 2012</a></strong></p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/voxy/aKddAP"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130529185014_GYSHQGTHE8AORG9P]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Computational Linguist Intern]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Tech]]></team>
+			<url><![CDATA[http://voxy.theresumator.com/apply/cSUQ4a/Computational-Linguist-Intern.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10012]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Position Description</strong></p>
+<p>
+The intern will report to the Director of Engineering and work closely with both the Tech team and Pedagogy team as well as collaborate with other teams across Voxy as needed.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Assist with using natural language processing to solve real-world problems in an established consumer product</li>
+<li>
+Use natural language processing techniques to refine keyword extraction algorithm</li>
+<li>
+Apply knowledge of programming and computational linguistics to automate and scale pedagogic programming for English language learners</li>
+</ul>
+<p>
+<strong>About You</strong></p>
+<ul>
+<li>
+Current MA or PhD student in Computational Linguistics</li>
+<li>
+Experience programming in Python</li>
+<li>
+Experience using NLTK and other tools for NLP</li>
+<li>
+Solid verbal and written communication skills</li>
+<li>
+Interest in working on algorithm for keyword extraction as well as adapting NLP techniques for a language learning product</li>
+<li>
+A desire to work in a tech startup environment (fast-paced, self-starter)</li>
+</ul>
+<br />
+<p>
+<em>Voxy Interns are full-time, paid employees with mission critical responsibilities and roles. As a Voxy Pedagogy Intern you will:</em></p>
+<ul>
+<li>
+Gain experience using NLP to solve real world problems in an established consumer product</li>
+<li>
+Opportunity to think about novel uses of NLP in language education</li>
+<li>
+Work side by side with management on critical business activities</li>
+<li>
+Get exposure to a fast moving, well-funded, world-changing start-up environment</li>
+<li>
+Have fun with a motivated, super-smart and ambitious team</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>About us</strong></p>
+<p>
+Voxy is a NYC-based company that is using mobile/web applications and sophisticated personalization technology to disrupt the $80B market for language education. Since launch in 2010 as a TechCrunch Disrupt finalist, Voxy has grown to over 2.5M users, tens of thousands of paying customers, and has the #1 rated education app in Brazil, Mexico, and dozens of other countries around the world. Voxy is backed by leading education investors, and has been recognized as a pioneer by The New York Times, CNN Money, Fast Company, Mashable, Univision, Veja (Brazil), Venturebeat, and others.</p>
+<p>
+&nbsp;</p>
+<p style="text-align: center;">
+<em>Recognized by Business Insider:</em></p>
+<p style="text-align: center;">
+<strong><a href="http://www.businessinsider.com/10-of-the-best-us-tech-companies-to-work-for-in-2012-2012-3#ixzz29ZXEQUzg">The 10 Best US Tech Companies To Work For In 2012</a></strong></p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Internship]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/voxy/cSUQ4a"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130604132345_194PEQWAINVU5T7T]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Technical Project Manager / Scrum Master]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://voxy.theresumator.com/apply/1xal9y/Technical-Project-Manager-Scrum-Master.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10012]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Position Description</strong></p>
+<p>
+In this hybrid role you will have both general project management responsibilities as well work closely with the engineering team in a scrum master capacity. You will manage the task calendar for our engineering, product and design teams to help them work together more efficiently and perform at the highest levels. Your primary responsibility will be to drive integrated team efforts that will result in successful execution of project initiatives, and to encourage teams to follow the Agile framework. Additional responsibilities will vary day-to-day and include educating and training team members to support a continuous and transparent process improvement philosophy.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<p>
+<strong>A. Project Management</strong></p>
+<ul>
+<li>
+Collaborate with Product and Engineering teams to define the detailed project deliverables</li>
+<li>
+Develop project plans, goals, and work within guided budget plans; identify resources needed, develop schedules and methods for measuring results</li>
+<li>
+Ensure that each project work breakdown structure is clarified, prioritized and assigned to the appropriate team member</li>
+<li>
+Create, maintain and enforce project timelines, milestones and deliverables across all channels to ensure on-time completion</li>
+<li>
+Oversee the preparation and dissemination of project communications including escalation of project issues and risks (as appropriate)</li>
+<li>
+Recommend and oversee process re-engineering as applicable</li>
+</ul>
+<p>
+<strong>B. Scrum Master</strong></p>
+<ul>
+<li>
+Run sprint planning, as well as release planning and sprint reviews for engineering team</li>
+<li>
+Coach team on agile practices and encourage adoption via retros, scrums, sprint planning</li>
+<li>
+Run daily standup meetings, understand &amp; remove obstacles</li>
+<li>
+Help identify and mitigate risks</li>
+<li>
+Own the metrics for the engineering team; utilize data to effectively communicate progress and opportunities for improvement with stakeholders and other team members</li>
+</ul>
+<p>
+<strong>Qualifications</strong><br />
+The ideal candidate is entrepreneurial, results-oriented, and loves new challenges. We are serious about changing global education with our ground-breaking learning product, and surround ourselves with team members who bring this same passion to their work every day as well.</p>
+<p>
+In addition to passion, energy and enthusiasm for the work that we do, you will also have:</p>
+<ul>
+<li>
+3+ years project management experience in a technology environment</li>
+<li>
+Bachelor&#39;s degree in Information Systems, Engineering or related field</li>
+<li>
+Knowledge and experience in cross-functional project management methods and techniques, preferably with startup experience</li>
+<li>
+Thorough understanding of Agile software development life cycles</li>
+<li>
+Deep understanding of scrum and other related methodologies that can be leveraged to provide value to a team</li>
+<li>
+Experience using case and code tracking tools such as Jira</li>
+<li>
+Demonstrated ability to facilitate and run great, effective meetings</li>
+<li>
+Strong verbal and written communication skills</li>
+<li>
+Ability to influence and lead, as well as delegate; facilitator of team work; effectively manages conflict; adaptable, able to keep cool in high-pressure situations</li>
+<li>
+Qualification in project management a plus;&nbsp; knowledge of both theoretical and practical aspects of project management including tools and processes</li>
+</ul>
+<p>
+<strong>Company Description</strong><br />
+Voxy is a NYC-based company that is using mobile and web applications as well as&nbsp; sophisticated personalization technology to disrupt the $80B market for language education. Voxy offers an entirely new, highly effective, and proven approach to language learning, that turns the media that you consume, the conversations that you have, and the activities you do into powerful contextual language lessons that are available anytime, anywhere. Since launch in 2010 as a TechCrunch Disrupt finalist, Voxy has grown to over 2.5M users, tens of thousands of paying customers, and has the #1 rated education app in Brazil, Mexico, and dozens of other countries around the world.&nbsp; Voxy is currently focused on teaching English to Spanish and Portuguese speakers, but is rapidly expanding into new markets and new languages to reach the billions of language learners across the globe.</p>
+<p>
+&nbsp;</p>
+<p style="text-align: center;">
+<em>Recognized by Business Insider:</em></p>
+<p style="text-align: center;">
+<strong><a href="http://www.businessinsider.com/10-of-the-best-us-tech-companies-to-work-for-in-2012-2012-3#ixzz29ZXEQUzg">The 10 Best US Tech Companies To Work For In 2012</a></strong></p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/voxy/1xal9y"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130607170421_LLIV3WDX3VBK61NH]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front-End Developer]]></title>
+			<department><![CDATA[Tech]]></department>
+			<team><![CDATA[Tech]]></team>
+			<url><![CDATA[http://voxy.theresumator.com/apply/i0hW2Q/FrontEnd-Developer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10012]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Role Description</strong></p>
+<p>
+Voxy is looking for a talented front-end engineer who wants to dramatically improve the way millions of people around the world learn English. We have a cutting-edge frontend stack at Voxy: we use Backbone, Backbone.Marionette and RequireJS to present a seamless interface to a Django app on the backend. It&rsquo;s okay if you haven&rsquo;t worked with these particular tools, but we expect that you can pick them up quickly (or even make informed, calculated recommendations for alternatives).</p>
+<p>
+We write JavaScript, CoffeeScript and Python, so you should be extremely familiar with JavaScript (syntax, scoping rules; bonus points for ES5 knowledge) and comfortable in at least one common &ldquo;server-side&rdquo; language, as you&rsquo;ll be working in both the browser and on the server (we run Ubuntu). You&rsquo;ll need to be proficient with HTML5 and CSS3. We need to deliver our app to users promptly, so you should have knowledge of modern web performance analysis and optimization techniques as well.</p>
+<p>
+Our development environment is fast-paced and Agile, so you should be too. Have a GitHub account or a blog? Let us know!</p>
+<p>
+All of these tools that you either know or are eager to learn enable us to build revolutionary language learning applications that are exciting, engaging and effective. Come work with Voxy to build a cutting-edge web app that will help improve the lives and careers of millions of people.</p>
+<p>
+<strong>Qualifications:</strong></p>
+<ul>
+<li>
+Outstanding engineering talent as shown through past projects and positions, either independent or professional</li>
+<li>
+3 or more years experience working with web technologies</li>
+<li>
+Demonstrable experience with modern web application technologies (HTML5, CSS3, modern web frameworks, etc.)</li>
+<li>
+Solid understanding of CS fundamentals either via an educational background in Computer Science or devoted personal learning</li>
+</ul>
+<p>
+<strong>Working here, you&#39;ll enjoy:</strong></p>
+<ul>
+<li>
+Competitive salary and stock options</li>
+<li>
+Medical, Dental, Vision, Flex Spending benefits</li>
+<li>
+Sweet office space in downtown Manhattan, with an awesome team of super creative, talented, and motivated individuals</li>
+</ul>
+<p>
+<strong>About us:</strong><br />
+Voxy is a NYC-based company that is using mobile/web applications and sophisticated personalization technology to disrupt the $80B market for language education. Since launch in 2010 as a TechCrunch Disrupt finalist, Voxy has grown to over 2.5M users, tens of thousands of paying customers, and has the #1 rated education app in Brazil, Mexico, and dozens of other countries around the world. Voxy is backed by leading education investors, and has been recognized as a pioneer by The New York Times, CNN Money, Fast Company, Mashable, Univision, Veja (Brazil), Venturebeat, and others.</p>
+<p>
+&nbsp;</p>
+<p style="text-align: center;">
+<em>Recognized by Business Insider:</em></p>
+<p style="text-align: center;">
+<strong><a href="http://www.businessinsider.com/10-of-the-best-us-tech-companies-to-work-for-in-2012-2012-3#ixzz29ZXEQUzg">The 10 Best US Tech Companies To Work For In 2012</a></strong></p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/voxy/i0hW2Q"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,1222 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Yext]]></company>
+			<job>
+			<id><![CDATA[job_20130321234031_46BSSXA3DNKZ2Z0F]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Yext Sales Associate]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[SMB]]></team>
+			<url><![CDATA[http://yext.theresumator.com/apply/F3yHwm/Yext-Sales-Associate.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p>
+Yext&rsquo;s mission is to produce the best local search results everywhere. Yext was recently granted millions in a second round funding for our PowerListings&rsquo; product and named #10 on Inc. 500&rsquo;s List for the fastest growing companies in New York City!</p>
+<p>
+We think big, we learn fast &ndash; and we get stuff done. We are powered by an incredibly talented group of employees who work to deliver value to our customers, publishing partners and internet users with actions in line with our company values. Our Sales Associates are a key component that drives our success and we&rsquo;re looking to expand the team!</p>
+<p>
+Think you got what it takes? Yext is looking for motivated and hungry individuals to master the art of prospecting, negotiating and closing business, while making a huge impact in driving one of the fastest growing start-ups in NYC!</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Interact with business owners across the US in explaining the PowerListings product</li>
+<li>
+Prospect, develop and close potential clients to meet monthly sales goals</li>
+<li>
+Maintain customer satisfaction through strong account management and implementation skills</li>
+<li>
+Provide marketing feedback to assist executives in company growth</li>
+<li>
+Recognize and execute up-sell opportunities</li>
+</ul>
+<p>
+<strong>Required Skills</strong></p>
+<ul>
+<li>
+Bachelor&#39;s Degree required</li>
+<li>
+Energetic and outgoing personality with strong communication skills</li>
+<li>
+Ability to work on your toes both individually and in a team setting</li>
+<li>
+Exhibit adaptability and flexibility</li>
+<li>
+Stay focused and motivated, while maintaining effective time-management skills</li>
+<li>
+Drive to think strategically and succeed in a fast-paced environment</li>
+</ul>
+<p>
+<strong>Compensation</strong></p>
+<ul>
+<li>
+Competitive base + uncapped commission</li>
+<li>
+Medical and Dental Health Coverage</li>
+<li>
+Work hard, play hard company culture</li>
+<li>
+Free lunch</li>
+<li>
+Paid Training</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/yext/F3yHwm"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130321235341_9KKWZLBHBZSETHA7]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front-End Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering/Product]]></team>
+			<url><![CDATA[http://yext.theresumator.com/apply/TecpoY/FrontEnd-Engineer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p>
+Join the Yext engineering team! We are seeking a front-end engineer to work with our product team and software engineers. Use HTML, CSS and JavaScript to create our many client- and partner- facing web applications.</p>
+<p>
+<strong>Product</strong></p>
+<p>
+At Yext, we build technology that meets a critical business need to maintain perfectly accurate location information across the web. Until Yext came along, it was nearly impossible to correct, update, and maintain information about business locations across dozens of platforms. Our PowerListings service is a game-changer for businesses: our simple dashboard provides access to infrastructure that we&rsquo;ve built to seamlessly update Foursquare, Yelp, Citysearch, Yahoo! and dozens of other sites across the web. Yext PowerListings is used by over 130,000 business locations to centrally control their business information listings and local search results on 50+ web properties and apps.</p>
+<p>
+<strong>The Opportunity</strong></p>
+<ul>
+<li>
+Work in an agile environment supporting the full product life cycle, helping to identify the right technology for each unique problem you&rsquo;re solving.</li>
+<li>
+Join engineers from top universities and some of the most well-respected tech companies in the world.</li>
+<li>
+Learn something new every day! You&rsquo;ll be solving tough problems, learning from your co-workers, and hearing from teammates during our &ldquo;brown-bag&rdquo; tech talks.</li>
+<li>
+Be an integral part of a growing company with a successful business model and tremendously fast customer growth.</li>
+<li>
+Be yourself at work &ndash; dress how you like, order whatever meals you want (on us) and show your personality (we&rsquo;ve got a Fun Room with karaoke, Wii, foosball, and poker table-- or, if you prefer, how about a snooze in the Nap Room?</li>
+</ul>
+<p>
+<strong>The Work</strong></p>
+<p>
+Our front-end engineers:</p>
+<ul>
+<li>
+Work as HTML/CSS/JavaScript specialists on small agile teams alongside product managers, UX designers, visual designers, engineers, and testers.</li>
+<li>
+Build and modify frontend interfaces with HTML, CSS (using SASS), and JavaScript (using jQuery).</li>
+<li>
+Collaborate with backend engineers to create sophisticated AJAX web applications.</li>
+<li>
+Ensure that web applications work well across multiple browsers and platforms, and advise the engineering team on compatibility issues and tradeoffs.</li>
+</ul>
+<p>
+<strong>Job Requirements</strong></p>
+<ul>
+<li>
+Curious, with wide ranging technology interests</li>
+<li>
+Strong and comprehensive knowledge of HTML5 and CSS3</li>
+<li>
+JavaScript knowledge, including the ability to understand and modify the complex existing JavaScript code</li>
+<li>
+Able to quickly transform visual designs and Photoshop files into accurate HTML/CSS</li>
+<li>
+Able to write strict, well-structured HTML and CSS</li>
+<li>
+Knowledge of Photoshop and good sense of visual design, with an eye for making web user interfaces professional and consistent</li>
+<li>
+Knowledge of SASS and jQuery a plus</li>
+<li>
+Thrive on tackling challenges and love working through problems with peers</li>
+<li>
+Some understanding of backend programming and databases a plus</li>
+<li>
+Relevant experience of 2-4 years preferred, but not required</li>
+</ul>
+<p>
+<strong>About</strong></p>
+<p>
+In 2011 Yext was named as an Inc 500 fastest growing private companies in 2011 (Top 10 in NYC). Yext was also named to Business Insider&#39;s 2012 Digital 100 list, as one of the world&#39;s most valuable private tech companies. Just a few years old, we already have over 130,000 customers using our product with a combined reach of over 150 million visitors per month.<br />
+<br />
+Our wide open office space allows for easy collaboration across business functions. Our hours are flexible and we&rsquo;re a casual office. We believe in pushing boundaries and moving above the rules.<br />
+<br />
+You can read about the Yext team and culture on <a href="http://www.themuse.com/companies/yext">themuse</a>, our latest product launch on <a href="http://venturebeat.com/2013/01/15/yext-evolves-business-listings/">Venture Beat</a> and our latest funding on <a href="http://techcrunch.com/2012/06/12/yext-series-e/">Tech Crunch</a>.<br />
+&nbsp;<br />
+<strong>Compensation &amp; Benefits</strong></p>
+<p>
+We treat our employees well and offer tremendous growth opportunities. The Yext leadership supports our team in moving forward &ndash; with business objectives and career growth. In addition to competitive compensation, we offer personalized snacks and meals in the office, a snooze room, a fun room, flexible hours and vacation, 401(k), and of course, excellent health, dental, and vision insurance.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/yext/TecpoY"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130321234127_3HSMJYCMIVBQVVGU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Client Support Specialist]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Operations]]></team>
+			<url><![CDATA[http://yext.theresumator.com/apply/vLpwOK/Client-Support-Specialist.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p>
+Yext is a leading local advertising technology company that has created PowerListings, the central platform for local search. PowerListings is being used by over 30,000 business locations to centrally control their local search results on 50+ properties. Yext is based in New York City, and was named to the Inc 500 fastest growing private companies in 2011 (Top 10 in NYC).</p>
+<p>
+<strong>The Role</strong></p>
+<p>
+The Client Support Specialist position is an exciting entry-level opportunity for a unique and talented individual who would like to gain experience in the internet advertising industry, while building a cutting-edge product. We are looking for someone who can not only provide solid and consistent customer support, but also have the ability to accomplish and respond quickly to tasks and demands. Successful applicants must be highly skilled and confident, detail-oriented, passionate about completing tasks in a timely, efficient manner, and possess excellent problem solving and communication skills. Yext prides itself on interacting with our clients in a professional and timely manner. In this position, you will impact our clients&#39; first impressions of working with Yext, and reinforce our role as a leading local advertising company.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Provide direct telephone support to Yext PowerListings clients</li>
+<li>
+Communicate clearly and professionally with Yext PowerListings partners</li>
+<li>
+Research, follow-up, and resolve client issues in a timely manner</li>
+<li>
+Keep an open communication between Yext Support departments and partners to resolve listing issues</li>
+<li>
+Update and maintain a running log of all outstanding client issues</li>
+<li>
+Assist with account setup, billing, upgrades and changes</li>
+<li>
+Contribute to improving overall Client Support experience</li>
+</ul>
+<p>
+<strong>Requirements/Qualifications</strong></p>
+<ul>
+<li>
+Ability to function in a fast-paced environment with multiple and changing priorities and responsibilities</li>
+<li>
+Detail-oriented, with good organizational skills and patience to work through complex issues</li>
+<li>
+Ability to work independently with excellent time management skills required</li>
+<li>
+Excellent communication skills, both verbal and written</li>
+<li>
+Excellent problem solving skills</li>
+<li>
+MS Office skills, including Outlook, Word and Excel, strong familiarity with e-mail and Internet</li>
+<li>
+Recent college graduates, but 1 - 2 years customer service or related experience preferred</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/yext/vLpwOK"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130321235956_8HRTD4TLFRORCL1G]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Enterprise Sales Professional]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Enterprise]]></team>
+			<url><![CDATA[http://yext.theresumator.com/apply/lPspQY/Enterprise-Sales-Professional.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p>
+Yext is looking for driven sales professionals across multiple verticals: Finance, Insurance, QSR, Retail, Automotive, etc. Individuals should have a proven track record of consultative sales; the ability to negotiate complex six and seven figure contracts; have a strong understanding of the digital landscape and embrace disruptive, fast paced technology companies.&nbsp;</p>
+<ul>
+<li>
+Ability to reach and develop relationships c-level executives in key verticals</li>
+<li>
+Understanding digital ecosystem&nbsp;landscape and relationships</li>
+<li>
+Ability to own and close six and seven figure deals</li>
+<li>
+Experience in bringing innovative &nbsp;/ &nbsp;market defining products to market</li>
+<li>
+Local, Display and/or &nbsp;Search market , SaaS experience a plus</li>
+<li>
+7/10 years&rsquo; digital experience</li>
+</ul>
+<p>
+Salary is competitive and will be commensurate with experience.</p>
+<p>
+Yext is an equal opportunity employer.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/yext/lPspQY"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130322000012_ZWRZ3WJL2JZQ4X25]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Account Manager]]></title>
+			<department><![CDATA[Enterprise Team]]></department>
+			<team><![CDATA[Enterprise]]></team>
+			<url><![CDATA[http://yext.theresumator.com/apply/OoLm0z/Account-Manager.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p>
+We are looking to build out the newly created Enterprise Division for our Power Listings. The Enterprise Division is a cross functional team of Sales, Account Management and Business Development with focus on fortune 50-500 clients across North America. Individuals should have a strong understanding of the digital landscape and embrace disruptive, fast paced technology companies.</p>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Minimum of Five+ years of experience in Digital/Technology Account Management</li>
+<li>
+Blend of search, technological &nbsp;and/or display experience a plus</li>
+<li>
+Superior Client Services and relationship skills</li>
+<li>
+Proven success in launching new products services and technology solutions to F500 audience</li>
+<li>
+Strong analytical and problem solving skills</li>
+<li>
+Leadership in developing world class client presentations / QBR leadership</li>
+<li>
+Experienced in on-boarding clients; implementation and integration experience a plus.</li>
+</ul>
+<p>
+Salary is competitive and will be commensurate with experience.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/yext/OoLm0z"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130322000534_XZHWI9NDLRY2ESXX]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Yext Sales Manager]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[SMB]]></team>
+			<url><![CDATA[http://yext.theresumator.com/apply/mnUgHL/Yext-Sales-Manager.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p>
+Yext&rsquo;s rapid success and recent round of additional funding is fueling the rapid growth of our PowerListings inside sales team. We are looking for driven sales managers with proven experience as team leaders to help scale our group. The sales manager(s) will be responsible for overseeing and mentoring &nbsp;day-to-day operations for teams of 8-12 sales associates.</p>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+2-4 Years Proven Sales Experience and Success required</li>
+<li>
+1-2 Years Management and Sales Training necessary</li>
+<li>
+Ability to motivate, inspire and lead an inside sales team</li>
+<li>
+Excellent interpersonal, &nbsp;oral and written communication skills</li>
+<li>
+Easily Adapts to Change</li>
+<li>
+Enjoys working in a fast paced environment</li>
+</ul>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Responsible for the performance and development of the YSA (Yext Sales Associate) &nbsp;</li>
+<li>
+Coach and Assist YSAs during sales process as needed</li>
+<li>
+Becomes the expert in product and offering including all functionalities of Admin, dashboards, internal tools and resources, etc.</li>
+<li>
+Monitor phone calls to ensure proper sales techniques and sales process are followed</li>
+<li>
+Track individual and team wide performance, goals, pricing, trends, pipelines, etc.</li>
+<li>
+Administer Comp plan and sales commissions and report and manage communication to team and management</li>
+<li>
+Responsible for maintaining YSA&rsquo;s adherence to YSA Code of Conduct including; company policies, procedures and business ethics codes and ensures that they are communicated and implemented within the team.</li>
+<li>
+Work with management and HR on recruiting, hiring, performance reviews etc.</li>
+<li>
+Motivate YSA&rsquo;s continually through positive reinforcement, and creative incentive programs</li>
+<li>
+Conduct one-on-one review with all YSAto build more effective communications, understand training and development needs, and to provide insight for improvement</li>
+</ul>
+<p>
+Yext is an Equal Opportunity Employer</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/yext/mnUgHL"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130322000908_NZ81WMZPZ2OXSBWI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Associate Account Management]]></title>
+			<department><![CDATA[Enterprise Team]]></department>
+			<team><![CDATA[Enterprise]]></team>
+			<url><![CDATA[http://yext.theresumator.com/apply/QT72M5/Associate-Account-Management.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p>
+We are building out the newly created Enterprise Division for our Power Listings. The Enterprise Division is a cross functional team of Sales, Account Management and Business Development with focus on fortune 500 clients across North America.</p>
+<p>
+We are looking for a Jr. Level Associate to help the team across the board on projects and day to day activities. If you are passionate about technology, are self-driven and willing to roll up your sleeves this is an amazing opportunity to learn in a collaborative environment with one of the top 10 start-ups in NY.</p>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Cross functionally supports Enterprise Account Management Team with daily activities and ad hoc projects</li>
+<li>
+Client meeting and preparation and presentations</li>
+<li>
+Research and&nbsp; analysis of clients and competitors</li>
+<li>
+Client and account tracking</li>
+<li>
+Attention to detail a must</li>
+<li>
+Strong analytical and communication skills with expertise in MS office suite</li>
+</ul>
+<p>
+Salary is competitive and will be commensurate with experience.</p>
+<p>
+Yext is an equal opportunity employer.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/yext/QT72M5"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130322001232_IXT9TPRVDNRYUH0Z]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Product Marketing Manager]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Marketing]]></team>
+			<url><![CDATA[http://yext.theresumator.com/apply/dGDVPV/Product-Marketing-Manager.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p>
+As a Product Marketing Manager at Yext, you will be responsible for driving product and feature adoption, in partnership with the Product team.&nbsp; Location information is powering the maps, apps, and local search experience across devices.&nbsp; To help create correct maps and local data for users, Yext builds software to helps businesses own and manage their location information across the web.</p>
+<p>
+This role enables you to share in the product development process, organize product launches from beginning to end, and form marketing strategies.&nbsp; You will be in charge of positioning, packaging, and promoting Yext&rsquo;s products and hitting measurable goals.&nbsp; You will work with the Sales, Support, Product, and Engineering teams to get products out to customers.&nbsp; You will be responsible for the planning and execution for Yext&rsquo;s adoption and usage strategies, from small entrepreneurial businesses to the largest advertisers in the country.</p>
+<p>
+Our team is looking for people who are fired up, love coming to work every day, and want to win.&nbsp; We are building a market and educating clients on the power of location, as we work to hit aggressive goals.&nbsp; We like to spend time together - we work hard and play hard.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Set and carry out marketing strategies for Yext products for multiple customer types</li>
+<li>
+Advocate, communicate and implement strategy to the rest of Team Yext and the market</li>
+<li>
+Lead and project manage the execution of high impact programs to drive product adoption and usage</li>
+<li>
+Work with market insights and internal metrics to design and deliver studies tracking effectiveness and ROI of your marketing programs</li>
+</ul>
+<p>
+<strong>Minimum Qualifications</strong></p>
+<ul>
+<li>
+2-5 years of product, product marketing or related experience
+<ul>
+<li>
+History of success and failure</li>
+</ul>
+</li>
+<li>
+BA/BS degree with evidence of academic and extracurricular excellence - are you wicked smart?</li>
+<li>
+Amazing communication skills - written and verbal</li>
+<li>
+Passion for building a market, a company, and a brand</li>
+<li>
+Interest in technology, bonus in local/location and/or software</li>
+<li>
+Well-developed sense of humor</li>
+<li>
+Comfort in informal and fast-paced environments</li>
+<li>
+Curiosity for multiple interests</li>
+<li>
+Consideration and interest in the success of the rest of Team Yext - we sink or swim together</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/yext/dGDVPV"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130322001247_PQ3ICASMLFKJZLLK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sales Marketing Manager]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Marketing]]></team>
+			<url><![CDATA[http://yext.theresumator.com/apply/g6Negv/Sales-Marketing-Manager.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p>
+As a Sales Marketing Manager at Yext, you will be responsible for driving leads with large and mid-market prospects, in partnership with the Sales team.&nbsp; Location information is powering the maps, apps, and local search experience across devices.&nbsp; To help create correct maps and local data for users, Yext builds software to helps businesses own and manage their location information across the web.</p>
+<p>
+The role allows you to generate leads and build relationships for the sales teams.&nbsp; You will be in charge of positioning, packaging, and promoting Yext&rsquo;s products in our focus verticals.&nbsp; You will do whatever it takes to drive interest from senior and day-to-day marketers, including event strategy, trade advertising, messaging, collateral, and at-desk promotions.</p>
+<p>
+Our team is looking for people who are fired up, love coming to work every day, and want to win.&nbsp; Working at Yext is an adventure.&nbsp; We are building a market, educating clients and the market, as we work to hit aggressive goals.&nbsp; We like to spend time together - we work hard and play hard.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Set and carry out marketing strategies for Yext&rsquo;s product suite with large location-based</li>
+<li>
+Create best-in-class marketing materials, including sales decks, print collateral, and digital copy</li>
+<li>
+Set and implement event strategy, focused in 4 key verticals</li>
+<li>
+Develop case studies and messaging to prove the value of the Yext platform to large brands and their marketers</li>
+<li>
+Build trade advertising strategy with the top advertising publications in the space (Ad Age, Ad Week)</li>
+<li>
+Support CRM communication with key contacts and prospects</li>
+<li>
+Advocate, communicate and implement marketing strategy to the rest of Team Yext and the market</li>
+<li>
+Work with market insights and internal metrics to design and deliver studies tracking effectiveness and ROI of your marketing programs</li>
+</ul>
+<p>
+<strong>Minimum Qualifications</strong></p>
+<ul>
+<li>
+3-5 years of marketing experience with marketers or related experience</li>
+<li>
+History of success and failure</li>
+<li>
+BA/BS degree with evidence of academic and extracurricular excellence - are you wicked smart?</li>
+<li>
+Amazing communication skills - written and verbal</li>
+<li>
+Passion for building a market, a company, and a brand</li>
+<li>
+Interest in technology, bonus in local/location and/or software</li>
+<li>
+Well-developed sense of humor</li>
+<li>
+Comfort in informal and fast-paced environments</li>
+<li>
+Curiosity for multiple interests</li>
+<li>
+Consideration and interest in the success of the rest of Team Yext - we sink or swim together</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/yext/g6Negv"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130322001331_76RJ8YG5TCLM5ESC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Creative Director]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Marketing]]></team>
+			<url><![CDATA[http://yext.theresumator.com/apply/RXuM6k/Creative-Director.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p>
+At Yext, the marketing and creative teams have two goals: to build the market of location by helping people understand its importance and to drive adoption of the Yext platform.&nbsp; To do this, we have to take complicated topics and make them understandable.&nbsp; And because the industry itself is not always top-of-mind, we have to make the Yext brand aspirational and inspiring.</p>
+<p>
+The job of our Creative Director will be to bring the magic - both to the market of location and to the Yext brand.&nbsp; As we work to get perfect location information into every hand, our opportunity is to demonstrate the power of the Yext platform and to educate on the market.&nbsp; We approach marketing in a way that is innovative but scrappy.</p>
+<p>
+The role:&nbsp; As our Creative Director, you will join the Corporate Marketing team to shepherd and grow the Yext brand.&nbsp; You will need to do this by initiating your own projects and giving creative guidance to our internal and external partners.&nbsp; You will work with our marketers, product leads, and sales teams to build materials and design elements from start-to-finish.&nbsp; At Yext, we all have to get our hands dirty, but it means that we are always close to the action and directly involved in successes.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Build the Yext brand, owning all creative elements and voice</li>
+<li>
+Partner with Marketing Managers, Product, and Sales teams to create best-in-class marketing materials to drive adoption and leads</li>
+<li>
+Build agency relationships when needed, in line with budget constraints</li>
+<li>
+Create materials personally, in addition to working with outside teams</li>
+<li>
+Personally design and own elements of the Yext brand</li>
+</ul>
+<p>
+<strong>Minimum Qualifications</strong></p>
+<ul>
+<li>
+BA in Design or related field (In lieu of degree, 4 years of relevant experience).</li>
+<li>
+3+ years experience building creative direction and materials for business clients</li>
+<li>
+Passion for building a market, a company, and a brand</li>
+<li>
+Interest in technology, bonus in local/location and/or software</li>
+<li>
+Well-developed sense of humor</li>
+<li>
+Comfort in informal and fast-paced environments</li>
+<li>
+Curiosity for multiple interests</li>
+<li>
+Consideration and interest in the success of the rest of Team Yext - we sink or swim together</li>
+</ul>
+<p>
+<strong>Preferred Qualifications</strong></p>
+<ul>
+<li>
+Passion for using creativity to motivate action by customers and potential customers</li>
+<li>
+Portfolio of original and breakthrough work</li>
+<li>
+Ability to thrive in a rapid paced environment on multiple projects in a scrappy, start-up atmosphere</li>
+<li>
+Self-driven interest and curiosity in technology and innovation</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/yext/RXuM6k"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130322001633_7QN0RCPFILGOPKPZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Enterprise Operations Specialist]]></title>
+			<department><![CDATA[Operations]]></department>
+			<team><![CDATA[Operations]]></team>
+			<url><![CDATA[http://yext.theresumator.com/apply/4echDA/Enterprise-Operations-Specialist.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p>
+As an Enterprise Operations Specialist at Yext, you will be responsible for integrating and maintaining our largest and most important clients. The Enterprise Division is a cross-functional team of Sales, Account Management, and Operations with focus on Fortune 50 - 500 clients across North America. Individuals should have exemplary organization skills with an eye towards detail and embrace a fast paced, dynamic work environment.</p>
+<p>
+Our team is looking for people who are fired up and love coming to work every day. We are building a market and educating clients on the power of location data, as we work to hit aggressive goals. We like to spend time together - we work hard and play hard.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Manage inbound Enterprise Operations requests and drive to completion</li>
+<li>
+Work closely with Account Mangers to ensure we are exceeding client expectations</li>
+<li>
+Simultaneously manage multiple new client implementations with various priorities</li>
+<li>
+Load Enterprise location information and content into Yext system</li>
+<li>
+Analyze the exactitude of content provided by the client and in some instances work to collect and obtain more accurate data</li>
+<li>
+Manage account rollout across publisher network</li>
+<li>
+Facilitate communication between Account Managers and Publisher Operations team following client launch</li>
+<li>
+Analyze client data feeds and process file updates/comparisons</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+2-3&nbsp;years of agency, digital media, finance, or analyst experience</li>
+<li>
+BA/BS degree with evidence of academic and extracurricular excellence</li>
+<li>
+Detail-oriented, organized, process-driven</li>
+<li>
+Proficient in data analysis and manipulation</li>
+<li>
+Ability to work quickly and accurately in a high-volume environment</li>
+<li>
+Autonomous worker with excellent time management skills</li>
+<li>
+Ability to thrive in a cross-functional team environment</li>
+<li>
+Interest in technology, bonus in local/location software</li>
+<li>
+Working knowledge of excel; SQL is a plus</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/yext/4echDA"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130322001655_OBPUPFMJOUE2NKAZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Publisher Operations Specialist]]></title>
+			<department><![CDATA[Operations]]></department>
+			<team><![CDATA[Operations]]></team>
+			<url><![CDATA[http://yext.theresumator.com/apply/QM7ydc/Publisher-Operations-Specialist.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Description</strong></p>
+<p>
+The Publisher Operations Specialist is a key member of our operations team and acts as a liaison for the Yext PowerListings Network.&nbsp; Yext is looking for a driven and organized individual to help maintain and improve our publisher network.&nbsp;&nbsp; As a member of the &ldquo;Pub Ops&rdquo; team, you&rsquo;ll oversee and maintain a subset of our publisher integrations.&nbsp; You&rsquo;ll grow to be the primary point of knowledge on your assigned publishers and will work with various teams across the organization to manage and resolve issues related to those publishers.&nbsp; We work directly with over 50 publishers to ensure that all of our customers&rsquo; information is live, updated and searchable, giving our customers an edge in the local search marketplace.&nbsp;</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Investigate, interact, track and resolve issues with both external partners and internal teams</li>
+<li>
+Maintain a working understanding of publisher integrations, status and problems</li>
+<li>
+Test new and existing product features for each of your publisher partners</li>
+<li>
+Stay ahead of potential integration problems with daily and periodic quality audits</li>
+<li>
+Improve the general visibility and appearance of our listings</li>
+</ul>
+<p>
+<strong>Requirements/Qualifications</strong></p>
+<ul>
+<li>
+Polished and professional with excellent communication skills</li>
+<li>
+Comfortable with numbers and large data sets</li>
+<li>
+Ability to multi-task while maintaining a close attention to detail</li>
+<li>
+Strong problem-solving and strategic-thinking skills</li>
+<li>
+Curiosity and desire to figure things out and get things done</li>
+<li>
+Comfortable with significant responsibility in a fast-paced environment</li>
+<li>
+Computer science or engineering background is encouraged, but not required</li>
+<li>
+Excel and SQL knowledge is a plus</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/yext/QM7ydc"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130322002921_9T5AFPDAIRUWXTVS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering/Product]]></team>
+			<url><![CDATA[http://yext.theresumator.com/apply/F5R20X/Software-Engineer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p>
+Join the Yext engineering team! We have several software engineering positions open, for engineers at various career levels. We rely heavily on Java and believe in using the right technology for each unique challenge. We hire from all language backgrounds, because we believe that core programming knowledge and good problem solving skills are more important.</p>
+<p>
+<strong>Product</strong></p>
+<p>
+At Yext, we build technology that meets a critical business need to maintain perfectly accurate location information across the web. Until Yext came along, it was nearly impossible to correct, update, and maintain information about business locations across dozens of platforms. Our PowerListings service is a game-changer for businesses: our simple dashboard provides access to infrastructure that we&rsquo;ve built to seamlessly update Foursquare, Yelp, Citysearch, Yahoo! and dozens of other sites across the web. Yext PowerListings is used by over 130,000 business locations to centrally control their business information listings and local search results on 50+ web properties and apps.</p>
+<p>
+<strong>The Opportunity</strong></p>
+<ul>
+<li>
+Work in an agile environment supporting the full product life cycle, helping to identify the right technology for each unique problem you&rsquo;re solving.</li>
+<li>
+Join engineers from top universities and some of the most well-respected tech companies in the world.</li>
+<li>
+Learn something new every day! You&rsquo;ll be solving tough problems, learning from your co-workers, and hearing from teammates during our &ldquo;brown-bag&rdquo; tech talks.</li>
+<li>
+Be an integral part of a growing company with a successful business model and tremendously fast customer growth.</li>
+<li>
+Be yourself at work &ndash; dress how you like, order whatever meals you want (on us) and show your personality (we&rsquo;ve got a Fun Room with karaoke, Wii, foosball, and poker table-- or, if you prefer, how about a snooze in the Nap Room?</li>
+</ul>
+<p>
+<strong>The Work</strong></p>
+<p>
+Our engineers work on small teams with rotating projects such as:</p>
+<ul>
+<li>
+Build a new version of our iOS or Android application</li>
+<li>
+Build service locator infrastructure to help our hundreds of services find one another and interact</li>
+<li>
+Use SASS, jQuery, and the Play! framework to add user interface to support our new merchant platform for location management</li>
+<li>
+Develop a caching layer so that customer search and update thousands of locations in milliseconds</li>
+<li>
+Build an automated testing infrastructure with Selenium and Ruby</li>
+<li>
+Create an image testing infrastructure using S3 and Route 53</li>
+<li>
+Build a system that crawls and analyzes hundreds of thousands of pages per day using Selenium and Java</li>
+<li>
+Research and implement scale-out strategies using sharding and NoSQL solutions</li>
+<li>
+Examine real-time application data from tools like AppDynamics and Sentry and use it to resolve system issues</li>
+<li>
+Architect a distributed system that uses RPCs and message queuing with RabbitMQ</li>
+</ul>
+<p>
+<strong>Job Requirements</strong></p>
+<ul>
+<li>
+Curious, with wide ranging engineering interests</li>
+<li>
+Strong engineering skills, knowledge of Java or another OOP language</li>
+<li>
+Quick to pick up new technologies and not stuck in one specific technology stack</li>
+<li>
+Thrive on tackling challenges and love working through problems with peers</li>
+<li>
+CS degree and strong in engineering fundamentals</li>
+</ul>
+<p>
+<strong>About</strong></p>
+<p>
+In 2011 Yext was named as an Inc 500 fastest growing private companies in 2011 (Top 10 in NYC). Yext was also named to Business Insider&#39;s 2012 Digital 100 list, as one of the world&#39;s most valuable private tech companies. Just a few years old, we already have over 130,000 customers using our product with a combined reach of over 150 million visitors per month.<br />
+<br />
+Our wide open office space allows for easy collaboration across business functions. Our hours are flexible and we&rsquo;re a casual office. We believe in pushing boundaries and moving above the rules.<br />
+<br />
+You can read about the Yext team and culture on <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.themuse.com%2Fcompanies%2Fyext&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGaidgZ5BSXc-hoRVTniuoz5UjLEA">themuse</a>, our latest product launch on <a href="http://www.google.com/url?q=http%3A%2F%2Fventurebeat.com%2F2013%2F01%2F15%2Fyext-evolves-business-listings%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNG1Pz40my1lR7gGNNIhVd3ccuaL1Q">Venture Beat</a> and our latest funding on <a href="http://techcrunch.com/2012/06/12/yext-series-e/">Tech Crunch</a>.</p>
+<p>
+<strong>Compensation &amp; Benefits</strong></p>
+<p>
+We treat our employees well and offer tremendous growth opportunities. The Yext leadership supports our team in moving forward &ndash; with business objectives and career growth. In addition to competitive compensation, we offer personalized snacks and meals in the office, a snooze room, a fun room, flexible hours and vacation, 401(k), and of course, excellent health, dental, and vision insurance.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/yext/F5R20X"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130611194449_8RFEBIKVXKHGJ7EZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Technical Recruiter]]></title>
+			<department><![CDATA[Talent]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://yext.theresumator.com/apply/ynTpoG/Technical-Recruiter.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p>
+Yext is a NYC-based technology company that has created PowerListings, the central platform for local search. PowerListings is being used by over 140,000 business locations to centrally control their local search results on 50+ properties. Yext is based in New York City, and was named to the Inc 500 fastest growing private companies in 2011 (Top 10 in NYC).</p>
+<p>
+Our values - we think big, we learn fast, and we get stuff done.&nbsp; Each day we are powered by an incredibly talented group of employees who work to deliver value to our customers, publishing partners and internet users with actions in line with our company values.</p>
+<p>
+As part of our recruiting team, you will be in charge of finding great candidates and help them envision their life at Yext. You are well versed in the many different roles that make up an engineering organization, as well as know what schools and companies from which to source the best engineering talent. You will be the one-stop-shop for everything, from finding the identifying talent on the frontend and the onboarding for your hires once they are here.<br />
+<br />
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Develop and manage the full cycle recruiting process for technical candidates ensuring a smooth and positive candidate experience</li>
+<li>
+Source active and passive candidates through employee referrals, networking, internal databases, contact lists, research and other innovative strategies</li>
+<li>
+Review resumes and prescreen qualified candidates; move interview process forward in a timely manner</li>
+<li>
+Provide a fast and high-touch experience for every candidate from application stage to offer, evaluating skill level, driving the interview process and offer process, including reference checks, salary recommendations and closing of candidates</li>
+<li>
+Communicate effectively with the interview team to ensure preparedness during the interview process</li>
+<li>
+Identify closing strategies for offers; proactively provide candidates with the right information to help make their decision as easy as possible</li>
+<li>
+Create a smooth transition from accepting an offer to becoming an employee</li>
+</ul>
+<p>
+<br />
+<strong>Minimum Requirements</strong></p>
+<ul>
+<li>
+BA/BS degree (In lieu of degree, 4 years relevant work experience)</li>
+<li>
+At least 3 years of technical recruiting experience, preferably with some start-up experience</li>
+<li>
+Ability to consistently offer innovative solutions to recruiting challenges within the broader context of the organization&#39;s priorities and approach to problem-solving</li>
+<li>
+Experience in partnering with managers, interviewers, and team members throughout the hiring process</li>
+<li>
+Outstanding client service, negotiation, and closing skills</li>
+<li>
+Exceptional communication and interpersonal skills</li>
+<li>
+Comfortable in a small, intense and high-growth start-up environment</li>
+</ul>
+<p>
+<br />
+<strong>Preferred Skills</strong></p>
+<ul>
+<li>
+Experience recruiting Java, Mobile (iOS and Android) and Front End Software Engineers</li>
+<li>
+Knowledge and experience in a wide range of current recruiting policies, practices, and trends and the ability to grasp new technologies</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/yext/ynTpoG"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130422152529_IGO61HCXXBVODMRD]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Director of Operations]]></title>
+			<department><![CDATA[Operations]]></department>
+			<team><![CDATA[Operations]]></team>
+			<url><![CDATA[http://yext.theresumator.com/apply/587x0m/Director-Of-Operations.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p>
+Reporting directly to the Vice President of Operations, the Director of Operations plays a key role in propelling of one of New York&rsquo;s fastest growing tech companies.&nbsp;&nbsp; As the leader of two operational divisions, the Director of Operations oversees the maintenance of all existing publisher relationships, interfaces with the Business Development team on the integration of new publisher relationships and manages the data and analysis team.&nbsp; In this capacity, the Director of Operations manages two teams (the &ldquo;PubOps&rdquo; team and the data team), consisting of 4 current team members and growing rapidly as the company continues to scale.</p>
+<p>
+In the two years since its inception, Yext&rsquo;s Powerlistings product has grown rapidly to become one of New York&rsquo;s premier technology companies.&nbsp; As a critical component of the Powerlistings network, dozens of publisher integration points power the product and require the attention and oversight of an intelligent and dynamic Publisher Operations team.&nbsp; The Director of Operations is expected to lead this team, and within a reasonable time period, assume all responsibility for their management from the Vice President of Operations.&nbsp; This role requires an eye for detail, significant analytical capacities, and the ability to manage both a team of individuals, and key relationships internal and external to Yext.&nbsp;<br />
+<br />
+Responsibilities<br />
+ Manage the relationships that power the Yext Powerlistings product, and oversee the team that is responsible for maintaining and integrating the network<br />
+ Work cross-functionally across the organization to manage requirements from the sales team, empower the business development team and partner with the product development team<br />
+ Lead the Data Analysis team, responsible for all statistics reportable to SMB customers, resellers and enterprise clients.</p>
+<p>
+Requirements/Qualifications<br />
+ Strong attention to detail and an analytical mindset<br />
+ Experience managing a team, and the ability to step-in and quickly contribute<br />
+ Superior analytical skillset, including expert MS Excel skills and a solid understanding of database structure and MySQL<br />
+ Excellent communication skills and a comfort interfacing with technical professionals both internal and external<br />
+ A working understanding of APIs is preferred, but a technical mindset and a willingness to learn is required</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Senior Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/yext/587x0m"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130426172228_HFB4GDPEDOTW1FHR]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering/Product]]></team>
+			<url><![CDATA[http://yext.theresumator.com/apply/up6U6c/Senior-Software-Engineer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p>
+Join the Yext engineering team! In addition to coding, you&rsquo;ll help coach and mentor the bright engineers on our team and contribute toward the technical thought leadership at our company. We rely heavily on Java and believe in using the right technology for each unique challenge. We hire from all language backgrounds, because we believe that core programming knowledge and good problem solving skills are more important.</p>
+<p>
+<strong>Product</strong></p>
+<p>
+At Yext, we build technology that meets a critical business need to maintain perfectly accurate location information across the web. Until Yext came along, it was nearly impossible to correct, update, and maintain information about business locations across dozens of platforms. Our PowerListings service is a game-changer for businesses: our simple dashboard provides access to infrastructure that we&rsquo;ve built to seamlessly update Foursquare, Yelp, Citysearch, Yahoo! and dozens of other sites across the web. Yext PowerListings is used by over 130,000 business locations to centrally control their business information listings and local search results on 50+ web properties and apps.</p>
+<p>
+<strong>The Opportunity</strong></p>
+<ul>
+<li>
+Work in an agile environment supporting the full product life cycle, helping to identify the right technology for each unique problem you&rsquo;re solving.</li>
+<li>
+Join engineers from top universities and some of the most well-respected tech companies in the world.</li>
+<li>
+Learn something new every day! You&rsquo;ll be solving tough problems, learning from your co-workers, and hearing from teammates during our &ldquo;brown-bag&rdquo; tech talks.</li>
+<li>
+Be an integral part of a growing company with a successful business model and tremendously fast customer growth.</li>
+<li>
+Be yourself at work &ndash; dress how you like, order whatever meals you want (on us) and show your personality (we&rsquo;ve got a Fun Room with karaoke, Wii, foosball, and poker table-- or, if you prefer, how about a snooze in the Nap Room?</li>
+</ul>
+<p>
+<strong>The Work</strong></p>
+<p>
+You will help coach and mentor our engineers work on small teams with rotating projects such as:</p>
+<ul>
+<li>
+Build a new version of our iOS or Android application</li>
+<li>
+Build service locator infrastructure to help our hundreds of services find one another and interact</li>
+<li>
+Use SASS, jQuery, and the Play! framework to add user interface to support our new merchant platform for location management</li>
+<li>
+Develop a caching layer so that customer search can update thousands of locations in milliseconds</li>
+<li>
+Build an automated testing infrastructure with Selenium and Ruby</li>
+<li>
+Create an image testing infrastructure using S3 and Route 53</li>
+<li>
+Build a system that crawls and analyzes hundreds of thousands of pages per day using Selenium and Java</li>
+<li>
+Research and implement scale-out strategies using sharding and NoSQL solutions</li>
+<li>
+Examine real-time application data from tools like AppDynamics and Sentry and use it to resolve system issues</li>
+<li>
+Architect a distributed system that uses RPCs and message queuing with RabbitMQ</li>
+</ul>
+<p>
+<strong>Job Requirements</strong></p>
+<ul>
+<li>
+Curious, with wide ranging engineering interests and diverse technology experience</li>
+<li>
+Exceptional communication skills, leadership skills and experience mentoring and coaching engineers</li>
+<li>
+Strong engineering skills, knowledge of Java or another OOP language</li>
+<li>
+Quick to pick up new technologies and not stuck in one specific technology stack</li>
+<li>
+Thrive on tackling challenges and love working through problems with peers</li>
+<li>
+CS degree and strong in engineering fundamentals</li>
+<li>
+5+ years of hands on engineering experience</li>
+</ul>
+<p>
+<strong>About</strong></p>
+<p>
+In 2011 Yext was named as an Inc 500 fastest growing private companies in 2011 (Top 10 in NYC). Yext was also named to Business Insider&#39;s 2012 Digital 100 list, as one of the world&#39;s most valuable private tech companies. Just a few years old, we already have over 130,000 customers using our product with a combined reach of over 150 million visitors per month.</p>
+<p>
+Our wide open office space allows for easy collaboration across business functions. Our hours are flexible and we&rsquo;re a casual office. We believe in pushing boundaries and moving above the rules.</p>
+<p>
+You can read about the Yext team and culture on <a href="http://www.themuse.com/companies/yext">themuse</a>, our latest product launch on <a href="http://venturebeat.com/2013/01/15/yext-evolves-business-listings/">Venture Beat</a> and our latest funding on <a href="http://techcrunch.com/2012/06/12/yext-series-e/">Tech Crunch</a>.</p>
+<p>
+<strong>Compensation &amp; Benefits</strong></p>
+<p>
+We treat our employees well and offer tremendous growth opportunities. The Yext leadership supports our team in moving forward &ndash; with business objectives and career growth. In addition to competitive compensation, we offer personalized snacks and meals in the office, a snooze room, a fun room, flexible hours and vacation, 401(k), and of course, excellent health, dental, and vision insurance.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/yext/up6U6c"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130514170940_YRJSOMIAY6HZXPFK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Partner Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://yext.theresumator.com/apply/5g12xY/Partner-Developer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p>
+Yext&rsquo;s mission is to produce the best local search results everywhere. Yext was recently granted millions in a second round funding for our PowerListings&rsquo; product and named #10 on Inc. 500&rsquo;s List for the fastest growing companies in New York City!</p>
+<p>
+We think big, we learn fast &ndash; and we get stuff done. We are powered by an incredibly talented group of employees who work to deliver value to our customers, publishing partners and internet users with actions in line with our company values. Our Partner Developers are a key component that drives our success and we&rsquo;re looking to expand the team!</p>
+<p>
+Think you got what it takes? Yext is looking for motivated individuals with technological and internet savvy to engage in prospecting and developing our Yext Partner alliances, while making a huge impact in driving one of the fastest growing start-ups in NYC!</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Interact with companies across the US, using product and industry knowledge to evangelize</li>
+<li>
+the Yext service and develop an external sales force of Yext Partners</li>
+<li>
+Provide product demonstrations and sales training sessions</li>
+<li>
+Stay up to date on industry developments</li>
+<li>
+Maintain customer satisfaction through strong relationship building and account management</li>
+<li>
+Provide product and marketing feedback to assist executives in company growth</li>
+</ul>
+<p>
+<strong>Required Skills</strong></p>
+<ul>
+<li>
+Bachelor&#39;s Degree required</li>
+<li>
+Thorough comprehension of Local SEO strategy</li>
+<li>
+High technological literacy</li>
+<li>
+Outgoing personality with strong communication skills</li>
+<li>
+Ability to work on your toes both individually and in a team setting</li>
+<li>
+Exhibit adaptability and flexibility</li>
+<li>
+Stay focused and motivated, while maintaining effective time-management skills</li>
+<li>
+Drive to think strategically and succeed in a fast-paced environment</li>
+</ul>
+<p>
+<strong>Compensation</strong></p>
+<ul>
+<li>
+Competitive base + Monthly bonus</li>
+<li>
+Medical and Dental Health Coverage</li>
+<li>
+Work hard, play hard company culture</li>
+<li>
+Free lunch</li>
+<li>
+Paid Training</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/yext/5g12xY"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130529172617_UTWEHNNEEE2WQFST]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Financial Analyst]]></title>
+			<department><![CDATA[Finance]]></department>
+			<team><![CDATA[Finance]]></team>
+			<url><![CDATA[http://yext.theresumator.com/apply/IAAUkD/Financial-Analyst.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p>
+Yext is exploding.&nbsp; We&rsquo;ve more than doubled our headcount in a year, and over the last two years, over 150,000 businesses across the country began using our product to make sure that their business information can be found online.</p>
+<p>
+We are looking to hire an extraordinarily intelligent and creative person to join our finance department and help us chart our path for success.&nbsp; This is a very analytically challenging role that drives the company&rsquo;s growth and is a unique opportunity for the right person to work directly with and learn from Yext&rsquo;s Chief Financial Officer.&nbsp; There aren&rsquo;t many times in your career that you&rsquo;ll have the chance to work at a rapidly growing, well-financed startup and help it figure out where to direct millions in budget to maximize the company&rsquo;s growth.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Prepare monthly and quarterly reporting and analysis</li>
+<li>
+Assist with budget and forecast preparation and analysis</li>
+<li>
+Review and analyze monthly spending vs. budget</li>
+<li>
+Build pricing and growth models</li>
+<li>
+Analyze all facets of the business that touch our financials</li>
+<li>
+Proactively investigate opportunities for improvement</li>
+<li>
+Model out and analyze past and future deals</li>
+</ul>
+<p>
+<strong>Requirements/Qualifications</strong></p>
+<ul>
+<li>
+Superior analysis and problem solving skills</li>
+<li>
+Superior Excel skills</li>
+<li>
+Highly organized and detail oriented</li>
+<li>
+Effective time management skills and the ability to juggle multiple projects</li>
+<li>
+Excellent communication skills</li>
+<li>
+Bachelor&rsquo;s degree from a top school in economics, finance, or mathematics</li>
+<li>
+750 or higher on math SAT</li>
+<li>
+CPA a plus, SQL a plus</li>
+</ul>
+<p>
+<strong>About Our Company &ndash; Yext, Inc.</strong></p>
+<p>
+In 2011 Yext was named as an Inc 500 fastest growing private companies in 2011 (Top 10 in NYC). Yext was also named to Business Insider&#39;s 2012 Digital 100 list, as one of the world&#39;s most valuable private tech companies. Just a few years old, we already have over 150,000 customers using our product with a combined reach of over 150 million visitors per month.</p>
+<p>
+Our wide open office space allows for easy collaboration across business functions. Our hours are flexible and we&rsquo;re a casual office. We believe in pushing boundaries and moving above the rules.</p>
+<p>
+You can read about the Yext team and culture on <a href="http://www.themuse.com/companies/yext">themuse</a>, our latest product launch on <a href="http://venturebeat.com/2013/01/15/yext-evolves-business-listings/">Venture Beat</a> and our latest funding on <a href="http://techcrunch.com/2012/06/12/yext-series-e/">Tech Crunch</a>.</p>
+<p>
+<strong>Compensation &amp; Benefits</strong></p>
+<p>
+We treat our employees well and offer tremendous growth opportunities. The Yext leadership supports our team in moving forward &ndash; with business objectives and career growth. In addition to competitive compensation, we offer personalized snacks and meals in the office, a snooze room, a fun room, flexible hours and vacation, 401(k), and of course, excellent health, dental, and vision insurance.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/yext/IAAUkD"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130620200647_X23PQHH0OGKS1INX]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[IT Support Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering/Product]]></team>
+			<url><![CDATA[http://yext.theresumator.com/apply/BImO06/IT-Support-Engineer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p>
+Join the Yext engineering team! We&rsquo;re looking for an IT Engineer to help design, implement and support all aspects of Yext&rsquo;s office and mobile infrastructure.&nbsp; Our IT organization&nbsp; provides an exciting mix of technologies to empower all of our employees with the best tools available.&nbsp; Help us provide robust and innovative solutions to our rapidly growing user base.</p>
+<p>
+<strong>The Opportunity</strong></p>
+<ul>
+<li>
+Be an integral part of a growing company with a successful business model and tremendously fast customer growth.</li>
+<li>
+Learn something new every day! You&rsquo;ll be solving tough problems, learning from your co-workers, and hearing from teammates during our &ldquo;brown-bag&rdquo; tech talks.</li>
+<li>
+Join engineers from top universities and some of the most well-respected tech companies in the world.</li>
+<li>
+Be yourself at work &ndash; dress how you like, order whatever meals you want (on us) and show your personality (we&rsquo;ve got a Fun Room with karaoke, Wii, foosball, and poker table-- or, if you prefer, how about a snooze in the Nap Room?</li>
+</ul>
+<p>
+<strong>The Work</strong></p>
+<p>
+Our IT team supports a wide range of technologies, and we&rsquo;re looking for a mid-level Engineer to do the following:.</p>
+<ul>
+<li>
+Support a staff of 180+, and growing fast</li>
+<li>
+Provide all necessary collaboration and productivity tools to a heterogeneous Mac / PC (and even some Linux)&nbsp; network</li>
+<li>
+Implement and support open-source IP telephony tools</li>
+<li>
+Integrate commercial and open-source tools with our home-grown software</li>
+<li>
+Design and implement automated deployment methods</li>
+<li>
+Monitor critical systems to ensure availability and performance</li>
+<li>
+Refine processes for onboarding and supporting users</li>
+<li>
+Monitor and enhance user experience and productivity</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Excellent communication skills with a consistent desire to help and empower colleagues</li>
+<li>
+Mid-level OSX and Windows engineering and support</li>
+<li>
+Email administration and support</li>
+<li>
+Able to track service provisioning and define processes for doing so</li>
+<li>
+Able to lift desktop computers and small servers</li>
+<li>
+IP Telephony, preferably Asterisk</li>
+<li>
+Basic knowledge of TCP/IP and Wireless technologies</li>
+<li>
+Some exposure and desire to learn Linux and command line tools</li>
+<li>
+Basic A/V technology knowledge</li>
+</ul>
+<p>
+<strong>Bonus Points for the Following:</strong></p>
+<ul>
+<li>
+iPhone and Android support experience</li>
+<li>
+Single Sign On and centralized authentication technologies (AD, LDAP)</li>
+<li>
+Mid-range storage technologies (RAID, backups, snapshots, replication)</li>
+<li>
+Degree in IT/CS preferred and enthusiastic about Information Technology</li>
+</ul>
+<p>
+<strong>About</strong></p>
+<p>
+In 2011 Yext was named as an Inc 500 fastest growing private companies in 2011 (Top 10 in NYC). Yext was also named to Business Insider&#39;s 2012 Digital 100 list, as one of the world&#39;s most valuable private tech companies. Just a few years old, we already have over 130,000 customers using our product with a combined reach of over 150 million visitors per month.</p>
+<p>
+Our wide open office space allows for easy collaboration across business functions. We believe in pushing boundaries and moving above the rules.</p>
+<p>
+You can read about the Yext team and culture on <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.themuse.com%2Fcompanies%2Fyext&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGaidgZ5BSXc-hoRVTniuoz5UjLEA">themuse</a>, our latest product launch on <a href="http://www.google.com/url?q=http%3A%2F%2Fventurebeat.com%2F2013%2F01%2F15%2Fyext-evolves-business-listings%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNG1Pz40my1lR7gGNNIhVd3ccuaL1Q">Venture Beat</a> and our latest funding on <a href="http://www.google.com/url?q=http%3A%2F%2Ftechcrunch.com%2F2012%2F06%2F12%2Fyext-series-e%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEoYPYgC6fbdmAOguPqKTZpwZPfFQ">Tech Crunch</a>.</p>
+<p>
+<strong>Compensation &amp; Benefits</strong></p>
+<p>
+We treat our employees well and offer tremendous growth opportunities. The Yext leadership supports our team in moving forward &ndash; with business objectives and career growth. In addition to competitive compensation, we offer personalized snacks and meals in the office, a snooze room, a fun room, and vacation, 401(k), and of course, excellent health, dental, and vision insurance.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/yext/BImO06"></script>]]></buttons>
+		</job>
+	</jobs>

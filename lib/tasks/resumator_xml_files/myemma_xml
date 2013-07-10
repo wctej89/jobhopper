@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Tue, 9 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Emma, Inc.]]></company>
+			<job>
+			<id><![CDATA[job_20120822150516_NAZXIDKUGJ7YWPW1]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Developer]]></title>
+			<department><![CDATA[Product]]></department>
+			<team><![CDATA[Team Tech]]></team>
+			<url><![CDATA[http://myemma.theresumator.com/apply/KwPpo1/Developer.html]]></url>
+			<city><![CDATA[Portland]]></city>
+			<state><![CDATA[OR]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[97214]]></postalcode>
+			<description><![CDATA[<p>
+Emma is looking for a Developer to join our growing engineering team.</p>
+<p>
+We&#39;re looking for someone with a proven track record of building robust, scalable platforms with an eye to finding elegant solutions to complicated problems.</p>
+<p>
+Some qualities about the person we&#39;re looking for:</p>
+<ul>
+<li>
+You know Python or similar high-level language. You write code that others want to read. Your commit log is a thing of beauty. You dream in closures.</li>
+<li>
+You have strong technical and architecture skills. You&#39;re as comfortable sketching the 50,000 ft view as you are tuning the tiniest of details, and you&#39;re adept at turning conceptual designs into shippable code.</li>
+<li>
+You understand a variety of data technologies, both relational and non. You&#39;ll know the strengths of each, and when to use them.</li>
+<li>
+You are analytical, inquisitive, and energetic &mdash; with a bias toward proactive communication, collaboration and action.</li>
+</ul>
+<p>
+Applications should be accompanied by a cover letter and code sample.&nbsp;We are looking for folks who would like to live and work in Nashville, TN or Portland, OR.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (High School)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/myemma/KwPpo1"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130415212609_XIRC59K3EO0Z9N3E]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front End Web Developer]]></title>
+			<department><![CDATA[Product]]></department>
+			<team><![CDATA[Team Tech]]></team>
+			<url><![CDATA[http://myemma.theresumator.com/apply/IbZRr7/Front-End-Web-Developer.html]]></url>
+			<city><![CDATA[Nashville]]></city>
+			<state><![CDATA[TN]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[37210]]></postalcode>
+			<description><![CDATA[<p>
+Emma&#39;s development team is on the lookout for a talented, focused front end web developer/designer who has experience with user interface design and creating website mockups and finished products that perform beautifully across multiple browsers and devices.</p>
+<p>
+In this role, you&#39;ll work alongside other developers to promote a downright fabulous customer experience, bringing your technical mastery of modern interface design to Emma&#39;s unique sense of style and rapidly growing application. It&#39;s the perfect opportunity for the detail-minded person who loves collaborating to create delight for users.</p>
+<p>
+When inquiring, please include links to samples of previous interface and web development work in your resume or cover note.</p>
+<p>
+We&#39;re looking for candidates who have:</p>
+<ul>
+<li>
+Proficiency in HTML, CSS, jQuery</li>
+<li>
+Exposure to Backbone.js and a scripting language like Python, Ruby, or PHP</li>
+<li>
+Familiarity with HTML5, CSS3 and responsive web design</li>
+<li>
+Familiarity with version control systems, preferably Git</li>
+<li>
+Familiarity with popular open APIs</li>
+<li>
+Ideally, two or more years of website design experience</li>
+<li>
+Experience being part of teams for multiple websites, with at least one role leading the design and front end development from start to finish</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/myemma/IbZRr7"></script>]]></buttons>
+		</job>
+	</jobs>

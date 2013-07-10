@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[EvoApp, Inc.]]></company>
+			<job>
+			<id><![CDATA[job_20110901205446_HRBMLVYZRT6GBCOD]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Experienced C# .NET Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://evoapp.theresumator.com/apply/oi6sRt/Experienced-C-NET-Developer.html]]></url>
+			<city><![CDATA[Durham]]></city>
+			<state><![CDATA[NC]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[27701]]></postalcode>
+			<description><![CDATA[<p>
+	EvoApp is a Social Media Business Intelligence company based in the tech-friendly Downtown Durham region of North Carolina. We got started helping companies understand the impact of the Social Web on their business in 2009. Since then, we&#39;ve been growing, and we&#39;re looking for a talented, insightful engineer to join our family!</p>
+<p>
+	Our platform is a big-data, unstructured, contextual platform for analyzing free form data from sources such as social networks, blogs, forums, surveys, CRM, ticket systems and more. Our engine helps companies understand the impact of these conversations on their core metrics.</p>
+<p>
+	We&#39;re seeking a .NET developer to help build our Social Media Business Intelligence platform. Join our rapidly growing development team and immediately make an impact. While our headquarters is in North Carolina, we are open to expanding our engineering team to a new region for the right applicant.</p>
+<p>
+	A developer with skills in statistical modeling, predictive algorithms, signal processing, and correlative analysis would be a huge asset to our team. In addition, experience with linguistic, semantic, and contextual analysis of massive datasets is a big plus.</p>
+<p>
+	We are seeking a self-motivated, highly-skilled developer who loves to program and solve complex problems. If you want to work on modern, difficult, and relevant projects then you should talk to us.</p>
+<p>
+	<b>Desired Skills</b></p>
+<ul>
+	<li>
+		.NET (C# or F#)</li>
+	<li>
+		WCF Services</li>
+	<li>
+		Windows Azure</li>
+	<li>
+		SQL Azure</li>
+	<li>
+		Entity Framework 4</li>
+	<li>
+		Experience working with open APIs (REST, SOAP, etc)</li>
+</ul>
+<p>
+	<b>Extra Credit</b></p>
+<ul>
+	<li>
+		Silverlight / WPF Experience</li>
+	<li>
+		ASP.NET MVC</li>
+	<li>
+		Other programming languages</li>
+	<li>
+		Graph Databases</li>
+	<li>
+		NoSQL Databases (MongoDB, Cassandra, etc)</li>
+	<li>
+		HTML5 / Javascript (jQuery, etc)</li>
+	<li>
+		Statistical / Correlative / Predictive modeling experience</li>
+	<li>
+		Data visualization experience</li>
+	<li>
+		Massive dataset processing experience</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/evoapp/oi6sRt"></script>]]></buttons>
+		</job>
+	</jobs>

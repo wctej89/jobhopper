@@ -81,8 +81,6 @@ function fetchNewResults(){
     {
       var response = prepareResponse(jobs);
       console.log(response);
-      //testing
-      // var json = $.parseJSON('{"0": {"company": "Bonobos","created_at": "Fuck you","description": "Software engineer","id": "9600","miles": "1","name": "Rails Beast","updated_at": "Fuck you again"}}');
       response['results'][0] = json;
       Mustache.render($('#results').html(),{jobs:response.results});
     }

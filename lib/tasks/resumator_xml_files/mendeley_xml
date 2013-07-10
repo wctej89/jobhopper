@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Mendeley]]></company>
+			<job>
+			<id><![CDATA[job_20120918112036_FFURTOA1XUY0Y2GY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[QA Team Lead]]></title>
+			<department><![CDATA[QA]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://mendeley.theresumator.com/apply/CUtivu/QA-Team-Lead.html]]></url>
+			<city><![CDATA[Chancery Lane, London]]></city>
+			<state><![CDATA[London]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EC1R 5DF]]></postalcode>
+			<description><![CDATA[<p>
+	As a QA Team Lead at Mendeley you will drive the quality interests of the company, coach and empower a fantastic team, and help build the automated systems which help ensure preventative bug-catching tests are in place.<br />
+	Responsibilities</p>
+<p>
+	&nbsp;&nbsp;&nbsp; Leading and coaching the QA &amp; Support team<br />
+	&nbsp;&nbsp;&nbsp; Guide the QA &amp; Support strategy for Mendeley<br />
+	&nbsp;&nbsp;&nbsp; Ensuring that automated and manual tests are being executed as efficiently as possible</p>
+<p>
+	What you&#39;ll be doing</p>
+<p>
+	&nbsp;&nbsp;&nbsp; Planning and executing a sustainable QA strategy<br />
+	&nbsp;&nbsp;&nbsp; Taking a hands-on approach on building and ensuring that automated test systems are running smoothly<br />
+	&nbsp;&nbsp;&nbsp; Coordinating testing and code quality for all development teams<br />
+	&nbsp;&nbsp;&nbsp; Leading and developing the skills of the QA &amp; Support team<br />
+	&nbsp;&nbsp;&nbsp; Evangelizing testing best-practice across all technical teams<br />
+	&nbsp;&nbsp;&nbsp; Maintaining and extending Continuous Integration systems and practices<br />
+	&nbsp;&nbsp;&nbsp; Testing web, desktop and mobile applications using web and native technologies</p>
+<p>
+	What you should bring</p>
+<p>
+	&nbsp;&nbsp;&nbsp; Proven team lead experience<br />
+	&nbsp;&nbsp;&nbsp; Ability to plan &amp; estimate roadmaps<br />
+	&nbsp;&nbsp;&nbsp; A good understanding of Git<br />
+	&nbsp;&nbsp;&nbsp; Able to write bash &amp; batch scripts<br />
+	&nbsp;&nbsp;&nbsp; Intermediate or higher level of a scripting language such as Ruby or Python<br />
+	&nbsp;&nbsp;&nbsp; A decent understanding of C++, PHP, or Java<br />
+	&nbsp;&nbsp;&nbsp; Professional experience with test automation either from development or QA<br />
+	&nbsp;&nbsp;&nbsp; A strong understanding of continuous integration systems such as Jenkins<br />
+	&nbsp;&nbsp;&nbsp; Experience using bug-tracking software such as Jira, Trac, or Bugzilla<br />
+	&nbsp;&nbsp;&nbsp; Experience working with Windows, Mac, and Linux<br />
+	&nbsp;&nbsp;&nbsp; Excellent written and spoken communication skills<br />
+	&nbsp;&nbsp;&nbsp; A good understanding of the software development process, with a proactive approach to learn new systems and troubleshoot problems<br />
+	&nbsp;&nbsp;&nbsp; Experience with xUnit testing frameworks in at least one language<br />
+	&nbsp;&nbsp;&nbsp; Experience with BDD frameworks such as Watir or Cucumber (desirable)<br />
+	&nbsp;&nbsp;&nbsp; Experience with Selenium based testing tools<br />
+	&nbsp;&nbsp;&nbsp; Experience working within an Agile development environment<br />
+	&nbsp;&nbsp;&nbsp; Experience with Virtualisation technologies such as VirtualBox<br />
+	&nbsp;&nbsp;&nbsp; A pragmatic, can-do approach and collaborative emphasis<br />
+	&nbsp;&nbsp;&nbsp; Experience with RDBMS setup, especially MySQL<br />
+	&nbsp;&nbsp;&nbsp; Experience with testing of mobile products: iOS/Android (desirable)</p>
+<p>
+	What we offer you</p>
+<p>
+	&nbsp;&nbsp;&nbsp; Competitive salary + stock options<br />
+	&nbsp;&nbsp;&nbsp; No out-of-hours support expected<br />
+	&nbsp;&nbsp;&nbsp; 25 days holidays<br />
+	&nbsp;&nbsp;&nbsp; Company benefits such as: cycle to work scheme, childcare vouchers, BUPA (private healthcare), Friday beer o&rsquo;clocks (snacks and drinks on the house), free breakfast, monthly team nights out, annual events (Christmas party and summer barbecue)<br />
+	&nbsp;&nbsp;&nbsp; Working in a great environment in a central London office with roof terrace</p>
+<p>
+	If you are interested, send your CV and cover letter to Amanjot.Khela@mendeley.com</p>
+<p>
+	If you are selected for an interview, we will let you know within two weeks.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/Mendeley/CUtivu"></script>]]></buttons>
+		</job>
+	</jobs>

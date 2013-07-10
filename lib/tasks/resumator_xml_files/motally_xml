@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Motally]]></company>
+			<job>
+			<id><![CDATA[job_20100601202140_UBU4VTQOL2ZVHIE0]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Data Analytics Intern]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://motally.theresumator.com/apply/hgCZ0n/Data-Analytics-Intern.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p><strong>Internship Description</strong></p>
+<p>Motally’s Data Analytics team is seeking an intern to join us for 10-12 weeks this summer.  The intern will gain practical work experience, learn about the mobile analytics business, and receive mentorship from our CTO and the rest of the team.  The intern will set goals/objectives with our CTO at the start of the internship and receive a performance evaluation at the end.</p>
+<p><br />Motally’s Data Analytics team is responsible for all tracking analysis and reporting systems. Our main goal is to provide our clients with accurate data with the right granularity to inform their business decisions.</p>
+<p><br /><strong>Required Skills &amp; Experience</strong><br />• pursuing BS/BA degree or higher<br />• SQL, relational database – MySQL and knowledge of database definition structure and Star schema, as well as some knowledge of analytics reports.<br />• Linux/Obuntu – must be comfortable working exclusively in a Linux environment and accessing Amazon E2 Cloud computing servers.<br />• Very strong documentation skills <br />• Very strong database diagram skills<br />• Very strong quality assurance (QA) skills</p>]]></description>
+			<type><![CDATA[Internship]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/motally/hgCZ0n"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Nomadesk]]></company>
+			<job>
+			<id><![CDATA[job_20120310001925_HIHTYHMUMOKM7WTO]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior PHP Developer]]></title>
+			<department><![CDATA[Product Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://nomadesk.theresumator.com/apply/yks0L3/Senior-PHP-Developer.html]]></url>
+			<city><![CDATA[Austin]]></city>
+			<state><![CDATA[TX]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[78731]]></postalcode>
+			<description><![CDATA[<p>
+	Nomadesk is a small, fun, cool place to work (just come check us out and you won&rsquo;t be sorry).&nbsp; We like to dream about the future of file sharing and cloud computing &ndash; and we need another &ldquo;A player&rdquo; to join our growing team of star developers. In short, we want the best.</p>
+<p>
+	You will be joining a small, growing development team in Austin, TX. A team that is given the environment they need to maximize productivity.&nbsp; (This team reports directly to the SVP Product and Technology.)</p>
+<p>
+	If you join Nomadesk as a PHP Developer, this is what you get to do:</p>
+<ul>
+	<li>
+		Take a leadership role in the future architecture of our back-end server side components and API system as we add new features requiring changes to our core &ldquo;controller&rdquo;.</li>
+	<li>
+		Contribute to the ongoing maintenance of the server side components of the Nomadesk solution.</li>
+	<li>
+		Work with other PHP Developers in both Austin and Belgium to develop the new generation of Nomadesk products.</li>
+	<li>
+		Take on development tasks with both front-end web development and back-end server side components.</li>
+</ul>
+<p>
+	If you are the successful candidate, you will have this background:</p>
+<ul>
+	<li>
+		7-10 years of experience as a PHP developer</li>
+	<li>
+		Experience architecting back-end server side components that include a set of APIs used by both internal systems and 3rd party developers</li>
+	<li>
+		Experience with HTML, CSS, and Javascript</li>
+	<li>
+		Experience using PHP for both web development and for developing backend server side components</li>
+	<li>
+		Experience working in an agile development environment</li>
+	<li>
+		Proven track record in estimating development tasks and meeting those estimates</li>
+	<li>
+		Experience using Linux development environments</li>
+	<li>
+		Experience using an MVC framework (i.e, Cake, Zend, Symfony)</li>
+	<li>
+		Experience with either GIT or SVN</li>
+</ul>
+<p>
+	<br />
+	Stuff that would be nice to have, but not necessary to do the job:</p>
+<ul>
+	<li>
+		.NET development experience</li>
+	<li>
+		Knowledge of how to use jQuery</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/nomadesk/yks0L3"></script>]]></buttons>
+		</job>
+	</jobs>

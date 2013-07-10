@@ -14,5 +14,9 @@ namespace :zip do
       job.updated_at = Time.now
       job.save
     end
+    Tag.all.each do |tag|
+      tag.updated_at = Time.now
+      tag.save
+    end
   end
 end

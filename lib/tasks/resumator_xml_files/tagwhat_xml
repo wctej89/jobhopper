@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Tagwhat]]></company>
+			<job>
+			<id><![CDATA[job_20110103224447_CM7FKYWIOCOBXF6Q]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[iPhone / Web Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://tagwhat.theresumator.com/apply/XqHPHt/IPhone-Web-Developer.html]]></url>
+			<city><![CDATA[Boulder]]></city>
+			<state><![CDATA[CO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[80302]]></postalcode>
+			<description><![CDATA[<p>
+	Tagwhat&nbsp;delivers outstanding location based mobile experiences that enhance your real world -- and we&#39;re growing!</p>
+<p>
+	We have an immediate need for an experienced iPhone and iPad developer whose skills also include web and web application development experience.</p>
+<p>
+	The candidate can be located in Boulder, CO / Columbus, OH (either is a plus) / or be VIRTUAL.</p>
+<p>
+	Detailed requirements:</p>
+<p>
+	&nbsp;iPhone:<br />
+	<br />
+	- At least 1 year of experience in iPhone and iPad native application development<br />
+	- Developed and published commercial iPhone and iPad applications within the iTunes App Store<br />
+	- Should be able to demonstrate apps that were developed and in iTunes App Store<br />
+	- Strong experience with Objective-C and thorough understanding of iPhone SDK<br />
+	- Experience writing rich GUIs for the iPhone and iPad<br />
+	- Experience integrating iPhone and iPad applications with server side APIs (Primarily JSON payloads)<br />
+	- Strong experience detecting / correcting memory usage issues, crashing, etc.<br />
+	- Experience and understanding of GPS/Location API&rsquo;s as well as push technologies<br />
+	- OpenGL and Game experience a plus</p>
+<p>
+	Web Development:</p>
+<p>
+	- General knowledge of basic web technologies (HTML, CSS, JavaScript, etc.)<br />
+	- Moderate to Advanced PHP development in both front-end and back-end web applications<br />
+	- Experience with Javascript, JSON, jQuery, jQuery UI and other AJAX technologies<br />
+	- Minimal MySQL experience and willing to advance those skills<br />
+	- Java development a plus<br />
+	- Photoshop and moderate experience in working with graphics a plus<br />
+	- Basic knowledge and willingness to learn MongoDB a plus</p>
+<p>
+	General:</p>
+<p>
+	- A desire to create something significant, take initiative and move things forward<br />
+	- Ability to quickly learn new technologies and application domains<br />
+	- Ability to develop elegant solutions to complex problems<br />
+	- Ability to work individually or in a team to meet tight deadlines<br />
+	- Excellent analytical and problem solving skills<br />
+	- Excellent interpersonal and communication skills<br />
+	- Enjoy working in a fast-paced dynamic environment with talented professionals</p>
+<p>
+	Salary dependent on experience. Equity also available.&nbsp;</p>
+<p>
+	This is really an outstanding opportunity for the right person to get involved in something new and groundbreaking. &nbsp;If this is you, please get in touch.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/tagwhat/XqHPHt"></script>]]></buttons>
+		</job>
+	</jobs>

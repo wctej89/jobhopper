@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Ciespace]]></company>
+			<job>
+			<id><![CDATA[job_20100714160324_HIEMNDPVTGMGMYPX]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer - CAE]]></title>
+			<department><![CDATA[Research & Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://ciespace.theresumator.com/apply/0bbOjd/Software-Engineer-CAE.html]]></url>
+			<city><![CDATA[Pittsburgh]]></city>
+			<state><![CDATA[PA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[15213]]></postalcode>
+			<description><![CDATA[<p>
+	Ciespace Corporation is hiring Software Engineers to develop new Computer Aided Engineering (CAE) products.</p>
+<p>
+	Responsibilities:</p>
+<ul>
+	<li>
+		Design, develop, test and deploy software.&nbsp; As a member of the development team you will work closely with other developers, test engineers, researchers, management and customers to develop new products.</li>
+</ul>
+<p>
+	Requirements:</p>
+<ul>
+	<li>
+		BS or MS in Computer Science or equivalent (Ph.D. a plus)</li>
+	<li>
+		3-5 years professional development experience</li>
+	<li>
+		Extensive experience programming in C++</li>
+	<li>
+		Experience with user interface frameworks (Qt,fltk,wxWidgets)</li>
+	<li>
+		Knowledge of 3D graphics principles &amp; techniques</li>
+	<li>
+		Experience using OpenGL or other 3d graphics APIs</li>
+	<li>
+		Experience with version control, issue tracking, and build systems</li>
+	<li>
+		Experience debugging and testing</li>
+	<li>
+		Experience working on complex software projects with large code bases</li>
+	<li>
+		Strong verbal and written communication skills</li>
+</ul>
+<p>
+	Beneficial skills and experience:</p>
+<ul>
+	<li>
+		Distributed and multi-threaded application development</li>
+	<li>
+		Network Programming</li>
+	<li>
+		Python and other scripting languages</li>
+	<li>
+		Experience programming Java</li>
+	<li>
+		Cross platform development (Windows, Linux, Mac)</li>
+	<li>
+		Experience with Agile Software Development / XP Practices</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/ciespace/0bbOjd"></script>]]></buttons>
+		</job>
+	</jobs>

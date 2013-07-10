@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[SchoolTube, Inc.]]></company>
+			<job>
+			<id><![CDATA[job_20110503124342_LF1ZPIXNXNQXQWH9]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Smart & Motivated]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://schooltube.theresumator.com/apply/T94fy3/Smart-Motivated.html]]></url>
+			<city><![CDATA[St. Louis]]></city>
+			<state><![CDATA[MO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[63128]]></postalcode>
+			<description><![CDATA[<p>
+	While we don&#39;t have any positions open now, we&#39;re always looking for smart and motivated people to join our team! If you&#39;re interested, go ahead and send us your resume and we&#39;ll keep it on file for future openings.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/schooltube/T94fy3"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[WaveMarket]]></company>
+			<job>
+			<id><![CDATA[job_20130502174728_DNRKTGIVKZPZJUBQ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://wavemarket.theresumator.com/apply/w7r74v/Software-Engineer.html]]></url>
+			<city><![CDATA[Emeryville]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94608]]></postalcode>
+			<description><![CDATA[<p>
+Write code.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/wavemarket/w7r74v"></script>]]></buttons>
+		</job>
+	</jobs>

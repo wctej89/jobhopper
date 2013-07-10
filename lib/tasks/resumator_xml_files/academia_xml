@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Academia.edu]]></company>
+			<job>
+			<id><![CDATA[job_20100121204126_BRABLXBJPD3PWSPE]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Fast-growing startup looking for outstanding web developer]]></title>
+			<department><![CDATA[Academia.edu]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://academia.theresumator.com/apply/R1fd3E/Fastgrowing-Startup-Looking-For-Outstanding-Web-Developer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94133]]></postalcode>
+			<description><![CDATA[<p><strong><strong>What are we building?</strong></strong></p>
+<p>Academia.edu helps academics find out who's researching what. Academia.edu helps you:</p>
+<p> </p>
+<ul>
+<li><strong>Find</strong> people in a research area</li>
+<li><strong>Follow</strong> them, and see their research updates in your news feed</li>
+<li><strong>Share</strong> your own research</li>
+</ul>
+<p> </p>
+<p><strong><strong>What is our vision?</strong></strong></p>
+<p>At Academia.edu we believe that research has been neglected by a lot of social media developments in the last few years. Our goal is to change that. Our vision is for every researcher in the world to check Academia.edu every morning, or multiple times a day, and find it an indispensable tool for keeping in touch with their research community.</p>
+<p> </p>
+<p><strong>Who are the founders of Academia.edu?</strong></p>
+<p>Academia.edu is based in San Francisco, and has a small elite team of four people. Two of the founders (Richard Price and Ben Lund) are graduates of Oxford and Cambridge, one with a Ph.D, and both are 'aliens of extraordinary ability' according to the US immigration office.</p>
+<p> </p>
+<p>Richard Price previously built PeopleRadar, one of the largest apps on the Facebook Platform, and Ben Lund led the development of Connotea, which is one of the largest academic bookmarking applications on the web. Bios of all the team members are on our jobs page <a href="http://academia.edu/jobs">here</a>.</p>
+<p> </p>
+<p>We obsessively care about building an awesome product, and hiring passionate and smart people to make this happen.</p>
+<p> </p>
+<p><strong>What is our progress so far?</strong></p>
+<p>We launched Academia.edu just over a year ago, and we are now one of the largest online communities of academics in the world. We have over 100,000 profiles, and over 400,000 unique monthly visitors.</p>
+<p> </p>
+<p>Some of the world's most famous professors are on Academia.edu, including Stephen Hawking, Richard Dawkins, Paul Krugman, and 70% of 2008's Nobel prize winners. We are backed by Spark Ventures, a venture capital firm, and several angel investors.</p>
+<p> </p>
+<p><strong>What will you be working on?</strong></p>
+<p>Our culture is very focussed on product quality and engineering quality. We care deeply about building an awesome product. Every day you will be:</p>
+<p> </p>
+<ul>
+<li>Building something new, and most days you will be deploying it to production</li>
+<li>Dealing with scaling issues, UI issues, javascript framework challenges</li>
+<li>Contributing to setting the company's priorities in any area that comes up - strategy for product, marketing, fund-raising, monetization, or hiring.</li>
+</ul>
+<p> </p>
+<p><strong>Is Academia.edu a classic early-stage startup where everyone contributes to every part of the business?</strong></p>
+<p>Yes!</p>
+<p> </p>
+<p><strong>If we had to say the two most important things we are looking for in our next hire, what would they be?</strong></p>
+<p> </p>
+<ul>
+<li><strong>Passion</strong></li>
+<li>Being able to build <strong>awesome web apps</strong></li>
+</ul>
+<p> </p>
+<p><strong>What does your experience have to be?</strong></p>
+<p><strong><span style="font-weight: normal;">What is most important, by far, is that you are a quick learner who can discover and pick up new techniques fast.</span></strong></p>
+<p> </p>
+<ul>
+<li><strong>Web development</strong>: you have 2+ years of web development experience</li>
+<li><strong>Full stack</strong>: you have experience designing and implementing the full stack of a web application: sysadmin, database implementation and optimization, application development, front-end CSS, HTML and JavaScript.</li>
+<li><strong>Scaling</strong>: ideally you have some experience scaling an application to deal with an increasing user base. This is not essential though.</li>
+</ul>
+<p> </p>
+<p><strong>What technologies do we work with?</strong></p>
+<p> </p>
+<ul>
+<li>Ruby on Rails</li>
+<li>ActionScript 3</li>
+<li>Jquery</li>
+<li>Nginx</li>
+<li>PostgreSQL</li>
+<li>HAProxy</li>
+<li>Mongrel</li>
+<li>Memcached</li>
+<li>Scribd/iPaper API</li>
+<li>Facebook Connect</li>
+</ul>
+<p> </p>
+<p>You should be comfortable finding the right tools for the job while becoming great at whatever tool you're using. Experience with Rails is a plus, but far more important is your ability to pick up new technologies quickly.</p>
+<p> </p>
+<p><strong>What professional qualities do we admire?</strong></p>
+<p> </p>
+<ul>
+<li><strong>Exceptional engineering</strong>: innovation at the cutting edge of web development to overcome the complex challenges that can arise.</li>
+<li><strong>Obsession with product and user experience</strong>: obsession with creating a great product, and a great user experience. Feeling anguish and pain when the site is slow, or when a user interface or feature is bad, and pleasure when the site is fast and intuitive.</li>
+<li><strong>Problem-solving</strong>: intellectual satisfaction from solving problems. Finding the best and quickest solution to the problem the team is currently working on.</li>
+<li><strong>Technical ambition</strong>: pushing the boundaries of the technologies we work with. For example, when thinking about the best UI for a feature, having no fear in considering creating a new JavaScript framework, if that is what is required to make it work right.</li>
+<li><strong>Finishing</strong>: finishing products and deploying code. Subscribing to the idea that exceptional engineering, combined with exceptional creativity, are what makes a startup succeed.</li>
+<li><strong>Versatility</strong>: comfort with tweaking a CSS style or optimizing a SQL query all in the same morning</li>
+<li><strong>Ability to prioritize features</strong>: being able to look at a ton of possible features on a whiteboard, add more to the mix, and then choose which one has the highest priority</li>
+<li><strong>Being thoughtful about productivity</strong>: thinking about what working environments and structures make us optimally productive. Ensuring that the right environment and structures are in place for everyone.</li>
+<li><strong>Dedication</strong>: willingness to get up at 4am to restart the servers, and then build something the next day so the servers don’t go down again</li>
+<li><strong>Personal investment in what we work on</strong>: caring personally about the impact of our work on people around the world</li>
+</ul>
+<p> </p>
+<p><strong>What personal qualities do we admire?</strong></p>
+<p> </p>
+<ul>
+<li><strong>Independent thought</strong>: being able to learn from people around us when we need to, and also challenge them when they need to be challenged</li>
+<li><strong>Being inquisitive</strong>: thinking of ways of improving things that we interact with</li>
+<li><strong>Creativity</strong>: being able to develop new ideas for the product and enhance the vision of the company</li>
+<li><strong>Passion for the Academia.edu vision</strong>:  passion for building a platform that could change the way that research is shared and discovered</li>
+<li><strong>Keenness to have an impact on the world around you</strong>: keenness to be the one to build the platform behind Academia.edu. The possibility of positively improving the lives of millions of people via what we build is very exciting for us.</li>
+<li><strong>Being visionary</strong>: thinking ‘What will the world look like in 10 years’ time, and how can we build that now?’</li>
+</ul>
+<p> </p>
+<p><strong>What are we offering?</strong></p>
+<p> </p>
+<ul>
+<li>The chance to build <strong>an awesome product</strong> that could revolutionize research</li>
+<li>The chance to work with a<strong> fun and intellectually inquisitive</strong> team</li>
+</ul>
+<p> </p>
+<p>We also offer some nice benefits! You will get a market salary and stock options. We want to hire someone exceptional, and we want to be generous with stock options to make this happen.</p>
+<p> </p>
+<p>In addition, you will also get:</p>
+<p> </p>
+<ul>
+<li>health insurance</li>
+<li>any ergonomic chair of your choosing</li>
+<li>a laptop with two huge monitors</li>
+<li>a smartphone (iPhone/BlackBerry/Nexus One)</li>
+</ul>
+<p> </p>
+<p><strong>Where is the job based?</strong></p>
+<p>The job is based in San Francisco. We will help with visas and other issues relating to re-location.</p>
+<p> </p>
+<p><strong>How do I apply?</strong></p>
+<p>If you are interested to learn more, please email Richard Price at richard--at--academia.edu.</p>
+<p>To make your application stand out, please sign up to Academia.edu, and let us know what you think of the site:</p>
+<p> </p>
+<ul>
+<li>what is good about the user experience, and what is bad</li>
+<li>what features we have that you think are good, and which are bad, or which are missing</li>
+</ul>
+<p> </p>
+<p> </p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/academia/R1fd3E"></script>]]></buttons>
+		</job>
+	</jobs>

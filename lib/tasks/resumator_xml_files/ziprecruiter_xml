@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[ZipRecruiter.com]]></company>
+			<job>
+			<id><![CDATA[job_20120423232439_UAQWSBLSOLHUQH5X]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Test Job #1]]></title>
+			<department><![CDATA[Software Developer]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://ziprecruiter.theresumator.com/apply/93xFHm/Test-Job-1.html]]></url>
+			<city><![CDATA[Santa Monica]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90401]]></postalcode>
+			<description><![CDATA[<p>ZipRecruiter is looking to expand our 3 person engineering team.&nbsp;&nbsp; We are small (12 full time employees), growing rapidly, bootstrapped, and profitable.</p><p>We help employers and recruiters distribute their jobs online and screen their applicants.&nbsp; We have a large number of paying customers and job seekers using our service.&nbsp; You will be working directly with the company co-founders and will have the opportunity to lead significant projects.&nbsp; We pay market competitive salaries and offer generous equity and cash bonuses.&nbsp; We try to be more laid back than the average startup and more fun than the average BigCo - we&#39;re fans of 37signals and we emulate a lot of what they talk about.</p><p>We&#39;re looking for the type of people who want to someday start their own internet company, and we&#39;re happy to help mentor employees who want to do this.</p><p>Job requirements:</p><p>- excellent software design and development skills<br />- experience with general web development and programming in a Linux environment<br />- some experience with Perl and SQL (not necessary for interns)</p><p>Technologies we use:</p><p>Perl, Catalyst, MySQL, Apache, Solr, Redis, jQuery, Selenium, AWS, Linux</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/ziprecruiter/93xFHm"></script>]]></buttons>
+		</job>
+	</jobs>

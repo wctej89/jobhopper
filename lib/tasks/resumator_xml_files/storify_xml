@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Storify]]></company>
+			<job>
+			<id><![CDATA[job_20120705232603_UPESZKLXGE8ISAGT]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Lead engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://storify.theresumator.com/apply/J4pFmX/Lead-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>The lead engineer will work closely with company founders and the team to establish product roadmaps and set quarterly goals as well as bi-weekly release schedules. The person will lead and grow our existing strong group of all-around developers working on a full-JavaScript stack (Node.js, MongoDB). She/he will have the chance to grow and manage a larger engineering team as Storify scales.</p><p><strong>We are looking for a hands-on technical engineer who will lead engineering</strong> from the front. We seek a full-stack coder with strong understanding of back-end infrastructure who has experience architecting complex systems. <strong>The ideal candidate has prior startup experience and loves building things from the ground up</strong>. She/he can recruit engineers, and is also be experienced at mentoring and guiding development teams. The lead engineer will be on the ground floor to build the engineering team and culture.</p><p>Experience with search, natural language processing, relevance, ranking algorithms, social graph and news feed data structures are a big plus.</p><p><u>Responsibilities</u></p><ul><li>Lead architecture and development of search and recommendation engine for Storify&rsquo;s dataset of curated social media</li><li>Recruit, manage and mentor engineering and IT/Operations staff.</li><li>Assure uptime of production environment</li><li>Conduct code reviews</li><li>Scale infrastructure</li><li>Manage QA, bug tracking, deployments and overall site performance</li><li>Oversee internal and external ticketing systems</li><li>Manage, implement and control all health and performance monitoring and backup tools</li></ul><p><u>Qualifications</u></p><ul><li>Experience at a fast-paced startup</li><li>History of managing and growing great teams</li><li>BS in computer science or similar degree, MS preferred (equivalent work experience also taken into account)</li><li>Ability to architect complex web applications and APIs</li><li>Ability to do profiling to measure and optimize performance</li><li>Strong JavaScript knowledge (Node.js)</li><li>Experience with MongoDB, Redis, Solr</li></ul><p><u>Perks</u></p><p>We have a small team of international people speaking a total of 6 different languages (English, French, German, Spanish, Italian, Russian)</p><p>We are based in San Francisco in a bright, naturally lit loft office in the new &ldquo;up and coming&rdquo; area of town (home to Twitter, Code for America, Zencoder, FontShop).</p><p>The position comes with competitive salary based on experience and full benefits, along with substantial equity for being a very early employee.</p><p>This is a great opportunity for someone who is passionate about creating something that will change the way people discover what is happening on our planet and what matters in the world. Storify already has a lot of momentum that includes users from top media companies (New York Times, Wall Street Journal, CNN, Mashable), brands (IBM, Salesforce, Samsung, Adobe) and organizations (White House, United Nations). We are backed by top-tier Silicon Valley venture capital. We need smart and creative talent to help us go much further and create the new information network.</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/storify/J4pFmX"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120705233008_YTKVT9IJ71GBVSV0]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Lead UX designer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://storify.theresumator.com/apply/eHRJ3i/Lead-UX-Designer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p><u>Responsibilities</u></p><ul><li>Participate in design and product discussions, taking ideas from concept and prototypes through production</li><li>Actively develop creative solutions to complex user experience problems and propose improvements to existing user flows</li><li>Translate user needs into elegant, intuitive interfaces</li><li>Adhere to established style guidelines and develop new styles and patterns as necessary</li><li>Design and iterate on low/high fidelity wireframes, interaction flows, interface transitions and visual designs</li><li>Run user-testing and apply research methodologies</li><li>Balance creativity with consistency, while factoring in development efficiency and site performance when designing</li></ul><p><u>Qualifications</u></p><ul><li>3+ years experience designing interactive products.</li><li>Proactive and creative problem solver with an intellectual interest in current and new technologies and techniques</li><li>You don&rsquo;t think about features and screens, you think about user flows</li><li>Mobile experience (apps, responsive Web design)</li><li>Well-organized, with attention to detail and excellent follow-through skills</li><li>Exceptional written and verbal communication skills and collegiality</li><li>Desire to work in a collaborative environment where you thrive on iteration</li><li>HTML/CSS/JS knowledge is a plus but not mandatory</li></ul><p><br /><u>Perks</u></p><p>We have a small team of international people speaking a total of 6 different languages (English, French, German, Spanish, Italian, Russian)</p><p>We are based in San Francisco in a bright, naturally lit loft office in the new &ldquo;up and coming&rdquo; area of town (home to Twitter, Code for America, Zencoder, FontShop).</p><p>The position comes with competitive salary based on experience and full benefits, along with substantial equity for being a very early employee.</p><p>This is a great opportunity for someone who is passionate about creating something that will change the way people discover what is happening on our planet and what matters in the world. Storify already has a lot of momentum that includes users from top media companies (New York Times, Wall Street Journal, CNN, Mashable), brands (IBM, Salesforce, Samsung, Adobe) and organizations (White House, United Nations). We are backed by top-tier Silicon Valley VC (Khosla Ventures, General Catalyst). We need smart and creative talent to help us go much further and create the new information network for the social web.</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/storify/eHRJ3i"></script>]]></buttons>
+		</job>
+	</jobs>

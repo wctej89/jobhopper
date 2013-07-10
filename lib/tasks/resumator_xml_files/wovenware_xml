@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Wovenware]]></company>
+			<job>
+			<id><![CDATA[job_20130117152613_W9G27MPLBXR0U5WN]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[.Net Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://wovenware.theresumator.com/apply/MENwCP/Net-Developer.html]]></url>
+			<city><![CDATA[San Juan]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Puerto Rico]]></country>
+			<postalcode><![CDATA[00909]]></postalcode>
+			<description><![CDATA[<p>
+The Development team is looking for a strong software developer that accept the challenge and join the fastest IT Consulting Company in Puerto Rico, <strong>WOVENWARE</strong>.&nbsp;We&rsquo;re looking for a developer who is willing to learn fast about the latest tecnologies and &nbsp;come up with the best solutions for our clients. The candidate must have a strong history of investigation, design, construction, implementation and documentation of new solutions.&nbsp;</p>
+<p>
+&nbsp;</p>
+<p>
+&nbsp;</p>
+<p>
+<u><strong>Requirements Includes:</strong></u></p>
+<ul>
+<li>
+Bachelor Degree in Computer Science, Computer Engineering or related field.</li>
+<li>
+3-4 years working as a Programmer/Developer</li>
+<li>
+Solid experience with C#.NET, SQL, Web Services, ASP.NET, TSQL</li>
+<li>
+Excellent communication skills-&nbsp;Bilingual (Spanish / English)&nbsp;</li>
+<li>
+Know about Java, HTML5, JavaScript and other technologies</li>
+<li>
+Excellent Interperson</li>
+</ul>
+]]></description>
+			<type><![CDATA[Contracted to Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/wovenware/MENwCP"></script>]]></buttons>
+		</job>
+	</jobs>

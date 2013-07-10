@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[GroupCard]]></company>
+			<job>
+			<id><![CDATA[job_20100601180550_JBW99ASE4YKX1F4A]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Developer]]></title>
+			<department><![CDATA[GroupCard]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://groupcard.theresumator.com/apply/zClxhW/Web-Developer.html]]></url>
+			<city><![CDATA[Milwaukee]]></city>
+			<state><![CDATA[WI]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[53204]]></postalcode>
+			<description><![CDATA[<div class="listing-container">
+<p><span class="caps">LAMP</span> Developer</p>
+<p>GroupCard is looking for more rockstar developers to join our growing  team. We value self-directed, entrepreneurial generalists with good  ideas who can take charge of a project and see it through all stages of  development. Must be able to hit the ground running — we have a lot to  do. Will pay extra for awesome.</p>
+<p><span class="caps">NEEDS</span>;<br /> lamp(php), jquery, css, familiarity with mvc, experience with  third-party apis, social web ninja, strong written and verbal skills,  dedication to deadlines, pride/joy in your work</p>
+<p><span class="caps">WANTS</span>;<br /> RoR, scrum/xp, smarty, mootools, python, google app engine, mobile  experience, open source contributor, prior startup/entrepreneurial  experience</p>
+<p>These positions are for full-time developers who will work out of our  Milwaukee, WI office. Freelance offers and remote requests need not  apply.</p>
+<hr />
+<p>GroupCard is a two-time winner of Facebook’s fbFund, participated in  Facebook’s incubator program in Palo Alto, and has been invited to  develop against private beta apis by facebook, paypal, and Amazon. All  development takes place in Milwaukee, WI. GroupCard was recently  acquired by InComm, giving us a ton of new opportunities, and giving you  a ton of room to grow in our organization.</p>
+</div>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/groupcard/zClxhW"></script>]]></buttons>
+		</job>
+	</jobs>

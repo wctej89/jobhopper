@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Rails Machine]]></company>
+			<job>
+			<id><![CDATA[job_20120516155421_6OXXPOHG3SYZUPJ3]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Operations Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://railsmachine.theresumator.com/apply/3U0IIE/Operations-Engineer.html]]></url>
+			<city><![CDATA[Atlanta]]></city>
+			<state><![CDATA[GA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[30310]]></postalcode>
+			<description><![CDATA[<p>
+We are looking for an engineer who is passionate about availability, performance, and security with the desire to build beautiful systems that support these principles. &nbsp;Our current need is for someone in (or very close to) Atlanta with experience in the data center, racking and wiring servers and managing infrastructure. &nbsp;You&#39;ll work closely with our director of operations to manage our growing infrastructure at our data center and be involved in designing and implementing the next version of our platform.</p>
+<p>
+The Operations Engineer role is highly technical and requires a thorough understanding of all of components of a modern web application stack, from the network to the front-end, for supporting our customer applications and our internal infrastructure. We provide managed services, open source product development, and data center infrastructure for our customers.</p>
+<p>
+You must be willing to share in an on-call rotation and work diligently to eliminate all sources of operational disruption through deep problem solving, automation, refactoring, and redesign. We manage over 100 web applications for customers from small cloud setups to multi-rack infrastructure. You must thrive on the edge of control and be a stabilizing force for the challenges of high scale operations and rapid fire context switching to tease order from chaos.</p>
+<p>
+During tranquil times, you should be evolving our platform towards supporting the triune nature of web operations by exploring all available ingredients and crafting them into holistic solutions. You should employ the best tools available (or create new ones) in the proper combination to support our team and the customers&#39; goals.</p>
+<p>
+You must be an effective communicator, seek continuous improvement, and enjoy the challenges of working with a team of peers who are constantly learning and growing their skills.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Skills and Experience</strong></p>
+<p>
+These are examples of the skills and experience that you must have or be willing to learn very quickly on your own.</p>
+<p>
+<strong>Theory:&nbsp;</strong>OODA,&nbsp;distributed systems, resilience engineering, holism, capacity planning, solving for pattern</p>
+<p>
+<strong>Languages:&nbsp;</strong>Ruby, Erlang, C++, Python, Javascript</p>
+<p>
+<strong>OS: </strong>Ubuntu, CentOS, IllumOs (SmartOS, OmniOs)</p>
+<p>
+<strong>Tech:</strong> Xen, KVM, Dtrace, ZFS, drbd, heartbeat/pacemaker, PXE, ZooKeeper</p>
+<p>
+<strong>Data:</strong> MySQL, PostgresSQL, Riak, MongoDB, Redis, Memcached, Hadoop</p>
+<p>
+<strong>Frontend:</strong> Apache, Nginx, Varnish, Zeus<br />
+<br />
+<strong>Monitoring:</strong> Nagios, Ganglia, Scout, NewRelic, Circonus, Boundary, PagerDuty<br />
+<br />
+<strong>Automation: </strong>Moonshine, Capistrano, Chef, Puppet<br />
+<br />
+<strong>Network:</strong> iptables, haproxy, zeromq, vpn, ids/ips<br />
+<br />
+<strong>Infrastructure:</strong> Infiniband, Force10, RAID design, server design, Disk I/O, IPMI, rack design<br />
+<br />
+<strong>Public Clouds:</strong> Amazon AWS, Joyent</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Location</strong></p>
+<p>
+Our office is located in beautiful Savannah, GA,. However, this position is specifically for Atlanta at this time. &nbsp;You&#39;ll be working remotely with our engineers most of the time and make trips to Savannah a few times a year for team building (beverages, food and ping pong).</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Company</strong></p>
+<p>
+The Rails Machine team is a very passionate group of engineers who are focused on helping our customers succeed while creating the best work environment possible. Founded in 2006, we were the first company dedicated to supporting Ruby on Rails applications in production through consulting, 24/7 response, hosting, and full stack support. We&#39;ve developed over 50 Ops-focused open source repositories and present regularly at conferences. We are often praised by customers for &quot;saving their asses.&quot;</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Benefits</strong></p>
+<p>
+We offer a competitive salary and a complete benefits package. Our office is located in beautiful Savannah, GA, it&#39;s located on Ellis Square, 15 minutes from the beach, and is well equipped for your ping pong, beer, and caffeine needs.</p>
+<ul>
+<li>
+Health, Dental, and Vision</li>
+<li>
+Life Insurance and AD&amp;D</li>
+<li>
+401K with matching</li>
+<li>
+Flexible hours</li>
+<li>
+Remote work environment</li>
+<li>
+Result-oriented leave time - need time off? &nbsp;As long as things get done, take it.</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Interested?</strong></p>
+<p>
+Our team is very special and we look forward to hearing from you. At this time, we can only consider candidates who are legal to work in the USA.&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/railsmachine/3U0IIE"></script>]]></buttons>
+		</job>
+	</jobs>

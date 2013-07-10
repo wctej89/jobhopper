@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Cmune]]></company>
+			<job>
+			<id><![CDATA[job_20120411042542_2AG0HKBYBFHQXRT4]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Lead Gameplay Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cmune.theresumator.com/apply/Ics8VE/Lead-Gameplay-Engineer.html]]></url>
+			<city><![CDATA[Beijing]]></city>
+			<state><![CDATA[Beijing]]></state>
+			<country><![CDATA[China]]></country>
+			<postalcode><![CDATA[100086]]></postalcode>
+			<description><![CDATA[<p>
+	Cmune is looking for an experienced <strong>Senior Gameplay Engineer</strong> developer with Unity3d experience. In this role, you will work closely with the Technical Director and a team of hardcore programmers on our award winning flagship title UberStrike. You will be regularly involved in the game design process and your code will be used by millions of players.</p>
+<p>
+	<u>Responsibilities:</u><br />
+	&bull; Minimum of 3+ years working as a lead engineer or equivalent<br />
+	&bull; You enjoy profiling and performance tuning code to remove bottlenecks<br />
+	&bull; Excellent skills in 3D math, trigonometry and linear algebra<br />
+	&bull; Have experience with multiplayer network architecture and protocol design<br />
+	&bull; You&rsquo;ve used Unity3D, or another AAA engine on a shipping title<br />
+	&bull; A strong background in C / C++ and C#. Mono/.Net experience is ideal<br />
+	&bull; You are committed to code quality, documentation and effective testing procedures<br />
+	&bull; Enjoy playing and making games and have a good understand of what makes a game fun</p>
+<p>
+	The role requires you to be organized, communicate effectively and get everyone working together. You should be keen to pick up new knowledge, skills and techniques and have the ability to apply them. As collaboration is essential, you must have excellent written and oral English to effectively share ideas, concepts and processes with the rest of the team. We offer a fantastic opportunity to learn and help build a firm pioneering the 3D social gaming space. You will work with amazingly talented developers and artists in an informal, energetic and international working environment.</p>
+<p>
+	The position is based in Beijing, China with an international team from 8 countries.<br />
+	Please email us a cover letter along with your resume and a work sample, including earliest start date.<br />
+	&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cmune/Ics8VE"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[AD60, Inc]]></company>
+			<job>
+			<id><![CDATA[job_20100813143727_X3DL6XGZ32WJYUVB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Developer -  PHP, Rails 3, HTML5, jQuery]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://ad60.theresumator.com/apply/yawE6a/Web-Developer--PHP-Rails-3-HTML5-JQuery.html]]></url>
+			<city><![CDATA[Brooklyn]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[11201]]></postalcode>
+			<description><![CDATA[<p>AD:60 is a two year old startup located in Brooklyn, NY (DUMBO). We develop consumer facing products, such as our most popular website: <a title="http://www.mybanktracker.com/" href="http://www.mybanktracker.com/">http://www.mybanktracker.com/</a>.</p>
+<p><strong>Responsibilities:</strong></p>
+<p>Daily tasks include maintaining and optimizing existing web properties, and reporting directly to CTO. You'll be part of a team that is building the next generation of web services and tools. You must be self-motivated to explore and learn new technologies.</p>
+<p><strong>Requirements:</strong></p>
+<p>You'll need to know how to code for the frontend and backe  nd, and how it impacts the speed of a website. A big plus is iPhone or Android development experience.</p>
+<p><strong>Specific technologies include: </strong></p>
+<ul>
+<li>HTML5</li>
+<li>jQuery</li>
+<li>PHP 5</li>
+<li>MySQL 5</li>
+</ul>
+<p>A plus:</p>
+<ul>
+<li>CakePHP 1.2 (or similar PHP Framework)</li>
+<li>Mobile development platforms (iPhone, Android)</li>
+</ul>
+<p>You'll be required to demonstrate your experience during the interview.</p>
+<p>More details can be found here: <a title="http://www.ad60.com/jobs/" href="http://www.ad60.com/jobs/">http://www.ad60.com/jobs/</a></p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/ad60/yawE6a"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20100922205136_BDPDTF4Z2BRDTZH4]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Writer/Analyst Intern]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://ad60.theresumator.com/apply/bOBAOP/WriterAnalyst-Intern.html]]></url>
+			<city><![CDATA[Brooklyn]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[11201]]></postalcode>
+			<description><![CDATA[<p>
+	<img alt=\"logo\" src=\"http://www.ad60.com/wp-content/uploads/2010/04/AD60_ONE1.jpg\" /></p>
+<p>
+	We&#39;re a small-but-growing product development company looking for highly motivated, detail-oriented candidates for a part-time internship. We&rsquo;re looking for an intern to assist us with daily tasks including research, analysis, writing and daily data entry for various projects, including <a href=\"http://www.MyBankTracker.com\">MyBankTracker.com</a>. This is an opportunity for the right candidate to get started and learn the industry from bottom up and could lead to a permanent position.</p>
+<p>
+	<img alt=\"Office\" src=\"http://www.ad60.com/wp-content/uploads/2010/08/AD60_3A_04.jpg\" /> <strong>Necessary qualifications:</strong></p>
+<ul>
+	<li>
+		Must have college degree or currently be in school</li>
+	<li>
+		Strong communication skills</li>
+	<li>
+		Ability to multi-task</li>
+	<li>
+		Strong writing and editing skills</li>
+	<li>
+		Good understanding of social networks/online media</li>
+</ul>
+<p>
+	For more information please visit <a href=\"http://www.ad60.com\">http://www.ad60.com</a></p>]]></description>
+			<type><![CDATA[Internship to Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/ad60/bOBAOP"></script>]]></buttons>
+		</job>
+	</jobs>

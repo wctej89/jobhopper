@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[RightAction]]></company>
+			<job>
+			<id><![CDATA[job_20121129201335_FMMHIGGPWBSS9LKB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sales Director]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://rightaction.theresumator.com/apply/bWU4EP/Sales-Director.html]]></url>
+			<city><![CDATA[New York City]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p>
+Led by a seasoned team of entrepreneurs, marketers, technologists and quants from such companies as Google, DoubleClick, CitiGroup and the NSA, RightAction is the leading provider of digital media trading technology and services.&nbsp; At the core of their service is an RTB ad-serving platform which offers human-focused analytical capabilities to optimize ROI and ROS goals.</p>
+<p>
+<br />
+RightAction is currently seeking a highly qualified and experienced Sales Director with exceptional sales, communication, organization, and analytical skills. In this critical role, the Sales Director will be responsible for the identification, targeting, and execution of online media and technology companies. This will consist mainly of client-facing information discovery, proposal development, and translation of learnings into strategic and tactical recommendations, contract execution, and identification of upsell opportunities.</p>
+<p>
+<u><strong>Responsibilities:</strong></u></p>
+<ul>
+<li>
+Work to develop strategic plan to achieve revenue goals; hit or exceed these revenue goals</li>
+<li>
+Cultivate relationships with publishers, ad networks, trading desks and holding companies with the goal of attracting them to subscribe to the RightAction platform.</li>
+<li>
+Develop and expand advertiser and agency partnerships with detailed attention to client needs, development of case studies for purpose of broadcasting agency-client wins and for up-selling within agency</li>
+<li>
+Develop and maintain strong active relationships with key client stakeholders at both senior and mid-management levels</li>
+<li>
+Develop an understanding of and effectively communicate RightAction&rsquo;s value proposition, technology, processes, partnerships as it relates to growth of current and prospective client accounts</li>
+<li>
+Develop in-depth knowledge of the industry and of the real time biddable marketplace</li>
+<li>
+Other responsibilities, as may be required, such as: conference attendance, industry event attendance, and other substantive activities as we may decide</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<u><strong>Requirements:</strong></u></p>
+<ul>
+<li>
+5-8 years of experience working in the Digital Ad space in a sales capacity</li>
+<li>
+Must have an understanding of agency, advertiser, data and vendor landscapes and trends and can answer questions like: Who are the major players, how do they buy, from whom; how do they shift budgets and strategic direction?</li>
+<li>
+Track record of exceeding goals and targets</li>
+<li>
+Self motivated, driven</li>
+<li>
+Excellent communication skills, both verbal and written</li>
+<li>
+Excellent presentation skills</li>
+<li>
+Desire to work among innovators in a collaborative environment</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/rightaction/bWU4EP"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130508134625_LTKHGRESH4AEGMQN]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://rightaction.theresumator.com/apply/cVZNkY/Software-Engineer.html]]></url>
+			<city><![CDATA[Philadelphia]]></city>
+			<state><![CDATA[PA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[19104]]></postalcode>
+			<description><![CDATA[<p>
+<u><strong>Overview:</strong></u></p>
+<p>
+RightAction is an innovative online advertisement and technology company. We allow companies to buy online advertising media more efficiently and effectively by delivering simple solutions through complex data analysis. We are one of the fastest growing start-ups in Philadelphia, and are located in the Cira Centre next to 30th Street Station, just a short walk from the heart of Center City.</p>
+<p>
+We are currently looking to hire an experienced<strong> Software Engineer</strong> to assist with the development of our client web application.&nbsp; In this role, you will work directly with the RightAction CEO to understand client needs and build out the application.&nbsp; You will be a member of the core development team and collaborate with that team to divide features into workable sets. In addition to the core dev team, you may also need to collaborate with our statistician to assist in data retrieval, bring up new nodes, and maintain a growing, scalable platform.&nbsp;</p>
+<p>
+As you grow in this role, the expectation is that you would be able to learn the architecture of the entire system and be able to contribute to all aspects of development.&nbsp; This will include working with core Java, Amazon Web Services (EC2, S3, SQS, DynamoDB), Hadoop, messaging through ZeroMQ, provisioning through Chef, etc.&nbsp;&nbsp;</p>
+<p>
+As an integral part of the Development Team, you will be expected to keep up with industry trends and be ready to learn and work with new technologies.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong><u>Responsibilities:</u></strong></p>
+<ul>
+<li>
+Develop new product features and advance the design of existing code for client web application.</li>
+<li>
+Development work includes working with Java,&nbsp;Javascript based on DocumentCloud&rsquo;s Backbone.js MVC framework, and Ruby in the backend Rails application.</li>
+<li>
+Participate in sprint planning.</li>
+<li>
+React to possible production issues.</li>
+<li>
+Maintain open and consistent lines of communication with team members and the CEO.</li>
+</ul>
+<p>
+<u><strong>Qualifications/Experience:</strong></u></p>
+<p>
+<strong><em>Required</em></strong>:</p>
+<ul>
+<li>
+Object oriented experience in Java, C#, or Python.</li>
+<li>
+Experience with Amazon Web Services (DynamoDB, EMR, SQS)</li>
+<li>
+Familiarity with REST principals; strong debugging skills; test driven development.</li>
+<li>
+Experience w/ system performance evaluation, monitoring, and benchmarking skills</li>
+<li>
+Bachelor&#39;s degree</li>
+<li>
+Several years professional experience, or the ability to learn rapidly. (This is not an entry-level job.)</li>
+<li>
+Ability to clearly communicate technical concepts to a non-technical audience.</li>
+<li>
+Excellent organizational and interpersonal communication skills.</li>
+<li>
+Motivated self-starter.</li>
+</ul>
+<p>
+<em><strong>Desired</strong></em>:</p>
+<ul>
+<li>
+Technical: Backbone.js, Twitter Bootstrap, Rails, Gems.</li>
+<li>
+Big Data experience using Hadoop</li>
+<li>
+Distributed sytstem architecture and design experience (SOA or SaaS)</li>
+<li>
+Proficiency with a Unix command line.</li>
+<li>
+Familiarity with NoSQL, Dependency Injection, Amazon Web Services (EC2, SQS, S3).</li>
+<li>
+Project configuration and deployment (e.g. Chef, Capistrano, Nginx).</li>
+<li>
+Experience with all stages of development from start to finish</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/rightaction/cVZNkY"></script>]]></buttons>
+		</job>
+	</jobs>

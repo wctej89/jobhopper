@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Signifyd]]></company>
+			<job>
+			<id><![CDATA[job_20121123032635_CBLAHROEPHJFERZD]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Data Scientist]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://signifyd.theresumator.com/apply/ENz03r/Data-Scientist.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[(Multiple States)]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+We&#39;re an e-commerce fraud prevention company that combs through mountains of data to communicate the key, actionable insights to our customers. Our product is built on a relationship graph that reveals and scores hidden connections.</p>
+<p>
+This position will be responsible for&nbsp;designing, developing and maintaining predictive statistical models to identify risk in transactions. This role offers a unique opportunity to innovate and improve Signifyd&rsquo;s fraud prevention and detection technologies.</p>
+<p>
+Required Skills:</p>
+<ul>
+<li>
+Expert in machine learning, data mining, and predictive analysis</li>
+<li>
+Excellent programming skills in Java and SQL</li>
+<li>
+Experience with scripting languages (PHP, Python, etc.)</li>
+</ul>
+<p>
+Highly Desired Skills:</p>
+<ul>
+<li>
+Knowledge in natural language processing</li>
+<li>
+Experience in building production machine learning systems using big data</li>
+<li>
+Startup experience</li>
+</ul>
+<p>
+Required Experience:</p>
+<ul>
+<li>
+M.S. or Ph.D in Statistics, Mathematics, Computer Science, Operations Research, Economics or other quantitative, engineering area. Relevant experience may&nbsp;be used as a substitute.</li>
+</ul>
+<p>
+Candidates in the SF Bay Area, Boston or Chicago would be preferred, but it is not a requirement.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/signifyd/ENz03r"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121124025052_CASL6NCH3DLQCZ3E]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://signifyd.theresumator.com/apply/cd5KKC/Software-Engineer.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[(Multiple States)]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Our Engineers build systems that catch bad guys.</strong> &nbsp;From a huge set of payment, user, and machine data, our product has to separate good transactions from bad in fractions of a second. &nbsp;That means reducing a monstrous information set to a few key insights, and presenting those insights to end-users in an easily understood form. &nbsp;It&#39;s an incredibly challenging problem, and we&#39;re looking for world-class engineers to help us solve it.</p>
+<p>
+This position will involve architecting and building software that is capable of processing big data across real-time and non-realtime streams. You will work across a variety of systems, including highly concurrent, API servers, web applications and databases.</p>
+<p>
+Required Skills:</p>
+<ul>
+<li>
+<strong>Excellent programming skills in Java and SQL</strong></li>
+<li>
+Experience with scripting languages (PHP, Python or similar)</li>
+<li>
+Analytical problem solving skills</li>
+</ul>
+<p>
+Highly Desired Skills:</p>
+<ul>
+<li>
+Experience building large-scale high-performance systems</li>
+<li>
+Startup experience</li>
+<li>
+Payments or risk experience a plus</li>
+<li>
+Machine learning or related knowledge</li>
+</ul>
+<p>
+Required Experience:</p>
+<ul>
+<li>
+B.S., M.S., or Ph.D. in Computer Science, Electrical Engineering, or related field</li>
+</ul>
+<p>
+Candidates in the SF Bay Area, Boston or Chicago would be preferred, but it is not a requirement.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/signifyd/cd5KKC"></script>]]></buttons>
+		</job>
+	</jobs>

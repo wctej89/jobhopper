@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[textPlus.com]]></company>
+			<job>
+			<id><![CDATA[job_20130416230512_I5N4YZTIVY0WFNPR]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Java Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://textplus.theresumator.com/apply/GEuVcy/Java-Engineer.html]]></url>
+			<city><![CDATA[Los Angeles]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90292]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Responsibilities</strong></p>
+<p>
+Design, develop and maintain services for web-based and mobile applications. Services include APIs for mobile application development, administrative tools, business intelligence reporting and other systems required to support the growing needs of textPlus business.<br />
+Deliver applications and services that scale for billions of registered users and the millions that use the platform each day.<br />
+Maintain a suite of existing application and services by implementing new features and fixing critical bugs.<br />
+Collaborate with other engineers on design/code reviews, infrastructure and process enhancements<br />
+Participate in agile software development including Sprint Planning and Daily Scrums</p>
+<p>
+<strong>Minimum Qualifications</strong></p>
+<p>
+BS degree in Computer Science or related field (in lieu of degree, 4 years relevant work experience)<br />
+Experience with highly transactional, multi-threaded server side programming<br />
+3 years of relevant industry experience<br />
+Experience with Java and object oriented design, including core libraries, and design patterns<br />
+Preferred Qualifications</p>
+<p>
+Experience with Spring, Tomcat, Memcache, and Key-Value Stores is a plus<br />
+Several years of large systems software design and development experience, with extensive knowledge of Unix/Linux<br />
+Experience with SOA development (including architectural and API design)<br />
+Experience with any of the following frameworks (or similar): JUnit, Maven, JMeter, TestNG, Cucumber, Sikuli<br />
+Experience in C/C++</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/textPlus/GEuVcy"></script>]]></buttons>
+		</job>
+	</jobs>

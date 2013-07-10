@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[sipgate GmbH]]></company>
+			<job>
+			<id><![CDATA[job_20100121114727_UEVHKK95ZHTUPIS6]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Ajax-Entwickler/in]]></title>
+			<department><![CDATA[sipgate GmbH]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://sipgate.theresumator.com/apply/xigpKO/AjaxEntwicklerin.html]]></url>
+			<city><![CDATA[Düsseldorf]]></city>
+			<state><![CDATA[NRW]]></state>
+			<country><![CDATA[Germany]]></country>
+			<postalcode><![CDATA[40219]]></postalcode>
+			<description><![CDATA[<p>Als Mitarbeiter im Webdevelopment Team arbeiten Sie an der zentralen Schnittstelle zwischen dem Produktmanagement, der Webseiten-Konzeption und den technischen Backend-Systemen. Zu den Hauptaufgaben zählen die Konzeption und Programmierung von asynchronen Frontend-Lösungen, im Zusammenspiel mit PHP/MySQL-Anwendungen. In enger Zusammenarbeit mit der Technik, der Grafik und dem Projektmanagement setzen Sie die Schnittstellen zum Nutzer um und stellen somit eine einfache, intuitive Bedienung des Telefonanschlusses der Zukunft sicher.</p>
+<p><strong>Hierfür setzen wir voraus:</strong></p>
+<ul>
+<li>fundierte Kenntnisse in der Entwicklung von Ajax- und Web 2.0 Anwendungen</li>
+<li>praktische Erfahrung mit Web 2.0 Techniken und Toolkits (z.B. mootools, prototype, etc.) </li>
+<li>Kenntnisse in XML und XSL(T), sowie in (X)HMTL und CSS</li>
+<li>umfassende Erfahrungen in der JavaScript-Programmierung</li>
+<li>klarer Fokus auf optimierte Usability</li>
+<li>praktische Erfahrungen mit Linux als Arbeits- und Entwicklungsumgebung</li>
+</ul>
+<p> </p>
+<p><strong>Das sollten Sie mitbringen:</strong></p>
+<ul>
+<li>gute analytische Fähigkeiten</li>
+<li>selbständige und zuverlässige Arbeitsweise</li>
+<li>Teamfähigkeit und Belastbarkeit</li>
+</ul>
+<p> </p>
+<p>Nehmen Sie die Herausforderung an, so hat Ihnen sipgate viel zu bieten. Sie erwartet ein weltoffenes, engagiertes und erfolgreiches Team in einem modernen Arbeitsumfeld an unserem Standort in Düsseldorf. Es handelt sich um eine Vollzeitstelle.</p>
+<p>Interessiert? Wir freuen uns auf Ihre aussagefähige Bewerbung unter Angabe Ihrer Gehaltsvorstellung.</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/sipgate/xigpKO"></script>]]></buttons>
+		</job>
+	</jobs>

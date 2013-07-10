@@ -11,7 +11,7 @@ class Job < ActiveRecord::Base
   validates_presence_of :name, :description, :source_url
   validates_uniqueness_of :source_url
 
-  after_create :tag_job, :notify_users, :get_job_location
+  after_create :tag_job, :notify_users
   # TODO get_job_location here. Fix background worker
 
   def self.search(params)
@@ -23,6 +23,7 @@ class Job < ActiveRecord::Base
 
   def has_coordinates
     return true if !(self.lat.nil? || self.lng.nil?)
+    false
   end
 
   private 
@@ -35,7 +36,7 @@ class Job < ActiveRecord::Base
     NotificationWorker.perform_in(30.seconds, self.id)
   end
 
-  def get_job_location
-    LocationWorker.perform_in(10.seconds, self.id)
-  end
+  # def get_job_location
+  #   LocationWorker.perform_in(10.seconds, self.id)
+  # end
 end

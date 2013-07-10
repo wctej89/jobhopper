@@ -1,0 +1,629 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Revolution Analytics]]></company>
+			<job>
+			<id><![CDATA[job_20130122144401_GFPW5BNDHVJHROUX]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Pre-sales Consultant]]></title>
+			<department><![CDATA[Services]]></department>
+			<team><![CDATA[Singapore]]></team>
+			<url><![CDATA[http://revolutionanalytics.theresumator.com/apply/biRQHt/Presales-Consultant.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[Singapore]]></state>
+			<country><![CDATA[Singapore]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+Revolution Analytics is the leading commercial provider of software and support for the open source &ldquo;R&rdquo; statistical computing language. Our products, including <strong>Revolution R Enterprise</strong> and <strong>DeployR</strong>, enable statisticians, scientists and others to create superior predictive models, derive meaning from mission-critical data in record time, and easily make those models and derived learning available within the enterprise. Revolution Analytics works closely with the R community to incorporate the latest developments in open source R and with our clients to support their efforts to produce ground-breaking innovations in life sciences, financial services, defense technology and other industries where high-level analytics are crucial to success.</p>
+<p>
+The ideal candidate will not only be passionate about R but also be proficient in its use, have experience with data analysis in an enterprise data environment, enjoy working with customers, and love learning about new technologies that can integrate with R.&nbsp; In addition, candidates should be solution oriented with an ability to stay cool while managing multiple tasks and changing priorities. This role involves interaction with a wide range of internal and external clients where the candidate will be viewed as a technical expert in both the R language, all of our software, and our extensions to the R language.</p>
+<p>
+<strong>Duties and Responsibilities:</strong></p>
+<ul>
+<li>
+Be the technical expert that supports Sales through product demonstrations, expertise in product capabilities, and proof of concept applications.</li>
+<li>
+Respond to customer requests for information, and assist in installations and product use prior to sale.&nbsp;</li>
+<li>
+Assist Marketing by developing white papers, relevant technical examples, and case studies.</li>
+<li>
+Work with the Marketing and Product Development teams to maintain currency on the technical capabilities of the product and the product roadmap.&nbsp;</li>
+<li>
+Actively communicate customer feedback to Sales and Marketing.</li>
+<li>
+Support product demonstrations at trade shows, seminars and other events.</li>
+<li>
+Participate in training courses, support and consulting engagements as needed.</li>
+<li>
+Ability to travel up to 20%</li>
+</ul>
+<p>
+<strong>Required Qualifications:</strong></p>
+<ul>
+<li>
+Strong verbal and written communication skills are absolutely critical.</li>
+<li>
+Highly proficient R programming skills including some experience with database interfaces.</li>
+<li>
+Experience in developing and presenting technical subject matter.</li>
+<li>
+Minimum 3 years experience in a consulting/client-facing role including some interaction with enterprise IT, system integration, and development in both Windows and Linux environments.</li>
+<li>
+Some experience with other commercial data analysis packages such as SAS, SPSS, JMP, or Matlab.</li>
+<li>
+MS or&nbsp;PhD in Statistics, Computer Science, Math, Engineering, or related field.</li>
+<li>
+This position is based in Singapore.&nbsp;</li>
+</ul>
+<p>
+<strong>Additional Qualifications:</strong></p>
+<ul>
+<li>
+Additional experience with one or more of the following: Hadoop, Netezza, Relational database management systems, Talend, Ab Initio, PMML, BI tools, web services, cloud computing, other programming languages (e.g. C, Java, Python).</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<br />
+<strong>Experience the energy and excitement of a start-up company with solid financial backing &ndash;<br />
+join Revolution Analytics.</strong></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/revolutionanalytics/biRQHt"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130220001548_SPEXKHAIUKSCR9HT]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[QA Engineer - Web Services]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://revolutionanalytics.theresumator.com/apply/MeXrax/QA-Engineer-Web-Services.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98109]]></postalcode>
+			<description><![CDATA[<p>
+Revolution Analytics is the leading commercial provider of software and support for the open source &ldquo;R&rdquo; statistical computing language. Our product, Revolution R Enterprise, enables statisticians, scientists and others to create superior predictive models and derive meaning from mission-critical data in record time. Revolution Analytics works closely with the R community to incorporate the latest developments in open source R and with our clients to support their efforts to produce ground-breaking innovations in life sciences, financial services, defense technology and other industries where high-level analytics are crucial to success.</p>
+<p>
+<strong>Duties and Responsibilities</strong></p>
+<ul>
+<li>
+We&rsquo;re looking for a smart, driven, and skilled web services quality assurance engineer to play a key role in our high-performance development team.&nbsp; You will have the opportunity to work with a great team on cutting-edge analysis software</li>
+<li>
+Your job will be to work in an agile software development team environment to deliver high-quality software on time and on budget.&nbsp; This will include the following key activities:</li>
+<li>
+Write acceptance tests reflecting the use cases that are motivating product development.&nbsp;</li>
+<li>
+Bring a user perspective to feature teams to help refine feature design.</li>
+<li>
+Identify, narrow down, and log defects with information relevant for triaging and fixing the problem.&nbsp; Work with technical support to ensure that customer issues are resolved.</li>
+<li>
+Participate in the prioritization of bug fixes and enhancements</li>
+<li>
+Participate in the development, monitoring, and maintenance of tests</li>
+<li>
+Participate in developing quality assurance infrastructure that will improve team productivity and enhance the product release process, especially in the area of test automation.&nbsp; Work with build and release engineers to integrate processes as needed.</li>
+<li>
+Participate in release testing, including verification of bug fixes, creating test plans, regression testing, and documenting completion of tests.&nbsp;</li>
+<li>
+Participate in the creation and maintenance of product qualification documents, including Installation and Operational Qualification Protocols.</li>
+</ul>
+<p>
+<strong>Qualifications</strong></p>
+<ul>
+<li>
+5+ years experience in a QA environment developing and executing manual/automated test suites</li>
+<li>
+5+ years working in both Linux and Windows environments</li>
+<li>
+Solid understanding of Web Services and RESTful APIs</li>
+<li>
+Strong Java, .NET and Javascript programming skills</li>
+<li>
+3+ years experience working with Apache HTTPD and Apache Tomcat</li>
+<li>
+Experience with&nbsp; incident tracking tools (e.g. JIRA) and continuous integration tools (e.g., Jenkins)</li>
+<li>
+Excellent verbal and written communication skills; ability to clearly communicate with data scientists and software engineers</li>
+<li>
+Excellent problem-solving skills and ability to learn new technologies</li>
+<li>
+Strong technical, leadership, and team collaboration skills&nbsp;</li>
+<li>
+Experience working with databases a plus</li>
+<li>
+Experience with scripting languages (Python, Ruby, etc) a plus</li>
+<li>
+Demonstrated track record of taking initiative, leading, advocating and seeing issues and projects through to resolution.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/revolutionanalytics/MeXrax"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130220170425_7AOEWL4E3P9HQNIT]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Analytics Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://revolutionanalytics.theresumator.com/apply/hs8EST/Analytics-Software-Engineer.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98109]]></postalcode>
+			<description><![CDATA[<p>
+Revolution Analytics is the leading commercial provider of software and support for the open source &ldquo;R&rdquo; statistical computing language. Our product, Revolution R Enterprise, enables statisticians, scientists and others to create superior predictive models and derive meaning from mission-critical data in record time. Revolution Analytics works closely with the R community to incorporate the latest developments in open source R and with our clients to support their efforts to produce ground-breaking innovations in life sciences, financial services, defense technology and other industries where high-level analytics are crucial to success.</p>
+<p>
+Duties and Responsibilities</p>
+<p>
+We&rsquo;re looking for a smart, driven, and skilled analytics software developer to play a key role in our high-performance, agile development team.&nbsp; You will have the opportunity to work with a great team on cutting-edge &lsquo;big data&rsquo; analysis software.</p>
+<p>
+Your job will be to work on a fun, fast-paced agile software development team focused on delivering great&nbsp; software on time and on budget.&nbsp; This will include the following key activities:</p>
+<ul>
+<li>
+Develop and implement data analysis algorithms using an established C++ and R &lsquo;big data&rsquo; framework</li>
+<li>
+Work closely with product QA engineers, data scientists, technical writers, and product owner to provide fully-functional, high-quality&nbsp; features that address customer needs in a timely manner</li>
+</ul>
+<p>
+Qualifications</p>
+<ul>
+<li>
+Ph.D. in Statistics, Machine Learning,&nbsp; Econometrics,&nbsp; Biostatistics, or equivalent</li>
+<li>
+Excellent knowledge of machine learning algorithms, multivariate statistics and statistical computations</li>
+<li>
+Strong knowledge of algorithm design</li>
+<li>
+3-5&nbsp; years&rsquo; experience implementing algorithms in C/C++</li>
+<li>
+Experience with R/S/SPLUS preferred</li>
+<li>
+Experience with SAS, SPSS, or MATLAB a plus</li>
+<li>
+Applied statistical experience also a plus</li>
+<li>
+Excellent verbal and written communication skills; ability to clearly communicate with data scientists, QA engineers and technical writers</li>
+<li>
+Excellent problem-solving skills and ability to learn new technologies</li>
+<li>
+Strong technical, leadership, and team collaboration skills&nbsp;</li>
+<li>
+Demonstrated track record of taking initiative, leading, advocating and seeing issues and projects through to resolution.</li>
+<li>
+Experience working in Windows and Linux environments; experience with clusters/grids preferred (e.g., Hadoop, Microsoft HPC Server, and/or Linux cluster job schedulers)</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/revolutionanalytics/hs8EST"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130228205712_VUWSBEHSIHLK8S8U]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Technical Support Engineer]]></title>
+			<department><![CDATA[Technical Support]]></department>
+			<team><![CDATA[Support]]></team>
+			<url><![CDATA[http://revolutionanalytics.theresumator.com/apply/9tAh01/Technical-Support-Engineer.html]]></url>
+			<city><![CDATA[Richmond]]></city>
+			<state><![CDATA[VA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[23224]]></postalcode>
+			<description><![CDATA[<p>
+Do you enjoy helping customer be successful with software?&nbsp; Are you a savvy support engineer with a curiosity about new technologies?&nbsp; Do you enjoy finding meaning in the information we generate?&nbsp; Join us as we build a world class team doing all these and more.&nbsp; Revolution Analytics is the leading commercial provider of software and support for the open source &ldquo;R&rdquo; statistical computing language. Our product, Revolution R Enterprise, enables statisticians, scientists and others to create superior predictive models and derive meaning from mission-critical data in record time.&nbsp; We are looking for an experienced technical support engineer who will help our customers successfully deploy, configure and use our product in their environment and contribute to the building of a world class support team.</p>
+<p>
+Multiple Locations - Richmond, Virgina - Raleigh/Durham, North Carolina, New York, New York</p>
+<p>
+<br />
+<strong>Technical Support Engineer</strong></p>
+<p>
+<strong>Duties and Responsibilities</strong></p>
+<ul>
+<li>
+Answer questions from customers and prospective customers about the features and capabilities of our products, primarily by telephone and email</li>
+<li>
+Troubleshoot problems encountered by customers</li>
+<li>
+Develop customer-facing documentation for our website and other venues</li>
+<li>
+File bug reports and enhancement requests as appropriate</li>
+<li>
+Communicate customer needs and wishes to our development teams</li>
+<li>
+Work with our issue tracking and sales management software</li>
+<li>
+Participate in new product introduction</li>
+<li>
+Participate in the growth of the Support organization</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Significant experience in installation and support of enterprise software applications under Windows and Red Hat Linux.</li>
+<li>
+Familiarity with enterprise IT security as it applies to software installations and usage.</li>
+<li>
+Experience with data analysis software &ndash; R, SAS, Matlab, SPSS a plus.</li>
+<li>
+Bachelors degree in Computer Science, Statistics or equivalent experience</li>
+<li>
+Ability to work efficiently and diplomatically with customers and in a team environment</li>
+<li>
+Must have strong troubleshooting/debugging skills and a passion for problem solving and investigation</li>
+<li>
+First-rate customer service, prior help desk experience and / or customer-focused experience is a must</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/revolutionanalytics/9tAh01"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130415232544_LJAAQARA2QKODKSI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Build Engineer - Linux]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://revolutionanalytics.theresumator.com/apply/Jof6K3/Build-Engineer-Linux.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98109]]></postalcode>
+			<description><![CDATA[<p>
+Revolution Analytics is the leading commercial provider of software and support for the open source &ldquo;R&rdquo; statistical computing language. Our product, Revolution R Enterprise, enables statisticians, scientists and others to create superior predictive models and derive meaning from mission-critical data in record time. Revolution Analytics works closely with the R community to incorporate the latest developments in open source R and with our clients to support their efforts to produce ground-breaking innovations in life sciences, financial services, defense technology and other industries where high-level analytics are crucial to success.</p>
+<p>
+Duties and Responsibilities</p>
+<ul>
+<li>
+We&rsquo;re looking for a smart, driven, and skilled build and release engineer to play a key role in our high-performance development team.&nbsp; You will have the opportunity to work with a great team on cutting-edge analysis software</li>
+<li>
+Your job will be to work in an agile software development team environment to deliver high-quality software on time and on budget.&nbsp; This will include the following key activities:</li>
+<li>
+Build C/C++ and Fortran packages and applications on Linux.&nbsp;</li>
+<li>
+Debug build failures and work with the engineering team to resolve those failures.</li>
+<li>
+Help manage&nbsp; Linux&nbsp; build and test infrastructure, including setup&nbsp; and maintenance of automated environment for creating builds and running automated tests</li>
+<li>
+Debug Linux application errors and library interactions</li>
+</ul>
+<p>
+.<br />
+Qualifications</p>
+<ul>
+<li>
+10+ years experience in a Linux build environment, including RHEL and SUSE</li>
+<li>
+Extensive experience with GCC and Autotools</li>
+<li>
+Excellent debugging skills with C/C++ on Linux; experience with GDB, analyzing stack traces, core dumps, threading libraries and library conflicts.</li>
+<li>
+Solid understanding of Linux system libraries</li>
+<li>
+Experience with Red Hat Package Manager</li>
+<li>
+Experience with Python, Ruby and Linux shell scripts</li>
+<li>
+Excellent verbal and written communication skills; ability to clearly communicate with data scientists and software engineers</li>
+<li>
+Strong technical, leadership, and team collaboration skills</li>
+<li>
+Experience with Linux clusters, Netezza, Teradata, and Hadoop all a plus&nbsp;</li>
+<li>
+Cross-platform experience with Windows a plus</li>
+<li>
+Experience building R on Linux a plus</li>
+<li>
+Experience working with databases a plus</li>
+<li>
+Demonstrated track record of taking initiative, leading, advocating and seeing issues and projects through to resolution.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/revolutionanalytics/Jof6K3"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130323000921_XNURBR4XJGNC76KJ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Technical Support Engineer]]></title>
+			<department><![CDATA[Technical Support]]></department>
+			<team><![CDATA[Support]]></team>
+			<url><![CDATA[http://revolutionanalytics.theresumator.com/apply/ld3pMG/Technical-Support-Engineer.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EC2A 1RS]]></postalcode>
+			<description><![CDATA[<p>
+Do you enjoy helping customers be successful with software?&nbsp; Are you a savvy support engineer with a curiosity about new technologies?&nbsp; Do you enjoy finding meaning in the information we generate?&nbsp; Join us as we build a world class team doing all these and more.&nbsp; Revolution Analytics is the leading commercial provider of software and support for the open source &ldquo;R&rdquo; statistical computing language. Our product, Revolution R Enterprise, enables statisticians, scientists and others to create superior predictive models and derive meaning from mission-critical data in record time.&nbsp; We are looking for an experienced technical support engineer who will help our customers successfully deploy, configure and use our product in their environment and contribute to the building of a world class support team.<br />
+This position will be a remote position working primarily from home with some travel possible.</p>
+<p>
+<strong>Technical Support Engineer</strong></p>
+<p>
+<strong>Duties and Responsibilities</strong></p>
+<ul>
+<li>
+Answer questions from customers and prospective customers about the features and capabilities of our products, primarily by telephone and email</li>
+<li>
+Troubleshoot problems encountered by customers</li>
+<li>
+Develop customer-facing documentation for our website and other venues</li>
+<li>
+File bug reports and enhancement requests as appropriate</li>
+<li>
+Communicate customer needs and wishes to our development teams</li>
+<li>
+Work with our issue tracking and sales management software</li>
+<li>
+Participate in new product introduction</li>
+<li>
+Participate in the growth of the Support organization</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Significant experience in installation and support of enterprise software applications under Windows and Red Hat Linux</li>
+<li>
+Familiarity with enterprise IT security as it applies to software installations and usage</li>
+<li>
+Experience with data analysis software &ndash; R, SAS, Matlab, SPSS a plus</li>
+<li>
+Bachelors degree in Computer Science, Statistics or equivalent experience</li>
+<li>
+Ability to work efficiently and diplomatically with customers and in a team environment</li>
+<li>
+Must have strong troubleshooting/debugging skills and a passion for problem solving and investigation</li>
+<li>
+First-rate customer service, prior help desk experience and / or customer-focused experience is a must</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/revolutionanalytics/ld3pMG"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130328204634_OFZM572FFVLSATV5]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Enterprise Sales Executive]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[Sales]]></team>
+			<url><![CDATA[http://revolutionanalytics.theresumator.com/apply/Az295i/Enterprise-Sales-Executive.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98109]]></postalcode>
+			<description><![CDATA[<p>
+<strong style="font-size: 12px;">Description</strong></p>
+<p>
+The successful candidate will be responsible for sales of Revolution Analytics products and services across their customer&#39;s enterprise within in a fast-paced, software start-up multi-tasking environment and the ability to be a &lsquo;hunter&rsquo; in a green field territory.<br />
+<br />
+<strong>Primary responsibilities for this role are to:</strong></p>
+<ul>
+<li>
+Position and leverage sales opportunities to grow and retain dedicated, strategic customers at all levels within their organization.</li>
+<li>
+Understand complex business needs of assigned account(s) and qualify types and levels of opportunities in or out accordingly.</li>
+<li>
+Implement aspects of strategic account management and development.</li>
+<li>
+Work closely with Revolution Analytics management and executive teams.</li>
+<li>
+Create, negotiate and finalize contracts with cross-functional teams.</li>
+<li>
+Manage customer satisfaction levels and coordinate/delegate value-adding activities.</li>
+<li>
+Develop a working understanding of company pricing and licensing procedures.</li>
+<li>
+Perform other duties as assigned.</li>
+</ul>
+<p>
+<br />
+<strong>Essential Qualifications</strong></p>
+<ul>
+<li>
+Bachelor&#39;s degree in Business, Marketing, MIS or related field</li>
+<li>
+Eight years of experience selling enterprise class software solutions</li>
+<li>
+Proven track record of exceeding quota targets in software sales</li>
+<li>
+Proven track record of&nbsp;delivering multi-year, complex deals that positively impact customer needs</li>
+<li>
+Ability to be at customer&#39;s site(s) 2-3 out of 5 days of the week building rapport and working directly with customer to solve complex business problems</li>
+<li>
+Ability to travel as business needs require</li>
+</ul>
+<p>
+<strong style="font-size: 12px;"><span style="font-size: 12px;">Essential Minimum</span></strong></p>
+<ul>
+<li>
+Associate&#39;s degree in the same fields with an additional 2 years of the stated essential qualifications or a high school diploma (GED) with an additional 4 years of the stated essential qualifications</li>
+</ul>
+<p>
+<strong>Additional&nbsp;</strong></p>
+<ul>
+<li>
+<span style="font-size: 12px;">Knowledge and fluency of strategic sales techniques to evaluate territory and to develop and implement a successful sales plan</span></li>
+<li>
+Knowledge of enterprise hardware and/or software acquisition cycles and buying influences</li>
+<li>
+Excellent written and verbal communication skills</li>
+<li>
+Ability to initiate, lead and/or delegate projects</li>
+<li>
+Ability to relate technical and business needs of customer to Revolution Analytics products.</li>
+</ul>
+<p>
+<strong>Preferences</strong></p>
+<ul>
+<li>
+Experience selling software solutions to multiple divisions within a single Large enterprise customer</li>
+<li>
+Experience selling competitive software products</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/revolutionanalytics/Az295i"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130509201017_HTIIMXRWUPXANJTF]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sales Engineer]]></title>
+			<department><![CDATA[Professional Services]]></department>
+			<team><![CDATA[Support]]></team>
+			<url><![CDATA[http://revolutionanalytics.theresumator.com/apply/LZP0EE/Sales-Engineer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10012]]></postalcode>
+			<description><![CDATA[<p>
+Revolution Analytics is the leading commercial provider of software and support for the open source &ldquo;R&rdquo; statistical computing language. Our products, including Revolution R Enterprise and DeployR, enable statisticians, scientists and others to create superior predictive models, derive meaning from mission-critical data in record time, and easily make those models and derived learning available within the enterprise. Revolution Analytics works closely with the R community to incorporate the latest developments in open source R and with our clients to support their efforts to produce ground-breaking innovations in life sciences, financial services, defense technology and other industries where high-level analytics are crucial to success.</p>
+<p>
+<br />
+The ideal candidate will not only be passionate about R, but also be proficient in its use, have experience with data analysis in an enterprise data environment, enjoy working with customers, and love learning about new technologies that can integrate with R.&nbsp; In addition, candidates should be solution oriented with an ability to stay cool while managing multiple tasks and changing priorities. This role involves interaction with a wide range of internal and external clients where the candidate will be viewed as a technical expert in the R language, our proprietary extensions, and all of our other software.</p>
+<p>
+<br />
+<u><strong>Duties and Responsibilities</strong></u></p>
+<ul>
+<li>
+Be the technical expert that supports Sales through product demonstrations, expertise in product capabilities, and proof of concept applications.</li>
+<li>
+Be a technical lead for customer engagements involving Revolution R Enterprise and our partner integrations.</li>
+<li>
+Respond to customer requests for information, and assist in installations and product use prior to sale.</li>
+<li>
+Assist Marketing by developing white papers, relevant technical examples, and case studies.</li>
+<li>
+Work with the Marketing and Product Development teams to maintain currency on the technical capabilities of the product and the product roadmap.</li>
+<li>
+Actively communicate customer feedback to Sales and Marketing.</li>
+<li>
+Support product demonstrations at trade shows, seminars and other events.</li>
+<li>
+Participate in training courses, support and consulting engagements as needed.</li>
+<li>
+Ability to travel up to 20% in support of on-site customer evaluations.</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong><u>Required Qualifications:</u></strong></p>
+<ul>
+<li>
+Strong verbal and written communication skills.</li>
+<li>
+Proficient R programming skills.</li>
+<li>
+Proficient in SQL with some experience in creating and using stored procedures.</li>
+<li>
+Understand the purpose and basic inner workings of a database appliance.</li>
+<li>
+Experience in developing and presenting technical subject matter.</li>
+<li>
+Minimum 3 years experience in a consulting/client-facing role including some interaction with enterprise IT, system integration, and development in both Windows and Linux environments.</li>
+<li>
+Some experience with at least one other commercial data analysis package such as SAS, SPSS, Stata, JMP, or Matlab.</li>
+<li>
+MS in Statistics, Computer Science, Math, Engineering, or related field.</li>
+<li>
+Local Candidates Only (NYC Area)</li>
+</ul>
+<p>
+<u><strong>Additional Qualifications:</strong></u><br />
+Additional experience a plus with one or more of the following: Hadoop, Talend, Ab Initio, PMML, BI tools, web services, cloud computing, other programming languages (e.g. C, Java, Python)</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/revolutionanalytics/LZP0EE"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130604192836_SX4GX7MLWIUHBLX4]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Analytics Solutions Architect]]></title>
+			<department><![CDATA[Services]]></department>
+			<team><![CDATA[Services]]></team>
+			<url><![CDATA[http://revolutionanalytics.theresumator.com/apply/BYXohK/Analytics-Solutions-Architect.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[(Multiple States)]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Location: Multiple Cities</strong></p>
+<p>
+<strong style="font-size: 12px;">Summary</strong></p>
+<p>
+The Professional Services team has an opening for an experienced client facing Analytics Solutions Architect to assist clients with their analytics needs: building analytics based solutions using Revolution Analytics&rsquo; products, embedding analytics into existing products, and scaling clients&rsquo; analytics needs.</p>
+<p>
+<strong>Primary Responsibilities</strong><br />
+The Analytics Solutions Architect is responsible for the technical requirements, design, and delivery of simple to large-scale solution architectures, and complex multi-tiered analytical-focused solutions.</p>
+<p>
+The ideal candidate is a seasoned professional with deep and broad experience in the IT, software, and consulting space who enjoys a very dynamic work experience with bleeding edge high performance technologies. Must thrive in the Start Up mindset where charting new territory is the norm.&nbsp; Problem solving, learning in the field, translating technical concepts for the business user, and leadership are critical to this position. Travel: Up to 70%</p>
+<p>
+The role has four core functions:</p>
+<ol>
+<li>
+Pre-sales support of Sales and SE team to promote and position Revolution Analytic solutions as well as contribute to customer proposals</li>
+<li>
+Lead the development of technical architecture, requirements, and design and takes accountability of technical validity of the customer solution including installation and integration</li>
+<li>
+Act as co-lead with Project Manager for project team providing leadership, direction, coaching, technical assignments, and execution of the full software development lifecycle including documentation</li>
+<li>
+Drive field developed innovation and IP back into R&amp;D and works highly collaboratively with Technical Support, Sales, and Training</li>
+<li>
+Support onsite client project delivery</li>
+<li>
+Assist with RFI/RFP technical responses.</li>
+<li>
+Support R User Groups as requested.</li>
+</ol>
+<p>
+A typical project team consists of a Project Manager, Solutions Architect, Data Scientist and/or R consultant.</p>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Bachelor&rsquo;s degree required;&nbsp; Master&rsquo;s and Ph.D. preferred with emphasis in the following: Mathematics, Statistics, Computer Science, Engineering or Econometrics</li>
+<li>
+8+ years of relevant Industry Experience</li>
+<li>
+Experience with R and SAS/SPSS/Matlab</li>
+<li>
+Programming knowledge and experience with Hadoop/Map Reduce, and Java or .NET</li>
+<li>
+Experience working in Windows and Linux environments</li>
+<li>
+Must have developer level skills in SQL scripting and coding and familiarity with relational databases</li>
+<li>
+Working knowledge of multivariate regression, time series models, cluster analysis, logistic regression, factor analysis and neural network models</li>
+<li>
+Experience and familiarity with business intelligence and data warehouse design including ETL processes and tools</li>
+<li>
+Strong facilitation and communication skills</li>
+<li>
+Ability to travel as required</li>
+</ul>
+<p>
+<strong>Preferences</strong></p>
+<ul>
+<li>
+Experience working with clusters/grids preferred (e.g., Hadoop, Microsoft HPC Server, and/or Linux cluster job schedulers)</li>
+<li>
+Working knowledge of Pig, Hive, HBase or other NoSQL tools</li>
+<li>
+Experience working with Data Warehouse tools such as Teradata and IBM Pure Data for Analytics/Netezza</li>
+<li>
+Ideal candidate will have consulting experience</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/revolutionanalytics/BYXohK"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Rethink Books]]></company>
+			<job>
+			<id><![CDATA[job_20130408205527_EN9VG9CHM6RERGG9]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Ruby on Rails Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Dev Team]]></team>
+			<url><![CDATA[http://rethinkbooks.theresumator.com/apply/zBXGnR/Ruby-On-Rails-Developer.html]]></url>
+			<city><![CDATA[Dallas]]></city>
+			<state><![CDATA[TX]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[75034]]></postalcode>
+			<description><![CDATA[<p>
+We are seeking a talented and experienced Ruby on Rails developer that enjoys building great products that our users love to use. We are a small agile team that thrives on tackling difficult problems every sprint. We enjoy working with others that are passionate about new product development.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+1+ years experience with the Ruby on Rails framework</li>
+<li>
+Experience with the entire stack</li>
+<li>
+Experience with writing test in RSpec</li>
+<li>
+Experience with writing high performance SQL</li>
+<li>
+Fluent in Ruby,&nbsp;HTML, Javascript&nbsp;and CSS</li>
+<li>
+Understanding of RESTful application architecture</li>
+</ul>
+<p>
+<strong>Good to have:</strong></p>
+<ul>
+<li>
+Experience with Rails 3</li>
+<li>
+Experience with Redis</li>
+<li>
+Working knowledge of Git</li>
+<li>
+Cloud computing environments</li>
+<li>
+Experience working in a Scrum team</li>
+<li>
+Previous startup experience</li>
+<li>
+Open source contributions</li>
+</ul>
+<p>
+<strong>About you:</strong></p>
+<ul>
+<li>
+Bachelor&rsquo;s degree in Computer Science or equivalent</li>
+<li>
+Passionate about creating great products</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+Compensation includes competitive salary, equity compensation plan, and benefits.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/rethinkbooks/zBXGnR"></script>]]></buttons>
+		</job>
+	</jobs>

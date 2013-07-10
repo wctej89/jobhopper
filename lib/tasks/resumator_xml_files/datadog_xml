@@ -1,0 +1,259 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Datadog]]></company>
+			<job>
+			<id><![CDATA[job_20130103002514_JU7SLYXU2V7I8QU6]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Python Data Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://datadog.theresumator.com/apply/Ky6NTQ/Python-Data-Developer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10001]]></postalcode>
+			<description><![CDATA[<p>
+<strong>What we do</strong><br />
+Datadog is a unified data platform for dev and ops teams and offers a brand new way to manage applications and infrastructure in the cloud age. Our unique combination of data aggregation, visualization, and social interaction connects teams to all the tools and service providers they need to build and run reliable systems.</p>
+<p>
+<strong>Who we are</strong><br />
+We are one of the most technical teams in NYC, and had success building products and startups before. Our product looks like no other in the market, our customers love us, we&rsquo;re growing fast and we have just closed a big funding round&nbsp;from some the best VCs in NY and the world.</p>
+<p>
+<strong>What we are looking for</strong><br />
+We&rsquo;re looking for an experienced developer to join our team and lead the design and implementation of high-throughput pipelines for processing, analyzing and querying data.&nbsp; Our platform ingests and analyzes hundreds of billions of records every single day, the right candidate will help us take it to the next level.</p>
+<p>
+<strong>Who you must be</strong></p>
+<ul>
+<li>
+You have a BS,&nbsp;MS or PhD&nbsp;in CS or equivalent</li>
+<li>
+You have 5+ years of experience as a developer</li>
+<li>
+You have very solid fundamentals in math, algorithms, data structures and statistics</li>
+<li>
+You master python and at least two other high-level languages</li>
+<li>
+You consider yourself an expert in numerical processing - you know Numpy inside out</li>
+<li>
+You tend to obsess over performance and correctness</li>
+<li>
+You understand low-level programming well enough to drop to C or Cython when needed</li>
+<li>
+You are at home on a Linux production server</li>
+<li>
+You value simple solutions, write concise code, and believe in devops</li>
+<li>
+You want an opportunity to make it big by being a true startup athlete</li>
+</ul>
+<p>
+<strong>Bonus points</strong></p>
+<ul>
+<li>
+You are fluent with Hadoop/Pig/Hive/Storm</li>
+<li>
+You are an expert with Pandas, Scikit-learn or other Python data libraries</li>
+<li>
+You implemented a metrics processing / CEP pipeline before</li>
+<li>
+You are a data visualization enthusiast. You love matplotlib and d3.js</li>
+<li>
+You have serious experience with the other tools we use: Cassandra, Postgres, Kafka, Redis, ElasticSearch, AWS, Chef... or you really want to learn about them</li>
+</ul>
+<p>
+<strong>Is this you? Tell us why, and apply now.&nbsp;</strong><strong>Include links to your github, stackoverflow or other online projects.</strong></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/datadog/Ky6NTQ"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130103191241_ARRTVX5YEMPQQCCB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior DevOps Engineer]]></title>
+			<department><![CDATA[Operations]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://datadog.theresumator.com/apply/qyGWBC/Senior-DevOps-Engineer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10001]]></postalcode>
+			<description><![CDATA[<p>
+<strong>What we do</strong><br />
+Datadog is a unified data platform for dev and ops teams and offers a brand new way to manage applications and infrastructure in the cloud age. Our unique combination of data aggregation, visualization, and social interaction connects teams to all the tools and service providers they need to build and run reliable systems.</p>
+<p>
+<strong>Who we are</strong><br />
+We are one of the most technical teams in NYC, and had success building products and startups before. Our product looks like no other in the market, our customers love us, we&rsquo;re growing fast and we have just closed a big funding round from some the best VCs in NY and the world.</p>
+<p>
+<strong>What we are looking for</strong><br />
+We&rsquo;re looking for a senior DevOps engineer with proven experience in designing, automating and running a large-scale, real-time, data-heavy infrastructure on AWS. Our platform ingests and analyzes hundreds of billions of records every single day, around the clock, in real time.</p>
+<p>
+You will be responsible for the availability and the performance of our customer-facing services. At the same time, and this is pretty unique, since we built Datadog for engineers like you, you will have a direct voice in the making of our product.</p>
+<p>
+<strong>Who you must be</strong></p>
+<ul>
+<li>
+You have a BS, MS or PhD in CS or equivalent</li>
+<li>
+You have 10 years of experience in an operational position</li>
+<li>
+You derive a deep satisfaction of making all the moving parts run in concert while keeping an eye on the big picture: the uninterrupted delivery of our monitoring service to our customers.</li>
+<li>
+Your GitHub repositories prove your proficiency in high-level languages (ruby, python, clojure, etc.)</li>
+<li>
+You can tune the Linux network stack, set up a BGP router, tweak OOM scores and are in general very comfortable with system-level engineering</li>
+<li>
+You have deep experience with the tools we use: AWS services, linux, chef, puppet, nagios, statsd, cassandra, hadoop, redis, kafka, postgres</li>
+<li>
+You want an opportunity to make it big by being a true startup athlete</li>
+</ul>
+<p>
+<strong>Bonus Points</strong></p>
+<ul>
+<li>
+You are a metric &amp; visualization enthusiast</li>
+<li>
+You are an expert in information security</li>
+<li>
+You present your work to the community on a regular basis (lightning talks, meetup presentations, active blog, etc.)</li>
+</ul>
+<p>
+<strong>Is this you? Tell us why, and apply now. Include links to your github, stackoverflow or other online projects.</strong></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/datadog/qyGWBC"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130104204932_MY0ICJLSI2HP2XUC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Distributed Systems Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://datadog.theresumator.com/apply/mno7ee/Distributed-Systems-Developer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10001]]></postalcode>
+			<description><![CDATA[<p>
+<strong>What we do</strong><br />
+Datadog is a unified data platform for dev and ops teams and offers a brand new way to manage applications and infrastructure in the cloud age. Our unique combination of data aggregation, visualization, and social interaction connects teams to all the tools and service providers they need to build and run reliable systems.</p>
+<p>
+<strong>Who we are</strong><br />
+We are one of the most technical teams in NYC, and had success building products and startups before. Our product looks like no other in the market, our customers love us, we&rsquo;re growing fast and we have just closed a big funding round&nbsp;from some the best VCs in NY and the world.</p>
+<p>
+<strong>What we are looking for</strong><br />
+We&rsquo;re looking for an experienced developer to join our team and lead the design and implementation of high-throughput distributed systems for processing, analyzing, storing and querying data.&nbsp; Our platform ingests and analyzes hundreds of billions of records every single day, the right candidate will help us take it to the next level.</p>
+<p>
+<strong>Who you must be</strong></p>
+<ul>
+<li>
+You have a BS,&nbsp;MS or PhD&nbsp;in CS or equivalent</li>
+<li>
+You have 5+ years of experience as a developer</li>
+<li>
+You have very solid fundamentals in math, algorithms and data structures</li>
+<li>
+You have mastered Python, Java and a few other high-level languages</li>
+<li>
+You can slice through massive datasets with Hadoop/Pig/Hive/Storm</li>
+<li>
+You are an expert with HBase, Cassandra or both</li>
+<li>
+You have experience designing and implementing distributed systems over AWS</li>
+<li>
+You understand what it takes for databases, and data pipelines to resist failures</li>
+<li>
+You are at home on a Linux production server</li>
+<li>
+You value simple solutions, write concise code, and believe in devops</li>
+<li>
+You want an opportunity to make it big by being a true startup athlete</li>
+</ul>
+<p>
+<strong>Bonus points</strong></p>
+<ul>
+<li>
+You are an expert with Numpy, Pandas, Scikit-learn or other Python data libraries</li>
+<li>
+You implemented a metrics processing / CEP pipeline before</li>
+<li>
+You have played both Dev and Ops roles in previous lives</li>
+<li>
+You are a data visualization enthusiast. You love d3.js and have a stats background</li>
+<li>
+You have serious experience with the other tools we use: Postgres, Kafka, Redis, ElasticSearch, Chef... or you really want to learn about them</li>
+</ul>
+<p>
+<strong>Is this you? Tell us why, and apply now.&nbsp;</strong><strong>Include links to your github, stackoverflow or other online projects.</strong></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/datadog/mno7ee"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130104205211_3XAFCFZ3RV3JKOXJ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Datavis UI Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://datadog.theresumator.com/apply/6j9sUd/Datavis-UI-Developer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10001]]></postalcode>
+			<description><![CDATA[<p>
+<strong>What we do</strong><br />
+Datadog is a unified data platform for dev and ops teams and offers a brand new way to manage applications and infrastructure in the cloud age. Our unique combination of data aggregation, visualization, and social interaction connects teams to all the tools and service providers they need to build and run reliable systems.</p>
+<p>
+<strong>Who we are</strong><br />
+We are one of the most technical teams in NYC, and had success building products and startups before. Our product looks like no other in the market, our customers love us, we&rsquo;re growing fast and we have just closed a big funding round&nbsp;from some the best VCs in NY and the world.</p>
+<p>
+<strong>What we are looking for</strong><br />
+We&rsquo;re looking for an an experienced developer to join our team and lead the design and implementation of rich, interactive data visualization and exploration features in our web application.</p>
+<p>
+<strong>Who you must be</strong></p>
+<ul>
+<li>
+You have&nbsp;BS or MS in Math, CS or EE. Or formal design training.</li>
+<li>
+You have 5+ years of experience as a developer</li>
+<li>
+You have very solid fundamentals in math, statistics, algorithms and data structures</li>
+<li>
+You have mastered Javascript and at least two other programming languages</li>
+<li>
+You are an expert in browser-based development, from the DOM to common libraries</li>
+<li>
+You are an expert in D3.js or another interactive visualization framework</li>
+<li>
+You know enough Java, Ruby or Python to develop web controllers</li>
+<li>
+You can design and implement web UIs beyond self-contained data visualizations</li>
+<li>
+You value simple solutions, write concise code, and believe in testing</li>
+<li>
+You want an opportunity to make it big by being a true startup athlete</li>
+</ul>
+<p>
+<strong>Bonus points</strong></p>
+<ul>
+<li>
+You are an expert with a JS development framework such as Ember.js or Backbone.js</li>
+<li>
+You are an expert with Numpy, Pandas, Scikit-learn or other Python data libraries</li>
+<li>
+You implemented a metrics processing / CEP pipeline before</li>
+<li>
+You have serious experience with the other tools we use: Cassandra, Hadoop, Pig, Postgres, Kafka, Redis, ElasticSearch, Chef... or you really want to learn about them</li>
+</ul>
+<p>
+<strong>Is this you? Tell us why, and apply now.&nbsp;</strong><strong>Include links to your github, stackoverflow or other online projects.</strong></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/datadog/6j9sUd"></script>]]></buttons>
+		</job>
+	</jobs>

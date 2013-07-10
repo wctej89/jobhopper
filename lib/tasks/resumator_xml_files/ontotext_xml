@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Ontotext AD]]></company>
+			<job>
+			<id><![CDATA[job_20120522114405_LQXG7GZJ4LQOJLRO]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Java Developer (OWLIM)]]></title>
+			<department><![CDATA[OWLIM]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://ontotext.theresumator.com/apply/hjUCSu/Senior-Java-Developer-OWLIM.html]]></url>
+			<city><![CDATA[Sofia]]></city>
+			<state><![CDATA[Sofia]]></state>
+			<country><![CDATA[Bulgaria]]></country>
+			<postalcode><![CDATA[1000]]></postalcode>
+			<description><![CDATA[<p>
+<span data-scayt_word="RDF" data-scaytid="3"><strong>About us</strong><br />
+<br />
+Ontotext is the leading provider of core semantic technology distinctive for its performance and scalability. It is the developer of OWLIM &ndash; the most scalable semantic database engine, as well as platforms for semantic annotation. Ontotext&rsquo;s technology delivers real-world applications in Life Sciences, Financial Intelligence, Telecommunications, Publishing, Media, Online Recruitment, Web Search, and other areas. Its customers and OEM partners include a top-10 pharmaceutical company, a top-5 US military contractor, the BBC, as well as customer-facing semantic technology companies, e-business and social media start-ups.</span><br />
+&nbsp;</p>
+<p>
+<strong>Job description</strong></p>
+<p>
+RDF databases represent a next-generation database management technology. While relational databases deal with tables, i.e. n-ary relationships, RDF offers a more abstract graph data model. The latter was designed and standardized by the W3C to be the data format for Web 3.0 &ndash; a World Wide Web of structured data. Ontotext is the developer of OWLIM that is globally recognized as one of the most robust and efficient RDF database servers.</p>
+<p>
+Ontotext are looking to expand the OWLIM team with experienced Java developers, who have a background in commercial software development, to further evolve the OWLIM database using the Java programming language. Responsibilities include software design, implementation, testing (JUnit) and engagement in the full software development life-cycle.</p>
+<p>
+Ontotext enjoy a healthy and productive relationship with a broad range of customers, e.g. the BBC, the United Nation&#39;s Food and Agriculture Organization, (and many more). After a suitable period, OWLIM developers will gain some amount of exposure to these users for the purpose of planning new database features and occasional 3rd level technical support.</p>
+<p>
+Software development will be highly varied, covering topics such as indexing and caching algorithms, highly concurrent data structures, geo-spatial modelling, graph-analysis, text-analysis and integration with 3rd party components for document indexing/retrieval.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+team player</li>
+<li>
+competence in modern software development practices</li>
+<li>
+good communicator</li>
+<li>
+excellent English skills</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Advantageous experience</strong></p>
+<ul>
+<li>
+programming server and/or database systems</li>
+<li>
+familiarity with multi-threaded programming concepts and problems</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+This is a unique opportunity for an experienced, multi-talented software developer to help shape next generation technology. We offer a competitive salary and encourage you to pursue further academic or IT qualifications. If you are interested, please feel free to send us your CV and a motivation letter!</p>
+]]></description>
+			<type><![CDATA[Part Time to Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/ontotext/hjUCSu"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120605124521_V3IQD0HHHJFUQ6UK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior/Lead Dev (Data and Ontology Management)]]></title>
+			<department><![CDATA[Ontotext - DOM Team]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://ontotext.theresumator.com/apply/dtEmBK/SeniorLead-Dev-Data-And-Ontology-Management.html]]></url>
+			<city><![CDATA[Sofia]]></city>
+			<state><![CDATA[Sofia]]></state>
+			<country><![CDATA[Bulgaria]]></country>
+			<postalcode><![CDATA[1000]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Senior or Lead Developer, Data and Ontology Management - Ref. OT_DOM</strong></p>
+<p>
+	Started in 2001 as a research lab within Sirma Group, Ontotext Corp has become a leading developer of semantic technologies, has grown to 65 people, one of the most innovative and successful Bulgarian companies, and Bulgaria&#39;s most successful participant in EU-funded IT research projects.</p>
+<p>
+	The Data and Ontology Management Group (DOM) focuses on the &quot;Onto&quot; part of Ontotext: we create semantic web applications by developing and adapting ontologies, creating data mappings and ETL processes, leveraging Linked Open Data (LOD), and using semantic tools and frameworks.</p>
+<p>
+	We have gained strong experience in Cultural Heritage, which is at the forefront of Europe&#39;s Digital Agenda. We have big clients and interesting projects, including The National Archives (UK), The British Museum (UK), Yale Center for British Art (US), Gothenburg City Museum (SE), Dutch Public Library (NL); see <a href="http://www.ontotext.com/clients#culture">http://www.ontotext.com/clients#culture</a> for details. We are also working towards digitalization of Bulgarian cultural heritage and its publication in the Europeana digital library.</p>
+<p>
+	Other vertical areas include media publishing (BBC, UK Press Association), financial/investment research and publishing, eGovernment. We also maintain the FactForge public service and the PROTON ontology.</p>
+<p>
+	We are looking for an experienced and talented developer with modeling and design experience, who can lead junior developers, take responsibility for interesting projects and is passionate about innovative technologies.</p>
+<p>
+	Requirements:</p>
+<ul>
+	<li>
+		At least 5 years of professional development experience</li>
+	<li>
+		At least 2 years of Java development experience</li>
+	<li>
+		At least 2 years of JavaScript development experience</li>
+	<li>
+		Experience in both backend (Java, JEE, databases) and frontend (JS, AJAX, JSP/JSF/etc)</li>
+	<li>
+		Proven ability to learn and apply new techniques and tools</li>
+	<li>
+		Experience with industrial development tools and techniques, such as SVN/Git, Maven/Ant, scrum/XP, Jira, Confluence, continuous integration, test-driven development</li>
+</ul>
+<p>
+	Advantages:</p>
+<ul>
+	<li>
+		Strong aptitude and at least 2 years experience leading others</li>
+	<li>
+		Experience with XML and/or ETL technologies</li>
+</ul>
+<p>
+	Responsibilities:</p>
+<ul>
+	<li>
+		Take technical leadership on projects</li>
+	<li>
+		Research, evaluate, select, learn, apply and adapt new technologies (e.g. RDF, OWL), tools (e.g. Google Refine) and languages (e.g. SPARQL, XQuery)</li>
+	<li>
+		Design and architect solutions</li>
+	<li>
+		Lead junior developers and student interns</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	We offer:</p>
+<ul>
+	<li>
+		Work in a highly innovative company that is a leader in its area, innovating the next wave of web technologies</li>
+	<li>
+		Work on interesting and challenging projects for highly visible clients</li>
+	<li>
+		Competitive salary in a strong and growing company, excellent career growth opportunities</li>
+	<li>
+		An environment that fosters learning and collaboration</li>
+	<li>
+		Possibilities to work on EU research projects, scientific research, authoring papers, attending conferences</li>
+</ul>
+<p>
+	We value smart, awesome people who want to solve hard problems in a fun, collaborative and casual culture.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/ontotext/dtEmBK"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121221153123_AH9KLUMS5EFYNNKV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[UI Engineer - Ref. OT_UI]]></title>
+			<department><![CDATA[Life Science and/or DOM]]></department>
+			<team><![CDATA[Life Science]]></team>
+			<url><![CDATA[http://ontotext.theresumator.com/apply/SCsX2G/UI-Engineer-Ref-OTUI.html]]></url>
+			<city><![CDATA[Sofia]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Bulgaria]]></country>
+			<postalcode><![CDATA[1000]]></postalcode>
+			<description><![CDATA[<p>
+Ontotext is a world leader in providing core semantic technology distinctive for its performance and scalability. In Bulgaria we are ranked second for the IT sector, for remarkable growth of incomes, in the Capital Daily rating.</p>
+<p>
+Our technology delivers real-world applications in Life Sciences, Financial Intelligence, Telecommunications, Publishing, Media, Online Recruitment, Web Search and others. Our customers and OEM partners include a top-10 pharmaceutical companies, a top-5 US military contractor, BBC , as well as customer-facing semantic technology companies, e-business and social media start-ups.<br />
+We are looking for: Experienced UI Engineer - Ref. OT_UI for our highly motivated and professional team.<br />
+Your role:<br />
+You will be responsible for designing and developing web interfaces and products using HTML5 and Twitter Bootstrap front-end framework. The position requires you to work with a team of Java back-end developers and product managers, who will implement web services and application mock-ups. Key areas of responsibility are:<br />
+&bull; Develop browser independent web interfaces using HTML5/AJAX/JQuery/Twitter Bootstrap front-end framework;<br />
+&bull; Design together with Java developers the service back-end interfaces;<br />
+&bull; Discuss with product managers the user interface requirements for mock-ups.<br />
+Your profile:<br />
+At least one year&#39;s experience in professional web interface development with AJAX and JQuery/GWT/Twitter Bootstrap or equivalent;<br />
+&bull; Very good understanding of JavaScript language;<br />
+&bull; Good taste for design and system usability;<br />
+&bull; Highly-motivated person willing to work in highly innovative projects using semantic technologies;<br />
+&bull; Excellent efficiency and skills to work in a team; Fluent in English.<br />
+Advantages: Experience with Java development, Java Servlets and Java Server Pages (JSP); Experience with JSTL Expression Language (EL); Experience with Spring Framework is a big plus.<br />
+We offer:</p>
+<p>
+&bull; Interesting job in an innovative company, a world leader in a future technology segment;<br />
+&bull; Exposure to leading edge technologies , international projects and collaborations;<br />
+&bull; The chance to participate in the development and delivery of next generation database and search systems;<br />
+&bull; Flexible working time and great opportunity for professional and academic development;<br />
+&bull; Excellent remuneration and working conditions.</p>
+<p>
+Interested?</p>
+<p>
+Send us your resent CV on jobs@ontotext.com<br />
+This is a unique opportunity for an experienced, multi-talented software developer to help shape next generation technology.</p>
+<p>
+Your application will be treated with respect and confidentiality!<br />
+Only shortlisted candidates will be contacted.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/ontotext/SCsX2G"></script>]]></buttons>
+		</job>
+	</jobs>

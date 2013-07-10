@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Skytap Inc]]></company>
+			<job>
+			<id><![CDATA[job_20130703051533_QB7NULKQ9PLVSNL3]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://skytap.theresumator.com/apply/EKVX3G/Senior-Software-Engineer.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98104]]></postalcode>
+			<description><![CDATA[<h3 style="">
+About Skytap:</h3>
+<p style="">
+<span style="">Skytap&reg; is a leading enterprise cloud service provider. We give businesses a fast, easy, and secure way to create complex computing environments in the cloud. Our award-winning Skytap Cloud&trade; service empowers users with intuitive self-service and provides IT with visibility, management, and control of cloud computing resources. Customers use Skytap Cloud to increase business agility, accelerate workflows, increase productivity, and lower costs.</span></p>
+<h3 style="">
+Senior Software Engineer:</h3>
+<p style="">
+Skytap is looking for talented senior level Software Engineers and Architects to join our platform team. Cloud computing is one of today&#39;s hottest technologies, and Skytap is leading the way by providing self-service virtual data centers in just a few clicks. We have development positions in technically challenging areas ranging from virtualized networking and storage to general distributed computing problems. As a member of our platform team, you will work with other highly skilled engineers to design and implement software to deliver scalable, highly available, and secure virtual data centers to our widely varying customers.</p>
+<p style="">
+We are looking for individuals with experience building complex distributed systems. We use agile development techniques, and build our service primarily with open source software and languages including Linux and Python. Experience with these technologies along with relational databases and scale-out architectures is preferred.</p>
+<h3 style="">
+Key responsibilities:</h3>
+<ul style="">
+<li style="margin: 0px 0px 0px 20px; padding: 0px; border: 0px; vertical-align: baseline; background-color: transparent;">
+Design and implementation of a core component of Skytap&#39;s web-based 24x7 cloud computing service</li>
+<li style="margin: 0px 0px 0px 20px; padding: 0px; border: 0px; vertical-align: baseline; background-color: transparent;">
+Work closely with a talented team of engineers and architects</li>
+<li style="margin: 0px 0px 0px 20px; padding: 0px; border: 0px; vertical-align: baseline; background-color: transparent;">
+Define and meet scalability, availability, security, and performance goals</li>
+<li style="margin: 0px 0px 0px 20px; padding: 0px; border: 0px; vertical-align: baseline; background-color: transparent;">
+Rapidly build and evolve major features in collaboration with product management</li>
+<li style="margin: 0px 0px 0px 20px; padding: 0px; border: 0px; vertical-align: baseline; background-color: transparent;">
+Resolve major customer technical issues</li>
+<li style="margin: 0px 0px 0px 20px; padding: 0px; border: 0px; vertical-align: baseline; background-color: transparent;">
+Communicate with customers</li>
+<li style="margin: 0px 0px 0px 20px; padding: 0px; border: 0px; vertical-align: baseline; background-color: transparent;">
+Research and experiment with key technologies, architectures, and standards</li>
+</ul>
+<h3 style="">
+Required background and skills:</h3>
+<ul style="">
+<li style="margin: 0px 0px 0px 20px; padding: 0px; border: 0px; vertical-align: baseline; background-color: transparent;">
+BS in Computer Science (or equivalent degree or experience)</li>
+<li style="margin: 0px 0px 0px 20px; padding: 0px; border: 0px; vertical-align: baseline; background-color: transparent;">
+6+ years experience designing and implementing complex distributed systems</li>
+</ul>
+<h3 style="margin: 0px 0px 10px; padding: 0px; border: 0px; font-size: 20px; vertical-align: baseline; color: rgb(87, 87, 87); line-height: 26px;">
+Strongly preferred background and skills:</h3>
+<ul style="">
+<li style="margin: 0px 0px 0px 20px; padding: 0px; border: 0px; vertical-align: baseline; background-color: transparent;">
+Deep knowledge of concurrency control, data structures, algorithms, and scale-out software architectures</li>
+<li style="margin: 0px 0px 0px 20px; padding: 0px; border: 0px; vertical-align: baseline; background-color: transparent;">
+Deep knowledge of database systems and transaction management</li>
+<li style="margin: 0px 0px 0px 20px; padding: 0px; border: 0px; vertical-align: baseline; background-color: transparent;">
+Skill in analyzing, measuring, and optimizing scalability and performance</li>
+<li style="margin: 0px 0px 0px 20px; padding: 0px; border: 0px; vertical-align: baseline; background-color: transparent;">
+Experience using hypervisors</li>
+</ul>
+<ul>
+<li>
+<span style="">Skytap has a fun startup atmosphere, and is located in the historic Pioneer Square district of downtown Seattle. To learn more about Skytap, please visit our website at</span><span style="">&nbsp;</span><a href="http://www.skytap.com/" style="" target="_blank">www.skytap.com</a><span style="">.&nbsp;</span></li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/skytap/EKVX3G"></script>]]></buttons>
+		</job>
+	</jobs>

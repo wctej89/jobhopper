@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[CloudSigma]]></company>
+			<job>
+			<id><![CDATA[job_20130701112906_Y2NFP5MTMDT60AKA]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior front-end / GUI web developer]]></title>
+			<department><![CDATA[Research and Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudsigma.theresumator.com/apply/hMQCfz/Senior-Frontend-GUI-Web-Developer.html]]></url>
+			<city><![CDATA[Sofia]]></city>
+			<state><![CDATA[sofia]]></state>
+			<country><![CDATA[Bulgaria]]></country>
+			<postalcode><![CDATA[1000]]></postalcode>
+			<description><![CDATA[<p>
+The Senior Web Developer is responsible for developing and maintaining the client side application architecture and codebase using best practices in JavaScript development, as well as the general principals of good software development. In amendment creating and maintaining official company pages and keeping the web presence at highest proficiency level.</p>
+<p>
+Skills &amp; Responsibilities<br />
+Develop and maintain core CloudSigma`s Graphical User Interfaces, with an eye toward constant re-factoring for performance and maintainability, utilizing the latest industry thinking and 3rd party libraries as appropriate<br />
+Develop robust JavaScript widgets and interface functionality using Mootools, jQuery and custom framework architecture, working closely with back-end developers to create streamlined end-to-end feature implementations<br />
+Candidate will be taking care of UI design requirements of CloudSigma&#39;s WEB bases management front end. Including all current and future services offered.<br />
+Responsibilities include the analysis and optimization of the company&#39;s user and management facing user interfaces.<br />
+Work experience is required on an operational position related to UI management. Experience with web based interfaces is also required.</p>
+<p>
+Tech. Requirements:<br />
+Bachelor&#39;s degree or at least five years web development experience<br />
+3+ years advanced JavaScript development<br />
+2+ years Mootools or jQuery development</p>
+<p>
+Preferred:</p>
+<p>
+Experience with the Django framework and Python is strongly preferred<br />
+Work with distributed source control systems (Mercurial)</p>
+<p>
+Experience working with several different JavaScript frameworks (jQuery, Dojo, Prototype, MooTools, YUI, etc) and the ability to code JavaScript at a framework level<br />
+Experience with client side performance monitoring tools (Firebug, Fiddler, YSlow, PageSpeed, DynaTrace, etc) and the ability to tune client side code for speed, memory consumption, and bandwidth optimization<br />
+Deep understanding of W3C standards for markup and JavaScript (Browser Object Model and Document Object Model), CSS.<br />
+Deep knowledge of cross-browser compatibility issues, techniques and workarounds in all areas of client side code<br />
+Strong adherence to general application development principals (object orientation, encapsulation, testability, extensibility, maintainability, etc.)<br />
+Ability to write clean concise documentation<br />
+Excellent written and verbal communication skills (English)<br />
+User Interface design skills, including information architecture, interface design and visual design</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudsigma/hMQCfz"></script>]]></buttons>
+		</job>
+	</jobs>

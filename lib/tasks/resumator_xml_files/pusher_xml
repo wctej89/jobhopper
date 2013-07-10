@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Pusher]]></company>
+			<job>
+			<id><![CDATA[job_20120409224224_0MXKGNONYJ7FAOWG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Systems Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://pusher.theresumator.com/apply/2TdHfe/Systems-Engineer.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[N1 6DL]]></postalcode>
+			<description><![CDATA[<p>We make hard problems simple, and aim to free developers from operating and maintaining their own realtime infrastructure.</p><p>The current Pusher product is a multi-tenant distributed system that allows our customers to deliver billions of messages to their connected users. We operate at massive scale, and this informs and affects everything we do.</p><p>Our engineering team is based in London. We are looking for engineers who will thrive working in a challenging environment on interesting problems. We aim for developer autonomy, and work with a modified Kanban process. Our engineering team is also heavily involved in operations, so you need to know how to deploy, monitor and maintain a large production system.</p><p>We are demanding about who we hire, and look for personal qualities as much as experience.</p><p>Requirements</p><ul><li>You show perseverance in the face of tough challenges</li><li>You can explore uncertain territory and create innovative solutions</li><li>You are constantly curious about new technology</li><li>You are pragmatic where necessary, but a perfectionist where it counts</li></ul><p><br />In terms of practical experience, it helps if you&#39;ve worked on distributed systems in the past, or have fulfilled a sysadmin/ops role. You should have experience programming in an evented style in multiple languages and frameworks.</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/pusher/2TdHfe"></script>]]></buttons>
+		</job>
+	</jobs>

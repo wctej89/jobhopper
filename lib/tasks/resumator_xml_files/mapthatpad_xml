@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[MapThatPad]]></company>
+			<job>
+			<id><![CDATA[job_20110407015955_RXS41BXNY0UR2YYQ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Hacker (Software Engineer if you will)]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://mapthatpad.theresumator.com/apply/24xkhC/Hacker-Software-Engineer-If-You-Will.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+	We&#39;re growing!</p>
+<p>
+	If you like working on products that make a positive impact on people&rsquo;s lives and their livelihood; if you like working on both consumer and enterprise level solutions and handling the challenges that come with each; and you like constantly hearing positive feedback from users; we want you!</p>
+<p>
+	We live and breathe our product and are looking for a hacker to join our team! We&#39;re obsessed with learning about our customers and their problems, and doing whatever it takes to minimize their time and waste.</p>
+<p>
+	We hack with a wide range of technologies: from Python to MongoDB to Sphinx on the back end to ajax heavy javascript on the front end. We&rsquo;re looking for someone smart who loves technology and solving real world problems to join our team and get in on the action at a very early stage for a considerable amount of equity.</p>
+]]></description>
+			<type><![CDATA[Contracted to Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/mapthatpad/24xkhC"></script>]]></buttons>
+		</job>
+	</jobs>

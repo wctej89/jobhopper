@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[MemeRiver]]></company>
+			<job>
+			<id><![CDATA[job_20100913124541_Z4OBNKSTNMQBEM5Y]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Co-founder: Business Development]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://memeriver.theresumator.com/apply/AAJkvH/Cofounder-Business-Development.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[Ec1v]]></postalcode>
+			<description><![CDATA[<p>
+	My desc goes here</p>
+]]></description>
+			<type><![CDATA[Part Time to Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/memeriver/AAJkvH"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Blackbaud]]></company>
+			<job>
+			<id><![CDATA[job_20110506130359_62YWHDEG2D4OC3DJ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Software Engineer / Scalability Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://blackbaud.theresumator.com/apply/3zy8He/Senior-Software-Engineer-Scalability-Engineer.html]]></url>
+			<city><![CDATA[San Diego]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[92121]]></postalcode>
+			<description><![CDATA[<p>
+	Your Passion: Our Purpose &ndash; Join us at Blackbaud and use your software development skills to delight our customers and positively impact the world. We are looking for individuals with a blend of superior technical talent along with an intrinsic desire to make a difference. Be a part of something bigger.</p>
+<p>
+	Blackbaud is the leading provider of software and services to non-profits around the world. Our team&rsquo;s focus on developing solutions for enterprise-level clients requires us to create software that scales to handle high-volume transactions for thousands of clients. We are seeking energetic software engineers that have a proven track record of developing solutions that resolve performance and scalability issues. Join our team of passionate engineers and help us develop world-class enterprise software that scales to the most demanding requirements.</p>
+<p>
+	Responsibilities:<br />
+	&bull; Evaluate architecture of multi-tenant hosted environment and work closely<br />
+	&bull; with software engineers and DBAs to implement improvements that<br />
+	&bull; maximize efficiency and throughput<br />
+	&bull; Perform code audits and provide guidance to application developers to fix<br />
+	&bull; performance issues in application code including reports and core features<br />
+	&bull; Collaborate with our platform and application performance engineers and<br />
+	&bull; automation teams to optimize and extend our existing suite of automated<br />
+	&bull; load and targeted performance tests<br />
+	&bull; Develop internal training for our engineers focused on performance testing,<br />
+	&bull; debugging, and tuning<br />
+	&bull; Identify pain-points in application deployment and maintenance processes<br />
+	&bull; and develop solutions to increase efficiency<br />
+	&bull; Work closely with application and platform development teams to optimize<br />
+	&bull; the database schema in order to maximize application performance<br />
+	<br />
+	Required Experience:<br />
+	&bull; A bachelor&#39;s degree in computer science or engineering from an<br />
+	accredited four-year college or university; MS preferred<br />
+	&bull; 3-5 years in a role dedicated to application scalability and deployment<br />
+	improvements for enterprise-class software including performance tuning<br />
+	and SQL and application development<br />
+	&bull; Experience with hosted, multi-tenant environments<br />
+	&bull; Deep knowledge of SQL Server 2008 architecture and internals<br />
+	&bull; Familiarity with Visual Studio Team Edition for Software Testers (2008)<br />
+	and Visual Studio 2010<br />
+	&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blackbaud/3zy8He"></script>]]></buttons>
+		</job>
+	</jobs>

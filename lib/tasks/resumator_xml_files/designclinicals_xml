@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Design Clinicals]]></company>
+			<job>
+			<id><![CDATA[job_20110921234052_9C2NDB7O4GQXRAEV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[PHP Software Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://designclinicals.theresumator.com/apply/q8gOKh/PHP-Software-Developer.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98136]]></postalcode>
+			<description><![CDATA[<p>
+	PHP Healthcare Software Developer</p>
+<p>
+	<strong>Available immediately</strong></p>
+<p>
+	<strong>Company Summary</strong><br />
+	Design Clinicals is a unique healthcare IT company. Founded in 2005, our vision is to make the world a healthier place by creating smart and innovative software for doctors, nurses, and pharmacists that greatly improves patient care.</p>
+<p>
+	<strong>Position Summary</strong><br />
+	We seek a PHP developer with exceptional coding skills and expertise in building complex web applications. You will be an integral member of the dev team and be actively involved in all aspects of developing the software, including prototyping and design. You will help create the highest quality software for mission critical processes.</p>
+<p>
+	<strong>Position Responsibilities</strong></p>
+<ul>
+	<li>
+		Build, change, and maintain database-driven PHP/web-based applications.</li>
+	<li>
+		Collaborate with dev and implementation team to define customer requirements.</li>
+	<li>
+		Document code, fix bugs, and respond rapidly to client issues in Live production environments.</li>
+</ul>
+<p>
+	Full time developers receive a generous benefits package of paid vacation, medical and dental insurance, commuter benefit, and 401(k) plan with company contribution.</p>
+<p>
+	<strong>Qualifications and Requirements</strong></p>
+<ul>
+	<li>
+		U.S. citizenship or permanent resident status</li>
+	<li>
+		Bachelor&rsquo;s degree or higher in Computer Science or similar. Equivalent combination of education and experience will be considered.</li>
+	<li>
+		1 - 2+ years work experience preferred</li>
+	<li>
+		Strong PHP and PostgreSQL/MySQL/Oracle development experience</li>
+	<li>
+		Data analysis and comprehension skills</li>
+	<li>
+		Knowledge of command line/terminal commands</li>
+	<li>
+		Experience with data integration, webservices, APIs</li>
+	<li>
+		Strong experience with relational database applications, particularly with high performance on large datasets</li>
+	<li>
+		Experience with HTML, CSS, JavaScript/jQuery and Ajax, particularly with what works in IE6/7</li>
+	<li>
+		Creative and intelligent problem solving skills</li>
+	<li>
+		Experience working with small teams</li>
+	<li>
+		You must have professional drive, wrapped in an upbeat personality</li>
+</ul>
+<p>
+	<strong>Preferred Experience for bonus points:</strong></p>
+<ul>
+	<li>
+		Familiarity with open source tools</li>
+	<li>
+		Experience with HL7 Messaging protocol</li>
+	<li>
+		Familiarity with version control systems</li>
+	<li>
+		Experience with IDEs, such as Zend Studio/Eclipse<br />
+		&nbsp;</li>
+</ul>
+<p>
+	Please include a cover letter with your resume, along with a sample of source code (PHP preferred) that you are proud of. It does not have to be a fully functional application, just something that demonstrates your skill and passion for coding.</p>
+<p>
+	<strong>Position Type</strong></p>
+<ul>
+	<li>
+		Full-time, contract to hire, or contract</li>
+	<li>
+		Salary/Rate: DOE</li>
+	<li>
+		Remote work</li>
+	<li>
+		Relocation Cost: Not Paid</li>
+	<li>
+		Available: Immediately<br />
+		&nbsp;</li>
+</ul>
+]]></description>
+			<type><![CDATA[Contracted to Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/designclinicals/q8gOKh"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110921010728_VJELD0YVMPXXZ1PE]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[System Administrator]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://designclinicals.theresumator.com/apply/fSPXXG/System-Administrator.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98136]]></postalcode>
+			<description><![CDATA[<p>
+	System Administrator - Linux/OpenBSD/Network/OSS</p>
+<p>
+	<strong>Available immediately</strong></p>
+<p>
+	<strong>Company Summary</strong><br />
+	Design Clinicals is a unique healthcare IT company. Founded in 2005, our vision is to make the world a healthier place by creating smart and innovative software for doctors, nurses, and pharmacists that greatly improves patient care.</p>
+<p>
+	<strong>Position Summary</strong><br />
+	We seek a System Administrator who will be responsible for implementation and support of Linux server platforms, LAN/VPN, Open Source Software (OSS) stack, as well as work and troubleshooting related to: networking, software functionality, application server setup, databases and data analysis.</p>
+<p>
+	<strong>Position Responsibilities</strong></p>
+<ul>
+	<li>
+		Analyzes requirements for server equipment to facilitate successful application implementation</li>
+	<li>
+		Acts as technical facilitator addressing centralized communications, coordination, prioritization and execution of both infrastructure and business projects</li>
+	<li>
+		Coordinates complex technical implementations, performs capacity planning and monitoring, and SLA reporting</li>
+	<li>
+		Writes/reviews technical requirements, procedural documents, and design specifications</li>
+	<li>
+		Implements and documents disaster recovery plan</li>
+	<li>
+		Maintains all monitoring systems and analyzes all systems to determine monitoring parameters</li>
+	<li>
+		Troubleshoots and supports the application and system</li>
+	<li>
+		Maintains and manages all aspects of OSS based application infrastructure, including OS installation, custom kernel build (as needed), build and configuration of components of OSS stack (LAPP)</li>
+	<li>
+		Performs system administration support for application servers and services</li>
+	<li>
+		Provides advice, training and technical support for various projects</li>
+	<li>
+		Provides common and advanced system administration functions for local and remote systems including user administration, automation, patch management, backup and restore, capacity/log monitoring.</li>
+	<li>
+		Provides regular status updates to management on assigned tasks and projects</li>
+	<li>
+		Manages Linux servers running Apache and Postgres</li>
+	<li>
+		Manages Common Unix Printing Subsystem (CUPS) print services</li>
+	<li>
+		Creates, expands and supports company IT infrastructure</li>
+	<li>
+		(optional) Maintains and manages the patch management system and cycle</li>
+	<li>
+		(optional) Installs and maintains server class hardware</li>
+	<li>
+		(optional) Accountable for DNS administration</li>
+</ul>
+<p>
+	<strong>Keywords</strong><br />
+	LAPP<br />
+	Open Source<br />
+	OSS<br />
+	PostgreSQL<br />
+	SQL<br />
+	HTML<br />
+	XML<br />
+	TCP/IP Networking<br />
+	HTTP<br />
+	Interface<br />
+	UNIX/Linux System Administration<br />
+	PHP Programming<br />
+	Database administration<br />
+	Apache<br />
+	sh<br />
+	CUPS</p>
+<p>
+	<strong>Candidate Requirements</strong></p>
+<ul>
+	<li>
+		3+ years experience in Linux/Unix System Administration</li>
+	<li>
+		Availability required in the evening, weekend and on-call periodically to meet deadlines, correct system problems and for system upgrades</li>
+	<li>
+		Experience with open source database administration (PostgreSQL), performance analysis, backup and recovery</li>
+	<li>
+		Experience with routing, IP addressing, name resolution, VPNs, remote access, and Internet connectivity</li>
+	<li>
+		Working knowledge of Red Hat Enterprise Linux / Fedora / CentOS</li>
+	<li>
+		Scripting in any of the following: bash, php</li>
+	<li>
+		Experience with Cron scheduling</li>
+	<li>
+		Examining and setting system parameters to support optimal performance of Apache and PostgreSQL</li>
+	<li>
+		Familiarity with OpenBSD, PF, OpenVPN</li>
+	<li>
+		Experience with Linux networking configuration and troubleshooting</li>
+	<li>
+		Working knowledge of Linux command line tools</li>
+	<li>
+		Working knowledge of CUPS</li>
+	<li>
+		Hands-on hardware and software troubleshooting experience</li>
+	<li>
+		Ability to be responsible for for Linux (CentOS &amp; RHEL) server infrastructure, including monitoring, patching, security, optimization, and disaster recovery</li>
+	<li>
+		Ability to identify tasks which should be automated and then write the necessary scripts</li>
+	<li>
+		Ability to solve problems quickly and completely</li>
+	<li>
+		Highly structured, with good communication &amp; interpersonal skills</li>
+</ul>
+<p>
+	<strong>Not required, but a plus</strong><br />
+	Healthcare industry experience<br />
+	HL7 experience</p>
+<p>
+	<strong>Education</strong><br />
+	B.S. in Computer Science or a related field. Equivalent work experience will be considered.</p>
+<p>
+	<strong>Position Type</strong><br />
+	Full-time, contract to hire, or contract<br />
+	Salary/Rate: DOE<br />
+	Remote work<br />
+	&nbsp;</p>
+]]></description>
+			<type><![CDATA[Contracted to Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/designclinicals/fSPXXG"></script>]]></buttons>
+		</job>
+	</jobs>

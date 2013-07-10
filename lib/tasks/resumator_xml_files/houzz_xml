@@ -1,0 +1,1305 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Houzz]]></company>
+			<job>
+			<id><![CDATA[job_20120820192253_U88G4DRABVGG587J]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Back-End Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://houzz.theresumator.com/apply/VfOHYs/BackEnd-Software-Engineer.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+We are looking for a world-class software engineer to join our family and be part of our entrepreneurial development team. You will take high level ideas and transform them to live products. You will report directly to the founder.</p>
+<p>
+Our stack includes Redis, Solr, MySQL, jQuery, a custom ad server, targeting and recommendation engines, and image serving and processing at a very large scale.</p>
+<p>
+Skills &amp; Requirements</p>
+<ul>
+<li>
+Top-notch software engineering talent</li>
+<li>
+Self-directed, independent and has experience owning complete features/products</li>
+<li>
+Amazing ability to get stuff done</li>
+<li>
+Proficiency in web application programming (OOP, Java/C++, LAMP)</li>
+<li>
+Good understanding of algorithms, network protocols and web services</li>
+<li>
+Experience developing real-world web applications</li>
+<li>
+Familiarity with NoSQL databases and Lucene/Solr a plus</li>
+<li>
+A desire to build an engaging consumer experience</li>
+<li>
+Hard working and dedicated</li>
+<li>
+B.S., M.S., or Ph.D. in Computer Science or equivalent</li>
+<li>
+5+ years experience</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+About Houzz</p>
+<p>
+Join Houzz and help revolutionize the $300B home improvement industry with a combination of mobile, local, social and visual technologies.</p>
+<p>
+We&#39;ve built a community of more than 14 million design-obsessed unique monthly users and over 200K registered local home improvement professionals. In addition to the core site, our mobile apps include the highest-rated lifestyle iPad app in the Apple AppStore, with over 8 million downloads and an average of five stars from over 80K reviewers.</p>
+<p>
+We have raised over $48M from top venture capital firms, have grown more than 5X in the last year and are generating revenue by delivering products that address the needs of homeowners, local professionals and global brands.</p>
+<p>
+We have an entrepreneurial culture, a warm work environment, and a close-knit family that loves to celebrate birthdays and team accomplishments.</p>
+<p>
+Links to check out:</p>
+<p>
+http://www.houzz.com<br />
+http://www.houzz.com/jobs<br />
+http://www.houzz.com/aboutUs<br />
+http://www.houzz.com/inTheNews<br />
+http://www.houzz.com/mobileApps<br />
+http://www.apple.com/ipad-mini/features/#gallery-apps-houzz (scroll down to &quot;Apps&quot;)</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/houzz/VfOHYs"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120821222107_TRAADAXM1IPXOEKT]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Operations Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://houzz.theresumator.com/apply/Zfkovo/Operations-Engineer.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+We are looking for a talented tech ops person to build and maintain systems and our infrastructure at Houzz. You would be part of our entrepreneurial, top-notch engineering team, working with the rest of the Product Team to continue building the best home design and decorating application in the world.</p>
+<p>
+Position Responsibilities:&nbsp;</p>
+<ul>
+<li>
+Increase monitoring and alerting infrastructure coverage, re-architecting and improving existing systems as needed&nbsp;</li>
+<li>
+Find and eliminate the top 5 security issues in production infrastructure&nbsp;</li>
+<li>
+Design and implement improvements to existing provisioning and release systems&nbsp;</li>
+<li>
+Schedule and perform rolling upgrades of Production environments&nbsp;&nbsp;</li>
+<li>
+Build fresh log aggregation around open-source solutions such as logstash or gray log&nbsp;</li>
+<li>
+Work with Engineering teams to improve weekly release processes&nbsp;</li>
+<li>
+Manage and administer production infrastructure including but not limited to Firewalls, Load Balancers, Web Application and Database servers, DNS, FTP , SMTP, Remote Access services&nbsp;</li>
+<li>
+Measurably improve production performance as traffic scales.&nbsp;</li>
+</ul>
+<p>
+Desired Skills &amp; Experience:&nbsp;</p>
+<ul>
+<li>
+5+ years experience</li>
+<li>
+Good scripting experience:&nbsp; Python, Ruby, Perl</li>
+<li>
+Some tools development experience</li>
+<li>
+Strong in at least 2 of these areas:&nbsp; networking, web server tuning, server hardware, storage</li>
+<li>
+Broad experience:&nbsp; database, search, web monitoring, alert systems, system automation, managing large distributed system, NoSQL or Mongo DB<br />
+&nbsp;</li>
+</ul>
+<p>
+About Houzz</p>
+<p>
+Join Houzz and help revolutionize the $300B home improvement industry with a combination of mobile, local, social and visual technologies.</p>
+<p>
+We&#39;ve built a community of more than 14 million design-obsessed unique monthly users and over 200K registered local home improvement professionals. In addition to the core site, our mobile apps include the highest-rated lifestyle iPad app in the Apple AppStore, with over 8 million downloads and an average of five stars from over 80K reviewers.</p>
+<p>
+We have raised over $48M from top venture capital firms, have grown more than 5X in the last year and are generating revenue by delivering products that address the needs of homeowners, local professionals and global brands.</p>
+<p>
+We have an entrepreneurial culture, a warm work environment, and a close-knit family that loves to celebrate birthdays and team accomplishments.</p>
+<p>
+Links to check out:</p>
+<p>
+http://www.houzz.com<br />
+http://www.houzz.com/jobs<br />
+http://www.houzz.com/aboutUs<br />
+http://www.houzz.com/inTheNews<br />
+http://www.houzz.com/mobileApps<br />
+http://www.apple.com/ipad-mini/features/#gallery-apps-houzz (scroll down to &quot;Apps&quot;)</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/houzz/Zfkovo"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120821221848_NZ9VHWQLFU5YMEEO]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front-End Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://houzz.theresumator.com/apply/QuUM21/FrontEnd-Software-Engineer.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+We are looking for a world-class software engineer to join our family and be part of our entrepreneurial development team. You will take high level ideas and transform them to live products, used by millions of homeowners and professionals from around the world.</p>
+<p>
+Our Front-End Engineers are full-stack application developers, creating the infrastructure for a high-performance content management platform, its libraries, widgets and custom features. &nbsp;As such, we develop UI toolkits, full-screen image viewers, management and reporting tools, and support back-end technologies such as MySQL, SOLR and Redis. &nbsp;Our extensive use and customization of jQuery, Less and Bootstrap requires extensive understanding of Javascript, CSS and OOP.</p>
+<p>
+Skills &amp; Requirements:</p>
+<ul>
+<li>
+Top-notch software engineering talent</li>
+<li>
+Self-directed, independent and has experience owning complete features/products</li>
+<li>
+Amazing ability to get stuff done</li>
+<li>
+Proficiency in web application programming (OOP, LAMP)</li>
+<li>
+Substantial experience developing real-world web applications using CSS, JS</li>
+<li>
+A desire to build an engaging consumer experience</li>
+<li>
+Hard working and dedicated</li>
+<li>
+B.S., M.S., or Ph.D. in Computer Science or equivalent</li>
+<li>
+5+ years experience<br />
+&nbsp;</li>
+</ul>
+<p>
+About Houzz</p>
+<p>
+Join Houzz and help revolutionize the $300B home improvement industry with a combination of mobile, local, social and visual technologies.</p>
+<p>
+We&#39;ve built a community of more than 14 million design-obsessed unique monthly users and over 200K registered local home improvement professionals. In addition to the core site, our mobile apps include the highest-rated lifestyle iPad app in the Apple AppStore, with over 8 million downloads and an average of five stars from over 80K reviewers.</p>
+<p>
+We have raised over $48M from top venture capital firms, have grown more than 5X in the last year and are generating revenue by delivering products that address the needs of homeowners, local professionals and global brands.</p>
+<p>
+We have an entrepreneurial culture, a warm work environment, and a close-knit family that loves to celebrate birthdays and team accomplishments.</p>
+<p>
+Links to check out:</p>
+<p>
+http://www.houzz.com<br />
+http://www.houzz.com/jobs<br />
+http://www.houzz.com/aboutUs<br />
+http://www.houzz.com/inTheNews<br />
+http://www.houzz.com/mobileApps<br />
+http://www.apple.com/ipad-mini/features/#gallery-apps-houzz (scroll down to &quot;Apps&quot;)</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/houzz/QuUM21"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120821222159_X2N1YK3HZAXINHMS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Visual / UX Designer]]></title>
+			<department><![CDATA[Design]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://houzz.theresumator.com/apply/fy1G94/Visual-UX-Designer.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+Houzz is an innovative platform that is moving the home design and remodeling industry to the 21st century.</p>
+<p>
+We&#39;re looking for a talented visual and user experience designer to join our growing design team and help take our widely used web application to the next level. You will work closely with our small, entrepreneurial leadership and engineering team to take high-level ideas and transform them to live pixels, viewed by millions of homeowners and home improvement professionals around the world.</p>
+<p>
+Desired Skills and Experience:</p>
+<ul>
+<li>
+Diverse portfolio of web design work demonstrating a clean, modern aesthetic, showing attention to detail and using great typography.</li>
+<li>
+Solid foundation in user interface and experience design with a working understanding of latest web technologies and their limitations.</li>
+<li>
+Able to use CSS3 and JavaScript to whip up a solid responsive site that engineers can use as a starting point.</li>
+<li>
+Proven ability to make on-the-fly product decisions. Good ones.</li>
+<li>
+Strong opinion of what makes &quot;good design&quot; and a desire to simplify and streamline the world around you.</li>
+<li>
+Experience working on a large scale consumer web app / site.</li>
+<li>
+Able to work under tight, weekly deadlines.</li>
+<li>
+Availability to work at our Palo Alto office (as an employee or a contractor).</li>
+<li>
+Please submit a link to your <strong>online portfolio</strong> along with your resume.<br />
+&nbsp;</li>
+</ul>
+<p>
+About Houzz</p>
+<p>
+Join Houzz and help revolutionize the $300B home improvement industry with a combination of mobile, local, social and visual technologies.</p>
+<p>
+We&#39;ve built a community of more than 14 million design-obsessed unique monthly users and over 200K registered local home improvement professionals. In addition to the core site, our mobile apps include the highest-rated lifestyle iPad app in the Apple AppStore, with over 8 million downloads and an average of five stars from over 80K reviewers.</p>
+<p>
+We have raised over $48M from top venture capital firms, have grown more than 5X in the last year and are generating revenue by delivering products that address the needs of homeowners, local professionals and global brands.</p>
+<p>
+<br />
+We have an entrepreneurial culture, a warm work environment, and a close-knit family that loves to celebrate birthdays and team accomplishments.</p>
+<p>
+Links to check out:</p>
+<ul>
+<li>
+http://www.houzz.com</li>
+<li>
+http://www.houzz.com/jobs</li>
+<li>
+http://www.houzz.com/aboutUs</li>
+<li>
+http://www.houzz.com/inTheNews</li>
+<li>
+http://www.houzz.com/mobileApps</li>
+<li>
+http://www.apple.com/ipad-mini/features/#gallery-apps-houzz (scroll down to &quot;Apps&quot;)</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/houzz/fy1G94"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121221190902_TNXH3USHXPRW2CFV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Data Entry Specialist]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Support]]></team>
+			<url><![CDATA[http://houzz.theresumator.com/apply/hIpJio/Data-Entry-Specialist.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+We are seeking a full time, dedicated and detail-oriented data entry specialist to work on-site at our Palo Alto office.</p>
+<p>
+Responsibilities:</p>
+<ul>
+<li>
+Enter new data into&nbsp;spreadsheets; reformat the existing data in standard format</li>
+<li>
+Compare data entered into computer with data on original document</li>
+<li>
+Conduct spot checks to verify data is correctly entered</li>
+<li>
+Resize jpeg images in Adobe Photoshop</li>
+</ul>
+<p>
+Qualifications:</p>
+<ul>
+<li>
+Bachelors degree&nbsp;(completed or in process)</li>
+<li>
+Experience with&nbsp;spreadsheets</li>
+<li>
+Experience with Macintosh</li>
+<li>
+Excellent&nbsp;proofreading skills</li>
+<li>
+Conscientious / Detail oriented</li>
+<li>
+Excellent interpersonal skills; ability to establish and maintain effective working relationships with those contacted in the course of work</li>
+<li>
+Must be self-motivated and energetic with the ability to work independently and collaboratively</li>
+<li>
+Adobe Photoshop and&nbsp;Data Entry experience is a plus</li>
+<li>
+Experience in&nbsp;the high tech industry&nbsp;is preferred but not required</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/houzz/hIpJio"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121109195455_5ZTE5TOLDSDCCTVN]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Community Manager]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[Marketing]]></team>
+			<url><![CDATA[http://houzz.theresumator.com/apply/u9I6oV/Community-Manager.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+We are looking for a community and social media specialist to join our Community team!</p>
+<p>
+<strong>Position Responsibilities:</strong></p>
+<ul>
+<li>
+Work with our current Community Manager to engage our community&nbsp;of millions of users via our web site and our mobile apps</li>
+<li>
+Be hands-on and a key player in the Houzz community of design professionals and enthusiasts.</li>
+<li>
+Execute on social media plans with content creation in coordination with the Houzz editorial and marketing teams.</li>
+<li>
+Support the Houzz community through email, social media channels,&nbsp;and through Houzz discussions.</li>
+</ul>
+<p>
+<strong>Job Requirements:</strong></p>
+<ul>
+<li>
+Miniumum 1-2 years community management experience but more experience valued.</li>
+<li>
+Love of and enthusiastic participation in online communities in general with an enormous comfort level communicating online - must be hands-on.</li>
+<li>
+Crackerjack social media maven&nbsp;with a long history of personal involvement.</li>
+<li>
+Desire to help create the richest and best experience possible for Houzz users.</li>
+<li>
+Excellent writing abilities and attention to detail.</li>
+<li>
+Outstanding interpersonal skills.</li>
+<li>
+Comfort with fast-paced, roll-up-your-sleeves work environment.</li>
+<li>
+Love of good design and home improvement a huge plus.</li>
+<li>
+Sense of humor.</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Contracted to Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/houzz/u9I6oV"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121205002812_6P9XMMIKBVYBPCOP]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Home design editor and writer]]></title>
+			<department><![CDATA[Editorial]]></department>
+			<team><![CDATA[Edit]]></team>
+			<url><![CDATA[http://houzz.theresumator.com/apply/7t5F8Y/Home-Design-Editor-And-Writer.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+Houzz, the web&#39;s leading home design site, is looking for a highly skilled home design journalist to join our editorial team. Top candidates will have a knack for spotting timely home ideas and turning them into articles that inform, engage and entertain. They have top-notch writing, editing and leadership abilities, a deep well of creative story ideas, and a strong sense of reader service. They love the entrepreneurial, fast-paced culture of the web, interaction with an engaged online community, and being part of a fun and productive editorial team.</p>
+<p>
+Houzz celebrates all styles of home design, from the traditional to the modern and every eclectic style in between. Rather than foster any one type of architecture and design, Houzz brings out the best new home ideas from all styles and walks of life.</p>
+<p>
+This is a salaried, full-time position in Palo Alto, CA, with full benefits and equity.</p>
+<p>
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+Write articles (&ldquo;Featured Ideabooks&rdquo;) for the Houzz homepage and newsletter</li>
+<li>
+Generate ideas for engaging new content that readers will bookmark and share</li>
+<li>
+Support daily site management and the development of new contributors, content and projects</li>
+<li>
+Coach new writers, working with them to evaluate and edit their stories for logic, flow and reader service</li>
+</ul>
+<p>
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+Degree in Journalism, Communications or equivalent</li>
+<li>
+5 years experience in writing and editing content for a home publication or website</li>
+<li>
+At least 2 years writing and editing for the web</li>
+<li>
+A track record of writing breaking news and unique, quality features that go viral</li>
+<li>
+Exceptional attention to detail, grammar and logical story construction</li>
+<li>
+An eye for strong design photography</li>
+<li>
+Familiarity with digital media and its technical aspects</li>
+<li>
+A roll-up-your-sleeves, get-it-done attitude and friendly, outgoing personality</li>
+<li>
+Knowledge of effective online content distribution methods and social networking tools</li>
+<li>
+Ability to work at our headquarters in Palo Alto, CA</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/houzz/7t5F8Y"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121206025539_YC4P6F2DOIG6VQ6Z]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Account Executive - Inside Sales]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[OC Sales]]></team>
+			<url><![CDATA[http://houzz.theresumator.com/apply/PJi8SH/Account-Executive-Inside-Sales.html]]></url>
+			<city><![CDATA[Newport Beach]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[92660]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Houzz is revolutionizing the $300B home improvement industry</strong> with a combination of mobile, local, social and photo-based technologies. In just a few short years, Houzz has acquired more than 14 million obsessed monthly unique users and has the highest-rated lifestyle iPad app in the Apple store, with 70K+ five-star reviews. The Houzz iPad app is regularly featured by Apple and has many patent-pending innovations.&nbsp; Backed by several top venture capital firms, Houzz&rsquo;s stellar team of tech veterans and innovators is elegantly applying technology to reinvent the remodeling and decorating process. We&#39;ve been featured recently in the New York Times, Wall Street Journal, San Francisco Chronicle, Chicago Tribune, and all over the web.&nbsp; We are an entrepreneurial culture with a warm work environment, and a close-knit family that loves to celebrate birthdays and team accomplishments.<br />
+<br />
+<strong>You are a talented sales professional</strong>&nbsp;who has worked in a commissioned sales role, selling to small and medium size businesses. You have a dynamic personality, are smart and a hard worker, tech savvy and are well versed in a consultative yet deliberate sales process. You are a strong performer with a proven track record of sales success and thrive in a fun and competitive, yet team oriented environment. You enjoy learning and being challenged. You will sell marketing and visibility packages to our built in base of over 200K home improvement professionals across the U.S and Canada (think contractors, architects, kitchen designers, landscape contractors, etc.) as well as prospect those not currently on Houzz. &nbsp;</p>
+<p>
+<strong>Our Newport Beach Sales office</strong> is a modern, comfortable environment with a side garden for relaxation, a lounge with comfortable chairs and games, a well-stocked kitchen to keep you fueled - and plenty of areas to just hang out, because we know you need that to recharge your batteries. You won&#39;t need to hit Starbucks as we have our own espresso set-up and coffee bar.&nbsp;</p>
+<p>
+<br />
+<strong>We offer a ground floor opportunity </strong>as part of a fast growing technology organization. We are already looking within this team for our future key leaders and managers as we expand.&nbsp;Compensation for the sales account executive is a mixture of base salary and commission targeted at 100K, with much more for strong performers.&nbsp; We also provide an excellent benefits package.</p>
+<p>
+<strong>Check us out at houzz.com</strong>, sign up for an account, create an ideabook and tell us what your favorite photos and ideas are.&nbsp; And if you are the right fit, you might just get to make your house, our Houzz.&nbsp;  </p>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Successful sales experience in the B2B SMB sector</li>
+<li>
+Internet related sales experience</li>
+<li>
+Verifiable track record of success</li>
+<li>
+Impeccable verbal and written communication skills</li>
+<li>
+Excellent references from mangers to whom you have reported</li>
+<li>
+Familiarity with CRM tools&nbsp;(example: Salesforce.com)</li>
+<li>
+Start-up experience a plus</li>
+<li>
+Telephone sales experience a plus</li>
+<li>
+Bachelor&rsquo;s degree</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/houzz/PJi8SH"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121210232628_BRPUNP4ENFGTQQHP]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sales Manager]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[OC Sales]]></team>
+			<url><![CDATA[http://houzz.theresumator.com/apply/ZzQFTB/Sales-Manager.html]]></url>
+			<city><![CDATA[Newport Beach]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[92660]]></postalcode>
+			<description><![CDATA[<p>
+<strong>We are a fast-growing consumer technology company </strong>transforming a $300 Billion industry that is until now untouched by Internet technologies.&nbsp; Millions of consumers and over 160,000 businesses across the nation are using our platform, which provides one of the best experiences on the net.&nbsp; We combine local, mobile, social and visual technologies to connect millions of passionate users with equally passionate business owners.&nbsp;</p>
+<p>
+<strong>You&rsquo;ll lead a team of about 15 outbound telephone sales account executives</strong> for our Newport Beach sales office.&nbsp; Your team will sell local marketing programs on Houzz to our large existing base of professionals across the U.S and Canada as well as those not yet on Houzz.&nbsp; You&rsquo;ll have the chance to hire and build your sales team in addition to leading some from our current team, working in a fun, innovative, world class, high performance work environment.&nbsp;</p>
+<p>
+<strong>We are looking for a dynamic, smart, creative, sales leader</strong> with a proven track record of top sales and management performance.&nbsp; You must be hands on sales leader who rolls up your sleeves every day, showing them how it is done.</p>
+<p>
+<strong>Desired Skills &amp; Experience</strong></p>
+<p>
+&bull; Current sales manager<br />
+&bull; 3+ years of sales management experience in the B2B SMB sector<br />
+and<br />
+&bull; 3+ years of top personal sales experience in the B2B SMB sector, advertising preferred<br />
+&bull; Experience managing and selling an Internet based product<br />
+&bull; Familiarity with online advertising options for SMB&#39;s<br />
+&bull; Solid knowledge of SEO, SEM, and other online advertising options<br />
+&bull; Impeccable verbal and written communication skills<br />
+&bull; You&#39;ve hired, trained, coached, counseled, and performance managed sales reps<br />
+&bull; You&#39;ve led a top performing team<br />
+&bull; You have a following of sales people<br />
+&bull; Deep understanding of the sales process, having sold and taught a consultative, yet deliberate sales approach<br />
+&bull; Strong platform training and one on one coaching skills<br />
+&bull; Excellent references from sales reps that have served under you, and senior leaders you have reported to.&nbsp;<br />
+&bull; Familiarity with CRM tools, i.e. SF.com<br />
+&bull; Fluid with Excel/MS Office or Google Docs<br />
+&bull; Start up experience a plus<br />
+&bull; Sales training background a plus<br />
+&bull; Telephone Sales experience a plus<br />
+&bull; Bachelors degree</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/houzz/ZzQFTB"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130111213959_OT0W1ZLLS3G4OUWY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Customer Service Specialist]]></title>
+			<department><![CDATA[Support]]></department>
+			<team><![CDATA[Support]]></team>
+			<url><![CDATA[http://houzz.theresumator.com/apply/KPOgk1/Customer-Service-Specialist.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+Responsibilities include but are not limited to:&nbsp;</p>
+<ul>
+<li>
+Interact by phone and email with consumers who use Houzz&nbsp;&nbsp;&nbsp;</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+Requirements:&nbsp;</p>
+<ul>
+<li>
+Customer service experience&nbsp;</li>
+<li>
+Experience providing inbound phone support&nbsp;</li>
+<li>
+Strong&nbsp; interpersonal skills&nbsp;</li>
+<li>
+Strong verbal and written communication skills&nbsp;</li>
+<li>
+Positive, can-do attitude&nbsp;</li>
+<li>
+Enjoys a fast paced start-up environment&nbsp;</li>
+<li>
+Always a Team player&nbsp;&nbsp;&nbsp;</li>
+</ul>
+<p>
+Desirable:&nbsp;</p>
+<ul>
+<li>
+College degree&nbsp;</li>
+<li>
+Social and internet tech savvy&nbsp;</li>
+<li>
+Experience with CRM software (e.g. Salesforce)&nbsp;</li>
+<li>
+Interest in home remodeling and design</li>
+</ul>
+<p>
+<br />
+This is a contract position initially, which can grow into a permanent role on the Houzz team after a few months based upon your success.&nbsp;</p>
+<p>
+Starting wage is $15 per hour.&nbsp; 40 hour per week.&nbsp;&nbsp;&nbsp;</p>
+<br />
+<p>
+About Houzz&nbsp;</p>
+<p>
+Join Houzz and help revolutionize the $300B home improvement industry with a combination of mobile, local, social and visual technologies.&nbsp;</p>
+<p>
+We&#39;ve built a community of more than 14 million design-obsessed unique monthly users and over 190K registered local home improvement professionals. In addition to the core site, our mobile apps include the highest-rated lifestyle iPad app in the Apple AppStore, with over 5 million downloads and an average of five stars from over 65K reviewers.&nbsp;</p>
+<p>
+We have raised over $48M from top venture capital firms, have grown more than 5X in the last year and are generating revenue by delivering products that address the needs of homeowners, local professionals and global brands.</p>
+<p>
+We have an entrepreneurial culture, a warm work environment, and a close-knit family that loves to celebrate birthdays and team accomplishments.</p>
+<p>
+Links to check out:</p>
+<p>
+http://www.houzz.com<br />
+http://www.houzz.com/jobs<br />
+http://www.houzz.com/press<br />
+http://www.houzz.com/inTheNews<br />
+http://itunes.apple.com/us/app/houzz-interior-design-ideas/id399563465?mt=8<br />
+http://www.apple.com/ipad-mini/features/#gallery-apps-houzz (scroll down to &quot;Apps&quot;)</p>
+]]></description>
+			<type><![CDATA[Contracted to Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/houzz/KPOgk1"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130130004329_WCC58X85XWU5LBVQ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Production and Content Assistant]]></title>
+			<department><![CDATA[Editorial]]></department>
+			<team><![CDATA[Edit]]></team>
+			<url><![CDATA[http://houzz.theresumator.com/apply/cCp4yq/Production-And-Content-Assistant.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+Houzz is looking for a smart, focused and detail-oriented interior design aficionado to assist our editorial team 32 hours a week. This is largely a production job, but the ideal candidate also will have an editorial affinity and will have an interest or background in interior design.</p>
+<p>
+This is an entry-level contract position based in our Palo Alto office.</p>
+<p>
+You are:</p>
+<ul>
+<li>
+Able to identify materials, products, styles and design details in architecture and interior design photos</li>
+<li>
+Detail-oriented and meticulous, but able to make decisions based on the big picture</li>
+<li>
+Able to take direction well, anticipate next steps and ask necessary questions</li>
+<li>
+A roll-up-your-sleeves, get-it-done personality with a friendly, outgoing attitude</li>
+<li>
+Excited by the idea of working in a fast-paced startup environment</li>
+</ul>
+<p>
+You have:</p>
+<ul>
+<li>
+Experience in and knowledge of home decorating and design</li>
+<li>
+Speedy and accurate web-based production and content management skills</li>
+<li>
+Excellent verbal and written communication skills</li>
+<li>
+Degree or equivalent experience in English, design, journalism or communications</li>
+<li>
+An eye for strong design photography</li>
+</ul>
+<p>
+About us:</p>
+<p>
+Houzz is revolutionizing the home improvement industry with a combination of mobile, local, social and photo-based technologies. In just a few short years, the company has acquired more than 12 million design-obsessed users and has the highest-rated lifestyle iPad app in the apple store.</p>
+<p>
+Take some time to get to know Houzz. If your skills are a match, send us a cover letter and resume. Please be based in the Bay Area and able to work in our offices in downtown Palo Alto.</p>
+]]></description>
+			<type><![CDATA[Contracted]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/houzz/cCp4yq"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130128062616_AGOW1HLYLSQJSR7U]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Marketing Director]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[Marketing]]></team>
+			<url><![CDATA[http://houzz.theresumator.com/apply/IjQ4ao/Marketing-Director.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+Houzz, Inc., (www.houzz.com) the revolutionary platform for residential remodeling and design is looking for an experienced marketer with a track record of impact who embraces all aspects of building a world-class brand and business from the ground up, and who thrives in an entrepreneurial, hands-on environment. Reports to the Vice President, Community &amp; Marketing.</p>
+<p>
+<br />
+About you:</p>
+<ul>
+<li>
+A minimum of 7 years work experience in marketing.</li>
+<li>
+Data-driven marketer with superior analytical skills</li>
+<li>
+Experience in consumer brand marketing, retail and or ecommerce for lifestyle categories such as home, food, or parenting a plus</li>
+<li>
+Combination of blue-chip consumer and startup company experience ideal</li>
+<li>
+Strong results and work ethic, a proven star performer over the course of your career with proven ability to scale</li>
+<li>
+Hands-on: must be willing to be an individual contributor first and a manager second</li>
+<li>
+BA&nbsp;and/or MBA from a top school strongly desired</li>
+<li>
+Excellent leadership, management, interpersonal and communication skills</li>
+<li>
+Strong interest in / passion for home improvement and design</li>
+</ul>
+<p>
+Interested in changing an industry forever?</p>
+<p>
+&nbsp;</p>
+<p>
+Company Description:</p>
+<p>
+Join Houzz and help revolutionize the $300B home improvement industry with a combination of mobile, local, social and visual technologies.</p>
+<p>
+We&#39;ve built a community of more than 12 million design-obsessed monthly unique users and over 160K registered local home improvement professionals.&nbsp; In addition to the core site, our mobile apps include the highest-rated lifestyle iPad app in the Apple AppStore, with over 5 million downloads and an average of five stars from over 65K reviewers.<br />
+We have raised over $48M from top venture capital firms, have grown more than 5X in the last year and are generating revenue by delivering products that address the needs of homeowners, local professionals and global brands.</p>
+<p>
+We have an entrepreneurial culture, a warm work environment, and a close-knit family that loves to celebrate birthdays and team accomplishments. We offer a competitive salary, generous equity, full benefits and the best team of nice and smart people that you&#39;ve ever worked with.</p>
+<p>
+Links to check out:</p>
+<ul>
+<li>
+http://www.houzz.com/jobs</li>
+<li>
+http://www.houzz.com/press</li>
+<li>
+http://www.houzz.com/inTheNews</li>
+<li>
+http://itunes.apple.com/us/app/houzz-interior-design-ideas/id399563465?mt=8</li>
+<li>
+http://www.apple.com/ipad-mini/features/#gallery-apps-houzz (scroll down to &quot;Apps&quot;)</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Senior Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/houzz/IjQ4ao"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130311043147_EFTAD96FC9LOXVIL]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Manager/Director, Communications]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Marketing]]></team>
+			<url><![CDATA[http://houzz.theresumator.com/apply/z6y8pe/Senior-ManagerDirector-Communications.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+Houzz is looking for an exceptional senior communications professional with deep consumer PR experience to join our team in Palo Alto, CA. The ideal candidate will have a proven track record of developing and executing cut-through consumer PR strategies and tactics to complement our current business media and corporate communications efforts.</p>
+<p>
+Reporting directly to the Vice President of Community &amp; Marketing and working in partnership with our current Director of Communications, this person will be responsible for ensuring that our public relations strategy builds our brand and grows the business.</p>
+<p>
+Desired Skills &amp; Experience:</p>
+<ul>
+<li>
+A minimum 8 years public relations and social media experience;</li>
+<li>
+Demonstrable track record of developing and executing creative plans and tactics that generate relevant consumer media coverage;</li>
+<li>
+A strong network of consumer media contacts, including print, online and broadcast;</li>
+<li>
+Excellent writing abilities and attention to detail;</li>
+<li>
+Outstanding interpersonal skills;</li>
+<li>
+A team player who can gracefully handle day-to-day public relations operations of an &ldquo;always on&rdquo; start-up;</li>
+<li>
+Consumer technology or lifestyle&nbsp;background is a plus.</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/houzz/z6y8pe"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130318182629_N6FQ7JZL0E9UF6DL]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Copy Coordinator]]></title>
+			<department><![CDATA[Products]]></department>
+			<team><![CDATA[Edit]]></team>
+			<url><![CDATA[http://houzz.theresumator.com/apply/O7Ffur/Copy-Coordinator.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+Houzz, the web&#39;s leading home design site, is looking for an experienced copy coordinator to help lead our team of freelance copywriters. Candidates will have experience as the main point of contact for a group of writers, as well as a background honing the voice of a brand and maintaining its consistency. A strong interest in home design is preferred.</p>
+<p>
+Duties:</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work with Houzz team to build the brand&#39;s voice and style guide; oversee consistency in writing across all copy</li>
+<li>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervise team of freelance copywriters and assign writing as necessary</li>
+<li>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Help hire and maintain freelance copywriters to ensure all deadlines for assignments are met</li>
+<li>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Research and work with Houzz team to ensure accurate and pertinent information about products is included in writing</li>
+<li>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Edit and write copy as needed</li>
+</ul>
+<p>
+Qualifications:</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor&#39;s degree in English, Journalism, Communications, Marketing, or comparable work experience<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At least 5 years copywriting experience, including at least 1 year managing a team<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Extensive knowledge of AP Style<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Interest in home design and experience writing for the home design sector preferred</p>
+<p>
+To apply, please send a cover letter and resume. This position is based out of our offices in Palo Alto.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/houzz/O7Ffur"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130407205533_CSJWBCOONWVLMIB8]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Account Manager]]></title>
+			<department><![CDATA[Orange County]]></department>
+			<team><![CDATA[OC Sales]]></team>
+			<url><![CDATA[http://houzz.theresumator.com/apply/7ycj8u/Account-Manager.html]]></url>
+			<city><![CDATA[Newport Beach]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[92660]]></postalcode>
+			<description><![CDATA[<p>
+Houzz is revolutionizing the $350B home improvement industry with a combination of mobile, local, social and photo-based technologies. In just a few short years, the company has acquired more than 14 million obsessed monthly unique users and has the highest-rated lifestyle iPad app in the apple store, with 70K+ five-star reviews.&nbsp; Backed by Sequoia capital, Houzz&rsquo;s stellar team of tech veterans and innovators is elegantly applying technology to reinvent the remodeling and decorating process. We&#39;ve been featured recently on the Today Show &amp; CNBC, in the New York Times, Wall Street Journal, San Francisco Chronicle, Chicago Tribune, and all over the web.&nbsp; We are an entrepreneurial culture with a warm work environment, and a close-knit family that loves to celebrate birthdays and team accomplishments.<br />
+<br />
+You are a sales and customer support professional who has worked in ad sales or an account management role.&nbsp;&nbsp; You have a great phone voice, friendly personality, are a smart and a hard worker, tech savvy and are skilled in what it takes to maintain and retain accounts.&nbsp;&nbsp; You are known for your your customer service skills.&nbsp; Your written and verbal communication skills are impeccable.&nbsp; You enjoy working with existing accounts, servicing and upselling them.&nbsp; You are a great listener, but also passionate about the product you represent.&nbsp;<br />
+<br />
+You will manage Houzz professionals who have purchased our local marketing programs.&nbsp; You&#39;ll reach out to existing accounts shortly after they are sold, review their analytics, and help them improve their Houzz profile, and maintain an ongoing relationship.&nbsp;</p>
+<p>
+Our Newport Beach Sales office near John Wayne Airport is a professional, modern, comfortable environment with a well-stocked kitchen to keep you fueled, and plenty of areas to just hang out because we know you need that to recharge your batteries.<br />
+<br />
+We offer a ground floor opportunity as part of a fast growing sales organization and technology company. We are already promoting our future key leaders as we expand.&nbsp; Compensation is a mix of base and bonus with a annual target of 80K-85K.&nbsp; We also provide an excellent benefits package including a 401K. &nbsp;<br />
+<br />
+Check us out at houzz.com, sign up for an account, create an ideabook and tell us what your favorite photos and ideas are.&nbsp; And if you are the right fit, you might just get to make your house, our Houzz.</p>
+<p>
+Desired Skills &amp; Experience</p>
+<p>
+Several years of sales experience and/or customer support.&nbsp;<br />
+Internet related experience and understanding<br />
+Account Management, Upsell and support position in intangibles, i.e. advertising, financial services<br />
+Verifiable track record of success<br />
+Impeccable verbal and written communication skills<br />
+Excellent references from&nbsp; managers to whom you have reported<br />
+Familiarity with CRM tools (example: Salesforce.com)<br />
+Start-up experience a plus<br />
+Comfortable working over the phone with use of onscreen presentation<br />
+Bachelor&rsquo;s degree minimum</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/houzz/7ycj8u"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130417150302_L6ULOLWOJLCTXQVC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Director of Account Management/Community Support]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[OC Sales]]></team>
+			<url><![CDATA[http://houzz.theresumator.com/apply/pXWwUw/Director-Of-Account-ManagementCommunity-Support.html]]></url>
+			<city><![CDATA[Newport Beach]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[92660]]></postalcode>
+			<description><![CDATA[<p>
+As Director of Account Management/Community Support, you will lead a sales and support organization providing account management to our professionals that have purchased paid advertising programs on Houzz.&nbsp;&nbsp; You&rsquo;ll lead a team of account managers who will maintain contact with our paid Pros providing value added account support as well as handling annual renewals.&nbsp; Account retention is your number one objective for the account management team.&nbsp;&nbsp;&nbsp;</p>
+<p>
+You&rsquo;ll also lead a team of community support specialists tasked with providing engagement and account assistance to our based of more than 200,000 and growing professionals with profiles on Houzz.&nbsp; Improving Engagement is your number one objective for community support team.</p>
+<ul>
+<li>
+5-10 years of sales management experience in the B2B SMB sector</li>
+<li>
+Leadership of sales teams of significant size</li>
+<li>
+You have run a sales floor</li>
+<li>
+You have managed sales managers who had teams under them</li>
+<li>
+Very strong online background and knowledge of the current landscape</li>
+<li>
+Technically adept-very quick using applications</li>
+<li>
+Strong knowledge of Salesforce.com and related applications</li>
+<li>
+Polished presenter &amp; trainer</li>
+<li>
+Expert in Excel, MS office and Google Docs</li>
+<li>
+Excellent verbal and written communication skills</li>
+<li>
+Excellent platform presentation skills</li>
+<li>
+You have initial and ongoing training skills</li>
+<li>
+You&rsquo;ve built curriculum, designed materials,</li>
+<li>
+Gifted sales person</li>
+<li>
+Telephone Sales organization background a plus</li>
+<li>
+Creative, Smart, Collaborative</li>
+<li>
+A problem solver</li>
+<li>
+Start up experience a plus</li>
+<li>
+Bachelor&rsquo;s degree</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Senior Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/houzz/pXWwUw"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130430181047_CY8JFTNEPN43RZXS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[DevOps Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://houzz.theresumator.com/apply/oR7eBD/DevOps-Software-Engineer.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+Houzz is looking for a talented DevOps Software Engineer to join our world-class team in downtown Palo Alto, CA. We are reinventing the $300 billion home improvement industry with the Internet&rsquo;s largest home photo database, a directory of more than 1.6 million home pros, community forums, product catalog, daily editorial content and 5-star mobile apps.&nbsp; Our DevOps Engineer will have an opportunity to make a mark in a significant new company by developing new tools for scalability, availability, security, improve efficiency and redundancy, and monitoring for our production infrastructure and services.</p>
+<p>
+Responsibilities:<br />
+- develop solid, reusable code from scratch for tools to run 24/7<br />
+- know and touch every part of the system<br />
+- move lots of data, handle disaster recovery, improve throughput, make storage and caching really fast<br />
+- build and maintain production infrastructure and services<br />
+- ensure proper monitoring, alerting, security and reporting for the infrastructure<br />
+- troubleshoot and resolve production issues&nbsp;<br />
+- help drive the capacity planning process<br />
+- help develop and maintain processes, tools, and documentation in support of production<br />
+- participate in the evaluation of new software, hardware, and infrastructure solutions<br />
+- participate in on-call rotation</p>
+<p>
+Requirements:<br />
+- BS in Computer Science or equivalent required, MS or PhD preferred - 5+ years experience<br />
+- must have a passion for operations in a web environment millions of users depend on<br />
+- proficiency as an OO coder (Java/C++, etc)<br />
+- know system level to API level<br />
+- know how file systems work and integrate with Amazon API<br />
+- tools development experience in scripting and development of systems automation tools (using shell, Perl, Python, etc.)<br />
+- ability to solve problems quickly and automate processes<br />
+- experience in on-call rotation, know what happens when tools / infrastructure fail.<br />
+- passion for exploring new technologies and frameworks<br />
+- minimal tolerance to repetition and relentless in automation<br />
+- familiarity with different cloud solutions (EC2, slicehost, backspace) is a plus</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>About Houzz</strong></p>
+<p>
+Join Houzz and help revolutionize the $300B home improvement industry with a combination of mobile, local, social and visual technologies.</p>
+<p>
+We&#39;ve built a community of more than 14 million design-obsessed unique monthly users and over 200K registered local home improvement professionals. In addition to the core site, our mobile apps include the highest-rated lifestyle iPad app in the Apple AppStore, with over 8 million downloads and an average of five stars from over 80K reviewers.</p>
+<p>
+We have raised over $48M from top venture capital firms, have grown more than 5X in the last year and are generating revenue by delivering products that address the needs of homeowners, local professionals and global brands.</p>
+<p>
+We have an entrepreneurial culture, a warm work environment, and a close-knit family that loves to celebrate birthdays and team accomplishments.</p>
+<p>
+Links to check out:</p>
+<p>
+http://www.houzz.com<br />
+http://www.houzz.com/jobs<br />
+http://www.houzz.com/aboutUs<br />
+http://www.houzz.com/inTheNews<br />
+http://www.houzz.com/mobileApps<br />
+http://www.apple.com/ipad-mini/features/#gallery-apps-houzz (scroll down to &quot;Apps&quot;)</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/houzz/oR7eBD"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130513232510_Q6LXLHACCUOAFWNK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Customer Service Manager]]></title>
+			<department><![CDATA[Support]]></department>
+			<team><![CDATA[Support]]></team>
+			<url><![CDATA[http://houzz.theresumator.com/apply/PSQ715/Customer-Service-Manager.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+We are looking for an experienced customer service professional to develop and lead a customer service team &nbsp;dedicated to ensuring that all Houzz users have a world class experience while interacting with our site. &nbsp;This position will be instrumental in developing the vision for customer care at Houzz and hiring the best team possible while being an integral part of our highly entrepreneurial organization. &nbsp; &nbsp;</p>
+<p>
+&nbsp;</p>
+<p>
+Responsibilities include but are not limited to:&nbsp;</p>
+<ul>
+<li>
+Leading and hiring the customer service team</li>
+<li>
+Working with our CRM provider to customize applications to best serve our needs and those of our consumers&nbsp;</li>
+<li>
+Interact by phone, email and chat with consumers who use Houzz&nbsp;&nbsp;&nbsp;</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+Requirements:&nbsp;</p>
+<ul>
+<li>
+Customer service management experience&nbsp;</li>
+<li>
+Experience with CRM software (e.g. Zendesk)</li>
+<li>
+Experience providing inbound phone, e-mail and chat support&nbsp;</li>
+<li>
+Strong interpersonal skills</li>
+<li>
+Creative problem solver&nbsp;</li>
+<li>
+Strong verbal and written communication skills&nbsp;</li>
+<li>
+Positive, can-do attitude&nbsp;</li>
+<li>
+Enjoys a fast paced start-up environment&nbsp;</li>
+<li>
+Always a team player</li>
+</ul>
+<p>
+Desirable:&nbsp;</p>
+<ul>
+<li>
+College degree&nbsp;</li>
+<li>
+Social and internet tech savvy&nbsp;</li>
+<li>
+Interest in home remodeling and design</li>
+</ul>
+<p>
+<br />
+&nbsp;</p>
+<p>
+About Houzz&nbsp;</p>
+<p>
+Join Houzz and help revolutionize the $300B home improvement industry with a combination of mobile, local, social and visual technologies.&nbsp;</p>
+<p>
+We&#39;ve built a community of more than 14 million design-obsessed unique monthly users and over 200K registered local home improvement professionals. In addition to the core site, our mobile apps include the highest-rated lifestyle iPad app in the Apple AppStore, with over 5 million downloads and an average of five stars from over 70K reviewers.&nbsp;</p>
+<p>
+We have raised over $48M from top venture capital firms, have grown more than 5X in the last year and are generating revenue by delivering products that address the needs of homeowners, local professionals and global brands.</p>
+<p>
+We have an entrepreneurial culture, a warm work environment, and a close-knit family that loves to celebrate birthdays and team accomplishments.</p>
+<p>
+Links to check out:</p>
+<p>
+http://www.houzz.com<br />
+http://www.houzz.com/jobs<br />
+http://www.houzz.com/press<br />
+http://www.houzz.com/inTheNews<br />
+http://itunes.apple.com/us/app/houzz-interior-design-ideas/id399563465?mt=8<br />
+http://www.apple.com/ipad-mini/features/#gallery-apps-houzz (scroll down to &quot;Apps&quot;)</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/houzz/PSQ715"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130501183536_FFUAXKSR6OJZX1UC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Android Software Engineer/Architect]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://houzz.theresumator.com/apply/izOz0k/Android-Software-EngineerArchitect.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Israel]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+Join Houzz and help revolutionize the $300B home improvement industry with a combination of mobile, local, social and visual technologies.</p>
+<p>
+We&#39;ve built a community of more than 14 million design-obsessed unique monthly users and over 200K registered local home improvement professionals. In addition to the core site, our mobile apps include the highest-rated lifestyle iPad app in the Apple AppStore, with over 7 million downloads, and our iOS and Android apps have an average of five stars from reviewers.&nbsp;</p>
+<p>
+We are backed by some of the top venture capital firms in the world, including Sequoia Capital, NEA, GGV and KPCB, have grown more than 5X in the last year and are generating revenue by delivering products that address the needs of homeowners, local professionals and global brands.</p>
+<p>
+We have an entrepreneurial culture and a flexible work environment. We offer a competitive salary, generous equity, and the best team of nice and smart people that you&#39;ve ever worked with.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Android Software Engineer/Architect</strong></p>
+<p>
+We are looking for a top notch Android software engineer to expand and fortify our Android presence. You will participate in product definition and translate ideas to live products, bringing Houzz&rsquo;s award winning content to the mobile experience. You will be a full partner in developing our wildly successful Android apps.</p>
+<p>
+Desired Skills &amp; Experience:</p>
+<ul>
+<li>
+Expert in Android development and Java.</li>
+<li>
+At least 2 years experience developing native Android Apps, at least 4 years developing in Java.</li>
+<li>
+Experience with app/server communications. Experience with network based apps.</li>
+<li>
+Have completed at least 2 apps in that are currently available in Google Play.</li>
+<li>
+Good understanding of user experience design and development on Android and mobile devices.</li>
+<li>
+Detail oriented, have passion for perfection.</li>
+<li>
+Self-driven, independent, can work remotely while collaborating effectively with other team members.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/houzz/izOz0k"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130502233454_3LLBWWQTVFF6UWKV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Community Coordinator-Newport Beach]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[OC Sales]]></team>
+			<url><![CDATA[http://houzz.theresumator.com/apply/QoZZiH/Community-CoordinatorNewport-Beach.html]]></url>
+			<city><![CDATA[Newport Beach]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[92660]]></postalcode>
+			<description><![CDATA[<p>
+As a Community Coordinator at Houzz, you&#39;ll have the opportunity to help grow and shape the 14-million-and-counting Houzz consumers and remodeling &amp; design professionals; think Architects, Interior Designers, Landscapers and more. You&rsquo;ll become a core member of our bright, tight-knit, super collaborative team. We&rsquo;re looking for people who love to connect and help other people, who are self-starters that roll up their sleeves, and who are web-savvy. Houzz is a successful, growing company, so you&rsquo;ll have great opportunities for career growth!</p>
+<p>
+<strong>Core responsibilities:</strong> (but not limited to):</p>
+<ul>
+<li>
+Support the Houzz community across a wide range of needs - we love our users!</li>
+<li>
+<p>
+Provide user feedback to the marketing and sales teams</p>
+</li>
+<li>
+Assist the sales team with client questions</li>
+</ul>
+<p>
+<strong>Qualifications:</strong></p>
+<ul>
+<li>
+Bachelor&#39;s degree</li>
+<li>
+<p>
+Previous marketing experience, or experience interacting with customers is a plus</p>
+</li>
+<li>
+Social network and internet tech-savvy is a major plus: we&#39;re all self-proclaimed tech geeks at Houzz!</li>
+<li>
+<p>
+Strong verbal and written communication skills - You should have phenomenal interpersonal skills, and enjoy talking with people in-person and over the phone</p>
+</li>
+<li>
+Positive, can-do attitude</li>
+<li>
+<p>
+Goal-oriented team player: we all chip in and support each other to hit our team targets and company goals!</p>
+</li>
+<li>
+Enjoy a fast paced start-up environment</li>
+</ul>
+<p>
+<strong>Perks of the role:</strong></p>
+<ul>
+<li>
+Opportunity to make a major impact on our business</li>
+<li>
+<p>
+Work along with our sales team at our office near John Wayne Airport (close to Newport, Irvine, and the beach!)</p>
+</li>
+<li>
+We all work on the latest Apple devices and use Google Docs for cloud sharing (we&#39;re practically paperless)</li>
+</ul>
+<ul>
+<li>
+The whole company celebrates everyone&#39;s birthday (and you pick whatever dessert you want when it&#39;s your bday!)</li>
+</ul>
+<p>
+<br />
+<strong>You will start as a full-time contractor, with the goal of converting to permanent hire status after 3 months based on job performance. Starting wage is $15 per hour.&nbsp; 40+ hours per week.</strong></p>
+]]></description>
+			<type><![CDATA[Contracted to Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/houzz/QoZZiH"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130509022114_COHK9RHGIEGOS4CQ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Technical Recruiter]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://houzz.theresumator.com/apply/UVf6Ji/Technical-Recruiter.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+Houzz is looking for a technical recruiter to help shape our organization by sharing our company&#39;s story, vision, culture and technology with the people that will be building our beautiful web site and mobile apps.</p>
+<p>
+We value great sourcing and communication skills, attention to detail, and critical thinking. You should be someone who embeds themselves with teams and is a strong consultative recruiter that holds the candidate experience sacred, but be a hard-nosed recruiter at the core.&nbsp; It&#39;s very important to Houzz that we build positive relationships since every candidate is a potential customer and we are committed to treating them respectfully.&nbsp; You should creatively search for qualified candidates, reach out to recruit and network, and penetrate professional, social, start-up, investor and entrepreneurial communities to find the best engineers and designers who want to be part of this industry-changing startup. &nbsp;This position can be full-time or contract.</p>
+<p>
+<strong>Required Skills and Experience:&nbsp;</strong></p>
+<ul>
+<li>
+4-10+ years of mostly technical recruiting experience, preferably with some start-up experience</li>
+<li>
+Strong software recruiting experience, preferably with web apps</li>
+<li>
+Proven experience finding the best technology talent and design in Silicon Valley and beyond</li>
+<li>
+Exceptional attention to detail and follow-through</li>
+<li>
+Friendly/outgoing personality, but able to focus and hold your opinions</li>
+<li>
+Great selling and closing skills</li>
+<li>
+Must be a good team player</li>
+<li>
+Basic coding or other technical experience is a plus</li>
+</ul>
+]]></description>
+			<type><![CDATA[Contracted to Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/houzz/UVf6Ji"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130510000320_ADDJQAUGC7RG6FSW]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Data Scientist]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://houzz.theresumator.com/apply/2Bp97W/Data-Scientist.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+We are looking for a passionate data junky who loves finding needles in haystacks of logs and data warehouses.&nbsp; Houzz has a user base of 14 million (and growing) monthly users, over 200K registered home improvement professionals, and the world&rsquo;s largest knowledge base of home design preferences and remodeling activity.&nbsp; We are looking for someone to sift through the piles of data to understand key factors in the health of the business and in the performance of new product initiatives and to find compelling stories to be shared with the greater Houzz community.</p>
+<p>
+<strong>Position Responsibilities:</strong></p>
+<ul>
+<li>
+Define key success metrics of the business that track the engagement / growth of the user base</li>
+<li>
+Analyze and report performance of current and new product initiatives with appropriate statistical techniques</li>
+<li>
+Find interesting trends in user preferences and work with editorial teams to produce stories for Houzz</li>
+<li>
+Develop best practices for experimental design</li>
+<li>
+Work with data infrastructure / back-end peers to define the data collection needs for future data science work</li>
+</ul>
+<p>
+<strong>Desired Skills &amp; Experience:</strong></p>
+<ul>
+<li>
+MS or PhD in Statistics, Applied Mathematics, Computer Science or another quantitative discipline</li>
+<li>
+Experience with Web Analytics</li>
+<li>
+Experience writing complex SQL queries in a data warehouse environment</li>
+<li>
+Experience with statistical environments such as R or Matlab</li>
+<li>
+Experience with scripting languages such as Python, Ruby or PHP.</li>
+<li>
+Experience with distributed frameworks such as Map Reduce, Pig, or Hive preferred</li>
+<li>
+Desire to explore data in an unstructured environment and discover meaningful trends.</li>
+<li>
+Creative, curious and fascinated by data and the lifestyle trends they reveal.</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>About Houzz</strong></p>
+<p>
+Join Houzz and help revolutionize the $300B home improvement industry with a combination of mobile, local, social and visual technologies.</p>
+<p>
+We&#39;ve built a community of more than 14 million design-obsessed unique monthly users and over 200K registered local home improvement professionals. In addition to the core site, our mobile apps include the highest-rated lifestyle iPad app in the Apple AppStore, with over 8 million downloads and an average of five stars from over 80K reviewers.</p>
+<p>
+We have raised over $48M from top venture capital firms, have grown more than 5X in the last year and are generating revenue by delivering products that address the needs of homeowners, local professionals and global brands.</p>
+<p>
+We have an entrepreneurial culture, a warm work environment, and a close-knit family that loves to celebrate birthdays and team accomplishments.</p>
+<p>
+Links to check out:</p>
+<p>
+http://www.houzz.com<br />
+http://www.houzz.com/jobs<br />
+http://www.houzz.com/aboutUs<br />
+http://www.houzz.com/inTheNews<br />
+http://www.houzz.com/mobileApps<br />
+http://www.apple.com/ipad-mini/features/#gallery-apps-houzz (scroll down to &quot;Apps&quot;)</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/houzz/2Bp97W"></script>]]></buttons>
+		</job>
+	</jobs>

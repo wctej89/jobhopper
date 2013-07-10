@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Apigee]]></company>
+			<job>
+			<id><![CDATA[job_20121030002850_1Q3H0F9LTBMM2EU0]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://apigee.theresumator.com/apply/GhwCFo/Engineer.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94306]]></postalcode>
+			<description><![CDATA[<p>
+xyz</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/Apigee/GhwCFo"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121029233647_NN9CC3TOTGQ12HWI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[sales rep]]></title>
+			<department><![CDATA[sales]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://apigee.theresumator.com/apply/5mSeR6/Sales-Rep.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10001]]></postalcode>
+			<description><![CDATA[<p>
+blah blah blah</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/Apigee/5mSeR6"></script>]]></buttons>
+		</job>
+	</jobs>

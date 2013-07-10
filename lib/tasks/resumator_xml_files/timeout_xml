@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Time Out]]></company>
+			<job>
+			<id><![CDATA[job_20120907150406_AF7JMGJVQ0IDXNKW]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Experienced PHP Software Engineers]]></title>
+			<department><![CDATA[Digital]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://timeout.theresumator.com/apply/b0yO3d/Experienced-PHP-Software-Engineers.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[London]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[W1T 7AB]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Time Out London</strong> is looking to hire more digital people. We are looking for experienced PHP developers to be responsible for our key digital applications and platforms.</p>
+<p>
+	We want experienced developers with really strong software engineering skills. You should know how to build great software really well, and you should be able to guide and mentor others. If you have some experience of line management or are looking to do some of that, then that&rsquo;s a useful bonus.</p>
+<p>
+	There is an emphasis on working collaboratively with other developers and QAs, and with people outside the development team: Project Managers, Product Managers, senior stakeholders, and more.</p>
+<p>
+	We value highly a commitment to strong software engineering, and Symfony 2 is an important part of our work. Therefore as a filtering mechanism we will only consider candidates who match at least one of the following criteria:</p>
+<ul>
+	<li>
+		2-3 years experience of Symfony 1.4 or later. We will quiz you on this.</li>
+	<li>
+		1 year experience of Symfony 2. We will quiz you on this.</li>
+	<li>
+		2-3 years experience of the Zend framework. We will quiz you on this.</li>
+	<li>
+		1 year experience of Java, Spring and Hibernate. We will quiz you on this.</li>
+	<li>
+		Meaningful contribution to the open source community. We will need links to your contributions and use that as part of our evaluation.</li>
+</ul>
+<p>
+	Additionally 2 or more years experience of an OO language other than PHP is an advantage.<br />
+	<br />
+	Given all that, the ideal candidate will have...</p>
+<ul>
+	<li>
+		Excellent knowledge and experience of object oriented PHP</li>
+	<li>
+		A good grounding in MVC, plus experience of modern PHP frameworks</li>
+	<li>
+		Good understanding of source code control systems, especially git.</li>
+	<li>
+		Strong experience with MySQL</li>
+	<li>
+		Demonstrably using tools and techniques which produce reliable software</li>
+	<li>
+		Good knowledge of HTML, CSS, Javascript and Linux</li>
+	<li>
+		Excellent communication skills, particularly face-to-face</li>
+	<li>
+		Strength in working within and adhering to an agreed process</li>
+	<li>
+		Collaborative</li>
+	<li>
+		Excellent teamworking capability</li>
+	<li>
+		Potential capability to lead a team of multidisciplinary technologists</li>
+	<li>
+		Willingness to work beyond your core skillset</li>
+	<li>
+		Focus on delivering value<br />
+		&nbsp;</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/timeout/b0yO3d"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120907153359_CQBAN9AXIBXE3DQ3]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front End Developer]]></title>
+			<department><![CDATA[Digital]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://timeout.theresumator.com/apply/S7HzuE/Front-End-Developer.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[London]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[W1T 7AB]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Time Out London</strong> is looking to hire more digital people. We are looking for a front-end developer to be responsible for our key digital applications and platforms. There is an emphasis on working collaboratively with other developers and QAs, but also with people outside the development team: Project Managers, Product Managers, senior stakeholders, and more.</p>
+<p>
+	Time Out has a really strong team of great software engineers and QAs, and a range of applications and services, and yet the front-end team has traditionally been very small. So you will need to thrive in an environment where you are working widely across many teams, bringing your expertise to many areas, consulting and advising, and demonstrating excellent front-end development skills on top of a range of technology stacks.</p>
+<p>
+	The ideal candidate will have...</p>
+<ul>
+	<li>
+		Excellent knowledge and experience of HTML, HTML5, and CSS, including CSS3.</li>
+	<li>
+		Strong experience of templating languages, e.g Twig</li>
+	<li>
+		Very strong Javascript, with demonstrably good practises in its design and structure, plus use of frameworks including jQuery and Backbone.js.</li>
+	<li>
+		Experience of CSS frameworks is a bonus.</li>
+	<li>
+		Good understanding of source code control systems, especially git.</li>
+	<li>
+		Strong experience with optimising the user experience, predominantly through effective use of front-end technologies</li>
+</ul>
+<p>
+	Additionally we need these skills:</p>
+<ul>
+	<li>
+		Excellent communication skills, particularly face-to-face</li>
+	<li>
+		Collaboration</li>
+	<li>
+		Excellent teamworking capabilities</li>
+	<li>
+		A willingness to work beyond your core skillset</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/timeout/S7HzuE"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120907155443_NDM7GAZZVYVPMIEG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[iOS Team Lead]]></title>
+			<department><![CDATA[Digital]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://timeout.theresumator.com/apply/J6OFjv/IOS-Team-Lead.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[London]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[W1T 7AB]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Time Out London</strong> is looking to hire more digital people. We are looking for a very experienced iOS team lead to be responsible for our iPhone and iPad apps, and leading our mobile app development. If there&rsquo;s one trusted brand which is oriented towards mobile it&rsquo;s Time Out, which is all about getting out and about in your city. This a great opportunity for someone who wants more than app development, and wants drive the technical direction for our mobile experience.</p>
+<p>
+	The mobile team at Time Out has full access to the entire software stack, and evolving the Java-based back-end proxy is important part of being able to deliver great mobile products.</p>
+<p>
+	There is an emphasis on working collaboratively with other developers and QAs, but also with people outside the development team: Project Managers, Product Managers, senior stakeholders, and more.</p>
+<p>
+	The ideal candidate will have these essential criteria:</p>
+<ul>
+	<li>
+		Excellent experience in iOS development and Objective C</li>
+	<li>
+		Experience of developing all aspects of an iOS application</li>
+	<li>
+		Demonstrable experience of the full app lifecycle, including having an app in the App Store.</li>
+	<li>
+		Experience of leading a small team of developers</li>
+	<li>
+		Experience of working with non-technical stakeholders -- product managers and UX designers in particular.</li>
+	<li>
+		Ability to lead the strategic direction of our mobile technology</li>
+</ul>
+<p>
+	Being able to develop our Java back-end will be an advantage.</p>
+<p>
+	These skills are also very important:</p>
+<ul>
+	<li>
+		Excellent communication skills, particularly face-to-face</li>
+	<li>
+		Collaboration</li>
+	<li>
+		A willingness to work beyond your core skills set</li>
+	<li>
+		A focus on delivering value</li>
+	<li>
+		The ability to be creative with technology</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/timeout/J6OFjv"></script>]]></buttons>
+		</job>
+	</jobs>

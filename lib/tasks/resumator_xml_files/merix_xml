@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Merix Studio]]></company>
+			<job>
+			<id><![CDATA[job_20100131215130_PX9QUQNVDHO0FTIJ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[English Teacher]]></title>
+			<department><![CDATA[School United]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://merix.theresumator.com/apply/hB57DE/English-Teacher.html]]></url>
+			<city><![CDATA[Washington]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[123123123]]></postalcode>
+			<description><![CDATA[<p>Job description here,</p>
+<p> </p>
+<p>just a test</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/merix/hB57DE"></script>]]></buttons>
+		</job>
+	</jobs>

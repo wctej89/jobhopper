@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Finsphere]]></company>
+			<job>
+			<id><![CDATA[job_20120131223503_SEWPX0II9KSJO6FT]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://finsphere.theresumator.com/apply/VqppaV/Software-Engineer.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98004]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Software Engineer</strong></p>
+<p>
+	Finsphere is looking for a Senior Software Engineer to help build the next generation of market changing products for identity protection and financial fraud management. As a member of the engineering team, the Senior Software Engineer will use technical knowledge and design skills to deliver software solutions across Finsphere&rsquo;s Mobile Identity Protection&trade; (MIP) platform including work on Finsphere&#39;s high-performance transaction processing systems, various web user interfaces and leading edge work building smart phone applications for the Android and iOS platforms.&nbsp; The Engineer will collaborate with other software engineers, QA personnel, operations personnel and product management functions in the development of Finsphere&#39;s products.</p>
+<p>
+	Finsphere offers a challenging, fun and fast-paced environment, the opportunity to work with a highly competent and motivated team and the freedom to innovate.&nbsp;</p>
+<p>
+	<br />
+	<strong>Responsibilities:</strong></p>
+<p>
+	&nbsp;</p>
+<ul>
+	<li>
+		Participate in the design, development and delivery of Finsphere&#39;s products including SaaS products, web applications and smart phone applications</li>
+	<li>
+		Participate in the development of proof-of-concept and demonstration applications in support of future products or sales activities</li>
+	<li>
+		Provide feedback on proposed features to help shape Finsphere&#39;s current and future products</li>
+	<li>
+		Provide and receive feedback on software design and work products</li>
+	<li>
+		Fully document design and software work products</li>
+	<li>
+		Work with operations personnel to resolve production software issues</li>
+</ul>
+<p>
+	<br />
+	<strong>Minimum Qualifications:</strong></p>
+<p>
+	&nbsp;</p>
+<ul>
+	<li>
+		7+ years professional software development experience with 3+ years developing and delivering commercial software products and solutions</li>
+	<li>
+		5+ years Java development, principally on high performance, scalable and highly available server systems</li>
+	<li>
+		In-depth experience working with RDBMS and SQL</li>
+	<li>
+		Experience developing web applications including work with JSP, HTML, CSS, JavaScript and AJAX</li>
+	<li>
+		Experience developing and supporting software for a Linux environment</li>
+	<li>
+		Strong problem solving skills</li>
+	<li>
+		Strong written, oral, and interpersonal communication skills</li>
+	<li>
+		Motivated self-starter that excels in dynamic, fast-paced, team oriented environment</li>
+	<li>
+		Demonstrated ability to deliver on-time, requiring ability to estimate required effort for project objectives</li>
+	<li>
+		&nbsp;Interest in developing mobile applications for Android and iOS platforms</li>
+</ul>
+<p>
+	<br />
+	<strong>Desired Qualifications:</strong></p>
+<p>
+	&nbsp;</p>
+<ul>
+	<li>
+		Experience with the Spring framework for Java strongly desired</li>
+	<li>
+		Experience with MS SQL Server 2008</li>
+	<li>
+		Android development experience</li>
+	<li>
+		iOS development experience</li>
+</ul>
+<p>
+	<strong>Location:&nbsp; Bellevue, Washington</strong></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/finsphere/VqppaV"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120131224600_E8I2NMREX42SHJ1H]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sr. Statistician Modeler]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://finsphere.theresumator.com/apply/ezn49o/Sr-Statistician-Modeler.html]]></url>
+			<city><![CDATA[Bellevue]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98004]]></postalcode>
+			<description><![CDATA[<p>
+	Senior Statistician Modeler</p>
+<p>
+	The Senior Statistician will help build the next generation of market changing products for identity protection and financial fraud management. As a key member of the fraud analytics team, the Senior Statistician Modeler will use his / her technical skills and creative analytical approach to drive innovation across Finsphere&rsquo;s Mobile Identity Protection&trade; (MIP) platform.&nbsp; The Modeler will collaborate directly with business managers, product managers, software developers, analytics team members and clients in the development of predictive models to solve complex business problems.</p>
+<p>
+	Finsphere offers a challenging, fun and fast-paced environment, the opportunity to work with a highly competent and motivated team and the freedom to innovate.&nbsp;</p>
+<p>
+	<br />
+	Responsibilities:</p>
+<p>
+	<br />
+	&bull; Participate hands on in the full model development lifecycle, spanning data analysis, model design, model development, performance evaluation, client engagement support and knowledge transfer<br />
+	&bull; Generate statistical code that can be functionally implemented in an autonomous production environment<br />
+	&bull; Collaborate extensively with business managers, product management, program management, and software development team members to ensure that solutions meet business needs, permit valid inferences, and have functional implementability<br />
+	&bull; Fully document all data and modeling choices, rationale and results<br />
+	&bull; Monitor model performance and make recommendations for model adjustments<br />
+	&bull; Implement best practices regarding methodology (data sampling, data cleansing, prototype formulation and testing, data mining and analysis), as well as implementation (proper documentation, source control, and coding practices)<br />
+	&bull; Identify areas for continuous improvement and research<br />
+	&bull; Present modeling approach and results to clients as needed<br />
+	&bull; Participate in ROI analysis for client engagements as needed</p>
+<p>
+	<br />
+	Qualifications:</p>
+<p>
+	<br />
+	&bull; 7+ years of professional hands-on, advanced statistical model development<br />
+	&bull; Comprehensive understanding of quantitative methods<br />
+	&bull; Strong proficiency in SAS or comparable analytics tool and willingness to use company accepted tools<br />
+	&bull; Demonstrated ability to produce both ad hoc analyses and production-grade analytic models<br />
+	&bull; Wide range of hands-on experience in data analytics, such as: Classification models, continuous-output models, segmentation; Regression, decision-trees, neural networks, cluster analysis; Strategy optimization<br />
+	&bull; Demonstrated experience in fraud analytics and/or other rare-event classification problems<br />
+	&bull; Extreme attention to detail<br />
+	&bull; Motivated self-starter that excels in dynamic, fast-paced team oriented environment<br />
+	&bull; Strong problem solving skills<br />
+	&bull; Strong written and verbal communication skills, including ability to explain statistical concepts in clear detail<br />
+	&bull; Ability to estimate required effort for project objectives<br />
+	&bull; Masters degree (Ph.D. preferred) in quantitative discipline such as statistics, economics, applied mathematics, quantitative methods, operations research, research methodology or commensurate work experience</p>
+<p>
+	Location:&nbsp; Bellevue, Washington preferred, but relocation not required<br />
+	&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/finsphere/ezn49o"></script>]]></buttons>
+		</job>
+	</jobs>

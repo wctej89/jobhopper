@@ -7,13 +7,19 @@ class TagWorker
     tag_by_name(job)
   end
 
-  def tag_by_name(job)
-    Tag.all.each do |tag|
-      if job.name.scan(tag.name).empty?
-        next
-      else
-        job.tags << tag
+  def tag_by_name(id)
+    # Job.all.each do |job|
+    job = Job.find(id)
+      job.description.split(' ').each do |word|
+        begin
+          if Tag.find_by_name(word)
+            job.tags << Tag.find_by_name(word)
+          end
+        rescue Exception => e
+          puts e.message
+          next
+        end
       end
     end
-  end
+  # end
 end

@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Storybird]]></company>
+			<job>
+			<id><![CDATA[job_20120105040615_9GEFWWXE1VZU3ZO4]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Python product engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://storybird.theresumator.com/apply/eGagAl/Python-Product-Engineer.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Multiple Countries]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Storybird lets anyone make gorgeous, art-inspired stories in seconds.</strong></p>
+<p>
+That simple idea has made us indispensable for millions of people. Teachers rely on us to get students from K-12 writing and reading. Families adore us for our constant stream of stories. And tweens and teens use us to connect with each other and express their angst.</p>
+<p>
+We&#39;re one part educational platform, one part real-time publishing, and one part social network. It&#39;s a gummy mix that&#39;s a big engineering, product, and community challenge. We&#39;re looking for passionate teammates who can help us build an elegant environment for people to tell their stories. We want domain expertise, a history of pragmatic problem solving, an emphasis on self-management, and the savvy to contribute to product development in any role.</p>
+<p>
+<strong>Product engineers</strong>&nbsp;take ownership of key features and work hand-in-hand with front-end engineers and designers to build elegant and engaging products. We look for Python and Django experts with strong production experience who optimize every interaction to be smart and fast.</p>
+<p>
+<strong>Your role:</strong><br />
+-Write and maintain elegant code, building out re-usable models and libraries<br />
+-Continually improve our production environment<br />
+-Design and code features that shape how people experience Storybird<br />
+-Help define and grow the engineering team</p>
+<p>
+<strong>Your skills:</strong><br />
+-Expertise with Python and Django<br />
+-A history of high quality production web apps<br />
+-Ability to turn initial designs into functioning features</p>
+<p>
+<strong>You have:</strong><br />
+-Five to seven years experience<br />
+-Entrepreneurial mindset (we&#39;re a startup)<br />
+-Easy-going personality (team fit is crucial)<br />
+-Strong written and verbal communication skills (we value clarity)<br />
+-Results focused (you maintain a high signal to noise ratio)</p>
+<p>
+<strong>Telecommute option</strong>:<br />
+This job is open to North American candidates with a preference for Toronto or New York applicants. However, we&#39;ll hire wherever we find the best talent and fit. (The Storybird team is spread over four cities.)</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/Storybird/eGagAl"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120101225441_EXWVQQBCQPAXUDAT]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front-end product engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://storybird.theresumator.com/apply/XfczmJ/Frontend-Product-Engineer.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Multiple Countries]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Storybird is a venture-backed startup focused on storytelling. </strong></p>
+<p>
+Our platform lets anyone make art-inspired stories in seconds and has become the world&#39;s fastest-growing story platform&mdash;an indispensable tool for millions of families, friends, and schools. It&#39;s also attracted the same investors behind Twitter, Facebook, Tumblr, and Pinterest.</p>
+<p>
+We&#39;re currently looking for a <strong>Front-end product engineer</strong> to make our web experience richer, faster, and more elegant. We want an experienced coder with deep Javascript/HTML/CSS skills who loves building apps and has a sharp sense for product development.</p>
+<p>
+This is a big position on a small-and-growing team that will influence how millions of people use our platform.</p>
+<p>
+<strong>Your role</strong>:</p>
+<p>
+&bull; Design and code features that define how people experience Storybird<br />
+&bull; Ideate on innovative and usable features with a small but opinionated team<br />
+&bull; Write and maintain elegant code, building out re-usable models and libraries<br />
+&bull; Help define and grow the product engineering team</p>
+<p>
+<strong>Your skills</strong>:<br />
+&bull; Expertise with Javascript (flavored by JQuery), HTML5, and CSS3<br />
+&bull; Experience with web frameworks (Django, Rails, etc), esp. Ajax with JSON<br />
+&bull; A history of shaping and coding web applications</p>
+<p>
+<strong>You have</strong>:<br />
+&bull; Entrepreneurial mindset (we&rsquo;re a startup)<br />
+&bull; Easy-going personality (team fit is crucial)<br />
+&bull; Strong written and verbal communication skills (we value clarity)<br />
+&bull; Results focused (you maintain a high signal to noise ratio)</p>
+<p>
+<strong>We offer</strong>:<br />
+&bull; Great product&mdash;the world&rsquo;s fastest growing narrative entertainment platform<br />
+&bull;&nbsp;Seasoned team backed by A-list investors<br />
+&bull; Chance to flex and make a deep impact&nbsp;<br />
+&bull; Competitive salary and benefits<br />
+&bull; Chocolate (seriously good chocolate)</p>
+<p>
+<strong>Telecommute option</strong>:<br />
+This job is open to North American candidates with a preference for Toronto or New York applicants. However, we&#39;ll hire wherever we find the best talent and fit. (The Storybird team is spread over four cities.)</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/Storybird/XfczmJ"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120430191054_IELXF82QAUCBFPTN]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Storyspotter - Volunteer Position]]></title>
+			<department><![CDATA[Community]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://storybird.theresumator.com/apply/fPhYDM/Storyspotter-Volunteer-Position.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Multiple Countries]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+<strong>We&#39;re slowly expanding our volunteer Storyspotter team after our recent beta round and accepting applications for the next group.</strong></p>
+<p>
+Storyspotters review and moderate the stream of public Storybirds to spot the gems, flag problems, help answer member questions, and nurture the community.</p>
+<p>
+Storyspotting has some great perks: you earn credits for digital downloads or Pro memberships, have a chance to win prizes each month, are featured prominently in the community, and linked to books you recommend and popularize.</p>
+<p>
+If you love reading, writing, and community&mdash;apply now.</p>
+<p>
+<strong>Time commitment</strong><br />
+&middot; As much time as you want. We ask for a minimum of 1-2 hours a week, but some Storyspotters do 1-2 hours per day and are Storyspotting ninjas.</p>
+<p>
+<strong>Basic skills/requirements</strong><br />
+&middot; Good organization and communication skills<br />
+&middot; A love of reading and/or writing</p>
+<p>
+<strong>Technical Requirements</strong><br />
+<strong>&middot; </strong>Access to a personal &amp; private computer with a high-speed connection<br />
+<strong>&middot; </strong>Have Skype installed and an account set up</p>
+<p>
+<strong>Location</strong><br />
+&middot; This is a telecommute opportunity</p>
+<p>
+<strong>Bonus</strong><br />
+<strong>&middot; </strong>Bilingual<br />
+<strong>&middot;</strong> Experience in publishing or education<br />
+<strong>&middot;</strong> Experience working with kids/tweens/teens (including being a parent)</p>
+<p>
+<strong>Note</strong>:<br />
+&middot; This is NOT an editing or proofreading role. Storyspotters identify good books and flag bad books<br />
+&middot; Storyspotting is a volunteer position that includes perks like credits for downloads and a monthly prize draw. It is NOT a paid position</p>
+]]></description>
+			<type><![CDATA[Volunteer]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/Storybird/fPhYDM"></script>]]></buttons>
+		</job>
+	</jobs>

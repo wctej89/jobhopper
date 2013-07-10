@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Fizzy Software]]></company>
+			<job>
+			<id><![CDATA[job_20130330070310_EYC7WDVDJY9OZNLH]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Developer]]></title>
+			<department><![CDATA[Web]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://fizzysoftware.theresumator.com/apply/iRNavW/Web-Developer.html]]></url>
+			<city><![CDATA[Gurgaon]]></city>
+			<state><![CDATA[Haryana]]></state>
+			<country><![CDATA[India]]></country>
+			<postalcode><![CDATA[122002]]></postalcode>
+			<description><![CDATA[<p>
+You can enter a detailed, formatted description of your position.</p>
+<p>
+We have a fully featured WYSIWYG editor which enables you to craft that perfectly formatted bulleted list. So go get that new candidate!</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/fizzysoftware/iRNavW"></script>]]></buttons>
+		</job>
+	</jobs>

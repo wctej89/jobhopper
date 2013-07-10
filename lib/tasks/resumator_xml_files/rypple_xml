@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Rypple]]></company>
+			<job>
+			<id><![CDATA[job_20120606170455_8QHEMCWAZTX0PN00]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior iOS Developer]]></title>
+			<department><![CDATA[Rypple]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://rypple.theresumator.com/apply/2yTNUN/Senior-IOS-Developer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94105]]></postalcode>
+			<description><![CDATA[<p>The mission of the Rypple team at Salesforce.com:</p><p>The world of work is changing fast. Work software is often clunky and hard-to-use, and compares poorly with the software we use outside of work. We see a better future ahead. A future of business apps that work the way real people do. Apps that are social, mobile and a joy to use every day.</p><p>You need to love tricky design problems, moving fast and working closely with customers, product managers and other engineers. You are excited by your work being used widely and having impact on people&#39;s lives. This is challenging but rewarding work. Some days will be tough. Other days will be amazing.</p><p>You will be joining a brand new division of Salesforce.com focused on this opportunity. Our company was named 27th best place to work in the US by Fortune Magazine just a couple months ago.&nbsp; We love it here and want to keep it that way.</p><p>Senior iOS Developer (San Francisco or San Mateo)</p><p><strong>The work:</strong></p><ul><li>Build insanely great iOS applications that change the way people work.</li></ul><p><strong>You&rsquo;ve gotta have:</strong></p><ul><li>Solid understanding of object-oriented programming</li><li>Extensive knowledge of iOS APIs</li><li>Well-versed in Objective-C and commonly used concepts such as categories, protocols, properties, message, ivars, and selectors</li><li>Ability to build user interfaces using a mixture of Interface Builder and through Objective-C code</li><li>Knowledge of the device provisioning process for Developer and Distribution builds</li><li>Ability to build both iPhone and iPad iOS apps, install them on a device, and debug in tethered mode</li><li>Excellent communication skills</li><li>Bachelor&#39;s degree in computer science or equivalent experience</li><li>Experience with Agile development methodology (e.g., Scrum)</li></ul>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/rypple/2yTNUN"></script>]]></buttons>
+		</job>
+	</jobs>

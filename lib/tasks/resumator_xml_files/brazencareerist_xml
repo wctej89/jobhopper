@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Brazen Careerist]]></company>
+			<job>
+			<id><![CDATA[job_20110404181213_MZMJ7C5NEUIS2W6L]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://brazencareerist.theresumator.com/apply/qfbnuf/Software-Engineer.html]]></url>
+			<city><![CDATA[Washington]]></city>
+			<state><![CDATA[DC]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[20011]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>We are looking for an ambitious engineer who can develop the infrastructure for our highly-interactive web applications. </strong>Brazen Careerist is constantly creating a variety of new products, and we need help from someone that can both architect and build scalable back-end systems to run them.<br />
+	<br />
+	This job is ideal for a skilled engineer who wants the experience of working for a growing, funded start-up. As with most start-ups, this job is quite flexible and will be shaped primarily by your own abilities, interests, and decisions. We are open to a wide range of architectures, so the most important part of the job is to be creative in your solutions and feel a strong ownership of them.<br />
+	<br />
+	<strong>Our Front-end Platform is:</strong></p>
+<ul>
+	<li>
+		MySQL</li>
+	<li>
+		Apache</li>
+	<li>
+		PHP</li>
+	<li>
+		Drupal</li>
+	<li>
+		EC2</li>
+	<li>
+		Memcache</li>
+</ul>
+<p>
+	<strong>The back-end architectures for new products could be:&nbsp;</strong></p>
+<ul>
+	<li>
+		PHP</li>
+	<li>
+		Java</li>
+	<li>
+		C</li>
+	<li>
+		C++</li>
+	<li>
+		Scala</li>
+	<li>
+		or any other scalable platform (must still interact with our front-end).</li>
+</ul>
+<p>
+	<strong>Knowledge in one or more of the following would be preferable:</strong></p>
+<ul>
+	<li>
+		Social Networking Products/Architecture</li>
+	<li>
+		Algorithm Development</li>
+	<li>
+		Database Management</li>
+	<li>
+		Web Server Optimization</li>
+	<li>
+		Object Oriented</li>
+	<li>
+		Functional Programming</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/brazencareerist/qfbnuf"></script>]]></buttons>
+		</job>
+	</jobs>

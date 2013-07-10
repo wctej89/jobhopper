@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Rhomobile, Inc.]]></company>
+			<job>
+			<id><![CDATA[job_20110505210005_GKF84ZLMGFFKR6JU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[API / Backend Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Rhomobile]]></team>
+			<url><![CDATA[http://rhomobile.theresumator.com/apply/gptspW/API-Backend-Developer.html]]></url>
+			<city><![CDATA[San Jose]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[95128]]></postalcode>
+			<description><![CDATA[<p>
+	We are looking for an engineer with a strong Ruby backend / API development background and an interest in mobile tech. You should have a passion for Ruby to truly appreciate our platform.</p>
+<p>
+	Rhomobile solves the problem of bringing enterprise software anytime, anywhere. Working for Rhomobile is an excellent opportunity for the right person to be a significant equity participant in an exciting and innovative startup at the forefront of mobile computing. Plus, you&#39;ll get to play with the coolest new devices and open-source projects daily.</p>
+<p>
+	Job Responsibilities</p>
+<p>
+	The primary responsibility for this position is building the Ruby-based RhoSync app integration server. RhoSync keeps enterprise application data current and available on users&rsquo; smartphones. You will also maintain and build critical internal systems for our development service and IDE RhoHub, and the enterprise app store in the cloud RhoGallery. More information about RhoSync, RhoHub and RhoGallery can be found here: http://rhomobile.com/products/</p>
+<p>
+	Required background (you should love to think about and work with any of these):<br />
+	* Building scalable infrastructures with multiple data systems<br />
+	* Defining and implementing robust services in the cloud<br />
+	* Programming with Ruby and Ruby-related technologies (Sinatra/Rack/Rails)<br />
+	* Experience with AWS, EC2, S3, Heroku or Engine Yard<br />
+	* You must be an advocate of TDD/BDD, iterative development and efficient delivery through Agile methods</p>
+<p>
+	Desired background (you should be ready to learn about any of these):<br />
+	* Modern data systems like MongoDB, Cassandra, especially Redis<br />
+	* Mobile development on Android, iPhone, Blackberry, or Windows Mobile / Windows Phone 7<br />
+	* JavaScript, JavaScript frameworks, CSS<br />
+	* BDD tools like rspec/cucumber<br />
+	* Experience using Git and Github<br />
+	* Experience working on and experimenting with open source projects<br />
+	* Excellent written and verbal communication skills<br />
+	* Collaboration with team members, occasional pair programming, providing accurate estimations, timelines, costs, and risks associated with development</p>
+<p>
+	When applying, please include any of the following:<br />
+	* Links to existing applications you developed<br />
+	* Your Github account<br />
+	* Open source projects you owned, contributed to or maintained<br />
+	* Your blog<br />
+	* Links to code samples or work you&#39;d like to highlight</p>
+<p>
+	Location:<br />
+	Santana Row, San Jose, California</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/rhomobile/gptspW"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110505161208_S9FTUELIVV1YKDPO]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Frontend Web Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Rhomobile]]></team>
+			<url><![CDATA[http://rhomobile.theresumator.com/apply/vq2MBd/Frontend-Web-Developer.html]]></url>
+			<city><![CDATA[San Jose]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[95128]]></postalcode>
+			<description><![CDATA[<p>
+	We&rsquo;re looking for an experienced Front End Web Developer with a strong technical background and aptitude, JavaScript / CSS development experience, and some proficiency in Ruby or PHP.</p>
+<p>
+	Rhomobile solves the problem of bringing enterprise software anytime, anywhere. Working for Rhomobile is an excellent opportunity for the right person to be a significant equity participant in an exciting and innovative startup at the forefront of mobile computing.</p>
+<p>
+	Job Responsibilities</p>
+<p>
+	The primary responsibility for this position is building and maintaining Rhomobile development service and IDE RhoHub, and the enterprise app store in the cloud RhoGallery. You will be building and tuning the user experience of our sites using the latest web technologies.</p>
+<p>
+	The right candidate will have solid development skills in JavaScript, CSS, HTML and UX design. While the title and primary role is Web Developer, we want someone with product management instincts: help to drive priorities, design new features, and interact with our open source community. We think this makes the job much more exciting and diverse than most Ruby hacker slots out there.</p>
+<p>
+	Required background (you should love to learn about or excel in these areas):<br />
+	* Demonstrated ability to design and develop web applications from the ground up<br />
+	* Deep understanding of web application architectures<br />
+	* Building clean and beautiful user interfaces<br />
+	* Strong experience with JavaScript, CSS, frameworks like jQuery<br />
+	* Excellent written and verbal communication skills</p>
+<p>
+	Desired background (you should be ready to learn about any of these):<br />
+	* Building web applications with Ruby<br />
+	* Understanding cloud technologies<br />
+	* Experience with Ruby web frameworks such as Rails, Sinatra<br />
+	* Web services knowledge, particularly with enterprise apps<br />
+	* An interest in learning mobile application development<br />
+	* Experience using Git and Github<br />
+	* Experience working on and experimenting with open source projects</p>
+<p>
+	When applying, please include any of the following:<br />
+	* Links to existing applications you developed<br />
+	* Your Github account<br />
+	* Open source projects you owned, contributed to or maintained<br />
+	* Your blog<br />
+	* Links to code samples or work you&#39;d like to highlight</p>
+<p>
+	Location:</p>
+<p>
+	Santana Row, San Jose, California</p>
+<p>
+	Rhomobile is a series A funded startup that still has significant opportunities for equity participation.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/rhomobile/vq2MBd"></script>]]></buttons>
+		</job>
+	</jobs>

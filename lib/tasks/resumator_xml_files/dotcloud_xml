@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[dotCloud]]></company>
+			<job>
+			<id><![CDATA[job_20130515184702_ZC7UW5Q5CXBXO80L]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://dotcloud.theresumator.com/apply/mWjkD4/Software-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94104]]></postalcode>
+			<description><![CDATA[<p>
+At dotCloud, we believe that containerization will soon become the next big thing, the next tool which will be part of every developer and sysadmin toolbox. What&#39;s &quot;containerization&quot;? The name comes the LXC technology (Linux Containers), and the technique is also known as &quot;Lightweight Virtualization&quot;.</p>
+<p>
+That&#39;s why we recently launched docker (<a href="http://www.docker.io/">http://www.docker.io/</a>), an Open Source tool enabling anyone to run those Linux Containers very easily. Containers boot 1000x faster than virtual machines; their disk and memory footprint are also much lower; and they work on virtually all current platforms (from physical servers to public cloud instances). We think that they are the future of virtualization, and will soon become ubiquitous.</p>
+<p>
+Convinced? Then fork the repo on github (<a href="https://github.com/dotcloud/docker">https://github.com/dotcloud/docker</a>) and have a look at the code. Not convinced? Then check the website (<a href="http://www.docker.io/">http://www.docker.io/</a>), which contains more details, demos, and screencasts. Excited about this? Then join our engineering team!</p>
+<p>
+Your responsibilities will include:</p>
+<ul>
+<li>
+being a full-time contributor to the docker project, which means contributing patches, and reviewing and merging pull requests from the community;</li>
+<li>
+participate in product discussions, influence the roadmap, and take ownership and responsibility over new projects to make them happen.</li>
+</ul>
+<p>
+You can qualify if you...:</p>
+<ul>
+<li>
+can read and write Go code (because docker itself is in Go);</li>
+<li>
+can read and write Python code (because many tools and services built around docker are in Python);</li>
+<li>
+are familiar with network protocols: the lower layers like IP, TCP, and UDP; and the higher layers like HTTP;</li>
+<li>
+have experience in scaling large applications;</li>
+<li>
+believe that writing unit and functional tests is important.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/dotcloud/mWjkD4"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130520180730_OTFZOAC02ECRUS7G]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[User Evangelist]]></title>
+			<department><![CDATA[Engineering and Marketing]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://dotcloud.theresumator.com/apply/Uxtcio/User-Evangelist.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94104]]></postalcode>
+			<description><![CDATA[<p>
+At dotCloud, we believe that containerization will soon become the next big thing, the next tool which will be part of every developer and sysadmin toolbox. What&#39;s &quot;containerization&quot;? The name comes the LXC technology (Linux Containers), and the technique is also known as &quot;Lightweight Virtualization&quot;.</p>
+<p>
+That&#39;s why we recently launched docker (<a href="http://www.docker.io/">http://www.docker.io/</a>), an Open Source tool enabling anyone to run those Linux Containers very easily. Containers boot 1000x faster than virtual machines; their disk and memory footprint are also much lower; and they work on virtually all current platforms (from physical servers to public cloud instances). We think that they are the future of virtualization, and will soon become ubiquitous.</p>
+<p>
+Convinced? Then fork the repo on github (<a href="https://github.com/dotcloud/docker">https://github.com/dotcloud/docker</a>) and have a look at the code. Not convinced? Then check the website (<a href="http://www.docker.io/">http://www.docker.io/</a>), which contains more details, demos, and screencasts. Excited about this? Then join our team!</p>
+<p>
+As the a User Evangelist, you will be responsible for driving the growth of a large and engaged user community. Your responsibilities will include:</p>
+<ul>
+<li>
+Create tutorial and drive large numbers of users to complete</li>
+<li>
+Manage and write awesome documentation</li>
+<li>
+Present Docker to meetups and conferences. Actively seek opportunities for</li>
+<li>
+Manage our blogging and tweeting efforts, including being an active blogger and tweeter</li>
+<li>
+Write examples and create proof of concept applications using Docker</li>
+<li>
+Answer technical users questions on Docker</li>
+<li>
+Create program for recognizing and encouraging the active members of our community</li>
+</ul>
+<p>
+Requirements:</p>
+<ul>
+<li>
+Prior success as an evangelist for an open source community</li>
+<li>
+Can read and write Python and/or Ruby code</li>
+<li>
+Have writing skills</li>
+<li>
+Interested by Go</li>
+<li>
+Ability to work on multiple projects simultaneously</li>
+<li>
+Ability to communicate and work in a team environment</li>
+<li>
+Able to relate to and engage with developers</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/dotcloud/Uxtcio"></script>]]></buttons>
+		</job>
+	</jobs>

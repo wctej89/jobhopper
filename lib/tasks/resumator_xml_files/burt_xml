@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Burt]]></company>
+			<job>
+			<id><![CDATA[job_20121123095406_OWU0OIXO5YO0IM0R]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Thesis Work]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://burt.theresumator.com/apply/nJlba0/Thesis-Work.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Sweden]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+J&Auml;VLA RESUMATOR, JAG VILL BARA HA ETT TOMT JOBB ATT SORTERA FOLK P&Aring;</p>
+]]></description>
+			<type><![CDATA[Internship]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/burt/nJlba0"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,680 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[NumberFour AG]]></company>
+			<job>
+			<id><![CDATA[job_20130408113151_ODIPYVJAEFWGBL8U]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Lead Build and Release Engineer - Cloud Business Platform (m/f)]]></title>
+			<department><![CDATA[Release Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://numberfour.theresumator.com/apply/NJ1HhR/Lead-Build-And-Release-Engineer-Cloud-Business-Platform-mf.html]]></url>
+			<city><![CDATA[Berlin]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Germany]]></country>
+			<postalcode><![CDATA[10119]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Overview</strong></p>
+<p>
+We at NumberFour are looking for a Lead Build and Release Engineer who will provide strategic direction &amp; implement state of the art software continuous integration infrastructure to support global software development activities. You will take responsibility for your team to accomplish goals and exceed expectations. Do you like working in a very hands-on environment? Do you have extensive experience in all aspects of the software build and deployment process, including configuration and distributing release artefacts? If so then get in touch and show us what you can do!<br />
+<br />
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Team Leader to a team of skilled build &amp; release engineers</li>
+<li>
+Making our development process faster, more streamlined and as automated as possible</li>
+<li>
+Build, manage, and continuously improve the build infrastructure for software development teams including implementation of build scripts, continuous integration infrastructure and deployment tools.</li>
+<li>
+Work closely with the Development, Architecture and QA team to ensure that any applicable environment issues are resolved in advance of production implementation</li>
+<li>
+Investigate failures and coordinate failure analysis</li>
+<li>
+Facilitate resolution of issues prior to deployment and escalate issues where necessary</li>
+</ul>
+<p>
+<strong>Experience</strong></p>
+<ul>
+<li>
+Degree in Computer Science, or related work experience</li>
+<li>
+3-5+ years work experience in Release engineering processes</li>
+<li>
+Experience as a team leader</li>
+<li>
+Relevant release/configuration management knowledge and experience</li>
+<li>
+Solid working experience with source control and build tools (git, Jenkins a plus)</li>
+<li>
+Experience in setting and administering a Continuous Integration and delivery environment (Hudson/Jenkins/Cruise Control, Nexus/Artifactory)</li>
+<li>
+Experience using various development methodologies, including agile concepts</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Very good knowledge of virtualization and build tools</li>
+<li>
+Understanding of agile methodologies such as test driven development, continuous integration</li>
+<li>
+Strong interpersonal abilities</li>
+<li>
+Strong analytical and effective problem solving skills</li>
+<li>
+Able to manage assigned tasks and projects with little supervision</li>
+<li>
+Perfect understanding in different branching and tagging strategies</li>
+<li>
+Hands-on experience with Ant and Maven</li>
+<li>
+Very good English communication skills for working within an international team</li>
+</ul>
+<p>
+<strong>Compensation</strong></p>
+<ul>
+<li>
+Your smartphone, MacBook Pro and 27&Prime; Cinema Display are waiting for you</li>
+<li>
+Additionally you can participate in the success of the company via company stock options!</li>
+<li>
+At NumberFour you will work as part of an international team with offices in Berlin, Hamburg and Palo Alto, CA, USA</li>
+<li>
+You will be working in one of the hottest Start-ups with world class Management Team and investors</li>
+<li>
+You will have the possibility of working on a product targeting millions of users worldwide, a product that has never been done before</li>
+</ul>
+<p>
+Interested in this position? Then send us your details (Cover Letter, C.V., certificates) so that we can see what you can do!</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/numberfour/NJ1HhR"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130408114511_HFEIOBNK36KUZAAI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer - Developer Tools]]></title>
+			<department><![CDATA[Dev Tools]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://numberfour.theresumator.com/apply/KJHXhy/Software-Engineer-Developer-Tools.html]]></url>
+			<city><![CDATA[Berlin]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Germany]]></country>
+			<postalcode><![CDATA[10119]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Overview</strong><br />
+Want to be part of a revolutionary project? We are now looking for software engineers with a strong passion to work on our revolutionary new platform. You will be working with a team of experienced engineers in creating our developer tools, including the IDE and compiler. Your job will be to design and develop key components and features of those tools. You will assist in defining and implementing the developer experience. Have we sparked your interest? Then we want to hear from you!</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Design and develop features of our developer tools, such as compiler, debugger, source editor, refactoring and deployment</li>
+<li>
+Ensure the reliability and efficiency of our developer tools</li>
+<li>
+Enhance the developer experience by making the tools fun, simple and efficient to use</li>
+<li>
+Code primarily in Java</li>
+<li>
+Leverage the Eclipse platform, related tools and libraries</li>
+<li>
+Work in a dynamic team oriented environment using agile methodologies</li>
+</ul>
+<p>
+<strong>Experience</strong></p>
+<ul>
+<li>
+M.Sc. in Computer Science, or equivalent work experience.</li>
+<li>
+Strong experience developing applications on top of the Eclipse platform and good understanding of various Eclipse APIs</li>
+<li>
+Experience with Eclipse modeling and language tools, such as EMF, Xtext, Xtend, JDT (internals) etc. a plus</li>
+<li>
+Experience with programming language theory, program analysis, and model driven development a plus</li>
+<li>
+JavaScript and web development experience a plus</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Very good English communication skills</li>
+<li>
+Ability to quickly learn and apply new ideas</li>
+<li>
+German language skills would be a plus</li>
+</ul>
+<p>
+<strong>Compensation</strong></p>
+<ul>
+<li>
+Your smartphone, MacBook Pro and 27&Prime; Cinema Display are waiting for you</li>
+<li>
+Additionally you can participate in the success of the company via company stock options!</li>
+<li>
+At NumberFour you will work as part of an international team with offices in Berlin, Hamburg and Palo Alto, CA, USA</li>
+<li>
+You will be working in one of the hottest Start-ups with world class Management Team and investors</li>
+<li>
+You will have the possibility of working on a product targeting millions of users worldwide, a product that has never been done before</li>
+</ul>
+<p>
+Interested in this position? Then send us your details (Cover Letter, C.V., certificates) so that we can see what you can do!</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/numberfour/KJHXhy"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130213103225_7TWOR4AS9GCFUDEN]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sr. Java / Scala Software Engineer – Cloud Business Platform]]></title>
+			<department><![CDATA[Server Platform]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://numberfour.theresumator.com/apply/RN29Sj/Sr-Java-Scala-Software-Engineer-Cloud-Business-Platform.html]]></url>
+			<city><![CDATA[Hamburg]]></city>
+			<state><![CDATA[Berlin]]></state>
+			<country><![CDATA[Germany]]></country>
+			<postalcode><![CDATA[20457]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Overview</strong></p>
+<p>
+NumberFour is looking for an exceptional Software Developer to help us grow a Scala-based software platform for cutting-edge business solutions. You have a keen perception, want to enjoy the technical challenges of a fast-growing Internet start-up, and you desire to be a strong contributor to future growth? If you are in addition driven by dual passions for delivering quality software and learning technology: You are the person we need!</p>
+<p>
+WE ARE LOOKING FOR a Java / Scala Software Engineer with passion for building innovative software to:</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+design and develop lightweight and performant libraries, services and APIs for our business platform</li>
+<li>
+cover code with unit testing and integration testing</li>
+<li>
+be a hard working, collaborative team player who engages in respectful dialog and is responsive to feedback</li>
+</ul>
+<p>
+<strong>Experience</strong></p>
+<ul>
+<li>
+in developing distributed, high-performance commercial systems</li>
+<li>
+prior Scala experience - either professional or from personal projects; or a strong motivation to learn and apply Scala</li>
+<li>
+expert level programming and design skills in Java or equivalent OO language, functional language experience a plus</li>
+<li>
+strong understanding of object-oriented design, functional programming, data structures, algorithms, and developing in a large web infrastructure</li>
+</ul>
+<p>
+<strong>Compensation</strong></p>
+<ul>
+<li>
+MacBook Pro and 27&Prime; Cinema Display. iPhone</li>
+<li>
+company stock options</li>
+<li>
+flexible, highly motivated international team with offices in Berlin, Hamburg and Palo Alto, CA, USA</li>
+<li>
+one of the hottest start-ups with world class management team and investors</li>
+<li>
+working on a novel product targeting millions of users worldwide</li>
+</ul>
+<p>
+<strong>About NumberFour AG</strong></p>
+<p>
+NumberFour is a technology start-up with a simple mission: Helping to run YOUR business. Using NumberFour, YOUR business has the business tools, controls and intelligence at hand that will rival those of large corporations &ndash; fast, easy, and affordable. NumberFour believes that by providing tailored online software and support to these small companies, we will finally lead them into a new IT generation.<br />
+With our headquarter located in the heart of Berlin, Germany, offices in Hamburg, Germany and Palo Alto, CA, NumberFour is the latest venture of successful entrepreneur Marco Boerries. NumberFour builds on the foundation laid by Marco&rsquo;s previous products: OpenOffice (office suite), StarMoney (finance management), and Yahoo! Go (mobile internet). We are building an open platform for business application development that will create a new ecosystem for verticalized, innovative business applications.<br />
+You are looking for a real challenge? Come to NumberFour in Berlin! Send your details (Cover Letter, C.V., certificates) including salary expectations and your possible start date</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/numberfour/RN29Sj"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130321103008_MZNWEQMNKHVP6SMD]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sr. JavaScript Application Developer]]></title>
+			<department><![CDATA[Web Apps]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://numberfour.theresumator.com/apply/JoitmX/Sr-JavaScript-Application-Developer.html]]></url>
+			<city><![CDATA[Hamburg]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Germany]]></country>
+			<postalcode><![CDATA[20457]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Overview</strong><br />
+Are you a member of the rare species of real JavaScript enthusiasts? Have you built JavaScript applications before? Did you used a couple of different toolkits and have probably written a few yourself? Are you interested in working in an international team of dedicated business apps cracks with a passion for compelling, functional and easy to use apps? Yes, yes, yes? It sounds like we&#39;re the perfect match then, so let&#39;s have at it!</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+provide clean and easy-to-use apps for helping businesses owners to run their businesses</li>
+<li>
+Understand functional business processes and break them down into logical and efficient set of steps, including execution of business rules</li>
+<li>
+Design and implement web apps using JavaScript and NumberFour platform technologies</li>
+<li>
+Conduct design and code reviews</li>
+<li>
+closely work with the NumberFour platform team and product management to improve requirements, APIs and functionality</li>
+<li>
+Work in a dynamic team oriented environment using agile methodologies</li>
+</ul>
+<p>
+<strong>Experience</strong></p>
+<ul>
+<li>
+B.S. or M.S. in Computer Science, or equivalent work experience</li>
+<li>
+2+ years of experience developing compelling JavaScript web applications</li>
+<li>
+Experience in model driven application design</li>
+<li>
+Good skills in object-oriented desgin and programming</li>
+<li>
+Experience developing with HTML 5, CSS 3 and related extensions a plus</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Strong interest in product and user centric design</li>
+<li>
+Very good English communication skills</li>
+<li>
+Ability to quickly learn and apply new ideas</li>
+</ul>
+<p>
+<strong>Compensation</strong></p>
+<ul>
+<li>
+Your iPhone, MacBook Pro and 27&Prime; Cinema Display are waiting for you</li>
+<li>
+Additionally you can participate in the success of the company via company stock options!</li>
+<li>
+At NumberFour you will work as part of an international team with offices in Berlin, Hamburg and Palo Alto, CA, USA</li>
+<li>
+You will be working in one of the hottest Start-ups with world class Management Team and investors</li>
+<li>
+You will have the possibility of working on a product targeting millions of users worldwide, a product that has never been done before</li>
+</ul>
+<p>
+Interested in this position? Then send us your details (Cover Letter, C.V., certificates) so that we can see what you can do!</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/numberfour/JoitmX"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130408113552_1SFZK6EOPFVYWPFH]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sr. JavaScript Software Engineer - Application Framework]]></title>
+			<department><![CDATA[Web Platform]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://numberfour.theresumator.com/apply/4c11Z6/Sr-JavaScript-Software-Engineer-Application-Framework.html]]></url>
+			<city><![CDATA[Berlin]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Germany]]></country>
+			<postalcode><![CDATA[10119]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Overview</strong><br />
+Are you a member of the rare species of real JavaScript enthusiasts? Have you built a JavaScript framework or heavy JavaScript applications before? Did you stop using JavaScript libraries and frameworks because you started building your own? Are you interested in working in an international team of dedicated web frontend cracks with a passion for compelling, functional and easy to use interfaces? Yes, yes, yes? It sounds like we&#39;re the perfect match then, so let&#39;s have at it!<br />
+&nbsp;</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Design, prototype and implement web frontend using JavaScript and HTML5 technologies</li>
+<li>
+Design and develop libraries and frameworks for web applications</li>
+<li>
+Ensure the reliability, scalability and efficiency of the web frontend</li>
+<li>
+Code primarily in JavaScript, HTML and CSS</li>
+<li>
+Conduct design and code reviews</li>
+<li>
+Work in a dynamic team oriented environment using agile methodologies</li>
+</ul>
+<p>
+<strong>Experience</strong></p>
+<ul>
+<li>
+B.S. or M.S. in Computer Science, or equivalent work experience</li>
+<li>
+2+ years of experience developing compelling web applications</li>
+<li>
+Relevant experience in developing JavaScript frameworks and heavy JavaScript applications</li>
+<li>
+Extensive experience developing in HTML and CSS</li>
+<li>
+Experience developing with HTML5, CSS3 and related extensions a plus</li>
+<li>
+Experience in developing server-side code in Scala and Ruby a big plus, PHP, Python or Java a plus</li>
+<li>
+Experience in creating graphics and fonts a plus</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Strong interest in product and user interface design</li>
+<li>
+Very good English communication skills</li>
+<li>
+Ability to quickly learn and apply new ideas</li>
+</ul>
+<p>
+<strong>Compensation</strong></p>
+<ul>
+<li>
+Your smartphone, MacBook Pro and 27&Prime; Cinema Display are waiting for you</li>
+<li>
+Additionally you can participate in the success of the company via company stock options!</li>
+<li>
+At NumberFour you will work as part of an international team with offices in Berlin, Hamburg and Palo Alto, CA, USA</li>
+<li>
+You will be working in one of the hottest Start-ups with world class Management Team and investors</li>
+<li>
+You will have the possibility of working on a product targeting millions of users worldwide, a product that has never been done before</li>
+<li>
+Interested in this position? Then send us your details (Cover Letter, C.V., certificates) so that we can see what you can do!</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/numberfour/4c11Z6"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130408113959_APQ13ID9IQ08YCQR]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sr. Mobile Software Engineer - iPhone/iPad Business Applications]]></title>
+			<department><![CDATA[Mobile Platform]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://numberfour.theresumator.com/apply/c2Evdn/Sr-Mobile-Software-Engineer-IPhoneiPad-Business-Applications.html]]></url>
+			<city><![CDATA[Hamburg]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Germany]]></country>
+			<postalcode><![CDATA[10119]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Overview</strong><br />
+NumberFour is looking for software engineers with a strong passion to work on our revolutionary new platform in Hamburg that which will change the way the world does business.</p>
+<p>
+You will be working in a dedicated team of experienced engineers where you develop APIs, libraries and applications for mobile devices based on our platform.</p>
+<p>
+If you</p>
+<p>
+*have a passion for creating great software with a high quality standard,<br />
+*know how to model a complex system in uncomplicated APIs and applications,<br />
+*want to apply your knowledge of business concepts and practices to our platform,<br />
+*think that if something could be better, good is not good enough,</p>
+<p>
+we would like to talk with you about engineering opportunities at NumberFour.<br />
+&nbsp;</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+create mobile device client libraries that expose the power of the NumberFour platform through a well-designed and understandable API</li>
+<li>
+design and develop apps using these libraries that are powerful and easy to use and look great</li>
+<li>
+give feedback to the server platform developers to help them improve their API</li>
+<li>
+learn how businesses work in order to develop applications that are relevant to the users&#39; needs</li>
+<li>
+help shaping the future evolution of the NumberFour platform by bringing in your personal knowledge and abilities</li>
+</ul>
+<p>
+<strong>Experience</strong></p>
+<ul>
+<li>
+strong English or strong German and good English communication skills</li>
+<li>
+B.S. in Computer Science or related experience</li>
+<li>
+several years of hands-on experience in at least one object oriented programming language (Java, C++, C#, Objective-C) in large software projects</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+ability to quickly learn and apply new ideas</li>
+<li>
+interest in product and user interface design</li>
+<li>
+experience in mobile development is a plus</li>
+<li>
+experience in Objective-C and the Cocoa Touch Framework is a plus</li>
+<li>
+background with building business software is a plus</li>
+</ul>
+<p>
+<strong>Compensation</strong></p>
+<ul>
+<li>
+work in our modern office in the beautiful Speicherstadt of Hamburg</li>
+<li>
+your smartphone, iPad, MacBook Pro and 27&Prime; Cinema Display are waiting for you</li>
+<li>
+additionally you can participate in the success of the company via company stock options!</li>
+<li>
+at NumberFour you will work as part of an international team with offices in Berlin, Hamburg and Palo Alto, CA, USA</li>
+<li>
+you will be working in one of the hottest Start-ups with world class Management Team and investors</li>
+<li>
+you will have the possibility of working on a product targeting millions of users worldwide, a product that has never been done before</li>
+</ul>
+<p>
+Interested in this position? Then send us your details (Cover Letter, C.V., certificates) so that we can see what you can do!</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/numberfour/c2Evdn"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130321102341_B61SNAHGPYSSCLRE]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sr. Software Engineer - Search]]></title>
+			<department><![CDATA[Server Platform]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://numberfour.theresumator.com/apply/ZxN8Im/Sr-Software-Engineer-Search.html]]></url>
+			<city><![CDATA[Berlin or Hamburg]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Germany]]></country>
+			<postalcode><![CDATA[10119]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Overview</strong><br />
+NumberFour is looking for an experienced, energetic and self-driven developer to join our business platform server team in Berlin and help us build the best search engine a small business owner can dream of to run his business! You have a keen perception, want to enjoy the technical challenges of a fast-growing Internet start-up, and you desire to be a strong contributor to future growth? If you are in addition driven by dual passions for delivering quality software and learning technology: You are the person we need!</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Design, develop and maintain pipelines that create search indexes out of different types of structured and unstructured documents.</li>
+<li>
+Design, develop and maintain high performance APIs to serve relevant search results.</li>
+<li>
+Interface with other teams to understand search use cases in details and deliver &quot;platformized&quot; solutions.</li>
+<li>
+Analyse and improve efficiency, scalability and stability of servers and processes.</li>
+</ul>
+<p>
+<strong>Experience</strong></p>
+<ul>
+<li>
+Significant experience with large scale, high performance systems.</li>
+<li>
+Expertise to produce robust code that is efficient, fault tolerant and easy to maintain. We primarily develop in Scala.</li>
+<li>
+Scala experience is a plus but is otherwise expected to be acquired on the go as necessary.</li>
+<li>
+Deep background in Information Retrieval, detailed understanding of how modern indexers are built.</li>
+<li>
+Experience with Lucene and/or ElasticSearch a big plus.</li>
+<li>
+A continuous drive to explore, improve, enhance, automate and optimise distributed systems and tools to best meet evolving business and market needs.</li>
+</ul>
+<p>
+<strong>Compensation</strong></p>
+<ul>
+<li>
+MacBook Pro and 27&Prime; Cinema Display. iPhone</li>
+<li>
+company stock options</li>
+<li>
+flexible, highly motivated international team with offices in Berlin, Hamburg and Palo Alto, CA, USA</li>
+<li>
+one of the hottest start-ups with world class management team and investors</li>
+<li>
+working on a novel product targeting millions of users worldwide</li>
+</ul>
+<p>
+Interested in this position? Then send us your details (Cover Letter, C.V., certificates) so that we can see what you can do!</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/numberfour/ZxN8Im"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130221194244_U5OCKWSAOLAG1F1U]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Technical Writer - Developer Documentation]]></title>
+			<department><![CDATA[Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://numberfour.theresumator.com/apply/SKlJ6M/Technical-Writer-Developer-Documentation.html]]></url>
+			<city><![CDATA[Berlin]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Germany]]></country>
+			<postalcode><![CDATA[10119]]></postalcode>
+			<description><![CDATA[<p>
+NumberFour AG is looking for an excellent Technical Writer to develop, deliver and maintain our Developer documentation (APIs, SDKs, Developer Guides). The intended audience includes internal engineers and NumberFour&rsquo;s external developer community with a wide range of technical competency.</p>
+<p>
+You have a keen perception, want to enjoy the challenges of a fast-growing Internet start-up, and you desire to be a strong contributor to future growth? If you are in addition driven by dual passions for delivering quality developer documentation and learning technology: You are the person we need!</p>
+<p>
+<strong>Responsibilities&nbsp; </strong></p>
+<ul>
+<li>
+develop and write technical documentation for our developer audience, such as Developer, How-To and Architecture guides, API reference manual</li>
+<li>
+write sample code used as reference implementation</li>
+<li>
+create and update architecture and component diagrams</li>
+<li>
+effectively and efficiently work in a cross-functional environment including Product Managers, Architects, Software and QA engineers to deliver excellent developer documentation to our target audience</li>
+<li>
+be a hard working, collaborative team player who engages in respectful dialog and is responsive to feedback</li>
+</ul>
+<p>
+<strong>Experience</strong></p>
+<ul>
+<li>
+demonstrated success in designing, researching, writing, and delivering excellent technical documentation for developers (APIs, SDKs, web technologies)</li>
+<li>
+ability to read, understand and write source code in JavaScript</li>
+<li>
+strong teamwork skills</li>
+<li>
+excellent verbal and written communication skills in English language (native speaker level)</li>
+</ul>
+<p>
+<strong>Compensation</strong></p>
+<ul>
+<li>
+MacBook Pro and 27&Prime; Cinema Display. iPhone</li>
+<li>
+company stock options</li>
+<li>
+flexible, highly motivated international team with offices in Berlin, Hamburg and Palo Alto, CA, USA</li>
+<li>
+one of the hottest start-ups with world class management team and investors</li>
+<li>
+working on a novel product targeting millions of users worldwide</li>
+</ul>
+<p>
+<strong>About NumberFour AG</strong><br />
+NumberFour is a technology start-up with a simple mission: Helping to run YOUR business.</p>
+<p>
+Using NumberFour, YOUR business has the business tools, controls and intelligence at hand that will rival those of large corporations &ndash; fast, easy, and affordable. NumberFour believes that by providing tailored online software and support to these small companies, we will finally lead them into a new IT generation.</p>
+<p>
+With our headquarter located in the heart of Berlin, Germany, offices in Hamburg, Germany and Palo Alto, CA, NumberFour is the latest venture of successful entrepreneur Marco Boerries. We are building an open platform for business application development that will create a new ecosystem for verticalized, innovative business applications.</p>
+<p>
+Interested in this position? Then send us your details (Cover Letter, C.V., certificates) so that we can see what you can do!</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/numberfour/SKlJ6M"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130704104542_CH3RIONZIBKRZMGF]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Werkstudent (m/w) im Bereich Software Qualitätssicherung in Hamburg]]></title>
+			<department><![CDATA[QA]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://numberfour.theresumator.com/apply/TfM4Es/Werkstudent-mw-Im-Bereich-Software-Qualittssicherung-In-Hamburg.html]]></url>
+			<city><![CDATA[Hamburg]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Germany]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+<strong>&Uuml;berblick</strong></p>
+<p>
+Die NumberFour AG ist ein Start-Up des Unternehmers Marco Boerries. Hinter der vierten Unternehmensgr&uuml;ndung von Marco Boerries steckt eine innovative Gesch&auml;ftsidee: Helping to run YOUR business. Zielgruppe dieser revolution&auml;ren Idee sind kleine Unternehmen rund um die Welt. Cloudbasierend entwickelt NumberFour eine offene Plattform auf der Branchenanbieter als Entwicklungspartner hochindividuelle SaaS-Dienste f&uuml;r verschiedenste Branchen anbieten k&ouml;nnen.</p>
+<p>
+Du m&ouml;chtest Teil eines internationalen, professionellen Software Engineering Teams in einem Loft-B&uuml;ro in der Speicherstadt von Hamburg werden (unweit der Universit&auml;t und mit der U4 erreichbar), in dem die englische Sprache zum t&auml;glichen Umgang geh&ouml;rt und Du m&ouml;chtest als Werkstudent/in (max. 20 Std./Woche) neben dem Studium jobben? Wir suchen Dich im Bereich Software Qualit&auml;tssicherung!</p>
+<p>
+<strong>Deine Aufgaben</strong></p>
+<ul>
+<li>
+der Softwareentwicklung beweisen, dass sie Fehler gemacht hat&nbsp;&nbsp;&nbsp;</li>
+<li>
+dem Produktmanagement zeigen, dass das Produkt nicht immer gut bedienbar ist</li>
+<li>
+dem User ein gutes Gef&uuml;hl geben, dass das Produkt das macht, was es tun soll</li>
+</ul>
+<p>
+<strong>Was Du mitbringst</strong></p>
+<ul>
+<li>
+Du befindest Dich in einem Studium mit Fachrichtung Informatik oder einer&nbsp; &auml;hnlichen Fachrichtung</li>
+<li>
+Du hast Spa&szlig; an neuen und trendigen Internetdiensten</li>
+<li>
+Du verf&uuml;gst &uuml;ber einen hohen Qualit&auml;tsanspruch und willst es besser machen als andere</li>
+<li>
+Du bist ein Bug-Hunter</li>
+<li>
+Du willst mindestens sechs Monate dabei sein</li>
+<li>
+Werkstudent max. 20 Std./Woche</li>
+<li>
+Du kannst kurzfristig bei uns in Hamburg anfangen</li>
+</ul>
+<p>
+<strong>Was Du bekommst</strong></p>
+<ul>
+<li>
+Du erh&auml;ltst eine praxisorientierte Ausbildung</li>
+<li>
+Du bekommst eine attraktive Verg&uuml;tung</li>
+<li>
+Du kannst Deine Arbeitszeit flexibel gestalten - passend zu Deinem Studium</li>
+<li>
+Du bekommst Verantwortung, Unterst&uuml;tzung und Feedback - jeden Tag</li>
+<li>
+Du lernst die Prozesse kennen, wie neue gro&szlig;e Softwareprodukte entstehen</li>
+<li>
+Du sp&uuml;rst: Spa&szlig; &ndash; Verantwortung &ndash; Herausforderung &ndash; Ver&auml;nderung</li>
+<li>
+Du wirst Teil eines weltklasse Teams</li>
+</ul>
+<p>
+Wir haben Dich &uuml;berzeugt? Dann sende uns noch heute Deinen Lebenslauf mit einer kurzen E-Mail zu Deiner Motivation sowie den fr&uuml;hestm&ouml;glichen Starttermin an: <strong>jobs@numberfour.eu</strong></p>
+]]></description>
+			<type><![CDATA[Part Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/numberfour/TfM4Es"></script>]]></buttons>
+		</job>
+	</jobs>

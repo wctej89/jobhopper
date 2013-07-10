@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[FindTheBest.com]]></company>
+			<job>
+			<id><![CDATA[job_20110120030727_AUAIZOIF6STA8CJD]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://findthebest.theresumator.com/apply/Q7Vp97/Software-Developer.html]]></url>
+			<city><![CDATA[Santa Barbara]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[93101]]></postalcode>
+			<description><![CDATA[<p>
+	<a href="http://www.findthebest.com/">FindTheBest</a>&nbsp;is looking for highly skilled software developers.&nbsp;The ideal individual for this role is a software developer who loves what they do and don&#39;t see their job as &quot;work.&quot; You are the type of person who is able to solve those problems others couldn&#39;t. You take pride in your work and want others to benefit from your products. You are looking for that break-out opportunity to help build a new company. We&#39;d like a person experienced in:</p>
+<ul>
+	<li>
+		php,</li>
+	<li>
+		mysql,</li>
+	<li>
+		html,</li>
+	<li>
+		javascript</li>
+	<li>
+		highly web/internet literate</li>
+	<li>
+		Some level of linux and apache experience is also good</li>
+</ul>
+<p>
+	Please contact us <a href="http://www.findthebest.com/contact-us">here</a>&nbsp;if you&#39;re interested.&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/findthebest/Q7Vp97"></script>]]></buttons>
+		</job>
+	</jobs>

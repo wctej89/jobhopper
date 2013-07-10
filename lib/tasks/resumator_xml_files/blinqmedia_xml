@@ -1,0 +1,343 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[BLiNQ Media]]></company>
+			<job>
+			<id><![CDATA[job_20130507181920_CDM9PMZOJUUMEBUN]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Software Engineer]]></title>
+			<department><![CDATA[Tech Team]]></department>
+			<team><![CDATA[Tech Team]]></team>
+			<url><![CDATA[http://blinqmedia.theresumator.com/apply/OaysnO/Senior-Software-Engineer.html]]></url>
+			<city><![CDATA[Atlanta]]></city>
+			<state><![CDATA[GA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[30309]]></postalcode>
+			<description><![CDATA[<p>
+Simply put, we&#39;re out to build the most effective social advertising platform possible.&nbsp; Our team thrives on getting stuff done, deploys regularly, and strives to automate anything that we&#39;d have to manually do more than once.&nbsp; As a member of our team you&#39;ll be challenged to learn, teach, lead, and CRUSH hard problems with a healthy balance of humility and zeal.</p>
+<p>
+<strong>About you:</strong><br />
+You have a strong general engineering background with fluency in at least one object oriented language (multiple languages are desired).&nbsp; You enjoy working with technologies like Rails, Rspec, jQuery, Coffeescript, Postgres, Redis, AWS, Heroku, and restful APIs.&nbsp; You&#39;ve developed complex applications and are comfortable leading large development efforts.&nbsp; You embrace test driven development and look for opportunities to automate repetitive tasks. Most of all you&#39;re not looking for just a &quot;job&quot; but rather seek to be part of something bigger than yourself where you have an opportunity to both teach others and grow yourself.</p>
+<p>
+<strong>What you&#39;ll do:</strong></p>
+<ul>
+<li>
+Build an industry leading social advertising suite</li>
+<li>
+Work with a small team of skilled engineers in a pair programming environment</li>
+<li>
+Touch all areas of the stack, infrastructure, database, queues, API, backend, front-end</li>
+<li>
+Lead initiatives to automate, optimize, and innovate in the social advertising market</li>
+<li>
+Develop better methods for optimizing, automating, and reporting on ad campaign performance</li>
+</ul>
+<p>
+<strong>Desired Skills:</strong></p>
+<ul>
+<li>
+Web application development experience</li>
+<li>
+Expertise with SQL and databases</li>
+<li>
+A habit for writing well tested code</li>
+<li>
+A track record for solving problems and getting things done</li>
+<li>
+The ability to work independently</li>
+<li>
+A desire to take responsibility and own an application</li>
+<li>
+Intrigued by huge data storage and analysis</li>
+</ul>
+<p>
+<strong>Tools we use:</strong></p>
+<ul>
+<li>
+Ruby on Rails</li>
+<li>
+jQuery, Backbone, Node, and lots of custom javascript</li>
+<li>
+Postgres, MySQL, and Redis</li>
+<li>
+Rspec, Jasmine, and Capybara</li>
+<li>
+Chef</li>
+<li>
+AWS</li>
+<li>
+Sidekiq</li>
+<li>
+Git &amp; Github</li>
+<li>
+Facebook API</li>
+</ul>
+<p>
+<strong>Our perks:</strong></p>
+<ul>
+<li>
+Competitive compensation</li>
+<li>
+Benefits including health, dental, and vision insurance</li>
+<li>
+Gym membership</li>
+<li>
+Coffee, soft drinks, snacks, and catered lunch three days a week in our Atlanta Office</li>
+<li>
+A Macbook Pro and two 27&quot; displays for every engineer</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blinqmedia/OaysnO"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130204185150_IMSCGU4KAD0FWXB2]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[Tech Team]]></department>
+			<team><![CDATA[Tech Team]]></team>
+			<url><![CDATA[http://blinqmedia.theresumator.com/apply/kuKUvT/Software-Engineer.html]]></url>
+			<city><![CDATA[Atlanta]]></city>
+			<state><![CDATA[GA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[30309]]></postalcode>
+			<description><![CDATA[<p>
+Simply put, we&#39;re out to build the most effective social advertising platform possible.&nbsp; Our team thrives on getting stuff done, deploys regularly, and strives to automate anything that we&#39;d have to manually do more than once.&nbsp; As a member of our team you&#39;ll be challenged to learn, teach, lead, and CRUSH hard problems with a healthy balance of humility and zeal.</p>
+<p>
+<strong>About you:</strong><br />
+You have a strong general engineering background and the personal initiative to expand your experience.&nbsp; You&#39;ve worked with technologies in the past to build an application or a meaningful feature within a larger application.&nbsp; You have a computer science degree or equivalent experience.&nbsp; You&#39;re comfortable creating data driven applications and have worked with databases previously.</p>
+<p>
+<strong>What you&#39;ll do:</strong></p>
+<ul>
+<li>
+Build an industry leading social advertising platform, BAM</li>
+<li>
+Work with a small team of skilled engineers in a pair programming environment</li>
+<li>
+Explore and learn to work on all areas of the application stack with a senior engineer</li>
+</ul>
+<p>
+<strong>Desired Skills:</strong></p>
+<ul>
+<li>
+Web application development experience</li>
+<li>
+Familiarity with SQL and databases</li>
+<li>
+A track record for solving problems and getting things done</li>
+<li>
+A desire to take responsibility and own an application</li>
+<li>
+Intrigued by huge data storage and analysis</li>
+</ul>
+<p>
+<strong>Tools we use:</strong></p>
+<ul>
+<li>
+Ruby on Rails</li>
+<li>
+jQuery, Backbone, Node, and lots of custom javascript</li>
+<li>
+Postgres, MySQL, and Redis</li>
+<li>
+Rspec, Jasmine, and Capybara</li>
+<li>
+Chef</li>
+<li>
+AWS</li>
+<li>
+Sidekiq</li>
+<li>
+Git &amp; Github</li>
+<li>
+Facebook API</li>
+</ul>
+<p>
+<strong>Our perks:</strong></p>
+<ul>
+<li>
+Competitive compensation</li>
+<li>
+Benefits including health, dental, and vision insurance</li>
+<li>
+Gym membership</li>
+<li>
+Coffee, soft drinks, snacks, and catered lunch three days a week in our Atlanta Office</li>
+<li>
+A Macbook Pro and two 27&quot; displays for every engineer</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blinqmedia/kuKUvT"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130425192819_SUXD51C4C3DDBNWU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Associate Media Manager]]></title>
+			<department><![CDATA[Media]]></department>
+			<team><![CDATA[Media Team]]></team>
+			<url><![CDATA[http://blinqmedia.theresumator.com/apply/RnbLaY/Associate-Media-Manager.html]]></url>
+			<city><![CDATA[Atlanta]]></city>
+			<state><![CDATA[GA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[30309]]></postalcode>
+			<description><![CDATA[<p>
+Key Responsibilities:</p>
+<p>
+&nbsp;</p>
+<ul>
+<li>
+Work with Accounts and Client on media strategies to achieve and exceed the advertiser&#39;s goals</li>
+<li>
+Manage campaigns, margin, and advertiser goals from receipt of Insertion Order through post-campaign analysis</li>
+<li>
+Communicate daily with Accounts on campaign performance and data tidbits that serve as ammo to upsell</li>
+<li>
+Produce campaign reports with detailed insights and deliver to Accounts team</li>
+<li>
+Participate in quarterly iLab projects and showcase innovation to company at large.</li>
+<li>
+Meet reporting deadlines set by Account manager</li>
+<li>
+Maintain a strong understanding of trends in Facebook advertising and other digital advertising channels</li>
+</ul>
+<p>
+Desired Skills &amp; Experience</p>
+<ul>
+<li>
+Core Competencies:</li>
+<li>
+Strong analytical skills, written and verbal communication skills</li>
+<li>
+Technical understanding of social media and the Facebook Advertising platform</li>
+<li>
+Ability to think strategically and identify and resolve problems, while maintaining a strong customer focus</li>
+<li>
+High levels of integrity, autonomy, and self-motivation</li>
+<li>
+Driven to succeed - meet and exceed individual and team targets and goals</li>
+<li>
+Ability to manage time around unexpected situations and/or requests and prioritize workflow by opportunity</li>
+<li>
+Independent, energetic, driven, motivated, strong work ethic</li>
+</ul>
+<p>
+Requirements:</p>
+<p>
+&nbsp;</p>
+<ul>
+<li>
+Bachelor&rsquo;s degree or equivalent</li>
+<li>
+2-3 years of interactive media campaign management</li>
+<li>
+Experience within a startup, high tech environment is preferred</li>
+<li>
+Strong working knowledge of Microsoft Excel</li>
+<li>
+Experience with digital agencies and with online advertising account management, affiliate marketing and social media is preferred.</li>
+<li>
+SQL knowledge a strong plus</li>
+<li>
+Demonstrated knowledge of media tracking technology</li>
+<li>
+This position is permanent, full-time, and includes a competitive base salary, bonus, and a comprehensive benefits package. Travel may be required.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blinqmedia/RnbLaY"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130425202157_WNYMET4AQSHXUPMZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Account Manager]]></title>
+			<department><![CDATA[Account Services]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://blinqmedia.theresumator.com/apply/7JPrbC/Account-Manager.html]]></url>
+			<city><![CDATA[Atlanta]]></city>
+			<state><![CDATA[GA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[30309]]></postalcode>
+			<description><![CDATA[<p>
+Key Responsibilities:</p>
+<p>
+&nbsp;</p>
+<ul>
+<li>
+Work with media and ad agencies to understand the advertisers&rsquo; goals and objectives and develop appropriate campaign strategy and structure through collaboration with an internal Media team</li>
+<li>
+Manage campaigns from receipt of Insertion Order through post-campaign analysis</li>
+<li>
+Communicate day-to-day with our advertising partners</li>
+<li>
+Communicate performance results to advertisers</li>
+<li>
+Monitor and manage campaign performance through working with the Media team who executes on media spend</li>
+<li>
+Coordinate account related tactical operations</li>
+<li>
+Maintain a strong understanding of trends in Facebook advertising and other digital advertising channels</li>
+</ul>
+<p>
+Core Competencies:</p>
+<p>
+&nbsp;</p>
+<ul>
+<li>
+Ability to analyze issues and to develop relevant and actionable plans, programs and recommendations</li>
+<li>
+Leadership, planning, management, organizational and supervisory skills.</li>
+<li>
+Excellent written and verbal communication skills</li>
+<li>
+Outstanding ability to build strong lasting partnerships and foster teamwork in a fast-paced environment while maintaining a high level of stress tolerance</li>
+<li>
+Strong technical understanding of social media and the Facebook Advertising platform</li>
+<li>
+Outstanding ability to think strategically and identify and resolve problems, while maintaining a strong customer focus</li>
+<li>
+High levels of integrity, autonomy, and self-motivation</li>
+<li>
+Driven to succeed - meet and exceed individual and team targets and goals</li>
+<li>
+Able to think outside the box and come up with creative solutions to challenges</li>
+<li>
+Ability to manage time around unexpected situations and/or requests and prioritize workflow by opportunity</li>
+<li>
+Independent, energetic, driven, motivated, hard-worker</li>
+</ul>
+<p>
+Requirements:</p>
+<ul>
+<li>
+Bachelor&rsquo;s degree or equivalent</li>
+<li>
+2-3 years of digital media campaign management</li>
+<li>
+1-3 years of client management</li>
+<li>
+1-2 years of social media experience</li>
+<li>
+Experience within a startup, high tech environment is preferred</li>
+<li>
+Working knowledge of Microsoft Word, Excel and PowerPoint</li>
+<li>
+Working knowledge of Salesforce and Pivotal tracker is preferred</li>
+<li>
+Experience working with digital advertising agencies, account/media management, affiliate marketing and social media is preferred</li>
+<li>
+Demonstrated ability to manage agency and client relations including handling difficult situations to optimal results for both the client and the company</li>
+</ul>
+<p>
+This position is permanent, full-time, and includes a competitive base salary, bonus, and a comprehensive benefits package. Travel may be required.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blinqmedia/7JPrbC"></script>]]></buttons>
+		</job>
+	</jobs>

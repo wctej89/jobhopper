@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[955 Dreams Inc.]]></company>
+			<job>
+			<id><![CDATA[job_20120210194819_DTKFRRT8LENKDERG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer - Backend]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://955dreams.theresumator.com/apply/3gyfuB/Software-Engineer-Backend.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94041]]></postalcode>
+			<description><![CDATA[<p>955 Dreams is looking for a smart, experienced backend and web developer to join our team in Mountain View. You will help us build out our back-end systems for our award winning iOS apps, and help us build out exciting new features that will be key to monetizing our existing apps.</p><p>We&rsquo;re a small team of passionate people who work very collaboratively. We have an exceptional track record and a commitment to quality, with 4 App of the Week awards so far. Our most recent app, Band of the Day, was runner up for Apple&#39;s App of the Year. &nbsp;</p><p>We&rsquo;re looking for strong backend developers who are passionate about creating great products, and who have a track record of success building high-traffic web sites and robust and efficient REST based backends.</p><p>Experience/Skills:</p><ul><li>Building performant back end systems (technologies such as Clojure / Scala would be a plus)&nbsp;</li><li>Ruby on Rails to a high level</li><li>Experience using and writing RESTful APIs</li><li>Testing (RSpec, Cucumber, Selenium)</li><li>Web: HTML5 / CSS3 / Javascript technologies</li></ul><p>Please supply links to existing apps or code on github.</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/955dreams/3gyfuB"></script>]]></buttons>
+		</job>
+	</jobs>

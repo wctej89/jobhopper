@@ -1,0 +1,826 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Liquid Web]]></company>
+			<job>
+			<id><![CDATA[job_20120313213617_0Q6WVHYHWUKYCGPY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Enterprise Linux System Administrator]]></title>
+			<department><![CDATA[Enterprise]]></department>
+			<team><![CDATA[Enterprise]]></team>
+			<url><![CDATA[http://liquidweb.theresumator.com/apply/65jBrO/Enterprise-Linux-System-Administrator.html]]></url>
+			<city><![CDATA[Lansing]]></city>
+			<state><![CDATA[MI]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[48917]]></postalcode>
+			<description><![CDATA[<p>
+	Liquid Web Inc is a rapidly expanding web hosting company which currently operates three Data Centers in the Lansing area.&nbsp; We have continued to make major expansions into the managed dedicated and virtual private server markets. Enterprise support provides custom, personalized support for our crucial customers. We are accepting applications for Enterprise Support Technicians to work directly at our Lansing, MI Data Centers.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>
+	Job Duties:</p>
+<ul>
+	<li>
+		Provide professional and friendly support consistently via telephone and electronic help desk</li>
+	<li>
+		Co-Manage customer accounts and provide basic capacity planning assistance</li>
+	<li>
+		Troubleshoot and solve a wide range of customer support issues from basic to complex</li>
+	<li>
+		Develop custom solutions for expanding customer setups</li>
+	<li>
+		Troubleshoot and support internally developed engineering products</li>
+	<li>
+		System monitoring and response</li>
+	<li>
+		Operating system and application installation/configuration</li>
+	<li>
+		Performing scheduled maintenance tasks</li>
+</ul>
+<p>
+	Skill Requirements:</p>
+<ul>
+	<li>
+		Advanced working knowledge of RPM based Linux Distributions</li>
+	<li>
+		Scripting/coding experience preferred</li>
+	<li>
+		Excellent customer service skills</li>
+	<li>
+		Excellent verbal and written communication skills</li>
+	<li>
+		Excellent problem solving skills</li>
+	<li>
+		Ability to work in a team based environment</li>
+	<li>
+		Ability to work flexible hours</li>
+	<li>
+		One year previous experience preferred</li>
+	<li>
+		Ability to work at our Lansing, MI Data Center required</li>
+</ul>
+<p>
+	Benefits:</p>
+<ul>
+	<li>
+		Great working environment</li>
+	<li>
+		Exposure to state-of-the-art technology</li>
+	<li>
+		Free hosting account</li>
+	<li>
+		Health/Dental coverage after 90 days</li>
+	<li>
+		Optional Employer contributing IRA</li>
+	<li>
+		No travel</li>
+</ul>
+<p>
+	Enthusiastic, team-oriented individuals interested in working in a friendly and fast-paced environment, having the above qualifications, are encouraged to submit their resume with cover letter.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/liquidweb/65jBrO"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120308002201_SQKF3OAJHJXZOQTL]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Quality Assurance Engineer]]></title>
+			<department><![CDATA[Development]]></department>
+			<team><![CDATA[Quality Assurance]]></team>
+			<url><![CDATA[http://liquidweb.theresumator.com/apply/wVFUHF/Software-Quality-Assurance-Engineer.html]]></url>
+			<city><![CDATA[Lansing]]></city>
+			<state><![CDATA[MI]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[48917]]></postalcode>
+			<description><![CDATA[<p>
+Liquid Web is on the lookout for committed, enthusiastic testers to help our software development group produce the best products on the market.&nbsp; The rapid growth the company continues to enjoy has put a premium on enhanced automation.&nbsp; To make this possible, the software development group is expanding with an emphasis on the need for additional Quality Assurance (QA) team members. These positions are integral to the success of the company&#39;s burgeoning development department.</p>
+<p>
+Our developers undertake a great deal of responsibility, including writing their own unit tests, which leaves the QA department free to focus on endeavors such as System testing, Non-functional testing and beyond.&nbsp; In our continued development, we strive to maintain a balance amongst running our test plans, handling all of the new functionality tests in the cycle, regression testing, test automation, and exploratory testing -- not to mention, approaching everyone&#39;s favorite non-functional tests such as performance and destructive testing.&nbsp; Candidates who enjoy a challenging and cutting edge environment will find a great deal of excitement in the developing technologies we encounter as we continue to build and automate all aspects of our Data Center.&nbsp; The ability to multi-task and communicate effectively are required traits for any candidate that we consider, as the job requirements include everything from front-end testing, to juggling multiple long-running tests, to maintaining the exemplary customer experience Liquid Web has become known for.</p>
+<p>
+<br />
+The main roles and responsibilities for our testers:</p>
+<ul>
+<li>
+Collaborate with stakeholders, engineers, and developers as part of the development life cycle to produce quality software and services.</li>
+<li>
+Verify, reproduce, communicate, and track defects from testing and end users&rsquo; feedback.</li>
+<li>
+Participate in all phases of tests from planning, developing, executing and revising plans and scope.</li>
+<li>
+Participate in software and service releases.</li>
+</ul>
+<p>
+<br />
+We have a need for testers at all experience levels.&nbsp; Our ideal applicant would have many of these attributes:</p>
+<ul>
+<li>
+Clear verbal and written communication.</li>
+<li>
+Ability to trouble-shoot effectively and solve problems.</li>
+<li>
+Ability to coordinate with multiple internal teams.</li>
+<li>
+Good time management and the ability to be self-motivated.</li>
+<li>
+Previous software quality assurance experience, or related experience in software development.</li>
+<li>
+Understanding of the software development life cycle.</li>
+<li>
+Familiarity with the various aspects of the software quality assurance discipline such as testing methodologies (black box, white box), types of tests (Non-functional, Regression, User Acceptance), and other test topics (Scope).</li>
+<li>
+Experience with designing and running tests.</li>
+<li>
+Experience with &lsquo;* as a Service&rdquo; offerings.</li>
+<li>
+Experience with web related APIs.</li>
+<li>
+Technical background with some of the following: server operating systems (Linux, Windows), web technologies (HTML, Javascript), Networking, Virtualization</li>
+<li>
+Any type of scripting, especially for automating tasks. (Bonus points for knowing Perl).</li>
+</ul>
+<p>
+<br />
+Benefits:</p>
+<p>
+&nbsp;</p>
+<ul>
+<li>
+Great working environment.</li>
+<li>
+Exposure to state-of-the-art technology.</li>
+<li>
+Free hosting account.</li>
+<li>
+Health/Dental coverage after 90 days.</li>
+<li>
+Optional Employer-contributing IRA.</li>
+<li>
+Compensation is competitive, based on experience.</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+Team-oriented individuals that have a passion for quality software testing and great end user experiences that want to work in a friendly and fast-paced environment are encouraged to apply.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/liquidweb/wVFUHF"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120229182140_ZRNXFVFRKZEG8BFH]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sales Engineer]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://liquidweb.theresumator.com/apply/DkGAgF/Sales-Engineer.html]]></url>
+			<city><![CDATA[Lansing]]></city>
+			<state><![CDATA[MI]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[48917]]></postalcode>
+			<description><![CDATA[<p>
+Liquid Web Inc is a rapidly expanding web hosting company which currently operates three Data Centers in the Lansing area.&nbsp; We have continued to make major expansions into the managed dedicated and virtual private server markets.&nbsp; While the majority of our operations are Linux-based, we are continuing to expand in the Windows managed hosting market. We are accepting applications to work directly at our Lansing, MI Data Centers.&nbsp;</p>
+<p>
+Job Duties:</p>
+<ul>
+<li>
+Provide professional and friendly sales support consistently via telephone and electronic help desk</li>
+<li>
+Develop a deep understanding of Liquid Web&#39;s products</li>
+<li>
+Operating system and application installation/configuration</li>
+<li>
+Outbound calling to targeted supplied leads</li>
+<li>
+Provide consultative services to business professionals</li>
+<li>
+Communicate and present to customers by phone, online and in-person</li>
+<li>
+Utilize a Sales Force CRM tool to manage contacts and leads.</li>
+<li>
+Identify industry trends and recommend new product ideas</li>
+</ul>
+<p>
+Skill Requirements:</p>
+<ul>
+<li>
+Solid working knowledge of RPM based Linux Distributions</li>
+<li>
+Solid working knowledge of Windows Server 2008/2012</li>
+<li>
+Experience with Apache, BIND, and IIS preferred</li>
+<li>
+Excellent customer service skills</li>
+<li>
+Excellent verbal and written communication skills</li>
+<li>
+Excellent problem solving skills</li>
+<li>
+Ability to work in a team based environment</li>
+<li>
+Ability to work flexible hours</li>
+<li>
+Ability to work at our Lansing, MI Data Center required</li>
+<li>
+Self-starter and self-motivated</li>
+<li>
+Minimum Requirements:</li>
+<li>
+Experience with Linux</li>
+<li>
+1-2 years Previous Business to Business technical sales experience</li>
+</ul>
+<p>
+Benefits:</p>
+<ul>
+<li>
+Great working environment</li>
+<li>
+Exposure to state-of-the-art technology</li>
+<li>
+Free hosting account</li>
+<li>
+Health/Dental coverage after 90 days</li>
+<li>
+Optional Employer contributing IRA</li>
+<li>
+Some Travel</li>
+<li>
+Compensation is competitive, based on experience.</li>
+</ul>
+<p>
+Enthusiastic, team-oriented individuals interested in working in a friendly and fast-paced environment, having the above qualifications, are encouraged to submit their resume with cover letter.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/liquidweb/DkGAgF"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120229181900_ZT5EUQOOOI72PCGL]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Customer Support Technician]]></title>
+			<department><![CDATA[Technical Support]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://liquidweb.theresumator.com/apply/PAbrrH/Customer-Support-Technician.html]]></url>
+			<city><![CDATA[Lansing]]></city>
+			<state><![CDATA[MI]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[48917]]></postalcode>
+			<description><![CDATA[<p>
+Liquid Web Inc is a rapidly expanding web hosting company which currently operates three Data Centers in the Lansing area.&nbsp; We have continued to make major expansions into the managed dedicated and virtual private server markets.&nbsp; While the majority of our operations are Linux-based, we are continuing to expand in the Windows managed hosting market. We are accepting applications for Customer Support Technicians to work directly at our Lansing, MI Data Centers.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>
+Job Duties:</p>
+<ul>
+<li>
+Provide professional and friendly support consistently via telephone and electronic help desk</li>
+<li>
+Troubleshoot and solve a wide range of customer support issues from basic to complex</li>
+<li>
+System monitoring and response</li>
+<li>
+Operating system and application installation/configuration</li>
+<li>
+Performing scheduled maintenance tasks</li>
+</ul>
+<p>
+Skill Requirements:</p>
+<ul>
+<li>
+Solid working knowledge of RPM based Linux Distributions</li>
+<li>
+Solid working knowledge of Windows Server 2008/2012</li>
+<li>
+Experience with Apache, BIND, and IIS preferred</li>
+<li>
+Excellent customer service skills</li>
+<li>
+Excellent verbal and written communication skills</li>
+<li>
+Excellent problem solving skills</li>
+<li>
+Ability to work in a team based environment</li>
+<li>
+Ability to work flexible hours</li>
+<li>
+One year previous experience preferred</li>
+<li>
+Ability to work at our Lansing, MI Data Center required</li>
+</ul>
+<p>
+Benefits:</p>
+<ul>
+<li>
+Great working environment</li>
+<li>
+Exposure to state-of-the-art technology</li>
+<li>
+Free hosting account</li>
+<li>
+Health/Dental coverage after 90 days</li>
+<li>
+Optional Employer contributing IRA</li>
+<li>
+No travel</li>
+</ul>
+<p>
+Enthusiastic, team-oriented individuals interested in working in a friendly and fast-paced environment, having the above qualifications, are encouraged to submit their resume with cover letter.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/liquidweb/PAbrrH"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120307211317_2IJQTV8G18FMT1TO]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Customer Support Technician - Windows]]></title>
+			<department><![CDATA[Technical Support]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://liquidweb.theresumator.com/apply/9U2tGb/Customer-Support-Technician-Windows.html]]></url>
+			<city><![CDATA[Lansing]]></city>
+			<state><![CDATA[MI]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[48917]]></postalcode>
+			<description><![CDATA[<p>
+Liquid Web Inc is a rapidly expanding web hosting company which currently operates three Data Centers in the Lansing area. We have continued to make major expansions into the managed dedicated and virtual private server markets. While the majority of our operations are Linux-based, we are continuing to expand in the Windows managed hosting market. We are accepting applications for a Windows Systems Server Administrator to work directly at our Lansing, MI Data Centers.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>
+Job Duties:</p>
+<ul>
+<li>
+Provide professional and friendly server support consistently via telephone and electronic help desk</li>
+<li>
+Develop a deep understanding of Liquid Web&#39;s products</li>
+<li>
+Operating system and application installation/configuration</li>
+<li>
+Identify industry trends and recommend new product ideas</li>
+</ul>
+<p>
+Skill Requirements:</p>
+<ul>
+<li>
+Solid working knowledge of Windows Server 2008/2012</li>
+<li>
+Experience with IIS, Microsoft SQL, and Active Directory preferred</li>
+<li>
+Excellent customer service skills</li>
+<li>
+Excellent verbal and written communication skills</li>
+<li>
+Excellent problem solving skills</li>
+<li>
+Ability to work in a team based environment</li>
+<li>
+Ability to work flexible hours</li>
+<li>
+Ability to work at our Lansing, MI Data Center required</li>
+<li>
+Self-starter and self-motivated</li>
+</ul>
+<p>
+Benefits:</p>
+<ul>
+<li>
+Great working environment</li>
+<li>
+Exposure to state-of-the-art technology</li>
+<li>
+Free hosting account</li>
+<li>
+Health/Dental coverage after 90 days</li>
+<li>
+Optional Employer contributing IRA</li>
+<li>
+Compensation is competitive, based on experience.</li>
+</ul>
+<p>
+Enthusiastic, team-oriented individuals interested in working in a friendly and fast-paced environment, having the above qualifications, are encouraged to submit their resume with cover letter.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/liquidweb/9U2tGb"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120307211727_CKRNKYXRNW7R0JNO]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Developer]]></title>
+			<department><![CDATA[Development]]></department>
+			<team><![CDATA[Development]]></team>
+			<url><![CDATA[http://liquidweb.theresumator.com/apply/9z6NSy/Software-Developer.html]]></url>
+			<city><![CDATA[Lansing]]></city>
+			<state><![CDATA[MI]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[48917]]></postalcode>
+			<description><![CDATA[<p>
+	We&#39;re looking for talented developers to join our growing team and to deliver quality software. We have a focus on modern best practices such as automated testing, rapid releases, distributed version control, and object-oriented code. The growing need for automated deployment in the hosting industry means we get to interact with burgeoning technologies like virtualization, distributed systems, and automated network configuration. We&#39;re looking for more smart people to help us build out our Infrastructure as a Service (IaaS) offerings and customer portals, as well as maintain and modernize our existing internal applications.</p>
+<p>
+	We leverage open source technologies (Perl, PostgreSQL, CPAN, CentOS) and are working towards a culture of contributing back to the community. Liquid Web still maintains a lot of its start-up roots, so self-starters with a get-it-done attitude thrive. We want people who strive to push things forward on the team and who aren&#39;t afraid to tackle a project head-on without a lot of hand-holding. The ability to juggle multiple projects simultaneously and prioritize them effectively is a must.</p>
+<p>
+	We have need for developers at all experience levels and with various skill sets. Our ideal applicant would have many of these skills:</p>
+<ul>
+	<li>
+		Solid development fundamentals with a good understanding of object-oriented programming</li>
+	<li>
+		Thorough experience in Perl or a proven track record of strong development in other languages with the ability to quickly learn and embrace Perl.</li>
+	<li>
+		Confidence with distributed version control systems (We use git)</li>
+	<li>
+		Experience with unit testing and a recognition of the immense value it provides</li>
+	<li>
+		Familiarity with CPAN and the plethora of quality packages it provides. (We use HTML::Mason, DateTime, Log::Log4perl, DBIx::Class, Test::Class, Devel::NYTProf and much more)</li>
+	<li>
+		In-depth understanding of LAMP or similar application stacks</li>
+	<li>
+		Experience with optimizing code through profiling</li>
+	<li>
+		Understanding of Unix/Linux fundamentals and system administration</li>
+	<li>
+		Experience with virtualization (Xen, KVM, LXC, etc)</li>
+	<li>
+		Knowledge of networking, sockets, file systems, etc</li>
+	<li>
+		Experience utilizing high performance relational databases (experience with NoSQL systems is a plus!)</li>
+	<li>
+		Web centric user interface design (HTML, CSS)</li>
+	<li>
+		Understanding of JavaScript and JS frameworks (Events, Closures, AJAX, jQuery)</li>
+</ul>
+<p>
+	Whether you are a specialist working on network code, or a generalist reaching across various skill sets, as long as you are willing to learn, we want to hear from you.</p>
+<p>
+	Benefits:</p>
+<ul>
+	<li>
+		Great working environment</li>
+	<li>
+		Exposure to state-of-the-art technology</li>
+	<li>
+		Free hosting account</li>
+	<li>
+		Health/Dental coverage</li>
+	<li>
+		Optional Employer contributing IRA</li>
+	<li>
+		Compensation is competitive, based on experience.</li>
+</ul>
+<p>
+	If you&#39;d like to join us in our endeavors, please send a resume and code sample. If you don&#39;t have any code that you can share, write something up and send it. Links to github/cpan/sourceforge projects that you worked on are encouraged, but please specify what area you worked on if it was part of a larger group effort.</p>
+<p>
+	We have offices in both Lansing, MI and Scottsdale, AZ, and we&#39;re willing to relocate the right candidate. We do allow occasional telecommuting, but we are not open to full-time telecommuters or contractors at this time.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/liquidweb/9z6NSy"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120307214050_XEMTOTCELI1LC47R]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Developer]]></title>
+			<department><![CDATA[Development]]></department>
+			<team><![CDATA[Development]]></team>
+			<url><![CDATA[http://liquidweb.theresumator.com/apply/XUifVm/Software-Developer.html]]></url>
+			<city><![CDATA[Scottsdale]]></city>
+			<state><![CDATA[AZ]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[85258]]></postalcode>
+			<description><![CDATA[<p>
+	We&#39;re looking for talented developers to join our growing team and to deliver quality software. We have a focus on modern best practices such as automated testing, rapid releases, distributed version control, and object-oriented code. The growing need for automated deployment in the hosting industry means we get to interact with burgeoning technologies like virtualization, distributed systems, and automated network configuration. We&#39;re looking for more smart people to help us build out our Infrastructure as a Service (IaaS) offerings and customer portals, as well as maintain and modernize our existing internal applications.</p>
+<p>
+	We leverage open source technologies (Perl, PostgreSQL, CPAN, CentOS) and are working towards a culture of contributing back to the community. Liquid Web still maintains a lot of its start-up roots, so self-starters with a get-it-done attitude thrive. We want people who strive to push things forward on the team and who aren&#39;t afraid to tackle a project head-on without a lot of hand-holding. The ability to juggle multiple projects simultaneously and prioritize them effectively is a must.</p>
+<p>
+	We have need for developers at all experience levels and with various skill sets. Our ideal applicant would have many of these skills:</p>
+<ul>
+	<li>
+		Solid development fundamentals with a good understanding of object-oriented programming</li>
+	<li>
+		Thorough experience in Perl or a proven track record of strong development in other languages with the ability to quickly learn and embrace Perl.</li>
+	<li>
+		Confidence with distributed version control systems (We use git)</li>
+	<li>
+		Experience with unit testing and a recognition of the immense value it provides</li>
+	<li>
+		Familiarity with CPAN and the plethora of quality packages it provides. (We use HTML::Mason, DateTime, Log::Log4perl, DBIx::Class, Test::Class, Devel::NYTProf and much more)</li>
+	<li>
+		In-depth understanding of LAMP or similar application stacks</li>
+	<li>
+		Experience with optimizing code through profiling</li>
+	<li>
+		Understanding of Unix/Linux fundamentals and system administration</li>
+	<li>
+		Experience with virtualization (Xen, KVM, LXC, etc)</li>
+	<li>
+		Knowledge of networking, sockets, file systems, etc</li>
+	<li>
+		Experience utilizing high performance relational databases (experience with NoSQL systems is a plus!)</li>
+	<li>
+		Web centric user interface design (HTML, CSS)</li>
+	<li>
+		Understanding of JavaScript and JS frameworks (Events, Closures, AJAX, jQuery)</li>
+</ul>
+<p>
+	Whether you are a specialist working on network code, or a generalist reaching across various skill sets, as long as you are willing to learn, we want to hear from you.</p>
+<p>
+	Benefits:</p>
+<ul>
+	<li>
+		Great working environment</li>
+	<li>
+		Exposure to state-of-the-art technology</li>
+	<li>
+		Free hosting account</li>
+	<li>
+		Health/Dental coverage</li>
+	<li>
+		Optional Employer contributing IRA</li>
+	<li>
+		Compensation is competitive, based on experience.</li>
+</ul>
+<p>
+	If you&#39;d like to join us in our endeavors, please send a resume and code sample. If you don&#39;t have any code that you can share, write something up and send it. Links to github/cpan/sourceforge projects that you worked on are encouraged, but please specify what area you worked on if it was part of a larger group effort.</p>
+<p>
+	We have offices in both Lansing, MI and Scottsdale, AZ, and we&#39;re willing to relocate the right candidate. We do allow occasional telecommuting, but we are not open to full-time telecommuters or contractors at this time.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/liquidweb/XUifVm"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120308231449_APAVDSSNW9EWLEBM]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Developer]]></title>
+			<department><![CDATA[Development]]></department>
+			<team><![CDATA[Development]]></team>
+			<url><![CDATA[http://liquidweb.theresumator.com/apply/w7JTlC/Web-Developer.html]]></url>
+			<city><![CDATA[Lansing]]></city>
+			<state><![CDATA[MI]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[48917]]></postalcode>
+			<description><![CDATA[<p>
+	We&#39;re looking for talented web developers to join our growing team and help us deliver a compelling customer experience.&nbsp; We&rsquo;ve built a data-driven, event-based Javascript app for managing servers and account information, and we need more people to keep up with the feature demands for the ever-growing virtualized hosting industry.&nbsp; Apart from our server management console, we also need smart people to help us build out our shopping cart and referral system, as well as maintain and modernize our existing internal applications.</p>
+<p>
+	We leverage open source technologies and encourage community involvement (contributing code to open source projects, publishing jquery plugins, etc). Liquid Web still maintains a lot of its start-up roots, so self-starters with a get-it-done attitude thrive. We want people who strive to push things forward on the team and who aren&#39;t afraid to tackle a project head-on without a lot of hand-holding. The ability to juggle multiple projects simultaneously and prioritize them effectively is a must.</p>
+<ul>
+	<li>
+		Our ideal applicant would have most of these skills:</li>
+	<li>
+		Thorough understanding of usability and a focus on customer experience</li>
+	<li>
+		In-depth understanding of Javascript (prototypal inheritance, closures, events, ajax, etc)</li>
+	<li>
+		Experience with at least one major javascript framework (jquery (preferred), scriptaculous, dojo toolkit, YUI, etc)</li>
+	<li>
+		The ability to work in DHTML without using one of those libraries, if necessary</li>
+	<li>
+		Solid understanding of CSS</li>
+	<li>
+		Ability to write well-crafted, semantic HTML</li>
+	<li>
+		Knowledge of various browsers and their bugs/limitations</li>
+	<li>
+		Experience mitigating/preventing XSS injections and other security exploits</li>
+	<li>
+		Some knowledge of templating languages (Mason, Template Toolkit, etc)</li>
+	<li>
+		Confidence with distributed version control systems (we use git)</li>
+	<li>
+		Comfort working in a Unix/Linux environment</li>
+</ul>
+<p>
+	If you&rsquo;d like to join us in our endeavors, please send a resume and code sample. If you don&rsquo;t have any code that you can share, write something up and send it.&nbsp;</p>
+<p>
+	We have offices in both Lansing, MI and Scottsdale, AZ, and we&rsquo;re willing to relocate the right candidate.&nbsp; We do allow occasional telecommuting, but we are not open to full-time telecommuters or contractors at this time.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/liquidweb/w7JTlC"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120710135722_QLMLQBPBPL7C8HQR]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Systems Engineer]]></title>
+			<department><![CDATA[Research & Development]]></department>
+			<team><![CDATA[Systems Engineering]]></team>
+			<url><![CDATA[http://liquidweb.theresumator.com/apply/wkXgPE/Systems-Engineer.html]]></url>
+			<city><![CDATA[Lansing]]></city>
+			<state><![CDATA[MI]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[48917]]></postalcode>
+			<description><![CDATA[<p>&nbsp;</p><p>Do you love designing and building scalable, secure and performant systems? Do you live and breathe Linux and other open source software? Are you creative and driven? Want to make an impact in a dynamic, growing company? If so, come and join us as a Systems Engineer at Liquid Web.</p><p><strong>JOB DESCRIPTION</strong><br />As part of our Research and Development team you will play a key role in identifying, designing and developing products and services that will advance our business on a global scale. You will leverage the latest trends in technology to help develop creative solutions that meet the needs of our customers.</p><p><strong>PRIMARY RESPONSIBILITIES</strong><br />Design and engineer new and innovative products and improvements to existing products. Develop integration strategies for legacy systems. Diagnose and fix complex hardware, software and network issues.</p><p><strong>REQUIRED EXPERIENCE</strong><br />Our ideal applicant would have many of these skills:</p><ul><li>Large scale distributed systems, storage, cluster computing, cloud computing</li><li>System architecture, design, administration, networking and monitoring</li><li>Mixed operating systems experience: (Linux, FreeBSD, Solaris, Windows)</li><li>Virtualization: (KVM, Xen, libvirt)</li><li>Scripting languages: (bash, Perl, Python, Ruby)</li><li>Diagnostic and mitigation techniques for complex hardware, software and networking issues</li><li>OS installation and automation</li><li>Version control systems</li><li>Other technologies including configuration management systems, message queueing, distributed databases</li><li>Strong verbal and written communication skills</li></ul><p><strong>DESIRED QUALITIES</strong></p><ul><li>Desire to build, innovate and create</li><li>Strength in multitasking and prioritization in order to meet periodicly changing deadlines</li><li>Self-starting and able to drive projects to completion in a fast moving environment</li></ul><p><strong>EDUCATION</strong><br />BS in Computer Science, Computer Engineering, MIS, or equivalent industry experience</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/liquidweb/wkXgPE"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120710140241_6QRWBSAOM5WEJE28]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Systems Engineer]]></title>
+			<department><![CDATA[Research & Development]]></department>
+			<team><![CDATA[Systems Engineering]]></team>
+			<url><![CDATA[http://liquidweb.theresumator.com/apply/xDwD3E/Systems-Engineer.html]]></url>
+			<city><![CDATA[Scottsdale]]></city>
+			<state><![CDATA[AZ]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[85255]]></postalcode>
+			<description><![CDATA[<p>&nbsp;</p><p>Do you love designing and building scalable, secure and performant systems? Do you live and breathe Linux and other open source software? Are you creative and driven? Want to make an impact in a dynamic, growing company? If so, come and join us as a Systems Engineer at Liquid Web.</p><p><strong>JOB DESCRIPTION</strong><br />As part of our Research and Development team you will play a key role in identifying, designing and developing products and services that will advance our business on a global scale. You will leverage the latest trends in technology to help develop creative solutions that meet the needs of our customers.</p><p><strong>PRIMARY RESPONSIBILITIES</strong><br />Design and engineer new and innovative products and improvements to existing products. Develop integration strategies for legacy systems. Diagnose and fix complex hardware, software and network issues.</p><p><strong>REQUIRED EXPERIENCE</strong><br />Our ideal applicant would have many of these skills:</p><ul><li>Large scale distributed systems, storage, cluster computing, cloud computing</li><li>System architecture, design, administration, networking and monitoring</li><li>Mixed operating systems experience: (Linux, FreeBSD, Solaris, Windows)</li><li>Virtualization: (KVM, Xen, libvirt)</li><li>Scripting languages: (bash, Perl, Python, Ruby)</li><li>Diagnostic and mitigation techniques for complex hardware, software and networking issues</li><li>OS installation and automation</li><li>Version control systems</li><li>Other technologies including configuration management systems, message queueing, distributed databases</li><li>Strong verbal and written communication skills</li></ul><p><strong>DESIRED QUALITIES</strong></p><ul><li>Desire to build, innovate and create</li><li>Strength in multitasking and prioritization in order to meet periodicly changing deadlines</li><li>Self-starting and able to drive projects to completion in a fast moving environment</li></ul><p><strong>EDUCATION</strong><br />BS in Computer Science, Computer Engineering, MIS, or equivalent industry experience</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/liquidweb/xDwD3E"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120731185638_CFWWWKCPMXTJ3YWO]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Bilingual Customer Support Technician (Spanish & English)]]></title>
+			<department><![CDATA[Technical Support]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://liquidweb.theresumator.com/apply/Ivszre/Bilingual-Customer-Support-Technician-Spanish-English.html]]></url>
+			<city><![CDATA[Lansing]]></city>
+			<state><![CDATA[MI]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[48917]]></postalcode>
+			<description><![CDATA[<p>
+Liquid Web Inc is a rapidly expanding web hosting company which currently operates three Data Centers in the Lansing area.&nbsp; We have continued to make major expansions into the managed dedicated and virtual private server markets.&nbsp; While the majority of our operations are Linux-based, we are continuing to expand in the Windows managed hosting market. We are accepting applications for Customer Support Technicians to work directly at our Lansing, MI Data Centers. &nbsp;Liquid Web has experienced tremendous growth in Spanish speaking international markets. To support this growth, we are seeking bilingual (Spanish/English) customer service technicians to support our international customers via Email, Chat and Phone in their native language.&nbsp;</p>
+<p>
+Job Duties:</p>
+<ul>
+<li>
+Provide professional and friendly support consistently via telephone and electronic help desk</li>
+<li>
+Troubleshoot and solve a wide range of customer support issues from basic to complex</li>
+<li>
+System monitoring and response</li>
+<li>
+Operating system and application installation/configuration</li>
+<li>
+Performing scheduled maintenance tasks</li>
+</ul>
+<p>
+Skill Requirements:</p>
+<ul>
+<li>
+Bilingual (Spanish/English) preferred.&nbsp;</li>
+<li>
+Solid working knowledge of RPM based Linux Distributions</li>
+<li>
+Solid working knowledge of Windows Server 2008/2012</li>
+<li>
+Experience with Apache, BIND, and IIS preferred</li>
+<li>
+Excellent customer service skills</li>
+<li>
+Excellent verbal and written communication skills</li>
+<li>
+Excellent problem solving skills</li>
+<li>
+Ability to work in a team based environment</li>
+<li>
+Ability to work flexible hours</li>
+<li>
+One year previous experience preferred</li>
+<li>
+Ability to work at our Lansing, MI Data Center required</li>
+</ul>
+<p>
+Benefits:</p>
+<ul>
+<li>
+Great working environment</li>
+<li>
+Exposure to state-of-the-art technology</li>
+<li>
+Free hosting account</li>
+<li>
+Health/Dental coverage after 90 days</li>
+<li>
+Optional Employer contributing IRA</li>
+</ul>
+<p>
+Enthusiastic, team-oriented individuals interested in working in a friendly and fast-paced environment, having the above qualifications, are encouraged to submit their resume with cover letter.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/liquidweb/Ivszre"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120919200815_NF7DGSL8Z61V254V]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Server Monitoring Technician]]></title>
+			<department><![CDATA[Monitoring]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://liquidweb.theresumator.com/apply/BtBqNA/Server-Monitoring-Technician.html]]></url>
+			<city><![CDATA[Lansing]]></city>
+			<state><![CDATA[MI]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[48917]]></postalcode>
+			<description><![CDATA[<p>
+Liquid Web Inc is a rapidly expanding web hosting company which currently operates three Data Centers in the Lansing area.&nbsp; We have continued to make major expansions into the managed dedicated and virtual private server markets.&nbsp; While the majority of our operations are Linux-based, we are continuing to expand in the Windows managed hosting market. Our Monitoring Team interacts daily with different flavors of Linux and Windows. We are accepting applications for 2nd and 3rd shift Sonar Monitoring Technicians to work directly at our Lansing, MI Data Centers.</p>
+<p>
+Job Duties:</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Consistently provide professional and friendly written support VIA our Electronic Help Desk.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Troubleshoot and solve a wide range of customer support issues from basic to complex<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Respond to alerts in our Monitoring System in a timely and efficient manner<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Identify patterns in displayed alerts that indicate larger problems<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Differentiate between hardware and software errors<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Directly interact with the hardware used to serve our customers<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Engage in the automation of alert resolution<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Performing scheduled maintenance tasks</p>
+<p>
+Skill Requirements:</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Solid working knowledge of RPM based Linux Distributions<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Solid working knowledge of Windows Server 2008/2012<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Solid working knowledge of cPanel/Plesk preferred<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Experience working with Monitoring Systems (Zenoss, Nagios, Cacti) a plus<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Experience with the LAMP stack, BIND, and IIS preferred<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Excellent customer service skills required<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Excellent verbal and written communication skills required<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Excellent problem solving skills required<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Ability to work in a team based environment<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; One year previous experience preferred<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Ability to work at our Lansing, MI Data Center required</p>
+<p>
+Benefits:</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Great working environment<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Exposure to state-of-the-art technology<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Free hosting account<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Health/Dental coverage after 90 days<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Optional Employer contributing IRA<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; No travel<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Ongoing Training and Education<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &bull; Shift and Weekend Premiums</p>
+<p>
+Enthusiastic, team-oriented individuals interested in working in a friendly and fast-paced environment, having the above qualifications, are encouraged to submit their resume with cover letter.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/liquidweb/BtBqNA"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130305235543_HPYMYRNZJX4EIGY4]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Associate Infrastructure Systems Engineer]]></title>
+			<department><![CDATA[Maintenance]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://liquidweb.theresumator.com/apply/5trgwj/Associate-Infrastructure-Systems-Engineer.html]]></url>
+			<city><![CDATA[Lansing]]></city>
+			<state><![CDATA[MI]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[48917]]></postalcode>
+			<description><![CDATA[<p>
+As part of the Infrastructure Team you will assist with installing new equipment, developing code for new monitoring systems, and helping to ensure our critical infrastructure gear is well monitored. This is primarily a first shift position, but the applicant would be able to take emergency calls as necessary.</p>
+<p>
+<strong>Primary Responsibility:</strong></p>
+<p>
+Install and engineer systems for generator, UPS, PDU and HVAC monitoring, enhancing building management systems, expanding alarm and notification systems, camera and door system maintenance.</p>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Must be experienced in PHP and SQL</li>
+<li>
+Windows and Linux System Administration skills</li>
+<li>
+Basic to Intermediate programming skills</li>
+<li>
+Basic network administration skills</li>
+<li>
+Ability to learn quickly, and strong problem solving skills</li>
+<li>
+Strong book learning skills Self motivated, and able to work independently.</li>
+<li>
+Must be able to work on a ladder or man lift at 10&#39; or greater.</li>
+<li>
+Desired, but optional skills:</li>
+<li>
+Scripting/Programming skills in Perl, Javascript, C/C++ and VBS</li>
+<li>
+Basic HTML Understanding of SNMP concepts/experience with SNMP</li>
+<li>
+Advanced networking skills</li>
+<li>
+Electrical/Electronics skills</li>
+<li>
+Spreadsheet Wizardry</li>
+<li>
+Modbus/Serial Communications</li>
+<li>
+Cacti knowledge</li>
+</ul>
+<p>
+<strong>Benefits:</strong></p>
+<ul>
+<li>
+Great working environment</li>
+<li>
+Health/Dental coverage after 90 days</li>
+<li>
+Optional Employer contributing IRA</li>
+</ul>
+<p>
+Enthusiastic, team-oriented individuals interested in working in a friendly and fast-paced environment, having the above qualifications, are encouraged to submit their resume with cover letter.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/liquidweb/5trgwj"></script>]]></buttons>
+		</job>
+	</jobs>

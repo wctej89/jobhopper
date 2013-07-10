@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Collective Intellect]]></company>
+			<job>
+			<id><![CDATA[job_20120719210041_2S2K04T966ACCZDT]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Big Data Architect / Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://collectiveintellect.theresumator.com/apply/7YDvL2/Big-Data-Architect-Developer.html]]></url>
+			<city><![CDATA[Boulder]]></city>
+			<state><![CDATA[CO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[80303]]></postalcode>
+			<description><![CDATA[<h2>The Problem</h2><p>Help our clients understand large amounts of social media data. We&#39;re talking analyzing and visualizing, and presenting&nbsp; data. At the core of Collective Intellect is our text-analytics engine which makes us not just another social media monitoring company. We do hardcore analytics using some pretty hardcore technologies and our customers love it. As part of the core architecture team you would be responsible for helping to build a state-of-the art big-data processing and analytics pipeline.</p><h2>The Technology Stack</h2><p>We&#39;re using the bleeding edge of technologies like Solr/Lucene, NLP/LSA, Hadoop, and Postgresql to solve some really big data problems. You&#39;ll need to be able to get up to speed on dealing with processing lots data using a combination of Ruby and Java in a Linux environment.</p><h2>The Team</h2><p>We&#39;re a small team of &quot;agile&quot; Rubyists. Our team members are very active in the Ruby community (including @copiousfreetime, who regularly presents at Ruby conferences around the world). We write code in iterations, use TDD/BDD, and pair on occasion.</p><h2>The Perks</h2><p>We have a super flexible schedule and vacation policy. The office is just off Pearl Street in Boulder, Colorado (next to the Boulder Theater) and you&#39;ll also find us hacking together at coffeeshops around town. We pay well and offer full benefits and participate in Boulder&#39;s EcoPass program (free bus pass FTW). We even hold our weekly meetings at local microbreweries.</p><h2>Interested?</h2><p>If you want to work with our team, let us know and come hang out for an afternoon, see if the job is right for you. We&#39;d love to see what you&#39;ve worked on in the past, so send us a link to your github or portfolio along with a resume and few lines about what makes you awesome.</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/collectiveintellect/7YDvL2"></script>]]></buttons>
+		</job>
+	</jobs>

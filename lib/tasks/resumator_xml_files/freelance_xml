@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Freelance Ltd]]></company>
+			<job>
+			<id><![CDATA[job_20120312155119_XNIJ8LDJYVC9QVNJ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Talent Attraction Specialist]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Hong Kong]]></team>
+			<url><![CDATA[http://freelance.theresumator.com/apply/1OkoHY/Talent-Attraction-Specialist.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Hong Kong]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+	Testing</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/freelance/1OkoHY"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120305100717_YVZX3STWJEQVCZXI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Test Job - Resourcing manager]]></title>
+			<department><![CDATA[Human Resources]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://freelance.theresumator.com/apply/76o8Ug/Test-Job-Resourcing-Manager.html]]></url>
+			<city><![CDATA[Sevenoaks]]></city>
+			<state><![CDATA[Kent]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[TN123]]></postalcode>
+			<description><![CDATA[<ul>
+	<li>
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ultrices rhoncus aliquam. Etiam vitae nisi a erat bibendum semper.</li>
+	<li>
+		Donec sed nulla mi, id tincidunt nunc. Maecenas tortor lacus, tristique non tempor at, pellentesque eu justo. Praesent bibendum, lacus vitae mollis porta, tellus dolor tempor metus, vel mollis sem libero vel odio.</li>
+</ul>
+<p>
+	Nulla nulla lorem, placerat vitae condimentum ac, commodo id justo. Pellentesque enim lectus, pellentesque id facilisis sed, mollis pretium augue. Phasellus eget elit massa, id laoreet lectus. Mauris malesuada scelerisque nisi, ultricies tempor ante aliquet ac.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Senior Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/freelance/76o8Ug"></script>]]></buttons>
+		</job>
+	</jobs>

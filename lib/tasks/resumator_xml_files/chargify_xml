@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Chargify]]></company>
+			<job>
+			<id><![CDATA[job_20121003195103_G6XMDQGM62F6QNQ0]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Ruby on Rails Developer (REMOTE)]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Team]]></team>
+			<url><![CDATA[http://chargify.theresumator.com/apply/z7MDuL/Ruby-On-Rails-Developer-REMOTE.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[(Multiple States)]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+	Chargify is looking for a passionate Ruby on Rails Developer interested in joining our dynamic team.<strong> </strong>Your mission? Help build our ground-breaking recurring billing application developed by <a href="http://grasshopper.com" target="_blank">Grasshopper.</a> We&rsquo;re in an exciting growth phase right now. Not only will you have a chance to make your mark as a developer, but you&rsquo;ll also get to work and interact with seasoned professionals and entrepreneurs deeply committed to revolutionizing this space.</p>
+<p>
+	Chargify&#39;s ideal Ruby on Rails Developer is a multi-faceted individual who cares about the web and web standards, loves building apps using Rails, gets a rush from pushing the envelope in usability and interactivity, feels great when writing clean, well-tested code, and just &quot;gets it&quot; when it comes to building for today&#39;s (and tomorrow&#39;s) web. Yup, a tall order, but at Chargify, we only want the best.</p>
+<p>
+	Besides the right professional skills, how will you know if you&#39;re the right fit for the Chargify team? Ask yourself--and be honest--are you fun, reliable, loyal, and interested in advancing both yourself and your team? If you answered in the affirmative, then you&#39;re on the right track. So, if you&rsquo;re an awesome Ruby on Rails Developer anywhere in the world, and you&rsquo;re interested in getting involved in an exciting project at the ground level, then we want to hear from you.&nbsp;</p>
+<p>
+	<strong>Requirements</strong></p>
+<ul>
+	<li>
+		3+ years&#39; experience building web applications</li>
+	<li>
+		Practical, demonstrable experience in building web applications using Ruby on Rails</li>
+	<li>
+		Experience building rich interactions with JavaScript/jQuery/AJAX</li>
+	<li>
+		Knowledge of relational database design and SQL</li>
+	<li>
+		Thorough capabilities with (X)HTML and CSS</li>
+	<li>
+		Experience with test- or behavior-driven development</li>
+	<li>
+		Strong knowledge of version control systems (git) and application deployment</li>
+	<li>
+		Experience with testing frameworks such as Test::Unit or RSpec</li>
+	<li>
+		Excellent communication and documentation skills</li>
+	<li>
+		Self-motivated and self-managed</li>
+	<li>
+		Proven capability of working remotely</li>
+	<li>
+		Ability to work in a fast paced, deadline driven, dynamic environment</li>
+	<li>
+		A passion for the technologies of the web</li>
+</ul>
+<p>
+	<strong>Preferred Qualifications</strong></p>
+<ul>
+	<li>
+		Experience building billing applications (bonus)</li>
+	<li>
+		Experience in scaling web applications</li>
+	<li>
+		Experience exposing and consuming web services</li>
+	<li>
+		Preference for unobtrusive javascript</li>
+	<li>
+		Startup or small company experience</li>
+	<li>
+		Entrepreneurial tendencies</li>
+	<li>
+		Open source contributions</li>
+</ul>
+<p>
+	<br />
+	<strong>About Chargify</strong></p>
+<p>
+	Chargify is a recurring billing application developed by Grasshopper Labs, a team of entrepreneurs, developers, and marketers who strive to create breakthrough web apps. Grasshopper Labs was founded by the same team behind Grasshopper.com, a highly successful subscription-based virtual phone system that has served millions of entrepreneurs over the last six years.</p>
+<p>
+	The sheer number of today&rsquo;s subscription-based applications demanded a smart billing system built on years of experience. Unfortunately, the market was filled with clunky, off-the-shelf systems that fell short, and enterprise solutions that charged huge set up and transaction fees. Finally, we thought: Why not just build an intelligent billing application system ourselves? After all, billing thousands of customers a month through Grasshopper taught us everything there is to know about billing. So, we put our years of knowledge to good use, and Chargify was born.</p>
+<p>
+	Chargify&rsquo;s affordable freemium pricing has no long-term contract, and no transaction or overage fees. We provide a robust set of business intelligence, fraud management, and dunning management tools to help you retain more customers, and ultimately grow your business.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/chargify/z7MDuL"></script>]]></buttons>
+		</job>
+	</jobs>

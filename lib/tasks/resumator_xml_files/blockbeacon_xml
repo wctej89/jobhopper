@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[BlockBeacon]]></company>
+			<job>
+			<id><![CDATA[job_20120221000254_4UZUIOPXGZ3KH3HK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Mobile Application Developer - Android]]></title>
+			<department><![CDATA[Application Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://blockbeacon.theresumator.com/apply/rAn4CH/Mobile-Application-Developer-Android.html]]></url>
+			<city><![CDATA[Santa Monica]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90401]]></postalcode>
+			<description><![CDATA[<p>
+	BlockBeacon is seeking an experienced mobile developer who&#39;s ready to lead our charge by developing a killer consumer app that integrates local, social, and real-time content to help consumers find the best businesses near them...right now! At the same time, it&#39;s a robust platform to help local businesses get their message out to relevent consumers. You will own the mobile platform and play a huge role in the future of the company working closely with Product, Design, and Marketing. You should be comfortable analyzing trade-offs involving performance, reliability, and simplicity. The position is full-time in Santa Monica, CA</p>
+<p>
+	Requirements:</p>
+<ul>
+	<li>
+		2+ years Android mobile application development</li>
+	<li>
+		Solid understanding of the Android application development process with tablet experience or desire to learn tablet optimization a plus</li>
+	<li>
+		Strong knowledge of Java and the Android SDK</li>
+	<li>
+		Applications (you&#39;ve built, or helped build) available for download from Android Marketplace or direct links is important, please include links with your resume</li>
+	<li>
+		Strong interest/passion for working in a startup environment required</li>
+	<li>
+		Computer Science BS/BA required<br />
+		&nbsp;</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blockbeacon/rAn4CH"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120220235708_3MHMVSNZSW31UKG4]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Mobile Application Developer - iOS]]></title>
+			<department><![CDATA[Application Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://blockbeacon.theresumator.com/apply/oJHCon/Mobile-Application-Developer-IOS.html]]></url>
+			<city><![CDATA[Santa Monica]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90401]]></postalcode>
+			<description><![CDATA[<p>
+	BlockBeacon is seeking an experienced mobile developer who&#39;s ready to lead our charge by developing a killer consumer app that integrates local, social, and real-time content to help consumers find the best businesses near them...right now! At the same time, it&#39;s a robust platform to help local businesses get their message out to relevent consumers. You will own the mobile platform and play a huge role in the future of the company working closely with Product, Design, and Marketing. You should be comfortable analyzing trade-offs involving performance, reliability, and simplicity. The position is full-time in Santa Monica, CA</p>
+<p>
+	Requirements:</p>
+<ul>
+	<li>
+		2+ years iOS mobile application development</li>
+	<li>
+		Solid understanding of the iPhone application development process with iPad experience or desire to learn iPad optimization a plus</li>
+	<li>
+		Strong knowledge of Objective-C and the iOS SDK</li>
+	<li>
+		Applications (you&#39;ve built, or helped build) available for download in the iTunes Store is important, please include links with your resume</li>
+	<li>
+		Strong interest/passion for working in a startup environment required</li>
+	<li>
+		Computer Science BS/BA required<br />
+		&nbsp;</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blockbeacon/oJHCon"></script>]]></buttons>
+		</job>
+	</jobs>

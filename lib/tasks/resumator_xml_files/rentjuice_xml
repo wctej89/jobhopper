@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[RentJuice]]></company>
+			<job>
+			<id><![CDATA[job_20120618222647_CBKJ5Y0YZIIRJEQA]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Product Marketer]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[Marketing Team]]></team>
+			<url><![CDATA[http://rentjuice.theresumator.com/apply/44UREH/Product-Marketer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94111]]></postalcode>
+			<description><![CDATA[<p>The RentJuice Marketing Team is responsible for increasing the reach of our brand and generating qualified leads for our Sales Team. Whenever new folks discover RentJuice, whether it&#39;s via our website or through a piece of our sales collateral, it&#39;s essential that the value of our product is explained as clearly and concisely as possible. This is where a Product Marketer comes in. They know how to articulate the same points to ten different people in such a way that it answers each of their unique sets of questions. They understand consistency of message, and the importance of the customer experience both before and after a sale is completed.</p><p><strong>Success in this role means:</strong></p><ul><li>Aggressively setting (and beating) monthly goals related to the marketing &amp; sales funnel</li><li>Creating dashboards and analytic reports for&nbsp;all goals, and proactively communicating all successes and failures to the rest of the team</li><li>Understanding how our website and product pages drive traffic and leads, and pre-emptively moving to do more of this</li><li>Figuring out how to make onboarding as simple as possible for our new customers</li><li>Staying one step ahead of our department&#39;s&nbsp;needs by proactively brainstorming new initiatives</li><li>Growing as a marketer, and developing the capacity to contribute to other areas of our business</li></ul><p><strong>Responsibilities:</strong></p><ul><li>Creating and maintaining a cache of Sales Collateral that articluates the value of RentJuice succintly, usable both electronically and on printed materials (for trade shows)</li><li>Crafting copy for our website and landing pages, and testing to make sure we&#39;re converting as many visitors as possible</li><li>Developing &quot;Quick Start&quot; guides and other helpful materials that allow RentJuice&#39;s newest customers and users to get up and running quickly</li><li>Working with our&nbsp;Product Team to send e-mail notifications&nbsp;related to our latest product launches and feature updates</li></ul><p><strong>What we&#39;re looking for:</strong></p><ul><li>Digital natives who can immedately count off their five favorite companies when it comes to product marketing</li><li>An understanding of&nbsp;Google Analytics, HubSpot, and other marketing analytics</li><li>Exceptional writing skills -- meaning brevity and clarity. We&#39;ll check your cover letter for this.</li><li>Photoshop/Illustrator experience isn&#39;t required, but is an added bonus that we&#39;d love to know about</li><li>A track record of striving for continual personal and professional improvement</li></ul>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/rentjuice/44UREH"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120207182518_2A4TDKNAAH7YJWGF]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Web Developer]]></title>
+			<department><![CDATA[Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://rentjuice.theresumator.com/apply/oGdlrA/Senior-Web-Developer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94111]]></postalcode>
+			<description><![CDATA[<p>Zillow, a vibrant growth-oriented company, recently acquired RentJuice to drive growth on the rental side of the business. In addition to a competitive salary, RentJuice also offers great stock options, benefits and the opportunity to work with a lot of fun, talented people in the heart of San Francisco. RentJuice is looking to add to a small but growing team of web developers enthusiastic about building web applications and modernizing the apartment rental industry.</p><p><strong>Requirements</strong></p><ul><li>Familiarity with LAMP stack and strong proficiency in PHP, JavaScript and MySQL</li><li>Strong command of web standards, CSS based-design and browser compatibility</li><li>Experience writing and optimizing database queries against large datasets</li><li>Ability to seamlessly switch between back-end and front-end development to polish a feature to completion</li></ul><p><strong>Some of the technologies we (and you would) use</strong></p><ul><li>PHP, MySQL, Apache, nginx</li><li>JQuery</li><li>Elastic Search</li><li>Amazon Web Services: EC2, S3, CloudFront, AutoScaling</li><li>Gearman</li><li>iText</li><li>Jenkins, Selenium</li></ul><p><strong>Bonus Skills</strong></p><ul><li>Caching technology (Memcached, etc.)</li><li>Scaling strategies (heavy traffic or intensive tasks)</li><li>Browser Extension Development (Firefox, Chrome, IE)</li><li>System administration (Ubuntu)</li><li>Mobile Development (iPhone / Android / Blackberry)</li></ul><p>&nbsp;</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/rentjuice/oGdlrA"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120309001059_JLATK7DQLGJPIXDY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Account Executive]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://rentjuice.theresumator.com/apply/GEN0hM/Account-Executive.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94111]]></postalcode>
+			<description><![CDATA[<p>If you are a highly driven Sales professional and see yourself growing your career with a winning team, this might be the right opportunity for you!&nbsp; Zillow, a vibrant growth-oriented company, recently acquired RentJuice to drive growth on the rental side of the business.&nbsp; We are aggressively hiring new members to fly the Zillow flag and drive adoption of RentJuice&#39;s rental marketing tools. The role offers excellent earning potential, stock options and benefits, and a fun, exciting environment in a great downtown San Francisco location.<br />&nbsp;&nbsp;&nbsp;<br />Account Executives are relied upon to grow the volume of real estate companies sending their rental listings to Zillow (via the RentJuice platform) through smart outreach.&nbsp; The team is the centerpiece of our rental listing acquisition efforts, which is a prominent company-wide goal.</p><p>Success in this role means:</p><ul><li>Directly contributing to the growth of rental inventory on Zillow&rsquo;s industry leading residential real estate website</li><li>Taking a major US metropolitan area and becoming a local expert on all dynamics relating to residential rental transactions</li><li>Drive widespread adoption of cutting-edge marketing and management tools from RentJuice&rsquo;s rental platform</li><li>Clear understanding of the Zillow vision and how day-to-day activities move us closer to the overall goal of improving the consumer real estate experience</li><li>Being an enthusiastic, fun team player. Culture is hugely important to us.</li></ul><p>Responsibilities:</p><ul><li>Perform high volume of outreach to property managers, apartment complexes and other real estate companies active in rentals for a given territory to recruit them to join our rental network</li><li>Consult with with qualified prospects to establish feeds from their rental database into Zillow&rsquo;s industry leading consumer website</li><li>Drive adoption of the RentJuice suite of marketing tools through demonstrations and smart outreach</li><li>Track against monthly new account and listings quotas through strategic (and independent) pipeline management</li></ul><p>What we&rsquo;re looking for&nbsp;&nbsp;&nbsp;</p><ul><li>Top tier performers who consistently exceed expectations. Ideal candidate will not only lead in terms of new accounts, but will help shape outreach strategy based on feedback provided</li><li>Background in telesales, marketing or account management is desired but not required</li><li>Background in Real Estate is desired but not required</li><li>Salesforce.com experience highly preferred, as well as the ability to learn new technologies quickly</li><li>BA required</li></ul><p><strong>IF INTERESTED, EMAIL YOUR RESUME DIRECTLY TO THE FOLLOWING ADDRESS:</strong></p><p><strong>93128-CJB-0@zillow.hrmdirect.com</strong></p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/rentjuice/GEN0hM"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120614231944_X4PRBGXE17PDRPBT]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Social Media Manager]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[Marketing Team]]></team>
+			<url><![CDATA[http://rentjuice.theresumator.com/apply/YlV2lH/Social-Media-Manager.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94111]]></postalcode>
+			<description><![CDATA[<p>The RentJuice Marketing Team exists to increase the overall reach of our brand and generate qualified leads for our Inside Sales Team. When it comes to creating engaging online presences within the overall real estate community, our team turns to our Social Media Manager. The Social Media Manager is tasked with bringing measurable improvements to what is traditionally a very &quot;soft&quot; marketing channel. They&#39;re always setting new goals, developing the metrics to track our progress against them, and planning two steps ahead to make sure our growth never slows.</p><p><strong>Success in this role means:</strong></p><ul><li>Aggressively setting (and beating) monthly goals related to followers, likes, reach, virality, and leads</li><li>Creating dashboards and analytic reports for&nbsp;all goals, and proactively communicating all successes and failures to the rest of the team</li><li>Increasing our overall marketing reach, allowing RentJuice to reach more eyeballs each day</li><li>Staying one step ahead of our department&#39;s&nbsp;needs by proactively brainstorming new initiatives</li><li>Integrating social media into other marketing channels</li><li>Growing as a marketer, and developing the capacity to contribute to other areas of our business</li></ul><p><strong>Responsibilities:</strong></p><ul><li>Creating a social media plan that grows over time with specific&nbsp;monthly and annual goals</li><li>Testing additional advertising and growth opportunities within social media</li><li>Interacting with our community and referring any questions to the appropriate department</li><li>Creating metrics and reports as needed to analyze performance of initiatives</li><li>Coordinating social media publishing along with our short and long-term initiatives</li><li>Responsibilities will increase as our organization continues to scale</li></ul><p><strong>What we&#39;re looking for:</strong></p><ul><li>Digital natives with personal and professional experience&nbsp;on Twitter, LinkedIn, Facebook, and other portals</li><li>An understanding of&nbsp;Google Analytics, HubSpot, and other marketing analytics</li><li>A knowledge of social media, the blogosphere,&nbsp;and what makes for viral/compelling content</li><li>A track record of striving for continual personal and professional improvement</li><li>A general understanding of RentJuice&#39;s mission and software</li></ul>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/rentjuice/YlV2lH"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120621200757_96JGPXCEFUMBDIL4]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Salesforce.com Administrator]]></title>
+			<department><![CDATA[Operations]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://rentjuice.theresumator.com/apply/NvG6zy/Salesforcecom-Administrator.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94111]]></postalcode>
+			<description><![CDATA[<p>The RentJuice Marketing Team exists to increase the overall reach of our brand and generate qualified leads for our Inside Sales Team. To achieve these goals, we use Salesforce.com. They help us manage various types of data across all of our prospects, leads, and customers.</p><p>Within Salesforce, the Administrator will be responsible for keeping the data of the marketing, sales, and operations team as organized and correct as possible. They will also be responsible for working with the Engineering and Product teams to resolve bugs in the data, expand the depth and detail of data available, and keep the data current with new features as they are deployed.</p><p>As an incredibly data-driven organization, the SFDC Administrator is always creating new dashboards and reports that allow other departments to quickly track progress against their goals.</p><p><strong>Success in this role means:</strong></p><ul><li>Designing a system to hold all necessary customer and lead data in a scalable manner</li><li>Creating dashboards and analytic reports to help different departments track key metrics from our different databases</li><li>Discovering data inconsistencies and new ways to view it before they are needed/a problem</li><li>Keeping up with best practices for Salesforce&#39;s suites of tools and informing management of new capabilities</li></ul><p><strong>Responsibilities:</strong></p><ul><li>Running ongoing analyses and developing new&nbsp;metrics and analysis by&nbsp;distilling&nbsp;complex raw data into actionable KPIs</li><li>Assisting team members with creating new dashboards to track effectiveness of their efforts</li><li>Maintaining the accuracy and comprehensiveness of the data available to the Marketing, Sales, and Operations teams.</li><li>Responsibilities will increase as our organization continues to scale</li></ul><p><strong>What we&#39;re looking for:</strong></p><ul><li>Experience using Salesforce in an administrative capacity</li><li>Experience with MS Excel and SQL. Like. A. Boss.</li><li>An understanding of&nbsp;Google Analytics,&nbsp;and other general marketing analytics</li><li>Finance, consulting, or business analyst background highly sought</li><li>A track record of striving for continual personal and professional improvement</li><li>A general understanding of RentJuice&#39;s mission and software</li></ul>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/rentjuice/NvG6zy"></script>]]></buttons>
+		</job>
+	</jobs>

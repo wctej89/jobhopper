@@ -1,0 +1,306 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Fashiolista]]></company>
+			<job>
+			<id><![CDATA[job_20121129144127_O9P6J84IKZUFQM8Y]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[AWS Python sysadmin/developer]]></title>
+			<department><![CDATA[Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://fashiolista.theresumator.com/apply/iJaz3Y/AWS-Python-Sysadmindeveloper.html]]></url>
+			<city><![CDATA[Amsterdam]]></city>
+			<state><![CDATA[Noord-Holland]]></state>
+			<country><![CDATA[Netherlands]]></country>
+			<postalcode><![CDATA[1016DW]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Fashiolista</strong><br />
+Fashiolista is a worldwide community for fashion inspiration. Since our launch in spring 2010, Fashiolista has grown to become one of the leading fashion communities worldwide. With more than 1.5 million members in over 165 countries, we bring fashion inspiration across the globe. Fashiolista is funded by Atomico ventures and several high profile angel investors.</p>
+<p>
+The team at Fashiolista has a strong technology background and two of the three founders work on product development. The total development team consists of 8 talented people and each of them has a direct impact on the success of the company. We have worked hard to build an excellent development culture, and we encourage creativity and learning. Although we are a small team, we work fast, lean and are able to build amazing stuff together. Scaling a social network is one of the most challenging tasks for developers and devops. Because of the size and activity of the community, there are numerous challenging projects related to scaling and growth.</p>
+<p>
+Both devops and development at Fashiolista use Python and work closely together. You will be working in a team of experienced developers. We don&#39;t believe in silo&#39;s and development will help you automate systems, come up with simpler architectures and work with you if things hit their limits.</p>
+<p>
+<strong>Responsibilities</strong><br />
+You&#39;re core responsibility will be to look after and actively improve our infrastructure. Our infrastructure runs on AWS and is managed by Cloudformation, Puppet and Boto. It will be your responsibility to make improvements, optimizing for speed, maintainability and efficiency (costs). We love to automate, for instance using Puppet, to make everyone&#39;s life easier in the long run. You will also be responsible for putting in place the proper monitoring, logging and failovers for important components of our infrastructure. All of this takes place in an environment where growth in traffic and community size are a constant, so scaling challenges of all shapes and sizes come with the job.&nbsp;</p>
+<p>
+<strong>Responsibilities in short</strong></p>
+<ul>
+<li>
+Maintaining the Fashiolista application, infrastructure and development tools</li>
+<li>
+Automating using Python, Boto, Cloudformation and Puppet</li>
+<li>
+Monitoring for limits and slowdowns to identify issues before our users find out about them</li>
+<li>
+Identifying, planning and implementing improvements to the infrastructure, with a view to achieving an optimal cost/performance ratio</li>
+<li>
+Designing new systems in collaboration with the dev team</li>
+<li>
+Take part in a 24/7 on-call rota</li>
+</ul>
+<p>
+<strong>Who we are looking for</strong><br />
+We&rsquo;re looking for someone with strong analytical skills and focus on automation. You need to understand the full web stack and how the components fit together. Since Fashiolista is a large fast and fast growing community, we appreciate hands-ons experience with scaling web and database systems. In addition experience with Django or another Python framework is a big plus.</p>
+<p>
+<em>Core skills</em></p>
+<ul>
+<li>
+Python coding skills</li>
+<li>
+Experience running applications on AWS</li>
+<li>
+Ubuntu/Linux system administration</li>
+<li>
+PostgreSQL (streaming replication, hot-standby cluster, SQL optimization)</li>
+<li>
+Puppet</li>
+</ul>
+<p>
+<em>Bonus points for experience with:</em></p>
+<ul>
+<li>
+Cloudformation</li>
+<li>
+Redis</li>
+<li>
+SOLR</li>
+<li>
+RabbitMQ</li>
+<li>
+Celery</li>
+<li>
+Vagrant</li>
+<li>
+Monitoring (Nagios, Munin, Cacti, DataDog, Newrelic)</li>
+<li>
+Centralized logging, Syslog, Rsyslog, Splunk, PaperTrail</li>
+<li>
+CS degree</li>
+</ul>
+<p>
+For this position you need to be willing to work in The Netherlands/Amsterdam. Furthermore the position is full time.</p>
+<p>
+<strong>To conclude</strong><br />
+We are looking for someone with a positive work attitude and continuous drive to learn &amp; improve. It doesn&#39;t matter if you are a cum laude graduate, or university drop out, as long as you&rsquo;re extremely passionate about what you do. You will be working in a start-up and we expect your input on a wide range of challenges.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/fashiolista/iJaz3Y"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121217145645_28DARAWS8VIQRSNJ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Internship - Fashion, Branding & Communication]]></title>
+			<department><![CDATA[Branding & Communication]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://fashiolista.theresumator.com/apply/GiPGkG/Internship-Fashion-Branding-Communication.html]]></url>
+			<city><![CDATA[Amsterdam]]></city>
+			<state><![CDATA[Noord-Holland]]></state>
+			<country><![CDATA[Netherlands]]></country>
+			<postalcode><![CDATA[1015TJ]]></postalcode>
+			<description><![CDATA[<p>
+Fashiolista.com is an exciting online fashion community with over 1.5 million users from all over the world. Our platform was launched in Spring 2010 and from our HQ <strong>in Amsterdam</strong> we work with a dedicated team to spread our love for fashion.</p>
+<p>
+Fashiolista is scouting for <strong>fashionable interns</strong> to support us with <strong>social media</strong>, <strong>branding</strong> and&nbsp;<strong>overall&nbsp;communication</strong>.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>We are looking for someone who:</strong></p>
+<ul>
+<li>
+loves Fashiolista.com</li>
+<li>
+eats, sleeps and breathes fashion</li>
+<li>
+reads fashion blogs</li>
+<li>
+radiates positive energy</li>
+<li>
+gets things done. Regardless.</li>
+<li>
+speaks &amp; writes English exceptionally well</li>
+<li>
+has a background in communication and/or branding</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>We will be extremely excited if you also:</strong></p>
+<ul>
+<li>
+have a blog</li>
+<li>
+use Twitter, Facebook, Tumblr, Pinterest or Instagram</li>
+<li>
+love online fashion shopping</li>
+<li>
+speak Portuguese,&nbsp; Spanish or French</li>
+<li>
+are a native English speaker</li>
+<li>
+have good Photoshop and/or InDesign skills</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>What will you be doing @ Fashiolista HQ?</strong><br />
+You will help with PR, social media, community interaction and meet ups.&nbsp; You will communicate with fashion bloggers, update our Twitter, Facebook and other social media&nbsp; accounts. Social media is critical for us, so we take these things very seriously. You will help us in communicating with the Fashiolista community. You&rsquo;ll be receiving their feedback and will be answering their questions. You&rsquo;ll help us organize events and meet ups for fashion bloggers, industry experts and Fashiolista members from Amsterdam, all the way to London, Rio and NYC.</p>
+<p>
+<br />
+You&rsquo;ll do a ton of other stuff that you (and we) can&rsquo;t even imagine right now. Consider that a perk of working for a young start-up company.</p>
+<p>
+This internship gives you the opportunity to do amazing things with a group of awesome people. Interested? Send us your application including r&eacute;sum&eacute;.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/fashiolista/GiPGkG"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130315130016_GM6HJHO56SKYLS8J]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Marketing, Sales, Campaign execution intern Fashiolista (online fashion community)]]></title>
+			<department><![CDATA[Marketing + Sales]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://fashiolista.theresumator.com/apply/HjAvdd/Marketing-Sales-Campaign-Execution-Intern-Fashiolista-online-Fashion-Community.html]]></url>
+			<city><![CDATA[Amsterdam]]></city>
+			<state><![CDATA[N.Holland]]></state>
+			<country><![CDATA[Netherlands]]></country>
+			<postalcode><![CDATA[1016DW]]></postalcode>
+			<description><![CDATA[<p>
+Fashiolista<br />
+Fashiolista is a worldwide community for fashion inspiration. Since our launch in spring 2010, Fashiolista has grown to become one of the leading fashion communities worldwide. With more than 1.6 million members in over 165 countries, we bring fashion inspiration across the globe.</p>
+<p>
+Responsibilities<br />
+You will support our Brand Relations team in collaborations with some of best brands in the fashion industry. You will help execute campaigns tailored to specific clients, brainstorm for new ideas, design campaign images, reach out to new potential brands.&nbsp;</p>
+<p>
+In this position you will be able to work on projects with some of the most fashionable brands worldwide, building your personal portfolio. You will improve your design skills under experienced supervision and have a great time with a young enthusiastic team.</p>
+<p>
+<br />
+We are looking for someone who:</p>
+<p>
+Loves fashion &amp; design.<br />
+Is currently enrolled in (or has completed) a design related education.<br />
+Is vskilled using graphic design software like Photoshop.<br />
+Is able te make great creative designs.<br />
+Radiates positive energy.<br />
+Gets things done under tight deadlines.<br />
+Speaks &amp; writes English well.<br />
+<br />
+We will be extremely excited if you also:</p>
+<p>
+Have a blog / read fashion blogs.<br />
+Use Twitter, Facebook, Tumblr, Pinterest or Instagram.<br />
+Love online fashion shopping.<br />
+<strong>You&#39;ll need to work from our HQ in Amsterdam, the Netherlands!</strong></p>
+<p>
+Period: 4-6 months &nbsp;- start date: as soon as possible</p>
+<p>
+This internship gives you the opportunity to do amazing things with a group of awesom people. Interested? Apply right here by sending us your CV, motivation letter and portfolio.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/fashiolista/HjAvdd"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130625080600_GI0A1MT5SN1XSSTH]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Marketing Internship Fashiolista]]></title>
+			<department><![CDATA[Brand Relations]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://fashiolista.theresumator.com/apply/XquSo1/Marketing-Internship-Fashiolista.html]]></url>
+			<city><![CDATA[Amsterdam]]></city>
+			<state><![CDATA[Amsterdam]]></state>
+			<country><![CDATA[Netherlands]]></country>
+			<postalcode><![CDATA[1015TJ]]></postalcode>
+			<description><![CDATA[<p>
+Fashiolista<br />
+Fashiolista is a worldwide community for fashion inspiration. Since our launch in spring 2010, Fashiolista has grown to become one of the leading fashion communities worldwide. With more than 1.6 million members in over 165 countries, we bring fashion inspiration across the globe.</p>
+<p>
+Responsibilities<br />
+You will support our Brand Relations team in collaborations with some of best brands in the fashion industry. You will help execute campaigns tailored to specific clients, brainstorm for new ideas, design campaign images, reach out to new potential brands.</p>
+<p>
+In this position you will be able to work on projects with some of the most fashionable brands worldwide, building your personal portfolio. You will improve your design skills under experienced supervision and have a great time with a young enthusiastic team.</p>
+<p>
+<br />
+We are looking for someone who:</p>
+<p>
+Loves fashion &amp; design.<br />
+Is currently enrolled in (or has completed) a design related education.<br />
+Is vskilled using graphic design software like Photoshop.<br />
+Is able te make great creative designs.<br />
+Radiates positive energy.<br />
+Gets things done under tight deadlines.<br />
+Speaks &amp; writes English well.</p>
+<p>
+We will be extremely excited if you also:</p>
+<p>
+Have a blog / read fashion blogs.<br />
+Use Twitter, Facebook, Tumblr, Pinterest or Instagram.<br />
+Love online fashion shopping.<br />
+You&#39;ll need to work from our HQ in Amsterdam, the Netherlands!</p>
+<p>
+Period: 4-6 months&nbsp; - start date: as soon as possible</p>
+<p>
+This internship gives you the opportunity to do amazing things with a group of awesom people. Interested? Apply right here by sending us your CV, motivation letter and portfolio.</p>
+]]></description>
+			<type><![CDATA[Internship]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/fashiolista/XquSo1"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130701140721_CRS4BMMAPSLYSJEV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Manager Brand Development (Traineeship)]]></title>
+			<department><![CDATA[Marketing & Online Media]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://fashiolista.theresumator.com/apply/ZQOzbs/Manager-Brand-Development-Traineeship.html]]></url>
+			<city><![CDATA[Amsterdam]]></city>
+			<state><![CDATA[Noord Holland]]></state>
+			<country><![CDATA[Netherlands]]></country>
+			<postalcode><![CDATA[1015TJ]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Fashiolista</strong></p>
+<p>
+Fashiolista is a worldwide community for fashion inspiration. Since our launch in spring 2010, Fashiolista has grown to become one of the leading fashion communities worldwide. With more than 1.6 million members in over 165 countries, we bring fashion inspiration across the globe.</p>
+<p>
+<strong>Responsibilities</strong><br />
+You&#39;ll be part of a strong multi-disciplinary team of online professionals. As a manager of the Brand Development department it will be your responsibility to plan and coordinate strategic partnerships with online influencers. These partnerships are a must to keep the Fashiolista brand develop into the right audience, which are the key influencers online. In this position you will be responsible creating and developing creative integrated digital campaigns and various creative collaborations between Fashiolista, brands and other 3rd parties. You will work closely with the Brand Relations team to make all run smoothly, and create tailor-made concepts for brands that generate online exposure. You will be in the lead of the Friends of Fashiolista influencer network, to find new and effective ways to drive relevant traffic towards influencers. As well as vice versa, to make the community grow.</p>
+<p>
+Daily tasks:<br />
+- Keeping direct contact with international fashion bloggers and other online influencers.<br />
+- Plan and coordinate creative collaborations online.<br />
+- Create and execute online marketing campaigns between Fashiolista and brands like MANGO, Nike, Philips, Sony, Shopbop, COS and many more. All in teamwork with the Sales team of Fashiolista.<br />
+- Travel to various fashion weeks and events over the globe to keep in close contact with influencers, brands and everything else fashion related.</p>
+<p>
+The position is a full-time traineeship, joining the 20+ team in our Amsterdam office, located on the canals. You need to be located in Netherlands (preferebly Amsterdam area) to apply for this position.</p>
+<br />
+<p>
+<strong>Desired Skills &amp; Experience</strong></p>
+<ul>
+<li>
+In depth understanding of the online fashion world.</li>
+<li>
+Strong attention to detail, organized and good project management skills.</li>
+<li>
+Interested and/or experienced within the world of fashion bloggers, influencers and social networks.</li>
+<li>
+Excellent communication skills, creative thinker, immune to stress and a team player.</li>
+<li>
+Very strong English language skills, other languages are a plus.</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Why you will love working at Fashiolista</strong><br />
+&bull; Young team, startup culture<br />
+&bull; Fast growing, many opportunities to develop and learn<br />
+&bull; High level of independence to build your own success, entrepreneurial spirit</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/fashiolista/ZQOzbs"></script>]]></buttons>
+		</job>
+	</jobs>

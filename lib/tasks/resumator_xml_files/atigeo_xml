@@ -1,0 +1,272 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Atigeo]]></company>
+			<job>
+			<id><![CDATA[job_20120422020127_DPDKA9ND6MOLRZGF]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Software Engineer - Machine Learning]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://atigeo.theresumator.com/apply/6qvXVT/Senior-Software-Engineer-Machine-Learning.html]]></url>
+			<city><![CDATA[Bellevue]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98004]]></postalcode>
+			<description><![CDATA[<p><strong>POSITION SUMMARY</strong></p><p>If you are you passionate about building consumer-centric products leveraging cutting-edge science and technology, and you enjoy&nbsp;building web-based services that require scaling a nascent technology to high volume and high reliability, Atigeo is the place for you!<br />Have you worked as a key player and thought-leader in agile engineering teams spread across continents? We are looking to add a&nbsp;seasoned, highly-motivated Software Engineer to our core platform architecture and engineering team, working on a novel learning&nbsp;real-time relevance engine.</p><p><strong>DUTIES AND RESPONSIBILITIES</strong></p><ul><li>Develop scalable systems that robustly implement machine learning algorithms to process large volumes of unstructured data in real time</li><li>Apply a deep keenness to understand the science behind the technology to further the successful application of the science</li><li>Provide thought leadership to the company for software design, algorithm design, and implementation of critical systems</li><li>Participate in and help improve key processes including software requirements, software design, code review, and testing</li><li>Stay abreast of technology trends, inform the organization on the emerging software and hardware technologies, and lead discussions about incorporating new technology that could impact Atigeo&rsquo;s roadmap</li></ul><p><strong>EXPERIENCE AND SKILLS</strong></p><ul><li>5+ years as a software engineer, including&nbsp; major contributions to complex projects, preferably in&nbsp;both established and early-stage technology companies</li><li>Strong computer science fundamentals</li><li>Strong commitment to software development best practices and code quality</li><li>Very strong coding skills in an object-oriented language such as Java or C#</li><li>Proven experience building machine learning and NLP based applications</li><li>Experience refining relevance / classification / clustering solutions through experimentation</li><li>Experience building context-aware search / relevance applications is a big plus</li><li>Experience with Apache stack (e.g. Hadoop, Cassandra, Lucene) a big plus</li><li>Experience with High-Performance Computing and/or Big Data architecturess a plus</li><li>Strong design and data modeling skills</li><li>Proven ability to work in a startup-like environment with little supervision</li><li>Initiative and creativity</li><li>Demonstrated history of passion for tracking emerging technology trends</li></ul><p><strong>COMPANY BACKGROUND</strong></p><p>Our unique semantic platform, xPatterns&trade;, facilitates the intelligent discovery of knowledge from large disparate sources of&nbsp;dynamically changing, structured, and unstructured data. Third party applications can easily be deployed on xPatterns through webservices to immediately enrich data insight through the self-discovery of patterns and concepts in real-time. xPatterns enables a&nbsp;trust model the enterprise may extend to their users, providing each user the ability to privately manage their data, and&nbsp;automatically leverage offline information to provide unprecedented experiences and benefits. xPatterns is enabling&nbsp;telecommunication providers, healthcare providers, government organizations and retailers to leverage new insights in real-time,<br />For more information, visit: www.atigeo.com.<br />&nbsp;</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/atigeo/6qvXVT"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120420174456_BJ1OPOQULDJGXGTV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Software Engineer - Big Data]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://atigeo.theresumator.com/apply/j0hzk7/Senior-Software-Engineer-Big-Data.html]]></url>
+			<city><![CDATA[Bellevue]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98004]]></postalcode>
+			<description><![CDATA[<p><strong>POSITION SUMMARY</strong></p><p>If you are you passionate about building consumer-centric products leveraging cutting-edge science and technology, and you enjoy&nbsp;building web-based services that require scaling a nascent technology to high volume and high reliability, Atigeo is the place for you!<br />Have you worked as a key player and thought-leader in agile engineering teams spread across continents? We are looking to add a&nbsp;seasoned, highly-motivated Software Engineer to our core platform architecture and engineering team, working on a novel learning&nbsp;real-time relevance engine.</p><p><strong>DUTIES AND RESPONSIBILITIES</strong></p><ul><li>Develop scalable systems that robustly implement machine learning algorithms to process large volumes of unstructured data in real time</li><li>Apply a deep keenness to understand the science behind the technology to further the successful application of the science</li><li>Provide thought leadership to the company for software design, algorithm design, and implementation of critical systems</li><li>Participate in and help improve key processes including software requirements, software design, code review, and testing</li><li>Stay abreast of technology trends, inform the organization on the emerging software and hardware technologies, and lead discussions about incorporating new technology that could impact Atigeo&rsquo;s roadmap</li></ul><p><strong>EXPERIENCE AND SKILLS</strong></p><ul><li>5+ years as a software engineer, including&nbsp; major contributions to complex projects, preferably in&nbsp;both established and early-stage technology companies</li><li>Strong computer science fundamentals</li><li>Strong commitment to software development best practices and code quality</li><li>Very strong coding skills in an object-oriented language such as Java or C#</li><li>Experience with Apache stack (e.g. Hadoop, Cassandra, Lucene) a big plus</li><li>NoSQL (Cassandra, HBase, MongoDB, etc.) experience a plus</li><li>Lucene and/or Mahout experience a plus</li><li>Strong design and data modeling skills</li><li>Familiarity with NLP, text mining and machine learning algorithms &ndash; a big plus</li><li>Proven ability to work in a startup-like environment with little supervision</li><li>Initiative and creativity</li><li>Demonstrated history of passion for tracking emerging technology trends</li></ul><p><strong>COMPANY BACKGROUND</strong></p><p>Our unique semantic platform, xPatterns&trade;, facilitates the intelligent discovery of knowledge from large disparate sources of&nbsp;dynamically changing, structured, and unstructured data. Third party applications can easily be deployed on xPatterns through webservices to immediately enrich data insight through the self-discovery of patterns and concepts in real-time. xPatterns enables a&nbsp;trust model the enterprise may extend to their users, providing each user the ability to privately manage their data, and&nbsp;automatically leverage offline information to provide unprecedented experiences and benefits. xPatterns is enabling&nbsp;telecommunication providers, healthcare providers, government organizations and retailers to leverage new insights in real-time,<br />For more information, visit: www.atigeo.com.<br />&nbsp;</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/atigeo/j0hzk7"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120422053131_QOCC0XH7YKITQOY1]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Principal Lead, Software Development]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://atigeo.theresumator.com/apply/48Y9W3/Principal-Lead-Software-Development.html]]></url>
+			<city><![CDATA[Bellevue]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98004]]></postalcode>
+			<description><![CDATA[<p><strong>POSITION SUMMARY</strong></p><p>We are looking for a rockstar software development manager, to lead the team that&#39;s building our flagship product for the healthcare space. The successful candidate will combine superb hands-on technical skills - mastery of the open-source big data stack, building web-scale distributed systems and productizing cutting-edge science - with superb leadership skills - growing the engineers on the team, instilling best practices and accelerating the team&#39;s delivery and quality. If you are passionate about applying your talent by taking bleeding-edge technology to market, with a product that can improve the life of millions, Atigeo is the right opportunity for you.</p><p><strong>DUTIES AND RESPONSIBILITIES</strong></p><ul><li>Directly manage a team of software engineers, including mentoring and performance management</li><li>Own end-to-end, timely &amp; high quality&nbsp;delivery of the team&#39;s&nbsp;projects</li><li>Contribute directly as a hands-on software developer, including coding, code reviews, test reviews and deployment</li><li>Research, prototype, implement and evaluate new analytics algorithms</li><li>Troubleshoot &amp; resolve production issues</li><li>Run a successful Scrum process, collaborating with program &amp; product management</li><li>Drive architecture discussions and decisions</li><li>Drive continuous improvement of&nbsp;the&nbsp;agile software development process</li><li>Stay abreast of technology trends and contribute to developing the technology roadmap</li><li>Provide thought leadership to the company on software design, architecture and software development process</li></ul><p><strong>EXPERIENCE AND SKILLS</strong></p><ul><li>8+ years as a software engineer, including&nbsp; major contributions to complex projects, preferably in&nbsp;both established and early-stage technology companies</li><li>3+ years as a people manager in a software development organization</li><li>Experience implementing large-scale distributed systems and dealing with large datasets</li><li>Strong computer science fundamentals (MS/PhD in computer science or equivalent experience)</li><li>Experience recruiting, mentoring and growing world-class software engineering</li><li>Experience delivering multiple production releases with a successful Scrum / XP / Kanban process</li><li>Experience with the Linux environment and with open-source&nbsp;Java &amp; Apache&nbsp;technology stack</li><li>Familiarity with big data &amp; distributed computing architectures such as Map/Reduce, NoSQL, etc.</li><li>Working knowledge of text analytics, natural language processing, machine learning</li><li>Strong commitment to quality and engineering excellence</li><li>Driven, able&nbsp;to set own goals and work with little supervision</li><li>Experience with cloud-hosted systems (e.g. AWS, Azure) a plus</li><li>NoSQL (Cassandra, HBase, MongoDB, etc.) experience a plus</li><li>Startup experience a plus</li><li>Demonstrated history of passion for tracking emerging technology trends</li></ul><p><strong>COMPANY BACKGROUND</strong></p><p>Our unique semantic platform, xPatterns&trade;, facilitates the intelligent discovery of knowledge from large disparate sources of&nbsp;dynamically changing, structured, and unstructured data. Third party applications can easily be deployed on xPatterns through webservices to immediately enrich data insight through the self-discovery of patterns and concepts in real-time. xPatterns enables a&nbsp;trust model the enterprise may extend to their users, providing each user the ability to privately manage their data, and&nbsp;automatically leverage offline information to provide unprecedented experiences and benefits. xPatterns is enabling&nbsp;telecommunication providers, healthcare providers, government organizations and retailers to leverage new insights in real-time,<br />For more information, visit: www.atigeo.com.<br />&nbsp;</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/atigeo/48Y9W3"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120422060405_QCPUQZHUNU5Y4QU2]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Product Manager]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://atigeo.theresumator.com/apply/Jcofo8/Senior-Product-Manager.html]]></url>
+			<city><![CDATA[Bellevue]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98004]]></postalcode>
+			<description><![CDATA[<p>
+<strong>POSITION SUMMARY</strong></p>
+<p>
+We are looking for a rockstar product manager, who is passionate about leveraging their talents of strategic planning, business plan development and product design, in order to take our xPatterns platform to the next level. As we are facing more opportunity than we can handle to apply the platform, and also fast strategic movements in the market - on big data, enterprise search, knowledge management and semantic discovery - we are looking for someone who can play both a strategist and a tactical team player, to ensure we make the most of the fantastic opportunities in front of us.</p>
+<p>
+<strong>DUTIES AND RESPONSIBILITIES</strong></p>
+<ul>
+<li>
+Driving the product portfolio to meet the needs of the market.</li>
+<li>
+Responsible for strategy and execution of the product roadmap&nbsp;and new product introductions</li>
+<li>
+Produce and continuously evolve business plans, including revenue projects and margin targets</li>
+<li>
+Coordinate&nbsp;product strategy, business plans and&nbsp;roadmap across a cross-functional organization, including marketing, sales, operations, engineering, and services teams, while ensuring compliance with quality systems and regulatory requirements.</li>
+<li>
+Direct the engineering teams on the direction and prioritization of projects and features</li>
+<li>
+Collaborate closely with the marketing and business development teams on prioritizing market opportunities, customer specific opportunities and go-to-market plans</li>
+<li>
+Work with enterprise customers on long term product roadmaps, requirements, and business plans.</li>
+<li>
+Establish tradeoffs between internal development and business partnership activities with strategic partners&ndash; including contract negotiations and maintenance, product changes, forecasting &amp; financials</li>
+<li>
+Conduct market &amp; product research to further understand the competitive profile for the segment</li>
+<li>
+Ensure customer focus by communicating and building rapport with customers as required and ensuring the &ldquo;voice of the customer&rdquo; is reflected in work processes</li>
+<li>
+Champion continuous improvement of our market research, product planning &amp; product management processes</li>
+</ul>
+<p>
+<strong>EXPERIENCE AND SKILLS</strong></p>
+<ul>
+<li>
+7+ years experience in&nbsp;product management or related role, in the online service or enterprise services space</li>
+<li>
+Strong domain expertise and deep understanding of the competitive landscape in the areas of enterprise search, recommendations, knowledge management or&nbsp;semantic discovery</li>
+<li>
+Proven experience building business plans and providng strategic planning, in these or related domains</li>
+<li>
+Proven experience partnering with an engineering organization to direct product development</li>
+<li>
+Experience designing products or services within&nbsp;a&nbsp;complex technological ecosystem, including finding and building partnerships and adding value to different &amp; competing players</li>
+<li>
+Experience working across multiple levels (including executive level), functions and regions; able to clearly communicate complex financial information in a easy to understand manner; able to deliver message effectively verbally and in writing</li>
+<li>
+Deep Product Management expertise, including: Market research, New product introductions, product roadmap development and&nbsp;product life-cycle management</li>
+<li>
+Leadership skills to lead teams and shape/lead growth vision and marketing strategy</li>
+<li>
+Innovation &ndash; develop new ideas through collaboration and execute on creative ideas</li>
+<li>
+Team oriented &ndash; ability to motivate and work well with diverse, cross-functional teams</li>
+<li>
+Proven ability to work as part of a globally distributed organization</li>
+<li>
+Proven ability to influence and negotiate internally and with customers</li>
+</ul>
+<p>
+<strong>COMPANY BACKGROUND</strong></p>
+<p>
+Our unique semantic platform, xPatterns&trade;, facilitates the intelligent discovery of knowledge from large disparate sources of dynamically changing, structured, and unstructured data. Third party applications can easily be deployed on xPatterns through webservices to immediately enrich data insight through the self-discovery of patterns and concepts in real-time. xPatterns enables a trust model the enterprise may extend to their users, providing each user the ability to privately manage their data, and automatically leverage offline information to provide unprecedented experiences and benefits. xPatterns is enabling telecommunication providers, healthcare providers, government organizations and retailers to leverage new insights in real-time,<br />
+For more information, visit: www.atigeo.com.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/atigeo/Jcofo8"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121116200838_XP1NSYO4CFKHNKL6]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://atigeo.theresumator.com/apply/PIJcMQ/Web-Developer.html]]></url>
+			<city><![CDATA[Timisoara]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Romania]]></country>
+			<postalcode><![CDATA[300222]]></postalcode>
+			<description><![CDATA[<p>
+<strong>POSITION SUMMARY</strong></p>
+<p>
+Are you passionate about building consumer centric products leveraging big science and technology? Do you have a unique ability to turn rapidly evolving business requirements into rapid designs and prototypes and then crystallize them into solid, scalable and secure solutions? If you are interested in leveraging your creative engineering experience, this is the place for you.</p>
+<p>
+Successful candidates will be fast learners with a high energy level who can roll up their sleeves and feel comfortable in a fast-paced start-up-like environment.</p>
+<br />
+<p>
+<strong>DUTIES AND RESPONSIBILITIES</strong></p>
+<p>
+o Develop software modules that robustly implement web front end applications and restful web services that scale to high throughput rates and process large volumes of unstructured data in real-time<br />
+o Develop Unit Tests, assuring a high level of quality<br />
+o Be willing to learn new technologies</p>
+<p>
+<strong>EXPERIENCE AND SKILLS</strong></p>
+<p>
+o Bachelor degree in Computer Science, Information Systems or a related field<br />
+o 2+ years experience as a Software Engineer in Web application development<br />
+o Hands on experience with client-side JavaScript, html and css<br />
+o Experience with one JavaScript library (Mootools, jQuery etc) is a plus<br />
+o Server-side technology experience (at least one of asp.net, jsp, php etc)<br />
+o Experience with Spring MVC, Java and Tomcat are a plus<br />
+o Understanding of REST principles as well as the MVC patterns and a framework (ASP.NET MVC, Spring MVC, Struts etc) is a plus<br />
+o Good coding and design skills, strong knowledge of algorithms and data structures</p>
+<p>
+<strong>COMPANY BACKGROUND</strong></p>
+<p>
+Atigeo is a compassionate technology company turning science into products and services for a wiser planet. Our unique semantic platform, xPatterns&trade;, facilitates the intelligent discovery of knowledge from large disparate sources of dynamically changing, structured, and unstructured data. Third party applications can easily be deployed on xPatterns through web-services to immediately enrich data insight through the self-discovery of patterns and concepts in real-time. xPatterns enables a trust model the enterprise may extend to their users, providing each user the ability to privately manage their data, and automatically leverage offline information to provide unprecedented experiences and benefits. xPatterns is enabling telecommunication providers, healthcare providers, government organizations and retailers to leverage new insights in real-time, derived from data that has been traditionally difficult to link and expensive to maintain. xPatterns software can be delivered as Software-as-a-Service or Appliance-based. For more information, visit: www.atigeo.com.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/atigeo/PIJcMQ"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121116200500_DX6TL0YMWINXPAHL]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer - Java]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://atigeo.theresumator.com/apply/NvF9YZ/Software-Engineer-Java.html]]></url>
+			<city><![CDATA[Timisoara]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Romania]]></country>
+			<postalcode><![CDATA[300222]]></postalcode>
+			<description><![CDATA[<p>
+<strong>POSITION SUMMARY</strong></p>
+<p>
+Are you passionate about building consumer centric products leveraging big science and technology? Do you have a unique ability to turn rapidly evolving business requirements into rapid designs and prototypes and then crystallize them into solid, scalable and secure solutions? If you are interested in leveraging your creative engineering experience, this is the place for you.</p>
+<p>
+Successful candidates will be fast learners with a high energy level who can roll up their sleeves and feel comfortable in a fast-paced start-up-like environment.</p>
+<p>
+<strong>DUTIES AND RESPONSIBILITIES</strong></p>
+<p>
+o Develop software modules that robustly implement machine learning algorithms to process large volumes of unstructured data in real-time<br />
+o Develop UnitTests for your own code, assuring a high level of quality<br />
+o Be willing to learn new technologies</p>
+<p>
+<br />
+<strong>EXPERIENCE AND SKILLS</strong></p>
+<p>
+o Bachelor degree in Computer Science, Information Systems or a related field<br />
+o 4+ years experience as a Software Engineer<br />
+o Experience with the Java, Linux, Apache software stack (experience with SpringMVC-DI-AOP/Cassandra/Hadoop/Zookeeper/ Lucene/Solr a plus)o Experience with client-side and server-side web technologies (JSP, Spring MVC) a plus</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>COMPANY BACKGROUND</strong></p>
+<p>
+Atigeo is a compassionate technology company turning science into products and services for a wiser planet. Our unique semantic platform, xPatterns&trade;, facilitates the intelligent discovery of knowledge from large disparate sources of dynamically changing, structured, and unstructured data. Third party applications can easily be deployed on xPatterns through web-services to immediately enrich data insight through the self-discovery of patterns and concepts in real-time. xPatterns enables a trust model the enterprise may extend to their users, providing each user the ability to privately manage their data, and automatically leverage offline information to provide unprecedented experiences and benefits. xPatterns is enabling telecommunication providers, healthcare providers, government organizations and retailers to leverage new insights in real-time, derived from data that has been traditionally difficult to link and expensive to maintain. xPatterns software can be delivered as Software-as-a-Service or Appliance-based. For more information, visit: www.atigeo.com.</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/atigeo/NvF9YZ"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130627012225_L737WJ3UAEQ5BHIN]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Operations Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Engineering - Bellevue]]></team>
+			<url><![CDATA[http://atigeo.theresumator.com/apply/LH5r7V/Software-Operations-Engineer.html]]></url>
+			<city><![CDATA[Bellevue]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98004]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Overview</strong></p>
+<p>
+We&rsquo;re seeking a highly motivated DevOps engineer who will manage server and application infrastructure on the AWS platform and our on-premise server infrastructure, including developing tools for configuration management, code deployment, continuous integration, automated testing and monitoring. You will need strong skills in implementing and managing high availability, mission critical infrastructure, and should be a dedicated problem solver who can multi-task and prioritize tasks in a fast-paced and demanding environment. The ideal candidate will have experience in both system engineering /administration and software development, with a focus on building back-end systems like monitoring, automation and management tools.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<p>
+&bull; Build and maintain tools that will help us test, deploy, measure, monitor and scale our applications and infrastructure<br />
+&bull; Oversee and perform server and application deployment including release management<br />
+&bull; Help to continuously improve our processes and tools to ensure the best possible experience for our users, from availability to performance and reliability<br />
+&bull; Monitor and maintain our systems, including being part of a 12x7 on-call rotation and escalation path<br />
+&bull; Collaborate with other engineers to to optimize application and infrastructure for performance, reliability, failover, and scale</p>
+<p>
+<strong>Experience</strong></p>
+<p>
+&bull; Experience using and managing Java/J2EE and Linux based servers.<br />
+&bull; Experience with version control systems such as subversion.<br />
+&bull; Experience with cloud based deployments. Production experience with AWS systems is a big plus<br />
+&bull; Experience with the design and deployment of large-scale infrastructure projects a big plus<br />
+&bull; 3+ years of experience supporting a real-time, 24x7 production web environment.<br />
+&bull; 3+ years of Linux administration experience.<br />
+&bull; Experience with RDBMS systems (PostgreSQL, MySQL etc)<br />
+&bull; Experience with NoSQL systems (Cassandra, HBase, etc.)<br />
+&bull; Experience using configuration management systems (Chef, Puppet, CFEngine, etc.)<br />
+&bull; Experience with Monitoring systems like Nagios etc.</p>
+<p>
+<strong>Skills</strong></p>
+<p>
+&bull; Strong written and verbal communication skills; ability to organize and prioritize tasks.<br />
+&bull; Proficiency with one or more scripting languages: shell, Perl, Python, Ruby, or equivalent.<br />
+&bull; Comfortable in a start-up environment where innovation and change are the norm.<br />
+&bull; Education<br />
+&bull; BA/BS in Engineering or Computer Science highly preferred, other degrees considered when accompanied by appropriate technical aptitude</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/atigeo/LH5r7V"></script>]]></buttons>
+		</job>
+	</jobs>

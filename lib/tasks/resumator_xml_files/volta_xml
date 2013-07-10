@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Volta, Inc]]></company>
+			<job>
+			<id><![CDATA[job_20110613192434_GUNVFIRILGQF6MBZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer - Ruby On Rails]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://volta.theresumator.com/apply/DuLE8d/Software-Engineer-Ruby-On-Rails.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94040]]></postalcode>
+			<description><![CDATA[<p>
+	Volta an A/B testing framework for live, outbound phone calls. Our goal is to help businesses make more money by becoming more efficient with their outbound phone strategy. We are a small (tiny) team seeking a Ruby/Rails engineer. If working from 500 Startups with tons of awesome companies sounds exciting, keep reading and send your resume ASAP.</p>
+<p>
+	<strong>Here are some quick position bullets:</strong></p>
+<ul>
+	<li>
+		Minimum 2 years Rails experience</li>
+	<li>
+		Generalist - front/back/admin/etc</li>
+	<li>
+		Ruby+Rails/Twilio/Highcharts/HTML5/CSS/Javascript</li>
+	<li>
+		Test and analyze everything</li>
+	<li>
+		You must LOVE to work FAST</li>
+	<li>
+		Previous telephony/twilio/analytics experience a huge plus but not necessary</li>
+</ul>
+<p>
+	<strong>Here are some sample projects that you&#39;ll be working on:</strong></p>
+<ul>
+	<li>
+		Build an API so that companies can trigger/route phone calls from within their existing software</li>
+	<li>
+		Build plugins for popular support, CRM, and ecommerce applications</li>
+	<li>
+		Build beautiful graphs/charts with highcharts</li>
+</ul>
+<p>
+	<strong>Here are some quick culture bullets:</strong></p>
+<ul>
+	<li>
+		Work in downtown Mountain View in the 500 Startups crib</li>
+	<li>
+		Awesome 360 degree views from the 12th floor</li>
+	<li>
+		Dozens of awesome companies/engineers/hackers share the space</li>
+	<li>
+		The vibe/buzz here is incredible</li>
+	<li>
+		Free lunch every day</li>
+</ul>
+<p>
+	<strong>Here are some quick Volta bullets:</strong></p>
+<ul>
+	<li>
+		Presented at Jason Calacanis&#39; &quot;Launch&quot; conference and won &quot;Best Business Model&quot;</li>
+	<li>
+		Winner of The Twilio&nbsp;Fund</li>
+	<li>
+		500 Startups (Dave McClure) accelerator company for summer 2011</li>
+</ul>
+<p>
+	This is a contract position for 60 days. Come have fun in sunny Mountain View this summer!<br />
+	&nbsp;</p>
+]]></description>
+			<type><![CDATA[Contracted to Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/volta/DuLE8d"></script>]]></buttons>
+		</job>
+	</jobs>

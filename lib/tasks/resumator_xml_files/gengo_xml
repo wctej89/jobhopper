@@ -1,0 +1,519 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Gengo]]></company>
+			<job>
+			<id><![CDATA[job_20120928015222_IJFWGOSIJS0ANIQV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Full Stack Web Application Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://gengo.theresumator.com/apply/ct8BIX/Full-Stack-Web-Application-Engineer.html]]></url>
+			<city><![CDATA[Tokyo]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Japan]]></country>
+			<postalcode><![CDATA[151-0051]]></postalcode>
+			<description><![CDATA[<p>
+<strong>You: </strong>An enthusiastic, energetic Web Application Developer eager to work in a &ldquo;full stack&rdquo; environment. What does this mean? Maybe you&rsquo;re comfortable in Python, but want to build something in Javascript using backbone.js. Or maybe you&rsquo;ve done a lot of &ldquo;front end&rdquo; work, but want to learn how to write efficient SQL queries on our PostgreSQL backend.</p>
+<p>
+<strong>Us: </strong>We&rsquo;re a Tokyo-based Internet startup helping large and small online services Go Global through our API and unique human translation platform. We love working with internationally-minded people, and most of our team have lived in another country before. A few even speak more than 3 languages. Perhaps because of all these languages we speak - and code in! - we&rsquo;re a tight-knit team that works hard, and has fun.</p>
+<p>
+<strong>Together: </strong>We will grow our API services (of which there will be many) into a platform capable of handling millions of translation jobs, worked on by tens of thousands of qualified translators. This includes everything from defining JSON payload formats, writing fast and furious SQL queries, and working closely in both front-end and server-side contexts. You will be the glue that ties an exciting platform together. And you will work with a team focused on working efficiently, together.</p>
+<p>
+You should have a firm grasp of API best-practices, perhaps have spec&#39;d and developed one yourself, and be comfortable in either Python or PHP. Through your deep knowledge of Open Source frameworks and libraries you also know when it&#39;s best to use a battle-tested tool instead of writing your own. You might have experience in building your own web-service or application, and thought about what happens if it ends up #1 on Hacker News (your service better stay up!). Sometimes you dream about how to solve the problem of thousands of users hitting the &ldquo;refresh&rdquo; button to load new data.<br />
+<br />
+If this sounds like fun, we&#39;d love to talk. This is an opportunity to work with some of the brightest engineers in Tokyo disrupting an industry that&#39;s ripe for innovation. We&#39;ve got several projects in the pipeline just waiting for someone to run with!</p>
+<p>
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+Implement and guide application development, working closely with experienced full stack developers</li>
+<li>
+Maintain a performant application layer tightly coupled with our API</li>
+<li>
+Work with product managers and stakeholders to identify time tables and estimates for project completion; provide them with realistic expectations of what can and can&#39;t be done</li>
+<li>
+Pragmatically decide technologies and approaches without succumbing to NIH syndrome</li>
+</ul>
+<p>
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+Understanding of APIs, HTTP headers, and JSON payload formats.</li>
+<li>
+Experience with technologies close to the &#39;server side&#39; of the web-stack, including Python and PostgreSQL</li>
+<li>
+Appreciation of the above, and experience with JavaScript and familiarity with JS frameworks such as Backbone.js, Spine.js, or AngularJS</li>
+<li>
+Experience with version control (Git or Mercurial, we use Git)</li>
+<li>
+Experience managing projects and facilitating communication between designers, developers, and product managers a plus</li>
+<li>
+Understanding of the differences between native XHR and JSON-P techniques for fetching data</li>
+<li>
+Interest in various cultures and languages; perhaps living outside your native country</li>
+</ul>
+<p>
+<strong>Bonus skills:</strong></p>
+<ul>
+<li>
+It&rsquo;s a bonus, but not required, to have experience in the following:</li>
+<li>
+Links to personal or open source project contributions</li>
+<li>
+Experience working with various databases, from Relational to NoSQL</li>
+<li>
+Experience building for a web-service in multiple localizations</li>
+</ul>
+<p>
+<strong>Benefits:</strong></p>
+<ul>
+<li>
+Competitive salary and benefits, related to experience</li>
+<li>
+Relocation package for candidates outside of Japan</li>
+<li>
+State-assisted health insurance as standard (Japan has one of the world&rsquo;s best healthcare systems)</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gengo/ct8BIX"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130215074619_1R296QRTFOIKOHBP]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[フルスタック・ウェブ開発者]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://gengo.theresumator.com/apply/5xPSZL/.html]]></url>
+			<city><![CDATA[東京]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Japan]]></country>
+			<postalcode><![CDATA[151-0051]]></postalcode>
+			<description><![CDATA[<p>
+<strong>詳細</strong><br />
+求人詳細：何事にも熱心に積極的な姿勢で取り組み、「フルスタック」 環境での仕事を希望するWebアプリケーションデベロッパーを募集しています。ここで求められている人物像とは? 例えば、Pythonは使い慣れているがbackbone.jsを使ってJavascriptで何か開発してみたいと思っている方、フロントエンド開発に携わってはいたがPostgreSQLバックエンドでの効率的なSQLクエリーの作成方法を習得したいという方を歓迎します。</p>
+<p>
+<strong>当社：</strong>東京に本社を置く、インターネットサービスを提供するスタートアップです。APIと人力翻訳サービスを通して様々な規模の企業のオンラインサービスのグローバル化を支援しています。国際的な視野を持つ人々との交流を大切にし、ほぼ全員のスタッフが海外生活の経験を持っています。多言語そしてそれらをコード化することもあり、中には3ヶ国語以上を自由自在に操るスタッフもいます! とてもとても親密なチームワークの中、熱心に、そして楽しみながら仕事に取り組んでいます。</p>
+<p>
+<strong>業務目的：</strong>何万人もの厳選された翻訳者が担当する何百万という翻訳案件をハンドリングできるプラットフォームとして難なく利用できるよう、当社のAPIサービスを拡張させていきます。JSONペイロードの定義、めくるめくSQLクエリーの作成、そしてフロントエンドおよびサーバーサイドのコンテキストに密着したすべての業務を担当します。当社のパワフルなプラットフォームを1つにまとめる重要な役割を担い、チームと力を合わせて効率的に業務を進めていきます。</p>
+<p>
+APIの仕様策定・開発経験、PythonまたはPHPを用いた開発経験がある、APIベストプラクティスに精通した方。オープンソース・フレームワークとライブラリーに精通し、プログラムを作成する代わりに実践で成功しているツールの起用も判断できる方。ウェブサービスまたはアプリケーションを独自で開発した経験があり、Hacker Newsで取り上げられ話題になることを考えたことがある方 (アップタイムの要求に耐えるサービスであることが必須です!)。何千人ものユーザーが 「更新」 ボタンを押して新規のデータを読み込んで起きたトラブルシューティングの夢を見るという方。</p>
+<p>
+上記を読んで興味がある方は是非ご連絡ください。東京を本拠地とし、優秀なエンジニアたちと共に革新的なアイディアで業界に旋風を巻き起こす絶好のチャンスです。すでに幾つかのプロジェクトを立上・計画しており、これらを実行できる人材を待つばかりの状態です!</p>
+<p>
+<strong>業務：</strong></p>
+<ul>
+<li>
+フルスタック・デベロッパーと協力してアプリケーション開発プロジェクトを実行、指導する。</li>
+<li>
+APIならびにアプリケーションレイヤーのパフォーマンスを維持する。</li>
+<li>
+プロダクト・マネージャーおよびステークホルダーと共に、プロジェクト完了までのスケジュールおよび予測を立て、プロジェクトが達成できる結果に対する期待を明確にする。</li>
+<li>
+自前主義（NIH）症候群に陥ることなく、実用性を重視してテクノロジーとアプローチを選択する。</li>
+</ul>
+<p>
+<strong>応募条件：</strong></p>
+<ul>
+<li>
+API、HTTPヘッダー、JSONペイロードの知識</li>
+<li>
+PythonやPostgreSQLを含むWebスタックの 「サーバーサイド」 テクノロジーの経験、または、これらのテクノロジーに関する知識、</li>
+<li>
+JavaScriptの経験、Backbone.js、Spine.js、AngularJSなどのJSフレームワークの知識</li>
+<li>
+バージョン管理システムの経験 (Git、Mercurial。当社はGitを使用。)</li>
+<li>
+プロジェクトマネージメント、デザイナー、デベロッパーおよびプロダクト・マネジャー間のコミュニケーションのコーディネート経験 (歓迎条件)</li>
+<li>
+ネイティブXHRとJSON-Pのデータ取得方法の違いが分かる方。</li>
+<li>
+多種多様な文化と言語に興味があり、母国を離れた海外での生活経験がある方。</li>
+</ul>
+<p>
+<strong>歓迎スキル：</strong><br />
+下記の経験は歓迎しますが、必須ではありません：</p>
+<p>
+下記のスキルは歓迎しますが、必須ではありません。</p>
+<ul>
+<li>
+個人またはオープンソース・プロジェクトへの貢献経験</li>
+<li>
+リレーショナルからNoSQLまで様々なデータベースの経験</li>
+<li>
+マルチロケーション対応のWebサービスの構築経験</li>
+<li>
+福利厚生</li>
+<li>
+経験に応じた高収入、厚待遇</li>
+<li>
+日本国外からの応募者への転勤サポートあり</li>
+<li>
+社会保険完備 (世界的にも高い評価を受ける日本の医療保険制度)</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gengo/5xPSZL"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130219034201_FFSJBAIUXLSZYDTC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[オンラインマーケティング・スペシャリスト - 日本]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://gengo.theresumator.com/apply/Ck69Sh/-.html]]></url>
+			<city><![CDATA[Tokyo]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Japan]]></country>
+			<postalcode><![CDATA[151-0051]]></postalcode>
+			<description><![CDATA[<p>
+Gengoの日本国内でのオンラインマーケティングおよび事業拡大を担当する、意欲あるWEBマーケターを募集しています。自らイニシアチブをとり、新たなアイデアを提案し、Gengoのマーケティング戦略を立案・実行して下さい。<br />
+コンバージョン率に常に注意を払い、積極的にデータの分析・報告をしていただきます。メトリクスへの熱意があり、現状に満足せず「Kaizen」を続ける資質を必要としています。最先端の SEO に携わり、パンダとペンギンがただの可愛い動物ではないということが解るなど、多くのことが学べる仕事です。</p>
+<p>
+Gengo の外国人率は7割以上。公用語が英語なので、日本にいながらにして英語環境での仕事をすることができます。Gengoと共に成長し、これを実現しましょう。新規事業への熱意を求めています！</p>
+<p>
+職務内容：</p>
+<ul>
+<li>
+国内市場にて Gengoのリーチを伸ばす戦略の立案・実行</li>
+<li>
+英語ネイティブのチームメンバーと協力し、グローバル製品の立ち上げおよびマーケティングのコーディネートを行う</li>
+<li>
+国内顧客を獲得するSEMおよびSEO 戦略の実行・維持</li>
+<li>
+ランディングページおよび Gengo サイトの日本語コピーライティング</li>
+<li>
+日本語のFacebookおよびTwitter アカウント管理</li>
+<li>
+毎週のKPI の追跡、改善方法の分析</li>
+<li>
+PR、ブログ、権威あるサイトとの関係の増強</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+応募条件：</p>
+<ul>
+<li>
+AdwordsまたはYahoo! JAPANでの広告キャンペーン運営経験</li>
+<li>
+海外および特に日本でのSEOに関する知識（リンクビルディング含む）</li>
+<li>
+ブログやコンテンツ キュレーションのスキル</li>
+<li>
+Eメール マーケティングおよびリマーケティングキャンペーンの運営経験</li>
+<li>
+HTMLおよびCSSの基礎知識</li>
+<li>
+ネイティブレベルの日本語力、ビジネスレベルの英語力</li>
+</ul>
+<p>
+優遇スキル：</p>
+<ul>
+<li>
+Wordpressの利用経験</li>
+<li>
+Photoshopなどの画像編集ソフトの実用的な知識</li>
+<li>
+Javascript、SQLのスキル</li>
+<li>
+ネット上での強力なプレゼンス（自身のブログなど）</li>
+<li>
+ウェブサイトのローカリゼーション経験</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gengo/Ck69Sh"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130507203812_CLREVEKA4XH9OIWZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Project Manager (Part-time remote)]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://gengo.theresumator.com/apply/5FXpzt/Project-Manager-Parttime-Remote.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[(Multiple States)]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+The Gengo Project Manager, &ldquo;PjM,&rdquo; is responsible for managing complex translation projects from top global Enterprise clients in the Ecommerce, Travel and Media industries. You will be given aggressive deadlines and will be managing the translation of potentially tens of millions of words. While background in project management and translation is a plus, we are looking for creative problem solvers above all. This is a remote position so ability to work independently is a must.</p>
+<p>
+Responsibilities</p>
+<ul>
+<li>
+Creating timelines and workflows customized for each project&#39;s specific content type, volume, languages and file formats</li>
+<li>
+Regular communication with translator team regarding project details and deadlines</li>
+<li>
+Managing QA processes to ensure on-time, polished deliverables</li>
+<li>
+Documenting processes and regularly suggesting improvements for future iterations</li>
+</ul>
+<p>
+Requirements</p>
+<ul>
+<li>
+Excellent critical thinking and creative problem solving skills&mdash;you like solving complex puzzles with no instructions</li>
+<li>
+Strong communication skills&mdash;translators are Gengo&rsquo;s biggest resource and you will be speaking with them daily</li>
+<li>
+Strong technical acumen&mdash;No engineering skills required, but your computer skills exceed that of most of your friends, and you can quickly research/learn new tools that help you do your job better</li>
+<li>
+Strong attention-to-detail</li>
+<li>
+We are searching for one PjM located in European time zones and one located in Asia. PjM located in Asia should be an English - Japanese bilingual</li>
+<li>
+Flexible availability (this is a great position for students and/or Gengo translators looking for extra income)</li>
+</ul>
+<p>
+Benefits</p>
+<ul>
+<li>
+Hourly pay based on experience (10 hours per week guaranteed)</li>
+</ul>
+]]></description>
+			<type><![CDATA[Part Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gengo/5FXpzt"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130520083132_NAXQX4I4ATVUBU3R]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Service Excellence Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://gengo.theresumator.com/apply/06Clof/Service-Excellence-Engineer.html]]></url>
+			<city><![CDATA[Tokyo]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Japan]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+<strong>You:</strong> Love trying to break things and verify that products and services work as expected. The idea of working on continuous integration and automated testing frameworks gets you excited in the morning. Headless Javascript testing? Awesome! Performance testing? Schweet!</p>
+<p>
+<strong>Us:</strong> We&rsquo;re a Tokyo-based Internet startup helping large and small online services Go Global through our API and unique human translation platform. We love working with internationally-minded people, and most of our team have lived in another country before. A few even speak more than 3 languages. Perhaps because of all these languages we speak - and code in! - we&rsquo;re a tight-knit team that works hard, and has fun.</p>
+<p>
+<strong>Together:</strong> We will build, share, and execute on best practices in testing and test infrastructure so that our customers have the utmost confidence to &ldquo;Gengo it!&rdquo; This includes planning and writing testing scripts, squashing bugs or explaining them to core developers, and helping build and improve testing processes for services as we deploy them.</p>
+<p>
+We are growing fast and coding faster, and&nbsp;we&rsquo;re seeking proven, new and innovative ways to make sure we are always rock solid.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Writing and executing solid test plans and test cases.</li>
+<li>
+Building and maintaining necessary components to catch system issues in a QA environment before they get to production.</li>
+<li>
+Working closely with Gengo developers across the entire stack including designers, system engineers and support team members.</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Confidence or familiarity in some combination of programming languages such as Python, PHP, Ruby, Javascript, Java.</li>
+<li>
+Experience working with large-scale, enterprise-level web technologies.</li>
+<li>
+Experience testing API web services such as REST or SOAP.</li>
+<li>
+Experience using continuous integration systems such as Jenkins or Travis, and automation tools like SilkTest or Selenium.</li>
+<li>
+Familiarity with localization and internationalization processes and related testing.</li>
+</ul>
+<p>
+<strong>Bonus Skills</strong></p>
+<ul>
+<li>
+Knowledge and experience with tools geared for application performance testing.</li>
+<li>
+Experience with automated unit, functional and Integration testing.</li>
+<li>
+Experience with test tools and suites for mobile/tablet platforms.</li>
+<li>
+Experience working with various databases, from Relational to NoSQL.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gengo/06Clof"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130605053442_Q3VAKTJXPH64YNL9]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Remote Support Agent]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://gengo.theresumator.com/apply/j7tsWZ/Remote-Support-Agent.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Multiple Countries]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+<a href="http://gengo.com/">Gengo</a> is growing and we&rsquo;re looking to add 2 new members to our support team! In this role, you&rsquo;ll be providing friendly and efficient support to prospective and existing customers and translators. The ideal candidate is someone who is resourceful, can work independently and has a passion for languages and helping people.</p>
+<p>
+<strong>Responsiblities:</strong><br />
+&bull; Responding to translators and customers via Zendesk and Livechat.<br />
+&bull; Maintaining positive customer satisfaction ratings and meeting response time targets<br />
+&bull; Collaborating with Engineering, Finance and Translator Operations teams to resolve issues<br />
+&bull; Helping to keep and make Gengo users HAPPY!</p>
+<p>
+<strong>Requirements:</strong><br />
+&bull; This is a remote position so you&rsquo;ll need a stable internet connection<br />
+&bull; 1+ years experience in customer support<br />
+&bull; Excellent computer skills and Internet literacy<br />
+&bull; Experience with Zendesk or a similar online customer support desk<br />
+&bull; Reliably available every Monday through Friday<br />
+&bull; Business level English and Japanese<br />
+&bull; Flexible availability as amount of tickets can vary from week to week<br />
+&bull; Fast learner, able to pick up on the workflow of our website and identify trending issues quickly<br />
+&bull; Availability: Japan business hours OR US business hours (We are hiring 1 agent per time zone)</p>
+<p>
+<strong>Bonus Skills:</strong><br />
+&bull; Sales experience<br />
+&bull; Basic programming knowledge</p>
+<p>
+<strong>Benefits:</strong><br />
+&bull; This is a remote position, so you can work from anywhere.<br />
+&bull; Hourly wage based on experience<br />
+&bull; Opportunity for the right person to become a full-time member of the Customer Support team</p>
+<p>
+<strong>When Applying:</strong><br />
+Please first read our Customer FAQs section, and write out a response to the following questions as if you were a Gengo Customer Support Representative:<br />
+1. I&#39;d like to translate my website&#39;s legal agreement via Gengo. Is this possible?<br />
+2. I really liked the translation completed by the translator who completed my last job and would like to use him/her again for the translation of a new document. How can I do this?</p>
+]]></description>
+			<type><![CDATA[Part Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gengo/j7tsWZ"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130606070237_PC82LLCCPBRRKCRH]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Marketing Internship]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[Marketing]]></team>
+			<url><![CDATA[http://gengo.theresumator.com/apply/FD5YyO/Marketing-Internship.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[Tokyo]]></state>
+			<country><![CDATA[Japan]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+This is your chance to be part of an exciting startup in Tokyo! Gengo is a global communication platform. We make it easy for businesses and individuals to go global, by providing fast, highquality translation powered by the crowd. Over 7,500 pretested translators work through the Gengo platform, and we translated over 40 million words in 2012.</p>
+<p>
+We&#39;re growing, and we want your help in getting the whole world talking.</p>
+<p>
+Responsibilities:</p>
+<p>
+Analysis: Analyze the market, identify and target customers, create competitive analyses to create strategic plans.<br />
+Sales: Reach out to current and new customers over email to ensure customer satisfaction and grow revenue through upsales.<br />
+Marketing: Inbound marketing through SEO/SEM and email remarketing campaigns. Social Media marketing through mediums such as Facebook, Twitter, and Linkedin.<br />
+<br />
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+A college student or recent graduate</li>
+<li>
+Punctual, reliable, confident, positive, proactive and organized</li>
+<li>
+Native and Fluent in English</li>
+<li>
+Excited about a career in the web</li>
+<li>
+Great writing skills</li>
+<li>
+Good computer skills (but you don&#39;t need to be a programmer)</li>
+<li>
+Good teamwork, but you are able to work independently too</li>
+</ul>
+<p>
+<strong>Bonus Skills:</strong></p>
+<ul>
+<li>
+Experience running SEM campaigns on Adwords or other PPC services</li>
+<li>
+Knowledge in SEO strategies</li>
+<li>
+Experience writing transactional email marketing and remarketing campaigns</li>
+<li>
+Basic understanding of HTML and CSS</li>
+<li>
+Written fluency in Japanese</li>
+</ul>
+<p>
+Benefits:</p>
+<ul>
+<li>
+Daily expense</li>
+<li>
+Something on your CV that will be important</li>
+<li>
+The opportunity to learn loads. We are interested in helping you too!</li>
+</ul>
+]]></description>
+			<type><![CDATA[Internship]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gengo/FD5YyO"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130703094758_C3QZVFATHKGXKXQK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sales and Office Management Intern (San Mateo)]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[Sales]]></team>
+			<url><![CDATA[http://gengo.theresumator.com/apply/Ip3uNV/Sales-And-Office-Management-Intern-San-Mateo.html]]></url>
+			<city><![CDATA[San Mateo]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94401]]></postalcode>
+			<description><![CDATA[<p>
+Gengo is a Tokyo and San Mateo-based startup making translation simple, and removing the language barrier for customers as they go global. Customers order human translation online through our website or our API that lets you plug into our growing network of over 8,000 translators. This is a rare chance to work at a company that is ambitious about solving a real global problem&mdash;making it easier for the world to communicate freely.</p>
+<p>
+The Sales and Office Management Intern will be responsible for providing the Sales team with a steady flow of qualified leads while also carrying out some light admin tasks to keep the office running smoothly. You will be learning from a small, but talented and well-connected U.S. team with a track record of building multi-million dollar companies from the ground up. This is not a typical internship&mdash;every day will be action packed and you will gain a sense of achievement as you watch the company grow. We also have a history of spotting talent and promoting from within.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Strategically creating lists of qualified leads across multiple industries including retail and e-commerce</li>
+<li>
+Leads generated will include both direct Enterprise customers, as well as potential users of Gengo&rsquo;s various channel partnerships including Drupal, Magento, 3PlayMedia, ChannelAdvisor, and Wordpress</li>
+<li>
+Office management and minimal Executive Assistant duties (e.g. making travel arrangements, office supply management, etc.)</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Current undergrad student or recent graduate</li>
+<li>
+Extremely detail-oriented</li>
+<li>
+Excellent communication skills</li>
+<li>
+Ability to think on your feet and come up with creative solutions to new problems</li>
+<li>
+Experience in sales or project management in some capacity a huge plus, ability to learn fast a must</li>
+<li>
+You are located in the San Francisco Bay Area</li>
+</ul>
+<p>
+Benefits</p>
+<ul>
+<li>
+The opportunity to learn loads - we are interested in helping you too!</li>
+<li>
+Transportation and lunch costs reimbursed</li>
+<li>
+A foot in the door at a company that&#39;s going places</li>
+</ul>
+]]></description>
+			<type><![CDATA[Internship]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/gengo/Ip3uNV"></script>]]></buttons>
+		</job>
+	</jobs>

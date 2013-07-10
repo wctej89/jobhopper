@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Booyah, Inc.]]></company>
+			<job>
+			<id><![CDATA[job_20110520004543_FCOTSY1TREUDK8ID]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Data Architect]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://booyah.theresumator.com/apply/v0UYMH/Data-Architect.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>What you&#39;d be doing</strong></p>
+<ul>
+	<li>
+		Manage MySQL on the Linux platform in Production, Staging, QA, and/or Development environments including installation, configuration, optimization, automation, backup, recovery, upgrades, schema changes, etc</li>
+	<li>
+		Capacity planning, design and implement scalable MySQL infrastructure (master-slave, sharding)</li>
+	<li>
+		Create processes to ensure data integrity and identify potential data errors. In other words, help figure out appropriate monitoring techniques</li>
+	<li>
+		Quickly troubleshoot server problems and develop and deploy preventive measures to maintain high availability</li>
+	<li>
+		Develop data warehouse application for analytics system</li>
+</ul>
+<p>
+	<br />
+	<strong>Skills and experience you should probably have</strong></p>
+<ul>
+	<li>
+		7 years production database administrator experience, ideally on MySQL or Oracle with established large scale Internet sites</li>
+	<li>
+		Strong scripting abilities in Python, Shell and/or Perl</li>
+	<li>
+		Solid knowledge in database performance tuning, partitioning/sharding and messaging systems</li>
+	<li>
+		Great communication skills to influence overall system design</li>
+	<li>
+		Extensive data warehouse and analytics knowledge and experience</li>
+</ul>
+<p>
+	<br />
+	<strong>Pluses</strong></p>
+<ul>
+	<li>
+		Linux server system administration experience</li>
+	<li>
+		Performance modeling and measurement algorithms</li>
+	<li>
+		Vertica, Hadoop experience</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/booyah/v0UYMH"></script>]]></buttons>
+		</job>
+	</jobs>

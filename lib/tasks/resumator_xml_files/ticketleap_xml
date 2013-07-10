@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[TicketLeap]]></company>
+			<job>
+			<id><![CDATA[job_20120719190557_WO4TFYOO3ITKO6FI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Software Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://ticketleap.theresumator.com/apply/GvCCFT/Senior-Software-Developer.html]]></url>
+			<city><![CDATA[Philadelphia]]></city>
+			<state><![CDATA[PA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[19103]]></postalcode>
+			<description><![CDATA[<p>
+Ticketleap believes in democratizing ticketing by bringing an innovative ticketing experience to everyone, whether you are selling 10 or 100,000 tickets. As one of the fastest growing companies and &#39;Best Places to Work&#39; in Philadelphia, we are excited to invite a bright and talented individual to join our team.</p>
+<p>
+At TicketLeap we hire the best and set them free to create great things.&nbsp; We are looking for someone willing to jump in and do whatever needs to be done, and just as importantly, get things done right.&nbsp; Here you would have the opportunity to work on the web (Django and Python), on infrastructure (Amazon AWS), on our mobile products (iOS and Android), and whatever else may come along.&nbsp; Don&#39;t have experience in those technologies?&nbsp; That&#39;s fine.&nbsp; We strongly believe in hiring outstanding developers regardless of language experience.&nbsp; Syntax and frameworks can be learned quickly - having the mindset and approach of a top developer is much more valuable (and harder to find).</p>
+<p>
+We are looking for a true software professional that takes pride in his or her work.&nbsp; We don&#39;t want code monkeys or cowboy coders, and we don&#39;t ship garbage.&nbsp; Our goal is to deliver high quality software while working at a sustainable pace.&nbsp; Of course we do make mistakes, but we learn from them and don&#39;t make them again.</p>
+<p>
+Does this sound like an environment where you would thrive?&nbsp; If so, let&#39;s talk.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>RESPONSIBILITIES</strong></p>
+<ul>
+<li>
+Consistently deliver high quality, production-ready code</li>
+<li>
+Full-stack development (infrastructure, databases, back-end, front-end)</li>
+<li>
+Willing and able to quickly learn new technologies and codebases</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>REQUIREMENTS</strong></p>
+<ul>
+<li>
+Proven track record as a full-stack developer</li>
+<li>
+Excited about technology and forward thinking about how our products can be improved</li>
+<li>
+Team player</li>
+<li>
+Share our <a href="http://blog.ticketleap.com/2013/03/04/our-core-values/">core values</a></li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/ticketleap/GvCCFT"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Exvo.com BV]]></company>
+			<job>
+			<id><![CDATA[job_20090601075221_UIO0DVNGFG5Z5NLJ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[UI Designer]]></title>
+			<department><![CDATA[Exvo.com]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://exvo.theresumator.com/apply/iXik9Q/UI-Designer.html]]></url>
+			<city><![CDATA[Vilnius]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Lithuania]]></country>
+			<postalcode><![CDATA[00000]]></postalcode>
+			<description><![CDATA[<p>We are looking for User interface designer for designing and then implementing our design patterns for our portfolio of web applications.</p>
+<p>Each page needs to be optimized for functionality UI and then turned into a working HTML/CSS/JS page, which is then sent to the backend team to hookup functionality.</p>
+<p> </p>
+<p> </p>
+<ul>
+<li>HTML/CSS Expert</li>
+<li>JS - jQuery or YUI </li>
+<li>iPhone SDK Interface Builder</li>
+</ul>
+<p> </p>
+<p> </p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/exvo/iXik9Q"></script>]]></buttons>
+		</job>
+	</jobs>

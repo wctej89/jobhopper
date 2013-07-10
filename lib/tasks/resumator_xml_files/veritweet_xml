@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[VeriTweet]]></company>
+			<job>
+			<id><![CDATA[job_20110105210243_YOEL1DQ6GO1DC0B6]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[iPhone native SDK Developer [Cocoa, Objective-C] – Expert level]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://veritweet.theresumator.com/apply/XbvOcg/IPhone-Native-SDK-Developer-Cocoa-ObjectiveC-Expert-Level.html]]></url>
+			<city><![CDATA[Riga]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Latvia]]></country>
+			<postalcode><![CDATA[3002]]></postalcode>
+			<description><![CDATA[<p>
+	<span style="color: #a9a9a9">Yes, We are Hiring!</span></p>
+<p>
+	<span style="color: #a9a9a9">VeriTweet, the Silicon Valley based microblogging service for verified people and businesses is looking for passionate and experienced staff for our Latvia development team.</span></p>
+<p>
+	<span style="color: #a9a9a9"><strong>&#91;responsibilities&#93;</strong><br />
+	Design and build next generation of Veritweet mobile applications that don&#39;t suck.<br />
+	&nbsp;<br />
+	<strong>&#91;requirements&#93;</strong><br />
+	&bull; Strong Cocoa and Objective-C experience;<br />
+	&bull; iPhone development experience;<br />
+	&bull; Already established iTunes developer account;<br />
+	&bull; Good UI design/interaction and knowledge of&nbsp;the difference between beautiful UIs and one&#39;s that aren&#39;t good;<br />
+	&bull; Passionate about great mobile applications;<br />
+	&bull; Ability to work with tough deadlines and challenging problems;<br />
+	&bull; Fast learner, interested in learning and exploring new ideas;<br />
+	&bull; Ability to work with close-knit team;<br />
+	&bull; You must love iPhone and think that native SDK is only way to code iPhone apps. :)<br />
+	<br />
+	<strong>&#91;nice-to-haves&#93;</strong><br />
+	&bull; C/C++ experience<br />
+	&bull; Open source developer experience<br />
+	&bull; Titanium experience<br />
+	<br />
+	If you really want to impress us, send us your iTunes app links so we can check out your work.<br />
+	We are waiting for your applications on info(at)veritweet.com&nbsp;</span></p>
+]]></description>
+			<type><![CDATA[Part Time to Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/veritweet/XbvOcg"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110105201852_VKIE1OIXMTZC6N0B]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web App Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://veritweet.theresumator.com/apply/ZtXXyd/Web-App-Developer.html]]></url>
+			<city><![CDATA[Riga]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Latvia]]></country>
+			<postalcode><![CDATA[3002]]></postalcode>
+			<description><![CDATA[<p>
+	<span style="color: #a9a9a9">Yes, We are Hiring!</span></p>
+<p>
+	<span style="color: #a9a9a9">VeriTweet, the Silicon Valley based microblogging service for verified people and businesses is looking for passionate and experienced staff for our Latvia development team.</span></p>
+<p>
+	<span style="color: #a9a9a9"><strong>&#91;responsibilities&#93;</strong><br />
+	Design and build next generation of Veritweet web and desktop client applications.<br />
+	&nbsp;<br />
+	<strong>&#91;requirements&#93;</strong><br />
+	&bull; Strong HTML, CSS, jQuery, JavaScript, PHP experience;<br />
+	&bull; Good UI design/interaction and knowledge of the difference between beautiful UIs and one&#39;s that aren&#39;t good;<br />
+	&bull; Passionate about great HTML5 web applications;<br />
+	&bull; Ability to work with tough deadlines and challenging problems;<br />
+	&bull; Fast learner, interested in learning and exploring new ideas;<br />
+	&bull; Ability to work with close-knit team.<br />
+	<br />
+	<strong>&#91;nice-to-haves&#93;</strong><br />
+	&bull; Twitter, Facebook Linkedin API experience;<br />
+	&nbsp;&bull; Open source developer experience;<br />
+	&nbsp;&bull; Titanium experience.<br />
+	<br />
+	If you really want to impress us, send us your work examples &nbsp;so we can check out your work.<br />
+	We are waiting for your applications on info(at)veritweet.com&nbsp;</span></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/veritweet/ZtXXyd"></script>]]></buttons>
+		</job>
+	</jobs>

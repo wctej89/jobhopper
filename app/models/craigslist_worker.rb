@@ -3,31 +3,30 @@ class CraigslistWorker
   sidekiq_options retry: false
 
   def perform(user_id)
-    current_user = User.find(user_id)
-    tags = current_user.skills
-    location = current_user.location
-    zip = check_tags(location)
-    url = get_craigslist_url(zip)
-    tags.each {|tag| url << 'search/jjj?zoomToPosting?&query=' << tag.name.parameterize('+') << '&srchType=A' }
-    scrape(url)
+    # current_user = User.find(user_id)
+    # tags = current_user.skills
+    # location = current_user.location
+    # zip = check_tags(location)
+    # url = get_craigslist_url(zip)
+    Tag.all.each {|tag| scrape('http://sfbay.craigslist.org/search/jjj?zoomToPosting?&query=' << tag.name.parameterize('+') << '&srchType=A') }
   end
 
-  def check_tags(location)
-    location_tags = Tag.where('tag_type = ?', 'LocationTag')
-    results = []
-    location_tags.each do |tag|
-      unless (location.downcase.scan(tag.name)).empty?
-        results << tag
-      end
-    end
-    city = Geokit::Geocoders::GoogleGeocoder3.geocode(results.first.name)
-    coordinates = "#{city.lat}, #{city.lng}"
-    zip = Geokit::Geocoders::GoogleGeocoder3.geocode(coordinates).zip
-  end
+  # def check_tags(location)
+  #   location_tags = Tag.where('tag_type = ?', 'LocationTag')
+  #   results = []
+  #   location_tags.each do |tag|
+  #     unless (location.downcase.scan(tag.name)).empty?
+  #       results << tag
+  #     end
+  #   end
+  #   city = Geokit::Geocoders::GoogleGeocoder3.geocode(results.first.name)
+  #   coordinates = "#{city.lat}, #{city.lng}"
+  #   zip = Geokit::Geocoders::GoogleGeocoder3.geocode(coordinates).zip
+  # end
 
-  def get_craigslist_url(zip)
-    Zip.find_by_zip_code(zip).url
-  end
+  # def get_craigslist_url(zip)
+  #   Zip.find_by_zip_code(zip).url
+  # end
 
   def scrape(url)
     agent = Mechanize.new
@@ -51,8 +50,12 @@ class CraigslistWorker
       email = job_page.links[6].node.children.text
       title = agent.page.parser.css('h2').text.strip
       description = agent.page.parser.css('#postingbody').text
-      #TODO add begin rescue end clause
-      Job.create(:source_url => url, :email => email, :description => description, :name => title)
+      begin
+        Job.create(:source_url => url, :email => email, :description => description, :name => title, :lat => 37.7750, :lng => -122.4183)
+      rescue Exception => e
+        puts e.message
+        next
+      end
     end
   end
 end

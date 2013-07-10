@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[RoundHouse Support]]></company>
+			<job>
+			<id><![CDATA[job_20110420133139_0NWQU1SU5QLHR4M7]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Full-Time Linux System Administrator]]></title>
+			<department><![CDATA[Operations]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://roundhouse.theresumator.com/apply/jB1rNf/FullTime-Linux-System-Administrator.html]]></url>
+			<city><![CDATA[Remote]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+	We&#39;re looking to hire a capable and skilled system administrator. &nbsp;We are a managed server support service that helps to maintain systems for our clients. &nbsp;We pool our talents to help support developers, interest holders, and the web applications they run.</p>
+<p>
+	<strong>The ideal candidate MUST:</strong></p>
+<ul>
+	<li>
+		Understand the ins and outs of general Linux&nbsp;system administration tasks</li>
+	<li>
+		Be able to accomplish tasks with minimal oversight and assistance</li>
+	<li>
+		Have knowledge in at least one particular web application language / framework (Ruby on Rails, PHP, Java)</li>
+	<li>
+		Be able to clearly document all actions performed</li>
+	<li>
+		Follow best practices and established company principles in security and other administration areas</li>
+</ul>
+<p>
+	<strong>A high quality candidate SHOULD:</strong></p>
+<ul>
+	<li>
+		Know how to manage and configure Apache</li>
+	<li>
+		Understand scripting and be able write BASH, Sprinkle, Capistrano, or Chef scripts to automate common tasks</li>
+	<li>
+		Be able to tweak and configure in-depth either MySQL or PostegreSQL</li>
+	<li>
+		Understand the unique challenges and pitfalls of cloud architecures, especially AWS/EC2</li>
+	<li>
+		Be capable of configuring full production ready systems, including scaling, load balancing, failover, monitoring, and backups</li>
+	<li>
+		Develop in and thoroughly understand Ruby on Rails (most of our clients use Ruby on Rails</li>
+	<li>
+		Have a passion for learning and growing their knowledge in a new and upcoming area of technology</li>
+</ul>
+<p>
+	<strong>An extremely well-qualified candidate would be well served to:</strong></p>
+<ul>
+	<li>
+		Have a positive public profile in the technology community</li>
+	<li>
+		Love to be on the cutting edge of technologies like: Node.js, Mongo, Redis, Hadoop, etc</li>
+	<li>
+		Maintain, support, or publish open source code that he/she is proud of</li>
+</ul>
+<p>
+	<strong>About our culture</strong></p>
+<p>
+	Our goal is to give you the tools and support YOU need in order to best serve our clients, including branching out into all different areas of system operation. &nbsp;</p>
+<p>
+	We are looking to fill multiple positions with a variety of target strengths. &nbsp;However, since we are a small company, it is critical for you to have a general competence in ALL areas of operating Linux systems. &nbsp;Each of our operators has a wide net of knowledge combined with a laser-focused skill that they know best. &nbsp;When pooled and combined, our talents allow us to tackle a huge range of problems efficiently.</p>
+<p>
+	<strong>About the position</strong></p>
+<p>
+	This is a remote contractor (1099) position with plenty of work for 30+ hours per week. &nbsp;You must be located in the US, and work primarily during business hours. &nbsp;The exact timing of your work schedule and total commitment required is flexible and negotiable.</p>
+<p>
+	We support our customers&#39; systems, so our #1 priority is accountability. &nbsp;If you say you are going to work or be available, you MUST do so. &nbsp;Everyone shares and distributes their work schedule to help cover customer support requests as well as accomplishing backlog tasks. &nbsp;</p>
+<p>
+	There is an on-call component to this position, however it is minimal, flexible, and negotiable.</p>
+<p>
+	Ability to pass a background check, credit check, and drug screening required.</p>
+]]></description>
+			<type><![CDATA[Contracted to Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/roundhouse/jB1rNf"></script>]]></buttons>
+		</job>
+	</jobs>

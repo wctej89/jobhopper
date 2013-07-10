@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[PlayHaven]]></company>
+			<job>
+			<id><![CDATA[job_20130115025950_BTV7DMGSRIYZ7TMM]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Operations Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://playhaven.theresumator.com/apply/JHuKZy/Senior-Operations-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94105]]></postalcode>
+			<description><![CDATA[<p>
+PlayHaven helps thousands of mobile game developers engage with their users and monetize their games by maximizing the lifetime value of millions of players.</p>
+<p>
+We are looking for a Senior Operations Engineer with experience managing cloud-hosted infrastructure. You will work closely with our CTO, QA, and engineering teams to maintain and deploy cloud server infrastructure (using chef and AWS) and ensure performance, uptime, and scalability. This position has an expectation of on-call time for unexpected off-hours outages. You can be based in either of our locations (San Francisco, CA or Portland, OR).</p>
+<p>
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+Continually refining processes for code deploys, server maintenance, etc.</li>
+<li>
+Growing the ops team in-house.</li>
+<li>
+Putting in place NOC support.</li>
+<li>
+Managing team including on call rotation</li>
+<li>
+Automate failover and scaling infrastructure</li>
+<li>
+Maintain and (where possible) improve supportability of service applications</li>
+<li>
+Track and ensure known application issues reach resolution with QA and engineering</li>
+<li>
+Develop tools or implement initiatives to improve uptime, maintainability, and user-facing experience</li>
+<li>
+Maintain server and deployment documentation</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Required Skills:</strong></p>
+<ul>
+<li>
+Linux System Administration (Centos / RHEL or Debian / Ubuntu systems)</li>
+<li>
+nginx, apache or lighttpd</li>
+<li>
+Chef, Puppet, or other configuration management</li>
+<li>
+AWS</li>
+</ul>
+<p>
+<strong>Desired:</strong></p>
+<ul>
+<li>
+Python, Perl, Ruby, or other high-level scripting language</li>
+<li>
+Python WSGI frameworks (gunicorn, tornado, twisted, etc)</li>
+<li>
+Memcached, redis, or other temporary key-value stores</li>
+<li>
+Packaging (deb/dpkg, rpm)</li>
+<li>
+MySQL Administration</li>
+<li>
+SQL Schema design, query optimization</li>
+<li>
+Component performance analysis and profiling</li>
+<li>
+Other cloud infrastructures (Rackspace, Heroku,Google App Engine)</li>
+<li>
+Content Delivery Networks (Akamai, Limelight, etc.)</li>
+</ul>
+<p>
+<br />
+<strong>Some things PlayHaven boasts:</strong></p>
+<ul>
+<li>
+Free lunches, snacks and coffee every day</li>
+<li>
+Awesome medical, dental and vision benefits</li>
+<li>
+Unlimited vacation plan</li>
+<li>
+Epic ping pong, and FIFA battles</li>
+<li>
+A transparent work environment</li>
+<li>
+A community that inspires, and works with you to achieve industry changing goals</li>
+</ul>
+<p>
+For more info on PlayHaven check out our website: http://www.playhaven.com/team.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/playhaven/JHuKZy"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130119014039_SSNQRZ3L2GPYE1GF]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Python Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://playhaven.theresumator.com/apply/c8LwWK/Python-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94105]]></postalcode>
+			<description><![CDATA[<p>
+abc</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/playhaven/c8LwWK"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130119014209_SSOD7IEKODUY1SOG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Ad Analyst]]></title>
+			<department><![CDATA[Ad]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://playhaven.theresumator.com/apply/ZH4bae/Ad-Analyst.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94105]]></postalcode>
+			<description><![CDATA[<p>
+abc</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/playhaven/ZH4bae"></script>]]></buttons>
+		</job>
+	</jobs>

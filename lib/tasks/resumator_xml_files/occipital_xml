@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Occipital]]></company>
+			<job>
+			<id><![CDATA[job_20110907204217_OPJJUSU6VZMJPFQS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Back-End Web Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://occipital.theresumator.com/apply/bgEfN9/BackEnd-Web-Developer.html]]></url>
+			<city><![CDATA[Boulder]]></city>
+			<state><![CDATA[CO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[80302]]></postalcode>
+			<description><![CDATA[<p>
+	Do you want to push the boundaries of what&rsquo;s possible in web technology to help build the future of augmented reality? Are you able to hold a complete understanding of a complex backend system in your head to build fast and reliable web applications and APIs? Do you have a deep understanding of how networking, databases, and servers work down to the bare metal? Then we really want to meet you.</p>
+<p>
+	We&rsquo;re creating a computer vision platform to power the next generation of augmented reality. This is an incredibly complex endeavor that will require everything from sophisticated computer vision algorithms running on mobile devices, to vast storage of visual information, to taking advantage of GPU servers for fast parallel image processing. An important part of this platform will be the web backend system required to tie it all together.</p>
+<p>
+	Our currently launched product, 360 Panorama, has millions of users and huge potential that we have yet to tap. 360 Panorama users are helping us build the 360VERSE - a way to explore the world through 360 views, searchable by location AND time (currently in beta, launching soon).</p>
+<p>
+	We&rsquo;re looking for a web wizard who is excited to help us expand on 360 Panorama and 360VERSE and also help us build the computer vision platform that will usher in a new wave of augmented reality.<br />
+	<br />
+	<strong>If you have experience with most of the following, we&rsquo;d love to talk to you:</strong></p>
+<ul>
+	<li>
+		Python or other server side scripting language experience (most of our backend is written in Python)</li>
+	<li>
+		MVC frameworks (we use Django)</li>
+	<li>
+		Node.js (used on our GPU servers)</li>
+	<li>
+		Postgres or other SQL experience</li>
+	<li>
+		Geospatial / location search using PostGIS</li>
+	<li>
+		*nix server administration and automation</li>
+	<li>
+		Usage of cloud services, including storage and server provisioning</li>
+	<li>
+		Working knowledge of front-end technologies (e.g. Javascript, HTML5, WebGL)</li>
+	<li>
+		Knowledge and ability to debug the full web stack.</li>
+	<li>
+		Understanding of networking protocols and ability to implement and design new ones.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/occipital/bgEfN9"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110907204414_HNENY63OKSJVBCGA]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[iOS Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://occipital.theresumator.com/apply/1y2EjG/IOS-Developer.html]]></url>
+			<city><![CDATA[Boulder]]></city>
+			<state><![CDATA[CO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[80302]]></postalcode>
+			<description><![CDATA[<p>
+	Are you someone who deeply understands the bleeding edge of the Apple frameworks from the bare metal on up to the higher level APIs? Are you outrageously detail oriented? Then we really want to meet you.</p>
+<p>
+	<br />
+	We&#39;ve been pushing the boundaries of what&#39;s possible with iOS since late 2008 with mobile computer vision apps like RedLaser (acquired by eBay in 2010) and 360 Panorama. We&#39;re not just an &quot;app company.&quot; We strive to change the world through our products and their underlying state-of-the-art computer vision technology, all of which is built from scratch by our broadly-talented team.</p>
+<p>
+	<br />
+	We need someone who knows exactly what the Apple iOS SDK is doing under the covers and can help us build innovative computer vision applications the right way.</p>
+<p>
+	<strong>Do most of the following apply to you?</strong></p>
+<ul>
+	<li>
+		Real artists ship - You have a strong desire to help build something that is the best in the world and ship it.</li>
+	<li>
+		Details matter - You believe everything should have a reason, down to the placement of a button and the text of an error message.</li>
+	<li>
+		You write bulletproof, well-commented and reusable code.</li>
+	<li>
+		Thorough knowledge of memory management on iOS is ingrained in you. You can optimize the memory footprint of an app, avoid memory leaks like the plague, and you know what NSZombieEnabled is.</li>
+	<li>
+		You can recite the exact setup / teardown process that UIKit follows for UIViewController and UIViews in your sleep.</li>
+	<li>
+		You&#39;ve worked with AV Foundation, know what YCbCr is, and perhaps you&#39;ve even written a camera-based application.</li>
+	<li>
+		You&#39;ve built a game or other graphics-based app using Open GL ES 2.0 and think pixel shaders are the best thing since sliced bread.</li>
+	<li>
+		You&#39;ve built an app that is live on the App Store that we can try.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/occipital/1y2EjG"></script>]]></buttons>
+		</job>
+	</jobs>

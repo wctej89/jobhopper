@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Handmade Mobile Entertainment]]></company>
+			<job>
+			<id><![CDATA[job_20120720212852_6ZUKOGRV3PDFBEQW]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Back End Developer]]></title>
+			<department><![CDATA[Engineer]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://handmademobileentertainment.theresumator.com/apply/kAH6US/Back-End-Developer.html]]></url>
+			<city><![CDATA[Los Angeles]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90401]]></postalcode>
+			<description><![CDATA[<p>Handmade mobile operates social networks that actually generate revenue. We know, it&#39;s crazy but true. Our platform allows publishers to choose how followers view their premium content. We work with major brands, celebrities, musicians and television shows and we are growing fast. Our technology is cutting edge and we are breaking new ground every day. If you think you&#39;ve got what it takes to join the best engineers in Los Angeles, apply today.<br /><br />Job Description:<br />Front End Developer: Backbone, CoffeeScript, Javascript</p><p>Join a team of a growing social network developers&hellip;&hellip;</p><p>Skills:</p><p>&nbsp;</p><p>Linux</p><p>Python</p><p>Mongoldb</p><p>Reis</p><p>Virtual server (linode, amazon) scaling</p><p>&nbsp;</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/handmademobileentertainment/kAH6US"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120720192702_1TXOLQISHF3PMTSQ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front End Developer]]></title>
+			<department><![CDATA[Engineer]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://handmademobileentertainment.theresumator.com/apply/A5TedB/Front-End-Developer.html]]></url>
+			<city><![CDATA[Los Angeles]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90401]]></postalcode>
+			<description><![CDATA[<p>Handmade mobile operates social networks that actually generate revenue. We know, it&#39;s crazy but true. Our platform allows publishers to choose how followers view their premium content. We work with major brands, celebrities, musicians and television shows and we are growing fast. Our technology is cutting edge and we are breaking new ground every day. If you think you&#39;ve got what it takes to join the best engineers in Los Angeles, apply today.<br /><br />Job Description:<br />Front End Developer: Backbone, CoffeeScript, Javascript</p><p>Join a team of a growing social network developers&hellip;&hellip;</p><br /><p>Skills:</p><p>CoffeeScript and Backbone a must<br />Refined knowledge of JavaScript<br />Knowledge of JS libraries (primarily jQuery) and plugins<br />Strong understanding of DOM<br />Experience in HTML5 &ndash; canvas, video, audio etc.<br />HTML5 mobile device development and limitations (@media, pixel density, events, hardware)<br />PhoneGap &ndash; a plus<br />Git<br />LESS<br />Python, Redis, Mongo a plus</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/handmademobileentertainment/A5TedB"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,436 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[LuckyGunner.com]]></company>
+			<job>
+			<id><![CDATA[job_20120823154549_LHK65CKFTZRJOLVU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Magento Developer]]></title>
+			<department><![CDATA[Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://luckygunner.theresumator.com/apply/ks7vsv/Senior-Magento-Developer.html]]></url>
+			<city><![CDATA[Knoxville]]></city>
+			<state><![CDATA[TN]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[37919]]></postalcode>
+			<description><![CDATA[<p>
+	LuckyGunner.com is a 3+ year old startup and the fastest-growing online retailer of ammunition and needs help further disrupting the industry.&nbsp; Save yourself some time and do not read any further if you like to work in petting-zoo-like environments that are slow-moving and change infrequently.<br />
+	If you like to work hard, be empowered to move the needle, be part of a productive team, solve problems, and generally get stuff done - please keep reading.</p>
+<p>
+	This position is for a &quot;Senior Magento Developer&quot;&quot; (henceforth, &quot;the SMD&quot;).&nbsp; Tip:&nbsp; Senior isn&#39;t short-hand for Senior Citizen - it&#39;s pig-Latin for &quot;can solve a lot of big problems without hand holding.&quot;<br />
+	<br />
+	One of LuckyGunner.com&#39;s core competencies is Magento development.&nbsp; Our CTO speaks at Magento conferences.&nbsp; We aren&#39;t looking to hire someone to help us change the color of our buttons.&nbsp; We need someone who can solve real business problems and transform our customers&#39; experience through technology and development.</p>
+<p>
+	The SMD will be joining our team of other experienced Magento developers and will be working alongside our CTO in the Knoxville office.&nbsp; This position will serve as a transmission between the &quot;mere mortals&quot; at LuckyGunner.com (i.e. our team members who can&#39;t code in purchasing, customer service, marketing, accounting, etc) and our team of 6 geographically dispersed developers to: Get. Stuff. Done. Right. And Fast.</p>
+<p>
+	The SMD will have daily responsibilities such as the following:</p>
+<ul>
+	<li>
+		Collaborating with the rest of our team to brainstorm ways to apply Magento and technology to solve real world problems at LuckyGunner.com</li>
+	<li>
+		Adding technical specs and architecture to the team&#39;s plain English specs for new modules and website features</li>
+	<li>
+		Reviewing our development team&#39;s dev commits for quality, security, scalability, stability, etc before they are committed to the live site</li>
+	<li>
+		Answering questions from our development team when they get stuck on a module, ticket, or version</li>
+	<li>
+		Actually coding and architecting some of the more complex projects we tackle</li>
+	<li>
+		Helping us transform our platform from where it is today to make it more stable, secure, scalable, and fast.</li>
+	<li>
+		Writing tests and tweaking our recruiting process to help us find additional Magento Developers</li>
+	<li>
+		Researching and integrating other platforms into Magento (Twilio, Zen Desk, etc)</li>
+	<li>
+		And much more . . . .</li>
+</ul>
+<p>
+	Do not apply unless you:</p>
+<ul>
+	<li>
+		Like being challenged and pushed - we are demanding and have high standards</li>
+	<li>
+		Take pride in your work - we value beautiful, simple, and powerful code for its own sake</li>
+	<li>
+		Work hard - we believe the harder you work, the luckier you get</li>
+	<li>
+		Enjoy identifying and solving problems by yourself - we don&#39;t have time to hold your hand</li>
+	<li>
+		Are comfortable making decisions - and living with the consequences</li>
+	<li>
+		Are passionate and driven - we don&#39;t like working with Zombies</li>
+	<li>
+		Prize honesty - it&#39;s obviously a prerequisite to have personal character, but our team can also be brutally honest</li>
+	<li>
+		Love technology - our entire business is built on and facilitated by technology, so you will need to love it (at work and in your spare time)</li>
+</ul>
+<p>
+	Any of the following are bonus traits - please tell us about them:</p>
+<ul>
+	<li>
+		Never worked at a large corporation or the government - +1</li>
+	<li>
+		Previously an Entrepreneur (even mowing lawns or a lemonade stand, especially if franchised to other neighborhoods) - +2</li>
+	<li>
+		Raised by Entrepreneur(s) - +1</li>
+	<li>
+		Military experience - +1</li>
+	<li>
+		Competitive sports experience (beyond high school varsity level) - +1</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	You should be familiar with most or all of the following platforms (please indicate which ones you are familiar with):</p>
+<ul>
+	<li>
+		Magento</li>
+	<li>
+		PHP</li>
+	<li>
+		MySQL</li>
+	<li>
+		Javascript</li>
+	<li>
+		HTML</li>
+	<li>
+		CSS</li>
+	<li>
+		Git, Mercurial or other DVCS</li>
+	<li>
+		Linux</li>
+</ul>
+<p>
+	Experience in the following is bonus - please tell us if you have it:</p>
+<ul>
+	<li>
+		MongoDB</li>
+	<li>
+		SEO / Internet Marketing</li>
+	<li>
+		WordPress</li>
+</ul>
+<p>
+	All applicants will be required to take a series of basic skills assessment tests.&nbsp; If you aren&#39;t willing to complete this, don&#39;t even bother applying.&nbsp; The process for finalists will include a more in depth skill test, a phone call, and a trip to our office to meet the team.</p>
+<p>
+	Our preference is to hire someone to work in our physical office in Knoxville, TN alongside our core team.&nbsp; If we find a perfect match for the position and the only hang-up is moving to Knoxville, we would consider an exception for the perfect fit - but we would really prefer this person to work with our team in Knoxville.</p>
+<p>
+	As far as compensation goes, we hate to use the cliche it depends on experience - ugh - but in this case it really will vary wildly by productivity.&nbsp; We estimate the base salary will work out to between $75,000 to $95,000 per year - with the possibility of performance bonuses if we find someone who fits our culture and is great at getting stuff done - a real &quot;GSD&#39;er&quot;.&nbsp; Look, we are flexible - if you are a stud(ette) and are good at this position and passionate, we can work out the compensation.</p>
+<p>
+	We don&#39;t offer or believe in traditional &quot;benefits.&quot;&nbsp; We want to pay you a fair, high market rate for the value you bring to the company and give you an awesome work environment - and then let you take care of yourself (or not).</p>
+<p>
+	<strong><u>NOTE:&nbsp; We are offering a $2,500 &quot;bounty&quot; to anyone who refers someone we end up hiring for at least 90 days.</u></strong></p>
+<p>
+	So if you know people like we describe above&nbsp; and want to make $2,500 - share this with your friends via LinkedIn, Twitter, Facebook, and Google+ (make sure they fill in the &quot;Referral Name&quot; field when applying!)&nbsp; Just copy &amp; paste this link:</p>
+<p>
+	http://luckygunner.theresumator.com/apply/ks7vsv/Senior-Magento-Developer.html</p>
+<p>
+	<u><strong>Or use the share buttons below.</strong></u></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/luckygunner/ks7vsv"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120910145721_RNVM0TG62AMWZIWK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Purchasing and Operations Manager]]></title>
+			<department><![CDATA[Operations]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://luckygunner.theresumator.com/apply/oYkVWf/Purchasing-And-Operations-Manager.html]]></url>
+			<city><![CDATA[Knoxville]]></city>
+			<state><![CDATA[TN]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[37919]]></postalcode>
+			<description><![CDATA[<p>
+LuckyGunner.com is a 3+ year old startup and the fastest-growing online retailer of ammunition and needs help further disrupting the industry.&nbsp; Save yourself some time and do not read any further if you like to work in petting-zoo-like environments that are slow-moving and change infrequently. &nbsp;If you like to work hard, be empowered to move the needle, be part of a productive team, solve problems, and generally get stuff done - please keep reading.</p>
+<p>
+This position is for a &quot;Purchasing and Operations Manager&quot; (henceforth, &quot;the POM&quot;).</p>
+<p>
+One of LuckyGunner.com&rsquo;s core competencies is managing and optimizing the ever-fast moving ammunition supply chain largely through creating and carrying out an effective purchasing strategy.&nbsp; This position is not for someone who wants a sedentary, safe, corporate petting-zoo lifestyle.&nbsp; Rather, this position is for a motivated, ambitious individual who can lead the charge with an ownership mentality seeking out and creating new purchasing opportunities, effectively optimizing existing supply-chain relationships, and optimizing fast moving inventory.&nbsp; If you think you have what it takes to add value to the team, then read on&hellip;.</p>
+<p>
+The POM will be joining our small, motivated team and will be working alongside our lead Purchasing Manager in the Knoxville office.&nbsp; This position will be charged with varioius tasks throughout our purchasing, supply chain, and operations departments.&nbsp; Additionally, this position will be tasked with managing other areas of the supply chain to include our logistics operations, our warehouse operations, and cash flow management.&nbsp;</p>
+<p>
+The POM may have regular responsibilities such as the following:</p>
+<ul>
+<li>
+Mapping out operations, logistics,&nbsp;purchasing, warehouse, and fulfillment&nbsp;processes to ensure that all aspects of our business are being run in an efficient manner that can be scaled and easily understood by overlapping business units</li>
+<li>
+Purchasing inventory - evaluating the&nbsp;effects of each purchasing opportunity on overall inventory breadth, inventory turnover, risk, profitability, and cash flow</li>
+<li>
+Actively looking for purchasing opportunities from suppliers - We&#39;re not looking for someone who has a sit back and wait around mentality</li>
+<li>
+Helping our warehouse and fulfillment operation streamline its processes</li>
+<li>
+Interacting with suppliers via the phone, email, and in person to ensure that our supply chain is adding the maximum value possible to both our customers and suppliers</li>
+<li>
+Interfacing with the warehouse manager to ensure that operations are running smoothly and that our inventory turnover is being maximized</li>
+<li>
+Evaluating contracts with inbound and outbound logistics providers to ensure that we are maximizing value to the market</li>
+<li>
+Traveling to meet with suppliers around the country to forge lasting relationships and enhance value for both the supplier and LG</li>
+</ul>
+<p>
+Do not apply unless you:</p>
+<ul>
+<li>
+Have an ownership mentality &ndash; You will be managing a large supply chain with lots of moving parts and you must be able to think with an owner&rsquo;s perspective to be effective</li>
+<li>
+Enjoy being challenged and pushed &ndash; we are demanding and have high standards</li>
+<li>
+Like working hard &ndash; we believe the harder you work, the luckier you get</li>
+<li>
+Enjoy identifying and solving problems by yourself &ndash; we don&rsquo;t have time to hold your hand</li>
+<li>
+Are detail oriented &ndash; this isn&rsquo;t a sales job, so hopefully your friends would describe you as anal</li>
+<li>
+Love technology &ndash; our entire business is built on and facilitated by technology, so you will need to love it (at work and in your spare time)</li>
+<li>
+Passionately driven &ndash; we don&rsquo;t like working with zombies</li>
+<li>
+Love Excel spreadsheets and Google docs &ndash; we use these tools daily to aid in making effective and objective decisions</li>
+<li>
+Are honest &ndash; it&rsquo;s obviously a prerequisite to have personal character, but our team can also be brutally honest</li>
+</ul>
+<p>
+Any of the following are bonus traits - please tell us about them:</p>
+<ul>
+<li>
+Never worked at a large corporation or the government - +1</li>
+<li>
+Previously an Entrepreneur (even mowing lawns or a lemonade stand, especially if franchised to other neighborhoods) - +2</li>
+<li>
+Raised by Entrepreneur(s) - +1</li>
+<li>
+Military experience - +1</li>
+<li>
+Competitive sports experience (beyond high school varsity level) - +1</li>
+</ul>
+<p>
+You should be familiar with most or all of the following platforms, or their close competitors (please indicate which ones you are familiar with):</p>
+<ul>
+<li>
+Microsoft Excel</li>
+<li>
+Google Docs</li>
+<li>
+Microsoft Outlook</li>
+<li>
+Google Search and general web navigation</li>
+</ul>
+<p>
+All applicants will be required to take a series of basic skills assessment tests.&nbsp; If you aren&#39;t willing to complete this, don&#39;t even bother applying.&nbsp; The process for finalists will include a more in depth skill test, a phone call, and a trip to our office to meet the team.</p>
+<p>
+This position will require work in our physical office in Knoxville, TN alongside our core team.&nbsp; It&#39;s not a problem if you don&#39;t currently live in Knoxville, but you need to be willing and able to move to take this position full-time.</p>
+<p>
+As far as compensation goes, we hate to use the cliche &quot;it depends on experience&quot; - ugh - but in this case it really will vary wildly by productivity (not necessarily &quot;seniority&quot; or experience).&nbsp; We estimate the base salary will work out to between $60,000 to $90,000 per year - with the possibility of performance bonuses if we find someone who fits our culture and is great at getting stuff done - a real &quot;GSD&#39;er&quot;.&nbsp; Look, we are flexible - if you are a stud(ette) and are good at this position and passionate, we can work out the compensation.</p>
+<p>
+We don&#39;t offer or believe in traditional &quot;benefits.&quot;&nbsp; We want to pay you a fair, high market rate for the value you bring to the company and give you an awesome work environment - and then let you take care of yourself (or not).</p>
+<p>
+<u><strong>NOTE:&nbsp; We are offering a $2,500 &quot;bounty&quot; to anyone who refers someone we end up hiring for at least 90 days.</strong></u></p>
+<p>
+So if you know people like we describe above&nbsp; and want to make $2,500 - share this with your friends via LinkedIn, Twitter, Facebook, and Google+ (make sure they fill in the &quot;Referral Name&quot; field when applying!)&nbsp; Just copy &amp; paste this link:</p>
+<p>
+http://luckygunner.theresumator.com/apply/oYkVWf/Purchasing-And-Operations-Manager.html</p>
+<p>
+<u><strong>Or use the share buttons below.</strong></u></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/luckygunner/oYkVWf"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121015180550_GEBI0REKQJWTL51G]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Customer Experience Team Leader]]></title>
+			<department><![CDATA[Customer Service]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://luckygunner.theresumator.com/apply/qblIeW/Customer-Experience-Team-Leader.html]]></url>
+			<city><![CDATA[Knoxville]]></city>
+			<state><![CDATA[TN]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[37930]]></postalcode>
+			<description><![CDATA[<p>
+LuckyGunner.com is a 4+ year old startup and the fastest-growing online retailer of ammunition.&nbsp; We are seeking a Customer Experience Team Leader (henceforth CETL) to help further disrupt the industry. &nbsp;Please skip over this job posting if all the following don&#39;t apply to you:</p>
+<ul>
+<li>
+You eat, sleep, and breathe service</li>
+<li>
+You see the customer experience as one of the main core competencies to a successful retail enterprise</li>
+<li>
+You recognize that a consistently&nbsp;exceptional customer experience is&nbsp;a valuable contribution to the value of a brand</li>
+<li>
+Your desire is to impress every single customer that interacts with an organization you are a part of</li>
+</ul>
+<p>
+The CET is not for the faint of heart; its fearless team leader will be someone who is passionate yet detailed, motivating yet disciplinary, adaptive yet regimented, and always invigorated to attain continuous improvement toward new levels of excellence.</p>
+<p>
+The CETL will be a day-to-day driving force behind the CET and will act as the head team lead to ensure that our customers are receiving the absolute, most excellent service possible and that our CET is becoming an unyielding force to be reckoned with. &nbsp;</p>
+<p>
+The CETL will need to be a master at the following:</p>
+<ul>
+<li>
+Hiring, training, and promoting new and current CET members</li>
+<li>
+Leading and participating in the everyday CET initiatives we deliver via correspondence with our&nbsp;customers (you will be getting your hands dirty too- this is a very hands on position)</li>
+<li>
+Taking personal ownership of how the CET performs as a whole</li>
+<li>
+Interacting with the warehouse to ensure CET goals are met throughout the entire customer experience (accurate order details, excellent packaging, fast order shipping/delivery, etc.)</li>
+<li>
+Forecasting CET demand/supply in parallel of market demand/supply</li>
+<li>
+Motivating the CET to improve and deliver the very best experience possible</li>
+<li>
+Ensuring that CET SOPs are followed&nbsp;and developing/implementing effective means for&nbsp; SOP accountability</li>
+<li>
+Troubleshooting and resolving escalated customer experience issues to ensure customer satisfaction</li>
+</ul>
+<p>
+Do not apply unless you like:</p>
+<ul>
+<li>
+Being type A-Anal - we are type A, capital Anal about the customer experience we deliver</li>
+<li>
+Being challenged and pushed - we are demanding and have high standards</li>
+<li>
+Being accountable- you will have to motivate &amp; discipline the team plus be accountable for all CET initiatives</li>
+<li>
+Working hard - we believe the harder you work, the luckier you get</li>
+<li>
+Having your patience tested-&nbsp; all aspects of the CET require&nbsp;a lot of patience</li>
+<li>
+Identifying and solving problems by yourself - we don&#39;t have time to hold your hand</li>
+<li>
+Excel spreadsheets &amp; Google Docs - we use them daily</li>
+<li>
+Details - this isn&#39;t a sales job, so hopefully your friends would describe you as anal</li>
+<li>
+To make decisions - and living with the consequences</li>
+<li>
+Passionate and driven - we don&#39;t like working with Zombies</li>
+<li>
+Honesty - it&#39;s obviously a prerequisite to have personal character, but our team can also be brutally honest</li>
+<li>
+Technology - our entire business is built on and facilitated by technology, so you will need to love it (at work and in your spare time)</li>
+</ul>
+<p>
+Any of the following are bonus traits - please tell us about them:</p>
+<ul>
+<li>
+Never worked at a large corporation or the government - +1</li>
+<li>
+Previously an Entrepreneur (even mowing lawns or a lemonade stand, especially if franchised to other neighborhoods) - +2</li>
+<li>
+Raised by Entrepreneur(s) - +1</li>
+<li>
+Military experience - +1</li>
+<li>
+Competitive sports experience (beyond high school varsity level) - +1</li>
+</ul>
+<p>
+All applicants will be required to take a series of basic skills assessment tests and submit a YouTube video of yourself answering some questions we will provide at a later date.&nbsp; If you aren&#39;t willing to complete this, don&#39;t even bother applying.&nbsp; The process for finalists will include a more in depth skill test, a phone call, and a trip to our office to meet the team.</p>
+<p>
+It is required that the person we hire for this position work in our physical office in Knoxville, TN alongside our core team.&nbsp; It&#39;s not a problem if you don&#39;t currently live in Knoxville, but you need to be willing and able to move to take this position full-time (perhaps after a short-test period). &nbsp;Since the CET will be depending on you, nights and weekends will be required from time-to-time but the general working hours will be between 8am and 6pm, Monday through Friday.</p>
+<p>
+As far as compensation goes, we estimate the salary will work out to between $45,000 to $65,000 per year.&nbsp; Look, we are flexible - if you are a real &quot;GSD&#39;er&quot; and are good at this position and passionate, we can work out the compensation.</p>
+<p>
+We don&#39;t offer or believe in traditional &quot;benefits.&quot;&nbsp; We want to pay you a fair, high market rate for the value you bring to the company and give you an awesome work environment - and then let you take care of yourself (or not).</p>
+<p>
+<strong><u>NOTE:&nbsp; We are offering a $1,000 &quot;bounty&quot; to anyone who refers someone we end up hiring for at least 90 days.<br />
+So if you know people like we describe above&nbsp; and want to make $1,000 - share this with your friends via LinkedIn, Twitter, Facebook, and Google+ (make sure they fill in the &quot;Referral Name&quot; field when applying!). &nbsp;Just copy &amp; paste this link::</u></strong><br />
+http://luckygunner.theresumator.com/apply/OKUS0C/CET-Leader.html<br />
+<br />
+<strong><u>Or use the share buttons below.</u></strong></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/luckygunner/qblIeW"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121027160239_L6C6QYWKZGUE1CBP]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[You Tell Us]]></title>
+			<department><![CDATA[TBD]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://luckygunner.theresumator.com/apply/gQMdBZ/You-Tell-Us.html]]></url>
+			<city><![CDATA[Knoxville]]></city>
+			<state><![CDATA[TN]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[37919]]></postalcode>
+			<description><![CDATA[<p>
+LuckyGunner.com is a 3+ year old startup and the fastest-growing online retailer of ammunition and needs help further disrupting the industry.&nbsp; Save yourself some time and <em>do not read any further </em>if you like to work in petting-zoo-like environments that are slow-moving and change infrequently.&nbsp;</p>
+<p>
+If you like to work hard, be empowered to move the needle, be part of a productive team, solve problems, and generally get stuff done - please keep reading.</p>
+<p>
+This is an open position listing and is designed for you to tell us:</p>
+<ul>
+<li>
+What should we be doing that we aren&#39;t?</li>
+<li>
+Why are you the best person to do that?</li>
+<li>
+Why do you want to be part of this team?</li>
+<li>
+How will this benefit our customers or otherwise be worthwhile?</li>
+</ul>
+<p>
+Do not apply unless you like:</p>
+<ul>
+<li>
+Being challenged and pushed - we are demanding and have high standards</li>
+<li>
+Working hard - we believe the harder you work, the luckier you get</li>
+<li>
+Identifying and solving problems by yourself - we don&#39;t have time to hold your hand</li>
+<li>
+Excel spreadsheets &amp; Google Docs - we use them daily</li>
+<li>
+Details - this isn&#39;t a sales job, so hopefully your friends would describe you as anal</li>
+<li>
+To make decisions - and living with the consequences</li>
+<li>
+Passionate and driven - we don&#39;t like working with Zombies</li>
+<li>
+Honesty - it&#39;s obviously a prerequisite to have personal character, but our team can also be brutally honest</li>
+<li>
+Technology - our entire business is built on and facilitated by technology, so you will need to love it (at work and in your spare time)</li>
+</ul>
+<p>
+<br />
+Any of the following are bonus traits - please tell us about them:</p>
+<ul>
+<li>
+Never worked at a large corporation or the government - +1</li>
+<li>
+Previously an Entrepreneur (even mowing lawns or a lemonade stand, especially if franchised to other neighborhoods) - +2</li>
+<li>
+Raised by Entrepreneur(s) - +1</li>
+<li>
+Military experience - +1</li>
+<li>
+Competitive sports experience (beyond high school varsity level) - +1</li>
+</ul>
+<p>
+All applicants will be required to take a series of basic skills assessment tests and submit a YouTube video of yourself answering some questions we will provide at a later date.&nbsp; <em>If you aren&#39;t willing to complete this, don&#39;t even bother applying</em>.</p>
+<p>
+Our preference is to hire someone to work in our physical office in Knoxville, TN alongside our core team.&nbsp; If we find a perfect match for the position and the only hang-up is moving to Knoxville, we would consider an exception for the perfect fit - but we would really prefer this person to work with our team in Knoxville.</p>
+<p>
+As far as compensation goes, we hate to use the cliche <em>it depends on experience</em> - ugh - but in this case it really will vary wildly by the proposed position and productivity. &nbsp;Look, we are flexible - if you are a bonafide GSD&#39;er and are passionate, we can work out the compensation.</p>
+<p>
+We don&#39;t offer or believe in traditional &quot;benefits.&quot;&nbsp; We want to pay you a fair, high market rate for the value you bring to the company and give you an awesome work environment - and then let you take care of yourself (or not).</p>
+<p>
+<strong><em>NOTE:&nbsp; We are offering a $1,000 &quot;bounty&quot; to anyone who refers someone we end up hiring for at least 90 days</em>.&nbsp;</strong></p>
+<p>
+So if you know people like we describe above&nbsp; and want to make $1,000 - <u>share this with your friends</u> via LinkedIn, Twitter, Facebook, and Google+ (make sure they fill in the &quot;Referral Name&quot; field when applying!)&nbsp; Just copy &amp; paste this link::<br />
+http://luckygunner.theresumator.com/</p>
+<p>
+<strong><u>Or use the share buttons below.</u></strong></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/luckygunner/gQMdBZ"></script>]]></buttons>
+		</job>
+	</jobs>

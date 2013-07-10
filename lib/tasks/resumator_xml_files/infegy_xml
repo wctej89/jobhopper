@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Infegy]]></company>
+			<job>
+			<id><![CDATA[job_20130508144119_3IAAIWTNUZWS2FGN]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Backend Developer (Python)]]></title>
+			<department><![CDATA[Development / R&D]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://infegy.theresumator.com/apply/db2B8k/Backend-Developer-Python.html]]></url>
+			<city><![CDATA[Kansas City]]></city>
+			<state><![CDATA[MO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[64116]]></postalcode>
+			<description><![CDATA[<p>
+At Infegy, we focus on delivering rich market research and consumer insight data through the analysis of online dialog and social media. With a 30 terabyte dataset of content spanning more than 6 years of time, stored on our own in-house hardware, we face some of the toughest challenges in performance, scalability, architecture and reliability. We highly value innovative solutions from flexible problem solvers, and offer a fun, fast-paced environment to work in.</p>
+<p>
+Our ideal candidate should be confident tackling complex engineering problems and be comfortable working with others in a small team to achieve common goals. Our employees are self-motivating, with good use of their time, and able to work without direct management.</p>
+<p>
+Hackers welcome!</p>
+<p>
+Infegy offers competitive pay and fantastic benefits to all employees.</p>
+<p>
+Responsibilities:</p>
+<ul>
+<li>
+Manage and improve our Python-based API and analysis functionality</li>
+<li>
+Contribute new functionality for deeper analysis of our dataset</li>
+<li>
+Quickly deliver quality high-performance solutions</li>
+</ul>
+<p>
+Requirements:</p>
+<ul>
+<li>
+Experience writing high performance code in Python for Linux/Unix</li>
+<li>
+Superior analytical and troubleshooting skills</li>
+<li>
+High proficiency in Python</li>
+<li>
+Experience working with databases and web APIs</li>
+<li>
+A solid foundation in computer science, with strong understanding of data structures, algorithms, and software design</li>
+</ul>
+<p>
+Bonus Points:</p>
+<ul>
+<li>
+Familiarity with Javascript and web application front-ends</li>
+<li>
+Experience with C++</li>
+<li>
+Applied knowledge of NLP / textual analysis</li>
+<li>
+Contributions to open source software</li>
+<li>
+Experience working on servers running Ubuntu/Debian</li>
+<li>
+Distributed/large-scale processing experience</li>
+</ul>
+<p>
+For more on our company and what we do, visit <a href="http://www.infegy.com">www.infegy.com</a></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/infegy/db2B8k"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130508143531_DSJANPD5IBJYMVBE]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Lead Generator]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://infegy.theresumator.com/apply/aiEyAL/Lead-Generator.html]]></url>
+			<city><![CDATA[Kansas City]]></city>
+			<state><![CDATA[MO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[64116]]></postalcode>
+			<description><![CDATA[<p>
+At Infegy, we focus on delivering rich market research and consumer insight data through the analysis of online dialog and social media. We provide software as a service to research companies, marketing and advertising firms and large B2C enterprise.</p>
+<p>
+We&rsquo;re looking for an energetic, passionate individual to join our team assisting with lead generation using our effective process. This position pays base plus recurring commissions for qualified leads generated.</p>
+<p>
+Infegy offers competitive pay and fantastic benefits to all employees.</p>
+<p>
+<br />
+Responsibilities:</p>
+<ul>
+<li>
+Identify and establish contact with target companies</li>
+<li>
+Qualify preliminary leads</li>
+<li>
+Set up demonstrations for other team members</li>
+<li>
+Work with our team to refine strategy and improve performance</li>
+</ul>
+<p>
+Requirements:</p>
+<ul>
+<li>
+Familiarity using web applications like GMail and LinkedIn</li>
+<li>
+Sales experience</li>
+<li>
+Energetic and dedicated with specific examples of&nbsp; strong work ethic</li>
+</ul>
+<p>
+Bonus Points:</p>
+<ul>
+<li>
+Experience with Salesforce.com</li>
+<li>
+Competency with Microsoft Office</li>
+<li>
+Master of Google Apps</li>
+<li>
+Bachelors degree</li>
+</ul>
+<p>
+For more on our company and what we do, visit <a href="http://www.infegy.com">www.infegy.com</a></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/infegy/aiEyAL"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130508144313_FLHLZM8JQLOWQC5J]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Application Developer (Javascript)]]></title>
+			<department><![CDATA[Development / R&D]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://infegy.theresumator.com/apply/xwWUVC/Web-Application-Developer-Javascript.html]]></url>
+			<city><![CDATA[Kansas City]]></city>
+			<state><![CDATA[MO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[64116]]></postalcode>
+			<description><![CDATA[<p>
+At Infegy, we focus on delivering rich market research and consumer insight data through the analysis of online dialog and social media. With broad analytical functionality backed by our own 30 terabyte dataset of content spanning more than 6 years of time, we face some of the toughest challenges in data visualization, user experience and performance. We highly value innovative solutions from flexible problem solvers, and offer a fun, fast-paced environment to work in.</p>
+<p>
+Our ideal candidate should be confident tackling complex engineering problems and be comfortable working with others in a small team to achieve common goals. Our employees are self-motivating, with good use of their time, and able to work without direct management.</p>
+<p>
+Hackers welcome!</p>
+<p>
+Infegy offers competitive pay and fantastic benefits to all employees.</p>
+<p>
+Responsibilities:</p>
+<ul>
+<li>
+Manage and improve our user interface and data visualizations</li>
+<li>
+Contribute new functionality for deeper analysis of our dataset</li>
+<li>
+Quickly deliver quality solutions using Javascript and modern web technologies</li>
+</ul>
+<p>
+Requirements:</p>
+<ul>
+<li>
+Experience writing modern interactive web applications</li>
+<li>
+Superior analytical and troubleshooting skills</li>
+<li>
+High proficiency in Javascript</li>
+<li>
+Experience working with API-driven web applications</li>
+<li>
+A solid foundation in computer science, with strong understanding of data structures, algorithms, and software design</li>
+</ul>
+<p>
+Bonus Points:</p>
+<ul>
+<li>
+Familiarity with Python</li>
+<li>
+Contributions to open source software</li>
+<li>
+Experience working on servers running Ubuntu/Debian</li>
+<li>
+Demonstrated skills with style and UX design</li>
+</ul>
+<p>
+For more on our company and what we do, visit <a href="http://www.infegy.com">www.infegy.com</a></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/infegy/xwWUVC"></script>]]></buttons>
+		</job>
+	</jobs>

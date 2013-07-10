@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Orbotix, Inc.]]></company>
+			<job>
+			<id><![CDATA[job_20120305030535_YJBSNQOSG3TL6Z0Y]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[3D Game Developer]]></title>
+			<department><![CDATA[Software]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://orbotix.theresumator.com/apply/nWjr33/3D-Game-Developer.html]]></url>
+			<city><![CDATA[Boulder]]></city>
+			<state><![CDATA[CO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[80302]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Summary</strong></p>
+<p>
+At Orbotix we blend robotics and augmented reality pushing the capabilities of modern mobile hardware (<a href="http://vimeo.com/53561976">http://vimeo.com/53561976</a>). We are looking for someone that is motivated, and willing to think outside the sphere! If you have interest in working with a team to bring games to market, have a great personality, and a Can-Do attitude &ndash; We would love to hear from you!</p>
+<p>
+<strong>Role &amp; Responsibilities</strong></p>
+<ul>
+<li>
+Assist&nbsp;&nbsp;a small team to create games and gaming interfaces that utilize the Sphero API.</li>
+<li>
+Brainstorm new augmented reality gameplay elements and concepts.</li>
+<li>
+Create cutting edge augmented reality gaming experiences.</li>
+<li>
+You will work closely with both the others on the software development team as well as the hardware engineers during implementation.</li>
+<li>
+Assist in&nbsp;implementing new game mechanics&nbsp;that bridges the reality of Sphero with the virtual connected environment of the smartphone in a complementary way.</li>
+</ul>
+<p>
+<br />
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Excellent work ethic and attention to detail.</li>
+<li>
+Bachelor&rsquo;s degree in Computer Science, Electrical Engineering,&nbsp;or equivalent skill set.</li>
+<li>
+Experience with Unity 3D or similar game engine.</li>
+<li>
+Strong 3D Linear Algebra skills</li>
+<li>
+Interest in hardware and robotics.</li>
+<li>
+Knowledge of best practices in software design, and development.</li>
+<li>
+Excellent written and verbal communication skills.</li>
+<li>
+4+ years experience&nbsp;with C/C++</li>
+<li>
+Familiarity&nbsp;with&nbsp;ObjC/C#</li>
+<li>
+Experience with low level programming and memory management.</li>
+</ul>
+<p>
+<br />
+<strong>Nice-to-Have&rsquo;s</strong></p>
+<ul>
+<li>
+Startup experience.</li>
+<li>
+Real world experience in bringing apps to market.</li>
+<li>
+Experience with iPhone/iPod Touch/iPad development, deployment and testing.</li>
+<li>
+Experience with Android development, deployment and testing.</li>
+<li>
+Experience in OpenGL and other graphic libraries.</li>
+<li>
+Experience with hardware and robotics.</li>
+<li>
+Experience in Bluetooth communication.</li>
+<li>
+Familiarity with the engineering challenges of control systems.</li>
+<li>
+Experience with distributed version control systems (SVN, Git).</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/orbotix/nWjr33"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130117004547_OZTTFTZ6HMVQPONF]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Computer Vision Engineer]]></title>
+			<department><![CDATA[Software]]></department>
+			<team><![CDATA[Vision]]></team>
+			<url><![CDATA[http://orbotix.theresumator.com/apply/v0UY23/Computer-Vision-Engineer.html]]></url>
+			<city><![CDATA[Boulder]]></city>
+			<state><![CDATA[CO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[80302]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Summary</strong></p>
+<p>
+At Orbotix we blend robotics and augmented reality pushing the capabilities of modern mobile hardware (<a href="http://vimeo.com/53561976" target="_parent">http://vimeo.com/53561976</a>).&nbsp; We are looking for a dynamic, motivated computer vision engineer to join our team in Boulder, CO.&nbsp; Responsibilities include designing cutting edge vision algorithms, interfacing new technology with our existing AR engine, solving diverse software/hardware problems, and building category-defying mobile games.</p>
+<p>
+If you want to share your knowledge while learning from others, work smart, and contribute to some awesome projects, we think you&rsquo;ll have a blast with us. As a bonus you&rsquo;ll get to play with robots, games and mobile devices all day long. We are willing to relocate the right person to Colorado.</p>
+<p>
+<br />
+<strong>Requirements</strong></p>
+<p>
+Must have low level knowledge of modern computer vision techniques including:</p>
+<ul>
+<li>
+SLAM technologies</li>
+<li>
+Pose estimation/bundle adjustment</li>
+<li>
+Real-time reconstruction</li>
+<li>
+Dense methods.</li>
+</ul>
+<p>
+<br />
+Proficiency in C/C++.<br />
+Eagerness to problem solve outside your discipline.<br />
+Interest in iOS and Android Development.<br />
+Interest in robotics.<br />
+Cooperative, independent thinker who takes personal ownership of projects.</p>
+<p>
+Although you are encouraged to send a traditional resume, a resume alone won&rsquo;t make you stand out. So along with your resume please send an explanation of who you are and why you would be a good fit for Orbotix. Include pictures, videos, or screenshots of your previous projects, both professional and personal. We&rsquo;re just geeks like you so don&rsquo;t hold back.</p>
+<br />
+<p>
+<strong>About Orbotix</strong></p>
+<p>
+Orbotix is a venture backed startup with the vision that you shouldn&rsquo;t be limited to emailing, getting directions, and playing a game of scrabble on your mobile device. You should be able to just as easily download an app to control all of the physical devices around you. No more remotes. No more clunky interfaces. No more keys. Everything is done with the powerful mobile device that you already carry with you. We&rsquo;re looking for someone great to join our small but hardcore engineering team to help design and implement our products, starting with Sphero, a powerful robotic entertainment device.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/orbotix/v0UY23"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130201202843_BEUNK28KYMHBJUWN]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Director of Manufacturing]]></title>
+			<department><![CDATA[Manufacturing]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://orbotix.theresumator.com/apply/S0VDiW/Director-Of-Manufacturing.html]]></url>
+			<city><![CDATA[Boulder]]></city>
+			<state><![CDATA[CO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[80301]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Orbotix, Inc.<br />
+Director of Manufacturing<br />
+Executive &ndash; Boulder, CO and Cong Hua &ndash; Full Time</strong></p>
+<p>
+<br />
+<strong>Summary</strong><br />
+At Orbotix we blend robotics and augmented reality pushing the capabilities of modern hardware (http://vimeo.com/53561976).&nbsp; We are looking for a dynamic, motivated manufacturing professional to join our team in Boulder, CO to act as a liaison to, and manager of our off shore manufacturing efforts.&nbsp; Responsibilities include owning and managing manufacturing schedules, assisting in procurement, coordination of technical teams across cultures, managing projects involved in product launches and updates, integrating vendors of packaging, radios, plastics, sensors, and electronics.</p>
+<p>
+If you enjoy travel, cross cultural business, and want contribute to some awesome products, we think you&rsquo;ll have a blast with us. As a bonus you&rsquo;ll get to play with robots, games and mobile devices as part of the job. We are willing to relocate the right person to Colorado.</p>
+<p>
+<strong>Requirements</strong><br />
+Must have experience in a full spectrum of manufacturing disciplines including:<br />
+&bull; Taking prototype designs into production and bridging between the design engineers and manufacturing engineers<br />
+&bull; Modern assembly techniques and optimization<br />
+&bull; Test and quality engineering<br />
+&bull; Electronics fabrication techniques<br />
+&bull; Injection molding and plastics technology<br />
+&bull; Manufacturing financials<br />
+&bull; Production schedules<br />
+&bull; Product lifecycle management<br />
+&bull; Knowledge of contract and purchasing issues involved in high volume off shore manufacturing<br />
+&bull; Issues surrounding products involving software and firmware<br />
+&bull; Knowledge of product conformance regulations such as CPSIA, UL, CE, FCC, IEC, ISO etc.</p>
+<p>
+Additionally we are looking for a candidate with experience managing contract OEMs in China for consumer electro-mechanical products.&nbsp; Strong project management skills and ability to manage to multiple products and schedules is required.&nbsp; Experience around sourcing and cost reduction is a must.&nbsp; We are looking for a professional with the ability to lead continuous improvement efforts in manufacturing.&nbsp; Knowledge of ISO processes, product certification processes such as FCC, UL,</p>
+<p>
+We are looking for an executive with:<br />
+&bull; Engineering or Technical degree with at least 5+ years of hands-on experience<br />
+&bull; Extreme attention to detail<br />
+&bull; Willingness to travel frequently and stay in China for extended periods of time<br />
+&bull; Cooperative, independent thinker who takes personal ownership of projects</p>
+<p>
+<strong>About Orbotix</strong><br />
+Orbotix is a venture backed startup with the vision that you shouldn&rsquo;t be limited to emailing, getting directions, and playing a game of scrabble on your mobile device. You should be able to just as easily download an app to control all of the physical devices around you. No more remotes. No more clunky interfaces. No more keys. Everything is done with the powerful mobile device that you already carry with you. We&rsquo;re looking for someone great to join our small but hardcore team to help bring our next generation products into the marketplace, starting with Sphero, a powerful robotic entertainment device.&nbsp; Please submit a resume and cover letter and any other video links, files or file links that will help us understand your capabilities.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/orbotix/S0VDiW"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130227231413_QUU35GS6IJPXA7IV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Retail Experience Specialist]]></title>
+			<department><![CDATA[Operations]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://orbotix.theresumator.com/apply/QdDVpt/Retail-Experience-Specialist.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10027]]></postalcode>
+			<description><![CDATA[<p>
+Job Title: Retail Experience Specialist<br />
+Location: NY and CA (open to travel up and down coast)</p>
+<p>
+General Summary:</p>
+<p>
+Orbotix is looking for a young, fun, enthusiastic person that likes to play with balls. Yes, we said balls, particularly robotic balls. We are looking for a person that will enthusiastically demonstrate all the capabilities of Sphero to retail associates at the retailers Sphero is sold at and keep them up to date with the latest and greatest apps and advancements. The position also entails demo-ing Sphero at these retail locations to help staff sell Sphero.&nbsp; This is a full time position.</p>
+<p>
+<br />
+Candidate Attributes:</p>
+<p>
+&bull; Self Starter<br />
+&bull; Enthusiastic<br />
+&bull; Friendly<br />
+&bull; Coordinate and execute retailer and end user customer product demonstrations and events.<br />
+Job requirements:</p>
+<p>
+&bull; Associate degree or equivalent work experience.<br />
+&bull; 1-3+ years of retail/customer facing experience.<br />
+&bull; Attention to detail<br />
+&bull; Excellent communication skills both verbal and written.<br />
+&bull; Confident leading small and medium technical and sales training presentations.<br />
+&bull; Open to leading demos at key events and retailers as needed.<br />
+&bull; Retail Sales Experience and a passion for working directly with retail customers.<br />
+&bull; Work on weekends<br />
+&bull; Willing to travel (local mainly)<br />
+&bull; Tech savvy (interest in gaming is preferable)<br />
+&bull; Knowledge of Excel<br />
+&bull; Valid driver&rsquo;s license and reliable transportation.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (High School)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/orbotix/QdDVpt"></script>]]></buttons>
+		</job>
+	</jobs>

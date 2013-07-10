@@ -1,0 +1,447 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Addepar]]></company>
+			<job>
+			<id><![CDATA[job_20130518003728_R8LKN21TYA7MA15B]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Deployment Manager]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://addepar.theresumator.com/apply/lykgU9/Deployment-Manager.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94043]]></postalcode>
+			<description><![CDATA[<p>
+Our deployments managers exhibit a rare combination of deep technical expertise and exceptional emotional intelligence. Our perfect candidate obsesses over building and optimizing, has the technical chops to dive into any data problem, and loves tackling complex product issues. They thrive working directly with our clients, and can clearly communicate their frontline knowledge to our product teams, while playing an instrumental role in building new tools to scale our process.</p>
+<p>
+<br />
+We expect members of our deployment team to have a deep understanding of finance. You&rsquo;ll be interacting with the front and back offices of the world&rsquo;s most sophisticated advisers and investors, but at the same time will be in constant contact with some of the best technologists and engineers in Silicon Valley. Deployment team members are required to exist and thrive in both worlds.</p>
+<p>
+<br />
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+Work closely with clients to deploy the Addepar platform and ensure our deployed product exceeds their expectations</li>
+<li>
+Clearly and effectively set and manage expectations</li>
+<li>
+Work closely with product, engineering and data teams</li>
+<li>
+Manage the data onboarding process for new clients while leveraging technical expertise to migrate data on to Addepar</li>
+<li>
+Continue to develop and refine the tools to make our deployments turnkey and as seamless as possible</li>
+</ul>
+<p>
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+Degree in CS, Math, or related Engineering Field</li>
+<li>
+1-3 years of previous experience in finance</li>
+<li>
+Working knowledge of scripting languages, i.e. python, perl, ruby</li>
+<li>
+Solid understanding of asset allocation and performance metrics</li>
+<li>
+Strong communication skills and the ability to understand clients&rsquo; business needs</li>
+<li>
+Passionate about technology and software development</li>
+<li>
+Unstoppable work ethic and motivation</li>
+<li>
+{Bonus} Deep understanding of wealth management industry</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/addepar/lykgU9"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130114175016_ZULVGBZTTQ2XTA1P]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Frontend Engineer]]></title>
+			<department><![CDATA[Software Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://addepar.theresumator.com/apply/uWlLC3/Frontend-Engineer.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94043]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Our frontend engineers are elite developers, passionate about building for a great user experience.</strong></p>
+<p>
+We believe that great products start with amazing design and flawless execution, so we sit and work with the design team. You&#39;ll join us in the &quot;DUI&quot; (Design and UI area).</p>
+<p>
+We believe frontend engineers should move very quickly. You&#39;ll help us hack, test, and refactor in short cycles with tight feedback loops.</p>
+<p>
+We believe in contributing back to the community with open-source libraries and tools.</p>
+<p>
+We push each other and learn from the whole team. You&#39;ll wake up one morning with a finance degree&#39;s worth of knowledge.</p>
+<p>
+<strong>Fun Perks</strong></p>
+<ul>
+<li>
+Awesome Development Stack. Ember.js, CoffeeScript, d3.js, grunt, and a Scala backend/API.</li>
+<li>
+Develop for WebKit only. (...&nbsp;90% of the time.)</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+You&#39;ve built&nbsp;things you want to show us</li>
+<li>
+You care deeply about the people who use your applications.</li>
+<li>
+You&#39;re a technologist, and get excited by&nbsp;pushing engineering boundaries.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/addepar/uWlLC3"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130114001710_R34HFCIKUXLFMPNE]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[Software Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://addepar.theresumator.com/apply/y5D9Zj/Software-Engineer.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94043]]></postalcode>
+			<description><![CDATA[<p>
+Engineers form the core of our culture and team.</p>
+<p>
+At Addepar, we value software design, reliability, and user experience. We&#39;re looking to create a product and brand that inspires people and aligns incentives in the most important industry in the world. Help us invent the tools to run global finance.</p>
+<p>
+<b>What our engineers do:</b></p>
+<p>
+On the backend, you will architect and implement robust, well-tested software. You&#39;ll build mission-critical services and APIs that scale with increasingly large and complex datasets.</p>
+<p>
+On the frontend, you&#39;ll build pixel-perfect designs with inspired interaction design. You&#39;ll work closely with designers and product leaders to develop applications that blow people away.</p>
+<p>
+<strong>They also:</strong></p>
+<ul>
+<li>
+Optimize for performance, functionality, and stability.</li>
+<li>
+Revisit and improve existing features, rethinking previous assumptions.&nbsp;Nothing is ever done.</li>
+<li>
+Troubleshoot customer deployment issues requiring rapid identification and fixes.</li>
+<li>
+Build massive datasets of the world&#39;s public and private financial graph,&nbsp;designing and developing tools and architectures to simplify the process.</li>
+<li>
+Identify current software and design weaknesses, and help to develop solutions.</li>
+<li>
+Apply theoretical expertise in computer science to real world problems.</li>
+<li>
+Focus on rebuilding robust tests.</li>
+</ul>
+<p>
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+Technologist, by education or trade, with a fundamental understanding of Computer Science.</li>
+<li>
+Experienced in concurrent programming, and developing low-latency/high-throughput software.</li>
+<li>
+Personal projects or open source contributions you want to show off.</li>
+<li>
+<em>&#91;bonus&#93;</em> Deep proficiency in Java&nbsp;and/or Javascript.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/addepar/y5D9Zj"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130114180041_1XY1A3HPYEMRLKJ7]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[QA - Blackbox Tester]]></title>
+			<department><![CDATA[Product]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://addepar.theresumator.com/apply/7VKg02/QA-Blackbox-Tester.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94043]]></postalcode>
+			<description><![CDATA[<p>
+At Addepar, our quality assurance team is entrusted with verifying the functionality, integrity, and usability&nbsp; of our software. The team works diligently to identify and resolve issues before we release it to our users to ensure a flawless experience.&nbsp; Their relentless focus on product quality and extreme attention to detail&nbsp; allows us to deliver our revolutionary software platform.</p>
+<p>
+We&rsquo;re looking for a highly motivated, detail-oriented individual to improve and automate our current testing framework. In addition, you&rsquo;ll help validate specs, verify fixes, and be our resident expert in automation testing.</p>
+<p>
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+Automate QA tests and processes</li>
+<li>
+Manage multiple testing projects simultaneously</li>
+<li>
+Work closely with the development team to cooperatively develop testing automation framework</li>
+<li>
+Test planning and documentation of testing framework (to include both manual and automation testing)</li>
+<li>
+Manual testing as needed</li>
+</ul>
+<p>
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+Strong background in building automated tests, specifically&nbsp;for web applications</li>
+<li>
+Ability to dive deep on technical issues with developers with proficiency in javascript, coffeescript, and / or related technologies</li>
+<li>
+Familiarity with best practices in software QA</li>
+<li>
+Excellent communicator, both written and verbal</li>
+<li>
+&#91;Bonus&#93; Knowledge of finance</li>
+<li>
+&#91;Bonus&#93; Degree in computer science or engineering</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/addepar/7VKg02"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130114190806_ZJUXSASJ6MA237SJ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Systems Admin Engineer]]></title>
+			<department><![CDATA[Software Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://addepar.theresumator.com/apply/X08Q3x/Systems-Admin-Engineer.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94043]]></postalcode>
+			<description><![CDATA[<p>
+As a Systems Admin at Addepar, you will utilize your combination of significant Linux experience, network knowledge, scripting abilities, information security, and debugging skills to design, deploy, monitor and automate all operational aspects of Addepar&#39;s platform.</p>
+<p>
+You will be joining the DevOps and Security team and be responsible for deploying both offensive and defensive techniques to keep our platform humming. You should have a background in large-scale system administration and be familiar with open source technologies, such as Jenkins, Puppet and Chef. You will work very closely with the product and development teams. Experience with Amazon&#39;s AWS APIs, shell scripting, Python and / or Perl is preferred. Familiarity with MySQL, MongoDB, Scala, Java, Javascript is a plus!</p>
+<p>
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+You will be responsible for the overall health and performance of our platform.</li>
+<li>
+You should know standard security practices and also be able to identify any potential application specific vulnerabilities.</li>
+<li>
+Tools development. We want engineers that can automate the deployment, administration, and monitoring of our large-scale Linux environments.</li>
+<li>
+Gain deep application-level knowledge of the systems as well as contributing to their overall design.</li>
+<li>
+Work with development teams to enhance, document, establish process and generally improve the operability and security of our systems.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/addepar/X08Q3x"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130403230602_BZPPBN8NOYEM7XCL]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Security Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://addepar.theresumator.com/apply/YpTnLf/Security-Engineer.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94043]]></postalcode>
+			<description><![CDATA[<p>
+At Addepar, we are creating a product and brand that inspires people and aligns incentives in the most important industry in the world, global finance. We are rebuilding the tools and infrastructure that power wealth management, and information security is our top priority.</p>
+<p>
+We are looking for a Security Engineer to focus on improving our engineering from a security perspective.&nbsp; This engineer will be responsible for reviewing our current code and future code, suggesting improvements to ensure that we are using secure engineering best practices, implementing security mechanisms in our software, fixing any security bugs found and potentially using their knowledge to discover new security bugs before outsiders discover them. If you review code through the eyes of a hacker and have a passion for building with a security bent, we&rsquo;d love to tell you more!</p>
+<p>
+<strong>Responsibilities:</strong></p>
+<p>
+Develop patches and new security features to help mitigate security flaws<br />
+Coordinate activities during the deployment of security-relevant features<br />
+Perform security code audits and design reviews<br />
+Evangelize security and secure coding practices across the engineering team</p>
+<p>
+<strong>Requirements:</strong></p>
+<p>
+4+ years of relevant work experience in application security, triaging and fixing security bugs<br />
+Strong background in software development and engineering, with proficiency in either Java or Scala<br />
+Hands-on experience triaging and understanding the root cause of security bugs<br />
+Self-motivation, proactive attitude and security paranoia</p>
+<p>
+&#91;bonus&#93; Experience in source code reviews, vulnerability assessment tools and methodologies<br />
+&#91;bonus&#93; Development experience in JavaScript<br />
+&#91;bonus&#93; Demonstrated experience contributing or collaborating with OpenSource projects</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/addepar/YpTnLf"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130525001708_840MD4RQTPQBBYFD]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sales Executive - Funds]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://addepar.theresumator.com/apply/FMoMqn/Sales-Executive-Funds.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94043]]></postalcode>
+			<description><![CDATA[<p>
+Addepar recently launched a platform for the fund space working closely with the premier VC, Private Equity, fund of funds, and fund administrators in the industry. This product leverages the existing Addepar strengths of analysis and reporting with new accounting and administrative features critical to funds.&nbsp; Since introducing this product, we&rsquo;ve had an overwhelming response acknowledging a significant need for a product like Addepar Funds.</p>
+<p>
+With this exciting launch, Addepar is looking to hire our first Sales Executive for Funds to develop our brand in the market, bring and build strong relationships in the space, and ultimately close sales making Addepar THE technology platform for funds. Our perfect candidate will have a deep understanding of the alternative money management industry and will be able to translate this knowledge to building our sales pipeline, developing strategic partnerships, tapping new sales channels, and building a business.</p>
+<p>
+If you know the fund industry inside and out, and you&rsquo;re looking to build a business from the ground up in a trillion dollar industry, join us!</p>
+<p>
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+5+ years experience working at a private equity, venture capital or fund of fund or selling reporting or accounting technology to a fund</li>
+<li>
+Knowledge of how a fund operates (accounting, GP/LP structure, carry, financial metrics)</li>
+<li>
+Passionate about developing relationships and sharing the Addepar story</li>
+<li>
+Extraordinary communicator</li>
+<li>
+Consistently overachieves targets/goals</li>
+<li>
+Competitive in nature</li>
+<li>
+{Bonus} Product experience developing technology</li>
+<li>
+{Bonus} Strong network in the funds space</li>
+</ul>
+<p>
+<br />
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+Engage and close Addepar Funds sales contracts</li>
+<li>
+Maintain current client relationships to develop referral and renewal sales avenues.</li>
+<li>
+Establish the Addepar Funds brand in the marketplace</li>
+<li>
+Build out existing sales channels while looking at creative, unique ways to leverage our network to build new ones</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/addepar/FMoMqn"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130620004127_V0MDXHL3DNGYQW0R]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Executive Assistant]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://addepar.theresumator.com/apply/FNfNGL/Executive-Assistant.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94043]]></postalcode>
+			<description><![CDATA[<p>
+At Addepar, we aren&rsquo;t just looking for job seekers; we&rsquo;re looking for amazing individuals that want to contribute to a growing start-up with massive potential. Our product, and ultimately, our impact on global finance will be defined by the strength of our people. As an Executive Assistant, you&rsquo;ll work closely with a team to leverage a busy Senior Addepar Executive. Our perfect candidate thrives in a fast-paced startup environment, loves creating order out of chaos, and can systematically problem solve while under pressure. On any given day, you may be building a complex travel itinerary, coordinating schedules and meetings among multiple Addepar executives, or managing administrative projects from beginning through completion with every detail accounted for along the way.</p>
+<p>
+<br />
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+High-volume scheduling and meeting confirmations</li>
+<li>
+Managing communication and meeting follow-up while becoming a power user of our CRM (Customer Relationship Management) system</li>
+<li>
+Booking reservations for travel, meals, and meetings</li>
+<li>
+Performing research to ensure Executive is prepared for all meetings</li>
+<li>
+Enhancing Executive&rsquo;s effectiveness through seamless operational support</li>
+</ul>
+<p>
+<br />
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+Previous Administrative or Executive Assistant experience</li>
+<li>
+Outstanding verbal and written communication skills</li>
+<li>
+Willingness to do a wide array of tasks among numerous teams and disciplines</li>
+<li>
+Will be required to perform some personal tasks and errands</li>
+<li>
+Proven success in meticulously managing details</li>
+<li>
+Exceptional organizational skills</li>
+<li>
+College Degree preferred</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/addepar/FNfNGL"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130702010823_JUHVULCZYBJ2TQFS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sales - Business Development]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://addepar.theresumator.com/apply/0OuUdv/Sales-Business-Development.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94043]]></postalcode>
+			<description><![CDATA[<p>
+Addepar is the ultimate all-in-one platform for wealth managers. We&rsquo;ve spent the past 3.5 years building and we&rsquo;re ready to take our product to market; we&rsquo;re at an inflection point and we seek best-of-the-best sales professionals to help us scale an already great product. The Addepar platform aggregates, enriches, reconciles, and delivers meaningful information to its users in a way that has never been done before.</p>
+<p>
+<br />
+At Addepar&rsquo;s core is a team of builders. Our perfect candidate is looking to build a business of their own at Addepar and we&rsquo;ll give you all the tools and resources necessary in order to accomplish this. With your help, we are proving to industry experts that manual data entry, single currency calculations, and weeks of work to create a single report are things of the past. We have tremendous momentum and we are looking for a key player to ensure prospective and current clients alike understand our mission to reimagine the space of global finance.</p>
+<p>
+<br />
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+Build and maintain a robust sales pipeline</li>
+<li>
+Manage sales prospects through initial contact through closing</li>
+<li>
+Qualify good business for Addepar based on clients need and goal of mutual success</li>
+<li>
+Maintain client relationships and retention</li>
+<li>
+Continue to build Addepar sales channels including referral network, partners, custodial relationships, etc.</li>
+</ul>
+<p>
+<br />
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+Previous experience in and / or deep understanding of financial services and investment management</li>
+<li>
+Proven history of over achievement of set targets and goals</li>
+<li>
+Strong competitive drive and desire to win</li>
+<li>
+Bachelor&#39;s degree from top institution</li>
+<li>
+Previous experience in a sales, business development, or entrepreneurial role</li>
+<li>
+{Bonus} Previous experience with product management (working with development teams or growing product)</li>
+<li>
+{Bonus} Ability to leverage contacts in the RIA, multifamily office, asset management, and wealth management sectors</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/addepar/0OuUdv"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[(mt) Media Temple]]></company>
+			<job>
+			<id><![CDATA[job_20100428195820_UVFAQMDBUT38XJLN]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sr Systems Engineer]]></title>
+			<department><![CDATA[(mt) Media Temple]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://mediatemple.theresumator.com/apply/E1gigw/Sr-Systems-Engineer.html]]></url>
+			<city><![CDATA[Culver City]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90232]]></postalcode>
+			<description><![CDATA[<p><span style="font-family: Helvetica; font-size: medium; line-height: normal;">
+<div style="background-color: #ffffff; font-size: 12px; line-height: 13pt; color: #000000; font-weight: normal; font-family: Arial, Helvetica, sans-serif; text-align: left; background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-position: initial initial; padding: 10px; margin: 0px; border: initial none initial;">
+<p style="font-size: 10pt; line-height: 13pt; color: #000000; font-weight: normal; margin-top: 10px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding: 0px;"><span style="color: #393939;">(mt) Media Temple, Inc. is an industry-leading, privately held, profitable web hosting and software application services company based in California. Since 1998, our company has provided businesses worldwide with reliable, professional-class network environments to host websites, email, business applications, and other rich media content. We are a friendly, accessible group of "technology agnostic" engineers, support professionals, and business developers focused on the continued financial success of our company while adding value to the services we provide. As our operations continue to grow, so does our need for senior level engineers to help maintain and develop our network infrastructure. </span></p>
+<p style="font-size: 10pt; line-height: 13pt; color: #000000; font-weight: normal; margin-top: 10px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding: 0px;"><span style="color: #393939;">The ideal candidate for this position will be someone who is able to build and run complex, scalable, automated systems by composing existing software, operating systems, and devices via the use of configurations and code. In order to excel at this job, you are going to need to possess most of the following skills:</span></p>
+<p style="font-size: 10pt; line-height: 13pt; color: #000000; font-weight: normal; margin-top: 10px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding: 0px;"><span style="color: #393939;"> </span></p>
+<ul style="font-size: 10pt; font-weight: normal; line-height: 13pt; list-style-type: disc;">
+<li style="font-size: 10pt; font-weight: normal; line-height: 13pt; padding: 0px; margin: 0px;"><span style="color: #393939;">Substantial Linux or UNIX system experience</span>** <span style="color: #393939;">Solid background with RedHat/Debian/Ubuntu or equivalent</span>**<span style="color: #393939;">Solaris/OpenSolaris a bonus</span></li>
+</ul>
+<ul style="font-size: 10pt; font-weight: normal; line-height: 13pt; list-style-type: disc;">
+<li style="font-size: 10pt; font-weight: normal; line-height: 13pt; padding: 0px; margin: 0px;"><span style="color: #393939;">Excellent troubleshooting skills across multiple portions of complex multi-server environments</span></li>
+</ul>
+<ul style="font-size: 10pt; font-weight: normal; line-height: 13pt; list-style-type: disc;">
+<li style="font-size: 10pt; font-weight: normal; line-height: 13pt; padding: 0px; margin: 0px;"><span style="color: #393939;">Excellent programmer</span>** <span style="color: #393939;">Good testing skills (unit-style and integration-style)</span>** <span style="color: #393939;">Perl is ideal, but Ruby would be increasingly useful as well. Other languages welcome if you are quick to learn new ones.</span>
+<ul style="font-size: 10pt; font-weight: normal; line-height: 13pt; list-style-type: disc;">
+<li style="font-size: 10pt; font-weight: normal; line-height: 13pt; padding: 0px; margin: 0px;"><span style="color: #393939;">Other useful languages: Bash/sh, Javascript, Python, Erlang, Java</span></li>
+<li style="font-size: 10pt; font-weight: normal; line-height: 13pt; padding: 0px; margin: 0px;"><span style="color: #393939;">Be in love with Revision Control (svn, git, etc)</span></li>
+<li style="font-size: 10pt; font-weight: normal; line-height: 13pt; padding: 0px; margin: 0px;"><span style="color: #393939;">Be able to manipulate API's (REST, SOAP, etc)</span></li>
+<li style="font-size: 10pt; font-weight: normal; line-height: 13pt; padding: 0px; margin: 0px;"><span style="color: #393939;">If you can make the occasional web UI that doesn't make people's eyes bleed, we like that too.</span></li>
+</ul>
+</li>
+</ul>
+<ul style="font-size: 10pt; font-weight: normal; line-height: 13pt; list-style-type: disc;">
+<li style="font-size: 10pt; font-weight: normal; line-height: 13pt; padding: 0px; margin: 0px;"><span style="color: #393939;">Strong systems and network security awareness</span></li>
+<li style="font-size: 10pt; font-weight: normal; line-height: 13pt; padding: 0px; margin: 0px;"><span style="color: #393939;">Experience with configuration management systems (Ideally puppet)</span></li>
+<li style="font-size: 10pt; font-weight: normal; line-height: 13pt; padding: 0px; margin: 0px;"><span style="color: #393939;">Provisioning systems (kickstart/cobbler/PXE/DHCP/systemimager/etc)</span></li>
+<li style="font-size: 10pt; font-weight: normal; line-height: 13pt; padding: 0px; margin: 0px;"><span style="color: #393939;">Able to build out highly available and distributed systems</span>** <span style="color: #393939;">Linux HA/Heartbeat, LVS/Keepalived, perlbal, etc</span>** <span style="color: #393939;">Distributed databases (mysql replication, NoSQL databases)</span>
+<ul style="font-size: 10pt; font-weight: normal; line-height: 13pt; list-style-type: disc;">
+<li style="font-size: 10pt; font-weight: normal; line-height: 13pt; padding: 0px; margin: 0px;"><span style="color: #393939;">Distributed or multi-server filesystems (DRBD, Mogile, etc)</span></li>
+</ul>
+</li>
+<li style="font-size: 10pt; font-weight: normal; line-height: 13pt; padding: 0px; margin: 0px;"><span style="color: #393939;">Strong knowledge of MySQL RDBMS (Configuration, access control, replication, tuning, other engines)</span></li>
+</ul>
+<ul style="font-size: 10pt; font-weight: normal; line-height: 13pt; list-style-type: disc;">
+<li style="font-size: 10pt; font-weight: normal; line-height: 13pt; padding: 0px; margin: 0px;"><span style="color: #393939;">Experience with virtualization (Virtuozzo/OpenVZ would be most useful)</span></li>
+</ul>
+<ul style="font-size: 10pt; font-weight: normal; line-height: 13pt; list-style-type: disc;">
+<li style="font-size: 10pt; font-weight: normal; line-height: 13pt; padding: 0px; margin: 0px;"><span style="color: #393939;">Formal education in CS/CE (BS or MS) would be welcome but not required</span></li>
+</ul>
+</div>
+</span></p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/mediatemple/E1gigw"></script>]]></buttons>
+		</job>
+	</jobs>

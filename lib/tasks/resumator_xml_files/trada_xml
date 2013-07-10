@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Trada]]></company>
+			<job>
+			<id><![CDATA[job_20100830191506_REFUZJFMYWTWC9CN]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Account Manager]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://trada.theresumator.com/apply/7WGFjZ/Account-Manager.html]]></url>
+			<city><![CDATA[Denver]]></city>
+			<state><![CDATA[CO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[80203]]></postalcode>
+			<description><![CDATA[<p>
+	Test</p>
+]]></description>
+			<type><![CDATA[Part Time to Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/trada/7WGFjZ"></script>]]></buttons>
+		</job>
+	</jobs>

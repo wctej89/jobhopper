@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[TRUSTe]]></company>
+			<job>
+			<id><![CDATA[job_20101105191302_RP4GLMHCSZ81PIOS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Operations Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://truste.theresumator.com/apply/uNfi6a/Operations-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94105]]></postalcode>
+			<description><![CDATA[<p>
+	TRUSTe has an opening for a multi-faceted operations engineer. We are looking for someone who can hit the ground running, loves getting his/her hands dirty, and has the ability to solve complex problems and situations. Great communication skills and ability to multitask are a must. In short, if you are looking for an opportunity to make a discernible&nbsp; and immediate difference in a growing company, TRUSTe is the place for you.<br />
+	<br />
+	Overview:<br />
+	<br />
+	&bull;&nbsp;&nbsp;&nbsp; Systems administration<br />
+	&bull;&nbsp;&nbsp;&nbsp; Support of development, test and production environments<br />
+	&bull;&nbsp;&nbsp;&nbsp; Machine configuration and deployment<br />
+	&bull;&nbsp;&nbsp;&nbsp; Monitoring tools<br />
+	&bull;&nbsp;&nbsp;&nbsp; Code deployment to production<br />
+	&bull;&nbsp;&nbsp;&nbsp; Systems backup<br />
+	&bull;&nbsp;&nbsp;&nbsp; Network configuration<br />
+	&bull;&nbsp;&nbsp;&nbsp; Working with data center providers<br />
+	&bull;&nbsp;&nbsp;&nbsp; Working with CDNs<br />
+	&bull;&nbsp;&nbsp;&nbsp; Contract administration<br />
+	<br />
+	Core Areas of responsibility:<br />
+	<br />
+	Applications and Architecture:<br />
+	<br />
+	&bull;&nbsp;&nbsp;&nbsp; Participate in design, implementation and management/maintenance of customer and internal applications and architecture<br />
+	&bull;&nbsp;&nbsp;&nbsp; Work with engineering to develop and architect system infrastructure<br />
+	&bull;&nbsp;&nbsp;&nbsp; Participate in the design of system infrastructure and architecture providing automation, scalability, reliability and performance that will grow as TRUSTe&rsquo;s business grows<br />
+	&bull;&nbsp;&nbsp;&nbsp; Create and maintain operations administrative procedures and enhance existing ones.<br />
+	&bull;&nbsp;&nbsp;&nbsp; Understand all software components and architecture and how they work end-to-end<br />
+	&bull;&nbsp;&nbsp;&nbsp; Provide escalation support for system issues and incidents.<br />
+	<br />
+	Network:<br />
+	<br />
+	&bull;&nbsp;&nbsp;&nbsp; Set up and maintain load balancers, routers, switches and other networking equipment in the production data centers<br />
+	&bull;&nbsp;&nbsp;&nbsp; Design network architecture topography for the production environment<br />
+	<br />
+	Operations:<br />
+	<br />
+	&bull;&nbsp;&nbsp;&nbsp; Monitor production systems for performance and reliability<br />
+	&bull;&nbsp;&nbsp;&nbsp; Response to trouble events<br />
+	&bull;&nbsp;&nbsp;&nbsp; Provide systems troubleshooting as they pertain to network,<br />
+	&bull;&nbsp;&nbsp;&nbsp; File problem reports<br />
+	<br />
+	Requirements:<br />
+	<br />
+	&bull;&nbsp;&nbsp;&nbsp; BS or MS degree in Computer Science or other technical discipline<br />
+	&bull;&nbsp;&nbsp;&nbsp; Minimum of 3 to 5 years configuring and administering Linux, database and networking systems in a production environment<br />
+	&bull;&nbsp;&nbsp;&nbsp; The ability to take initiative, solve problems, and communicate effectively in a strong team focused environment<br />
+	&bull;&nbsp;&nbsp;&nbsp; Ability to quickly learn new technologies with minimal ramp-up time<br />
+	&bull;&nbsp;&nbsp;&nbsp; Experience with configuration management systems<br />
+	&bull;&nbsp;&nbsp;&nbsp; Strong knowledge of Linux kernel configuration, performance monitoring, and tuning<br />
+	&bull;&nbsp;&nbsp;&nbsp; Strong background in internet service deployment, provisioning, IP networking, service infrastructure, and software deployment<br />
+	&bull;&nbsp;&nbsp;&nbsp; Strong knowledge deploying and maintaining database infrastructure<br />
+	&bull;&nbsp;&nbsp;&nbsp; Strong knowledge of administrative scripting languages &ndash; Shell, Perl, Python, etc.<br />
+	&bull;&nbsp;&nbsp;&nbsp; Experience working with load balancing technologies and web server farms<br />
+	&bull;&nbsp;&nbsp;&nbsp; Experience troubleshooting; Ethernet based networks and TCP/IP based services, IP routing protocols, firewalls<br />
+	&bull;&nbsp;&nbsp;&nbsp; Required to participate in 24x7 on-call rotation with a mobile phone and remote connectivity<br />
+	&bull;&nbsp;&nbsp;&nbsp; Ability to lift a minimum of 50lbs.<br />
+	&bull;&nbsp;&nbsp;&nbsp; Self-starter and self-motivated with excellent analytical, planning, and communication, project tracking and management (both written and verbal)<br />
+	&bull;&nbsp;&nbsp;&nbsp; Dependable, strong work ethic and attention to detail</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/truste/uNfi6a"></script>]]></buttons>
+		</job>
+	</jobs>

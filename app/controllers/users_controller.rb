@@ -41,30 +41,31 @@ class UsersController < ApplicationController
 
   def feed
     cookies[:page_num] = 1
-    # queue = JobList.find_by_user_id(current_user.id)
     @queue = []
     @applied = []
-    
     list_id = current_user.list.id
     job_list = JobList.where(list_id: list_id)
-    
     job_pending = job_list.where(status: "pending")
     job_pending.each {|item| @queue << Job.find(item.job_id)}
-    
     job_applied = job_list.where(status: "applied")
     job_applied.each {|item| @applied << Job.find(item.job_id)}
   end
 
   def feed_results
-    #commit
     if params[:page]
       page = params[:page].to_i
     else
       page = 1
     end
-    location = get_location
+    location = get_location # this isn't used
     @jobs = get_results(location, page)
     render :json => @jobs
+  end
+
+  def add_location
+    user = current_user
+    user.add_location!(params)
+    render :json => current_user
   end
 
   private 

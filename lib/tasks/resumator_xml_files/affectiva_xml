@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Affectiva]]></company>
+			<job>
+			<id><![CDATA[job_20120817200334_VT39OVJFY5HA6VJG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://affectiva.theresumator.com/apply/wwoCNY/Software-Engineer.html]]></url>
+			<city><![CDATA[Waltham]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02452-8420]]></postalcode>
+			<description><![CDATA[<p>
+	Software Engineer<br />
+	Affectiva is looking for a talented and motivated Software Engineer to join our Affdex platform team. Come help apply cutting edge science to the world&rsquo;s leading facial expression recognition platform.</p>
+<p>
+	Responsibilities</p>
+<ul>
+	<li>
+		Design, implement and maintain the science platform</li>
+	<li>
+		Build cloud-based web applications and services in Grails</li>
+	<li>
+		Manage the world&rsquo;s largest and ever-expanding repository of emotional data</li>
+	<li>
+		Innovate new features, products and directions</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	Requirements</p>
+<p>
+	&nbsp;</p>
+<ul>
+	<li>
+		5+ years building web-based applications</li>
+	<li>
+		Strong problem-solving skills</li>
+	<li>
+		Solid development habits and practices</li>
+	<li>
+		Mastery of Groovy/Grails, Java, or Python</li>
+	<li>
+		Experience supporting software running in a Linux environment</li>
+	<li>
+		Strong database skills, especially with MySQL</li>
+	<li>
+		Proficiency in Unit/Integration testing</li>
+	<li>
+		Experience with at least one of: (a) big data storage and processing; (b) analytics; (c) machine learning; (d) data visualization; (e) distributed computing; (f) cloud computing</li>
+	<li>
+		Track record of success in a small, fast-moving team</li>
+</ul>
+<p>
+	Education</p>
+<p>
+	B. Sc. in Computer Science or related field or equivalent experience</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/affectiva/wwoCNY"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120817200627_IBB4M630QINX3E2Y]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Data Scientist – Machine Learning & Algorithms]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://affectiva.theresumator.com/apply/UOmDJP/Senior-Data-Scientist-Machine-Learning-Algorithms.html]]></url>
+			<city><![CDATA[Waltham]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02452-8420]]></postalcode>
+			<description><![CDATA[<p>
+	Help build the leading emotion analytics platform powered by the largest repository of emotional data in the world. Affectiva is looking for a highly talented and motivated Senior Data Scientist to join our team and build our emotion analytics capabilities. For a hard-core machine learning or statistics person who wants to take research out of the lab and into the real world, this is a dream job!</p>
+<p>
+	Responsibilities</p>
+<p>
+	Affectiva has the world&rsquo;s largest database of physiological and facial expressions of emotion, that tie to important key business metrics. The responsibilities of the Senior Data Scientist include:</p>
+<ul>
+	<li>
+		Apply state-of-the-art statistical modeling/machine learning and data mining techniques to large amounts of noisy, complex real-world emotion data</li>
+	<li>
+		Advance our core emotion recognition algorithms to handle the reliable detection of rare emotion expressions</li>
+	<li>
+		Build models that tie emotion data to important key business metrics</li>
+	<li>
+		Extend our machine learning framework to handle rare events, as well as semi-supervised training and classification</li>
+	<li>
+		Work closely with Engineering to deliver algorithms into production systems</li>
+</ul>
+<p>
+	Requirements</p>
+<p>
+	We&rsquo;re looking for passionate, motivated and entrepreneurial professionals to add to Affectiva&rsquo;s Science Team. Successful candidates for this role will have:</p>
+<ul>
+	<li>
+		Advanced degree in Computer Science, Statistics, or related field</li>
+	<li>
+		Excellent programming skills (e.g., MATLAB, C/C++. Python, R)</li>
+	<li>
+		Experience in statistical or machine learning on medium-size or large-size data</li>
+	<li>
+		Experience with statistical modeling techniques, e.g., regression, decision trees, SVMs</li>
+	<li>
+		Experience using Map Reduce on frameworks such as Hadoop or Elastic Map Reduce</li>
+</ul>
+<p>
+	Assets</p>
+<ul>
+	<li>
+		Expertise in facial / human behavior analysis, tracking and classification</li>
+	<li>
+		Commercial software development experience</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/affectiva/UOmDJP"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120817200916_VUPY023HO1HI0MWZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Digital Signal Processing Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://affectiva.theresumator.com/apply/05HUDI/Digital-Signal-Processing-Engineer.html]]></url>
+			<city><![CDATA[Waltham]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02452]]></postalcode>
+			<description><![CDATA[<p>
+	Affectiva seeks a talented Digital Signal Processing Engineer to lead the development of algorithms for our Q Sensor product line.</p>
+<p>
+	Responsibilities</p>
+<ul>
+	<li>
+		Develop algorithms that process Q Sensor data (EDA, accelerometer, temperature) for multiple markets (scientific research, life sciences, market research etc.)</li>
+	<li>
+		Develop both smart and flexible data filtering algorithms.</li>
+	<li>
+		Implement production-quality algorithms in Affectiva&rsquo;s cloud-based platform.</li>
+	<li>
+		Detect and extract features from Q Sensor data.</li>
+	<li>
+		Apply DSP, machine learning and statistical techniques.</li>
+	<li>
+		Gain deep understanding of scientific and business needs in key Q Sensor markets.</li>
+	<li>
+		Characterize algorithm performance with real-world data sets gathered from field trials.</li>
+</ul>
+<p>
+	Requirements</p>
+<ul>
+	<li>
+		5+ years of practical experience with DSP, algorithm development and implementation. Python, Java, Matlab and/or C++ experience desirable</li>
+	<li>
+		Solid background in digital signal processing e.g., filtering, feature extraction, time series analysis, and statistical modeling</li>
+	<li>
+		Track record of success in a small, fast-moving team</li>
+	<li>
+		Strong problem-solving skills</li>
+	<li>
+		Active participation and contributions to effectiveness of team, influencing outcomes</li>
+	<li>
+		Initiates and takes ownership of tasks to ensure team results are achieved</li>
+</ul>
+<p>
+	Education</p>
+<p>
+	Advanced degree in Computer Science, Electrical Engineering or equivalent, with significant work in DSP.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/affectiva/05HUDI"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120817201109_QUIII7IFOO4OL9QL]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Science Team Director]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://affectiva.theresumator.com/apply/dzvwUf/Science-Team-Director.html]]></url>
+			<city><![CDATA[Waltham]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02452]]></postalcode>
+			<description><![CDATA[<p>
+	<br />
+	Lead Affectiva&rsquo;s Science Team to build the leading emotion analytics platform powered by the largest repository of emotion data in the world. Affectiva is looking for a highly talented and motivated Senior Science Lead to lead our science and analytics team. This is a high visibility position with an opportunity to work on cutting edge technology and science, lead and grow a team of top-tier visioneers and make a difference to Affectiva&rsquo;s key initiatives. The ideal candidate would have 8+ years of commercial experience leading a team of scientists and bringing a product to market.</p>
+<p>
+	Responsibilities</p>
+<ul>
+	<li>
+		Translate business needs from the executive team to science roadmap and tasks</li>
+	<li>
+		Direct the science team including overall prioritization and goal setting</li>
+	<li>
+		Research state-of-the-art machine learning for emotion classification</li>
+	<li>
+		Contribute to the implementation of Affectiva&rsquo;s core emotion analysis engine</li>
+</ul>
+<p>
+	Requirements</p>
+<p>
+	We&rsquo;re looking for a motivated, entrepreneurial and talented professional to lead the Affectiva Science team. Successful candidates for this role will have:</p>
+<ul>
+	<li>
+		8+ years of experience leading a team of engineers / scientists</li>
+	<li>
+		An advanced degree in Computer Science, Mathematics, Statistics or related area</li>
+	<li>
+		Commercial experience applying machine learning and statistical methods to real-world problems</li>
+	<li>
+		Experience in statistics, machine learning, and computer vision</li>
+	<li>
+		Commercial experience bringing a product to market</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/affectiva/dzvwUf"></script>]]></buttons>
+		</job>
+	</jobs>

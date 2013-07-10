@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Beautylish Inc.]]></company>
+			<job>
+			<id><![CDATA[job_20101109002258_EUC8PVPGL69TPI26]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web / Software Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://beautylish.theresumator.com/apply/qwuOnQ/Web-Software-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+	We&#39;re a startup building a community around discovering, discussing, and sharing beauty tips and reviews. We&#39;re working in a fun, passionate, and large industry. We&#39;ve already built up tons of good karma and love from our community (twitter.com/beautylish/favorites) ...and we&#39;re just getting started :)</p>
+<p>
+	We&#39;re a very small team of 5 right now with strong technical talent and lots of real experience in building scalable consumer internet sites (experience from YouTube, Google, Crunchyroll, and HOT or NOT). With 2 technical founders, we believe in leveraging the best technologies to build software intelligently to maximize the fun of development and minimize the pains. Our current stack is running Python/Pylons/Jquery/MySQL on Amazon Web Services (EC2/RDS/S3) built with scaling and fast iteration in mind.</p>
+<p>
+	We are looking for a general engineer that will help develop the foundation and framework that will allow us to develop and iterate features quickly, cleanly, and bug free in a scalable way. We&#39;re looking for a versatile engineer that is very good at multiple areas of the stack.</p>
+<p>
+	You will:<br />
+	- Be responsible for implementing whole features independently<br />
+	- Iterate quickly, releasing code everyday<br />
+	- Build something that users love</p>
+<p>
+	Requirements:<br />
+	- Care about the users<br />
+	- Slightly obsessive about code quality and frameworks<br />
+	- Command of programming on a web server, e.g. Python, Ruby, PHP, etc.<br />
+	- Comfortable working in a Unix environment</p>
+<p>
+	Pluses:<br />
+	- Python hacker<br />
+	- Analytics nerd<br />
+	- Scaling experience, e.g. MySQL, memcache<br />
+	- Built your own website application</p>
+<p>
+	We are currently based in the SOMA area of San Francisco near Giants Stadium on 3rd/Townsend about 1.5 blocks away from CalTrain.&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/beautylish/qwuOnQ"></script>]]></buttons>
+		</job>
+	</jobs>

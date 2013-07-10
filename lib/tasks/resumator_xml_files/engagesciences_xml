@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[EngageSciences]]></company>
+			<job>
+			<id><![CDATA[job_20100406140306_AKXHFK2AIPTG6KX8]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Web UI Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://engagesciences.theresumator.com/apply/ybnzva/Senior-Web-UI-Developer.html]]></url>
+			<city><![CDATA[London or Oxford]]></city>
+			<state><![CDATA[Oxfordshire]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[OX4 4RY]]></postalcode>
+			<description><![CDATA[<p><span style="font-family: Times; line-height: normal; font-size: medium;"> </span></p>
+<div style="color: #000000; font-family: Georgia, Times, serif; font-size: 13px; line-height: 1.5; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: #ffffff; outline-width: 0px; outline-style: initial; outline-color: initial; background-position: initial initial; background-repeat: initial initial; margin: 8px;">
+<p><em>Are you an accomplished web developer with experience of Javascript, AJAX and frameworks like jQuery or ExtJS?</em></p>
+<p> </p>
+<p><strong><strong>THE ROLE</strong></strong></p>
+<p>EngageSciences is looking for a <strong>lead web developer</strong> to join our team and help us build new online applications. You'll get to work with the latest technologies and frameworks like jQuery, Flex and Grails; with cloud-based services such as Amazon EC2; and with social networks like Twitter, Facebook and YouTub  e. You'll take on a key role within our development team - being responsible for implementing the presentation tier of our apps - delivering user interfaces that are both a breeze to use and a joy to behold.</p>
+<p>We will provide an excellent compensation package for the right candidate.</p>
+<p> </p>
+<p><strong><strong>REQUIREMENTS</strong></strong></p>
+<p>We think the following skills are key to the role:</p>
+<ul>
+<li>5+ years building out web front-ends</li>
+<li>Deep experience of Javascript, ideally using jQuery and/or ExtJS</li>
+<li>Superb understanding of XHTML and CSS</li>
+<li>An understanding of testing methods for browser compatibility</li>
+<li>Experience working in scripting languages to build out views such as JSP, JSTL or PHP</li>
+<li>Comfortable working in a lightweight agile process</li>
+<li>Experience or knowledge of view-templating languages like Velocity or GSP</li>
+<li>Experience working with Grails is a major plus</li>
+</ul>
+<p> </p>
+<p><strong><strong>ABOUT US</strong></strong></p>
+<p>We are a young startup looking to build next-generation online marketing applications. The company's leadership has a strong engineering, design and development background and puts great emphasis on ensuring the development team has the right tools, environment and freedom to do what they do best - build great software.</p>
+<ul>
+<li>You'll get to be part of building new online services from the ground up, able to influence and part of the core design team.</li>
+<li>You'll get to work with modern Java-based frameworks and libraries such as Grails and Groovy.</li>
+<li>There'll be opportunities to work on areas such online video streaming, Flex and AIR applications, iPhone applications and machine learning algorithms.</li>
+<li>You'll use first-class development tools and environments, the latest Apple equipment, and be based in a great office.</li>
+<li>You'll receive a stock plan and equity in the company as part of your package.</li>
+</ul>
+</div>
+<p> </p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/engagesciences/ybnzva"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Piazza]]></company>
+			<job>
+			<id><![CDATA[job_20110818065815_JRQB0WBTGUUUDRQD]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[UI Designer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://piazza.theresumator.com/apply/wCvE9D/UI-Designer.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+Piazza is an online Q&amp;A platform that hundreds of thousands of students at all the top universities are using. Professors and students at MIT, Stanford, Princeton, Berkeley and Harvard were the first to adopt it when we launched in 2011.</p>
+<p>
+We&#39;re backed by top tier venture firms like Sequoia Capital and Bessemer, we offer flexible work schedules, awesome stuff to work on, competitive salaries, great benefits, and we&#39;re based in sunny downtown Palo Alto, CA.</p>
+<p>
+Piazza users spend an average of 2-3 hours a night on the site. Piazza is truly changing the way students learn.</p>
+<p>
+&nbsp;</p>
+<p>
+You are a rare find. You are deeply passionate about interaction design, such that every new site you visit is an opportunity to learn and critique. But you&#39;re equally concerned with the &quot;how.&quot;</p>
+<p>
+You walk the DOM in your sleep. You&#39;re constantly wondering, &quot;How did they do that?&quot; and opening up developer tools in your browser. And you code your own HTML, CSS, and JavaScript.&nbsp;You are obsessed with usability to the core.</p>
+<p>
+Maybe you&#39;re a great visual designer, too. But even if you&#39;re not, you have what Steve Jobs called &quot;taste.&quot; You know when something looks good because it&#39;s clean and functional, not just because it&#39;s familiar. You have a visceral sense of when to borrow and when to invent.</p>
+<p>
+You have strong, fervent opinions. Yet you are not governed entirely by your passions. You take user feedback to heart. You love to analyze usage data to better understand what really works. And you believe the best payoff is a working design embraced by millions, not a perfect design radiant but lonely in your own head.</p>
+<p>
+You want to work in a place where everyone respects designers, and where great design makes a difference in real people&#39;s lives.</p>
+<p>
+Sound like you? Apply now.</p>
+]]></description>
+			<type><![CDATA[Internship to Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/piazza/wCvE9D"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110818064317_VF8GDNNR4VUA47WG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://piazza.theresumator.com/apply/b8HQPv/Software-Engineer.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+Piazza is an online Q&amp;A platform that hundreds of thousands of students at all the top universities are using. Professors and students at MIT, Stanford, Princeton, Berkeley and Harvard were the first to adopt it when we launched in 2011.</p>
+<p>
+We&#39;re backed by top tier venture firms like Sequoia Capital and Bessemer, we offer flexible work schedules, awesome stuff to work on, competitive salaries, great benefits, and we&#39;re based in sunny downtown Palo Alto, CA.</p>
+<p>
+Piazza users spend an average of 2-3 hours a night on the site. Piazza is truly changing the way students learn.</p>
+<p>
+&nbsp;</p>
+<p>
+You love to code. You love to figure things out. You&#39;re an early adopter of new technologies, but you don&#39;t chase fads mindlessly. You love to see your work &quot;live&quot; and in production. You code cleanly, you believe in testing and write tests religiously, but you know that the perfect software never ships.</p>
+<p>
+You probably don&#39;t define yourself by the technologies you know. You&#39;d feel silly being called a &quot;Java Engineer&quot; even though your Java is great, or a &quot;Ruby Engineer&quot; even though you grock Ruby. If your fundamentals are solid, you can do anything. And your fundamentals are solid.</p>
+<p>
+You love to learn, and you believe that learning is collaborative. Having your code reviewed by your peers actually gives you a charge.</p>
+<p>
+You love speed. You love results. You couldn&rsquo;t wait months to see people using your work. And when people use your work, you want to be able to see how they use it, and even talk to them about how it could be better.</p>
+<p>
+You find labels like &quot;ninja&quot; and &quot;rock star&quot; silly. You could probably develop anything, whether it&#39;s a finance app or a rocket guidance system. But you want to develop something that you&#39;d use. That you actually care about. That matters.</p>
+<p>
+Sound like you? Contact us.</p>
+]]></description>
+			<type><![CDATA[Internship to Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/piazza/b8HQPv"></script>]]></buttons>
+		</job>
+	</jobs>

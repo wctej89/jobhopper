@@ -1,0 +1,326 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Infochimps]]></company>
+			<job>
+			<id><![CDATA[job_20120306174508_FPUAPFYQ5RBC3RNW]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Data Architect]]></title>
+			<department><![CDATA[Data Mine]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://infochimps.theresumator.com/apply/ZUVnpx/Data-Architect.html]]></url>
+			<city><![CDATA[Austin]]></city>
+			<state><![CDATA[TX]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[78703]]></postalcode>
+			<description><![CDATA[<p>
+	In order to develop our Data Marketplace of thousands of datasets and APIs, Infochimps developed world-class Cloud data infrastructure. Now our primary focus is sharing our insights and infrastructure technology with other companies via The Infochimps Platform for Enterprises. Excerpted from our blog, &ldquo;Since the beginning of our company, Infochimps&rsquo; focus has been on unleashing the world&rsquo;s data. In building our own exceptional data catalog and marketplace, we&rsquo;ve developed new technologies that solve many of the the complex and varied problems around extracting, transforming, and loading (ETL) data at scale, and running complex analytics. Today, we bring our years of expertise and experience working with big data to enterprise organizations.&quot;</p>
+<p>
+	You can check out&nbsp;our contributions on GitHub at <a href="http://github.com/infochimps-labs">http://github.com/infochimps-labs</a> for details about some of the other projects we are working on.</p>
+<p>
+	We offer a competitive salary and benefits package, but there&rsquo;s more than just a salary that comes with joining our team. As an Infochimp you will also benefit from:</p>
+<ul>
+	<li>
+		Comprehensive health and dental insurance, fully paid for employees and their dependents.</li>
+	<li>
+		Working with a world class team of friendly geniuses eager to tackle hard problems and make the world a more beautiful and efficient place.</li>
+	<li>
+		Being an influential member of one of the finest data science and scalable backend teams in the world.</li>
+	<li>
+		Encouragement to become ever more excellent in your abilities through continuous career development opportunities.</li>
+	<li>
+		Flexible scheduling options.</li>
+	<li>
+		Our convenient location in downtown Austin, a city ranked Kiplinger&rsquo;s #1 city for the next decade and Forbes #1 best bargain city.</li>
+	<li>
+		Delicious free lunches (yes, they DO exist!) brought in every day for your enjoyment. Check out this killer app our CTO Flip Kromer wrote: http://lunchlady.heroku.com.</li>
+	<li>
+		All the bananas you can eat, as well as a fully stocked kitchen with everything from beer and Diet Mountain Dew to organic yogurt, fruits, and veggies.</li>
+	<li>
+		Office Joy - regular exciting team building activities and purchases (chosen by the team!) to increase joy. Some of the things we&rsquo;ve done include: karaoke, bowling, purchasing an espresso machine, getting beltbuckles, filling our office with plants, and bringing in Franklin&rsquo;s BBQ.</li>
+</ul>
+<p>
+	-------</p>
+<p>
+	We are looking for an experienced Architect to work with our Engineering team to map the future of our Big Data infrastructure. Our Engineering team has built an amazing infrastructure for hosting and distributing the world&rsquo;s data and now it&rsquo;s time to take it to the next level. We utilize over a half-dozen different best-in-class tools including HBase, Cassandra, Elastic Search, Flume, Chef, Pig, and Hadoop. We combine these technologies together to form customizable world-class platforms for collecting and distributing data.</p>
+<p>
+	You are an ideal candidate if you enjoy working on big problems and having a big impact early in a company&rsquo;s life. You should have a deep understanding of design patterns, the Unix way, and a fingerspitzengef&uuml;hl &#91;intuitive feel&#93; for maintaining infrastructure, untangling bugs, and simplifying systems.</p>
+<p>
+	Experience with some of the following is preferred:</p>
+<ul>
+	<li>
+		HBase</li>
+	<li>
+		Hadoop</li>
+	<li>
+		Elastic Search</li>
+	<li>
+		Chef</li>
+	<li>
+		Java</li>
+	<li>
+		Pig</li>
+	<li>
+		Ruby</li>
+</ul>
+<p>
+	Other useful skills include:</p>
+<ul>
+	<li>
+		Natural Language Processing algorithms</li>
+	<li>
+		ETL (Extract, Transform, and Load) Experience</li>
+	<li>
+		Voronoi Diagrams</li>
+	<li>
+		Unsupervised clustering algorithms</li>
+	<li>
+		Large scale data processing</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/infochimps/ZUVnpx"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120206194240_BRPEYSTSG8CIF4EF]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Data Engineer]]></title>
+			<department><![CDATA[Data Mine]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://infochimps.theresumator.com/apply/MP8Nju/Data-Engineer.html]]></url>
+			<city><![CDATA[Austin]]></city>
+			<state><![CDATA[TX]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[78703]]></postalcode>
+			<description><![CDATA[<p>
+	In order to develop our Data Marketplace of thousands of datasets and APIs, Infochimps developed world-class Cloud data infrastructure. Now our primary focus is sharing our insights and infrastructure technology with other companies via The Infochimps Platform for Enterprises. Excerpted from our blog, &ldquo;Since the beginning of our company, Infochimps&rsquo; focus has been on unleashing the world&rsquo;s data. In building our own exceptional data catalog and marketplace, we&rsquo;ve developed new technologies that solve many of the the complex and varied problems around extracting, transforming, and loading (ETL) data at scale, and running complex analytics. Today, we bring our years of expertise and experience working with big data to enterprise organizations.&quot;</p>
+<p>
+	You can check out our contributions on GitHub at <a href="http://github.com/infochimps-labs">http://github.com/infochimps-labs</a> for details about some of the other projects we are working on.</p>
+<p>
+	We offer a competitive salary and benefits package, but there&rsquo;s more than just a salary that comes with joining our team. As an Infochimp you will also benefit from:</p>
+<ul>
+	<li>
+		Comprehensive health and dental insurance, fully paid for employees and their dependents.</li>
+	<li>
+		Working with a world class team of friendly geniuses eager to tackle hard problems and make the world a more beautiful and efficient place.</li>
+	<li>
+		Being an influential member of one of the finest data science and scalable backend teams in the world.</li>
+	<li>
+		Encouragement to become ever more excellent in your abilities through continuous career development opportunities.</li>
+	<li>
+		Flexible scheduling options.</li>
+	<li>
+		Our convenient location in downtown Austin, a city ranked Kiplinger&rsquo;s #1 city for the next decade and Forbes #1 best bargain city.</li>
+	<li>
+		Delicious free lunches (yes, they DO exist!) brought in every day for your enjoyment. Check out this killer app our CTO Flip Kromer wrote: http://lunchlady.heroku.com.</li>
+	<li>
+		All the bananas you can eat, as well as a fully stocked kitchen with everything from beer and Diet Mountain Dew to organic yogurt, fruits, and veggies.</li>
+	<li>
+		Office Joy - regular exciting team building activities and purchases (chosen by the team!) to increase joy. Some of the things we&rsquo;ve done include: karaoke, bowling, purchasing an espresso machine, getting beltbuckles, filling our office with plants, and bringing in Franklin&rsquo;s BBQ.</li>
+</ul>
+<p>
+	----------------------</p>
+<p>
+	We are looking for a Data Engineer to join our Engineering team to work with our data pipeline. We ingest data from some of the most interesting sources in the world, collecting from places like the Twitter and Foursquare APIs and even UFO sightings reported to the National UFO Reporting Center.</p>
+<p>
+	Leverage your expertise with data by contributing to our mission to make data more accessible for the rest of the world. Members of our Engineering team make it possible for us to serve our customers with things like Trstrank and everything you can find in our Geo APIs. We are a world-class Big Data shop, with a unique approach and philosophy you won&rsquo;t find anywhere else.</p>
+<p>
+	Our data pipeline uses technologies such as HBase, Elastic Search, Flume, Chef, Pig, and Hadoop. We&rsquo;ve even developed tools of our own to make the ingestion pipeline run more smoothly, like a Ruby-based interface to Hadoop and a bulk loader for Elastic Search.</p>
+<p>
+	Experience with some of the following is preferred:</p>
+<ul>
+	<li>
+		HBase</li>
+	<li>
+		Hadoop</li>
+	<li>
+		Elastic Search</li>
+	<li>
+		Chef</li>
+	<li>
+		Java</li>
+	<li>
+		Pig</li>
+	<li>
+		Ruby</li>
+</ul>
+<p>
+	<br />
+	Other useful skills include:</p>
+<ul>
+	<li>
+		Natural Language Processing algorithms</li>
+	<li>
+		ETL (Extract, Transform, and Load) Experience</li>
+	<li>
+		Voronoi Diagrams</li>
+	<li>
+		Unsupervised clustering algorithms</li>
+	<li>
+		Large scale data processing</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/infochimps/MP8Nju"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120306174545_BLNFKPDZZRBW2EGL]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Data Engineer]]></title>
+			<department><![CDATA[Data Mine]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://infochimps.theresumator.com/apply/XVR3Q4/Data-Engineer.html]]></url>
+			<city><![CDATA[Austin]]></city>
+			<state><![CDATA[TX]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[78703]]></postalcode>
+			<description><![CDATA[<p>
+	In order to develop our Data Marketplace of thousands of datasets and APIs, Infochimps developed world-class Cloud data infrastructure. Now our primary focus is sharing our insights and infrastructure technology with other companies via The Infochimps Platform for Enterprises. Excerpted from our blog, &ldquo;Since the beginning of our company, Infochimps&rsquo; focus has been on unleashing the world&rsquo;s data. In building our own exceptional data catalog and marketplace, we&rsquo;ve developed new technologies that solve many of the the complex and varied problems around extracting, transforming, and loading (ETL) data at scale, and running complex analytics. Today, we bring our years of expertise and experience working with big data to enterprise organizations.&quot;</p>
+<p>
+	You can check out our contributions on GitHub at <a href="http://github.com/infochimps-labs">http://github.com/infochimps-labs</a> for details about some of the other projects we are working on.</p>
+<p>
+	We offer a competitive salary and benefits package, but there&rsquo;s more than just a salary that comes with joining our team. As an Infochimp you will also benefit from:</p>
+<ul>
+	<li>
+		Comprehensive health and dental insurance, fully paid for employees and their dependents.</li>
+	<li>
+		Working with a world class team of friendly geniuses eager to tackle hard problems and make the world a more beautiful and efficient place.</li>
+	<li>
+		Being an influential member of one of the finest data science and scalable backend teams in the world.</li>
+	<li>
+		Encouragement to become ever more excellent in your abilities through continuous career development opportunities.</li>
+	<li>
+		Flexible scheduling options.</li>
+	<li>
+		Our convenient location in downtown Austin, a city ranked Kiplinger&rsquo;s #1 city for the next decade and Forbes #1 best bargain city.</li>
+	<li>
+		Delicious free lunches (yes, they DO exist!) brought in every day for your enjoyment. Check out this killer app our CTO Flip Kromer wrote: http://lunchlady.heroku.com.</li>
+	<li>
+		All the bananas you can eat, as well as a fully stocked kitchen with everything from beer and Diet Mountain Dew to organic yogurt, fruits, and veggies.</li>
+	<li>
+		Office Joy - regular exciting team building activities and purchases (chosen by the team!) to increase joy. Some of the things we&rsquo;ve done include: karaoke, bowling, purchasing an espresso machine, getting beltbuckles, filling our office with plants, and bringing in Franklin&rsquo;s BBQ.</li>
+</ul>
+<p>
+	----------------------</p>
+<p>
+	We are looking for a Data Engineer to join our Engineering team to work with our data pipeline. We ingest data from some of the most interesting sources in the world, collecting from places like the Twitter and Foursquare APIs and even UFO sightings reported to the National UFO Reporting Center.</p>
+<p>
+	Leverage your expertise with data by contributing to our mission to make data more accessible for the rest of the world. Members of our Engineering team make it possible for us to serve our customers with things like Trstrank and everything you can find in our Geo APIs. We are a world-class Big Data shop, with a unique approach and philosophy you won&rsquo;t find anywhere else.</p>
+<p>
+	Our data pipeline uses technologies such as HBase, Elastic Search, Flume, Chef, Pig, and Hadoop. We&rsquo;ve even developed tools of our own to make the ingestion pipeline run more smoothly, like a Ruby-based interface to Hadoop and a bulk loader for Elastic Search.</p>
+<p>
+	Experience with some of the following is preferred:</p>
+<ul>
+	<li>
+		HBase</li>
+	<li>
+		Hadoop</li>
+	<li>
+		Elastic Search</li>
+	<li>
+		Chef</li>
+	<li>
+		Java</li>
+	<li>
+		Pig</li>
+	<li>
+		Ruby</li>
+</ul>
+<p>
+	<br />
+	Other useful skills include:</p>
+<ul>
+	<li>
+		Natural Language Processing algorithms</li>
+	<li>
+		ETL (Extract, Transform, and Load) Experience</li>
+	<li>
+		Voronoi Diagrams</li>
+	<li>
+		Unsupervised clustering algorithms</li>
+	<li>
+		Large scale data processing</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/infochimps/XVR3Q4"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120306174609_MAL7XV4SFWBSHENG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Operations Engineer]]></title>
+			<department><![CDATA[Data Mine]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://infochimps.theresumator.com/apply/RptviX/Operations-Engineer.html]]></url>
+			<city><![CDATA[Austin]]></city>
+			<state><![CDATA[TX]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[78703]]></postalcode>
+			<description><![CDATA[<p>
+	In order to develop our Data Marketplace of thousands of datasets and APIs, Infochimps developed world-class Cloud data infrastructure. Now our primary focus is sharing our insights and infrastructure technology with other companies via The Infochimps Platform for Enterprises. Excerpted from our blog, &ldquo;Since the beginning of our company, Infochimps&rsquo; focus has been on unleashing the world&rsquo;s data. In building our own exceptional data catalog and marketplace, we&rsquo;ve developed new technologies that solve many of the the complex and varied problems around extracting, transforming, and loading (ETL) data at scale, and running complex analytics. Today, we bring our years of expertise and experience working with big data to enterprise organizations.&quot;</p>
+<p>
+	<br />
+	You can check out our contributions on GitHub at <a href="http://github.com/infochimps-labs">http://github.com/infochimps-labs</a> for details about some of the other projects we are working on.</p>
+<p>
+	We offer a competitive salary and benefits package, but there&rsquo;s more than just a salary that comes with joining our team. As an Infochimp you will also benefit from:</p>
+<ul>
+	<li>
+		Comprehensive health and dental insurance, fully paid for employees and their dependents.</li>
+	<li>
+		Working with a world class team of friendly geniuses eager to tackle hard problems and make the world a more beautiful and efficient place.</li>
+	<li>
+		Being an influential member of one of the finest data science and scalable backend teams in the world.</li>
+	<li>
+		Encouragement to become ever more excellent in your abilities through continuous career development opportunities.</li>
+	<li>
+		Flexible scheduling options.</li>
+	<li>
+		Our convenient location in downtown Austin, a city ranked Kiplinger&rsquo;s #1 city for the next decade and Forbes #1 best bargain city.</li>
+	<li>
+		Delicious free lunches (yes, they DO exist!) brought in every day for your enjoyment. Check out this killer app our CTO Flip Kromer wrote: http://lunchlady.heroku.com.</li>
+	<li>
+		All the bananas you can eat, as well as a fully stocked kitchen with everything from beer and Diet Mountain Dew to organic yogurt, fruits, and veggies.</li>
+	<li>
+		Office Joy - regular exciting team building activities and purchases (chosen by the team!) to increase joy. Some of the things we&rsquo;ve done include: karaoke, bowling, purchasing an espresso machine, getting beltbuckles, filling our office with plants, and bringing in Franklin&rsquo;s BBQ.</li>
+</ul>
+<p>
+	-----------------</p>
+<p>
+	We are looking for an Operations Engineer to join our Engineering team to work with our Big Data architecture. If you have a demonstrated ability to keep large numbers of systems running, balance shifting concerns from many stakeholders, and learn three new things a day, we want to talk to you. Come work with us where you can leverage your expertise working with scalable architectures to help maintain, solidify, and scale our production environments and custom deployment stacks.</p>
+<p>
+	We are a world-class Big Data shop, with a unique approach and philosophy that you won&rsquo;t find anywhere else. We&rsquo;re the authors of Ironfan, the premiere way to manage clusters in the cloud. Our data pipeline uses technologies such as HBase, Elastic Search, Flume, Pig, and Hadoop. We&rsquo;ve also developed tools of our own to make the ingestion pipeline run more smoothly, like a Ruby-based interface to Hadoop and a bulk loader for Elastic Search, and more.</p>
+<p>
+	Experience with some of the following is preferred:</p>
+<ul>
+	<li>
+		Chef</li>
+	<li>
+		Linux</li>
+	<li>
+		Amazon Web Services (or similar cloud IaaS providers)</li>
+	<li>
+		Flume</li>
+	<li>
+		HBase</li>
+	<li>
+		Hadoop</li>
+	<li>
+		Elastic Search</li>
+	<li>
+		Java</li>
+	<li>
+		Pig</li>
+	<li>
+		Ruby</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/infochimps/RptviX"></script>]]></buttons>
+		</job>
+	</jobs>

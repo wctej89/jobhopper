@@ -1,0 +1,445 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Digium, Inc.]]></company>
+			<job>
+			<id><![CDATA[job_20130513192415_YPS2HR55UH94OA8X]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sr. Software Quality Assurance Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Business Phone Systems - SD]]></team>
+			<url><![CDATA[http://digium.theresumator.com/apply/dnBJEs/Sr-Software-Quality-Assurance-Engineer.html]]></url>
+			<city><![CDATA[San Diego]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[92121]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About Digium:</strong></p>
+<p>
+Digium*, Inc., the Asterisk* Company, created, owns and is the innovative force behind Asterisk, the most widely used open source telephony software. Since its founding in 1999, Digium has become the open source alternative to proprietary communication providers, with offerings that cost as much as 80 percent less. Digium offers Asterisk software free to the open source community and offers Switchvox, Digium&#39;s Unified Communications solution to power a broad family of products for small, medium and large businesses. The company&#39;s product line includes a wide range of telephony hardware and software to enable resellers and customers to implement turnkey VoIP systems or to design their own custom communications solutions. At Digium, we&#39;re changing the way businesses communicate.</p>
+<p>
+The San Diego division&#39;s primary business is providing quality PBX systems to small - to mid - sized businesses that are ready to take advantage of the latest advances in the telephony field. Digium is looking to hire a Senior QA Engineer responsible for reviewing product requirements, developing and executing test plans, and diagnosing and reporting issues back to the developers. Products include web, mobile, desktop, and embedded applications.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Job Duties:</strong></p>
+<ul>
+<li>
+Build/utilize automated testing tools to perform feature and load testing</li>
+<li>
+Analyze software features to create test plans that ensure proper test coverage</li>
+<li>
+Execute manual test cases</li>
+<li>
+Analyze test results to ensure existing functionality &amp; recommend corrective action</li>
+<li>
+Perform initial debugging of defects to provide engineers with detailed descriptions of found issues</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Desired Skills:</strong></p>
+<ul>
+<li>
+BS in Computer Science or equivalent education/professional experience</li>
+<li>
+5+ years in software QA quality assurance practices</li>
+<li>
+Unit testing/test harness frameworks and methodologies (e.g.) development, or configuration management</li>
+<li>
+Knowledge of and hands-on experience in 2 or more of the following: C, PHP, JavaScript, Bash, Apache</li>
+<li>
+Knowledge/experience with Asterisk is a plus</li>
+<li>
+Knowledge/experience with command line tools for network debugging and shell scripting in a Unix/Linux environment</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Benefits:</strong></p>
+<p>
+Digium is proud to offer a comprehensive benefits package to eligible employees that is designed to promote their personal wellbeing as well as that of their families. Digium not only offers a very competitive health benefits package including medical, dental and vision coverage, we also offer income protection benefits including life insurance, short term disability, and long term disability.</p>
+<p>
+Digium is an equal opportunity employer</p>
+<p>
+&nbsp;</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/digium/dnBJEs"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130514165150_YOLYCUZC1MKTN8DC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[CCS Support Technician 1 - Night Shift]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Technical Suppoprt]]></team>
+			<url><![CDATA[http://digium.theresumator.com/apply/Vq769A/CCS-Support-Technician-1-Night-Shift.html]]></url>
+			<city><![CDATA[Huntsville]]></city>
+			<state><![CDATA[AL]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[35806]]></postalcode>
+			<description><![CDATA[<p>
+Digium*, Inc., the Asterisk* Company, created, owns and is the innovative force behind Asterisk, the most widely used open source telephony software. Since its founding in 1999, Digium has become the open source alternative to proprietary communication providers, with offerings that cost as much as 80 percent less. Digium offers Asterisk software free to the open source community and offers Switchvox, Digium&#39;s Unified Communications solution to power a broad family of products for small, medium and large businesses. The company&#39;s product line includes a wide range of telephony hardware and software to enable resellers and customers to implement turnkey VoIP systems or to design their own custom communications solutions. At Digium, we&#39;re changing the way businesses communicate.</p>
+<p>
+<br />
+<strong>Duties of Position:</strong></p>
+<p>
+Answer incoming calls and respond to email and web-based customer requests for information or support on Digium telephony products, including Asterisk, DAHDI, and Switchvox.</p>
+<p>
+Qualified applicants will possess a solid call center background, above average troubleshooting skills, be comfortable troubleshooting issues that may include the Linux and Windows operating systems and third-party products with limited or no remote access, excellent written and verbal communication skills and demonstrate reliable performance in a team environment. Must possess the ability to manage time wisely, to maintain detailed technical records, and handle customer requests in a professional manner. Must work a night shift at Huntsville AL.&nbsp;</p>
+<p>
+<strong>Minimum qualifications:</strong></p>
+<ul>
+<li>
+High school diploma</li>
+<li>
+Problem solving abilities and Research skills</li>
+<li>
+A minimum of one year on (evidence-based) troubleshooting work related environment and call center experience.</li>
+<li>
+Familiarity with the ISO and TCP/IP model</li>
+<li>
+Clear grasp of fundamental knowledge of DHCP, DNS, VLAN, NAT, Port forwarding, etc.</li>
+<li>
+Proficient working on Linux environments without graphical interface (Installation through package manager, compilation process, SSH, Command Line text editor, software configuration through configuration files and Shell scripting)</li>
+<li>
+Basic programming skills (C, C++, Java, Perl, Python, Bash, etc)</li>
+<li>
+Skilled with packet analyzer tools (wireshark)</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+Any Network or System Administrator certification is a big plus, as well as experience on troubleshooting telecommunications issues such as PRI, BRI, VoIP(SIP/IAX), POTS (Plain Old Telephone lines)</p>
+<p>
+<strong>Benefits:</strong></p>
+<p>
+Digium is proud to offer a comprehensive benefits package to eligible employees, which is designed to promote their personal well being as well as of their families. Digium not only offers a very competitive health benefits package including medical, dental and vision coverage, we also offer income protection benefits including life insurance, short term disability, and long term disability.</p>
+<p>
+Digium is an equal employment opportunity employer</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/digium/Vq769A"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130517182938_RFLQFVXQWO0Z8PZ7]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Test / Systems Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://digium.theresumator.com/apply/FitXMy/Software-Test-Systems-Engineer.html]]></url>
+			<city><![CDATA[Huntsville]]></city>
+			<state><![CDATA[AL]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[35806]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About Digium:</strong></p>
+<p>
+Digium*, Inc., the Asterisk* Company, created, owns and is the innovative force behind Asterisk, the most widely used open source telephony software. Since its founding in 1999, Digium has become the open source alternative to proprietary communication providers, with offerings that cost as much as 80 percent less. Digium offers Asterisk software free to the open source community and offers Switchvox, Digium&#39;s Unified Communications solution to power a broad family of products for small, medium and large businesses. The company&#39;s product line includes a wide range of telephony hardware and software to enable resellers and customers to implement turnkey VoIP systems or to design their own custom communications solutions. At Digium, we&#39;re changing the way businesses communicate.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Duties of Position:</strong></p>
+<ul>
+<li>
+Design and manage systems for web-based scalable infrastructure</li>
+<li>
+Build and manage tools and framework to automated web-scale infrastructure</li>
+<li>
+Build and run automated tests to perform system and functional level tests for web-based architecture</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Qualifications Required:</strong></p>
+<ul>
+<li>
+BS in Computer Science, Electrical Engineering, Computer Engineering, or equivalent experience</li>
+<li>
+5 years experience as a Software Test / or Systems Engineer, or similar position</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Required Experience:</strong></p>
+<ul>
+<li>
+Mastery of systems administration</li>
+<li>
+Mastery of scripting/automation tools (python, perl)</li>
+<li>
+Experience with IT automation tools such as puppet or chef</li>
+<li>
+Experience with continuous integration methodologies</li>
+<li>
+Excellent verbal and written communication skills</li>
+<li>
+Familiar with testing methodologies</li>
+<li>
+Source code management including git</li>
+<li>
+Solid understanding of networking concepts (TCP/IP, packet capturing, protocol analysis)</li>
+<li>
+Linux and open source environments</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Desired Experience:</strong></p>
+<ul>
+<li>
+Large scale web deployments</li>
+<li>
+Asterisk, VoIP, and telephony</li>
+<li>
+Familiar with Agile development and test processes</li>
+<li>
+Familiar with C/C++</li>
+<li>
+A track record of being generally awesome</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Benefits:</strong></p>
+<p>
+Digium is proud to offer a comprehensive benefits package to eligible employees, which is designed to promote their personal well being as well as of their families. Digium not only offers a very competitive health benefits package including medical, dental and vision coverage, we also offer income protection benefits including life insurance, short term disability, and long term disability.</p>
+<p>
+Digium is an equal opportunity employer</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/digium/FitXMy"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130610185027_WX5SEXE8SWXF6RJM]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Inside Channel Account Manager (ICAM)]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[Sales - CRR]]></team>
+			<url><![CDATA[http://digium.theresumator.com/apply/pYEgQu/Inside-Channel-Account-Manager-ICAM.html]]></url>
+			<city><![CDATA[Huntsville]]></city>
+			<state><![CDATA[AL]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[35806]]></postalcode>
+			<description><![CDATA[<p>
+Digium*, Inc., the Asterisk* Company, created, owns and is the innovative force behind Asterisk, the most widely used open source telephony software. Since its founding in 1999, Digium has become the open source alternative to proprietary communication providers, with offerings that cost as much as 80 percent less. Digium offers Asterisk software free to the open source community and offers Switchvox, Digium&#39;s Unified Communications solution to power a broad family of products for small, medium and large businesses. The company&#39;s product line includes a wide range of telephony hardware and software to enable resellers and customers to implement turnkey VoIP systems or to design their own custom communications solutions. At Digium, we&#39;re changing the way businesses communicate.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Duties of Position:</strong></p>
+<p>
+We are looking for individuals who are great on the phone -- that&#39;s where you&#39;ll do most of your work. The ICAM will prospect, qualify, recruit, train and/or nurture profitable channel partners by geographical need. The ICAM must consistently demonstrate excellent communication, planning, organizational, and problem-solving skills. Recruiting profitable channel partners and maintaining established partner relationships are the primary duties of the ICAM. Certain job functions described herein may be subject to possible modification to drive sales and channel initiatives.&nbsp;</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Qualifications Required:</strong></p>
+<p>
+This is an inside sales position which requires an aptitude for understanding technology and excellent written and verbal communication skills. If you&#39;re adept at working between multiple computer screens and have strong organizational and time-management skills, then you&#39;ll thrive in this fast paced work environment. Other important skills include:</p>
+<ul>
+<li>
+Confidence and persistence, as well as an approach that is flexible</li>
+<li>
+You must have what it takes to smile and dial on the telephone all day</li>
+<li>
+Ability and desire to prospect, qualify, cold call, and recruit</li>
+<li>
+An excellent listener with the ability to build successful relationships</li>
+<li>
+Demonstrated multi-tasking proficiency</li>
+<li>
+Strong inter-personal communication skills</li>
+<li>
+Ability to work with management</li>
+<li>
+A technical aptitude to learn our products and internal systems</li>
+<li>
+Extensive knowledge of Internet Protocol, VOIP and SIP is preferred</li>
+<li>
+Experience selling IT and voice solutions is a plus</li>
+<li>
+Salesforce Customer Relationship Management (CRM) experience is a plus</li>
+<li>
+A well-developed understanding of Solution Selling is a plus</li>
+<li>
+Bachelor&#39;s degree or equivalent sales experience</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Benefits:</strong></p>
+<p>
+Digium is proud to offer a comprehensive benefits package to eligible employees, which is designed to promote their personal well being as well as of their families. Digium not only offers a very competitive health benefits package including medical, dental and vision coverage, we also offer income protection benefits including life insurance, short term disability, and long term disability.</p>
+<p>
+Digium is an equal employment opportunity employer</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/digium/pYEgQu"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130619153816_XGLROPE33NPFZOHR]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Marketing/Statistics Intern]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://digium.theresumator.com/apply/bQnjpG/MarketingStatistics-Intern.html]]></url>
+			<city><![CDATA[Huntsville]]></city>
+			<state><![CDATA[AL]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[35806]]></postalcode>
+			<description><![CDATA[<p>
+Digium*, Inc., the Asterisk* Company, created, owns and is the innovative force behind Asterisk, the most widely used open source telephony software. Since its founding in 1999, Digium has become the open source alternative to proprietary communication providers, with offerings that cost as much as 80 percent less. Digium offers Asterisk software free to the open source community and offers Switchvox, Digium&#39;s Unified Communications solution to power a broad family of products for small, medium and large businesses. The company&#39;s product line includes a wide range of telephony hardware and software to enable resellers and customers to implement turnkey VoIP systems or to design their own custom communications solutions. At Digium, we&#39;re changing the way businesses communicate.</p>
+<p>
+<br />
+Digium Inc. is looking for a part-time intern to work closely with experienced members of our Marketing Department! The ideal candidate would be a Statistics student with an interest in Marketing, or a Marketing student with a flair for Statistics. This is a great position that offers invaluable learning experience in a corporate environment. <strong>All Digium internships are offered on a volunteer, unpaid basis</strong>. School credit can be offered in accordance with University requirements. We are looking for a motivated intern willing to work 10-20 hours. We offer flexible hours and full training for all interns.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Responsibilities:</strong></p>
+<p>
+Intern will utilize sales out date, channel point of sales, distribution inventory reports, and opportunity data to identify which statistical model is best for Digium.&nbsp; Develop the model first in Excel for proof of concept, and then learn how to apply the model in a business intelligence solution for interactive and live results.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+Student or recent graduate looking to learn how Statistics plays into Corporate Marketing</li>
+<li>
+Microsoft office proficiency, specifically with Excel</li>
+<li>
+Ability to work autonomously or under close supervision</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Internship]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/digium/bQnjpG"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130628151910_GHHWLNKHEHHUKF5Q]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Customer Response Representative]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[Sales - CRR]]></team>
+			<url><![CDATA[http://digium.theresumator.com/apply/ws4ehq/Customer-Response-Representative.html]]></url>
+			<city><![CDATA[Huntsville]]></city>
+			<state><![CDATA[AL]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[35806]]></postalcode>
+			<description><![CDATA[<p>
+Digium*, Inc., the Asterisk* Company, created, owns and is the innovative force behind Asterisk, the most widely used open source telephony software. Since its founding in 1999, Digium has become the open source alternative to proprietary communication providers, with offerings that cost as much as 80 percent less. Digium offers Asterisk software free to the open source community and offers Switchvox, Digium&#39;s Unified Communications solution to power a broad family of products for small, medium and large businesses. The company&#39;s product line includes a wide range of telephony hardware and software to enable resellers and customers to implement turnkey VoIP systems or to design their own custom communications solutions. At Digium, we&#39;re changing the way businesses communicate.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Duties of Position:</strong></p>
+<p>
+This position is focused on calling prospects who have expressed an interest in Digium products. The job requires you to qualify prospective customers, evaluate budgets and to determine if our products are a fit. This is an inside sales position which requires an aptitude for understanding technology and excellent written and verbal skills. Once a prospect is qualified by the Customer Response Representative (CRR) it is then handed off to an Account Executive (AE) for closure.</p>
+<ul>
+<li>
+Working highly qualified (organic) leads using various methods including phone, email, chat, social media, etc. This includes both inbound and outbound activity</li>
+<li>
+Working internally with other groups such as sales management and marketing to develop and implement content to improve the success of the sales team</li>
+<li>
+Flexibility to work a rotating schedule to guarantee phone coverage from 7am-7pm CST</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Qualifications Required:</strong></p>
+<ul>
+<li>
+Ability and desire to qualify and develop sales leads using various methods. All leads provided by Digium</li>
+<li>
+Excellent written and verbal communication skills</li>
+<li>
+A technical aptitude to learn our products and internal systems</li>
+<li>
+Experience selling IT solutions. Experience in selling voice solutions a plus</li>
+<li>
+Salesforce Customer Relationship Management (CRM) experience is a plus</li>
+<li>
+Bachelor&#39;s degree or equivalent sales experience</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Benefits:</strong></p>
+<p>
+Digium is proud to offer a comprehensive benefits package to eligible employees, which is designed to promote their personal well being as well as of their families. Digium not only offers a very competitive health benefits package including medical, dental and vision coverage, we also offer income protection benefits including life insurance, short term disability, and long term disability.</p>
+<p>
+Digium is an equal employment opportunity employer</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/digium/ws4ehq"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130628152228_ZAXA4FI0C87KOEEE]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Communications Support Tech]]></title>
+			<department><![CDATA[Technical Support]]></department>
+			<team><![CDATA[Technical Suppoprt]]></team>
+			<url><![CDATA[http://digium.theresumator.com/apply/lQRRVJ/Communications-Support-Tech.html]]></url>
+			<city><![CDATA[San Diego]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[92126]]></postalcode>
+			<description><![CDATA[<p>
+Digium*, Inc., the Asterisk* Company, (www.digium.com), created, owns and is the innovative force behind Asterisk, the most widely used open source telephony software. In addition to a wide range of telephony products, Digium offers Switchvox, our Unified Communications solution to power a broad family of products for small, medium, and large businesses. The San Diego division&#39;s primary business is providing quality PBX systems to small- to mid-sized businesses that are ready to take advantage of the latest advances in the telephony field. At Digium, We&#39;re changing the way businesses communicate.</p>
+<p>
+Digium is looking for a Business Communications Solution Technical Support Specialist. We are growing business and are looking for a highly motivated individual to provide customer technical support. The ideal candidate would have a broad understanding of IT (hardware, software, and networking), great customer service skills, and willing to learn about our product line. Full product training will be provided.</p>
+<p>
+<strong>Required Skills and Experience:</strong></p>
+<ul>
+<li>
+Broad understanding of IT (hardware, software, and networking)</li>
+<li>
+Excellent customer service skills</li>
+<li>
+Excellent troubleshooting abilities</li>
+<li>
+Ability to perform in a fast-paced, multi-task environment</li>
+<li>
+Knowledge of computer components and computer assembly</li>
+</ul>
+<p>
+<strong>Desired Skills:</strong></p>
+<ul>
+<li>
+Experience with Linux</li>
+<li>
+Knowledge and experience with VOIP</li>
+</ul>
+<p>
+<strong>Perks Include:</strong></p>
+<ul>
+<li>
+Laid back atmosphere with up and coming VoIP company</li>
+<li>
+Full benefits package including 401k</li>
+<li>
+No scripts!</li>
+<li>
+All the Starbucks coffee you can drink</li>
+</ul>
+<p>
+<strong>Benefits:</strong></p>
+<p>
+Digium is proud to offer a comprehensive benefits package to eligible employees that is designed to promote their personal well being as well as that of their families. Digium not only offers a very competitive health benefits package including medical, dental and vision coverage. We also offer income protection benefits including life insurance, short term disability, and long term disability.</p>
+<p>
+Digium is an equal employment opportunity employer</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/digium/lQRRVJ"></script>]]></buttons>
+		</job>
+	</jobs>

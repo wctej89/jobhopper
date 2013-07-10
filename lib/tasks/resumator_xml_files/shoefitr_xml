@@ -1,0 +1,448 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Shoefitr]]></company>
+			<job>
+			<id><![CDATA[job_20120305202932_BT1HAXMRR0I66GGU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front-End Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://shoefitr.theresumator.com/apply/z4dr5r/FrontEnd-Engineer.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[(Multiple States)]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About Shoefitr:</strong></p>
+<p>
+Shoefitr helps online shoe shoppers find the best-fitting shoe. Our application asks a shopper what shoe and size she currently wears, compares it to the shoe she wants to buy, and recommends the best-fitting size. We accomplish this with a database of internal shoe measurements acquired using 3D scanning technology.</p>
+<p>
+Our customers include TOMS, New Balance, and Heels.com. You may have read about us in TechCrunch, Time Magazine, or Runner&#39;s World. We&#39;re venture-backed and growing rapidly. We&#39;re hot. And we&#39;re looking for a talented front-end engineer to help us shape the future of Internet apparel retail.</p>
+<p>
+<strong>About the position:</strong></p>
+<p>
+You will join a talented engineering and design team that has worked on everything from Microsoft&#39;s C++ compiler, to the Linux TCP implementation, to high frequency trading algorithms. We think you&#39;ll learn a lot from us, and we look forward to learning a lot from you.</p>
+<p>
+You&#39;ll work with us to build out our product offering for footwear and apparel retailers. This will involve working with our designers to make UX decisions, prototyping experimental features, and building reusable Javascript components to simplify development. We expect you to be a &quot;full-stack&quot; programmer, but most of your time will be spent developing the user-facing pieces. We have openings for this position in both our Pittsburgh and San Francisco offices (sorry, no telecommuting).</p>
+<p>
+<strong>About you:</strong></p>
+<ul>
+<li>
+BS in Computer Science or equivalent experience.</li>
+<li>
+Mastery of Javascript, HTML and CSS. Experience with other dynamically-typed languages a plus.</li>
+<li>
+A product portfolio that demonstrates you can build incredible user experiences.</li>
+<li>
+Excited to learn any technology we throw at you.</li>
+</ul>
+<p>
+<strong>Bonus points if:</strong></p>
+<ul>
+<li>
+You love shoes. Like seriously.</li>
+<li>
+You&rsquo;ve run a marathon (or at least a 5k).</li>
+</ul>
+<p>
+<strong>Benefits:</strong></p>
+<ul>
+<li>
+Stock options, market salary, healthcare</li>
+<li>
+4 weeks of vacation</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/shoefitr/z4dr5r"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120630195326_H8GY6QBWAA7L5ROS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[UX Researcher/Designer]]></title>
+			<department><![CDATA[User Experience]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://shoefitr.theresumator.com/apply/nbxqFK/UX-ResearcherDesigner.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[(Multiple States)]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+	&nbsp;</p>
+<p>
+	<strong>About Shoefitr:</strong></p>
+<p>
+	Shoefitr is software that helps online shoe shoppers find the best-fitting shoe when shopping online. We ask a shopper what shoe and size she currently wears, compare it to the shoe she wants to buy, and recommend the best-fitting size. We accomplish this with a database of internal shoe measurements acquired using 3D scanning technology. Our software interprets the raw scan data and makes meaningful size/shoe recommendations.<br />
+	You may have read about us in TechCrunch, Time Magazine, CNet, or on Hacker News. We just closed a competitive Series A. We&rsquo;re hot. And we&rsquo;re looking for a talented UX researcher/designer to help us shape the future of Internet apparel retail.</p>
+<p>
+	<br />
+	<strong>About the Position</strong></p>
+<p>
+	User experience is incredibly important to us. It&rsquo;s how we differentiate. You will be our 2nd full time UX designer/researcher, and you will work with our world class UX lead to research, user test, and conceptualize new products from start to finish. You will be responsible for investigating new concepts and analyzing user behavior to improve existing interfaces and develop new experiences. This means you must be comfortable coordinating user tests, interviewing users, compiling data, and analyzing results. We expect you to be thinking about the layout of a major feature in the morning and delivering mockups that afternoon. You&rsquo;ll be backed by an outstanding team of engineers who are building some amazing products.</p>
+<p>
+	<br />
+	<strong>About You</strong></p>
+<p>
+	- You love shoes and shopping online, and you know you can make it better.<br />
+	- Masters in HCI or equivalent experience.<br />
+	- Experience organizing and performing user tests<br />
+	- A product portfolio that demonstrates you can design incredible user experiences.<br />
+	- Full knowledge of Adobe CS.</p>
+<p>
+	<br />
+	<strong>Bonus Points If:</strong></p>
+<p>
+	- You can code up your own prototypes (jQuery, HTML, CSS, Flash/AS3).<br />
+	- You&rsquo;ve run a marathon (or at least a 5k).</p>
+<p>
+	<br />
+	<strong>Benefits:</strong></p>
+<p>
+	- Stock options<br />
+	- Market salary<br />
+	- 4 weeks of vacation<br />
+	- Allowance to pick your own hardware</p>
+<p>
+	&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/shoefitr/nbxqFK"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120718152729_QG1DULQJ8VJGMXWX]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://shoefitr.theresumator.com/apply/HRneut/Software-Engineer.html]]></url>
+			<city><![CDATA[Pittsburgh]]></city>
+			<state><![CDATA[PA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[15213]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About Shoefitr:</strong></p>
+<p>
+Shoefitr helps online shoe shoppers find the best-fitting shoe. Our application asks a shopper what shoe and size she currently wears, compares it to the shoe she wants to buy, and recommends the best-fitting size. We accomplish this with a database of internal shoe measurements acquired using 3D scanning technology.</p>
+<p>
+Our customers include TOMS, New Balance, and Heels.com. You may have read about us in TechCrunch, Time Magazine, or Runner&#39;s World. We&#39;re venture-backed and growing rapidly. We&#39;re hot. And we&#39;re looking for talented software engineers to help us shape the future of Internet apparel retail.</p>
+<p>
+<br />
+<strong>About the position:</strong></p>
+<p>
+You will join a talented engineering and design team that has worked on everything from Microsoft&#39;s C++ compiler, to the Linux TCP implementation, to high frequency trading algorithms. We think you&#39;ll learn a lot from us, and we look forward to learning a lot from you.</p>
+<p>
+You&rsquo;ll work with us to build out our product offering for footwear retailers as well as a stand-alone retail site. You&rsquo;ll be responsible for architecting, implementing, testing, and deploying new features and applications. We expect you to be a &ldquo;full-stack&rdquo; programmer &ndash; someone who&rsquo;s comfortable hacking in Javascript one day and C++ the next.</p>
+<p>
+<strong>About you:</strong></p>
+<p>
+- BS in Computer Science or equivalent experience.<br />
+- A product portfolio that demonstrates you are capable of great &ldquo;feats&rdquo; of software.<br />
+- Excited to learn any technology we throw at you.</p>
+<p>
+<strong>Bonus points if:</strong></p>
+<p>
+- You have experience with AWS or Javascript (or other dynamically-typed languages).<br />
+- You enjoy conducting user tests.<br />
+- You love shoes.<br />
+- You&rsquo;ve run a marathon (or at least a 5k).</p>
+<p>
+<strong>Benefits:</strong></p>
+<p>
+- Stock options, market salary, healthcare<br />
+- 4 weeks of vacation</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/shoefitr/HRneut"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121031194908_WLVDFL67IEBUCQYY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Graphic Designer]]></title>
+			<department><![CDATA[User Experience]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://shoefitr.theresumator.com/apply/9qcJmb/Graphic-Designer.html]]></url>
+			<city><![CDATA[Pittsburgh]]></city>
+			<state><![CDATA[PA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[15213]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About Shoefitr:</strong><br />
+Shoefitr is software that helps online shoe shoppers find the best-fitting shoe when shopping online. We ask a shopper what shoe and size he currently wears, compare it to the shoe he wants to buy, and recommend the best-fitting size. We accomplish this with a database of internal shoe measurements acquired using 3D scanning technology. Our software interprets the raw scan data and makes meaningful size/shoe recommendations.<br />
+You may have read about us in TechCrunch, Time Magazine, CNet, or on Hacker News. We just closed a competitive Series A. We&rsquo;re hot. And we&rsquo;re looking for a talented graphic designer to help us shape the future of Internet apparel retail.</p>
+<p>
+<strong>About the position:</strong><br />
+Design and user experience are incredibly important to us. It&rsquo;s how we differentiate. You will be our 1st full time graphic designer, and you will be responsible for conceptualizing, designing, and iterating new interfaces, webpages, advertisements, and marketing materials. We will be looking for you to curate company branding, determine visual standards that reinforce the brand across all touchpoints, and influence the look and feel of creative assets for brand consistency. You will work with our UX team to enhance our user interface and contribute to testing plans for improving interface effectiveness.</p>
+<p>
+<strong>About you:</strong><br />
+- 3-5 years of full time design experience<br />
+- Ability to balance quality of work within deadline<br />
+- Strong portfolio of online design including websites, infographics, etc.<br />
+- Self starter with a strong ability to multitask<br />
+- Well organized and process oriented<br />
+- Desire to work in a startup; ability to manage ambiguity<br />
+- BS in industrial or graphic design<br />
+- Full knowledge of Adobe CS.</p>
+<p>
+<strong>Bonus points if:</strong><br />
+- You have working knowledge of HTML and CSS<br />
+- You&rsquo;ve done design for BSB lead generation and/or a SAAS company<br />
+- You have an understanding of web usability and interface design<br />
+- You&rsquo;ve run a marathon (or at least a Turkey trot).</p>
+<p>
+<strong>Benefits:</strong><br />
+- Stock options<br />
+- &ldquo;Market&rdquo; salary<br />
+- 4 weeks of vacation</p>
+<p>
+<strong>Interested?</strong><br />
+- Check out our website at www.shoefitr.com<br />
+- Submit your resume</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/shoefitr/9qcJmb"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121031195342_FGYCE4LZFGA3VDDT]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[QA Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://shoefitr.theresumator.com/apply/15zipf/QA-Engineer.html]]></url>
+			<city><![CDATA[Pittsburgh]]></city>
+			<state><![CDATA[PA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[15213]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About Shoefitr:</strong><br />
+Shoefitr is software that helps online shoe shoppers find the best-fitting shoe when shopping online. We ask a shopper what shoe and size he currently wears, compare it to the shoe he wants to buy, and recommend the best-fitting size. We accomplish this with a database of internal shoe measurements acquired using 3D scanning technology. Our software interprets the raw scan data and makes meaningful size/shoe recommendations.<br />
+You may have read about us in TechCrunch, Time Magazine, CNet, or on Hacker News. We just closed a competitive venture funding round. We&rsquo;re hot and we&rsquo;re looking for a talented QA engineer to help us shape the future of Internet retail.</p>
+<p>
+<strong>About the position:</strong><br />
+You will be our 5thth full time software-engineer. Engineer #1 is a co-founder, and engineer #2 previously worked on Microsoft&rsquo;s C++ compiler. We&rsquo;re smart guys. We think you&rsquo;ll learn a lot from us, and we look forward to learning a lot from you.<br />
+You&rsquo;ll work with us to build out our product offering for footwear and clothing retailers as well as a stand-alone retail site. You&rsquo;ll be responsible for helping us understand how to automate and improve our testing process, writing and executing test plans for major application features before they go live, and fielding, investigating, and implementing fixes for bugs in our codebase. We expect you to be a &ldquo;full-stack&rdquo; programmer &ndash; someone who&rsquo;s comfortable hacking in Javascript one day and C++ the next. We are looking for a self motivated individual who will independently research and implement testing frameworks.</p>
+<p>
+<strong>About you:</strong><br />
+- BS in Computer Science or equivalent experience.<br />
+- A product portfolio that demonstrates you are capable of great &ldquo;feats&rdquo; of software.<br />
+- Excited to learn any technology we throw at you.<br />
+- Fanaticism for test-driven development<br />
+- Understanding of internet technologies and protocols, and how they work together (HTTP, SSL, DNS, etc&hellip;)<br />
+- Familiarity with the differences between modern browsers and rendering engines</p>
+<p>
+<strong>Bonus points if:</strong><br />
+- You have experience with AWS or Javascript (or other dynamically-typed languages).<br />
+- You have experience with continuous integration tools<br />
+- You are familiar with testing frameworks<br />
+- You love shoes.<br />
+- You&rsquo;ve run a marathon (or at least a 5k).</p>
+<p>
+<strong>Benefits:</strong><br />
+- Stock options<br />
+- Market salary<br />
+- 4 weeks of vacation<br />
+- Allowance to pick your own hardware</p>
+<p>
+<strong>Interested?</strong><br />
+- Check out our website at www.shoefitr.com<br />
+- Submit your resume</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/shoefitr/15zipf"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130610043025_Z0HNDQPPZCAC3BJD]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Client Success Manager]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://shoefitr.theresumator.com/apply/isUkmI/Client-Success-Manager.html]]></url>
+			<city><![CDATA[Pittsburgh]]></city>
+			<state><![CDATA[PA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[15213]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Customer Success Manager</strong></p>
+<p>
+Shoefitr aims to bridge the gap between in-store and online shopping by mimicking the tactile offline shopping experience. Our first product is software that helps online shoe shoppers find the best-fitting shoe when shopping online. We ask a shopper what shoe and size she currently wears, compare it to the shoe she wants to buy, and recommend the best-fitting size. We accom&not;plish this with a database of internal shoe measurements acquired using 3D scanning technology. Our software is in use worldwide and our customer base is growing.<br />
+You may have read about us in TechCrunch, Time Magazine, CNet, or on Hacker Ne&not;ws. We are a quickly growing company and are looking for leaders to help take the company to the next level and transform e-commerce.</p>
+<p>
+<strong>About the Position</strong></p>
+<p>
+Customer success is very important to us. We work with companies on four continents and someday we will cover all seven. You will work closely with our sales team to manage each relationship once a client has been signed and the application has launched on their site. You will work with each client to ensure they are getting as much value from our application as possible. You will lead efforts to communicate our value to each customer so they know exactly what we are doing for them. You will be responsible for customer retention metrics, communication regarding upcoming product improvements/launches, and case study projects with clients to make sure they are realizing all the value we can provide.</p>
+<p>
+<strong>About You</strong></p>
+<p>
+- You love shoes and shopping online<br />
+- You have a bachelor&rsquo;s degree in Information systems, business, or other related fields. MBAs are a plus.<br />
+- Minimum 2 years experience in customer success organization<br />
+- You have demonstrated success retaining customers in a SaaS organization<br />
+- You love working with people, are charismatic, and a strong communicator<br />
+- You are excellent at managing several projects simultaneously.</p>
+<p>
+<strong>Bonus Points If</strong></p>
+<p>
+- You are proficient in MYSQL and/or Javascript<br />
+- You have experience with Adobe Illustrator<br />
+- You are fluent in a second language<br />
+- You&rsquo;ve run a marathon (or at least a 5k).</p>
+<p>
+<strong>Benefits</strong></p>
+<p>
+- Stock options<br />
+- Market salary<br />
+- 4 weeks of vacation<br />
+- Health Insurance</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/shoefitr/isUkmI"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130610043323_F8YJJLETAQK7MUT0]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Implementation Engineer]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://shoefitr.theresumator.com/apply/LiRXKx/Implementation-Engineer.html]]></url>
+			<city><![CDATA[Pittsburgh]]></city>
+			<state><![CDATA[PA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[15213]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Implementation Engineer</strong></p>
+<p>
+Shoefitr aims to bridge the gap between in-store and online shopping by mimicking the tactile offline shopping experience. Our first product is software that helps online shoe shoppers find the best-fitting shoe when shopping online. We ask a shopper what shoe and size she currently wears, compare it to the shoe she wants to buy, and recommend the best-fitting size. We accom&not;plish this with a database of internal shoe measurements acquired using 3D scanning technology. Our software is in use worldwide and our customer base is growing.<br />
+You may have read about us in TechCrunch, Time Magazine, CNet, or on Hacker Ne&not;ws. We are a quickly growing company and are looking for leaders to help take the company to the next level and transform e-commerce.</p>
+<p>
+<strong>About the Position</strong></p>
+<p>
+We&rsquo;re looking for an implementation engineer with B2B software or software-as-a-service (SaaS) experience. We want someone who can own, manage, and complete customer integration activities from the moment the contract is signed through the launch on a client&rsquo;s website.&nbsp; You will be expected to work closely with newly signed clients to integrate our application, make necessary customizations and launch on our client&rsquo;s sites as quickly as possible. You will work with our sales team to identify upcoming customer integrations and the necessary steps needed to launch. You will work with our product team to understand how all of our products integrate and to stay up to speed on integration changes caused by product updates. We expect you to ensure that each client&rsquo;s integration experience is delightfully seamless.</p>
+<p>
+<strong>About You</strong></p>
+<p>
+- At least 2 years proven, successful sales engineer experience<br />
+- Demonstrated ability to coordinate and push activities forward<br />
+- An out-going personality and can work well with others<br />
+- Ability to articulate the technical details and project plans at any level of detail or brevity through phone call or e-mail<br />
+- Ability to conduct a software demo that is easy to follow and contains the appropriate amount of detail for the audience at hand whether that be IT or business professionals<br />
+- Proficiency with Javascript and MYSQL in order to complete technical integration<br />
+- Strong project management skills<br />
+- Bachelor&rsquo;s degree in IS, engineering, or a related field</p>
+<p>
+<strong>Bonus Points If</strong></p>
+<p>
+- You are fluent in a second language<br />
+- You have strong programming skills<br />
+- You&rsquo;ve run a marathon (or at least a 5k).</p>
+<p>
+<strong>Benefits</strong></p>
+<p>
+- Stock options<br />
+- Market salary<br />
+- 4 weeks of vacation<br />
+- Health Insurance</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/shoefitr/LiRXKx"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130611035154_9UWNY0K8DRSRCJXY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Process Integration Manager]]></title>
+			<department><![CDATA[Operations]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://shoefitr.theresumator.com/apply/0SoCBv/Process-Integration-Manager.html]]></url>
+			<city><![CDATA[Pittsburgh]]></city>
+			<state><![CDATA[PA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[15213]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Process Integration Manager</strong></p>
+<p>
+Shoefitr aims to bridge the gap between in-store and online shopping by mimicking the tactile offline shopping experience. Our first product is software that helps online shoe shoppers find the best-fitting shoe when shopping online. We ask a shopper what shoe and size she currently wears, compare it to the shoe she wants to buy, and recommend the best-fitting size. We accom&not;plish this with a database of internal shoe measurements acquired using 3D scanning technology. Our software is in use worldwide and our customer base is growing.<br />
+You may have read about us in TechCrunch, Time Magazine, CNet, or on Hacker Ne&not;ws. We are a quickly growing company and are looking for leaders to help take the company to the next level and transform e-commerce.</p>
+<p>
+<strong>About the Position</strong></p>
+<p>
+Efficient operations are the core to our business. We operate and maintain 3D imaging operations in several different locations and you will be responsible for maintaining them. You will work with our sales team to understand demand for scanning and any trips associated with new customer launches and our engineering team to maintain adequate equipment inventory. You will also work with our R&amp;D and IT team to understand process improvements that affect the performance of teams you manage. Finally, you will be responsible for planning, managing, and executing all remote scanning integration trips. You will supervise employees, train new employees on scanning process, monitor process output, arrange travel, and manage a budget. This position will travel to domestic and international locations 30% of the time. The remaining time will be based in Shoefitr global headquarters in Pittsburgh, PA. While at Shoefitr headquarters you will work with manage footwear orders through Shoefitr&rsquo;s network of footwear vendors and plan future integrations. The positions will require strong interpersonal skills and results driven personality.</p>
+<p>
+<strong>About You</strong></p>
+<p>
+- You love shoes and shopping online<br />
+- You have a bachelor&rsquo;s degree in operations, engineering, business, or other related fields. MBAs are a plus.<br />
+- Minimum 2 years experience in supervisory or operations role<br />
+- You have demonstrated success retaining customers<br />
+- You love working with people, are charismatic, and a strong communicator<br />
+- You are excellent at managing several projects simultaneously<br />
+- You are comfortable traveling internationally<br />
+- You are detail oriented and love to plan ahead</p>
+<p>
+<strong>Bonus Points If</strong><br />
+- You have Supply Chain Management experience<br />
+- You are knowledgeable in MYSQL<br />
+- You&rsquo;ve worked in a Software as a Service organization<br />
+- You are fluent in a second language<br />
+- You like to get outside and play</p>
+<p>
+<strong>Benefits</strong><br />
+- Stock options<br />
+- Market salary<br />
+- 4 weeks of vacation<br />
+- Health Insurance</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/shoefitr/0SoCBv"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130703022514_4N10RH2DDVO4XHF9]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Office Manager]]></title>
+			<department><![CDATA[Operations]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://shoefitr.theresumator.com/apply/O9oQG8/Office-Manager.html]]></url>
+			<city><![CDATA[Pittsburgh]]></city>
+			<state><![CDATA[PA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[15213]]></postalcode>
+			<description><![CDATA[<p>
+Shoefitr aims to bridge the gap between in-store and online shopping by mimicking the tactile offline shopping experience. Our first product is software that helps online shoe shoppers find the best-fitting shoe when shopping online. We ask a shopper what shoe and size she currently wears, compare it to the shoe she wants to buy, and recommend the best-fitting size. We accom&not;plish this with a database of internal shoe measurements acquired using 3D scanning technology. Our software is in use worldwide and our customer base is growing.</p>
+<p>
+You may have read about us in TechCrunch, Time Magazine, CNet, or on Hacker Ne&not;ws. We are a quickly growing company and are looking for leaders to help take the company to the next level and transform e-commerce.</p>
+<p>
+<strong>About the Position</strong><br />
+We&rsquo;re looking for an office manager to help keep help keep the company running like the well oiled machine it is. We need to stay organized as we hire more employees and expand the business.&nbsp; We are looking for someone with previous experience as an office manager who is excited to take on the challenge of keeping an ambitious company organized.&nbsp; You will be responsible for invoicing, expense reports, paying bills, HR, benefits, payroll, travel arrangements and other office and personnel needs.&nbsp; Additionally, this person will be expected to work with the operations team to manage data entry, which includes coordinating schedules for employees, , training, and managing various data projects.</p>
+<p>
+<strong>About You</strong><br />
+- At least 2 years experience as an office manager<br />
+- Demonstrated ability to coordinate and push activities forward<br />
+- An out-going personality and can work well with others<br />
+- Ability train a team of employees<br />
+- Proficient in MS Office and other basic computer&nbsp; and technology skills<br />
+- Bachelor&rsquo;s degree minimum</p>
+<p>
+<strong>Bonus Points If</strong><br />
+- You have worked for a technology company<br />
+- You have used accounting software in the past<br />
+- You keep your Tupperware organized<br />
+- You&rsquo;ve run a marathon (or at least a 5k).</p>
+<p>
+<strong>Benefits</strong><br />
+- Market salary<br />
+- 4 weeks of vacation<br />
+- Health Insurance</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/shoefitr/O9oQG8"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Transifex]]></company>
+			<job>
+			<id><![CDATA[job_20111222180848_AGAKHS1IYBOFNVHZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Application Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://transifex.theresumator.com/apply/qfPOo1/Web-Application-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94115]]></postalcode>
+			<description><![CDATA[<p>
+	The tools we&#39;re developing will dramatically change the workflow of professionals and enterprises. We&#39;re looking for talented coders to join our engineering team. With this role, you&#39;ll create the tools used by potentially millions of users, and you&#39;ll be challenged to pump new features out weekly. The question which will be asked to you constantly is &quot;how can you amaze our users today?&quot;<br />
+	Responsibilities</p>
+<p>
+	In this role we&#39;re looking for outstanding developers who are talented in writing code that solves interesting problems. You don&#39;t need to be an expert in Ruby or Python, however if you are motivated, thrill-seeking and passionate about writing open source code, we&#39;d like to meet you.<br />
+	Qualifications</p>
+<p>
+	Ideal candidates will have experience in agile development techniques and experience with some of Python, PHP, SQL, Java, Ruby on Rails and Javascript. Things we really like reading in resumes are pet-projects, non-academic achievements and clever hacks. We love geeks.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/transifex/qfPOo1"></script>]]></buttons>
+		</job>
+	</jobs>

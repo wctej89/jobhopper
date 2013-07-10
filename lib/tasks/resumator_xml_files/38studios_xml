@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[38 Studios LLC]]></company>
+			<job>
+			<id><![CDATA[job_20110208235352_S3ICIAKD8AT1WBZX]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sample Job]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://38studios.theresumator.com/apply/fHmHVB/Sample-Job.html]]></url>
+			<city><![CDATA[Pittsburgh]]></city>
+			<state><![CDATA[PA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[15212]]></postalcode>
+			<description><![CDATA[<p>You can enter a detailed, formatted, description of your position.</p><p>We have a full-featured WYSIWYG editor which enables you to craft that perfectly-formatted bulleted list. So go get that new candidate!]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/38studios/fHmHVB"></script>]]></buttons>
+		</job>
+	</jobs>

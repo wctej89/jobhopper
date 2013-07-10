@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Muzicall]]></company>
+			<job>
+			<id><![CDATA[job_20091217080221_ZX7C8YTOFSJ2FQMR]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Junior System Administrator]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://muzicall.theresumator.com/apply/VYnXPd/Junior-System-Administrator.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[W1W 7QA]]></postalcode>
+			<description><![CDATA[<p>We run a distributed infrastructure, using technologies like Linux, Xen, Puppet, Oracle, MySQL, Cisco etc. We are looking for a Junior System Administrator that is helping us to manage the Infrastructure behind our SAAS Solution rbt4all. You'll be part of an multi-cultural team based in London, working closely with Business and Software Engineering, support them deliver solution.</p>
+<h2><a name="JuniorSysadminJobSpec-YourResponsibilities"></a>Your Responsibilities</h2>
+<ul>
+<li>Manage and Monitor our Linux based systems</li>
+<li>Provide second level Support to our Customers</li>
+<li>Manage Backups</li>
+<li>Analysis of faults and error conditions</li>
+<li>Maintaining technical documentation</li>
+<li>Ensuring flawless operation of existing and new systems.</li>
+</ul>
+<h2><a name="JuniorSysadminJobSpec-YourProfile"></a>Your Profile</h2>
+<ul>
+<li>At least 2 years relevant professional experience with real services in a multi user environment</li>
+<li>Experience with Linux or any other Unix Like Operating System</li>
+<li>Basic Experience with Windows</li>
+<li>Experience with Apache httpd  and web servers in general</li>
+<li>Basic Experience with Networking Hardware like Switches, Routers and Firewall</li>
+<li>Solid understandings TCP/IP (DNS, HTTP etc.)</li>
+<li>Enough database knowledge to be able to monitor and backup Mysql / Oracle / PostgreSQL servers</li>
+<li>Good knowledge of English is required, other languages is an advantage</li>
+<li>Able to communicate with Campaign manager and developers</li>
+</ul>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/muzicall/VYnXPd"></script>]]></buttons>
+		</job>
+	</jobs>

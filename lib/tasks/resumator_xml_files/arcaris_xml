@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Arcaris]]></company>
+			<job>
+			<id><![CDATA[job_20121110003428_72M4RRY8YGT7QLYQ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sample Job]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://arcaris.theresumator.com/apply/W9rYBo/Sample-Job.html]]></url>
+			<city><![CDATA[Pittsburgh]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Colombia]]></country>
+			<postalcode><![CDATA[15212]]></postalcode>
+			<description><![CDATA[<p>
+Se solictan Hombres y mujeres mayores de 21 a&ntilde;os,para laborar en empresa operadora de atenci&oacute;n al cliente.Bachiller con experiencia minimo de 6 meses en call center y atenci&oacute;n al cliente telefonicamente,sumado ala experiencia anterior debe poseer minimo 3 meses de esa atenci&oacute;n telefonica con cliente Espa&ntilde;ol.Trabajo ,horarios nocturnos y madrugada.Interesados Enviar Hoja de vida,si no cumple los requisitos por favor abstenerse de enviar Hoja de vida.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/arcaris/W9rYBo"></script>]]></buttons>
+		</job>
+	</jobs>

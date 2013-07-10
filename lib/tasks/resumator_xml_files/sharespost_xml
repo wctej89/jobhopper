@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[SharesPost]]></company>
+			<job>
+			<id><![CDATA[job_20111024171411_MJRCIPNCA3WVGCF0]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Agile Rails Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://sharespost.theresumator.com/apply/KBDqRj/Senior-Agile-Rails-Developer.html]]></url>
+			<city><![CDATA[San Bruno]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94066]]></postalcode>
+			<description><![CDATA[<p>
+<strong>PRINCIPALS ONLY -- NO RECRUITERS PLEASE</strong><br />
+<br />
+SharesPost is changing the way companies, investors and shareholders will transact in the pre-IPO economy. We&rsquo;re building a market where the leading private growth companies can satisfy their shareholders&rsquo; desire for liquidity without sacrificing control. Where technology connects companies in need of growth capital with investors in search of growth investments. And where technology and hands-on expertise come together to create efficiencies, accelerate transactions, forge connections, and empower participants.</p>
+<p>
+SharesPost is hiring Senior Agile Ruby on Rails developers to join our team.</p>
+<p>
+<strong>Work with cutting-edge technology in a disruptive company</strong></p>
+<p>
+We are committed to rigorous extreme programming (XP) development with a Rails stack. We have years of experience applying the full suite of XP practices, including TDD/BDD, pair programming, and regular refactoring. We have retrospectives to help us improve our process, and one week iterations.<br />
+<br />
+Of course, we develop on Macs; we use RubyMine and vim, run rspec integration tests in multiple modes including Selenium, and use Jasmine-driven Javascript including backbone.js and Coffeescript. We use jQuery, and write most of our Javascript as either backbone.js models/views/controllers and/or jQuery plugins. We are investigating big data solutions for our analytics, especially Hadoop. We use Haml &amp; Sass for our views. We use Pivotal Tracker for managing priorities, both customer stories and infrastructure tasks, so everyone shares a common view of the project. The codebase is brand new (no legacy code problems!) and was written test-driven from the ground up.</p>
+<p>
+<strong>Do you have what it takes to join a highly motivated development team?</strong><br />
+<br />
+We are looking for great developers who love XP, enjoy sharing knowledge, and want to have some fun with us! Must be basically a cool person who enjoys pairing every day. Easy going, drama free, and patient are all pluses. Passionate -- about anything -- is a huge plus.</p>
+<p>
+<b>Qualifications</b></p>
+<ul>
+<li>
+Well versed in RoR with a minimum of 1-2 years of RoR experience plus 5 years overall development experience</li>
+<li>
+BS/CS or equivalent experience</li>
+<li>
+Rails 3.2, jQuery, Sass/Haml, Postgres, Git, MacOS X, and Linux</li>
+<li>
+Agile experience including test-driven development</li>
+<li>
+You like pair programming</li>
+<li>
+Experience with testing frameworks from rspec to Selenium and Jasmine</li>
+<li>
+Hadoop (optional bonus)</li>
+</ul>
+<p>
+<strong>Benefits of joining SharesPost</strong></p>
+<ul>
+<li>
+Competitive salary, based on your level of experience</li>
+<li>
+Attractive employee stock option plan (we want you to share in our success)</li>
+<li>
+Health benefits (medical, dental and vision) with employer contribution to premiums</li>
+</ul>
+<p>
+Please include your resume and a code sample or link to some of your code (e.g. github).<br />
+<br />
+<strong>PRINCIPALS ONLY -- NO RECRUITERS PLEASE</strong></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/sharespost/KBDqRj"></script>]]></buttons>
+		</job>
+	</jobs>

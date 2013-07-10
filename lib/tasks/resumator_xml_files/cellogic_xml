@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Cellogic]]></company>
+			<job>
+			<id><![CDATA[job_20121126110510_QZDAFQJABNBHCH7W]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Ruby on Rails Hacker]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cellogic.theresumator.com/apply/uT84ds/Ruby-On-Rails-Hacker.html]]></url>
+			<city><![CDATA[Modi'in]]></city>
+			<state><![CDATA[Modi'in]]></state>
+			<country><![CDATA[Israel]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+If you are self starter, have experience with Ruby on Rails, have database experience, and want your work to reach millions- read on! &nbsp;</p>
+<p>
+<strong>Do you love RoR? &nbsp;Have several years experience with it? &nbsp;Do you know Heroku well? &nbsp;PostgreSQL?</strong> &nbsp;We are a small mobile start-up, located near Modi&#39;in (there&#39;s a direct train from Tel Aviv folks!), looking to bring on talented engineers to join our fast growing team. We are looking to hire a talented ROR hacker that posseses experience with Ruby on Rails, postgreSQL, and JS (preferred).</p>
+<p>
+We&#39;re a start-up, with all the pros and cons that go along with that. &nbsp;The hours might not be standard and priorities might shift quickly, but the <strong>benefits</strong> include having a lot of responsibility, your work will matter (and reach millions), and you&#39;ll work with an amazing team! &nbsp;Our system is growing very quickly, so get ready to scale with us!</p>
+<p>
+&nbsp;</p>
+<p>
+Skills:</p>
+<ul>
+<li>
+2+ years experience working with RoR (required)</li>
+<li>
+Experience with mySQL, postgreSQL, Heroku, JS (preferred)</li>
+<li>
+Ability to learn new technology and adapt in a fast paced environment</li>
+</ul>
+<p>
+If you are a Ruby on Rails developer interested in working here, APPLY NOW!!</p>
+<p>
+Please send your Github profile to: jobs at cellogic dot com or attach the link to your resume when applying.</p>
+]]></description>
+			<type><![CDATA[Contracted to Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cellogic/uT84ds"></script>]]></buttons>
+		</job>
+	</jobs>

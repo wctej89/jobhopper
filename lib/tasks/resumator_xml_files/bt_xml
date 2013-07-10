@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Boston Technologies Inc.]]></company>
+			<job>
+			<id><![CDATA[job_20120516163034_VTFBILZDP67I0EAP]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[VP of Software Engineering]]></title>
+			<department><![CDATA[Real-Time Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://bt.theresumator.com/apply/hexcur/VP-Of-Software-Engineering.html]]></url>
+			<city><![CDATA[Boston]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02210]]></postalcode>
+			<description><![CDATA[<p>Boston Technologies, the #1 fastest-growing company in Boston and the #143 fastest-growing company in the US, &nbsp;seeks a highly talented leader to manage all technology decision-making and development activities.</p><p><br /><strong>Responsibilities:</strong></p><p>This position is ultimately responsible for the engineering, testing and production systems which power are company&#39;s array of product offerings.&nbsp; The trading execution and reporting platform is built using a variety of technologies which include Scala, JAVA, C# and MySQL.&nbsp; The deployment is across multiple data centers and dozens of servers.&nbsp; This role will also oversee our efforts to automate our development, quality assurance and production code roll-outs where we use a combination of Hudson, Maven, Scala Build Tool (SBT), Puppet, GIT and the Agile Buddy management tool.</p><p><strong>Additional Responsibilities:</strong></p><ul><li>Development of overall strategy and technical direction for the rollout of features supporting the company&#39;s client offerings</li><li>Strategic planning for all development efforts to include necessary testing, release and production needs.</li><li>Development of support infrastructure necessary to manage day-to-day operations in conjunction with IT, development and product management.</li><li>Establish technology department goals and objectives and stand accountable for meeting them.</li><li>Supporting role in the development of the company&#39;s product roadmap</li><li>Lead and improve on the agile methodology used today for the design, development, testing and rollout of our products and features.</li><li>Direct responsibility over the technology department&#39;s operating budget in order to maximimize the utilization of our resources and delivery of our market solutions.</li><li>Active role in the strategic business and product planning process.</li><li>Growing our technology department through team-building, personnel development and recruiting.</li></ul><p><strong>Requirements:</strong></p><ul><li>Previous leadership roles in development and engineering for high-growth companies.</li><li>Strong team player, excellent communication skills and the ability to work in across teams in a highly-productive environment</li><li>Experience running an Agile development environment.</li><li>Experience developing/maintaining technology planning roadmaps and accurately projecting resource requirements across teams.</li><li>Experience in managing and and planning resources for the development of multiple products simultaneously.</li><li>Experience in development utilizing open source technologies.</li><li>Experience in developing solutions around Java, Linux and MySQL or equivalent database technology.</li><li>B.S. in Computer Science or a related field</li></ul><p>&nbsp;</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Senior Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bt/hexcur"></script>]]></buttons>
+		</job>
+	</jobs>

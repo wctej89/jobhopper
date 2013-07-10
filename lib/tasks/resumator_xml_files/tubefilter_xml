@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Tubefilter]]></company>
+			<job>
+			<id><![CDATA[job_20100721002438_BL2NYLAP5CUXT45B]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Application Developer]]></title>
+			<department><![CDATA[Tubefilter]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://tubefilter.theresumator.com/apply/m9K6oL/Web-Application-Developer.html]]></url>
+			<city><![CDATA[Los Angeles]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90036]]></postalcode>
+			<description><![CDATA[<p><span style="font-family: Verdana; line-height: 18px;"><strong>Overview</strong><br style="padding: 0px; margin: 0px;" /><br style="padding: 0px; margin: 0px;" />We're Tubefilter, a Los Angeles based startup in the online entertainment space. We're building something awesome – but we can't tell you what it is unless you apply. So send us your resume already. <br style="padding: 0px; margin: 0px;" /><br style="padding: 0px; margin: 0px;" />We are programming mostly in Ruby on Rails, so experience with Ruby is essential. Experience with scalable web services, web API’s, XML, and the overall internet ecosystem is important. <br style="padding: 0px; margin: 0px;" /><br style="padding: 0px; margin: 0px;" />We're a small, talented team that is growing. Are you ready to build something revolutionary with us?<br style="padding: 0px; margin: 0px;" /><br style="padding: 0px; margin: 0px;" /><strong>Responsibilities:<span style="text-decoration: underline;"><br style="padding: 0px; margin: 0px;" /></span></strong>Be curious<br style="padding: 0px; margin: 0px;" />Love the startup environment<br style="padding: 0px; margin: 0px;" />Code elegantly<br style="padding: 0px; margin: 0px;" />Work well in a team environment.<br style="padding: 0px; margin: 0px;" />Be capable of working independently on dev but work together with rest of team on overall strategy and features.<br style="padding: 0px; margin: 0px;" />Like waffles (we make them together every morning) and Wii.<br style="padding: 0px; margin: 0px;" />Ninja like ability to build and deploy scalable web apps<br style="padding: 0px; margin: 0px;" /><br style="padding: 0px; margin: 0px;" /><strong>Experience</strong>:<br style="padding: 0px; margin: 0px;" />Expert in Ruby on Rails and MySQL Databases -- this means having built and deployed some solid web apps<br style="padding: 0px; margin: 0px;" />Distributed version control (Git, Mercurial)<br style="padding: 0px; margin: 0px;" />HTTP, PHP, SSL, DNS, TCP/IP, XML, JSON, and RSS<br style="padding: 0px; margin: 0px;" />Experience building and deploying on Facebook, MySpace, and OpenSocial platforms<br style="padding: 0px; margin: 0px;" />Experience building Internet-scale distributed server systems and delivering them into a 24×7, high-availability production environment.<br style="padding: 0px; margin: 0px;" />Experience in Design Patterns, Object Oriented Design and Programming, Software Development life cycle process and procedures<br style="padding: 0px; margin: 0px;" />Experience with cloud based providers — AWS, Heroku<br style="padding: 0px; margin: 0px;" />Not required but a bonus: Passion for server administration<br style="padding: 0px; margin: 0px;" /><br style="padding: 0px; margin: 0px;" /><br style="padding: 0px; margin: 0px;" /><strong>Skills</strong>:<br style="padding: 0px; margin: 0px;" />Ruby on Rails<br style="padding: 0px; margin: 0px;" />PHP<br style="padding: 0px; margin: 0px;" />MySQL<br style="padding: 0px; margin: 0px;" />CSS/XHTML/Javascript/AJAX<br style="padding: 0px; margin: 0px;" />LAMP Platform Expert<br style="padding: 0px; margin: 0px;" />Education<br style="padding: 0px; margin: 0px;" />Degree not essential but helpful.<br style="padding: 0px; margin: 0px;" />Compensation<br style="padding: 0px; margin: 0px;" />Competitive + Equity</span></p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/tubefilter/m9K6oL"></script>]]></buttons>
+		</job>
+	</jobs>

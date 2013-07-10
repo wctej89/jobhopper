@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Globant]]></company>
+			<job>
+			<id><![CDATA[job_20130424222457_JFOYFTEIXRC7CC8S]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Web Developer]]></title>
+			<department><![CDATA[Software Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://globant.theresumator.com/apply/xpWIUn/Senior-Web-Developer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+We are seeking an experienced Web Developer to join our team in SF, who will be working onsite at our customer&rsquo;s offices, one of the leading banks in US.</p>
+<p>
+&nbsp;</p>
+<p>
+Responsibilities:</p>
+<p>
+- Works on extending and maintaining one of our customer&rsquo;s JavaScript/JSP-Tag framework used extensively inside the bank.</p>
+<p>
+- Creates different Proof of Concepts (POCs) and Prototypes for future direction, and helping translate the end product of those POCs into Production-ready and stable code.</p>
+<p>
+- Provides production support, defect fixing and other related maintenance tasks to the framework.</p>
+<p>
+&nbsp;</p>
+<p>
+Requirements:</p>
+<p>
+- At least 2+ years of experience with OO programming in JavaScript.</p>
+<p>
+- Solid Experience with AJAX and JavaScript frameworks like jQuery, YUI, Sencha or Dojo.</p>
+<p>
+- Proficiency with HTML and CSS and how to integrate in a standards-based fashion with each other and JavaScript. HTML5 and CSS3 experience - a big plus.</p>
+<p>
+- Proficiency with the DOM and asynchronous event-programming model.</p>
+<p>
+- Experience with JSON and RESTful web services.</p>
+<p>
+- Understanding of the full software development lifecycle.</p>
+<p>
+&nbsp;</p>
+<p>
+A plus:</p>
+<p>
+Experience with Mobile development and Touch interfaces.</p>
+<p>
+Server-side development background with Java or .NET.</p>
+<p>
+Understanding and experience implementing web accessibility standards (WAI-ARIA).</p>
+<p>
+&nbsp;</p>
+<p>
+Thanks,</p>
+<p>
+Globant Recruiting</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/globant/xpWIUn"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130626060711_BHZ4PZI1BYAQHATA]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[SSR/SR Android Developer - Seattle]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://globant.theresumator.com/apply/qVCmeA/SSRSR-Android-Developer-Seattle.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98104]]></postalcode>
+			<description><![CDATA[<p>
+Globant is seeking an Android Developer&nbsp; who can lead the creation of and web Android applications.&nbsp; We seek candidates who are extremely detail oriented and capable of working independently to work onsite with our customer, the leader in the digital &amp; entertainment industry.</p>
+<p>
+<br />
+Requirements:</p>
+<p>
+<br />
+- BS in Computer Science or equivalent experience/skills<br />
+- Proficient in Java<br />
+- At least 1 year experience with Android&rsquo;s SDK<br />
+- Proficiency with SQL and the relational DBM<br />
+- Working experience with XHTML/HTML, JavaScript, CSS, XML, LAMP or other web technologies</p>
+<p>
+<br />
+What We Value in our Developers:<br />
+- A genuine passion for software development<br />
+- Respect for development guidelines: Your code should not only work, it has to be created in a way that other people in the organization can understand and reuse.</p>
+<p>
+<br />
+Thanks,<br />
+Globant Recruiting</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/globant/qVCmeA"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130626061925_DNITZUKTCVXVIWC2]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[SSR/SR iOS Developer - Seattle]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://globant.theresumator.com/apply/4u21cR/SSRSR-IOS-Developer-Seattle.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98104]]></postalcode>
+			<description><![CDATA[<p>
+We are seeking a skilled iOS developer to join our team in Seattle! The ideal candidate has sound experience in software development and at least 1+ year developing&nbsp; iOS applications.&nbsp; You will have the opportunity to work onsite at our customer&rsquo;s offices, the world leading company in entertainment industry.</p>
+<p>
+Required Skills:<br />
+Minimum 2+ years developing applications<br />
+Minimum 1+ years in iOS development<br />
+Experience working on both iPhone and iPad<br />
+Knowledge of Design Patterns, algorithms and data structures</p>
+<p>
+Technologies:<br />
+IOS/Objective-C<br />
+iPhone &amp; iPad development<br />
+RESTful<br />
+UIKit<br />
+CoreAnimation</p>
+<p>
+Challenges:<br />
+Develop applications that will be internally for thousand of users<br />
+Work on a heterogeneous technical environment of interconnected technologies<br />
+Propose innovative solutions to current technical problems</p>
+<p>
+Thanks,</p>
+<p>
+Globant Recruiting</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/globant/4u21cR"></script>]]></buttons>
+		</job>
+	</jobs>

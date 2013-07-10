@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Zopim Technologies Pte Ltd]]></company>
+			<job>
+			<id><![CDATA[job_20130311041012_ZIGKGWGMM59OJBSO]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Operations Engineer]]></title>
+			<department><![CDATA[Product]]></department>
+			<team><![CDATA[Super HR]]></team>
+			<url><![CDATA[http://zopim.theresumator.com/apply/0hMjV9/Operations-Engineer.html]]></url>
+			<city><![CDATA[Singapore]]></city>
+			<state><![CDATA[Singapore]]></state>
+			<country><![CDATA[Singapore]]></country>
+			<postalcode><![CDATA[149544]]></postalcode>
+			<description><![CDATA[<p>
+We are looking for determined and reliable operations engineers to help develop, provision, configure, and support our backend infrastructure.</p>
+<p>
+We operate high-volume web applications that powers more than a billion pageviews a month, which ranks us within the top 3000 most visited domain in the world. We&#39;re looking for engineers with a range of skills and experience levels to help in scaling this operation.</p>
+<p>
+You&#39;ll use scripts and develop tools to identify and fix problems, respond to tickets and alerts from managed hosting environments. You will also help in continually optimizing our production environment.</p>
+<p>
+<u><strong>Ideal Candidates Possess</strong></u></p>
+<ul>
+<li>
+Strong LINUX administration skills</li>
+<li>
+Self-directed, independent and has experience owning complete features/products</li>
+<li>
+Amazing ability to get stuff done</li>
+<li>
+Good understanding of algorithms, network protocols and web services</li>
+<li>
+Hard working and dedicated</li>
+<li>
+Ability to let your hair down and have fun at work</li>
+</ul>
+<p>
+<u><strong>Good to Have</strong></u></p>
+<ul>
+<li>
+Experience developing real-world web applications</li>
+<li>
+Proficiency in web application programming (OOP, LAMP, Python, PHP, Rails, Node.js)</li>
+<li>
+Familiarity with SQL &amp; NoSQL databases</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/zopim/0hMjV9"></script>]]></buttons>
+		</job>
+	</jobs>

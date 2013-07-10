@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[TASER International]]></company>
+			<job>
+			<id><![CDATA[job_20120910203635_K1KUYFRVKID48UUL]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Linux Systems Administrator]]></title>
+			<department><![CDATA[IT]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://taserinternational.theresumator.com/apply/gopCWL/Linux-Systems-Administrator.html]]></url>
+			<city><![CDATA[Phoenix]]></city>
+			<state><![CDATA[AZ]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[85255]]></postalcode>
+			<description><![CDATA[<p>
+	Linux Systems Administrator<br />
+	<br />
+	Are you passionate about using technology to solve problems? Can you design infrastructures for large-scale systems? TASER International is growing rapidly and searching for a talented systems administrator who can facilitate the continued expansion of our cloud-based software service, Evidence.com.&nbsp;<br />
+	<br />
+	You&#39;ll use your passion, technical expertise and strong problem solving skills to develop and oversee the infrastructure for our platform, enhance our existing core services and support key components of our product roadmap.<br />
+	<br />
+	If you are a creative, enthusiastic, energetic, highly motivated, and intelligent systems administrator who&#39;s eager to work in a fast-paced environment, we&#39;d like to meet you!</p>
+<p>
+	Responsibilities include, but not limited to:<br />
+	&bull; Manage cloud-based infrastructure system<br />
+	&bull; Develop custom tools to automate the IT infrastructure<br />
+	&bull; Configuration management<br />
+	&bull; Maintain peripheral services and software<br />
+	&bull; Work within a team environment to achieve organization goals<br />
+	&bull; Provide technical solutions to a wide range of problems and user requests<br />
+	&bull; Perform standard administration tasks (packaging, OS installs, patch management)</p>
+<p>
+	Required experience:<br />
+	4 year BS degree in computer science, computer engineering, or equivalent. 3+ years of experience in systems administration. Ability to scale customer-facing systems in a hybrid environment (Windows, Linux). Expertise in scripting (Bash, Powershell) and automation of key administrative processes. Understanding of data security processes and risks. Excellent communication and team skills.<br />
+	<br />
+	Desired experience:<br />
+	Experience with data center management (Amazon). Exposure to Windows system administration and software development. Comfortable with AWS. Familiarity with at least one of the following languages: Ruby, Perl, Python, PHP.<br />
+	<br />
+	This role reports to the VP of Software Engineering in Scottsdale, AZ.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/taserinternational/gopCWL"></script>]]></buttons>
+		</job>
+	</jobs>

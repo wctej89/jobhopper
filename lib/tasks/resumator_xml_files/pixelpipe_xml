@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Pixelpipe]]></company>
+			<job>
+			<id><![CDATA[job_20120515180520_X4ZLAOY47VM84ZPF]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front End Web Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://pixelpipe.theresumator.com/apply/63JBHa/Front-End-Web-Developer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p><a href="http://pi.pe"><img src="http://pixelcdn.s3.amazonaws.com/img/logo.a86ffce9.png" /></a></p><h2>Summary:</h2><p>Pixelpipe&#39;s mission is to help users liberate their media. We accomplish this goal by providing a world-class, state of the art service capable of transferring thousands of media files a second - with a snappy web client designed with the user in mind. You can see the beta here: <a href="http://pi.pe">http://pi.pe</a>.</p><p>We are looking for exceptional web developers to implement the web client using CSS3, HTML5 and jQuery. The right candidate will know what it means to work on a team and takes pride from team success. We are a startup that believes in the mantra &quot;work hard, play hard&quot;.</p><h2>Responsibilities:</h2><ul><li>Assist in the development of our web client utilizing CSS3, HTML5 and jQuery</li><li>Develop clean and organized style definitions and code on schedule</li><li>Implement web client that is semantically correct and cross-browser compatible</li><li>Answer to engineering management team and collaborate with international development team</li><li>Troubleshoot and debug issues found in production on a needed basis</li></ul><h2>Requirements:</h2><ul><li>Experience in developing consumer web applications</li><li>Expert command of Javascript (via jQuery), CSS and HTML5</li><li>Excellent verbal, non-verbal and written communication skills</li><li>Motivated problem solver requiring minimum supervision</li><li>Capable of prioritizing tasks in response to business needs</li><li>Works well with others in a startup atmosphere, checks ego at the door</li><li>Distill high fidelity psd designs into sprites and functioning html</li></ul><h2>Preferred:</h2><ul><li>Experience with Java Server Pages and Java Web Apps</li><li>Knowledge of the bash shell in Linux environments</li><li>Familiarity with Scrum/Agile methodologies</li><li>Ability to use Subversion on the command line</li></ul>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/pixelpipe/63JBHa"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120515174544_RGGYTTQZJL4OAEH6]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Java Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://pixelpipe.theresumator.com/apply/19SLkZ/Java-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p><a href="http://pi.pe"><img src="http://pixelcdn.s3.amazonaws.com/img/logo.a86ffce9.png" /></a></p><h2>Summary:</h2><p>Pixelpipe&rsquo;s mission is to help users liberate their media. We accomplish this goal by providing a world-class, state of the art service capable of transferring thousands of media files a second.</p><p>You are a talented java engineer with experience in consumer web applications. You excel in taking tasks and breaking them down to manageable pieces. You get excited at the thought of engineering solutions for heavy I/O in consumer media. You use engineering best practices to iterate over a solution until it meets the business need. You personify startup culture; work hard, play hard!</p><h2>Responsibilities:</h2><ul><li>Assist in the development of our web application and the systems that support it</li><li>Answers to engineering management team and collaborates with international development team</li><li>Develop clean and organized code, participate as a contributor on a team of engineers</li><li>Collaborate with the QA team on developing test plans and highlighting potential pitfalls</li><li>Troubleshoot and debug issues found in production on a needed basis</li></ul><h2>Requirements:</h2><ul><li>Experience in developing consumer web applications that scale, in Java</li><li>Excellent verbal, non-verbal and written communication skills</li><li>Expert command of Java and MySQL</li><li>At least 2+ years experience in developing web applications with a related&nbsp; BS/MS degree. Comparable experience is accepted</li><li>Motivated problem solver requiring minimum supervision</li><li>Capable of prioritizing tasks in response to business needs</li><li>Works well with others in a startup atmosphere, checks ego at the door</li></ul><h2>Preferred:</h2><ul><li>Experience with NoSQL persistence stores and Map/Reduce jobs (HBase / Hadoop)</li><li>Scales web apps with heavy I/O</li><li>Knowledge of scripting languages and the ability to develop in Python</li><li>Experience in cloud technologies, particularly Amazon Web Services</li><li>Familiarity with Scrum/Agile methodologies</li></ul>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/pixelpipe/19SLkZ"></script>]]></buttons>
+		</job>
+	</jobs>

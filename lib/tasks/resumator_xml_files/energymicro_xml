@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Energy Micro]]></company>
+			<job>
+			<id><![CDATA[job_20120412095210_JOFHBQWSXYQ5AT37]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Digital Designer Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://energymicro.theresumator.com/apply/SWNVPb/Digital-Designer-Engineer.html]]></url>
+			<city><![CDATA[Oslo]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Norway]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Job summary</strong><br />
+	This is your chance to join a young and dynamic company and make a big impact. The Digital Designer will join a higly skilled and enthusiastic team responsible for the design, including specification, design, verification, of digital and mixed signal microcontroller products.</p>
+<p>
+	<strong>Key responsibilities</strong></p>
+<ul>
+	<li>
+		Work in teams with design- and verification engineers</li>
+	<li>
+		Specification, design, verification, of digital and mixed signal microcontroller and radio transceiver products.</li>
+	<li>
+		Top-level (system) specification, design and verification</li>
+	<li>
+		Digital signal processing</li>
+	<li>
+		Specify and develop test plans for modules and systems</li>
+	<li>
+		Methodology development (Low Power Digital Design)</li>
+	<li>
+		Synthesis</li>
+	<li>
+		Technical documentation</li>
+	<li>
+		Silicon validation and debug</li>
+	<li>
+		Project management</li>
+</ul>
+<p>
+	<strong>Qualifications</strong></p>
+<ul>
+	<li>
+		B.S., M.S. or Ph.D in Electrical Engineering or equivalent experience is required</li>
+	<li>
+		3-10 years experience with design and verification of digital and SoC systems</li>
+	<li>
+		Juniors (0-2 years of experience) with outstanding results from university may also be considered</li>
+	<li>
+		Some experience with analog and mixed-signal systems is an advantage</li>
+	<li>
+		Experience with low power design is an advantage</li>
+</ul>
+<p>
+	<strong>Personal profile</strong></p>
+<ul>
+	<li>
+		You have most of the following personal qualities</li>
+	<li>
+		Enthusiastic and creative</li>
+	<li>
+		Good analytical and system troubleshooting skills</li>
+	<li>
+		Good written and oral communication skills</li>
+	<li>
+		Team player</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/energymicro/SWNVPb"></script>]]></buttons>
+		</job>
+	</jobs>

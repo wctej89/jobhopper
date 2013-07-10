@@ -1,0 +1,892 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Tue, 9 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Knewton]]></company>
+			<job>
+			<id><![CDATA[job_20111026224057_HTU2A5U3FECJ4JQY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer - Big Data]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering+Product]]></team>
+			<url><![CDATA[http://knewton.theresumator.com/apply/xYwHXb/Software-Engineer-Big-Data.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10003]]></postalcode>
+			<description><![CDATA[<p>Knewton is an education startup funded by high-profile investors including Peter Thiel and Reid Hoffman. Located in the heart of Manhattan in the Union Square area, Knewton is building the world&#39;s most powerful adaptive learning engine, with the goal of making personalized and engaging education available to all. Knewton has been recognized as a Technology Pioneer for 2011 by the World Economic Forum in Davos and one of the top 25 best places to work by Crain&rsquo;s New York Business.</p><p><strong><em>You&rsquo;ll be coding the core algorithms, models, and services that drive the Knewton Adaptive Learning Platform, the thing that generates the spot-on, highly-personalized educational recommendations that maximize each student&rsquo;s probability of success. Want to use tons of data to help figure out what students know, how they learn best, and how to help them learn more efficiently and effectively? If so, this job&rsquo;s for you!</em></strong></p><p><strong>This is an outstanding opportunity to:</strong></p><ul><li>Work with and learn from the world&#39;s&nbsp;best engineers and data scientists</li><li>Contribute to key engineering decisions regarding technical direction of team</li><li>Quickly build world class consumer facing products THAT SEE DAYLIGHT</li><li>Become an industry luminary &ndash; we are open sourcing our projects/codebase</li></ul><p><strong>Engineers must have:</strong></p><ul><li>A track record of writing high-quality, elegant code</li><li>A willingness to learn and use Python and Java</li><li>The potential and desire to rise into positions of technical leadership</li><li>A passion for transforming education</li></ul><p><strong>Not required but highly desired are:</strong></p><ul><li>Experience with the Java Virtual Machine (JVM)</li><li>Experience in machine learning and data mining, and with the R statistical package</li><li>Familiarity with Amazon Web Services (AWS) and Unix</li><li>Experience with open-source technologies</li><li>Experience with big data processing using NoSQL techniques like Cassandra, Hadoop, Hive&nbsp;</li></ul><p><strong>Perks include:</strong></p><ul><li>Competitive salary and stock options</li><li>As much paid vacation as you need to take</li><li>Flexible hours</li><li>High-quality equipment (default setup: a Mac laptop with a giant monitor)</li><li>The opportunity to use cutting-edge machine learning and engineering techniques to transform and democratize education</li></ul>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/knewton/xYwHXb"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20111227203638_JDL8EWLRR1FXCCAH]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[HR Business Partner]]></title>
+			<department><![CDATA[General & Administration]]></department>
+			<team><![CDATA[General & Administration]]></team>
+			<url><![CDATA[http://knewton.theresumator.com/apply/wEBiEE/HR-Business-Partner.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10011]]></postalcode>
+			<description><![CDATA[<p>
+Knewton is seeking an HR Business Partner to support and empower our team.</p>
+<p>
+You will directly shape how Knewton scales its culture as we navigate an era of aggressive growth.</p>
+<p>
+We need you to build an infrastructure to support our growth while focusing on optimum employee, organizational, and business performance. You will create innovative programs that promote the growth and development of the Knewton team. You will also be responsible for administrative tasks including data management, employment verifications, benefits, and payroll.<br />
+<br />
+<strong>In this role, you will:</strong></p>
+<p>
+<em>Big picture</em></p>
+<ul>
+<li>
+Promote an employee-oriented company culture focused on quality, continuous improvement, and high performance</li>
+<li>
+Design and implement employee programs (e.g. learning and development)</li>
+<li>
+Manage day-to-day human resources matters</li>
+<li>
+Liaise with Recruiting in creating the best orientation experience possible</li>
+</ul>
+<p>
+<em>Specifically</em></p>
+<ul>
+<li>
+Facilitate performance management for all teams</li>
+<li>
+Provide competitive intelligence and recommendations regarding compensation and benefits programs/philosophy</li>
+<li>
+Act as Knewton&rsquo;s liaison with payroll and benefits vendors</li>
+<li>
+Conduct benefits administration</li>
+<li>
+Maintain organized employee personnel records, ensuring accuracy and confidentiality</li>
+<li>
+Serve as the point person for day to day HR inquiries from team members (employment verifications, contracts, training, benefits)</li>
+<li>
+HR projects and ad hoc requests, including headcount analytics, resource planning, talent management, immigration, and other projects and responsibilities as needed</li>
+</ul>
+<p>
+<strong>About You</strong></p>
+<p>
+The right candidate for this position will have 4&ndash;6 years of high-quality HR experience (ideally with technology teams) with exposure to a variety of HR competencies.</p>
+<p>
+The position calls for a:</p>
+<ul>
+<li>
+Strong understanding of start-up culture and the ability to implement solutions in a lean, efficient fashion</li>
+<li>
+Ability to build rapport, establish and maintain working relationships across Knewton</li>
+<li>
+Flexibility and adaptability</li>
+<li>
+Positive attitude and enthusiasm for Knewton&rsquo;s mission</li>
+<li>
+Strong organizational skills with the ability to meet goals and deliver results effectively</li>
+<li>
+First-class written and verbal communication skills</li>
+<li>
+Strong reporting and analytical problem solving skills</li>
+</ul>
+<p>
+<strong>About Us</strong></p>
+<p>
+Knewton is the world&#39;s leading adaptive learning technology provider with the mission of bringing personalized education to the world. The Knewton platform makes it possible for anyone to build applications that provide real-time proficiency estimation, activity recommendations, analytics, and more. The world&#39;s largest and most innovative learning companies use Knewton technology to improve student achievement in K&ndash;12, higher education, global English Language Teaching, and other markets. Knewton has been recognized globally as a &quot;Technology Pioneer&quot; (World Economic Forum in Davos), one of the world&#39;s &quot;50 Most Innovative Companies&quot; (Fast Company), and one of &quot;The World&#39;s 100 Most Intriguing Entrepreneurs&quot; (Goldman Sachs).</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/knewton/wEBiEE"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120708135636_BLCMINWRBT5X1D0Y]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer - NoSQL]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering+Product]]></team>
+			<url><![CDATA[http://knewton.theresumator.com/apply/0nkDjN/Software-Engineer-NoSQL.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10003]]></postalcode>
+			<description><![CDATA[<p>Knewton is a tech startup funded by high-profile investors including Peter Thiel and Reid Hoffman. Located in the heart of Manhattan in the Union Square area, Knewton is building the world&#39;s most powerful adaptive learning engine, with the goal of making engaging and personalized education available to all. Knewton has been recognized as a Technology Pioneer for 2011 by the World Economic Forum in Davos and one of the top 25 best places to work by Crain&rsquo;s New York Business.</p><p><strong><em>You&rsquo;ll be coding the high-throughput, high-availability, highly-scalable services that comprise Knewton&rsquo;s Adaptive Learning Platform, the fundamental infrastructure on which all Knewton products are built. Want to work with big, rich graphs and a gazillion messages, and help develop new technologies that make learning more efficient and effective? If so, this job&rsquo;s for you!</em></strong></p><p><strong>This is an outstanding opportunity to:</strong></p><ul><li>Work with and learn from the world&#39;s best engineers</li><li><p>Contribute to key engineering decisions regarding technical direction of team</p></li><li>Quickly build world class consumer facing products THAT SEE DAYLIGHT</li><li><p>Become an industry luminary &ndash; we are open sourcing our projects/codebase<br />&nbsp;</p></li></ul><p><strong>Engineers must have:</strong></p><ul><li>A track record of writing high-quality, elegant code</li><li>A willingness to learn and use Python and Java</li><li>The potential and desire to rise into positions of technical leadership</li><li>A passion for transforming education</li></ul><p><strong>Not required but highly desired are:</strong></p><ul><li>Experience with the Java Virtual Machine (JVM)</li><li>Experience in machine learning and data mining, and with the R statistical package</li><li>Familiarity with Amazon Web Services (AWS) and Unix</li><li>Experience with open-source technologies</li><li>Experience with big data processing using NoSQL techniques like Cassandra, Hadoop, Hive&nbsp;</li></ul><p><strong>Perks include:</strong></p><ul><li>Competitive salary and stock options</li><li>As much paid vacation as you need to take</li><li>Flexible hours</li><li>High-quality equipment (default setup: a Mac laptop with a giant monitor)</li><li>The opportunity to use cutting-edge machine learning and engineering techniques to transform and democratize education</li></ul>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/knewton/0nkDjN"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121106005449_JSMUSDAIDJDSHHQ5]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Data Scientist]]></title>
+			<department><![CDATA[Data Science]]></department>
+			<team><![CDATA[Research]]></team>
+			<url><![CDATA[http://knewton.theresumator.com/apply/nRDtjT/Data-Scientist.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10011]]></postalcode>
+			<description><![CDATA[<p>
+Located in the heart of Manhattan in the Union Square area, Knewton is building the world&#39;s most powerful adaptive learning engine, with the goal of making personalized and engaging education available to all. Knewton has been recognized as a Technology Pioneer by the World Economic Forum in Davos and one of the top 25 best places to work by Crain&rsquo;s New York Business. Knewton&rsquo;s funding partners include high-profile investors like Peter Thiel, Reid Hoffman, and publishing giant Pearson.</p>
+<p>
+As a Data Scientist at Knewton, you&rsquo;ll be analyzing and extracting insights from one of the world&rsquo;s most interesting data sets. You will work with decision makers across the company to provide actionable, data-driven answers to their most challenging problems.</p>
+<p>
+<strong>This is an outstanding opportunity to:</strong></p>
+<ul>
+<li>
+Work with and learn from leading engineers and data scientists</li>
+<li>
+Provide analysis that informs key decisions regarding technical and product direction of the company</li>
+<li>
+Work with one of the world&rsquo;s largest educational datasets while answering previously unanswerable questions</li>
+</ul>
+<p>
+<strong>Must haves:</strong></p>
+<ul>
+<li>
+1+ years experience with quantitative analysis and accompanying tools such as R, Python, and Matplotlib</li>
+<li>
+1+ years experience with database technologies such as SQL</li>
+<li>
+Solid programming experience utilizing&nbsp;Java, C, C++ or&nbsp;Python&nbsp;</li>
+<li>
+Strong passion for empirical research and both posing and answering hard questions from/with data</li>
+<li>
+Ability to communicate complex quantitative analyses in a clear, precise, and actionable manner</li>
+<li>
+A passion for transforming education</li>
+</ul>
+<p>
+<strong>Highly desired:</strong></p>
+<ul>
+<li>
+Experience&nbsp;working with large, messy data sets, and in ETL, or analogous processes, to acquire and transform data into a useful, maintainable, reusable, and accessible form</li>
+<li>
+Understanding and experience&nbsp;implementing&nbsp;processes needed to ensure quality -- Track record of&nbsp;clean&nbsp;analyses&nbsp;validated with assumptions and pitfalls explicitly noted</li>
+<li>
+Ability to take research questions and construct analysis to answer them with little input from lead/manager</li>
+</ul>
+<p>
+<strong>Perks include:</strong></p>
+<ul>
+<li>
+Competitive salary and stock options</li>
+<li>
+As much paid vacation as you need to take</li>
+<li>
+Flexible hours</li>
+<li>
+High-quality workstation (default setup: a Mac retina laptop with a giant monitor)</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/knewton/nRDtjT"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130210142549_U99RAEB50OHDO6MG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sr. Security Engineer]]></title>
+			<department><![CDATA[Infrastructure]]></department>
+			<team><![CDATA[Systems]]></team>
+			<url><![CDATA[http://knewton.theresumator.com/apply/bEpra2/Sr-Security-Engineer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10011]]></postalcode>
+			<description><![CDATA[<p>
+Knewton is revolutionizing the practice of education with the world&rsquo;s most powerful adaptive learning engine. We are a startup rich in eclectic personalities, are ridiculously dedicated and are unified around a passion for democratizing education. We have also been recognized as a Technology Pioneer for 2011 from the World Economic Forum in Davos and one of the top 25 best places to work by Crain&rsquo;s New York Business.</p>
+<p>
+We are seeking a Senior Security Engineer to help secure the world&rsquo;s most powerful adaptive learning platform. This is a hands-on role focused on software and infrastructure security. Knewton is based in NYC&rsquo;s Union Square.</p>
+<p>
+<strong>Your Role:</strong></p>
+<ul>
+<li>
+Work closely with Knewton software developers, data scientists, systems engineers, IT, and QA to securely build and operate Knewton&rsquo;s platform and infrastructure, and safeguard student data.</li>
+<li>
+Promote secure coding practices and corporate security policies (including developer and company-wide training/brown-bags).</li>
+<li>
+Continually improve Knewton&rsquo;s security posture (reduce MTTD and attack surface).</li>
+<li>
+Effective incident response, including postmortem analysis, and overseeing remediation.</li>
+<li>
+Respond to partner requests regarding security of the Knewton platform.</li>
+<li>
+Manage external security vendors (e.g., pentesters).</li>
+</ul>
+<p>
+This position reports to Head of Infrastructure, and has the potential to grow into a team lead/team management role.</p>
+<p>
+<strong>Your Background:</strong></p>
+<ul>
+<li>
+Unlike other security jobs, this position requires programming ability (our stack includes Java, Python, and Ruby).</li>
+<li>
+Significant hands-on experience securing large-scale consumer web applications or APIs, ideally, in a continuously-deployed, cloud-based environment.</li>
+<li>
+In-depth knowledge of authentication/authorization systems (we use kerberos, OAuth, LDAP), and TLS/SSL.</li>
+<li>
+Experience with FERPA and COPPA (is helpful).</li>
+</ul>
+<p>
+We&rsquo;d also love to know about your contributions to open source projects; literary, musical or other creative interests; and anything else that might set you apart.</p>
+<p>
+Perks include the latest Macs with huge monitors, a kitchen filled with your favorite treats, flexible hours, unlimited vacation time, frequent guest speakers, generous health benefits, equity, and a chance to do meaningful, cutting-edge work to transform education.</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/knewton/bEpra2"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130331114936_L8FKW9RRWQSWZ5OH]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Product Manager]]></title>
+			<department><![CDATA[Product Management]]></department>
+			<team><![CDATA[Engineering+Product]]></team>
+			<url><![CDATA[http://knewton.theresumator.com/apply/Bi8Umy/Senior-Product-Manager.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10011]]></postalcode>
+			<description><![CDATA[<p>
+Knewton is revolutionizing the practice of education with the world&rsquo;s most powerful adaptive learning engine. We are a startup rich in eclectic personalities, are ridiculously dedicated and are unified around a passion for democratizing education. Knewton&rsquo;s investors include several A-list investment firms, angel investors like Peter Thiel and Reid Hoffman, and education giant Pearson. We have also been recognized as a Technology Pioneer at the World Economic Forum in Davos and one of the top 25 best places to work by Crain&rsquo;s New York Business.</p>
+<p>
+We seek a seasoned, high functioning superstar to be the Senior Product Manager for the Knewton Open Platform. The Senior Product Manager will work directly for the VP, Product and will lead Knewton&rsquo;s direct to consumer product strategy and execution. You will own the product roadmap, define the requirements, manage new product and feature developments. Additionally, you will take a metric driven approach to driving key metrics for the platform. You will work closely with Knewton senior management, content, data science, design, and technology teams, and directly with strategic partners to develop bleeding edge products. This is a lynchpin role, and requires consideration for long-term product quality, customer and end user satisfaction, and calls for a highly detail oriented individual with serious entrepreneurial drive and extraordinary flexibility to meet the demands at a high-energy start-up.</p>
+<p>
+<strong>Responsibilities:</strong></p>
+<p>
+<br />
+&bull; Work cross functionally to develop products that make Knewton&rsquo;s technology available to consumers.<br />
+&bull; Understand complex business issues and technical challenges and collaborate with teams to capture requirements for projects.<br />
+&bull; Prioritize projects among competing opportunities, balance customer needs with business priorities, and articulate rationale behind decisions.<br />
+&bull; Create revenue and cost models for product initiatives.<br />
+&bull; Identify internal and external customer needs, generate requirements documents, prioritize and manage projects.<br />
+&bull; Partner with internal and external teams to meet their product needs.<br />
+&bull; Glean customer insights through data and direct contact with customers and end users.<br />
+&bull; Manage product marketing programs and features on an ongoing basis.<br />
+&bull; Monitor competition and evaluate our positioning in the context of the markets we serve.<br />
+&bull; Define, analyze, track and improve key product metrics.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Requirements:</strong></p>
+<p>
+<br />
+&bull; Relevant, timely understanding of the landscape for web-based, scalable consumer products.<br />
+&bull; Experience building products with marketplace dynamics, user-generated content delivery/distribution, social/game dynamics.<br />
+&bull; BS/BA or equivalent, MBA a plus.<br />
+&bull; CS background or prior experience as software developer a plus.<br />
+&bull; 5-7 years business operations or product management experience with consumer web products.<br />
+&bull; Understanding of agile product development methods.<br />
+&bull; A passion for or appreciation of practical use of technology in education.<br />
+&bull; Ability to construct cost / benefit analysis.<br />
+&bull; Strong analytical capability and understanding of key financial and business metrics.<br />
+&bull; Gracious team player capable of navigating the organization with skill and charm.<br />
+&bull; Entrepreneurial spirit.<br />
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/knewton/Bi8Umy"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130422164920_ATRPRR25LAIZJQEX]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Marketing Manager, Growth]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[Marketing]]></team>
+			<url><![CDATA[http://knewton.theresumator.com/apply/G88YXn/Marketing-Manager-Growth.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10011]]></postalcode>
+			<description><![CDATA[<p>
+The Growth Manager contributes to Knewton&rsquo;s content strategy, lead acquisition, and content production efforts. This is an entrepreneurial, creative, analytical marketing athlete with room to grow.</p>
+<p>
+The Growth Manager will cover two main areas:</p>
+<ul>
+<li>
+Enterprise leads (Knewton API): Content strategy to drive new leads and nurture prospects. This is a role that supports the work of our Partnerships team, both pre-sale and post-sale.</li>
+<li>
+Consumer platform: Lead the preparation for our beta program and launch beta phases, including content development, lead acquisition and management, email nurtuing, and more. This role has the potential to grow into a team lead working exclusively on growth of our consumer platform. That role is similar to what is now referred to as &quot;growth hacking&quot;.</li>
+</ul>
+<p>
+The landscape will include knewton.com and the digital properties built on it, SEO content and blog posts, general email marketing, and day-to-day use of the technology beneath it all (e.g., WordPress, HubSpot, Campaign Monitor, analytics packages, in-house tools, and more).</p>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+4+ years experience</li>
+<li>
+First-class written and verbal communication skills</li>
+<li>
+Strong grasp of voice and nuance</li>
+<li>
+Excel experience and general analytics background of some kind</li>
+<li>
+Strong marketing instincts: AIDA, measuring, hacking, iterating</li>
+<li>
+Excellent track record of content strategy from conception through execution</li>
+<li>
+Fluency with online marketing methods and channels, both formal and informal</li>
+<li>
+An eye for design</li>
+<li>
+Experience working with typical marketing tools, including a CMS, email marketing, lead management and automation, A/B testing, analytics, and reporting</li>
+<li>
+A solid foundation of SEO principles and experience implementing campaigns</li>
+</ul>
+<p>
+<em>Exceptional candidates will have one or more of the following:</em></p>
+<ul>
+<li>
+Entrepreneurial experience</li>
+<li>
+Media production experience (basic videos, screencasts, etc.)</li>
+<li>
+Direct Response background</li>
+<li>
+Enough technical chops to manage technical projects or hack on things yourself</li>
+</ul>
+<p>
+This position is based at Knewton&rsquo;s headquarters near Union Square, New York, NY</p>
+<hr />
+<p>
+<strong>Perks</strong></p>
+<p>
+Knewton was recognized as one of the top 25 best places to work by Crain&rsquo;s New York Business. Benefits include an expansive, open office near Union Square; Macs with huge monitors; a kitchen filled with your favorite treats and unlimited beverages; flexible hours and vacation; frequent guest speakers and internal workshops; company-sponsored training and conferences; excellent health benefits; equity; and a chance to do meaningful, cutting-edge work.</p>
+<p>
+<strong>About the Knewton Adaptive Learning Platform</strong></p>
+<p>
+Knewton is the leading adaptive learning company, enabling others to create continuously personalized learning experiences.</p>
+<p>
+The Knewton Adaptive Learning Platform blends data science, world-leading learning models, and pedagogical expertise to enable personalization at massive scale. The platform works with a wide range of digital learning solutions in a variety of subject areas. Every Knewton-enhanced product can provide a continuously adaptive learning experience to students as well as in-depth reporting capabilities for instructors.</p>
+<p>
+Knewton has created a flexible API that allows third-party learning providers to enhance existing products and build new, innovative learning solutions using Knewton&rsquo;s continuously adaptive student modeling framework.</p>
+<p>
+<strong>About Knewton</strong></p>
+<p>
+The world&rsquo;s leading digital education products use Knewton to improve learning outcomes.</p>
+<p>
+The Knewton Adaptive Learning Platform analyzes data about the performance of every student and similar students using Knewton-powered courses, as well as the relevance of the educational content itself, in order to personalize the experience for each student in real-time. Knewton creates tools that help learning companies, universities, and other educational content providers make personalized learning available to everyone worldwide. In 2012, Fast Company named Knewton one of the world&rsquo;s 50 Most Innovative Companies.</p>
+<p>
+Knewton was founded in 2008 by Jose Ferreira and has received funding from Founders Fund, FirstMark Capital, Bessemer Venture Partners, Accel Partners, First Round Capital, and other strategic investors.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/knewton/G88YXn"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130515231528_WQLEDRURGG8RRCL2]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Designer]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[Marketing]]></team>
+			<url><![CDATA[http://knewton.theresumator.com/apply/uUvADn/Designer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10011]]></postalcode>
+			<description><![CDATA[<p>
+The Knewton marketing team has quietly helped the company become one of the most recognized education startups in the world and a major supporter of the NYC startup community. We stay small and hire smart, collaborative operatives to support knewton.com, sales/BD, partners, educators, press, recruiting, peer communities, and Knerds.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Design brand assets across a broad range of web and print applications&nbsp;</li>
+<li>
+Work with the Art Director and Writer to ensure consistent branding and messaging</li>
+<li>
+Pay close attention to detail in design, preparation of deliverables, and written communications. Ensure quality and prepare files for handoff and collaboration with developers, printers, etc.</li>
+<li>
+Remain abreast of design and marketing trends</li>
+<li>
+Implement and evolve brand standards and graphic guidelines for internal and external use</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+B.A. or higher in Graphic Design with an in-depth understanding of contemporary design principals</li>
+<li>
+3-5 years experience</li>
+<li>
+A portfolio that clearly communicates successful design solutions that drive business success</li>
+<li>
+Impeccable typography skills (we&#39;re huge on type here)</li>
+<li>
+Sophisticated sense of design/style</li>
+<li>
+Solid brand and communication design experience, with exposure to a wide variety of disciplines, including brand strategy, identity development, print and digital marketing materials</li>
+<li>
+Resourceful self-starter / entrepreneurial spirit</li>
+<li>
+Strong command of Adobe Illustrator and Photoshop</li>
+<li>
+Understanding of the process between design and development on the web</li>
+<li>
+Strong conceptual, problem-solving, and critical thinking skills</li>
+</ul>
+<p>
+<em>Exceptional candidates will also have experience with one of the following:</em></p>
+<ul>
+<li>
+Illustration</li>
+<li>
+Photography and post-processing</li>
+</ul>
+<p>
+This is a contractor position with the possibility of moving to a full-time hire, and it is based in-house at Knewton&rsquo;s headquarters near Union Square, New York, NY.</p>
+<hr />
+<p>
+<strong>About the Knewton Adaptive Learning Platform</strong></p>
+<p>
+Knewton is the leading adaptive learning company, enabling others to create continuously personalized learning experiences.</p>
+<p>
+The Knewton Adaptive Learning Platform blends data science, world-leading learning models, and pedagogical expertise to enable personalization at massive scale. The platform works with a wide range of digital learning solutions in a variety of subject areas. Every Knewton-enhanced product can provide a continuously adaptive learning experience to students as well as in-depth reporting capabilities for instructors.</p>
+<p>
+Knewton stands alone in its approach to adaptive learning. Instead of creating pre-determined decision trees for specific content, Knewton uses incoming data to tune and enhance generalized models of student knowledge, content structures, and learning objects, producing consistently improved results. Knewton has created a flexible API that allows third-party learning providers to enhance existing products and build new, innovative learning solutions using Knewton&rsquo;s continuously adaptive student modeling framework.</p>
+<p>
+<strong>About Knewton</strong></p>
+<p>
+The world&rsquo;s leading digital education products use Knewton to improve learning outcomes.</p>
+<p>
+The Knewton Adaptive Learning Platform analyzes data about the performance of every student and similar students using Knewton-powered courses, as well as the relevance of the educational content itself, in order to personalize the experience for each student in real-time. Knewton creates tools that help learning companies, universities, and other educational content providers make personalized learning available to everyone worldwide. In 2012, Fast Company named Knewton one of the world&rsquo;s 50 Most Innovative Companies, and Knewton was the first education company ever to be named a &quot;Technology Pioneer&quot; by the World Economic Forum.</p>
+<p>
+Knewton was founded in 2008 by Jose Ferreira and has received funding from Founders Fund, FirstMark Capital, Bessemer Venture Partners, Accel Partners, First Round Capital, and other strategic investors.</p>
+]]></description>
+			<type><![CDATA[Contracted to Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/knewton/uUvADn"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130618163642_GGX2SNCPX55XRQI8]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Business Development Director]]></title>
+			<department><![CDATA[Business Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://knewton.theresumator.com/apply/3qCCPh/Business-Development-Director.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10011]]></postalcode>
+			<description><![CDATA[<p>
+Knewton is an education startup funded by high-profile investors including Peter Thiel and Reid Hoffman. Located in the heart of Manhattan in the Union Square area, Knewton is building the world&#39;s most powerful adaptive learning engine, with the goal of making personalized and engaging education available to all. Knewton has been recognized as a Technology Pioneer by the World Economic Forum in Davos and one of the top 25 best places to work by Crain&rsquo;s New York Business.</p>
+<p>
+We are seeking a seasoned, high-functioning superstar to join the Business Development team. Knewton&rsquo;s Business Development team reports directly to the CEO and leads Knewton&rsquo;s API partnership strategy and deal execution. As a member of the team, you will source, structure, and close new business opportunities, drive partnerships within new and existing markets, and uncover new products or service offerings.<br />
+You will work closely with Knewton senior management as well as content, data science, design, and technology teams in order to identify, pitch, and close strategic partnerships with the world&rsquo;s leading learning companies. We are looking for a highly detail-oriented individual with serious entrepreneurial drive and extraordinary flexibility to meet the demands of a high-energy start-up.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Work cross-functionally within Knewton to drive partnership strategy and execution</li>
+<li>
+Manage research, outreach, and relations with major educational companies, content providers, large for-profit education companies, foundations, school districts, and technology companies</li>
+<li>
+Work directly with the CEO and COO on partnerships and to set strategic priorities and identify opportunities for growth in existing and new markets</li>
+<li>
+Understand complex business issues and technical challenges and collaborate with teams to capture requirements for projects</li>
+<li>
+Collaborate with Knewton product and tech teams to articulate customer needs and business priorities, as well as articulate rationale behind decisions</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+2-5 years successful BD track record with scalable and disruptive enterprise technology partnerships</li>
+<li>
+BS/BA or equivalent</li>
+<li>
+Experience in, a passion for or appreciation of using technology in education</li>
+<li>
+Ability to structure, negotiate, contract review, and close complex enterprise deals</li>
+<li>
+Ability to construct and present concise cost/benefit analysis</li>
+<li>
+Strong analytical capability and understanding of key financial and business metrics</li>
+<li>
+Strong at public-speaking and building relationships with clients</li>
+<li>
+Gracious team player capable of navigating the organization with skill and charm</li>
+<li>
+Entrepreneurial spirit</li>
+</ul>
+<p>
+<strong>Extra Credit</strong></p>
+<ul>
+<li>
+MBA from a top business school (Harvard, Stanford, Northwestern, etc.)</li>
+<li>
+Investment banking or management consulting experience</li>
+<li>
+Experience working in education or an education technology company</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/knewton/3qCCPh"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130619161347_S5AQ9R0NMX2GAXYS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Lead Platform Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering+Product]]></team>
+			<url><![CDATA[http://knewton.theresumator.com/apply/Ji4hXz/Lead-Platform-Engineer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10011]]></postalcode>
+			<description><![CDATA[<p>
+Knewton is a tech startup funded by high-profile investors including Peter Thiel and Reid Hoffman. Located in the heart of Manhattan in the Union Square area, Knewton is building the world&#39;s most powerful adaptive learning engine, with the goal of making engaging and personalized education available to all. Knewton has been recognized as a Technology Pioneer at the World Economic Forum in Davos and one of the top 25 best places to work by Crain&rsquo;s New York Business.</p>
+<p>
+<strong><em>You&rsquo;ll be leading engineers building the high-throughput, high-availability, highly-scalable services that comprise Knewton&rsquo;s Adaptive Learning Platform, the fundamental infrastructure on which all Knewton products are built. Want to work with big, rich graphs and a gazillion messages, and help develop new technologies that make learning more efficient and effective? If so, this job&rsquo;s for you!</em></strong></p>
+<p>
+<strong>This is an outstanding opportunity to:</strong></p>
+<ul>
+<li>
+Work with and learn from the world&#39;s best engineers</li>
+<li>
+Contribute to key engineering decisions regarding technical direction of team</li>
+<li>
+Quickly build world class consumer facing products THAT SEE DAYLIGHT</li>
+<li>
+Become an industry luminary &ndash; we are open sourcing our projects/codebase<br />
+&nbsp;</li>
+</ul>
+<p>
+<strong>Engineers must have:</strong></p>
+<ul>
+<li>
+A track record of writing high-quality, elegant code</li>
+<li>
+Success in leading teams that have delivered high-perfomance products</li>
+<li>
+A willingness to learn and use Python and Java</li>
+<li>
+A passion for transforming education</li>
+</ul>
+<p>
+<strong>Not required but highly desired are:</strong></p>
+<ul>
+<li>
+Experience fine tuning the Java Virtual Machine (JVM)</li>
+<li>
+Familiarity with Amazon Web Services (AWS) and Unix</li>
+<li>
+Experience with open-source technologies</li>
+<li>
+Experience with big data processing using NoSQL technologies like Cassandra, Hadoop, and Hive&nbsp;</li>
+</ul>
+<p>
+<strong>Perks include:</strong></p>
+<ul>
+<li>
+Competitive salary and stock options</li>
+<li>
+As much paid vacation as you need to take</li>
+<li>
+Flexible hours</li>
+<li>
+High-quality equipment (default setup: a Mac laptop with a giant monitor)</li>
+<li>
+The opportunity to use cutting-edge machine learning and engineering techniques to transform and democratize education</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/knewton/Ji4hXz"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130621145741_4YYOQDNKQJNL37QD]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Implementation Architect]]></title>
+			<department><![CDATA[Integration]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://knewton.theresumator.com/apply/t1SE1D/Implementation-Architect.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10011]]></postalcode>
+			<description><![CDATA[<p>
+Knewton is an education startup funded by high-profile investors including Peter Thiel and Reid Hoffman. Located in the heart of Manhattan in the Union Square area, Knewton is building the world&#39;s most powerful adaptive learning engine, with the goal of making personalized and engaging education available to all. Knewton has been recognized as a Technology Pioneer by the World Economic Forum in Davos and one of the top 25 best places to work by Crain&rsquo;s New York Business.</p>
+<p>
+<strong><em>About the Integration team</em></strong></p>
+<p>
+<strong><em>Knewton partners with large companies to enable them, through our API, to create and deliver adaptive experiences for any type of their content, in nearly any subject matter, for every student. The Integration team works directly with these enterprise partners to create adaptive solutions with their digital educational products that maximize student educational outcomes.</em></strong></p>
+<p>
+<strong><em>The Integration team provides technical and product guidance, evaluates customers&rsquo; technical and analytical challenges, and implements solutions ranging from new API integrations to new analytical workflows/use cases to entirely new applications. This team also provides feedback on requests/features requested by our partners to our product team.</em></strong></p>
+<p>
+<strong><em>Each integration brings its own unique technical, ontological, and pedagogical challenges based on the nature/scope of the content and solution. The team is called upon to develop and deliver these integrations efficiently.</em></strong></p>
+<p>
+<strong><em>The Integration team operates in groups of three for each partner: an Implementation Architect, a Solutions Engineer, and a Client Manager.</em></strong></p>
+<p>
+<strong>Description</strong></p>
+<p>
+With a deep understanding of Knewton products and integrations, the <strong>Implementation Architect</strong> will drive the joint product development of our API partners by consulting on and leading the delivery of API implementations. The IA knows how Knewton works technically and how partner&rsquo;s products work pedagogically to ensure that the resulting integrations are successful. The IA is a strong communicator both externally and internally. Success is creating partner integration products that meet partners&rsquo; goals, improve student outcomes, and advance our ability to create data network effects.</p>
+<p>
+<strong>Goals</strong></p>
+<ul>
+<li>
+Deliver on the partners&rsquo; objectives when launching API implementations</li>
+<li>
+Drive improvement of student outcomes within each integration</li>
+<li>
+Ensure that the integrations support Knewton&rsquo;s goals for adoption, data, efficacy, and revenue</li>
+<li>
+Make implementation launches more efficient over time by learning and implementing best practices</li>
+</ul>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Use instructional design principles in working with partners to design and launch product implementations using the Knewton API</li>
+<li>
+Support the business development process in a pre-signing capacity to ensure the viability of partners&rsquo; products using the API, as well as plan the integration</li>
+<li>
+Understand partners&rsquo; product and identify integration touch points, flows, and suggestions around content/product changes that would be beneficial/required for an effective adaptive experience</li>
+<li>
+Translate our ontology to the partner&rsquo;s educational vernacular and help each partner satisfy any needs that have been identified (assessments content, graphing work, etc.)</li>
+<li>
+Deeply understand Knewton&rsquo;s technology and product roadmap</li>
+<li>
+Work with the Client Manager to plan rollouts and ongoing support needs</li>
+<li>
+Work with the partner to define the goals of the integration and develop a plan for measuring success</li>
+</ul>
+<p>
+<strong>Specific Job Duties</strong></p>
+<ul>
+<li>
+Create API product design and student flows (including analytics) with a partner</li>
+<li>
+Organize and coordinate cross-team communication (product, tech, data science, adaptive instruction) to outline integration and UX recommendations</li>
+<li>
+Coordinate and drive knowledge graphing work</li>
+<li>
+Identify patterns across partners and advocate for features that should be addressed by Knewton&rsquo;s roadmap</li>
+<li>
+Communicate the Knewton roadmap externally, including product strategy and release timelines that will impact product launches</li>
+<li>
+Work closely with product and engineering to deliver successful launches</li>
+</ul>
+<p>
+<strong>Perks include:</strong></p>
+<ul>
+<li>
+Competitive salary and stock options</li>
+<li>
+As much paid vacation as you need to take</li>
+<li>
+Flexible hours</li>
+<li>
+High-quality equipment (default setup: a Mac laptop with a giant monitor)</li>
+<li>
+The opportunity to use cutting-edge machine learning and engineering techniques to transform and democratize education</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/knewton/t1SE1D"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130621150418_EFHOO1ANS5DKJX7L]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Client Manager]]></title>
+			<department><![CDATA[Integration]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://knewton.theresumator.com/apply/PYsGvZ/Client-Manager.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10011]]></postalcode>
+			<description><![CDATA[<p>
+Knewton is an education startup funded by high-profile investors including Peter Thiel and Reid Hoffman. Located in the heart of Manhattan in the Union Square area, Knewton is building the world&#39;s most powerful adaptive learning engine, with the goal of making personalized and engaging education available to all. Knewton has been recognized as a Technology Pioneer by the World Economic Forum in Davos and one of the top 25 best places to work by Crain&rsquo;s New York Business.</p>
+<p>
+<strong><em>About the Integration team</em></strong></p>
+<p>
+<strong><em>Knewton partners with large companies to enable them, through our API, to create and deliver adaptive experiences for any type of their content, in nearly any subject matter, for every student. The Integration team works directly with these enterprise partners to create adaptive solutions with their digital educational products that maximize student educational outcomes.</em></strong></p>
+<p>
+<strong><em>The Integration team provides technical and product guidance, evaluates customers&rsquo; technical and analytical challenges, and implements solutions ranging from new API integrations to new analytical workflows/use cases to entirely new applications. This team also provides feedback on requests/features requested by our partners to our product team.</em></strong></p>
+<p>
+<strong><em>Each integration brings its own unique technical, ontological, and pedagogical challenges based on the nature/scope of the content and solution. The team is called upon to develop and deliver these integrations efficiently.</em></strong></p>
+<p>
+<strong><em>The Integration team operates in groups of three for each partner: an Integration Architect, a Solutions Engineer, and a Client Manager.</em></strong></p>
+<p>
+<strong>Description</strong></p>
+<p>
+The <strong>Client Manager </strong>is the primary point of contact for our API partners, managing the overall health, communications, and project management for each implementation. This role is also the partner interface for results and efficacy, sales support, training, technical escalations, and customer experience. The CM works to understand partner needs and pulls internal resources across Knewton, when necessary, to support the post-launch product/relationship. The role combines a business mind that can deeply understand Knewton&rsquo;s strategy with a product sensibility that balances the needs of both Knewton and its partners.<br />
+<br />
+<strong>Goals</strong></p>
+<ul>
+<li>
+Deliver on the partners&rsquo; objectives post-API implementation launch</li>
+<li>
+Drive improvement of student outcomes within the integration</li>
+<li>
+Ensure that the integrations continue to support Knewton&rsquo;s goals in adoption, data, efficacy, revenue</li>
+<li>
+Improve efficiencies of implementations over time</li>
+<li>
+Identify additional opportunities to leverage Knewton&rsquo;s technology to deliver partner content</li>
+</ul>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Project manage the overall implementation plan</li>
+<li>
+Work with partners to improve their product through Knewton&rsquo;s technology post launch; work with IA as a team during pre-launch</li>
+<li>
+Serve as the key point of contact and communication lead with the partner</li>
+<li>
+Represent the partner within Knewton
+<ul>
+<li>
+Report on status of an integration; represent partner priorities, escalate issues to management; ensure contract obligations are met</li>
+</ul>
+</li>
+<li>
+Become an expert on Knewton-powered products
+<ul>
+<li>
+Train Sales, Marketing, Support and other applicable teams on Knewton-powered products</li>
+</ul>
+</li>
+<li>
+Manage the plan for measuring success
+<ul>
+<li>
+CM is responsible for tracking metrics and working with partners to meet the goals of the integration</li>
+</ul>
+</li>
+</ul>
+<p>
+<strong>Specific Job Duties</strong></p>
+<ul>
+<li>
+Author, maintain, and drive project milestones pre and post launch</li>
+<li>
+Identify patterns across partners and advocate for features that should be addressed by Knewton&rsquo;s roadmap</li>
+<li>
+Communicate the Knewton roadmap externally, including the release and deprecation of features</li>
+<li>
+Provide partners with the materials and resources they need to effectively use Knewton products</li>
+<li>
+Drives most critical feedback from partners to our product team (and other teams) to impact roadmap or other services</li>
+<li>
+Work with technical support team to escalate and resolve major issues</li>
+</ul>
+<p>
+<strong>Perks include:</strong></p>
+<ul>
+<li>
+Competitive salary and stock options</li>
+<li>
+As much paid vacation as you need to take</li>
+<li>
+Flexible hours</li>
+<li>
+High-quality equipment (default setup: a Mac laptop with a giant monitor)</li>
+<li>
+The opportunity to use cutting-edge machine learning and engineering techniques to transform and democratize education</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/knewton/PYsGvZ"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130621150916_RNS800FFJS7C7LF0]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[API Integrations Team Lead]]></title>
+			<department><![CDATA[Integration]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://knewton.theresumator.com/apply/CPKQc8/API-Integrations-Team-Lead.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10011]]></postalcode>
+			<description><![CDATA[<p>
+Knewton is an education startup funded by high-profile investors including Peter Thiel and Reid Hoffman. Located in the heart of Manhattan in the Union Square area, Knewton is building the world&#39;s most powerful adaptive learning engine, with the goal of making personalized and engaging education available to all. Knewton has been recognized as a Technology Pioneer by the World Economic Forum in Davos and one of the top 25 best places to work by Crain&rsquo;s New York Business.</p>
+<p>
+<strong><em>About the Integration team</em></strong></p>
+<p>
+<strong><em>Knewton partners with large companies to enable them, through our API, to create and deliver adaptive experiences for any type of their content, in nearly any subject matter, for every student. The Integration team works directly with these enterprise partners to create adaptive solutions with their digital educational products that maximize student educational outcomes.</em></strong></p>
+<p>
+<strong><em>The Integration team provides technical and product guidance, evaluates customers&rsquo; technical and analytical challenges, and implements solutions ranging from new API integrations to new analytical workflows/use cases to entirely new applications. This team also provides feedback on requests/features requested by our partners to our product team.</em></strong></p>
+<p>
+<strong><em>Each integration brings its own unique technical, ontological, and pedagogical challenges based on the nature/scope of the content and solution. The team is called upon to develop and deliver these integrations efficiently.</em></strong></p>
+<p>
+<strong><em>The Integration team operates in groups of three for each partner: an Integration Architect, a Solutions Engineer, and a Client Manager.</em></strong></p>
+<p>
+<strong>Description</strong></p>
+<p>
+The <strong>API Integrations Team Lead</strong> will lead and manage this effort. This person has a great track record of leadership and execution, is meticulous with the ability to abstract key concepts/patterns and effectively communicate these to both partners and internal Knewton employees. This person should also have experience integrating ground-breaking technologies/solutions at scale, and a firm understanding of complex technical concepts (e.g. our ontology, and our platform technologies). This person should have experience growing and managing large distributed teams (directly or indirectly) and the ability to work efficiently within large and small organizations.</p>
+<p>
+<br />
+<strong>Goals</strong></p>
+<ul>
+<li>
+Deliver on the partners&rsquo; objectives when launching and running API implementations</li>
+<li>
+Drive improvement of student outcomes within integrations</li>
+<li>
+Ensure that the integrations continue to support Knewton&rsquo;s goals (adoption, data, efficacy, revenue)</li>
+<li>
+Build out a professional integration team while developing and documenting best practices to continually Improve implementation efficiencies</li>
+<li>
+Responsibilities:</li>
+<li>
+Lead, manage, and grow a professional team of IAs and CMs</li>
+<li>
+Support the BD process in a pre-signing capacity to show the viability of partners&rsquo; products using the API, as well as plan the integration</li>
+<li>
+Work with partners to design and launch product implementations using the Knewton API</li>
+<li>
+Project manage the day-to-day implementation plan</li>
+<li>
+Develop partner specific plan for measuring success by defining the goals of the integration and then ensuring that the we hit them</li>
+</ul>
+<p>
+<br />
+<strong>Specific Job Duties</strong></p>
+<ul>
+<li>
+Develop team goals (quarterly/annual) that roll up into Knewton&rsquo;s goals</li>
+<li>
+Lead and manage a group of IAs and CMs in multiple locations</li>
+<li>
+Grow both IA and CM functions to meet the needs of new partners</li>
+<li>
+Manage the budget for the group</li>
+<li>
+Create training plan to minimize new hires&rsquo; time to effectiveness</li>
+<li>
+Key internal leader representing this group internally and externally</li>
+</ul>
+<p>
+<strong>Perks include:</strong></p>
+<ul>
+<li>
+Competitive salary and stock options</li>
+<li>
+As much paid vacation as you need to take</li>
+<li>
+Flexible hours</li>
+<li>
+High-quality equipment (default setup: a Mac laptop with a giant monitor)</li>
+<li>
+The opportunity to use cutting-edge machine learning and engineering techniques to transform and democratize education</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/knewton/CPKQc8"></script>]]></buttons>
+		</job>
+	</jobs>

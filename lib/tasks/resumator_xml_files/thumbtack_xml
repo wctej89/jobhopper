@@ -1,0 +1,877 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Thumbtack]]></company>
+			<job>
+			<id><![CDATA[job_20120125222300_ZVASZ4CTYNGAYWXI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Full Stack Software Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Eng]]></team>
+			<url><![CDATA[http://thumbtack.theresumator.com/apply/hrpYlg/Full-Stack-Software-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+We are looking for a full stack software engineer to join our engineering team. As a full stack engineer, you will be responsible for building new products and features to help service pros and their clients connect in new and beneficial ways. In some ways, this is a liberal arts position: you will be working with a variety of tools and with people from all across the company. Your job may change daily (or monthly), and you&rsquo;ll be exposed to many aspects of Thumbtack&rsquo;s products and business. You will work closely with our users and with your colleagues at the company to find creative ways to make the process of finding and booking a service pro easier than ever before.</p>
+<p>
+If we do our job right, the Yellow Pages will be a thing of the past and we&rsquo;ll introduce real efficiency into the local services market.</p>
+<p>
+Our process gives you full ownership over the product and features you build: so dream big, then execute well. Our engineering team values risk taking, fast iterations, and data-driven decisions. We empower individuals to be creative and independent. You can learn more about some of the projects we&rsquo;ve worked on over at our tech blog: <a href="http://www.thumbtack.com/engineering">thumbtack.com/engineering</a></p>
+<p>
+About you:</p>
+<ul>
+<li>
+You like finding interesting problems in the world, then tackling them head on with dedication and creativity</li>
+<li>
+You are comfortable expressing yourself with written and verbal communication</li>
+<li>
+You like talking and engaging with users to help them express their needs in ways that can be used as feedback for future iterations of the product</li>
+<li>
+You&rsquo;re not one to pick up a hammer then look for nails, though you do like finding new hammers</li>
+<li>
+You appreciate a good statistical analysis and the power of data-driven decisions, and you like running A/B tests</li>
+<li>
+You&rsquo;re excited about the code you write, and work hard to make it maintainable for your future self as well as your colleagues on the engineering team</li>
+<li>
+You&rsquo;re comfortable working in a variety of languages and systems (we use a mix of PHP, Python, JavaScript, Postgres, and Mongo)</li>
+</ul>
+<p>
+Does this sound like you? We&rsquo;d be incredibly excited to hear from you.</p>
+<p>
+We encourage you to complete one of our <a href="http://www.thumbtack.com/challenges">programming challenges</a> and send it with your resume to <a href="javascript:void(location.href='mailto:'+String.fromCharCode(99,111,100,101,99,104,97,108,108,101,110,103,101,115,64,116,104,117,109,98,116,97,99,107,46,99,111,109))">codechallenges@thumbtack.com</a>.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/thumbtack/hrpYlg"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120229043214_U7PCMNN7CDXY5XY5]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[UI Product Designer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://thumbtack.theresumator.com/apply/JPGNSp/UI-Product-Designer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>Want to make your mark as a designer? This is your spot. Thumbtack is not just a toy product or a dream. It&rsquo;s a real service operating at scale, and what you make will have real and immediate impact.</p><p>For two years we focused on backend tools and building a huge network of businesses around the country. We feel like we have yet to hit v1 of our product. If you think our website is already beautiful, we don&#39;t want you. We want someone who sees a thousand flaws and can imagine how much better our design and user experience can be.</p><p>You&rsquo;ll work directly with product engineers and our business team to conceptualize, design, and prototype new products and features.</p><p><strong>Specific requirements</strong></p><ul><li>Experience conceiving&nbsp;and designing&nbsp;applications for a consumer audience</li><li>Strong portfolio with examples of self-started projects</li><li>Exceptional ability to communicate&nbsp;ideas through sketches and wireframes</li><li>Ability to prototype and build what you design, including&nbsp;delivering&nbsp;production-level code</li><li>Real curiosity for user experience and crafting products that delight</li><li>Self-starter (we really mean this)</li><li>We hire talent, not pedigree or years of experience</li></ul><p><strong>Bonus points</strong></p><ul><li>Knowledge of PHP, Python, or other scripting languages</li><li>Mobile design/development experience</li><li>Active in the design community</li></ul><p>You should know your way around a whiteboard, know how to push pixels, and be comfortable explaining your ideas with CSS. You will communicate well and work hard.</p><p>Together we will make the future awesome.</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/thumbtack/JPGNSp"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130221031728_UZJDSMIZ3FYRQUXJ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[In-house Recruiter]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://thumbtack.theresumator.com/apply/9pfaY3/Inhouse-Recruiter.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Responsibilities</strong></p>
+<p>
+&nbsp;</p>
+<ul>
+<li>
+Design and execute sourcing and recruiting strategies.</li>
+<li>
+Own all aspects of the recruiting pipeline: job description development, sourcing, and managing candidate flow throughout the recruiting process.</li>
+<li>
+Coordinate all interview related activities.</li>
+<li>
+Be an advocate for our company and brand to all the candidates we interact with.</li>
+</ul>
+<p>
+<strong>Qualifications</strong></p>
+<p>
+&nbsp;</p>
+<ul>
+<li>
+Innately driven, proactive, and excited to close candidates!</li>
+<li>
+1-3 years experience in a recruiting role &ndash; either at a staffing agency or in-house.</li>
+<li>
+Extremely organized and detail-oriented./</li>
+<li>
+Warm, approachable, and energized to meet new people.</li>
+</ul>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/thumbtack/9pfaY3"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130430181540_O8LOWYDJCUDD2QL5]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Summer Associate (2013)]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[Ops]]></team>
+			<url><![CDATA[http://thumbtack.theresumator.com/apply/svQXhl/Summer-Associate-2013.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+NA</p>
+]]></description>
+			<type><![CDATA[Internship]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/thumbtack/svQXhl"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130612011450_NUSFLSFNCVKLVCNZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Operations Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Eng]]></team>
+			<url><![CDATA[http://thumbtack.theresumator.com/apply/wvX4TH/Operations-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+Thumbtack is looking for somebody to take the lead in managing our growing infrastructure.&nbsp; Here is where we are at right now: ~10 dedicated linux machines fully managed via Puppet.&nbsp; Our main data stores are Postgres (website backend) and Mongo (internal analytics).&nbsp; We like our website to be fast and to stay up.</p>
+<p>
+About you:</p>
+<ul>
+<li>
+Expert linux administration abilities</li>
+<li>
+Familiar with Puppet</li>
+<li>
+Experience dealing with various components of a complex site infrastructure</li>
+<li>
+You love monitoring</li>
+<li>
+You do a lot of work in Python</li>
+</ul>
+<p>
+To apply, complete one of our <a href="http://www.thumbtack.com/challenges">code challenges</a> and email your solution to <a href="javascript:void(location.href='mailto:'+String.fromCharCode(99,111,100,101,99,104,97,108,108,101,110,103,101,115,64,116,104,117,109,98,116,97,99,107,46,99,111,109))">codechallenges@thumbtack.com</a></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/thumbtack/wvX4TH"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130612012702_E4YESZJPGRMCAFWM]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer: Front End]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Eng]]></team>
+			<url><![CDATA[http://thumbtack.theresumator.com/apply/9DX9YG/Software-Engineer-Front-End.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+As a front-end engineer at Thumbtack, your varied skills and our bottom-up product process will give you as much autonomy and license as you can handle. If you can build it and it&rsquo;s good for the company, do it! There&#39;s no limit to how valuable you can be or how much of an effect you can have here.</p>
+<p>
+We want people who want to make their mark on the world, who are itchy, who tinker. We want people with the ambition to dream big and the talent to see those dreams through.</p>
+<p>
+Some things about you:</p>
+<ul>
+<li>
+You see the web as a beautiful, intricate, occasionally clumsy Rube Goldberg machine. Working with it isn&rsquo;t a chore; it&rsquo;s a challenge.</li>
+<li>
+You&#39;re perfectly comfortable with all the normal front-end technologies (JavaScript and its derivatives, CSS, semantic HTML, etc) but don&rsquo;t mind the occasional jumps into PHP, Python, or database queries.</li>
+<li>
+You spend almost as much time inspecting a page&#39;s elements and figuring out how it works as you do using it. You&#39;re insatiably curious about how websites are made and what they&#39;re made of.</li>
+<li>
+You think complaining about IE support is so five years ago. You know exactly how, when, and when not to play nice across different browsers and platforms.</li>
+<li>
+You keep abreast with modern web practices and trends but know when to stay pragmatic in their implementations.</li>
+</ul>
+<p>
+The ideal candidate is excited about:</p>
+<ul>
+<li>
+Clean, accessible, understandable markup</li>
+<li>
+A/B testing, data-driven decision making</li>
+<li>
+Responsive web design</li>
+<li>
+Graceful degradation, progressive enhancement</li>
+</ul>
+<p>
+Bonus points:</p>
+<ul>
+<li>
+A portfolio of real, live projects; contributions to open-source</li>
+<li>
+An eye for design, or at least a good appreciation for it</li>
+<li>
+An ability to identify workflow pain-points and create tools that solve them</li>
+</ul>
+<p>
+Interested? We&rsquo;d love to hear from you! Try one of our <a href="http://www.thumbtack.com/challenges">code challenges</a>, then send its solution and your resume to <a href="javascript:void(location.href='mailto:'+String.fromCharCode(99,111,100,101,99,104,97,108,108,101,110,103,101,115,64,116,104,117,109,98,116,97,99,107,46,99,111,109))">codechallenges@thumbtack.com</a>.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/thumbtack/9DX9YG"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130612012858_HQESZ9JFFZNT5R69]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer: Back End]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Eng]]></team>
+			<url><![CDATA[http://thumbtack.theresumator.com/apply/Xn10C2/Software-Engineer-Back-End.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+As a back end engineer at Thumbtack, you&rsquo;ll be excited about building fast, scalable, and robust systems to support product and business objectives. You&rsquo;ll be working with both our marketplace users and our internal teams.</p>
+<p>
+Much of what you&rsquo;ll be working on could be considered infrastructure. It could also be considered &ldquo;magic&rdquo; or &ldquo;secret sauce&rdquo; or &ldquo;wizardry&rdquo;. One project might involve a swan dive into a Mongo dataset, another might be writing a massively parallel system in EC2 to crawl the web, and yet another might be building a recommender system to better match consumer requests with service pros. In other words, you won&rsquo;t be spending your time fiddling with floats or CSS3 pseudo-elements (unless you want to!).</p>
+<p>
+We expect you to be excited by Thumbtack&rsquo;s mission to transform the local services economy, making it more efficient and useful for both sides of the marketplace. We deeply believe in the transformative power of technology in the services industry.</p>
+<p>
+Our engineering process values ownership and individual contribution within a collaborative environment. To this end, you will have a lot of choice in the kinds of projects you take on, we expect you to take a deliberate and thoughtful approach to your decision-making while also exercising great freedom and creativity. We hope that you&rsquo;ll enjoy crafting sentences and paragraphs as much as you enjoy crafting methods and classes.</p>
+<p>
+Technologies we currently use: Python, Postgres, Mongo, loose leaf tea.</p>
+<p>
+If you are interested in this position, we encourage you to complete one of our <a href="http://www.thumbtack.com/challenges">code challenges,</a> and send your solution and resume to <a href="javascript:void(location.href='mailto:'+String.fromCharCode(99,111,100,101,99,104,97,108,108,101,110,103,101,115,64,116,104,117,109,98,116,97,99,107,46,99,111,109))">codechallenges@thumbtack.com</a>.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/thumbtack/Xn10C2"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130613044455_MVBWPSYC14NLUBQP]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Executive Assistant & Office Manager]]></title>
+			<department><![CDATA[Op]]></department>
+			<team><![CDATA[Ops]]></team>
+			<url><![CDATA[http://thumbtack.theresumator.com/apply/5Q2mAV/Executive-Assistant-Office-Manager.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+Our San Francisco team is doubling in size this year, and we need an exceptional EA/OM to manage the growing office and assist our CEO and President. Your responsibility is to keep the office and Thumbtack&rsquo;s co-founders happy and meticulously organized.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Coordinate meetings, schedule calls, manage calendars, and book travel arrangements for Thumbtack&rsquo;s CEO and President</li>
+<li>
+Keep the office extremely organized and well-stocked so the team can work efficiently</li>
+<li>
+Work with Thumbtack&rsquo;s chef to make sure the team is well fed, our cleaners to keep the office clean and tidy, and our handyman to manage office repairs and upgrades</li>
+<li>
+Handle confidential information and prepare for board meetings</li>
+<li>
+Assist with event planning efforts and help build team culture</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Meticulous attention to detail &amp; exceptional organizational skills</li>
+<li>
+Friendly, warm personality &mdash; yet with a get-stuff-done, driven attitude</li>
+<li>
+Track record of going above and beyond</li>
+<li>
+Strong writing skills</li>
+<li>
+Enjoy chaos and have the ability to be flexible in response to changing priorities</li>
+<li>
+Master at Google email/calendar/docs</li>
+<li>
+Able to seamlessly handle multiple requests from multiple people at once</li>
+</ul>
+<p>
+<strong>Bonus Points</strong></p>
+<ul>
+<li>
+Startup and/or VC experience</li>
+<li>
+Experience managing multiple people</li>
+</ul>
+<p>
+<strong>Why should you want to be an OM/EA at Thumbtack?</strong></p>
+<p>
+Thoughts from our current EA/OM who is being promoted:</p>
+<ul>
+<li>
+The chance to work very closely with our CEO and President who are both upstanding people. They value you and it&rsquo;s inspiring to be their gatekeeper.</li>
+<li>
+Our team is the cream of the crop and they really appreciate you. All OM/EAs know how crucial a great team is.</li>
+<li>
+The opportunity to be creative in your role and be part of a company that has potential to be huge. How huge? Think big then multiply that by 10000.</li>
+<li>
+You will be trained by me (Rosa) who will be available to answer all questions you may have moving forward.</li>
+<li>
+Generous compensation.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/thumbtack/5Q2mAV"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130613045613_NT5LLSWVESOAXHTT]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Chief of Staff]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Ops]]></team>
+			<url><![CDATA[http://thumbtack.theresumator.com/apply/ilqGZr/Chief-Of-Staff.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+We&rsquo;re looking for an extremely bright, driven person to be our jack (or jill) of all trades. You&rsquo;ll work directly with our CEO and President and will tackle a wide variety of projects across operations, product, finance, marketing, and more. Your projects and responsibilities will change quickly as our needs evolve, and you&rsquo;ll often be doing last-minute work. You&rsquo;ll get deep insight into the working of the entire company.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Attend a broad array of meetings, take notes, and disseminate information</li>
+<li>
+Perform research of all types</li>
+<li>
+Draft presentations and documents (if you were already here you would draft this job ad!)</li>
+<li>
+Prepare for internal all-hands quarterly reviews and board meetings</li>
+<li>
+Generally support the CEO and President on non-administrative tasks</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Extremely bright and broadly talented</li>
+<li>
+Resourceful and able to pick up new things quickly</li>
+<li>
+Proactive and able to thrive with very little direction</li>
+<li>
+Excited about working under ambiguity and quickly changing priorities</li>
+<li>
+Academic overachiever from elite university</li>
+</ul>
+<p>
+<strong>Bonus Points</strong></p>
+<ul>
+<li>
+Experience at top investment bank or consulting firm</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/thumbtack/ilqGZr"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130613045752_XCMDXINHPHAPQ3QU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Business Development Manager]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Ops]]></team>
+			<url><![CDATA[http://thumbtack.theresumator.com/apply/FbVtq5/Business-Development-Manager.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+Our vision at Thumbtack is to become the local service layer for both the online and offline world, and business development is how we will make this happen. When a bride is shopping for a dress online, we want her to have the opportunity to find her wedding photographer and makeup artist on Thumbtack. When a family is moving into their new neighborhood, we want their realtor to tell them how to find their house cleaner and handyman on Thumbtack. When a couple is walking into a party planning store, we want them to know they can hire a DJ or bartender or caterer on Thumbtack. Your role is to find partnership opportunities that can drive millions of people to Thumbtack.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Define and own business development strategy and execution</li>
+<li>
+Scope and test partnership opportunities</li>
+<li>
+Create processes to scale successful partnerships within and across verticals and channels</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Ability to attack an unstructured opportunity and find and apply relevant data to create structured frameworks and concrete action plans</li>
+<li>
+Highly entrepreneurial and comfortable working with minimal guidance</li>
+<li>
+Strong ability to prioritize under ambiguity</li>
+<li>
+Extremely driven, persistent, and excited to scale a completely new function</li>
+<li>
+Excellent interpersonal skills with ability to think creatively, thoughtfully, and on your feet</li>
+</ul>
+<p>
+<strong>Bonus Points</strong></p>
+<ul>
+<li>
+Demonstrated experience and excellence in business development</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/thumbtack/FbVtq5"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130613045940_FM8JGLHBDIWB2D8Y]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Finance Manager]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Ops]]></team>
+			<url><![CDATA[http://thumbtack.theresumator.com/apply/ls7KTm/Finance-Manager.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+Thumbtack&rsquo;s revenue is growing quickly, and we need someone to count the money! We are looking for a smart, detail-oriented person to own the administration of our finances. We will consider both part-time and full-time applications.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Coordinate with our part-time accountant to close the books every month</li>
+<li>
+Update and own the financial model</li>
+<li>
+Coordinate various HR duties with our part-time HR contractor</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Extremely detail-oriented and meticulously organized</li>
+<li>
+Accounting background</li>
+<li>
+Sophisticated financial modeling experience</li>
+</ul>
+<p>
+<strong>Bonus Points</strong></p>
+<ul>
+<li>
+Prior finance experience at a startup</li>
+</ul>
+]]></description>
+			<type><![CDATA[Part Time to Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/thumbtack/ls7KTm"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130613050354_SRDQ8KA3EXQBIDXE]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Head of Marketing]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Ops]]></team>
+			<url><![CDATA[http://thumbtack.theresumator.com/apply/Of59dz/Head-Of-Marketing.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+We seek to be one of the largest consumer-facing brands in the world, and we are looking for an experienced marketing executive to lead us there. We are exploring all marketing channels, including SEO, SEM, affiliate networks, display ad networks, paid social ads, and offline channels including radio and TV ads. We will be building our brand simultaneously with testing and/or expanding all of these channels.</p>
+<p>
+<br />
+We are looking for someone who has significant expertise in both digital marketing and brand building. You will be charged with shaping and owning Thumbtack&rsquo;s brand, overseeing the growth and success of all marketing channels, and coordinating teams of creative designers, copywriters, and channel marketers. You will need to be very familiar with the ins and outs of a variety of digital and offline marketing channels while simultaneously having experience in building a brand from the ground up.</p>
+<p>
+<br />
+This will be a thrilling position for an experienced leader who is looking to build a sophisticated marketing department from the ground up.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Expand Thumbtack&rsquo;s brand visibility and grow Thumbtack&rsquo;s user base significantly.</li>
+<li>
+Manage and coordinate channel marketers (e.g. Director of SEO, Director of SEM, etc.) who are experts in their fields; oversee the growth of each of these channels.</li>
+<li>
+Evaluate the success of current channels and potential for success of new channels; recommend and oversee the implementation and success of new marketing channels.</li>
+<li>
+Manage in-house designers and copywriters who will work with you to build Thumbtack&rsquo;s brand and propagate it across Thumbtack&rsquo;s website and marketing messaging/creatives.</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Senior experience in consumer marketing for a sizable company</li>
+<li>
+4+ years of digital marketing experience</li>
+<li>
+4+ years brand building in a consumer-facing company</li>
+<li>
+Exceptional ability to manage and coordinate teams of both creative-minded and data-minded team members</li>
+<li>
+Very strong data and analytical skills to be used in evaluating the effectiveness of current marketing channels and predicting the upside potential of future marketing channels</li>
+<li>
+Friendly, warm, fun and smart personality &mdash; yet with a get-stuff-done, ambitious, and driven attitude</li>
+</ul>
+<p>
+<strong>Bonus Points</strong></p>
+<ul>
+<li>
+Thought leader and well-known reputation in the digital marketing and/or brand building world</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Executive]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/thumbtack/Of59dz"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130613050547_YUT4VRNLLECLYULH]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Economic Analyst]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Ops]]></team>
+			<url><![CDATA[http://thumbtack.theresumator.com/apply/2AoCzY/Economic-Analyst.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+Thumbtack has access to an enormous set of data about the U.S. local services industry that is unique in its volume, depth, and quality. We have previously used that data to partner with outside organizations who have helped us develop and implement surveys, beautiful interactive visualizations, and white papers on the state of the U.S. local service economy. These data are exciting and useful to policymakers, lawmakers, and the media because this is an enormous sector of the economy that has traditionally been difficult or impossible to measure due to the inability to reach workers in this often-informal economy.</p>
+<p>
+<br />
+Check out our Small Business Friendliness Survey that we have conducted for two years in partnership with the Kauffman Foundation for an example of the work we do with our data.</p>
+<p>
+<br />
+We are looking for an extremely talented, self-motivated individual with a strong background in economics who is excited about maintaining our current research projects and creating new ones. You would be entirely responsible for shaping and building two or three large data projects annually, gathering and cleaning the data, writing and publishing white papers presenting the results of the projects, coordinating with an outside design firm to create and implement interactive data visualizations, and promoting these projects to and responding to inquiries from thousands of media outlets nationwide.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Manage and re-implement the Small Business Friendliness Survey that we conduct in partnership with the Kauffman Foundation; lead our relationship with the Kauffman team.</li>
+<li>
+Create and release quarterly an index of local service prices akin to the CPI and build/publish in partnership with a major financial media outlet or economics-focused organization.</li>
+<li>
+Evaluate and execute new opportunities to partner with major economics-focused organizations or media outlets and publish new data.</li>
+<li>
+Develop and revise current and new surveys; clean large amounts of raw data in partnership with our team in the Philippines; produce hundreds of press releases; lead relationships with outside partners; manage production of data visualizations by outside design firm.</li>
+<li>
+Contact and respond to thousands of newspaper, TV, and radio reporters nationwide for each of these projects - a substantial part of this role would be media relations.</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Bachelor&rsquo;s degree in economics-related subject; strong stats background</li>
+<li>
+Strong interpersonal, writing, and managerial skills - you will need to be smart in formulating press pitches, articulate in talking to reporters, and able to manage a team in the Philippines that is dedicated to supporting and scaling you and your work.</li>
+<li>
+Excitement about owning - and doing the hard work to accomplish - the success of a variety of econ-focused research projects that use large amounts of data in order to promote Thumbtack&rsquo;s brand and marketing efforts nationwide.</li>
+<li>
+The ability to take feedback constructively, not personally - we have an always-be-learning attitude at Thumbtack.</li>
+</ul>
+<p>
+<strong>Bonus Points</strong></p>
+<ul>
+<li>
+Master&rsquo;s degree in economics-related subject</li>
+<li>
+Experience in building or working with a pricing index or price indices</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/thumbtack/2AoCzY"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130613050709_WR6XKWK98XLYIDLN]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Affiliate Manager]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Ops]]></team>
+			<url><![CDATA[http://thumbtack.theresumator.com/apply/gpaOP9/Affiliate-Manager.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+Affiliate advertising is a marketing channel with enormous potential for Thumbtack. We have little expertise on this channel in-house and need someone to build our affiliate marketing efforts from the ground up.</p>
+<p>
+<br />
+Thumbtack is one of the most competitive lead generation businesses in a wide variety of local service categories (e.g. home improvement, events, lessons, etc.). We want to use affiliate marketing to take all of these verticals by storm. We need your expertise and proven history of success in the affiliate marketing channel to do this for us.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Own the entire affiliate marketing channel - you will be solely responsible for building our affiliate marketing channel from the ground up and for making it one of Thumbtack&rsquo;s most successful and profitable marketing channels.</li>
+<li>
+Scope, implement, optimize, and manage the day-to-day activities of our affiliate relationships.</li>
+<li>
+Manage teams of in-house and contractor designers and copywriters to help with ad creatives for and newsletters to our affiliates.</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+3+ years of working in the affiliate marketing world and building an affiliate marketing channel.</li>
+<li>
+Extremely excited to single-handedly build this channel and make it one of Thumbtack&rsquo;s largest and most profitable marketing channels.</li>
+<li>
+The ability to take feedback constructively, not personally - we have an always-be-learning attitude at Thumbtack.</li>
+</ul>
+<p>
+<strong>Bonus Points</strong></p>
+<ul>
+<li>
+Single-handedly built a very successful affiliate marketing channel in-house in the lead-gen space from the ground up.</li>
+<li>
+Experience with Commission Junction.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/thumbtack/gpaOP9"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130613050848_HBRYYUTO8UVKD2YE]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Customer Support Associate]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Ops]]></team>
+			<url><![CDATA[http://thumbtack.theresumator.com/apply/9L8nbg/Senior-Customer-Support-Associate.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+Thumbtack&#39;s customer support needs are growing rapidly. We&rsquo;re looking for someone who can help us build and maintain high-quality customer support as our company expands.</p>
+<p>
+You&rsquo;ll be working hand-in-hand with our Director of Customer Support in San Francisco and a hard-working, energetic, and fun CS team that spans the globe: a group of 30 in the Philippines handles our email support, and a team of 10 in Las Vegas mans the phones. We&rsquo;ve modeled our customer support culture on Zappos&rsquo; fun, supportive, and silly vibe (you&rsquo;ll quickly discover emoticons you never knew existed).</p>
+<p>
+We&rsquo;re looking for someone capable of communicating with grace and confidence to a broad range of audiences - our users, our CS teams, and the entire Thumbtack staff. You must excel as a listener, thoughtful writer, and above all, problem-solver.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Respond to escalated user inquiries</li>
+<li>
+Lead and coordinate support for our VIP users</li>
+<li>
+Serve as the point person for questions originating from our CS teams</li>
+<li>
+Create weekly customer support updates for Team SF</li>
+<li>
+Collect and report feedback about new product features to our Product team</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Friendly, enthusiastic, warm personality. You love talking to people!</li>
+<li>
+Strong written and verbal communication skills</li>
+<li>
+Ability to harness, analyze, and report data</li>
+</ul>
+<p>
+<strong>Bonus Points</strong></p>
+<ul>
+<li>
+Customer support experience</li>
+<li>
+Experience with Zendesk</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/thumbtack/9L8nbg"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130613051012_WXSRX08NHEUZLTGC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Operations Manager]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Ops]]></team>
+			<url><![CDATA[http://thumbtack.theresumator.com/apply/ezQmGM/Operations-Manager.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+Thumbtack is looking for an incredibly talented person to lead and manage our remote, back-office workforce in the Philippines of 200+ and coordinate various operations projects with our team in San Francisco.</p>
+<p>
+You&rsquo;ll be leading a hard-working, energetic, and fun team of more than 200 distributed throughout the Philippines that handles content curation, content creation, and some of Thumbtack&rsquo;s key internal processes. We&rsquo;ve modeled our remote teams&rsquo; culture on Zappos&rsquo; fun, supportive, and silly vibe (you&rsquo;ll quickly discover emoticons you never knew existed). You can learn more about the team at Thumbtack.ph.</p>
+<p>
+You&rsquo;ll work closely with Team Philippines&rsquo; general manager and team leaders, and will report directly to Thumbtack&rsquo;s President in San Francisco. You will also work with our product and marketing teams to coordinate and execute various operations projects.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Ensure high standards across operations teams</li>
+<li>
+Lead new initiatives and direct the creation of new infrastructure and processes</li>
+<li>
+Set performance metrics for teams and hold managers accountable</li>
+<li>
+Support product and marketing teams by coordinating operations-based projects</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Extremely smart, ambitious, and relentlessly driven to improve</li>
+<li>
+You crave scale and operational efficiency</li>
+<li>
+Excited to manage and grow a team of 200+</li>
+<li>
+Strong written and verbal communication skills</li>
+</ul>
+<p>
+<strong>Bonus Points</strong></p>
+<ul>
+<li>
+Experience managing remote teams</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/thumbtack/ezQmGM"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130709005109_P68M4V4T2YWMPTHQ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Data Scientist]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Eng]]></team>
+			<url><![CDATA[http://thumbtack.theresumator.com/apply/ifrlDH/Data-Scientist.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[CA]]></postalcode>
+			<description><![CDATA[<p>
+There are only two kinds of truth in the world: philosophical truth and statistical truth. Philosophical truth draws on pure reason; statistical truth draws on data. Philosophical truth can be hard to apply to business, but statistical truth lies at the very heart of Thumbtack. Our collective reverence for the power of statistical analysis is, we believe, one of our key advantages as a business and one of the primary drivers of our success.</p>
+<p>
+What is a &quot;data scientist&quot;, anyway? Well, it&#39;s &quot;data&quot; and &quot;scientist&quot;:</p>
+<p>
+<strong>Data:</strong> &quot;Only the data are real&quot;. Unfortunately, most data are extremely unwieldy. Drawing correct conclusions from data requires a sharp analytical mind, a deep understanding of the fundamentals of statistics, and a broad toolbox of statistical and machine learning techniques. It also requires the engineering skill to wrangle data from various sources and to implement computationally-challenging algorithms over large data sets.</p>
+<p>
+<strong>Scientist:</strong> A scientist practices the scientific method: formulating hypothesis, testing them, and drawing inspiration for new hypothesis from the results. This requires the scientist to use both sides of her brain in tandem, creatively coming up with useful hypotheses and analytically testing, rejecting, revising and expanding them in a continual interplay. A great scientist doesn&#39;t simply analyze data to answer a question. A great scientist finds the incredibly valuable questions no one had thought of.</p>
+<p>
+<br />
+We&#39;re looking for a brilliant individual to form the cornerstone of our data science team here at Thumbtack. Our process gives you full ownership over the projects you tackle: so dream big, then execute well.</p>
+<ul>
+<li>
+You&#39;ll be given the latitude to survey Thumbtack as a business, identify key opportunities, and use any and all available data to draw actionable conclusions that will guide the direction of the company.</li>
+<li>
+You&#39;ll design, implement and launch experiments to test your hypotheses.</li>
+<li>
+You&#39;ll identify and implement metrics that align with company goals.</li>
+<li>
+You&#39;ll contribute to our Python codebase and perform analyses in R or another statistics tool of your choice.</li>
+<li>
+You&#39;ll advise coworkers on the (mis)use of statistics to understand data.</li>
+</ul>
+<p>
+If we do our job right, the Yellow Pages will be a thing of the past and we&#39;ll introduce real efficiency into the local services market.</p>
+<p>
+Here are a few example projects:</p>
+<ul>
+<li>
+Which markets in our ecosystem are most healthy? Which are least healthy and how can we improve them?</li>
+<li>
+Are service providers becoming more or less engaged with Thumbtack over time? What&#39;s driving these changes?</li>
+<li>
+Which consumers are most delighted by their Thumbtack experience? What drives the differences and how can we best improve the experience for our users?</li>
+<li>
+Are some service providers consistenly under- or over-charging for their services? How does that affect consumer behavior? Could we offer advice to help them improve their businesses?</li>
+</ul>
+<p>
+<strong>About you:</strong></p>
+<ul>
+<li>
+You&#39;re proficient with advanced statistical analysis and machine learning techniques in an environment/tool/language of your choice (we use R and Python/Pandas currently).</li>
+<li>
+You have a deep understanding of probability and statistics.</li>
+<li>
+You have the analytical chops to break down big, open-ended problems into manageable pieces, then attack the pieces from a variety of angles, all without losing sight of the bigger picture.</li>
+<li>
+You&#39;re comfortable working with a large, complex code base (we use Python)</li>
+<li>
+You express yourself clearly and concisely in written and verbal discussion of complex problems.</li>
+<li>
+This job description resonates with you.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/thumbtack/ifrlDH"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130709005623_VFK2JT1MIVPWFJJ5]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Lead iOS Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Eng]]></team>
+			<url><![CDATA[http://thumbtack.theresumator.com/apply/Bfnwmo/Lead-IOS-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[CA]]></postalcode>
+			<description><![CDATA[<p>
+Thumbtack is looking to build an amazing mobile experience for hundreds of thousands of users. Both sides of the Thumbtack marketplace (service providers and their clients) will benefit massively from enhanced mobile experiences. Imagine what you might do if you could run your business from your iPhone? If you could hire a service provider at any time day or night with just a few taps? The sky is the limit.</p>
+<p>
+The front-end team at Thumbtack invests heavily in responsive web design and fast, elegant mobile experiences. We&rsquo;ve seen this investment pay off incredibly. But we think we can do better with a fully native experience.</p>
+<p>
+We&rsquo;re looking for someone who&rsquo;s built great iOS experiences in the past. We&rsquo;re new to this, so need some guidance. That said, you&rsquo;ll be working with great engineering and design teams who will be eager to assist you in making something really exceptional.</p>
+<p>
+Specifics about you:</p>
+<ul>
+<li>
+Excellent iOS/Objective-C engineer who is passionate about great design</li>
+<li>
+Have released apps on the App Store. We&rsquo;re looking for someone who&rsquo;s done this before.</li>
+<li>
+Excited by the potential of mobile technology to transform the lives of small businesses around the country.</li>
+<li>
+Great communicator. We find that people who are good writers tend to be great thinkers and great coders.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/thumbtack/Bfnwmo"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130709005830_SNXI5P1R9MXXVKVP]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Lead Android Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Eng]]></team>
+			<url><![CDATA[http://thumbtack.theresumator.com/apply/ePvrvr/Lead-Android-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[CA]]></postalcode>
+			<description><![CDATA[<p>
+Thumbtack is looking to build an amazing mobile experience for hundreds of thousands of users. Both sides of the Thumbtack marketplace (service providers and their clients) will benefit massively from enhanced mobile experiences. Imagine what you might do if you could run your business from your phone? If you could hire a service provider at any time day or night with just a few taps? The sky is the limit.</p>
+<p>
+The front-end team at Thumbtack invests heavily in responsive web design and fast, elegant mobile experiences. We&rsquo;ve seen this investment pay off incredibly. But we think we can do better with a fully native experience.</p>
+<p>
+We&rsquo;re looking for someone who&rsquo;s built great Android experiences in the past. We&rsquo;re new to this, so need some guidance. That said, you&rsquo;ll be working with great engineering and design teams who will be eager to assist you in making something really exceptional.</p>
+<p>
+Specifics about you:</p>
+<ul>
+<li>
+Excellent Android/Java engineer who is comfortable building beautiful cross-platform experiences</li>
+<li>
+Have released apps on Google Play. We&rsquo;re looking for someone who&rsquo;s done this before.</li>
+<li>
+Excited by the potential of mobile technology to transform the lives of small businesses around the country.</li>
+<li>
+Great communicator. We find that people who are good writers tend to be great thinkers and great coders.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/thumbtack/ePvrvr"></script>]]></buttons>
+		</job>
+	</jobs>

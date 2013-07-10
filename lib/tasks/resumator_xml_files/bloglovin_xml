@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Bloglovin]]></company>
+			<job>
+			<id><![CDATA[job_20120816094845_YHABNECSCJNGSAIU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front-End Product Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://bloglovin.theresumator.com/apply/hDNx6B/FrontEnd-Product-Engineer.html]]></url>
+			<city><![CDATA[Stockholm]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Sweden]]></country>
+			<postalcode><![CDATA[11641]]></postalcode>
+			<description><![CDATA[<p>
+	A versed engineer and perfectionist with good taste, ready to take ownership of entire features.<br />
+	What you&#39;ll do:<br />
+	Create new and improve existing features that makes it more amazing for our growing millions of users to discover &amp; follow their favorite blogs<br />
+	Write snappy code, from flexible JavaScript libraries to concise, reusable PHP models<br />
+	Hack together with a small and talented team of designers and backend engineers<br />
+	What we&rsquo;re looking for:<br />
+	A passion for beautiful, pragmatic code paired with a strong sense of product design<br />
+	Experience with sites that rely on architecture beyond the basic LAMP stack<br />
+	Demonstrated work beyond the frontend and ability to integrate with a wide array of backend technologies and services<br />
+	A deep understanding of Bloglovin&rsquo;<br />
+	Smarts, humility, and equal willingness to learn and teach<br />
+	Tools we like:<br />
+	PHP5<br />
+	MySQL taken to its furthest extent<br />
+	Prototype and jQuery (along with hand-crafted JS)<br />
+	Varnish and memcached<br />
+	Asynchronous requests and queues (frontend and backend)<br />
+	git and GitHub<br />
+	&nbsp;<br />
+	Founded by David Karp in New York City in 2007, Tumblr is a microblogging platform that allows users to effortlessly share anything. Tumblr now hosts over 64 million blogs with over 27 billion posts to date. Our pageview to engineer ratio is 1 billion PV per month to 1 engineer.</p>
+<p>
+	This means every line of code every developer writes has a huge impact. We are focused on building tools and technologies that will advance the state of the art in dealing with massively scaled websites as we quickly grow past 30,000 requests and 1,300 posts per second. We are also excited to deliver a range of new products that will enable users to share their own creative content, discover content, and connect to one another in new ways.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bloglovin/hDNx6B"></script>]]></buttons>
+		</job>
+	</jobs>

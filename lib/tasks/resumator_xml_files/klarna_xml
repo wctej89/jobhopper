@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Klarna]]></company>
+			<job>
+			<id><![CDATA[job_20120514205239_RC6UFP7I3X3FO5TG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Test1]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[engineering]]></team>
+			<url><![CDATA[http://klarna.theresumator.com/apply/84Vlx5/Test1.html]]></url>
+			<city><![CDATA[frwevr]]></city>
+			<state><![CDATA[AS]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[543543]]></postalcode>
+			<description><![CDATA[<p>fdsvfdsv</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/klarna/84Vlx5"></script>]]></buttons>
+		</job>
+	</jobs>

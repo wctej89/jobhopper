@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Strobe Inc]]></company>
+			<job>
+			<id><![CDATA[job_20110616202953_VWAAPW11EP7AAIVJ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[DevOps Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://strobe.theresumator.com/apply/5xjbjW/DevOps-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+	We&#39;re looking for a very talented Operations Engineer who can take a leading role on our team.&nbsp;You are an experienced operations guru who believes in building 100% automated deployments, extensive monitoring and designing systems that fail gracefully. You are willing to participate in 24/7/365 on-call rotation. You are humble, easy to get along with and love what you do. You are willing to work in downtown San Francisco and come in to the office regularly.</p>
+<p>
+	<strong>Key Responsibilities include:</strong></p>
+<ul>
+	<li>
+		Build and maintain automation for our servers</li>
+	<li>
+		Setup monitoring and instrumentation of all services.</li>
+	<li>
+		Work closely with our engineers to design, build, and maintain systems as well as improve availability, scalability, and operability of our systems.</li>
+	<li>
+		Build tools and processes to manage our infrastructure.</li>
+	<li>
+		Troubleshoot issues with at all levels in our stack from network to application layers.</li>
+	<li>
+		Document current and future configuration processes and policies.</li>
+	<li>
+		Troubleshoot platform problems and act as escalation point for customer issues.</li>
+	<li>
+		Collect and review system data for capacity and planning purposes.</li>
+	<li>
+		Plan, test, maintain and support smooth backup and recovery, business continuity and disaster recovery solutions.</li>
+</ul>
+<p>
+	<br />
+	<strong>Skills you posses:</strong></p>
+<ul>
+	<li>
+		Experience with Unix automation - we happen to use Ubuntu</li>
+	<li>
+		Strong system programming and scripting &ndash; we write a lot of code. Experience with bash and/or zsh, plus at least one of Ruby, Python, Perl or similar scripting language. (We use a lot of Ruby, among other things. We are willing to train you, but you must be enthusiastic and motivated to learn)</li>
+	<li>
+		Understanding of system and network security best practices.</li>
+	<li>
+		Experience with Amazon Web Services, particularly EC2, EBS, ELB and S3.</li>
+	<li>
+		Available to respond and handle after hour issues and be on call. We&#39;re operating a global service which requires 24/7/365 uptime.</li>
+	<li>
+		Experience building highly available systems and networks.</li>
+	<li>
+		Experience with administering high-volume Postgres and NoSQL-like services</li>
+	<li>
+		Knowledge of infrastructure automation and configuration management principles.</li>
+	<li>
+		Thorough grasp of web application architecture, including TCP/IP, HTTP, load balancing, caching strategies, and other common components.</li>
+</ul>
+<p>
+	<br />
+	<strong>Bonus points for:</strong></p>
+<ul>
+	<li>
+		Ubuntu</li>
+	<li>
+		JVM</li>
+	<li>
+		Chef / puppet</li>
+	<li>
+		Experience managing Riak</li>
+	<li>
+		Experience managing servers across several data centers</li>
+	<li>
+		Coding skills</li>
+</ul>
+<p>
+	<br />
+	Submit your resume (in PDF form ONLY) through our automated application system. Be sure and include info on why you think you&#39;d be perfect for this position, along with social media links, like your Twitter account or Blog&mdash;we&#39;d love to get to know you.&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/strobe/5xjbjW"></script>]]></buttons>
+		</job>
+	</jobs>

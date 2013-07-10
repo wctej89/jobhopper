@@ -1,0 +1,281 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[DeskPRO]]></company>
+			<job>
+			<id><![CDATA[job_20110825184818_6ZQALIO02AE22QHZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[PHP Developer (Symfony2)]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://deskpro.theresumator.com/apply/T7nBKF/PHP-Developer-Symfony2.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EC1A 9PT]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Innovation Warehouse, Farringdon, London (EC1A 9PT)</strong></p>
+<p>
+	You: As a PHP expert, you find the prospect of building yet another brochure-ware website distressing; you want to get your hands dirty building an advanced, MVC based application in a fun and supportive environment where you will be constantly challenged, always learning and delivering a product used by millions of people every day.</p>
+<p>
+	Our company was founded and is managed by developers who wrote the original software the company was built upon; the technical team are the core of our business. As a member of that team, it will be you who decides upon the on-going development of our technical stack as well as the product itself. You will of course have complete control over your workstation.</p>
+<p>
+	<strong>Our Stack:</strong></p>
+<p>
+	<img src="http://www.deskpro.com/technology-stack.png" /></p>
+<p>
+	<strong>Qualifications:</strong></p>
+<ul>
+	<li>
+		A passion for programming, solving problems and building software customers love.</li>
+	<li>
+		Experience building web-based applications as distinct from brochure-ware websites.</li>
+	<li>
+		An expert in OOP/MVC/ORM programming techniques and PHP (v5.3) frameworks. We use Symfony2.</li>
+	<li>
+		You can bend MySQL to your will.</li>
+	<li>
+		Solid front-end development experience with XHTML, CSS, and Javascript (particularly via jQuery &amp; MooTools).</li>
+	<li>
+		An appreciation for a beautiful GUI and excellent user experience.</li>
+	<li>
+		You can validate your skills for example with source code samples, a github profile, contributions to an open source project, developer blog, stackoverflow answers etc.</li>
+</ul>
+<p>
+	<strong>What you Will do?</strong></p>
+<ul>
+	<li>
+		Design (with help) and develop new channels for our software. In particular we are looking at apps using twilio (for voice/sms), facebook and twitter.</li>
+	<li>
+		Integrate our software into other 3rd party applications. This could both be via APIs (salesforce, jira, 37signals) or through digging directly into the source code (sugarCRM, xenforo etc).</li>
+	<li>
+		Continue improve and refine our existing channels and product. We are never satisfied and always looking for that small improvement, refactor or redesign that can increase usability, speed and functionality for our customers.</li>
+	<li>
+		Work on our backend systems including internal developer tools and deployment processes, our SaaS application stack or the tools we have to manage our business.</li>
+</ul>
+<p>
+	<strong>About Us:</strong></p>
+<p>
+	Our principle product is DeskPRO, the helpdesk software platform. We make it easy for organisations (companies &ndash; large and small, charities, public sector organisations) to communicate with their users via email, twitter, facebook, SMS, web forms, live chat (text and voice) as well as providing publishing self-help tools, sales management, co-working tools and community based question and answers. DeskPRO is a platform where customers install the helpdesk applications they need to manage their business.</p>
+<p>
+	We sell this software to a range of organisations including large companies (e.g. Xerox, T-mobile, Fujitsu, Valve Software and AT&amp;T) universities and the public sector all the way through to small family businesses. We have a dual license model; selling licenses to software installed on our clients&rsquo; servers (we don&rsquo;t encrypt the code &ndash; so your code will get read!) and offering a fully managed SaaS solution. Millions of people use our software every day and a lot of agents spend their whole working day using it constantly.</p>
+<p>
+	<strong>What we Offer:</strong></p>
+<ul>
+	<li>
+		Competitive salary based upon experience.</li>
+	<li>
+		Friendly work environment at the Innovation Warehouse in Farringdon: <a href="http://www.theiw.org/">http://theiw.org/</a>.</li>
+	<li>
+		30&quot; monitor and control over your workstation setup. No corporate bureaucracy here.</li>
+	<li>
+		A mixture of autonomy over your role and real responsibilities to the team and business.</li>
+	<li>
+		Varied work. The DeskPRO product is large with lots of modules and technologies.</li>
+	<li>
+		Review our source code before even applying; just ask and we will add you to our github account. Never accept a job until you have seen the code you will be working with.</li>
+	<li>
+		We plan to have a lot of fun on this journey &ndash; please bring a sense of humour.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/deskpro/T7nBKF"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120223210209_DNJIVRQUCMTVYTK2]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[UI Designer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://deskpro.theresumator.com/apply/SQY4r0/UI-Designer.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EC1A 9PT]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>User Interface Designer</strong></p>
+<p>
+	At DeskPRO we consider the user experience of our product a significant competitive advantage. Design is not an afterthought but is baked into the very foundations of the product.</p>
+<p>
+	We are looking for a talented UI designer who will lead our design process. You will be able to take ideas from concept (and mockup)&nbsp; to PSD and finally to completed XHTML/CSS/Images for the backend developers to work with.</p>
+<p>
+	<strong>Requirements:</strong></p>
+<ul>
+	<li>
+		Software user interface design experience</li>
+	<li>
+		Capable of creating stunning graphics, icons and buttons</li>
+	<li>
+		Expert XHTML/CSS</li>
+	<li>
+		A dedication to getting the details just right</li>
+	<li>
+		You love sites like dribbble and littlebigdetails.</li>
+	<li>
+		You have a portfolio of work to show us</li>
+</ul>
+<p>
+	<strong>Bonus Points</strong></p>
+<ul>
+	<li>
+		Basic use of javascript (jQuery)</li>
+	<li>
+		Familiarity with version control software</li>
+</ul>
+<p>
+	<strong>What we Offer:</strong></p>
+<ul>
+	<li>
+		Competitive salary based upon experience.</li>
+	<li>
+		Friendly work environment at the Innovation Warehouse in Farringdon: http://theiw.org/.</li>
+	<li>
+		A decent budget to get your work environment setup as you want it</li>
+	<li>
+		We plan to have a lot of fun on this journey &ndash; please bring a sense of humour.</li>
+</ul>
+<p>
+	<br />
+	<strong>Our product:</strong></p>
+<p>
+	&nbsp;</p>
+<p>
+	<img src="http://www.deskpro.com/screenshot-jobs.png" /></p>
+<p>
+	<img src="http://www.deskpro.com/screenshot-user-jobs.png" /></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/deskpro/SQY4r0"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120223210904_QOEMDWXBQAVU4WQS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Startup Intern]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://deskpro.theresumator.com/apply/ngjqM0/Startup-Intern.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EC1A 9PT]]></postalcode>
+			<description><![CDATA[<p>
+	We are looking for an intern for a 2-3 month period on a paid expenses basis. You will be working with a growing company with exciting clients. We work from a co-working space in Farringdon so you will also have access to 30+ other companies; you won&#39;t fnd a better introduction to startup life.</p>
+<p>
+	We have no list of acitivites for you to fulfill, what you do will be based on your interests and needs of the company at the time. Instead we have included this great list of 50 <a href="http://startuplife.in/50-things-to-do-in-a-startup-as-an-intern/">activites for an intern at a startup</a>.</p>
+<ul>
+	<li>
+		Make a list of 50 most promising journalists in the field of your startup. For general leads, check http://goo.gl/veIQ8</li>
+	<li>
+		Find 50 most influential future users and contact them.</li>
+	<li>
+		Business students &ndash; learn basics of HTML and CSS.</li>
+	<li>
+		Start compiling a FAQ site of the product.</li>
+	<li>
+		Make screencasts of the new features of the product.</li>
+	<li>
+		Write an interview of an existing customer. Take a look at how 37Signals does it: productblog.37signals.com</li>
+	<li>
+		Make custom 404 pages. Or five. Inspiration from Github: https://github.com/404</li>
+	<li>
+		Analytics. Dive deep into the numbers. Present what you learned!</li>
+	<li>
+		Organize a Friday evening beers &amp; pizza session for the startup.</li>
+	<li>
+		Document the company culture (photos, examples) and make a slideshow. Upload it to Slideshare.</li>
+	<li>
+		Learn to take product shots. Check out Etsy&rsquo;s guide: http://goo.gl/5FGQl</li>
+	<li>
+		Plan and take press pictures of all founders.</li>
+	<li>
+		Write a 100, 300 and a 1000 word decsription of your startup in english and finnish.</li>
+	<li>
+		Collect related blogposts that are worth benchmarking.</li>
+	<li>
+		Compile a presskit for your startup. Check out http://goo.gl/4jU7i and http://goo.gl/piBmZ</li>
+	<li>
+		Paper prototype a new interface and try it out to at least 100 customers. Write three actionable items you learned.</li>
+	<li>
+		Do the same with Balsamiq or Mockingbird.</li>
+	<li>
+		Organize an open hackday for all the local developers.</li>
+	<li>
+		Organize a community micro-event for the users.</li>
+	<li>
+		Create a template for a newsletter.</li>
+	<li>
+		Make video-interviews of the founders &amp; employees.</li>
+	<li>
+		Learn typography.</li>
+	<li>
+		Try A/B testing something with the website.</li>
+	<li>
+		Clean the pitchdecks. Inspiration from venturehacks.com and noteandpoint.com</li>
+	<li>
+		Find competitors.</li>
+	<li>
+		Plan a viral marketing campaign, measure the results.</li>
+	<li>
+		Find the coolest hackers and projects related to your startup from GitHub.</li>
+	<li>
+		Find the most interesting designers from Dribbble and see if they do contract work.</li>
+	<li>
+		Build an internal dashboard a la Panic board http://goo.gl/AHDX</li>
+	<li>
+		Do customer support for a day, whatever your main job is. Engage and ask a lot of questions.</li>
+	<li>
+		Put together a lead generation document.</li>
+	<li>
+		Update all the support documents.</li>
+	<li>
+		Learn to handle Google AdWords, banner advertising, text advertising etc.</li>
+	<li>
+		Research potential partners APIs and terms of service.</li>
+	<li>
+		Hack the officespace. Make it something like Zappos or 37Signals http://goo.gl/gks8N</li>
+	<li>
+		Plan a Jobs-section. Make your startup sound cooler than anyone else.</li>
+	<li>
+		Watch at least 10 customers use your product. Communicate your learnings.</li>
+	<li>
+		Retweet relevant Twitter-posts and schedule updates. Gather favourites!</li>
+	<li>
+		Scan and organize or those papers.</li>
+	<li>
+		Learn scrum.</li>
+	<li>
+		Design stickers and t-shirts.</li>
+	<li>
+		Make a cheeky robots.txt file. Check out flickr.com/humans.txt and google.com/humans.txt</li>
+	<li>
+		Benchmark the best internal communication solutions: Hipchat, Flowdock, Yammer, Basecamp, Google Sites etc.</li>
+	<li>
+		Try out Reinvigorate, Get Satisfaction, UserVoice, Geckoboard and other hip startup tools</li>
+	<li>
+		Shadow a user for a day to see where the pain points are.</li>
+	<li>
+		Survey people who returned the product or took a trial and didn&rsquo;t continue.</li>
+	<li>
+		Digg deep into Quora, Digg, Reddit, Twitter. Identify super-users, twitter-lists, Facebook groups.</li>
+	<li>
+		Write a blogpost on your learning experiences.</li>
+	<li>
+		Make an internal Spotify list.</li>
+	<li>
+		Make a company blog (check out wordpress.com for hosted or tumblr.com or posterous.com).</li>
+	<li>
+		Plan a company summer party. Execute some crazy vision with zero-budget!
+		<p>
+			&nbsp;</p>
+	</li>
+</ul>
+]]></description>
+			<type><![CDATA[Internship to Full Time]]></type>
+			<experience><![CDATA[Student (High School)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/deskpro/ngjqM0"></script>]]></buttons>
+		</job>
+	</jobs>

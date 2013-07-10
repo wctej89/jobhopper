@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[JD Supra]]></company>
+			<job>
+			<id><![CDATA[job_20101012031340_LS3HLZYMNPSWG8B7]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Designer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://jdsupra.theresumator.com/apply/UwoDXz/Web-Designer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94134]]></postalcode>
+			<description><![CDATA[<p>
+	Web Designer in SF office. This is a test submission. Do not reply.</p>
+]]></description>
+			<type><![CDATA[Temporary]]></type>
+			<experience><![CDATA[Senior Executive]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/jdsupra/UwoDXz"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20101012033758_GDJNNKKL39XU0LOS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Test 2010 Giantsa]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://jdsupra.theresumator.com/apply/JfvrST/Test-2010-Giantsa.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94134]]></postalcode>
+			<description><![CDATA[<p>
+	This is another test submission</p>
+]]></description>
+			<type><![CDATA[Seasonal]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/jdsupra/JfvrST"></script>]]></buttons>
+		</job>
+	</jobs>

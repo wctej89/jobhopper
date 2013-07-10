@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Quixey]]></company>
+			<job>
+			<id><![CDATA[job_20120111225137_PHS1D6GXLGE0TTCG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://quixey.theresumator.com/apply/hr3imc/Software-Engineer.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94306]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Description</strong></p>
+<p>
+	The core of Quixey&#39;s product is a growing database of apps. We write code to collect new data, improve existing data, find useful patterns in app data, build clever schemas and indexes for app data, search app data, and let users navigate app data.</p>
+<p>
+	As one of the first engineers, you&#39;ll have a huge influence on the product and be asked to solve hard problems.</p>
+<p>
+	<strong>Requirements</strong></p>
+<ul>
+	<li>
+		Extraordinary software engineering talent.</li>
+	<li>
+		Have written 50,000 good-looking lines of code.</li>
+	<li>
+		Before that, have written 50,000 lines of code that you&#39;re embarrassed by.</li>
+	<li>
+		Know all that stuff they teach in college CS that most people forget.</li>
+	<li>
+		Speak and write clear arguments, explanations and proofs.</li>
+	<li>
+		Can write a compiler from scratch.</li>
+	<li>
+		Can write a quine.</li>
+	<li>
+		Can write binary search with no off-by-one errors in under 2 minutes.</li>
+</ul>
+<p>
+	<strong>Nice to Have</strong></p>
+<ul>
+	<li>
+		Have programmed something that lots of people use.</li>
+	<li>
+		Use a pimped out text editor, custom shell scripts, and generally know how to take advantage of tools.</li>
+	<li>
+		Can write idiomatic Python.</li>
+	<li>
+		Can code an HTML and CSS clone of Google&#39;s home page in 5 minutes or less.</li>
+</ul>
+<p>
+	<strong>Technology</strong></p>
+<p>
+	The main tools we use right now are Python 3, MongoDB, CherryPy, nginx, Amazon Web Services, jQuery and Git.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/quixey/hr3imc"></script>]]></buttons>
+		</job>
+	</jobs>

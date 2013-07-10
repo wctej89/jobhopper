@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Smartdate]]></company>
+			<job>
+			<id><![CDATA[job_20101025155329_JPRZQ5TC7QTJRRXU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Ruby on Rails Engineer in Paris]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://smartdate.theresumator.com/apply/Dgdfks/Ruby-On-Rails-Engineer-In-Paris.html]]></url>
+			<city><![CDATA[Paris]]></city>
+			<state><![CDATA[Ile de France]]></state>
+			<country><![CDATA[France]]></country>
+			<postalcode><![CDATA[75001]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Who are we?</strong></p>
+<p>
+	Smartdate is dating 2.0, the worlds first social network designed specifically for dating. Think Facebook meets Match. Since the launch on Valentine&#39;s Day 2010, Smartdate has been growing at a blistering pace, in this short time, we have become the top trafficked dating site in France. Strongly VC-backed and revenue generating, we are searching for other like-minded, enthusiastic individuals who are interested in getting in on the ground floor of promising young startup.</p>
+<p>
+	We are located in beautiful central Paris France. Our team is hard working, young, fun, and very international. We come from a wide variety of backgrounds from successful entrepreneurs to jazz musicians to former Yahoo engineering leads. We work primarily in English however, French, Spanish, Korean, German, and Italian can occasionally be heard in the office. If any of this sounds interesting please, read on. We would love to hear from you.</p>
+<p>
+	<br />
+	<strong>Who are we looking for? </strong></p>
+<ul>
+	<li>
+		An expert Ruby on Rails development skills</li>
+	<li>
+		Someone with strong knowledge of Linux/BSD/OSX systems</li>
+	<li>
+		Someone who is familiar with common web technologies and frameworks: HTML5, CSS, jQuery, JSON</li>
+	<li>
+		Someone with experience with Test Driven Development (RSpec, Cucumber, Steak) Someone who is comfortable with using a distributed version control system in a team environment</li>
+	<li>
+		Someone with excellent verbal and written communication skills in English</li>
+	<li>
+		Someone who has a passion for knowledge</li>
+	<li>
+		Someone who is intrigued by the idea of working for a new Internet start-up in the heart of central Paris and making some serious money</li>
+</ul>
+<p>
+	<strong>Job requirements:</strong></p>
+<ul>
+	<li>
+		Understanding of web application scaling techniques, such as client side performance, page/action/fragment caching, memcached, etc</li>
+	<li>
+		Experience working with large data stores</li>
+	<li>
+		Familiarity with NOSQL and other open source movements</li>
+	<li>
+		Familiarity with SASS and HAML a bonus</li>
+	<li>
+		Experience using Facebook APIs / OAuth</li>
+	<li>
+		The maturity to know when to work like crazy, and when to kick back</li>
+	<li>
+		Experience working at start-ups or small companies where work can be demanding but also more rewarding</li>
+	<li>
+		Skills in other languages such as Java, Python, or C++</li>
+</ul>
+<p>
+	<strong>Perks:</strong></p>
+<ul>
+	<li>
+		Competitive salary and stock option plan.</li>
+	<li>
+		Living in one of the most beautiful and vibrant cities on the planet.</li>
+	<li>
+		Great team atmosphere</li>
+	<li>
+		Great opportunity to build something big and lasting.</li>
+</ul>
+<p>
+	<strong>Application:</strong></p>
+<p>
+	To apply just shoot us over an email to jobs@smartdate.com. Were looking forward to talking with you. &nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/smartdate/Dgdfks"></script>]]></buttons>
+		</job>
+	</jobs>

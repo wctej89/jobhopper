@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[location labs]]></company>
+			<job>
+			<id><![CDATA[job_20111101221848_WSBH4XTIZSGPRDDR]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[cfo]]></title>
+			<department><![CDATA[g&A]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://location.theresumator.com/apply/ME7PM1/Cfo.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94118]]></postalcode>
+			<description><![CDATA[<p>
+	testing, testing</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/location/ME7PM1"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20111031060657_WQ37OBPIQIAA8BZ5]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[test]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://location.theresumator.com/apply/mSSpvX/Test.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94118]]></postalcode>
+			<description><![CDATA[<p>
+	test</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (High School)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/location/mSSpvX"></script>]]></buttons>
+		</job>
+	</jobs>

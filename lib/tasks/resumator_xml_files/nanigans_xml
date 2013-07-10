@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Nanigans]]></company>
+			<job>
+			<id><![CDATA[job_20111229154735_NMSHHLQNKECKHX7N]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web App Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://nanigans.theresumator.com/apply/jiQdvs/Web-App-Developer.html]]></url>
+			<city><![CDATA[Boston]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02111]]></postalcode>
+			<description><![CDATA[<p>
+	Web App Developer</p>
+<p>
+	The team at Nanigans is revolutionizing how marketers do social advertising. We love technology, solving challenging problems, and of course, are all addicted to Facebook. We have a work-hard / play-hard culture, with each team member passionate about paving the way for the future of advertising.</p>
+<p>
+	We&#39;re looking for a solid Web App Developer to join our team, one who knows PHP, AJAX, REST, MySQL, can code up scalable, high-quality web apps quickly, can wear multiple hats and help out the team when needed. We&rsquo;re looking for a highly motivated, self-starter kind of developer.</p>
+<p>
+	RESPONSIBILITIES:<br />
+	&bull; Develop a scalable, high-quality web app layer for our product<br />
+	&bull; Design and build PHP API functionality to support the web UI<br />
+	&bull; Design and build optimized and scalable SQL queries<br />
+	&bull; Continually evolve the quality of the code base,<br />
+	&bull; Write unit tests, review code, fix bugs.</p>
+<p>
+	QUALIFICATIONS:<br />
+	&bull; Great coding skills,<br />
+	&bull; 3+ years of experience building PHP web apps,<br />
+	&bull; Experience with MySQL, and<br />
+	&bull; B.S. or equivalent experience.</p>
+<p>
+	PERKS:<br />
+	&bull; Daily catered lunch, snacks and drinks<br />
+	&bull; Spectacular views of the Boston Common<br />
+	&bull; Health and dental insurance<br />
+	&bull; Early role in a cutting-edge company and industry</p>
+<p>
+	ABOUT US:</p>
+<p>
+	Nanigans, an early official Facebook Ads API Partner, has developed the most advanced real-time bidding platform for the Facebook ads marketplace. The company&#39;s Ad Engine platform enables marketers to automate the labor-intensive process of delivering social ads at scale, optimizing ad spend to meet goals across the full marketing funnel: from affinity and acquisition to word-of-mouth referrals and repeat purchases. Founded in 2010 and backed by Avalon Ventures, over 200 companies leverage the company&#39;s solution. Located conveniently in the heart of downtown Boston, Nanigans has 40 employees and is growing rapidly.</p>
+<p>
+	<br />
+	&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/nanigans/jiQdvs"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20111229155203_3HSS2RMRLZBNHPAZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web UI Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://nanigans.theresumator.com/apply/vsCDU9/Web-UI-Developer.html]]></url>
+			<city><![CDATA[Boston]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02111]]></postalcode>
+			<description><![CDATA[<p>
+	Web UI Developer</p>
+<p>
+	The team at Nanigans is revolutionizing how marketers do social advertising. We love technology, solving challenging problems, and of course, are all addicted to Facebook. We have a work-hard / play-hard culture, with each team member passionate about paving the way for the future of advertising.</p>
+<p>
+	We&#39;re looking for a solid Web UI Developer to join our team, one who knows HTML, CSS, JavaScript and jQuery, can code up great-looking web apps quickly, can wear multiple hats and help out the team when needed. We&rsquo;re looking for a highly-motivated, self-starter kind of developer.</p>
+<p>
+	RESPONSIBILITIES:<br />
+	&bull; Produce a high-quality, easy-to-use, intuitive web UI<br />
+	&bull; Design and build new UI screens using HTML/CSS/jQuery,<br />
+	&bull; Continually evolve the usability of the UI,<br />
+	&bull; Migrate existing tools to the web UI, and<br />
+	&bull; Write unit tests, review code, fix bugs.</p>
+<p>
+	QUALIFICATIONS:<br />
+	&bull; Great usability, design and coding skills,<br />
+	&bull; 3+ years of experience building web UIs,<br />
+	&bull; Experience building rich user interfaces in JS/jQuery/AJAX,<br />
+	&bull; Strong knowledge of cross-browser compatibility issues, and<br />
+	&bull; B.S. or equivalent experience.</p>
+<p>
+	PERKS:<br />
+	&bull; Daily catered lunch, snacks and drinks<br />
+	&bull; Spectacular views of the Boston Common<br />
+	&bull; Health and dental insurance<br />
+	&bull; Early role in a cutting-edge company and industry</p>
+<p>
+	ABOUT US:</p>
+<p>
+	Nanigans, an early official Facebook Ads API Partner, has developed the most advanced real-time bidding platform for the Facebook ads marketplace. The company&#39;s Ad Engine platform enables marketers to automate the labor-intensive process of delivering social ads at scale, optimizing ad spend to meet goals across the full marketing funnel: from affinity and acquisition to word-of-mouth referrals and repeat purchases. Founded in 2010 and backed by Avalon Ventures, over 200 companies leverage the company&#39;s solution. Located conveniently in the heart of downtown Boston, Nanigans has 40 employees and is growing rapidly.</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/nanigans/vsCDU9"></script>]]></buttons>
+		</job>
+	</jobs>

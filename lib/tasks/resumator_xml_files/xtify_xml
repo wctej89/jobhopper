@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Xtify, Inc.]]></company>
+			<job>
+			<id><![CDATA[job_20120201211807_RLQJU8AQLUB1XX0N]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Java Developer]]></title>
+			<department><![CDATA[Technology]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://xtify.theresumator.com/apply/31HDvf/Senior-Java-Developer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10012]]></postalcode>
+			<description><![CDATA[<p>
+	There are unique challenges that surface when building a system that supports billions of messages for millions of mobile devices. At Xtify, you&rsquo;ll have a chance to help solve these problems while also building unique applications that allow our customers to use this data in real-time. We&rsquo;re looking for the perfect candidate that enjoys working with big data, NoSQL and distributed messaging systems.</p>
+<p>
+	The Senior Developer, is an enthusiastic, engaging engineer that will help scope, build and refine our enterprise-grade applications.&nbsp; The Senior Developer will collaborate closely with our development and business team to ensure that we construct solid platforms for our customer base. The Senior Developer must be fluent in all enterprise-class Java technologies and be able to apply the best solutions for complex, data intensive, business processes. The individual will have the opportunity to work on our various internal and public systems including: messaging, database, portal &amp; end-point APIs.&nbsp; Additional responsibilities and requirements listed below.</p>
+<p>
+	Xtify offers the epitome of the NY tech start-up lifestyle. We are based in SoHo, employ Agile Scrum and stop at nothing to meet a deadline for ourselves or for our customers.</p>
+<p>
+	<strong>About Xtify:</strong><br />
+	Xtify offers a location based services platform for marketers, business developers and web application providers. Our platform provides the ability to take an action based on the location of customers and users. Xtify&rsquo;s proprietary business algorithms allows businesses to expand their product, service and marketing efforts well beyond what was previously achievable with simple lat-long data.</p>
+<br />
+<p>
+	<strong>Responsibilities:</strong></p>
+<ul>
+	<li>
+		Responsible for architecting, writing technical specifications and constructing Java EE solutions based on functional specifications for new components</li>
+	<li>
+		Responsible for production, development, QA Java environment design &amp; evolution (app server, APIs, n-tier design, etc)</li>
+	<li>
+		DevOps support, Bash/Python scripting a plus</li>
+	<li>
+		Review current programs and make recommendations for improvement</li>
+	<li>
+		Work with other developers to ensure that software products are being built to spec and answer the specific needs of the business</li>
+	<li>
+		Help shape and promote department strategy, processes, Agile/Scrum method and QA procedures</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	<br />
+	<strong>Requirements:</strong></p>
+<ul>
+	<li>
+		Bachelor&rsquo;s degree in Computer Science or related field.</li>
+	<li>
+		5 or more years of experience leading architecture of enterprise-class Java platforms and construction initiatives</li>
+	<li>
+		Experience with data processing, analytics &amp; segmentation systems</li>
+	<li>
+		Fluent in the object-oriented development and applicable Java technologies</li>
+	<li>
+		Fluent in JBoss application server configuration, deployment, management and environment design</li>
+	<li>
+		Experience in architecting RESTful API services</li>
+	<li>
+		Familiar with NoSQL databases, Mongo a huge plus</li>
+	<li>
+		Fluent in core Java technologies and concepts including:
+		<ul>
+			<li>
+				ActiveMQ</li>
+			<li>
+				ORM: Hibernate, Morphia</li>
+			<li>
+				EJB3</li>
+			<li>
+				JAX-RS</li>
+		</ul>
+	</li>
+	<li>
+		Strong Linux skills required</li>
+	<li>
+		Experience with DVCS, especially Git</li>
+	<li>
+		Great communicator/writer of concepts to all areas of business</li>
+	<li>
+		Self-motivated with an aptitude to manage own time</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/xtify/31HDvf"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120201212820_CSD1LPNOYXIVOPUK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Systems Engineer]]></title>
+			<department><![CDATA[Technology]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://xtify.theresumator.com/apply/br90Hq/Senior-Systems-Engineer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10012]]></postalcode>
+			<description><![CDATA[<p>
+	There are unique challenges that surface when building a system that supports billions of messages for millions of mobile devices. At Xtify, you&rsquo;ll have a chance to help solve these problems while also supporting unique applications that allow our customers to use this data in real-time. We&rsquo;re looking for the perfect candidate that enjoys working with big data, NoSQL and distributed messaging systems.</p>
+<p>
+	Xtify is seeking a senior systems/applications engineer to lead and support our growing cloud-based infrastructure and service strategy.&nbsp; The right candidate will have an excellent track-record of building and supporting high-performing, redundant infrastructure for platform/software-as-as-service web applications. The candidate will also be able to troubleshoot application support issues reported to us by our customers and be able to help our customers integrate our SDKs into their code-base.</p>
+<p>
+	Xtify offers the epitome of the NY tech start-up lifestyle. We are based in SoHo, employ Agile Scrum and stop at nothing to meet a deadline for ourselves or for our customers.</p>
+<p>
+	<strong>About Xtify:</strong><br />
+	Xtify offers a location based services platform for marketers, business developers and web application providers. Our platform provides the ability to take an action based on the location of customers and users. Xtify&rsquo;s proprietary business algorithms allows businesses to expand their product, service and marketing efforts well beyond what was previously achievable with simple lat-long data.</p>
+<p>
+	<strong>Responsibilities:</strong></p>
+<ul>
+	<li>
+		Architect and refine existing cloud-based infrastructure</li>
+	<li>
+		Provide support for all aspects of our environment including server/network infrastructure, software platforms (JBoss, ActiveMQ, MongoDB, MySQL) and mobile device SDKs (iPhone, Android, BlackBerry)</li>
+	<li>
+		Establish and refine operations protocols and procedures for security/authentication, deployment/change management, incident/problem management, configuration/inventory management and other aspects of ITIL v3</li>
+	<li>
+		Develop and refine monitoring &amp; automation strategy, including creation and management of new monitors, scripts</li>
+	<li>
+		Document/draw &amp; maintain architecture diagrams, support procedures and new-platform specifications</li>
+	<li>
+		Be available for off-hours support escalation and change procedures</li>
+	<li>
+		Manage backup strategy for data, systems, configurations and code repository</li>
+	<li>
+		Manage and support Git code repository</li>
+	<li>
+		Research and suggest improvements to our existing and future environments</li>
+</ul>
+<p>
+	<strong>Requirements:</strong></p>
+<ul>
+	<li>
+		3-5 years experience managing production SLA-bound web platforms ideally within a SaaS or PaaS business</li>
+	<li>
+		3-5 years experience managing Java-based application stack utilizing Linux, Apache/JBoss, ActiveMQ with a NOSQL database (MongoDB a huge plus)</li>
+	<li>
+		3-5 experience manage continuous integration environments</li>
+	<li>
+		Self-starter with ability to own a project from specification through execution, testing and lifecycle management</li>
+	<li>
+		Familiarity with mobile application development on iPhone &amp; Android a huge plus</li>
+	<li>
+		Strong communications skills with experience interacting with internal/external developers</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/xtify/br90Hq"></script>]]></buttons>
+		</job>
+	</jobs>

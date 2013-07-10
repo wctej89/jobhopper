@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[ClaimAble]]></company>
+			<job>
+			<id><![CDATA[job_20121102221046_GPK6FF9O1OJB2GTZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Dev/Ops Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://claimable.theresumator.com/apply/4LRqoe/DevOps-Engineer.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[N1 6ND]]></postalcode>
+			<description><![CDATA[<div class="job" id="dev-ops-engineer">
+<p>
+ClaimAble is a mission-critical business application to our customers. Our reputation is built on accessibility and reliability, so it&#39;s important we maintain this.</p>
+<p>
+You&#39;ll be responsible for maintaining our platform infrastructure and making key architectural decisions about how to scale and ensure our application is always available.</p>
+<p>
+You&#39;ll also need to write Ruby code and be involved in the design of our API.</p>
+</div>
+<div class="section">
+<p>
+<u><strong>Responsibilities:</strong></u></p>
+<ul>
+<li>
+Manage and maintain our platform infrastructure.</li>
+<li>
+We love RESTful JSON API&#39;s and you&#39;ll be responsible for designing and improving ours.</li>
+<li>
+Make architectural decisions about our entire back-end stack, from the network layer to the API.</li>
+<li>
+Ensure our platform is secure, resilient, performant and scalable.</li>
+<li>
+Write Ruby code for both our primary API and supporting applications.</li>
+<li>
+Automate as many processes as possible.</li>
+<li>
+Help us achieve rock solid failover across multiple data centres as our user base grows.</li>
+</ul>
+</div>
+<div class="section">
+<p>
+<u><strong>You Must:</strong></u></p>
+<ul>
+<li>
+Have real-life experience of cloud servers/infrastructure.</li>
+<li>
+Have demonstrable examples of applications you&#39;ve built and maintained (and scaled).</li>
+<li>
+Be passionate about startup culture - if you expect a 9-to-5, stop reading now.</li>
+</ul>
+</div>
+<div class="section">
+<p>
+<u><strong>In A Typical Day You:</strong></u></p>
+<ul>
+<li>
+Researched various hosting providers and advised the team who we should migrate to.</li>
+<li>
+Deployed a new version of the API.</li>
+<li>
+Setup a chatroom bot to automate future deploys.</li>
+<li>
+Hacked together a business dashboard showing key metrics for the team to monitor.</li>
+<li>
+Finished a small Sinatra application to display our platform status in realtime to users.</li>
+<li>
+Implemented DNS failover and load balancing as part of our expansion into multiple regions.</li>
+<li>
+Optimised some MongoDB queries to dramatically improve API performance.</li>
+</ul>
+</div>
+<div class="section">
+<p>
+<u><strong>Bonus Points For:</strong></u></p>
+<ul>
+<li>
+Experience with Chef scripts.</li>
+<li>
+Being familiar with MongoDB and how it scales.</li>
+<li>
+Having knowledge of web security/vulnerabilities and how to protect against them.</li>
+</ul>
+</div>
+<div class="section">
+<p>
+<u><strong>Benefits &amp; Perks:</strong></u></p>
+<ul>
+<li>
+A new Mac to work your magic on.</li>
+<li>
+A comfy Herman Miller Aeron chair.</li>
+<li>
+Office in vibrant Shoreditch, London surrounded by like-minded companies.</li>
+<li>
+ClaimAble is a bullshit free zone! You won&rsquo;t get dragged into pointless meetings or distracted from your work.</li>
+<li>
+Free food when you work late.</li>
+</ul>
+</div>
+<div class="section">
+<p>
+<u><strong>Salary:</strong></u></p>
+<p>
+Salary is competitive and negotiable based on your experience.</p>
+</div>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/claimable/4LRqoe"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121102205923_UKMNLMHSZ8X9YABC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[User Experience and Product Manager]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://claimable.theresumator.com/apply/A8ttgN/User-Experience-And-Product-Manager.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[N1 6ND]]></postalcode>
+			<description><![CDATA[<p>
+You&#39;ll manage the product development cycle and be responsible for making our product and user experience insanely great. This will require a passion for interaction design and product management.</p>
+<div class="section">
+<p>
+We care deeply about human interfaces that are so good, they are invisible - so should you!</p>
+<p>
+<u><strong>Responsibilities:</strong></u></p>
+</div>
+<div class="section">
+<ul>
+<li>
+Manage the product release cycle.</li>
+<li>
+Continually improve how users interact with our software.</li>
+<li>
+Take ownership of supporting collateral to improve the on-boarding process (i.e the sign up flow).</li>
+<li>
+Understand the market and be aware of our competition.</li>
+<li>
+Manage external resources, such as usability testers.</li>
+<li>
+To have an eye for detail, and understand that less is often more.</li>
+<li>
+Work with visual design talent to ensure our app looks fantastic.</li>
+<li>
+To always err on the side of simplicity and make sure this translates to our products.</li>
+<li>
+Understand user journeys, funnels, visitor metrics and how to analyse this data to improve the product.</li>
+<li>
+Know when to say no!</li>
+</ul>
+</div>
+<div class="section">
+<p>
+<u><strong>You Must:</strong></u></p>
+<ul>
+<li>
+Have experience in bringing a product to market. This could be from a previous job, or your own side project. We&#39;re keen to learn how you approached the problem.</li>
+<li>
+Provide examples of occasions where you improved a user experience, and explain your choices.</li>
+<li>
+Be able to simplify complex ideas and methodologies: the simplification process is at the core of our product.</li>
+<li>
+Be passionate about startup culture - if you expect a 9-to-5, stop reading now.</li>
+</ul>
+</div>
+<div class="section">
+<p>
+<u><strong>In A Typical Day You:</strong></u></p>
+<ul>
+<li>
+Initiated some user testing of an upcoming release.</li>
+<li>
+Setup milestones for the next major version and kickstarted development.</li>
+<li>
+Wireframed some ideas for how we can simplify the signup process and discussed these with the team.</li>
+<li>
+Setup a trial of a new project management tool you think might be useful.</li>
+<li>
+Wrote a blog post detailing the highlights of our latest version.</li>
+<li>
+Helped storyboard a video to showcase our app - we think it will improve conversions.</li>
+<li>
+Looked at the results of recent user testing and discussed with the team how to address the issues raised.</li>
+</ul>
+</div>
+<div class="section">
+<p>
+<u><strong>Bonus Points For:</strong></u></p>
+<ul>
+<li>
+Having experience in, or an understanding of, the insurance/finance industry.</li>
+<li>
+Having experience with B2B applications.</li>
+</ul>
+</div>
+<div class="section">
+<p>
+<u><strong>Benefits &amp; Perks:</strong></u></p>
+<ul>
+<li>
+A new Mac to work your magic on.</li>
+<li>
+A comfy Herman Miller Aeron chair.</li>
+<li>
+Office in vibrant Shoreditch, London surrounded by like-minded companies.</li>
+<li>
+ClaimAble is a bullshit free zone! You won&rsquo;t get dragged into pointless meetings or distracted from your work.</li>
+<li>
+Free food when you work late.</li>
+</ul>
+</div>
+<div class="section">
+<p>
+<u><strong>Salary:</strong></u></p>
+<p>
+Salary is competitive and negotiable based on your experience.</p>
+</div>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/claimable/A8ttgN"></script>]]></buttons>
+		</job>
+	</jobs>

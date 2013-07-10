@@ -1,0 +1,770 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Dropcam]]></company>
+			<job>
+			<id><![CDATA[job_20101105154135_HOTSZFDMN1JXRU1W]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Backend Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://dropcam.theresumator.com/apply/9vsDWX/Backend-Software-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94105]]></postalcode>
+			<description><![CDATA[<p>
+Dropcam (http://www.dropcam.com) is making the next great consumer gadget - a user-centric web-connected video camera you watch from anywhere.&nbsp; Use your smartphone to check in on your baby, pets, home, or small business.</p>
+<p>
+It sounds easy, but making a stable, highly available media streaming system that&#39;s easy enough for mom and dad to use is hard.</p>
+<p>
+If you&#39;re up for interesting problems at a startup building a real mass-market product, we&rsquo;d love your help developing a proud, user-focused engineering culture and fulfilling our mission: watch anywhere from anywhere.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Design and maintain the backend software that powers the Dropcam platform</li>
+<li>
+Design and maintain tools to help manage Dropcam servers</li>
+<li>
+Maintain and provision servers</li>
+<li>
+Investigate bugs and diagnose issues</li>
+<li>
+Share your knowledge with the team by conducting design and code reviews</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Fluent in Python and C</li>
+<li>
+Extensive knowledge of networking protocols and technologies (SSL, etc.)</li>
+<li>
+Extensive experience developing networked applications&nbsp;</li>
+<li>
+Knowledge of Linux systems and POSIX</li>
+<li>
+Experience working with very large amounts of data and scalable systems</li>
+<li>
+Experience with database systems (PostgreSQL preferred)</li>
+<li>
+A degree in computer science or related technical discipline, or the equivalent</li>
+<li>
+Strong communication and documentation skills</li>
+<li>
+Downtime makes you cry</li>
+</ul>
+<p>
+<strong>Nice to Have</strong></p>
+<ul>
+<li>
+Good working knowledge of media codecs and technologies (H.264, AAC, etc.)</li>
+</ul>
+<p>
+<strong>About Dropcam</strong></p>
+<p>
+Dropcam (http://www.dropcam.com) is a venture-backed San Francisco startup building a consumer-focused, web-connected internet camera focused on the home monitoring market.&nbsp; Our goal is to help you watch the things you love from anywhere in the world and make sure they&rsquo;re safe and sound.</p>
+<p>
+The company&#39;s first product, Dropcam HD, was announced at CES 2012 to rave reviews and media coverage.&nbsp; The Dropcam HD pairs with an online service that provides cloud-based recording and alert notifications.&nbsp; Users watch video of their children from work, their homes and cars while on vacation, and their businesses when relaxing over the weekend.</p>
+<p>
+Dropcam offers a long list of benefits, including:</p>
+<ul>
+<li>
+competitive base salaries</li>
+<li>
+pre-IPO stock options</li>
+<li>
+medical and dental benefits</li>
+<li>
+breakfast and catered lunch daily</li>
+<li>
+an amazing 17th floor view overlooking San Francisco</li>
+<li>
+your favorite flavor of Keurig K-cups for coffee</li>
+<li>
+really nice folks building a company to be proud of</li>
+</ul>
+<p>
+We&rsquo;re a small team developing the next great consumer gadget &ndash; join us in making it a reality!</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/dropcam/9vsDWX"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20101105154421_QAXZWWCAXY66ETOS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer (Camera)]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://dropcam.theresumator.com/apply/WrHxc0/Software-Engineer-Camera.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94105]]></postalcode>
+			<description><![CDATA[<p>
+Have you written software for an embedded Linux platform before but wish you could work on a consumer device that even your parents can use?</p>
+<p>
+Do you contribute to open-source Linux projects and wish you could deeper into them?</p>
+<p>
+Dropcam is looking for a software engineer to join our Camera team and develop a bulletproof device that connects to all types of networks and streams video, audio, and other data reliably. &nbsp;Doing all of that while remaining user-friendly is a hard task.</p>
+<p>
+We&rsquo;re a small team that&rsquo;s taking on some big players in the IP, security, and monitoring camera spaces, and we have bigger ambitions than that! &nbsp;We already have revenue and are the #1 camera on Amazon. &nbsp;We&rsquo;d love your help developing a proud, user-centric engineering culture and fulfilling our mission: watch anywhere from anywhere.</p>
+<h3>
+Responsibilities</h3>
+<ul>
+<li>
+Design and develop new features and bug fixes for the Dropcam camera</li>
+<li>
+Components you&#39;ll be working on include:
+<ul>
+<li>
+Linux BSP and drivers</li>
+<li>
+Auto-update mechanism</li>
+<li>
+Networking, buffering, and streaming</li>
+<li>
+Wi-Fi</li>
+<li>
+Logging and diagnostics</li>
+</ul>
+</li>
+<li>
+Work with backend server team to implement new features and improve reliability</li>
+<li>
+Investigate bugs and diagnose issues</li>
+<li>
+Share your knowledge with the team by conducting design and code reviews</li>
+</ul>
+<h3>
+Requirements</h3>
+<ul>
+<li>
+Linux! &nbsp;Linux! &nbsp;Linux! &nbsp;If you&#39;ve worked with device drivers or kernel-level code, that&#39;s even better!</li>
+<li>
+Fluent in C and ARM assembly</li>
+<li>
+Strong knowledge of IP networking</li>
+<li>
+A degree in computer science or related technical discipline, or the equivalent</li>
+<li>
+Strong communication and documentation skills</li>
+</ul>
+<h3>
+Nice to Have</h3>
+<ul>
+<li>
+Video / audio codec knowledge (specifically H.264 and AAC)</li>
+<li>
+Previously implemented firmware for a camera or networked gadget</li>
+<li>
+Proficient in Python</li>
+</ul>
+<h3>
+About Dropcam</h3>
+<p>
+Dropcam (http://www.dropcam.com) is a venture-backed San Francisco startup building a consumer-focused, web-connected internet camera focused on the home monitoring market.&nbsp; Our goal is to help you watch the things you love from anywhere in the world and make sure they&rsquo;re safe and sound.Dropcam offers a long list of benefits, including:</p>
+<ul>
+<li>
+competitive base salaries</li>
+<li>
+pre-IPO stock options</li>
+<li>
+medical, dental, and vision benefits</li>
+<li>
+breakfast and catered lunch daily</li>
+<li>
+your favorite flavor of Keurig K-cups for coffee</li>
+<li>
+really nice folks building a company to be proud of</li>
+<li>
+We&rsquo;re a small team developing the next great consumer gadget &ndash; join us in making it a reality!</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/dropcam/WrHxc0"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20101105155045_WPAT4VXWWPEDLEI8]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Mobile Engineer (Android)]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://dropcam.theresumator.com/apply/UYYhMQ/Mobile-Engineer-Android.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94105]]></postalcode>
+			<description><![CDATA[<p>
+Dropcam (http://www.dropcam.com) is making the next great consumer gadget - a user-centric web-connected video camera you watch from anywhere.&nbsp; Use your smartphone to check in on your baby, pets, home, or small business.</p>
+<p>
+It sounds easy, but making a stable, highly available media streaming system that&#39;s easy enough for mom and dad to use is hard.</p>
+<p>
+If you&#39;re up for interesting problems at a startup building a real mass-market product, we&rsquo;d love your help developing a proud, user-focused engineering culture and fulfilling our mission: watch anything from anywhere.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Define and implement exciting new features for the Dropcam Android App</li>
+<li>
+Work with the design team to ensure a consistent, easy-to-use, beautiful interface that people can use</li>
+<li>
+Investigate bugs and diagnose issues</li>
+<li>
+Share your knowledge with the team by conducting design and code reviews</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Expert knowledge of Android development with the Android SDK</li>
+<li>
+Fluent in Java</li>
+<li>
+Good knowledge of C and C++&nbsp;</li>
+<li>
+Has developed one or more apps currently available on the Android Market</li>
+<li>
+An eye for good design</li>
+<li>
+A degree in computer science or related technical discipline, or the equivalent</li>
+<li>
+Strong communication and documentation skills</li>
+</ul>
+<p>
+<strong>Nice to Have</strong></p>
+<ul>
+<li>
+Experience with the Android NDK</li>
+<li>
+Good working knowledge of media codecs and technologies (H.264, AAC, etc.)</li>
+<li>
+Experience with web technologies and network systems</li>
+</ul>
+<p>
+<strong>About Dropcam</strong></p>
+<p>
+Dropcam (http://www.dropcam.com) is a venture-backed San Francisco startup building a consumer-focused, web-connected internet camera focused on the home monitoring market.&nbsp; Our goal is to help you watch the things you love from anywhere in the world and make sure they&rsquo;re safe and sound.</p>
+<p>
+The company&#39;s first product, Dropcam HD, was announced at CES 2012 to rave reviews and media coverage.&nbsp; The Dropcam HD pairs with an online service that provides cloud-based recording and alert notifications.&nbsp; Users watch video of their children from work, their homes and cars while on vacation, and their businesses when relaxing over the weekend.</p>
+<p>
+Dropcam offers a long list of benefits, including:</p>
+<ul>
+<li>
+competitive base salaries</li>
+<li>
+pre-IPO stock options</li>
+<li>
+medical and dental benefits</li>
+<li>
+breakfast and catered lunch daily</li>
+<li>
+an amazing 17th floor view overlooking San Francisco</li>
+<li>
+your favorite flavor of Keurig K-cups for coffee</li>
+<li>
+really nice folks building a company to be proud of</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+We&rsquo;re a small team developing the next great consumer gadget &ndash; join us in making it a reality!</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/dropcam/UYYhMQ"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20101105155257_YCGOFSTKMIUGF3BY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Mobile Engineer (iOS)]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://dropcam.theresumator.com/apply/TQZ6Dg/Mobile-Engineer-iOS.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94105]]></postalcode>
+			<description><![CDATA[<p>
+Dropcam (<a href="http://www.dropcam.com/">http://www.dropcam.com</a>) is a well-funded startup developing the next great consumer gadget: a consumer-focused, web-connected internet camera focused on the home monitoring market. We&rsquo;re a small team of 5 that&rsquo;s already generating revenue, and we&rsquo;d love your help developing a proud, user-centric engineering culture and fulfilling our mission: watch anywhere from anywhere.</p>
+<h3>
+Responsibilities</h3>
+<p>
+&nbsp;</p>
+<ul>
+<li>
+Define and implement new features for the Dropcam iPhone App and iPad App</li>
+<li>
+Work with the design team to ensure a consistent, easy-to-use, beautiful interface that people can use</li>
+<li>
+Investigate bugs and diagnose issues</li>
+<li>
+Share your knowledge with the team by conducting design and code reviews</li>
+</ul>
+<h3>
+Requirements</h3>
+<p>
+&nbsp;</p>
+<ul>
+<li>
+Expert knowledge of iOS development with the iOS SDK</li>
+<li>
+Fluent in Objective C</li>
+<li>
+Has developed one or more apps currently available on the iTunes App Store</li>
+<li>
+An eye for good design</li>
+<li>
+A degree in computer science or related technical discipline, or the equivalent</li>
+<li>
+Strong communication and documentation skills</li>
+</ul>
+<h3>
+Nice to Have</h3>
+<p>
+&nbsp;</p>
+<ul>
+<li>
+Experience with OpenGL</li>
+<li>
+Good working knowledge of media codecs and technologies (H.264, AAC, etc.)</li>
+<li>
+Experience with web technologies and network systems</li>
+</ul>
+<h2>
+About Dropcam</h2>
+<p>
+Dropcam (http://www.dropcam.com) is a venture-backed San Francisco startup building a consumer-focused, web-connected internet camera focused on the home monitoring market.&nbsp; Our goal is to help you watch the things you love from anywhere in the world and make sure they&rsquo;re safe and sound.</p>
+<p>
+We currently offer the Dropcam and Dropcam Echo, and an online service that provides cloud-based recording and alert notifications.</p>
+<p>
+We are looking for great engineers to help build the Dropcam online experience.&nbsp; The website (http://www.dropcam.com) is not only the main source for information about the product but also the home of the service.&nbsp; Users watch video of their children from work, their homes and cars while on vacation, and their businesses when relaxing over the weekend.</p>
+<p>
+Dropcam offers competitive base salaries, pre-IPO stock options, health insurance, flexible hours, and a group of great folks.&nbsp; We&rsquo;re a small team developing the next great consumer gadget &ndash; join us in making it a reality!</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/dropcam/TQZ6Dg"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20101105155616_VPR2IRTSQQLBQQBF]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://dropcam.theresumator.com/apply/aAjQNG/Web-Developer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94105]]></postalcode>
+			<description><![CDATA[<p>
+Dropcam (http://www.dropcam.com) is making the next great consumer gadget - a user-centric web-connected video camera you watch from anywhere.&nbsp; Use your smartphone to check in on your baby, pets, home, or small business.</p>
+<p>
+It sounds easy, but making a stable, highly available media streaming system that&#39;s easy enough for mom and dad to use is hard.</p>
+<p>
+If you&#39;re up for interesting problems at a startup building a real mass-market product, we&rsquo;d love your help developing a proud, user-focused engineering culture and fulfilling our mission: watch anywhere from anywhere.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Help define and implement features for the Dropcam service</li>
+<li>
+Redefine and iterate on the current website experience</li>
+<li>
+Architect and own major portions of the site</li>
+<li>
+Analyze and solve performance issues</li>
+<li>
+Mine and present our internal data and metrics so we can continue improving</li>
+<li>
+Investigate bugs and diagnose issues</li>
+<li>
+Share your knowledge with the team by conducting design and code reviews</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Experience with database-backed web applications, including schema development and scaling issues</li>
+<li>
+Deep understanding of MVC frameworks and designing web architectures</li>
+<li>
+Proficient in data structures and algorithms</li>
+<li>
+Fluent in HTML, CSS, and JavaScript</li>
+<li>
+A degree in computer science or related technical discipline, or the equivalent</li>
+<li>
+Strong communication and documentation skills</li>
+</ul>
+<p>
+<strong>Nice to Have</strong></p>
+<ul>
+<li>
+Proficient in Python</li>
+<li>
+Proficient in Pylons web framework</li>
+<li>
+Proficient in jQuery JavaScript framework</li>
+<li>
+Experience with various social APIs, including Facebook and Twitter</li>
+<li>
+Experience testing for the web (Selenium, unit testing, etc.)</li>
+</ul>
+<p>
+<strong>More About Dropcam</strong></p>
+<p>
+Dropcam (http://www.dropcam.com) is a venture-backed San Francisco startup building a consumer-focused, web-connected internet camera focused on the home monitoring market.&nbsp; Our goal is to help you watch the things you love from anywhere in the world and make sure they&rsquo;re safe and sound.</p>
+<p>
+The company&#39;s first product, Dropcam HD, was announced at CES 2012 to rave reviews and media coverage.&nbsp; The Dropcam HD pairs with an online service that provides cloud-based recording and alert notifications.&nbsp; Users watch video of their children from work, their homes and cars while on vacation, and their businesses when relaxing over the weekend.</p>
+<p>
+Dropcam offers a long list of benefits, including:</p>
+<p>
+&nbsp;</p>
+<ul>
+<li>
+competitive base salaries</li>
+<li>
+pre-IPO stock options</li>
+<li>
+medical and dental benefits</li>
+<li>
+breakfast and catered lunch daily</li>
+<li>
+an amazing 17th floor view overlooking San Francisco</li>
+<li>
+your favorite flavor of Keurig K-cups for coffee</li>
+<li>
+really nice folks building a company to be proud of</li>
+</ul>
+<p>
+We&rsquo;re a small team developing the next great consumer gadget &ndash; join us in making it a reality!</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/dropcam/aAjQNG"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120322204345_PVWYIWWHBQN8RYHA]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Product Manager (Software)]]></title>
+			<department><![CDATA[Product]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://dropcam.theresumator.com/apply/vMczLG/Product-Manager-Software.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94105]]></postalcode>
+			<description><![CDATA[<p>
+Dropcam (http://www.dropcam.com) is making the next great consumer gadget - a user-centric web-connected video camera you watch from anywhere. &nbsp;Use your smartphone to check in on your baby, pets, home, or small business.</p>
+<p>
+It sounds easy, but making a stable, highly available media streaming system that&#39;s easy enough for mom and dad to use is hard.</p>
+<p>
+If you&#39;re up for interesting problems at a startup building a real mass-market product,&nbsp;we&rsquo;d love your help developing a proud, user-focused engineering culture and fulfilling our mission: watch anywhere from anywhere.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Contribute to company-wide strategic direction and translate that into concrete product objectives</li>
+<li>
+Build buy-in for product vision and features</li>
+<li>
+Drive the full product development cycle&nbsp;while working with engineering, design, marketing, support, and more</li>
+<li>
+Define methods for quantifying success and ensure that projects have a clear goal</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+BA/BS in Computer Science or a related technical field</li>
+<li>
+Minimum of five years product management experience with consumer-facing Internet products and technologies</li>
+<li>
+Ability to plan and drive execution of go-to-market strategies</li>
+<li>
+Track record of growing a product from concept to success</li>
+<li>
+Strong interpersonal skills and ability to work well in a team environment</li>
+<li>
+Exceptional communication and presentation skills</li>
+</ul>
+<p>
+<strong>Nice to Have</strong></p>
+<ul>
+<li>
+Design and engineering experience in hardware / software hybrids</li>
+<li>
+Design and engineering experience with social media and interface patterns</li>
+<li>
+Design and engineering&nbsp;experience with mobile platforms</li>
+</ul>
+<p>
+<strong>About Dropcam</strong></p>
+<p>
+Dropcam (http://www.dropcam.com) is a venture-backed San Francisco startup building a consumer-focused, web-connected internet camera focused on the home monitoring market.&nbsp; Our goal is to help you watch the things you love from anywhere in the world and make sure they&rsquo;re safe and sound.</p>
+<p>
+The company&#39;s first product, Dropcam HD, was announced at CES 2012 to rave reviews and media coverage. &nbsp;The Dropcam HD pairs with an online service that&nbsp;provides cloud-based recording and alert notifications. &nbsp;Users watch video of their children from work, their homes and cars while on vacation, and their businesses when relaxing over the weekend.</p>
+<p>
+Dropcam offers a long list of benefits, including:</p>
+<ul>
+<li>
+competitive base salaries</li>
+<li>
+pre-IPO stock options</li>
+<li>
+medical and dental benefits</li>
+<li>
+breakfast and catered lunch daily</li>
+<li>
+an amazing 17th floor view overlooking San Francisco</li>
+<li>
+your favorite flavor of Keurig K-cups for coffee</li>
+<li>
+really nice folks building a company to be proud of</li>
+</ul>
+<p>
+We&rsquo;re a small team developing the next great consumer gadget &ndash; join us in making it a reality!</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/dropcam/vMczLG"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120715043439_FPMUTME83X42RNKO]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Technical Recruiter]]></title>
+			<department><![CDATA[Administrative]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://dropcam.theresumator.com/apply/FgDIBN/Technical-Recruiter.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94105]]></postalcode>
+			<description><![CDATA[<p>
+Dropcam (http://www.dropcam.com) is making the next great consumer gadget - a user-centric web-connected video camera you watch from anywhere. Use your smartphone to check in on your baby, pets, home, or small business.</p>
+<p>
+It sounds easy, but making a stable, highly available media streaming system that&#39;s easy enough for mom and dad to use is hard.</p>
+<p>
+We&#39;re funded by Accel Partners, Menlo Ventures, Kapor Capital, and Felicis Ventures, who have backed early-stage companies like Facebook, Groupon, and Mint. &nbsp;Dropcam&#39;s offices are located in San Francisco, CA.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<p>
+Do you love the idea of helping to build a world-class engineering team?</p>
+<p>
+Are you constantly amazed by your own sourcing abilities and how you can quickly find good candidates with software experience?</p>
+<p>
+Do you have a good BS detector when speaking about technical projects and a candidate&#39;s responsibilities?</p>
+<p>
+You will be responsible for:</p>
+<ul>
+<li>
+creating detailed job descriptions while working with the engineering team to determine key criteria</li>
+<li>
+sourcing candidates and creatively finding the best fits for each role</li>
+<li>
+screening for folks who are college interns to new graduate hires to experienced developers</li>
+<li>
+preparing the hiring team for interviews and collecting feedback</li>
+<li>
+guiding candidates through the process, from introduction through accepting the offer</li>
+<li>
+helping to build Dropcam&#39;s culture and ensuring the people here are happy, friendly, and folks you love to work with</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+experience in full life cycle recruiting at a fast paced technology company</li>
+<li>
+track record of identifying and sourcing candidates that are a strong match to the requirements</li>
+<li>
+ability to work on multiple projects with ease</li>
+<li>
+strong written and verbal skills</li>
+<li>
+BA/BS degree required</li>
+</ul>
+<p>
+You know how we know you&#39;re awesome?&nbsp; You&#39;re going to email our COO using the email address he has on his personal webpage for contact.&nbsp; Tell us something unique while you&#39;re at it.</p>
+<p>
+<strong>About Dropcam</strong></p>
+<p>
+Dropcam (http://www.dropcam.com) is a venture-backed San Francisco startup building a consumer-focused, web-connected internet camera focused on the home monitoring market. Our goal is to help you watch the things you love from anywhere in the world and make sure they&rsquo;re safe and sound.</p>
+<p>
+The company&#39;s first product, Dropcam HD, was announced at CES 2012 to rave reviews and media coverage. The Dropcam HD pairs with an online service that&nbsp;provides cloud-based recording and alert notifications. Users watch video of their children from work, their homes and cars while on vacation, and their businesses when relaxing over the weekend.</p>
+<p>
+Dropcam offers a long list of benefits, including:</p>
+<ul>
+<li>
+competitive base salaries</li>
+<li>
+pre-IPO stock options</li>
+<li>
+medical and dental benefits</li>
+<li>
+breakfast and catered lunch daily</li>
+<li>
+an amazing 17th floor view overlooking San Francisco</li>
+<li>
+your favorite flavor of Keurig K-cups for coffee</li>
+<li>
+really nice folks building a company to be proud of</li>
+</ul>
+<p>
+We&rsquo;re a small team developing the next great consumer gadget &ndash; join us in making it a reality!</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/dropcam/FgDIBN"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130506232915_G3P7CCFQ8MMWQ3MB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Technical Recruiter]]></title>
+			<department><![CDATA[Administrative]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://dropcam.theresumator.com/apply/LpsUX3/Technical-Recruiter.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94105]]></postalcode>
+			<description><![CDATA[<p>
+Dropcam (http://www.dropcam.com) is making the next great consumer gadget - a user-centric web-connected video camera you watch from anywhere. Use your smartphone to check in on your baby, pets, home, or small business.</p>
+<p>
+It sounds easy, but making a stable, highly available media streaming system that&#39;s easy enough for mom and dad to use is hard.</p>
+<p>
+We&#39;re funded by Accel Partners, Menlo Ventures, Kapor Capital, and Felicis Ventures, who have backed early-stage companies like Facebook, Groupon, and Mint. &nbsp;Dropcam&#39;s offices are located in San Francisco, CA.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<p>
+Do you love the idea of helping to build a world-class engineering team?</p>
+<p>
+Are you constantly amazed by your own sourcing abilities and how you can quickly find good candidates with software experience?</p>
+<p>
+Do you have a good BS detector when speaking about technical projects and a candidate&#39;s responsibilities?</p>
+<p>
+You will be responsible for:</p>
+<ul>
+<li>
+creating detailed job descriptions while working with the engineering team to determine key criteria</li>
+<li>
+sourcing candidates and creatively finding the best fits for each role</li>
+<li>
+screening for folks who are college interns to new graduate hires to experienced developers</li>
+<li>
+preparing the hiring team for interviews and collecting feedback</li>
+<li>
+guiding candidates through the process, from introduction through accepting the offer</li>
+<li>
+helping to build Dropcam&#39;s culture and ensuring the people here are happy, friendly, and folks you love to work with</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+experience in full life cycle recruiting at a fast paced technology company</li>
+<li>
+track record of identifying and sourcing candidates that are a strong match to the requirements</li>
+<li>
+ability to work on multiple projects with ease</li>
+<li>
+strong written and verbal skills</li>
+<li>
+BA/BS degree required</li>
+</ul>
+<p>
+You know how we know you&#39;re awesome?&nbsp; You&#39;re going to email our COO using the email address he has on his personal webpage for contact.&nbsp; Tell us something unique while you&#39;re at it.</p>
+<p>
+<strong>About Dropcam</strong></p>
+<p>
+Dropcam (http://www.dropcam.com) is a venture-backed San Francisco startup building a consumer-focused, web-connected internet camera focused on the home monitoring market. Our goal is to help you watch the things you love from anywhere in the world and make sure they&rsquo;re safe and sound.</p>
+<p>
+The company&#39;s first product, Dropcam HD, was announced at CES 2012 to rave reviews and media coverage. The Dropcam HD pairs with an online service that&nbsp;provides cloud-based recording and alert notifications. Users watch video of their children from work, their homes and cars while on vacation, and their businesses when relaxing over the weekend.</p>
+<p>
+Dropcam offers a long list of benefits, including:</p>
+<ul>
+<li>
+competitive base salaries</li>
+<li>
+pre-IPO stock options</li>
+<li>
+medical and dental benefits</li>
+<li>
+breakfast and catered lunch daily</li>
+<li>
+an amazing 17th floor view overlooking San Francisco</li>
+<li>
+your favorite flavor of Keurig K-cups for coffee</li>
+<li>
+really nice folks building a company to be proud of</li>
+</ul>
+<p>
+We&rsquo;re a small team developing the next great consumer gadget &ndash; join us in making it a reality!</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/dropcam/LpsUX3"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130706164624_NBUB86IN6KF6Q1BC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Online Marketing Manager]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[Marketing]]></team>
+			<url><![CDATA[http://dropcam.theresumator.com/apply/eCkENK/Senior-Online-Marketing-Manager.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94105]]></postalcode>
+			<description><![CDATA[<p>
+Dropcam is seeking a Senior Online Marketing Manager to manage all aspects of the dropcam.com store. You&rsquo;ll be responsible for all acquisition and retention marketing, site and store design and sales on dropcam.com. Working across the company with marketing, operations, engineering, product and customer relations teams you&rsquo;ll ensure customers have an amazing experience with Dropcam.</p>
+<p>
+<strong>RESPONSIBILITIES</strong></p>
+<ul>
+<li>
+Design, expand, and optimize all online marketing programs (SEM, Affiliate, SEO, social display, mobile, and others) to acquire new customers, increase retention of current subscribers, and drive profitable sales.</li>
+<li>
+Day-to-day management of all aspects online marketing programs - execution, optimization, and reporting.</li>
+<li>
+Stay current on new marketing technologies, opportunities and best practices and make recommendations for adoption</li>
+<li>
+Optimize and develop SEM and SEO campaigns utilizing outside agencies and internal resources.</li>
+<li>
+Use Google Analytics, Mixpanel and other technologies to provide detailed site reporting and measure campaign effectiveness</li>
+<li>
+Provide recommendations and manage the process for site updates to improve customer experience, analytics and conversion</li>
+</ul>
+<p>
+<strong>REQUIREMENTS</strong></p>
+<ul>
+<li>
+proven experience building high ROI online marketing programs</li>
+<li>
+Experience with SEM, SEO, display, social media, affiliate programs and mobile advertising</li>
+<li>
+Extremely comfortable with ecommerce technology including web analytics, ad tracking, A/B testing, and tag management</li>
+<li>
+A natural curiosity about what drives conversions</li>
+<li>
+Creative and analytical thinker with strong communication skills</li>
+<li>
+Passion for consumer products</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/dropcam/eCkENK"></script>]]></buttons>
+		</job>
+	</jobs>

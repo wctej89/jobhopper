@@ -1,0 +1,450 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[InsightSquared]]></company>
+			<job>
+			<id><![CDATA[job_20120322130645_TGJOUY3MDFQ6JM0M]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://insightsquared.theresumator.com/apply/5EZJKH/Software-Engineer.html]]></url>
+			<city><![CDATA[Cambridge]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02139]]></postalcode>
+			<description><![CDATA[<p>
+Come use your development skills to change the way small businesses run!</p>
+<p>
+<strong>About Us</strong></p>
+<p>
+InsightSquared is a well-funded Cambridge startup. We&#39;re building a simple yet powerful app that helps small businesses make smarter decisions with data from dozens and ultimately hundreds of sources. We help them grow their business and take down their bigger, slower competition.</p>
+<p>
+We assemble in small product teams that work fast, have fun, and ship often. Your team of engineering, product, and creative peers will drive the operational and strategic decisions needed to move forward.&nbsp;We build on a modern platform (Python/Django). We ship code to production not just daily, but a dozen+ times per day. We test quickly, learn fast, iterate fast, and focus on code that matters.</p>
+<p>
+Please check out <a href="http://www.insightsquared.com/2012/09/how-we-roll-introduction/">our dev blog</a>&nbsp;to get a feeling for our culture. But don&#39;t trust us when we say we have the best culture in town. InsightSquared was named by Boston Business Journal in the top 25 small company <a href="http://bit.ly/YsWIrv">Best Places to Work in Mass</a>. Drop by Friday after work for a craft brew and try to whip our CTO in ping pong.</p>
+<p>
+<strong>If you were here this week, you would have&hellip;</strong></p>
+<ul>
+<li>
+Pushed a few of our 75 continuous deployments (yes, you&#39;ll be deploying your first morning on the job)</li>
+<li>
+Cranked out a new screen for testing with customers that uses a new data visualization approach</li>
+<li>
+Built a dynamic settings screen using CoffeeScript and JQuery</li>
+<li>
+Used RPython to gain 20X performance improvement in our feed processing</li>
+<li>
+Evaluate Redis to replace memcached and serve as the backend for a Celery task queue</li>
+<li>
+Hacked the Django model to allow client compartmentalization to allow multiple login access to the data structures</li>
+<li>
+Used the Google Analytics API to add a customer engagement marketing report</li>
+<li>
+Pushed the envelope by setting a new high score in Warning Forever on our custom built arcade machine</li>
+</ul>
+<p>
+<strong>About You</strong></p>
+<ul>
+<li>
+You are a fearless engineer with great talent that is only eclipsed by your scrappiness</li>
+<li>
+You have a strong, insatiable desire to learn and hone your craft</li>
+<li>
+You have a passion for building and shipping products that people love to use</li>
+<li>
+You have experience with or an interest in learning Python/Django</li>
+<li>
+You have a great positive attitude and enjoy working with a team of like-minded folks</li>
+<li>
+You would like to work in Cambridge&nbsp;(this is not a remote job)</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/insightsquared/5EZJKH"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120402153007_DCTLCCRUPMPFKRC8]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineering Intern / Co-op]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://insightsquared.theresumator.com/apply/NrjnE7/Software-Engineering-Intern-Coop.html]]></url>
+			<city><![CDATA[Cambridge]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02139]]></postalcode>
+			<description><![CDATA[<p>
+&nbsp;</p>
+<p>
+<strong>InsightSquared has filled all engineering intern positions for 2013. But feel free to post your resume to stay in touch for 2014. We will resume recruiting for interns in the fall.</strong></p>
+<p>
+&nbsp;</p>
+<p>
+Come tune your development skills to change the way small businesses run!</p>
+<p>
+<strong>About Us</strong></p>
+<p>
+InsightSquared is a well-funded Cambridge startup. We&#39;re building a simple yet powerful app that helps small businesses make smarter decisions with data from dozens and ultimately hundreds of sources. We help them grow their business and take down their bigger, slower competition.</p>
+<p>
+We build on a modern platform (Python/Django). We ship code to production not just daily, but a dozen+ times per day. We test quickly, learn fast, iterate fast, and focus on code that matters. Your code *will* see the light of day, and fast.</p>
+<p>
+You will not feel like an intern. You will have an impact. You will be a full member of a scrum team. You will write and deploy code to production on your first day.</p>
+<p>
+Please check out <a href="http://www.insightsquared.com/2012/09/how-we-roll-introduction/">our dev blog</a> to get a feeling for our culture. But don&#39;t trust us when we say we have the best culture in town. InsightSquared was named by Boston Business Journal in the top 25 small company <a href="http://bit.ly/YsWIrv">Best Places to Work in Mass</a>. Drop by Friday after work for a craft brew and try to whip our CTO in ping pong.</p>
+<p>
+<strong>If you were here this week, you would have&hellip;</strong></p>
+<ul>
+<li>
+Coded a handful of our 75 releases to production</li>
+<li>
+Cranked out a customer facing screen that uses data visualization in a new and exciting way</li>
+<li>
+Built a dynamic settings screen using CoffeeScript and JQuery</li>
+<li>
+Used RPython to gain 20X performance improvement in our feed processing</li>
+<li>
+Hacked the Django model to support client compartmentalization</li>
+<li>
+Learned about running a startup directly from our three awesome co-founders</li>
+<li>
+Honed your ping pong skills against some very competitive (and no so competitive) players</li>
+<li>
+Pushed the envelope by setting a new high score in Warning Forever on our custom built arcade machine</li>
+</ul>
+<p>
+<strong>About You</strong></p>
+<ul>
+<li>
+You are a fearless engineer with great talent that is only eclipsed by your scrappiness</li>
+<li>
+You have a strong, insatiable desire to learn and hone your craft</li>
+<li>
+Your CS degree is completed or in progress</li>
+<li>
+You have experience with or an interest in learning Python/Django</li>
+<li>
+You have a great positive attitude and enjoy working with a team of like-minded folks</li>
+<li>
+You would like to work in Cambridge (this is not a remote job)</li>
+</ul>
+]]></description>
+			<type><![CDATA[Internship to Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/insightsquared/NrjnE7"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120402153527_TM8MP2SMRLSPUCAQ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Customer Engagement Specialist]]></title>
+			<department><![CDATA[Customer Engagement]]></department>
+			<team><![CDATA[Chaps]]></team>
+			<url><![CDATA[http://insightsquared.theresumator.com/apply/IQ3DRH/Customer-Engagement-Specialist.html]]></url>
+			<city><![CDATA[Cambridge]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02139]]></postalcode>
+			<description><![CDATA[<h4>
+<strong>In a Nutshell</strong></h4>
+<p>
+Come throw yourself in the middle of a startup with a get-stuff-done attitude. You&#39;ll help us bridge the gap between the technical details of our software, the nuances of data analysis, and business-minded folks like sales reps and customers. If you&#39;re comfortable with both technology and people, and if it gets your blood flowing to use data analysis to make an impact, then this position is right up your alley.</p>
+<h4>
+<strong>About Us</strong></h4>
+<p>
+InsightSquared is a well-funded Cambridge start-up going after a $2.5B market opportunity for data intelligence for small &amp; medium businesses. Several hundred companies have signed on to date as subscribers to our SAAS business reporting software. Our <a href="http://www.insightsquared.com/about/management-team/">management team</a> has previous experience building successful software products at companies like <a href="http://salesforce.com" target="_blank">Salesforce</a>, <a href="http://akamai.com" target="_blank">Akamai</a>, <a href="http://hubspot.com" target="_blank">HubSpot</a>, <a href="http://elance.com" target="_blank">Elance</a>, <a href="http://bzzagent.com">BzzAgent</a>, and <a href="http://amazon.com">Amazon.com</a>.</p>
+<h4>
+<strong>Job Responsibilities</strong></h4>
+<ul>
+<li>
+Adapt and explain reports for each customer so that InsightSquared will make a difference in their business, by learning more about their data than they know themselves, digging past their initial requests to understand their underlying needs, and putting all of that together to use InsightSquared&rsquo;s reporting software creatively</li>
+<li>
+Troubleshoot data that&rsquo;s appearing in an unexpected way and devise a solution that uses the most effective combination of configuration changes, work-arounds, and help from software engineers</li>
+<li>
+Uncover the aspects of InsightSquared that should be improved, using your perspective as one of the few folks that touch both the technical and non-technical aspects of the customer experience</li>
+<li>
+Switch smoothly between all the languages of a software company, and know the right times to use each:
+<ul>
+<li>
+The sales team and customers speak in requests, needs, and priorities</li>
+<li>
+Software engineers speak in product specs, software components, and Agile project management</li>
+<li>
+The software and database speak in Python and SQL</li>
+</ul>
+</li>
+</ul>
+<h4>
+<strong><span style="font-size: 1em;">About You</span></strong></h4>
+<ul>
+<li>
+Personable, clear, and concise communication style via email, on the phone, and in person</li>
+<li>
+Experience working with data sets in Excel</li>
+<li>
+Experience not necessary, but a plus: SQL, UNIX, Python</li>
+<li>
+You have an instinct for organization, even (and especially) when you have many things going on at once</li>
+<li>
+You&rsquo;re high wattage and hungry to learn more</li>
+<li>
+You have a great positive attitude and enjoy working with a team of like-minded folks</li>
+<li>
+Based here in Boston (this is not a remote job)</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/insightsquared/IQ3DRH"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130228234656_HGYGBNWADRTXGZSR]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Inside Sales Representative]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[Sales]]></team>
+			<url><![CDATA[http://insightsquared.theresumator.com/apply/MY5aaT/Inside-Sales-Representative.html]]></url>
+			<city><![CDATA[Cambridge]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02139]]></postalcode>
+			<description><![CDATA[<p>
+<strong>InsightSquared</strong> is a fast growing startup that&rsquo;s reinventing the way businesses are run and terrorizing the traditional BI establishment.<br />
+&bull; We&rsquo;re a SaaS company with a fantastic product that is changing how sales teams are run<br />
+&bull; We&rsquo;re funded by a team of great investors who believe in our vision. The list includes Salesforce.com (we&rsquo;re the only analytics company that can say that), Atlas and Bessemer.<br />
+&bull; We&#39;re based in Cambridge, MA</p>
+<p>
+Our product is great. Our market is huge. We&#39;re looking to grow like crazy and need great people to join the sales team and get it done. We&rsquo;re looking for a rock star who can come in, learn fast, grow quickly, and drive results. This position will report to the Director of Sales.</p>
+<p>
+We get leads from marketing, our prospecting team, and our great partners. The Inside Sales Rep (ISR) will be tasked with closing deals of all sizes from these sources, and will be expected to crush quota.<br />
+<br />
+<strong>About You:</strong></p>
+<ul>
+<li>
+Quick learner, very quantitative (we&#39;re selling analytics), highly inquisitive</li>
+<li>
+Bring a lot of energy, enthusiasm and ambition to work with a strong desire to get better</li>
+<li>
+Extremely high acumen for sales</li>
+<li>
+2-6 years prior sales experience a big plus, particularly in software / SMB markets</li>
+<li>
+Strong record of success in whatever you have done</li>
+<li>
+Exceptional verbal and written communications skills</li>
+<li>
+Love crushing goals</li>
+</ul>
+<p>
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+Converting qualified leads from Marketing, Prospecting Team, and Partners to deals</li>
+<li>
+Working by phone and screen share to conduct demos and trials with prospects that turn them into happy paying customers</li>
+<li>
+Helping grow the sales team&nbsp; and build a scalable, repeatable process</li>
+<li>
+Adapting quickly to our fast-paced, dynamic organization</li>
+</ul>
+<p>
+Think you can be a top-performing ISR and a key member of our quickly-growing company? <strong>Drop us your resume and let us know why you will crush it.</strong></p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/insightsquared/MY5aaT"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130309195336_DT3WTNGUVZBGJAOB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sales Development Representative]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[Sales]]></team>
+			<url><![CDATA[http://insightsquared.theresumator.com/apply/zPAZu6/Sales-Development-Representative.html]]></url>
+			<city><![CDATA[Cambridge]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02139]]></postalcode>
+			<description><![CDATA[<p>
+<strong>InsightSquared</strong> is a fast growing startup that&rsquo;s reinventing the way businesses are run and terrorizing the traditional BI establishment.</p>
+<p>
+&bull; We&rsquo;re a SaaS company with a fantastic product that is changing how sales teams are run<br />
+&bull; We&rsquo;re funded by a team of great investors who believe in our vision. The list includes Salesforce.com (we&rsquo;re the only analytics company that can say that), Atlas and Bessemer.<br />
+&bull; We&#39;re based in Cambridge, MA</p>
+<p>
+Our product is great. Our market is huge. We&#39;re looking to grow like crazy and need great people to join the sales team and get it done. The Sales Development Representative (SDR) is a sales training role that is tasked with building pipeline and getting the word out about InsightSquared.</p>
+<p>
+This position will work directly with the entire sales team and reports to the Director of Sales. The SDR will be expected to take advantage of our extensive sales training program to hit immediate pipeline targets as well as prepare for and grow into a larger role.<br />
+<br />
+<strong>About You:</strong></p>
+<ul>
+<li>
+Quick learner, very quantitative (we&#39;re selling analytics), highly inquisitive</li>
+<li>
+Bring a lot of energy, enthusiasm and ambition to work with a strong desire to get better</li>
+<li>
+High acumen for and desire to learn&nbsp;sales</li>
+<li>
+0-2 years sales experience, particularly in software / SMB markets</li>
+<li>
+Strong record of success in whatever you have done</li>
+<li>
+Exceptional verbal and written communications skills</li>
+<li>
+Love crushing goals</li>
+</ul>
+<p>
+<br />
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+Finding new opportunities for InsightSquared and working with the Inside Sales Representative to close the deal</li>
+<li>
+Sourcing pipeline via direct outreach (phone and email) based on our prospect database and your own research</li>
+<li>
+Helping grow the sales team&nbsp; and build a scalable, repeatable process</li>
+<li>
+Completing sales training assignments and improving quickly</li>
+<li>
+Adapting quickly to our fast-paced, dynamic organization</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+Think you can be a top-performing SDR and a key member of our quickly-growing company? <strong>Drop us your resume and let us know why you will crush it.</strong></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/insightsquared/zPAZu6"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130524185915_MVJBE6VDOEC7N7G1]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[SEO Manager]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[Marketing]]></team>
+			<url><![CDATA[http://insightsquared.theresumator.com/apply/0VOHiu/SEO-Manager.html]]></url>
+			<city><![CDATA[Cambridge]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02139]]></postalcode>
+			<description><![CDATA[<p>
+The SEO Manager will be responsible for day to day management of all on-site and off-site factors of the SEO program including site optimization, link development, cross-functional collaboration, analysis and reporting. Candidate must be willing to share case studies and results from past efforts including internal site changes that led to improved rank and higher sales, link building programs that resulted in quality backlinks, and KPI&#39;s used to measure the success of an SEO program.</p>
+<p>
+<strong>Experience:</strong></p>
+<ul>
+<li>
+Have a thorough knowledge of search ranking factors and critical updates</li>
+<li>
+Familiar with industry-standard bid management and SEO software</li>
+<li>
+Have personally built and optimized a $10k+ per month pay-per-click account that met or exceeded specific business rules (such as CPA goals)</li>
+<li>
+Have managed a team of content writers, link builders, and social media marketers</li>
+<li>
+Comfortable working with API&rsquo;s, advanced and integrated reporting</li>
+</ul>
+<p>
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+Day-to-day management of paid and natural search engine marketing campaigns</li>
+<li>
+Oversight and management of onsite and offsite SEO resources</li>
+<li>
+Research and strategic planning for paid and natural search campaigns</li>
+<li>
+Staying abreast of (and sharing) changes in search engine signals and market share</li>
+<li>
+Improving and enhancing boilerplate project lifecycles based on signal changes</li>
+<li>
+Several solid years of SEO experience, principles and optimization variables</li>
+<li>
+Working knowledge of Google Analytics &amp; Webmaster Tools</li>
+<li>
+Experience with Advanced SEO guideline, tracking/reporting tools, algorithms, analysis and ranking factors</li>
+<li>
+Analytical and critical thinking skills</li>
+<li>
+Managed local campaigns in targeted markets</li>
+<li>
+Experience in link building campaigns and the ability to interpret data</li>
+<li>
+Basic web content/design knowledge and how they relate to SEO functions</li>
+<li>
+Strong skills in development and the ability to convey knowledge to clients</li>
+<li>
+Bachelors in Marketing or Computer Science is highly desired</li>
+<li>
+Very strong communication and organizational skills in a fast paced environment</li>
+</ul>
+<p>
+<strong>What you will do:</strong></p>
+<ul>
+<li>
+Extensive Search Engine Optimization / SEO work</li>
+<li>
+Also optimize PPC and Social Media</li>
+<li>
+Improving organic search growth for the company</li>
+<li>
+Developing and executing SEO strategies</li>
+<li>
+Perform regular site audit and optimization</li>
+<li>
+Measures for SEO success and be able to report results</li>
+<li>
+Manage tactical SEO initiatives including on-site optimizations, keyword analysis, web content development, link-building, site auditing and competitive analysis</li>
+<li>
+Implementation of approved deliverables</li>
+<li>
+Manage and develop SEO Analysts on techniques and strategies</li>
+<li>
+Work closely with out copywriters</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/insightsquared/0VOHiu"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130617165128_U8A0U9XZEGSKEOSI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Marketing Operations Specialist]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[Marketing]]></team>
+			<url><![CDATA[http://insightsquared.theresumator.com/apply/w3YPj8/Marketing-Operations-Specialist.html]]></url>
+			<city><![CDATA[Cambridge]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02139]]></postalcode>
+			<description><![CDATA[<p>
+Fast-growing Cambridge startup is looking for a marketing operations professional to assist with the company&#39;s extensive marketing automation and lead processing systems. The Marketing Operations Specialist role works closely with the Content and Sales Ops roles to execute and maintain marketing automation programs that move prospects through our closed loop sales cycle.</p>
+<p>
+<strong>Responsibilities include</strong>:</p>
+<ul>
+<li>
+Running campaigns, such as webinars or content programs, from the marketing automation system through to our CRM</li>
+<li>
+Analyzing campaign performance to help the team identify the highest ROI programs</li>
+<li>
+Maintain the process of delivering marketing qualified leads to our sales team</li>
+<li>
+Optimize lead nurturing and lead scoring programs</li>
+<li>
+Support execution of marketing activities by building and deploying emails, landing pages, and forms in our marketing automation system</li>
+<li>
+Generate regular campaign reports and summaries</li>
+</ul>
+<p>
+We&#39;re looking for candidates with an analytical mindset and a tenacious and proactive attitude. You must be well organized and have excellent written and verbal communication skills. We strongly recommend that you have a working knowledge of HTML-- experience with a marketing automation tool such as Pardot, Marketo, or Eloqua is a plus.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/insightsquared/w3YPj8"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,345 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[babyTEL Inc.]]></company>
+			<job>
+			<id><![CDATA[job_20130419141256_ACC5G5IZWAKGMLGI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Développeur Web UI/UX]]></title>
+			<department><![CDATA[2]]></department>
+			<team><![CDATA[Development]]></team>
+			<url><![CDATA[http://babytel.theresumator.com/apply/Rx5yjT/Dveloppeur-Web-UIUX.html]]></url>
+			<city><![CDATA[Montreal]]></city>
+			<state><![CDATA[QUEBEC, CANADA]]></state>
+			<country><![CDATA[Canada]]></country>
+			<postalcode><![CDATA[H3G1T7]]></postalcode>
+			<description><![CDATA[<p>
+&nbsp;</p>
+<p>
+<u><strong>D&eacute;veloppeur Web UI/UX</strong></u><br />
+Lieu : Montr&eacute;al, Qu&eacute;bec, Canada</p>
+<p>
+babyTEL offre aux membres de son &eacute;quipe une formidable occasion de rester &agrave; la pointe des innovations technologiques dans leur domaine de travail, et de jouer un r&ocirc;le important dans des projets passionnants qui fa&ccedil;onnent le futur de l&#39;industrie de la t&eacute;l&eacute;communication. babyTEL procure un excellent environnement de travail, un salaire concurrentiel et un ensemble d&rsquo;avantages, ainsi que le potentiel de faire &eacute;voluer votre carri&egrave;re.&nbsp; De plus nos bureaux sont situ&eacute;s au c&oelig;ur du centre-ville de Montr&eacute;al &agrave; quelques pas du m&eacute;tro et des gares de trains.</p>
+<p>
+Si vous &ecirc;tes un candidat passionn&eacute;, innovateur et enthousiaste, vous trouverez la culture de babyTEL&nbsp; pleine de d&eacute;fis et gratifiante. Venez travailler pour l&rsquo;un des leaders technologiques sur le march&eacute; actuel des exploitants de r&eacute;seaux.</p>
+<p>
+<strong>&Agrave; propos de babyTEL :</strong><br />
+Guid&eacute; par l&#39;innovation et la passion du futur, babyTEL Inc. (www.babytel.net) est un fournisseur &eacute;volutif de Service T&eacute;l&eacute;phonique haut de gamme par Internet et d&#39;applications mobiles et sociales. babyTEL est un joueur cl&eacute; sur le march&eacute; &eacute;mergent de T&eacute;l&eacute;phonie par Internet.</p>
+<p>
+&nbsp;</p>
+<p>
+<br />
+<strong>R&eacute;sum&eacute; des fonctions</strong></p>
+<p>
+Programmer pour babyTEL des ouvertures de session ainsi que des sites, des applications et des portails Web qui r&eacute;pondent aux exigences de l&rsquo;entreprise et am&eacute;liorent grandement l&rsquo;exp&eacute;rience de l&rsquo;utilisateur.<br />
+<br />
+<strong>Principales responsabilit&eacute;s</strong><br />
+&bull; Concevoir, tester, documenter et lancer de nouveaux sites et des applications Web au moyen de diff&eacute;rents outils, langages et diverses techniques;<br />
+&bull; Entretenir et am&eacute;liorer l&rsquo;int&eacute;gration Web au moyen de syst&egrave;mes tiers;<br />
+&bull; Diagnostiquer des pannes, effectuer des tests et r&eacute;gler des probl&egrave;mes de sites Web;<br />
+&bull; Faire en sorte que les projets Web r&eacute;pondent aux normes de l&rsquo;entreprise.</p>
+<p>
+<strong>Exigences li&eacute;es au poste : formation, exp&eacute;rience et aptitudes techniques</strong><br />
+&bull; Dipl&ocirc;me universitaire de premier cycle (ou l&rsquo;&eacute;quivalent) en informatique ou dans un domaine connexe;<br />
+&bull; De 3 &agrave; 5 ans d&rsquo;exp&eacute;rience pratique dans un milieu de cr&eacute;ation de pages Web;<br />
+&bull; Dossier de r&eacute;alisations remarquable;<br />
+&bull; Exp&eacute;rience dans l&rsquo;industrie de la technologie et des t&eacute;l&eacute;communications, un atout.</p>
+<p>
+<strong>Comp&eacute;tences requises</strong><br />
+&bull; Capable de comprendre rapidement les exigences li&eacute;es aux projets, de cibler les occasions et les risques li&eacute;s au d&eacute;veloppement et de travailler en &eacute;troite collaboration avec l&rsquo;&eacute;quipe de direction de babyTEL.<br />
+&bull; Excellentes aptitudes en communication (&eacute;crites et verbales), en gestion du temps, en d&eacute;pannage, en analyse et en relations humaines.</p>
+<p>
+<strong>Exigences techniques</strong><br />
+&bull; PHP<br />
+&bull; MySQL<br />
+&bull; Vanilla Javascript / jQuery (compr&eacute;hension profonde et exhaustive du langage JavaScript)<br />
+&bull; HTML 5 (p. ex. SVG, LocalStorage, TouchEvents)<br />
+&bull; CSS3<br />
+&bull; Protocole HTTP<br />
+&bull; Services de transfert d&rsquo;&eacute;tat repr&eacute;sentationnel (REST)<br />
+&bull; Contr&ocirc;le des versions : SVN, Git</p>
+<p>
+<strong>Autres habilet&eacute;s utiles</strong><br />
+&bull; Exp&eacute;rience avec Wordpress ou un syst&egrave;me de gestion du contenu (SGC)<br />
+&bull; AngularJS ou outils similaires<br />
+&bull; Exp&eacute;rience dans un milieu ou une agence Web<br />
+&bull; ASP, .NET&nbsp; ou C#<br />
+&bull; XHTML pour l&rsquo;interface utilisateur, langage Javascript orient&eacute; objets (OO JS) et Ajax<br />
+&bull; Photoshop<br />
+&bull; Proc&eacute;d&eacute;s d&rsquo;int&eacute;gration et de tests unitaires</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/babytel/Rx5yjT"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130211184610_2LZAA7IKMT1FMQ9G]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[VoIP Systems/Network Architect]]></title>
+			<department><![CDATA[1]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://babytel.theresumator.com/apply/XcGaUx/VoIP-SystemsNetwork-Architect.html]]></url>
+			<city><![CDATA[Montreal]]></city>
+			<state><![CDATA[Quebec]]></state>
+			<country><![CDATA[Canada]]></country>
+			<postalcode><![CDATA[H3G 1T7]]></postalcode>
+			<description><![CDATA[<p>
+Description:<br />
+babyTEL offers it&#39;s team members a great opportunity to stay on the leading edge of the new technological innovations in their field of work and play an important role in exciting projects shaping the future of the telecommunications industry.&nbsp; babyTEL provides a competitive salary and benefits package &amp; the potential to expand your career.&nbsp; We are located in the heart of downtown Montreal (near the metro and train stations).</p>
+<p>
+If you are a passionate, innovative &amp; enthusiastic candidate, you&rsquo;ll find babyTEL&rsquo;s culture to be exciting, challenging and rewarding. Come work for one of the technological leaders in today&rsquo;s telecommunications carrier market.&nbsp;&nbsp;&nbsp;</p>
+<p>
+About babyTEL:<br />
+Driven by innovation and a passion for the future, babyTEL Inc. (www.babytel.net) is a growing provider of fully featured VoIP Telephone Service, as well as mobile &amp; social applications and is well positioned in the emerging Internet Telephony market.</p>
+<p>
+Assignment and roles:<br />
+&bull; Works closely with different departments and management team on projects related to the design, development, deployment, monitoring and evaluation of new products and services<br />
+&bull; Assist in the review, analysis and evaluation of deployed solutions<br />
+&bull; Review and elaborate migration plans for systems and network equipment infrastructure including site backups and recovery processes.<br />
+&bull; Plan, deploy and maintain highly available networking equipment and optimized it for VoIP/FoIP<br />
+&bull; Troubleshoot VoIP issues including compatibility, performance and quality of service<br />
+&bull; Install, test, troubleshoot, monitor and support different VoIP equipment in our labs and production network.<br />
+&bull; Review and optimize&nbsp; security on systems and network equipment<br />
+&bull; Assist and provide 3rd level support to operation and support team on complex networking and VoIP issues.</p>
+<p>
+Qualifications:<br />
+&bull; Bachelor&rsquo;s degree in Computer Science, Telecommunications or a related field<br />
+&bull; 7 years + of experience in networking and VoIP technologies<br />
+&bull; Security and networking certifications is an asset<br />
+&bull; Solid experience in IP switching and routing technologies and network equipment<br />
+&bull; Hand-on in high available hardware/software and virtual environments<br />
+&bull; Strong knowledge and experience of SIP based VoIP protocol and various VoIP equipment.<br />
+&bull; Excellent troubleshooting skills and knowledge of fundamental concepts, practices and procedures in testing and debugging.<br />
+&bull; Proficiency with the Linux (administration, maintenance, troubleshooting, monitoring, scripting) and virtualization technologies<br />
+&bull; Programming knowledge is an asset<br />
+&bull; Excellent interpersonal and professional communication skills</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/babytel/XcGaUx"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130211184734_NA3YGEYMLPDQSSJ2]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Architecte  de Systèmes/Réseau de Téléphonie par Internet]]></title>
+			<department><![CDATA[2]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://babytel.theresumator.com/apply/c6uvWD/Architecte-De-SystmesRseau-De-Tlphonie-Par-Internet.html]]></url>
+			<city><![CDATA[Montreal]]></city>
+			<state><![CDATA[Quebec]]></state>
+			<country><![CDATA[Canada]]></country>
+			<postalcode><![CDATA[H3G 1T7]]></postalcode>
+			<description><![CDATA[<p>
+Description:<br />
+babyTEL offre aux membres de son &eacute;quipe une formidable occasion de rester &agrave; la pointe des innovations technologiques dans leur domaine de travail, et de jouer un r&ocirc;le important dans des projets passionnants qui fa&ccedil;onnent le futur de l&#39;industrie de la t&eacute;l&eacute;communication. babyTEL procure un excellent environnement de travail, un salaire concurrentiel et un ensemble d&rsquo;avantages, ainsi que le potentiel de faire &eacute;voluer votre carri&egrave;re.&nbsp; De plus nos bureaux sont situ&eacute;s au c&oelig;ur du centre-ville de Montr&eacute;al &agrave; quelques pas du m&eacute;tro et des gares de trains.</p>
+<p>
+Si vous &ecirc;tes un candidat passionn&eacute;, innovateur et enthousiaste, vous trouverez la culture de babyTEL&nbsp; pleine de d&eacute;fis et gratifiante. Venez travailler pour l&rsquo;un des leaders technologiques sur le march&eacute; actuel des exploitants de r&eacute;seaux.</p>
+<p>
+&Agrave; propos de babyTEL :<br />
+Guid&eacute; par l&#39;innovation et la passion du futur, babyTEL Inc. (www.babytel.net) est un fournisseur &eacute;volutif de Service T&eacute;l&eacute;phonique haut de gamme par Internet et d&#39;applications mobiles et sociales. babyTEL est un joueur cl&eacute; sur le march&eacute; &eacute;mergent de T&eacute;l&eacute;phonie par Internet.</p>
+<p>
+T&acirc;ches :<br />
+&bull; Travailler &eacute;troitement avec diff&eacute;rent d&eacute;partements et l&#39;&eacute;quipe de direction sur des projets li&eacute;s &agrave; la conception, &agrave; l&rsquo;&eacute;laboration, au d&eacute;ploiement, &agrave; la surveillance et &agrave; l&#39;&eacute;valuation de nouveaux produits et services.<br />
+&bull; Assister dans la r&eacute;vision, l&#39;analyse et l&#39;&eacute;valuation des solutions d&eacute;ploy&eacute;es<br />
+&bull; Revoir et &eacute;laborer des plans de migration pour les syst&egrave;mes et l&#39;&eacute;quipement de r&eacute;seaux incluant les proc&eacute;dures de sauvegardes et de recouvrement&nbsp; en cas de d&eacute;sastre.<br />
+&bull; Planifier, d&eacute;ployer et maintenir l&#39;&eacute;quipement de r&eacute;seautique en haute accessibilit&eacute; et l&#39;optimiser pour la VoIP/FoIP<br />
+&bull; D&eacute;panner les probl&egrave;mes de t&eacute;l&eacute;phonie par internet comprenant ceux de compatibilit&eacute;, de performance et de qualit&eacute; du service<br />
+&bull; Installer, tester, d&eacute;panner et assister diff&eacute;rents &eacute;quipements de T&eacute;l&eacute;phonie par Internet dans nos laboratoires et notre r&eacute;seau de production.<br />
+&bull; Revoir et optimiser la s&eacute;curit&eacute; des syst&egrave;mes et de l&#39;&eacute;quipement du r&eacute;seau.<br />
+&bull; Assister et fournir le support technique niveau 3 &agrave; notre &eacute;quipe de support et d&#39;op&eacute;ration sur des probl&egrave;mes complexes de r&eacute;seautique et des probl&egrave;mes de VoIP</p>
+<p>
+Qualifications :<br />
+&bull; Baccalaur&eacute;at en Sciences Informatiques, T&eacute;l&eacute;communications ou un champ connexe<br />
+&bull; 7+ ans d&#39;exp&eacute;rience dans la r&eacute;seautique et technologies de voix sur IP.<br />
+&bull; Une certification en s&eacute;curit&eacute; et r&eacute;seautique est un atout.<br />
+&bull; Solide exp&eacute;rience des technologies IP d&#39;interconnexion et de routage ainsi que des &eacute;quipements de r&eacute;seautique.<br />
+&bull; Grande connaissance de la t&eacute;l&eacute;phonie par Internet bas&eacute; sur SIP et de divers &eacute;quipements VoIP.<br />
+&bull; Excellentes comp&eacute;tences dans le d&eacute;pannage, et connaissance des concepts, des pratiques et des proc&eacute;dures fondamentaux dans les tests et le d&eacute;bogage.<br />
+&bull; Comp&eacute;tences avec les syst&egrave;mes d&#39;exploitation Linux (administration, entretien, d&eacute;pannage, scripting) et technologies de virtualisation<br />
+&bull; Connaissance en programmation est un atout.<br />
+&bull; Excellente&nbsp; habilet&eacute;s interpersonnelles et savoir communiquer de fa&ccedil;on professionnelle</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/babytel/c6uvWD"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130408193427_PGMJBCEBKBKQ1USQ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Developer/ UI/UX Developer]]></title>
+			<department><![CDATA[1]]></department>
+			<team><![CDATA[Development]]></team>
+			<url><![CDATA[http://babytel.theresumator.com/apply/Y21ucx/Web-Developer-UIUX-Developer.html]]></url>
+			<city><![CDATA[Montreal]]></city>
+			<state><![CDATA[Quebec]]></state>
+			<country><![CDATA[Canada]]></country>
+			<postalcode><![CDATA[H3G1T7]]></postalcode>
+			<description><![CDATA[<p>
+<strong><u>Description:</u></strong><br />
+babyTEL offers it&#39;s team members a great opportunity to stay on the leading edge of the new technological innovations in their field of work and play an important role in exciting projects shaping the future of the telecommunications industry.&nbsp; babyTEL provides a competitive salary and benefits package &amp; the potential to expand your career.&nbsp; We are located in the heart of downtown Montreal (near the metro and train stations).</p>
+<p>
+If you are a passionate, innovative &amp; enthusiastic candidate, you&rsquo;ll find babyTEL&rsquo;s culture to be exciting, challenging and rewarding. Come work for one of the technological leaders in today&rsquo;s telecommunications carrier market.&nbsp;</p>
+<p>
+<u><strong>About babyTEL:</strong></u><br />
+Driven by innovation and a passion for the future, babyTEL Inc. (www.babytel.net) is a growing provider of fully featured VoIP Telephone Service, as well as mobile &amp; social applications and is well positioned in the emerging Internet Telephony market.</p>
+<p>
+<strong><u>Job Summary</u></strong>:</p>
+<p>
+Develop websites, web applications, signups, web portals for babyTEL that meet babyTEL&rsquo;s requirements and significantly improve user experience.<br />
+<br />
+<u><strong>Key Areas of Responsibility</strong></u></p>
+<ul>
+<li>
+Developing, testing, documenting and deploying new websites and&nbsp; web applications using a variety of languages, tools and techniques</li>
+<li>
+Maintaining and enhancing web integration using third-party systems</li>
+<li>
+Troubleshooting, testing and resolving website issues</li>
+<li>
+Ensuring web projects meets company standards</li>
+</ul>
+<p>
+<u><strong>Job Requirements: Education, Experience and Technical skills</strong></u></p>
+<ul>
+<li>
+Bachelor&#39;s degree (or equivalent) in computer science or a related field&nbsp;&nbsp;</li>
+<li>
+3-5 years of hands-on experience in a web development environment</li>
+<li>
+Outstanding portfolio&nbsp;</li>
+<li>
+Experience technology/telecommunications industry an asset&nbsp;&nbsp;</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Required Competencies</strong></p>
+<ul>
+<li>
+Ability to quickly understand project requirements, identify development risks and opportunities, work closely with babyTEL management.</li>
+<li>
+Excellent communication (written and verbal), time management, troubleshooting, analytical, and interpersonal skills.</li>
+</ul>
+<p>
+<strong>Technical Requirements</strong></p>
+<ul>
+<li>
+PHP</li>
+<li>
+MySQL</li>
+<li>
+Vanilla Javascript / jQuery (deep and thorough understanding of the JavaScript language)</li>
+<li>
+HTML 5 (eg. SVG, LocalStorage, TouchEvents)</li>
+<li>
+CSS3</li>
+<li>
+HTTP protocol</li>
+<li>
+RESTful services</li>
+<li>
+Version control: SVN, Git</li>
+</ul>
+<p>
+&nbsp;<strong>Bonus Skills</strong></p>
+<ul>
+<li>
+Wordpress or similar CMS experience</li>
+<li>
+AngularJS or similar frameworks</li>
+<li>
+Digital agency or dot com experience</li>
+<li>
+ASP or .NET&nbsp; or C#</li>
+<li>
+Front-End XHTML, OO JS, and Ajax</li>
+<li>
+Photoshop</li>
+<li>
+Integration and Unit Test Frameworks</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/babytel/Y21ucx"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130430144448_UBXKS0UJOEGUJXAD]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Concepteur de logiciels - Java]]></title>
+			<department><![CDATA[2]]></department>
+			<team><![CDATA[Development]]></team>
+			<url><![CDATA[http://babytel.theresumator.com/apply/orFD1W/Concepteur-De-Logiciels-Java.html]]></url>
+			<city><![CDATA[Montréal]]></city>
+			<state><![CDATA[Québec]]></state>
+			<country><![CDATA[Canada]]></country>
+			<postalcode><![CDATA[H3G 1T7]]></postalcode>
+			<description><![CDATA[<p>
+Poste: Concepteur Java<br />
+Organisation: R&amp;D &ndash; Syst&egrave;mes de production des services</p>
+<p>
+babyTEL offre aux membres de son &eacute;quipe une formidable occasion de rester &agrave; la pointe des innovations technologiques dans leur domaine de travail, et de jouer un r&ocirc;le important dans des projets passionnants qui fa&ccedil;onnent le futur de l&#39;industrie de la t&eacute;l&eacute;communication. babyTEL procure un excellent environnement de travail, un salaire concurrentiel et un ensemble d&rsquo;avantages, ainsi que le potentiel de faire &eacute;voluer votre carri&egrave;re.&nbsp; De plus nos bureaux sont situ&eacute;s au c&oelig;ur du centre-ville de Montr&eacute;al &agrave; quelques pas du m&eacute;tro et des gares de trains.</p>
+<p>
+Si vous &ecirc;tes un candidat passionn&eacute;, innovateur et enthousiaste, vous trouverez la culture de babyTEL&nbsp; pleine de d&eacute;fis et gratifiante. Venez travailler pour l&rsquo;un des leaders technologiques sur le march&eacute; actuel des exploitants de r&eacute;seaux.</p>
+<p>
+&Agrave; propos de babyTEL :<br />
+Guid&eacute; par l&#39;innovation et la passion du futur, babyTEL Inc. (www.babytel.net) est un fournisseur &eacute;volutif de Service T&eacute;l&eacute;phonique haut de gamme par Internet et d&#39;applications mobiles et sociales. babyTEL est un joueur cl&eacute; sur le march&eacute; &eacute;mergent de T&eacute;l&eacute;phonie par Internet.</p>
+<p>
+Qualifications:</p>
+<p>
+Baccalaur&eacute;at ou ma&icirc;trise en informatique ainsi que de 3 &agrave; 5 ann&eacute;es d&#39;exp&eacute;rience en d&eacute;veloppement java.<br />
+Disciplin&eacute; et m&eacute;thodique, produit un code de haute qualit&eacute;, facile &agrave; tester, utilisant l&#39;injection des d&eacute;pendances (Guice).<br />
+Utilise le d&eacute;veloppement par tests (Test Driven Development) et les objets de type Mock.<br />
+Familier avec les concepts de langages fonctionnels, incluant les lambdas.<br />
+Exp&eacute;rience des outils de contr&ocirc;le des sources (Subversion).<br />
+Poss&egrave;de une bonne maitrise des communications &eacute;crites et verbales, en fran&ccedil;ais et en englais.<br />
+<br />
+T&acirc;ches: D&eacute;velopper une grande vari&eacute;t&eacute; d&#39;applications sur une plate-forme extensible &agrave; haute disponibilit&eacute;, incluant des applications web, en r&eacute;seau, bases de donn&eacute;es et indexage distribu&eacute;es, facturation, gestion des appels, transactions, cr&eacute;ation et gestion de services, etc.&nbsp; Le travail se d&eacute;roule dans un environnement cr&eacute;atif et convivial, au sein d&#39;une petite &eacute;quipe.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/babytel/orFD1W"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130425175032_PNR18OU1LRUTCC4C]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Developer - Java]]></title>
+			<department><![CDATA[1]]></department>
+			<team><![CDATA[Development]]></team>
+			<url><![CDATA[http://babytel.theresumator.com/apply/uxWQ2e/Software-Developer-Java.html]]></url>
+			<city><![CDATA[Montréal]]></city>
+			<state><![CDATA[Québec]]></state>
+			<country><![CDATA[Canada]]></country>
+			<postalcode><![CDATA[H3G 1T7]]></postalcode>
+			<description><![CDATA[<p>
+Position: Java Developer</p>
+<p>
+Description:<br />
+babyTEL offers it&#39;s team members a great opportunity to stay on the leading edge of the new technological innovations in their field of work and play an important role in exciting projects shaping the future of the telecommunications industry.&nbsp; babyTEL provides a competitive salary and benefits package &amp; the potential to expand your career.&nbsp; We are located in the heart of downtown Montreal (near the metro and train stations).</p>
+<p>
+If you are a passionate, innovative &amp; enthusiastic candidate, you&rsquo;ll find babyTEL&rsquo;s culture to be exciting, challenging and rewarding. Come work for one of the technological leaders in today&rsquo;s telecommunications carrier market.&nbsp;&nbsp;</p>
+<p>
+About babyTEL:<br />
+Driven by innovation and a passion for the future, babyTEL Inc. (www.babytel.net) is a growing provider of fully featured VoIP Telephone Service, as well as mobile &amp; social applications and is well positioned in the emerging Internet Telephony market.</p>
+<p>
+<br />
+Organization: R&amp;D &ndash; Service Platforms</p>
+<p>
+Qualifications: B.Sc. or M.Sc. in computer science or equivalent, with 3-5 years of experience in developing java applications.</p>
+<p>
+Disciplined and methodical, produces high quality, testable code, using dependency injection (Guice).<br />
+Embraces Test Driven Development (TDD), writes dependence-free unit tests, using class mocking.<br />
+Familiarity with functional languages concepts, such as lambda expressions.<br />
+Experienced working with source control systems (Subversion).<br />
+Good written and verbal communication skills, in French and English.<br />
+Assignment:&nbsp; Develop a wide variety of applications on a scalable, high available service platform, including web applications, networking, distributed databases and indexing, billing and call rating, transaction processing, service creation and management, etc. Work in a small dynamic team with a great degree of creativity and latitude.</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/babytel/uxWQ2e"></script>]]></buttons>
+		</job>
+	</jobs>

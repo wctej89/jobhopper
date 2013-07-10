@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[The Fool s.r.l.]]></company>
+			<job>
+			<id><![CDATA[job_20100402110305_9XJMUBOGITFOVVPP]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Ruby On Rails Code Poet]]></title>
+			<department><![CDATA[The Fool s.r.l.]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://thefool.theresumator.com/apply/6ZXzzU/Ruby-On-Rails-Code-Poet.html]]></url>
+			<city><![CDATA[Milano]]></city>
+			<state><![CDATA[MI]]></state>
+			<country><![CDATA[Italy]]></country>
+			<postalcode><![CDATA[20123]]></postalcode>
+			<description><![CDATA[<pre>We are in need of someone who coud recite "Getting Real" by 37Signals and<br />dreams about working in such a team and Environment.<br />Someone who handles skillfully RoR, Mongrel, capistrano and wants to create<br />a 2M impressions per day website.<br />Someone who commits on Git at the same rate he/she wash his/her hands, who<br />wants to work in couple with the graphic designer to create<br />intuitive, simple, consistent applications: namely, smart applications for stupid<br />users, the fist one of them being the CEO :)<br />Somone who wants to do something that will make most people "Wow" by<br />using it and something that will leave a wide trail of success in every resume.<br /><br />We want innovation in the code as well: easy, powerfull, zen programming<br />is a need, not a hype.<br />He/she will work on a new social network and augmented reality project,<br />doing things he/she will unlikely find elsewhere. Really.<br />He/she will engage with systems, play with Tb of data on Amazon's S3,<br />with a few million hits daily, with a pain-in-the-ass CEO who can code<br />and is convinced to be a skilled programmer. With a few billion records<br />schedules in his database. Used for queries, of course... in realtime.<br />HE/she should have fun, like we do, and get pissed by searching the<br />damned solution demanded by the situation. We need an enthisast,<br />otherwise he/she couldn't be of the crew.<br /><br />We don't need a CODE MONKEY, we need a CODE POET.<br /><br />We're in need of:<br /></pre>
+<ul>
+<li>user experience / interaction design prowess</li>
+<li>javascript coding experience (ideally with extjs, jquery or other fashionable frameworks)</li>
+<li>rails, php, sinatra or python experience (whatever works, with not-so-slight preference for RoR)</li>
+<li>basic SQL skills (can write queries with joins)</li>
+<li>deep (DEEP) engagement in writing secure code and grasp to security concepts</li>
+</ul>
+<pre><br />...the kind of person who’d be a 1-person engineering department for a 2-person web company.<br /><br />If you think you can fit, please notify us :) </pre>]]></description>
+			<type><![CDATA[Contracted to Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/thefool/6ZXzzU"></script>]]></buttons>
+		</job>
+	</jobs>

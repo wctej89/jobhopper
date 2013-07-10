@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Tue, 9 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[BuzzBuzzHome Corp]]></company>
+			<job>
+			<id><![CDATA[job_20130204224207_IEK2HGZ6R7OGW7IS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engine]]></team>
+			<url><![CDATA[http://buzzbuzzhome.theresumator.com/apply/1gApL1/Software-Developer.html]]></url>
+			<city><![CDATA[Toronto]]></city>
+			<state><![CDATA[Ontario]]></state>
+			<country><![CDATA[Canada]]></country>
+			<postalcode><![CDATA[M6K1Z8]]></postalcode>
+			<description><![CDATA[<p>
+We are looking for a web developer keen on managing massive amounts of data. Ideal candidates will have excellent software engineering skills and enjoy designing systems that react rapidly to an influx of content uploaded by users and feeds, as well as building sites that work great on mobile and desktop browsers.</p>
+<p>
+Why Work at BuzzBuzzHome?<br />
+BuzzBuzzHome launched in 2009 and quickly become one of North America&rsquo;s most popular websites for new construction home buyers. BuzzBuzzHome connects buyers directly with sellers and provides a social platform for collaboration amongst purchasers, industry experts and real estate geeks.</p>
+<p>
+About our team:<br />
+BuzzBuzzHome is an enthusiastic team of around 25 individuals. We use Microsoft tools: IIS 7, C# and ASP.NET, SQL Server 2008, and php-Wordpress for our News site. The environment is fast-paced, agile, and fun.</p>
+<p>
+Your Job:<br />
+You will be wearing many hats and see projects through their entire development cycle.<br />
+You will be working on multiple site components; database, data access/caching, business logic, front-end design and coding. You will be building parts of larger projects as well as completing your own projects from requirements/specs to testing.</p>
+<p>
+Requirements:<br />
+Degree in Computer Sciences or equivalent<br />
+Skilled at designing and writing scalable, fast, efficient code<br />
+Ability to learn quickly and find solutions on your own (major Googling mojo required)<br />
+Command of your favorite OOP language, be it C#, VB.NET, Java or whatever else<br />
+SQL Server experience a strong asset but any db (Oracle, MySQL, etc) is good<br />
+Front-End HTML5/CSS/JS development experience would be nice</p>
+<p>
+What we can offer:<br />
+Competitive salary<br />
+Paid vacation, public holidays and personal days<br />
+Unlimited Snacks, Diet Coke and Iced Tea<br />
+Comprehensive Benefits<br />
+Relaxed Work Environment and Supportive Team<br />
+Uber-casual dress code</p>
+<p>
+Interested in applying? Sweet! Share with us why you want to work at BuzzBuzzHome and don&#39;t forget to mention any technical accomplishments.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/buzzbuzzhome/1gApL1"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[appendTo]]></company>
+			<job>
+			<id><![CDATA[job_20130125165228_S13LR9GFGVECIMOS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Tell Us About Yourself!]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://appendto.theresumator.com/apply/gbuQyB/Tell-Us-About-Yourself.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[(Multiple States)]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Though appendTo might not have a position open that fits you, we&#39;d still like to hear about you and your skill set! </strong>Feel free to upload a resume and cover letter and tell us about the work you&#39;d love to be doing. We&#39;re always on the lookout for talented individuals.</p>
+<p>
+appendTo is a premier group of talented web developers, designers and trainers impacting the world&#39;s innovators through technology. We&#39;re proud to name Microsoft, AOL and Time Magazine among our satisfied clients. Enjoy the benefits of working for an entirely remote company that cares about maintaining a healthy work-life balance. We offer competitive benefits and salary and enjoy the flexibility of working from any location.&nbsp;</p>
+<p>
+Please provide as much information about yourself as possible. We&#39;ll have someone get in touch with you if we have an opening that you could be a match for.&nbsp;</p>
+<p>
+Thanks for taking the time to connect with us!</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appendto/gbuQyB"></script>]]></buttons>
+		</job>
+	</jobs>

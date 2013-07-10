@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Getaround]]></company>
+			<job>
+			<id><![CDATA[job_20111121234032_7NQMMN7KZBUJTWFN]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[(MKT2) Head of Growth]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://getaround.theresumator.com/apply/Vfh4N3/MKT2-Head-Of-Growth.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+### Adwords, Google Analytics, Web savvy</p>
+<p>
+As Getaround&#39;s Head of Growth, you will be the backbone of our digital marketing and growth efforts.</p>
+<p>
+We need you to be a very creative person with a strong technical skillset, an analytical mind, and have a native understanding of the Internet. You&#39;re meticulous and extremely methodical about running marketing experiments, believe in testing aggressively before spending money, take pride in your work, and thrive in a fast and furious startup environment. Sound like you? Apply!</p>
+<p>
+#### What you&#39;ll be doing</p>
+<p>
+- Oversee, lead and drive online marketing initiatives across the company<br />
+- Develop innovative and high impact geographically targeted user acquisition campaigns<br />
+- Work with product management to create structured growth hacking strategies driving user adoption and virality<br />
+- Design and develop marketing infrastructure, with an emphasis on quantitive measurements and evaluation frameworks</p>
+<p>
+#### Requirements</p>
+<p>
+- 5-10 years&rsquo; of experience in a product marketing, online marketing and/or brand marketing role, in an internet company<br />
+- Experience leading and developing a team, and ability to influence cross-functional teams<br />
+- Creative problem-solver who is comforetable operating in a fast paced, high growth startup environment<br />
+- Disciplined, well-organized and efficient -- you have a detailed and methodical approach to every project<br />
+- Demonstrated analytical skills and ability to develop strategy, customer segmentation and market insights<br />
+- Passion for analytics -- you recognize the importance of data behind every decision, and you can understand where the growth of Getaround is going to come from</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/getaround/Vfh4N3"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110710231558_4PKNNI3U1RMNVMT2]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://getaround.theresumator.com/apply/FyVcxi/Software-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+### Python</p>
+<p>
+As a Getaround Software Engineer, you&rsquo;ll be developing scalable web apps that empower people to carshare everywhere. We&rsquo;re looking for the right person who knows how to write full-stack web code, can build out a serious load testing suite, has some major Python fu, and has played with all the different varieties of NoSQL databases.</p>
+<p>
+You&rsquo;ll be part of a small team developing web applications and infrastructure. Of course, you&rsquo;ll also have the opportunity to contribute to our entire codebase and help set engineering priorities.&nbsp;If you are a quality hacker that enjoys a fast and furious startup environment, lives on overdrive, and can chart your own course, then apply now!</p>
+<p>
+#### What You&rsquo;ll Be Doing</p>
+<p>
+- Developing features using Python<br />
+- Building beautiful, fast, and scalable software on the web<br />
+- Developing infrastructure on Google App Engine and Amazon EC2<br />
+- Architect-ing and developing aspects of our pub/sub event stream<br />
+- Hacking together some cool ideas in an afternoon for feedback</p>
+<p>
+#### Requirements<br />
+- CS or equivalent degree<br />
+- Experience in Python or Ruby on Rails<br />
+- Experience in HTML, CSS, and JavaScript<br />
+- Experience with scalable web systems</p>
+<p>
+#### Additional Awesomeness<br />
+- HAML/SASS, jQuery, and AJAX experience<br />
+- Google App Engine and Amazon EC2 experience<br />
+- Git and distributed revision control experience<br />
+- High-profile work on commercial or open-source projects<br />
+- Passion for cars and pioneering next-generation transportation</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/getaround/FyVcxi"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110823205721_VUQEQ9EZPLLUISXI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[(PRD1) Product Designer]]></title>
+			<department><![CDATA[Product]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://getaround.theresumator.com/apply/oF5Zn4/PRD1-Product-Designer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+### Web &amp; Mobile UI Design</p>
+<p>
+You dream in form and function. You are the zen master who&#39;s everlasting goal is to find that perfect balance. From well thought out interfaces to rich iconography, you bring it all together to provide the user with the ultimate experience. You&#39;re eager to get your hands on new technologies in order to explore their interfaces. You read the cutting edge design blogs and are engaged in the design community. You know the rules but aren&#39;t afraid to bend them and create new trends for others to imitate. You are read to apply your creativity to not only pixels and vectors, but also the future of transportation sharing.</p>
+<p>
+#### What You&rsquo;ll Be Doing<br />
+- Design sexy, engaging user interfaces for various platforms from web to mobile<br />
+- Create attractive, pixel-perfect assets for the dev team<br />
+- Craft beautiful iconography to enhance our product experience<br />
+- Collaborate across product, marketing, and engineering teams</p>
+<p>
+#### Requirements<br />
+- 3+ years of design experience with an emphasis on interface design<br />
+- Proven track record producing beautiful and highly usable digital applications<br />
+- Competent with vector and pixel based icon sets for various outputs<br />
+- Strong command of layout, typography, information architecture<br />
+- Comprehension of user experience specifications and wireframes<br />
+- Mastery of Adobe Creative Suite 4 or higher</p>
+<p>
+#### Additional Awesomeness<br />
+- Coding HTML, CSS3, and Javascript<br />
+- UX design, prototyping, and user experience testing<br />
+- Info graphic or custom typography design<br />
+- Published iOS and Android applications</p>
+]]></description>
+			<type><![CDATA[Temporary to Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/getaround/oF5Zn4"></script>]]></buttons>
+		</job>
+	</jobs>

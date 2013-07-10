@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Crono]]></company>
+			<job>
+			<id><![CDATA[job_20090719002540_FKGWDS8J51RJBB4C]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Startup seeks Senior Software Engineer, Web backend (Java) and AJAX]]></title>
+			<department><![CDATA[Crono, LLC]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://crono.theresumator.com/apply/o4Enns/Startup-Seeks-Senior-Software-Engineer-Web-Backend-Java-And-AJAX.html]]></url>
+			<city><![CDATA[Pittsburgh]]></city>
+			<state><![CDATA[PA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[15217]]></postalcode>
+			<description><![CDATA[<p>We are seeking a superstar software engineer.  If you are a great hacker, this is the job for you.<br /> <br /> Level: Senior Software Engineer/ Senior Software Architect<br /> <br /> Primary Location: Pittsburgh PA (some off-site work possible for the<br /> perfect candidate)</p>
+<p>Remuneration: Salary + Benefits + Equity<br /> <br /> We are seeking an outstanding software developer who wants to work in<br /> a fast paced start-up environment.  We are building innovative software<br /> technology for saving computer users' time.  Our first application is an<br /> automated meeting scheduler. Our algorithms and approaches are<br /> based on our team's deep research experience. You will work alongside<br /> experienced software developers with PhDs from Carnegie Mellon.<br /> <br /> Desirable Skills:<br /> <br /> Significant Java EE experience ( 3+ years design &amp; implementation )<br /> Experience building SOAP services in Java<br /> Significant experience with database technologies</p>
+<p>Experience with front-end web technologies (JavaScript, AJAX, etc)</p>
+<p>Familiarity with ORM technologies/APIs (e.g., Hibernate, JPA, JDO)<br /> Proficiency with version control software (e.g., SVN, CVS) and<br /> bug/task tracking software (e.g., Trac, Jira, etc)<br /> Solid knowledge of Linux system administration<br /> Excellent team work and communication skills<br /> Desire to learn new technologies<br /> Ability to work to deadlines<br /> <br /> NOTE: If you have significant experience building web backends in a language other than Java we still want to hear from you. Also, any experience in Machine Learning and Natural Language Processing is a plus.</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/crono/o4Enns"></script>]]></buttons>
+		</job>
+	</jobs>

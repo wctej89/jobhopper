@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Ninimo]]></company>
+			<job>
+			<id><![CDATA[job_20101127103904_SPBIVCFPWWNCACUG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Social Media Manager]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://ninimo.theresumator.com/apply/gwQTE4/Social-Media-Manager.html]]></url>
+			<city><![CDATA[Budapest]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Hungary]]></country>
+			<postalcode><![CDATA[1113]]></postalcode>
+			<description><![CDATA[<p>
+	.</p>
+]]></description>
+			<type><![CDATA[Contracted to Full Time]]></type>
+			<experience><![CDATA[Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/ninimo/gwQTE4"></script>]]></buttons>
+		</job>
+	</jobs>

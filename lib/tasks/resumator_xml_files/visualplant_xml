@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[VISUALPLANT]]></company>
+			<job>
+			<id><![CDATA[job_20090611222122_MGESFLMGLBWQGCB5]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Architect]]></title>
+			<department><![CDATA[VISUALPLANT / New Products]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://visualplant.theresumator.com/apply/gBZ4w1/Software-Architect.html]]></url>
+			<city><![CDATA[Los Gatos]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[95032]]></postalcode>
+			<description><![CDATA[<p><strong>VISUALPLANT</strong> is a platform for content providers to manage and distribute their media on the Internet. We are building a new monetization service to help content providers finance their infrastructure and bandwidth costs with a simple, brilliant new patent-pending method.</p>
+<p>We are seeking a senior-level Software Architect / Manager to plan and manage development of the service from the ground-up based on business requirements. Your role will be to work with the Founder,  software developers and designers to implement the strategy from stage 1 to beta launch and beyond.  This is a ground-floor opportunity in a start-up at the center of the biggest, most-rapidly expanding segment of the Internet: video. Compensation includes significant equity.</p>
+<p><strong>Qualities:</strong><br />We want a motivated quick-study with a proven track-record of technical successes (commercial successes also welcome), solid work ethic and resourcefulness (can get things done without inflated budgets). No 9-to-5 gig here; you can work long hours with the Founder to solve problems. You are motivated to elevate yourself 5 rungs on the career-ladder in the next 2 years and define Internet video 3.0.</p>
+<p><strong>Duties include:</strong></p>
+<p>- Work with Founder to plan and implement technology supporting business plan.</p>
+<p>- Hire and manage software developers, UI designers and testing resources.</p>
+<p>- Write, review and release code using version control system.</p>
+<p>- Document all code classes and database architectures.</p>
+<p>- Work with Founder to help document self-service APIs and FAQs.</p>
+<p>- Integrate with 3rd-party APIs as/when appropriate.</p>
+<p>- Attend trade shows, contribute to marketing plan and participate in sales calls.</p>
+<p><strong>Required experience:</strong></p>
+<p>- Computer science degree and expert-level working knowledge of at least 2 or 3 object-oriented development languages. Prefer PHP, Ruby-On-Rails and/or Python, but will consider other options.</p>
+<p>- Ability to architect a system for massive, dynamic scalability.</p>
+<p>- Internet Video delivery standards, including files, formats, players and content delivery networks.</p>
+<p>- Restful Webservices.</p>
+<p>- Javascript widget development.</p>
+<p><strong>Preferred experience:</strong></p>
+<p>- Amazon Web Services, including FPS and simpleDB</p>
+<p>- Jeroen Wijering's open-source Flash player framework</p>
+<p>- FaceBook app development</p>
+<p>- iPhone app development</p>
+<p> </p>
+<p>MUST HAVE SOLID REFERENCES</p>
+<p>MUST BE BASED LOCALLY IN SILICON VALLEY, CA.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>]]></description>
+			<type><![CDATA[Temporary to Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/visualplant/gBZ4w1"></script>]]></buttons>
+		</job>
+	</jobs>

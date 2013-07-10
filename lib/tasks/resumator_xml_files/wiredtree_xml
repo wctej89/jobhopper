@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[WiredTree]]></company>
+			<job>
+			<id><![CDATA[job_20121113222915_ZP2VG7OREK7XRDGA]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Linux System Administrator]]></title>
+			<department><![CDATA[Support]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://wiredtree.theresumator.com/apply/VpUZ3B/Linux-System-Administrator.html]]></url>
+			<city><![CDATA[Chicago]]></city>
+			<state><![CDATA[IL]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[60607]]></postalcode>
+			<description><![CDATA[<p>
+<b>WiredTree</b> - <a href="http://www.wiredtree.com">http://www.wiredtree.com</a> - is looking for more full-time system administrator/support technicians to join our team in our downtown Chicago offices. We are a young, fast growing managed hosting company who provides a variety of solutions from virtual private/cloud servers to dedicated servers to complex clusters for clients worldwide. We have a very strong focus on providing fast, accurate, and personal customer service. We were recently ranked the #254 fastest growing private company in the United States and #11 in Chicago by INC magazine: <a href="http://www.inc.com/inc5000/profile/wiredtree">http://www.inc.com/inc5000/profile/wiredtree</a><br />
+<br />
+<b>We&#39;re looking for for other geeks like us who run Linux at home and enjoy problem solving and optimizing/automating/debugging systems.</b> We&#39;re an all Linux shop so we&#39;re looking for someone with extensive Linux system administration experience through the command line. If you booted off a Linux Live CD once, you&#39;re probably not the person we&#39;re looking for. If you still run Gentoo, welcome! Seriously though, you need to understand Linux well, understand the commands, know the directory layout and where logs and config files are (we&#39;re going to ask you when you apply).<br />
+<br />
+<b>What else should you know?</b> Basic TCP/IP networking and how to configure it on Linux systems. It&#39;s OK if you don&#39;t know all the details of Internet routing, that&#39;s something we can teach you. You should have some basic scripting skills in Bash, Python, PHP, Perl. If you are not hacker at any of those languages, it&#39;s definitely OK, but you should at least be able to understand and follow at a basic level as to what they are doing. Bonus points if you are a sed/awk/xargs wizard.<br />
+<br />
+You should also understand the basic of x86 hardware and how it works. You&#39;ll be needed to repair and build rackmount servers from time to time, and while we can teach you what you&#39;ll need to know about the specific hardware we use, you&#39;ll need a good working knowledge to begin with. Build your own PC before, great. Build your own home SAN? Even better!<br />
+<br />
+<b>Let&#39;s get personal!</b> We&#39;re looking for highly motivated, positive people who have great logic and problem solving skills. Excellent, spoken and written English is a must! We have clients from all over the world in nearly every country, so if you speak a second language, great!<br />
+<br />
+<b>What will you be doing?</b> You will be a member of the WT support team, the backbone of our company. Day to day you&#39;ll be helping our clients with a variety of issues, including troubleshooting server software issues, repairing services which have failed, investigating abuse and security violations, provisioning servers, fielding phone calls from clients, optimizing server configurations, building servers, swapping out failed hardware, load balance a cluster from a client, etc. We perform a wide variety of work so there is plenty for you to flex your skills and learn as well.<br />
+<br />
+<b>What else would the ideal candidate know?</b> The ideal candidate would be fluent in cPanel/WHM, Virtualization (Virtuozzo, OpenVZ, Xen), have previous datacenter experience with cabling and racking, have JunOS or IOS experience<br />
+<br />
+<b>What are the hours?</b> Shift1: The hours are 8AM to 8PM on 4 days on, 4 days off, 3 days on, 3 days off rotation. This will include some weekends and holidays. Shift2: The hours are 8PM to 8AM on 4 days on, 4 days off, 3 days on, 3 days off rotation. This will include some weekends and holidays.<br />
+<br />
+<b>What do you get?</b> This is a salary position, ~40k DOE, with opportunities for performance-based bonuses. Paid Vacation and Paid Time Off is also included. After a probationary period, we offer medical, dental, and life insurance options through BCBS with a POP125 plan. We also offer the CTA Transit Benefit Program, company issued laptop, and a casual and fun work environment with free coffee/soda/tea/energy drinks, snacks.<br />
+<br />
+Plus you get to join a company who cares about you and that you can grow with. There&#39;s a lot of potential here for motivated, hard working individuals to carve out their niche here as we expand. We reward positive contributions, forward-thinking, and smart work.<br />
+<br />
+<b>I want to apply!</b> Great! Send us your resume and cover letter on our Resumator page. Please describe your Linux experience in your cover letter.</p>
+<ul class="blurbs">
+<li>
+Location: Chicago Loop</li>
+<li>
+Compensation: 40k DOE</li>
+<li>
+Principals only. Recruiters, please don&#39;t contact this job poster.</li>
+<li>
+Please, no phone calls about this job!</li>
+<li>
+Please do not contact job poster about other services, products or commercial interests.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/wiredtree/VpUZ3B"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121129200249_RWU1NX9OT3FJNDDI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Junior Python Developer]]></title>
+			<department><![CDATA[Devops]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://wiredtree.theresumator.com/apply/zPVLqa/Junior-Python-Developer.html]]></url>
+			<city><![CDATA[Chicago]]></city>
+			<state><![CDATA[IL]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[60607]]></postalcode>
+			<description><![CDATA[<p>
+<strong>WiredTree</strong> - <a href="http://www.wiredtree.com">www.wiredtree.com</a> - is looking for full-time Junior Python Developer to join our team in our downtown Chicago offices. We are a young, fast growing managed hosting company who provides a variety of solutions from virtual private/cloud servers to dedicated servers to complex clusters for clients worldwide. We have a very strong focus on providing fast, accurate, and personal customer service.</p>
+<p>
+We&#39;re looking for a Python developer that has a strong understanding of the language and also some background in Linux.&nbsp; The position is primarily a development position, but you should expect to encounter and eventually master Linux as much of the work we do involves the automation and integration of software systems within this OS. We are looking for someone to grow with us, learn, and hone their abilities to the limit by developing and maintaining complex real word solutions.</p>
+<p>
+<strong>What development experience should you have?</strong></p>
+<p>
+Primarily we are looking for someone with strong Python development skills - web application experience is a plus!</p>
+<p>
+<strong>The ideal candidate should have:</strong></p>
+<ul>
+<li>
+Computer Science Degree or Similar Experience.</li>
+<li>
+1-2 Years Python Development Experience.</li>
+<li>
+Previous experience with the MySQL query language.</li>
+<li>
+Previous use of a version control system. (CVS,GIT,SVN)</li>
+<li>
+Prior Linux Experience</li>
+<li>
+Knowledge of&nbsp; other scripting languages is a plus. (PHP,Bash,Perl)</li>
+<li>
+Experience working with Django or other Python web framework is a plus.</li>
+<li>
+Web Presentation Layer Experience is a plus. (HTML/CSS, Javascript, jQuery)</li>
+</ul>
+<p>
+<em>Submitting example code from a&nbsp; previous project or work on an open source project would be a great way to set yourself ahead the pack!</em></p>
+<p>
+<strong>What will you be doing?</strong> Your primary role will be the maintenance and development of client facing and back-end automation systems. Our primary goal is to allow our customers to more easily administer and control their systems. This often&nbsp; includes adding functionality to our Grove customer portal to allow the client to have greater control over their server without having to understand Linux Administration. We also spend a large amount of time automating common administration processes&nbsp; to make tasks much faster for our own support staff.</p>
+<p>
+<strong>What do you get?</strong> This is a salary position, 60k-80k DOE, with opportunities for performance-based bonuses. Paid Vacation and Paid Time Off is also included. After a probationary period, we offer medical, dental, and life insurance options through BCBS with a POP125 plan. We also offer the CTA Transit Benefit Program, company issued laptop, and a casual and fun work environment with free coffee/soda/tea/energy drinks, snacks.</p>
+<p>
+Plus you get to join a company who cares about you and that you can grow with. There&#39;s a lot of potential here for motivated, hard working individuals to carve out their niche here as we expand. We reward positive contributions, forward-thinking, and smart work.</p>
+<p>
+<strong>I want to apply!</strong> Great! Please click the URL below and fill out our online resume form.&nbsp; Include your resume and cover letter that details out your experience as a python developer.</p>
+<p>
+<a href="http://wiredtree.theresumator.com/apply/zPVLqa/Junior-Python-Developer.html">WiredTree Junior Python Developer</a></p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/wiredtree/zPVLqa"></script>]]></buttons>
+		</job>
+	</jobs>

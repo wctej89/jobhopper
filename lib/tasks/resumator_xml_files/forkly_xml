@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[forkly inc.]]></company>
+			<job>
+			<id><![CDATA[job_20101112004441_7ESJ83YZRXTLFRTT]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[iPhone Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://forkly.theresumator.com/apply/x63Iox/IPhone-Developer.html]]></url>
+			<city><![CDATA[Denver]]></city>
+			<state><![CDATA[CO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[80202]]></postalcode>
+			<description><![CDATA[<p>
+	Forkly is looking for an experienced iPhone developer to help build our mobile apps. We&#39;re an early-stage startup with some prior experience (http://techcrunch.com/2010/09/24/forkly/), working feverishly on taking the experience of dining out into the 21st century.</p>
+<p>
+	<strong>Required</strong></p>
+<ul>
+	<li>
+		BS in Computing Science or similar field</li>
+	<li>
+		Experience in developing iPhone apps</li>
+	<li>
+		A solid overall CS background</li>
+	<li>
+		Knowledge of web service technologies and services (specifically REST APIs)</li>
+	<li>
+		A desire to create something significant, take initiative and move things forward</li>
+</ul>
+<p>
+	<strong>Bonus points</strong></p>
+<ul>
+	<li>
+		Experience developing other mobile applications (Android, BlackBerry, Palm Pre, Windows Mobile)</li>
+	<li>
+		Ruby on Rails experience</li>
+	<li>
+		You love food and dining out</li>
+</ul>
+<p>
+	We provide a competitive salary and stock options that actually mean something (you&#39;d be our first hire).</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/forkly/x63Iox"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Profitably]]></company>
+			<job>
+			<id><![CDATA[job_20110303184351_JBP0Y1QRQ7JJQGJR]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Front End Engineer (6th hire)]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://profitably.theresumator.com/apply/ulEVfH/Senior-Front-End-Engineer-6th-Hire.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p>
+	We just raised $1.1M, and we are looking to hire our 6th person. Our 3rd co-founder was UX &amp; Visual Design, which means we couldn&#39;t take design more seriously and we&#39;ve got cash and equity for you if you&#39;re the one to make sure it&#39;s implemented perfectly.</p>
+<p>
+	If you&#39;re into the development of good interaction design and data visualization, Profitably can offer you a unique opportunity to tackle a really tough challenge, bringing Finance to life for small businesses. This isn&#39;t pie charts and static tables; we want to help business owners interact with their data, drive complex insights out of the numbers, and take action.&nbsp;</p>
+<p>
+	<strong>Responsibilities</strong><br />
+	You would literally be sitting between Francis, our CTO, and Chad, our Chief Aesthete, in NYC. Chad owns UX and Visual Design, and Francis owns Engineering. We need someone to implement Chad&#39;s vision while working with Francis to bring it to life. At the same time, you&#39;re not just executing on Chad&#39;s design. You&#39;re coming in early enough into our product development that we would be counting on you to contribute a broad range of skills, aesthetic interests and to own how our users interact with the product.&nbsp;</p>
+<p>
+	<strong>Day to day this means:</strong></p>
+<ul>
+	<li>
+		Design and develop web-based interactive charts and data visualizations</li>
+	<li>
+		Own the implementation of major new features and feature improvements</li>
+	<li>
+		Identify and solve compatibility issues</li>
+	<li>
+		Work closely with the backend team to profile and optimize code for performance</li>
+</ul>
+<p>
+	<strong>Compensation</strong></p>
+<ul>
+	<li>
+		Cash compensation: Competitive for a start-up</li>
+	<li>
+		Equity compensation: We&#39;re serious about bringing in high quality people with meaningful equity</li>
+	<li>
+		100% coverage of health insurance premiums</li>
+	<li>
+		$2,500 spend-how-you-like budget for initial IT hardware setup</li>
+	<li>
+		Plus, you get to work out of General Assembly, which is the epicenter of NY tech right now. The interactions alone are a benefit.</li>
+</ul>
+<p>
+	<strong>Qualifications</strong></p>
+<ul>
+	<li>
+		3+ years experience working on a high volume website</li>
+	<li>
+		Experience working in small teams with a great deal of autonomy</li>
+	<li>
+		Expertise with HTML/CSS experience required</li>
+	<li>
+		Expertise with Javascript required, along with experience using a JS framework (we use JQuery)</li>
+	<li>
+		Working knowledge and/or willingness to learn Git and Ruby on Rails</li>
+	<li>
+		Bonus: Expertise with High Charts, Raphael and/or other interactive charting libraries (or a burning desire to build your own)</li>
+	<li>
+		Bonus: Experience gathering and integrating direct feedback from users</li>
+	<li>
+		A desire to be personally responsible for production-level code</li>
+	<li>
+		A compulsion to release early and often!</li>
+	<li>
+		Experience with dynamic languages, agile methodologies, financial analysis, test-driven development, and distributed workers</li>
+	<li>
+		A preoccupation with staying on top of industry trends and technologies</li>
+</ul>
+<p>
+	<strong>About Profitably</strong><br />
+	Profitably is small business analytics, simplified. The product provides a simple and intuitive view into your small business data along with tools to drive growth and manage profitability.</p>
+<p>
+	Let&#39;s face it. Small business owners are too busy for traditional business intelligence and analytical platforms. These expensive and unwieldy tools are geared toward large enterprises and take months to set up. Profitably takes a different approach. The application connects securely to QuickBooks, and within minutes, you can see where you&#39;re making money and where you&#39;re losing money, why and what you can do about it.</p>
+<p>
+	Founded in March of 2010, the Profitably team works out of the General Assembly space in the Flatiron district of Manhattan.</p>
+<p>
+	For more information, check us out at http://profitably.com and follow us on twitter at @profitably.&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/profitably/ulEVfH"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110512134517_GDKH5BHN4ZS9KTYY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://profitably.theresumator.com/apply/6qxBey/Software-Engineer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10010]]></postalcode>
+			<description><![CDATA[<p>
+	We are a seed-funded startup in NYC looking for a software engineer to join its technology team. This is an early stage opportunity with a healthy amount of equity and the change to have a significant impact on technical process and company culture.</p>
+<p>
+	In particular, this position offers the chance to tackle complex analytical problems in a tech-centric company that is also agile and results-oriented.</p>
+<p>
+	<strong>Responsibilities</strong></p>
+<p>
+	This position is an opportunity for an engineer to take ownership of significant technical areas in a small, growing company. We will match the responsibilities to the candidate, but opportunities include:</p>
+<ul>
+	<li>
+		Management of complex background publishing tasks</li>
+	<li>
+		Financial modeling</li>
+	<li>
+		In-browser charts and graphs</li>
+</ul>
+<p>
+	To give you an idea of where we are currently: The site currently uses Ruby on Rails, jQuery, Postgres,&nbsp;MongoDB,&nbsp;Redis,&nbsp;resque, and HighCharts.</p>
+<p>
+	<strong>Compensation</strong></p>
+<ul>
+	<li>
+		Cash compensation: &quot;Almost competitive&quot; for a seed-stage start-up</li>
+	<li>
+		Benefits: &quot;More than competitive&quot; for any startup
+		<ul>
+			<li>
+				100% coverage of health insurance premiums</li>
+			<li>
+				$2500 spend-how-you-like budget for initial IT hardware setup</li>
+		</ul>
+	</li>
+	<li>
+		Equity compensation: &quot;More than competitive&quot; for a seed-stage start-up</li>
+</ul>
+<p>
+	Our goal is to make it tough to join our company, but once you do, you&#39;re family. We are dead serious about our mission, and we only bring people in who want to play a pivotal role in its success.</p>
+<p>
+	<strong>Qualifications</strong></p>
+<p>
+	Most of these items are negotiable depending on the candidate, but to give you an idea of what we&#39;re looking for:</p>
+<ul>
+	<li>
+		Experience working in small teams with a great deal of autonomy</li>
+	<li>
+		Experience with some or all of our existing stack:&nbsp;Ruby on Rails, JQuery, Raphael, Postgres, Redis, and git</li>
+	<li>
+		Significant experience with dynamic languages, agile methodologies, financial analysis, front-end web programming, test-driven development, and distributed workers</li>
+	<li>
+		Experience communicating with customers in the lifecycle of a technology product or project. This could be direct project ownership at your full-time job,&nbsp;but it could also be something more modest, such as an open-source library you released on Github and got five other people to use, or a small website you made for some friends on the weekend.</li>
+</ul>
+<p>
+	<strong>About Profitably</strong></p>
+<p>
+	Profitably is small business analytics, simplified. The product provides a simple and intuitive view into your small business data along with tools to drive growth and manage profitability.</p>
+<p>
+	Let&#39;s face it. Small business owners are too busy for traditional business intelligence and analytical platforms. These expensive and unwieldy tools are geared toward large enterprises and take months to set up. Profitably takes a different approach. The application connects securely to QuickBooks, and within minutes, you can see where you&#39;re making money and where you&#39;re losing money... why... and what you can do about it.</p>
+<p>
+	Founded in March of 2010, the Profitably team&nbsp;works out of the General Assembly space in the Flatiron district of Manhattan.</p>
+<p>
+	For more information, check us out at http://www.profitably.com and follow us on twitter at @profitably.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/profitably/6qxBey"></script>]]></buttons>
+		</job>
+	</jobs>

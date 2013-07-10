@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Graffiti Labs]]></company>
+			<job>
+			<id><![CDATA[job_20120117231937_BF4UNX0RZRPLZS1A]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://graffiti.theresumator.com/apply/UK2FCx/Software-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94109]]></postalcode>
+			<description><![CDATA[<p>
+	We&#39;re a small productive team looking for a talented engineer/hacker (our first hire)<br />
+	Location: San Francisco (we can relocate you to the area on our dime)</p>
+<p>
+	<br />
+	<br />
+	The Project<br />
+	We&#39;re making a browser-based game that lets people build anything they can imagine. It&#39;s like virtual Lego, except anyone can contribute a new piece simply by drawing it. The 2D drawings are bounding-boxed into 2.5D objects that can be used to build in 3D space.</p>
+<br />
+<br />
+<br />
+<p>
+	Influences: Minecraft, Sim City, The Sims, Lego<br />
+	We released a featureless sandbox version to 400 people, and they loved it: over the two-day test, they placed 80,000 objects, drew 1,300 new ones, and spent on average of 1.5 hrs building stuff.<br />
+	About You<br />
+	You love building web applications<br />
+	You&#39;ll be working with javascript/coffeescript, webgl, python (with gevent), mysql, mongodb, github (we love this workflow), or whatever tool fits the problem at hand. Anything you don&#39;t know, you can learn.<br />
+	Your interests fit our problems. At Graffiti Labs, depending on what you like, you might find yourself...<br />
+	hacking together a browser-based tile image rendering farm for a google-maps-like zoom feature<br />
+	writing code to recognize cycles in the overlap graph of thousands of 2.5D objects<br />
+	figuring out how users can position objects in 3D space using only their 2D mouse movements<br />
+	working on game design, performance, intuitive UI, real-time collaboration, artist tools, and more<br />
+	About Us<br />
+	Before this, we made Graffiti (a profitable drawing application on Facebook with 25 million users and 100 million graffiti drawn). It has an active community of users and artists that makes for a good testbed and launchpad.<br />
+	Three cofounders. Well-funded with lots of runway.<br />
+	One of our advisors was in charge of The Sims 2 and 3 at EA (the best-selling PC game franchise of all time)<br />
+	We Offer<br />
+	Challenging, fun, rewarding work<br />
+	Competitive salary and significant equity<br />
+	A big voice in a company that has a record of building things used by millions of people<br />
+	Healthcare, free parking, free food, 30&quot; screens, etc<br />
+	Free petting zoo consisting of one (1) dog, and zero (0) honey badgers<br />
+	Interested?<br />
+	Send us an email (jobs@graffitilabs.com). We&#39;re looking for evidence that you can write great code, so if you have code online you should link us. Also include links or descriptions and screenshots of your projects. Feel free to include more &mdash; a resume, personal website/blog, stackoverflow/quora account, etc.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/graffiti/UK2FCx"></script>]]></buttons>
+		</job>
+	</jobs>

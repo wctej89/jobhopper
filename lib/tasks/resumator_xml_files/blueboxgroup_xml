@@ -1,0 +1,666 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Blue Box Group]]></company>
+			<job>
+			<id><![CDATA[job_20111112000053_04DYGFIXG8BDI3MG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Ruby Engineer (Seattle, WA & New York)]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Development]]></team>
+			<url><![CDATA[http://blueboxgroup.theresumator.com/apply/s7NJnT/Ruby-Engineer-Seattle-WA-New-York.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[(Multiple States)]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Love coding in rails?</strong><br />
+Have a soft spot for startups and projects that run rails?<br />
+Want to make a difference in the rails world?</p>
+<p>
+Blue Box is a ruby &amp; rails hosting company that has been around since &#39;03. We host applications as big as Pivotal Tracker and as small as your new startup -- all on our innovative mix of physical hardware clusters and on-demand cloud &#39;blocks&#39;.</p>
+<p>
+If you enjoy building and deploying rails applications, we&#39;ve got the best possible challenge for you... come build the Blue Box system with our amazing team, right off Pike Place Market in Seattle!</p>
+<p>
+We&#39;re bootstrapped and profitable, growing every month. We go to lots of conferences. We love cranking out code and taking care of our customers. Making money, coding ruby, learning everyday, and taking care of people like us... it&#39;s as good as it sounds!</p>
+<p>
+<b>To apply please send us your resume and cover letter highlighting these areas:</b></p>
+<ul>
+<li>
+Your most recent professional rails position(s) -- your responsibilities and achievements</li>
+<li>
+Applications you&#39;ve been responsible for deploying and maintaining</li>
+<li>
+Positions where you&#39;ve gathered and implemented business requirements</li>
+<li>
+Experience in server-side linux, git, mysql/postgres/other, and APIs</li>
+<li>
+Any advanced ruby tools you&#39;ve used, like capistrano or chef</li>
+<li>
+Modern software practices like scrum, test suites, CI, and refactoring</li>
+<li>
+Any contributions to github or ruby gems</li>
+<li>
+Your communication style, and preference of team configuration</li>
+<li>
+Your education in Computer Science or related information technology field</li>
+<li>
+All of your intangibles that you deserve to brag about</li>
+</ul>
+<p>
+<b>Blue Box Benefits</b></p>
+<ul>
+<li>
+15 days of PTO and 8 company paid holidays</li>
+<li>
+Quarterly profit sharing plan</li>
+<li>
+401k plan with a fully vested company match</li>
+<li>
+Medical, dental and vision coverage (company covers 90% of employee premium/50% of dependent)</li>
+<li>
+Long Term Disability&nbsp;plan</li>
+<li>
+Short Term Disability plan</li>
+<li>
+Life insurance</li>
+<li>
+Discounted transit pass depending on region</li>
+<li>
+Snacks and drinks</li>
+<li>
+Industry conference attendance and continuing education opportunities</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blueboxgroup/s7NJnT"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20111112001152_FOALGA9CQIHEN6ED]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Linux Systems Administrator]]></title>
+			<department><![CDATA[Support]]></department>
+			<team><![CDATA[Support]]></team>
+			<url><![CDATA[http://blueboxgroup.theresumator.com/apply/RUC52j/Linux-Systems-Administrator.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98101]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Who We Are:</strong><br />
+Are you looking to be part of the engine that powers the next big ideas?&nbsp; Blue Box is looking for a LInux Systems Administrator to join our team. We provide top-notch, around the clock service for complex and sophisticated web-based applications. We have strong customer-centered and unified-team values &ndash; people who share these values are the type of people we hire.</p>
+<p>
+<strong>Job Summary:</strong><br />
+We are looking for a highly motivated Linux Systems Admin who would like exposure to cutting edge technologies in a large scale, high uptime, agile environment. Your duties will include administering a wide variety of the latest databases, caching, application and system configuration solutions as well as standard OS work.&nbsp;Openings are currently available for 2nd shift or 3rd shift schedules (shift differentials included).</p>
+<p>
+<strong>To apply, please answer these questions in your cover letter:&nbsp;</strong><br />
+1. What Linux command would you use to replace all instances of the string &quot;/etc/foo&quot; with the string &quot;/etc/bar&quot; in a file called &quot;config.conf&quot;?<br />
+2. In the scripting language of your choice, write a quick script to count the number of files in a directory called &quot;baz&quot;.<br />
+3. In a few sentences describe some pros and cons of installing software via a package manager versus compiling from source.</p>
+<p>
+<strong>Essential Duties and Responsibilities:</strong></p>
+<ul>
+<li>
+Answering customer support questions through a ticket system, telephone calls, and customer chat</li>
+<li>
+Work with our existing staff to continue the build-out of our knowledge base</li>
+<li>
+Take part in shaping support related company standards, policy and services</li>
+<li>
+Participate in an on-call rotation for after hours support</li>
+<li>
+Become knowledgeable in one or more specific skills often required by our customers needs</li>
+<li>
+The administration of CentOS, Ubuntu and other Linux servers</li>
+<li>
+Hardware support Intel and AMD server hardware</li>
+<li>
+Shell scripting for various system administration tasks</li>
+<li>
+System performance optimization</li>
+<li>
+Independently handling minor customer emergencies</li>
+</ul>
+<p>
+<strong>Qualifications:</strong></p>
+<ul>
+<li>
+Ability to seek creative, viable solutions to problems</li>
+<li>
+Excellent verbal and written communication skills</li>
+<li>
+Strong analytical and computer skills</li>
+<li>
+Ability to work independently</li>
+<li>
+Willingness to learn and teach</li>
+<li>
+Enthusiasm in problem solving and customer service</li>
+</ul>
+<p>
+<b>Education and Experience:</b></p>
+<p>
+The desired candidate will possess three or more years of support representative experience and an educational background in the field. Proven experience is valued over education. Prior experience in the data center industry is a plus. Experience with Ruby on Rails is highly desired.</p>
+<p>
+<strong>Technologies:</strong></p>
+<p>
+Below is a list of different network technologies and vendors we work with regularly. Familiarity with most of these is a big plus.</p>
+<ul>
+<li>
+Ruby on Rails</li>
+<li>
+CentOS / Red Hat, Ubuntu, Scientific Linux</li>
+<li>
+Nagios</li>
+<li>
+MySQL and MySQL Replication, PostgreSQL, MongoDB</li>
+<li>
+Sphinx, Unicorn</li>
+<li>
+Version Control (Git, SVN)</li>
+<li>
+Cisco Switches and Routers</li>
+<li>
+LAMP Stack (Linux, Apache, MySQL, PHP)</li>
+<li>
+OpenVZ</li>
+</ul>
+<p>
+<b><b>Blue Box Benefits</b></b></p>
+<ul>
+<li>
+15 days of PTO and 8 company paid holidays</li>
+<li>
+Quarterly profit sharing plan</li>
+<li>
+401k plan with a fully vested company match</li>
+<li>
+Medical, dental and vision coverage (company covers 90% of employee premium/50% of dependent)</li>
+<li>
+Long Term Disability plan</li>
+<li>
+Short Term Disability plan</li>
+<li>
+Life insurance</li>
+<li>
+Discounted transit pass depending on region</li>
+<li>
+Snacks and drinks</li>
+<li>
+Industry conference attendance and continuing&nbsp;education opportunities</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blueboxgroup/RUC52j"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20111122021107_2EPHUIILZDUXSYQA]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Operations Engineer / Dev Ops (Seattle, WA & New York)]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Development]]></team>
+			<url><![CDATA[http://blueboxgroup.theresumator.com/apply/tKSAYr/Operations-Engineer-Dev-Ops-Seattle-WA-New-York.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[(Multiple States)]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+Are you looking to be part of the engine that powers the next big ideas? &nbsp;We provide top-notch, around the clock service for complex and sophisticated web-based applications. We have strong customer-centered and unified-team values &ndash; people who share these values are the type of people we hire.</p>
+<p>
+We are looking to add the right Operations Engineers to our team. This role will lead the charge in developing, refactoring, and deploying the tools and services that power both our current infrastructure as well as our next generation platform.&nbsp; They will be hands-on, bringing cutting edge technologies to play. We automate common tasks and workflows with maintainable and scalable solutions, providing our customers with the best experience possible.&nbsp; We are looking for candidates who think there is always a more efficient way to be working and who get excited at the prospect of implementing that solution.&nbsp; This position will require close interaction with our CTO, Director of Engineering, and Engineering Team.</p>
+<p>
+<b>Awesome candidates for this role will should have a background in:</b></p>
+<ul>
+<li>
+Linux,&nbsp;with an emphasis on RHEL based distributions</li>
+<li>
+Ruby, Perl, Python or C</li>
+<li>
+Chef, Ohai, and Knife. Contributions to these projects are a big win</li>
+<li>
+Git and GitHub</li>
+<li>
+Virtualization. We use OpenVZ</li>
+<li>
+Nagios</li>
+<li>
+Cisco Networking</li>
+<li>
+Serving high-traffic web applications in production environments</li>
+<li>
+Exposure to Ruby on Rails applications and common deployment tools</li>
+<li>
+Familiarity with&nbsp;multiple data stores. We work with a lot of MySQL, PostgreSQL, Redis and Mongo</li>
+<li>
+Working with cloud computing environments</li>
+<li>
+Interacting with RESTful APIs</li>
+</ul>
+<p>
+<b>Blue Box Benefits</b></p>
+<ul>
+<li>
+15 days&nbsp;of PTO and 8 company paid holidays</li>
+<li>
+Quarterly profit sharing plan</li>
+<li>
+401k plan with a fully vested company match</li>
+<li>
+Medical, dental and vision coverage (company covers 90% of employee premium/50% of dependent)</li>
+<li>
+Long Term Disability&nbsp;plan</li>
+<li>
+Short Term Disability plan</li>
+<li>
+Life insurance</li>
+<li>
+Discounted transit pass depending on region</li>
+<li>
+Snacks and drinks</li>
+<li>
+Industry conference attendance and continuing&nbsp;education opportunities&nbsp;</li>
+</ul>
+<p>
+Please provide a link to your GitHub account in your cover letter and some information about yourself.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blueboxgroup/tKSAYr"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120625175310_WWF43OFPRJEAXHUQ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Linux Systems Administrator]]></title>
+			<department><![CDATA[Support]]></department>
+			<team><![CDATA[Support]]></team>
+			<url><![CDATA[http://blueboxgroup.theresumator.com/apply/ouRRdy/Senior-Linux-Systems-Administrator.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98101]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Who We Are:</strong></p>
+<p>
+Are you looking to be part of the engine that powers the next big ideas?&nbsp; Blue Box is looking for a Senior Linux Systems Administrator to join our team. We provide top-notch, around the clock service for complex and sophisticated web-based applications. We have strong customer-centered and unified-team values &ndash; people who share these values are the type of people we hire.</p>
+<p>
+<strong>Job Summary:</strong></p>
+<p>
+We are looking for a highly motivated Senior Support Engineer/Linux Systems Administrator to inspire and aid a team of top Linux System Administrators and Support Engineers. We work with cutting edge technologies that run large scale, highly available, agile environments. You must be familiar with administering a wide variety of the latest database, caching, application and system configuration solutions as well as standard OS work.&nbsp;Openings are currently available for 2nd shift or 3rd shift schedules (shift differentials included).</p>
+<p>
+<br />
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+Delight Blue Box customers with industry-leading customer service through our ticket system, customer chat and phone</li>
+<li>
+Troubleshoot and resolve complex, customer-escalated issues</li>
+<li>
+Be a team player, helping other staff members learn and grow</li>
+<li>
+Take part in shaping support-related company standards, policies and services</li>
+<li>
+Work with engineering to develop Chef scripts for common tasks</li>
+<li>
+Participate in on-call rotation for after hours support</li>
+<li>
+Administer CentOS, Ubuntu and other Linux servers</li>
+<li>
+System performance optimizations</li>
+<li>
+Quickly develop a range of possible solutions or workarounds for a problem</li>
+</ul>
+<p>
+<strong>Required Knowledge, Skills and Abilities:</strong></p>
+<ul>
+<li>
+Ruby on Rails</li>
+<li>
+LAMP Stack</li>
+<li>
+Sphinx, Unicorn</li>
+<li>
+Nagios</li>
+<li>
+CentOS / Scientific Linux, Ubuntu</li>
+<li>
+MySQL, Postgres, MongoDB</li>
+<li>
+HAProxy, STunnel, F5 Load Balancers</li>
+<li>
+Version Control (Git, SVN)</li>
+<li>
+Virtualization Technology (OpenVZ)</li>
+<li>
+System performance optimizations</li>
+<li>
+Cisco Switches and Routers</li>
+<li>
+Solid understanding of networking and network issues</li>
+<li>
+Strong communications skills</li>
+</ul>
+<p>
+<strong>Education and Experience:</strong></p>
+<ul>
+<li>
+5+ years Linux System Administration experience (required)</li>
+<li>
+2-3 years in a Senior Systems Admin role (preferred)</li>
+<li>
+Proven experience is valued over education</li>
+</ul>
+<p>
+<strong>Blue Box Benefits</strong></p>
+<ul>
+<li>
+15 days of PTO and 8 company paid holidays</li>
+<li>
+Quarterly profit sharing plan</li>
+<li>
+401k plan with a fully vested company match</li>
+<li>
+Medical, dental and vision coverage (company covers 90% of employee premium/50% of dependent)</li>
+<li>
+Long Term Disability plan</li>
+<li>
+Short Term Disability plan</li>
+<li>
+Life insurance</li>
+<li>
+Discounted transit pass depending on region</li>
+<li>
+Snacks and drinks</li>
+<li>
+Industry conference attendance and continuing education opportunities</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blueboxgroup/ouRRdy"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120621210835_IDEKHRKZDG8288A5]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Director of Marketing]]></title>
+			<department><![CDATA[Sales and Business Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://blueboxgroup.theresumator.com/apply/ysrGyz/Director-Of-Marketing.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98101]]></postalcode>
+			<description><![CDATA[<p>
+<span style="font-size: 12px;">The Director of Marketing will serve as a key company executive reporting directly to the CEO and be a trusted business partner owning all marketing strategy and execution.&nbsp;&nbsp; This role will partner closely with Director of Sales and company executives on overall company strategy, marketing planning, sales impact analysis and new marketing messaging aligned with company brand.</span></p>
+<p>
+This role oversees market segmentation, marketing strategy, corporate marketing, sales lead demand generation, events and product marketing and will manage the relationship with PR agencies and other marketing related vendors as needed.&nbsp;&nbsp; This role will lead a small team and have high visibility and impact across the company.&nbsp; Blue Box is looking for partner who loves startup marketing best practices, has a sales/ROI mindset, a competitive drive and a love for using the most modern tools available.</p>
+<p>
+First Year Top 3 Outcomes:<br />
+1) Deliver integrated target segmentation marketing strategy &amp; related content<br />
+&bull; Partnering with other company execs, translate current market segment thinking into actionable marketing plans and strategies based on research<br />
+&bull; Develop relevant and winsome content on the website (and sales tools) with case studies, reference logos and thought leadership insight<br />
+&bull; Develop integrated target marketing campaigns and ways to create marketing buzz and leverage with regular reporting on strategy and impact</p>
+<p>
+2) Increase number of qualified sales leads through demand generation<br />
+&bull; Increase monthly qualified leads (4x from today) using SEO, online marketing strategies, social media and PR opportunities to fill the sales pipeline and drive new revenue<br />
+&bull; Data driven/ROI approach with proactive reporting and insight<br />
+&bull; Continually improving and testing campaigns to increase effectiveness; Intellectual curiosity to try new approaches and to win</p>
+<p>
+3) Sales support<br />
+&bull; Strategize closely with VP Sales on company and service offering marketing documents that would help in sales process, including: service offering comparisons, industry data and awareness building documents<br />
+&bull; Competitive response analysis and related marketing documents<br />
+&bull; Event management and partner marketing activities as needed</p>
+<p>
+Qualifications:</p>
+<p>
+&bull; 5+ years of Director of Marketing relevant experience working in a B2B software company driving new marketing strategy and results<br />
+&bull; Industry experience with major cloud hosting companies, datacenters, or directly related industries strongly preferred<br />
+&bull; Entrepreneurial/startup success track record of scaling up people, systems, and marketing to win<br />
+&bull; Hands-on marketing strategist with the ability to lead a small team; Guerilla marketing strategist delivering big impact with a small budget; Bias toward action<br />
+&bull; Sales bottom line mindset in viewing role as a key impact for the company in driving new leads and marketing segmentation strategy; Loves saying &ldquo;ROI&rdquo;<br />
+&bull; Trusted business partner with transparent and authentic approach to problems with keeping the client satisfaction, business success, and a positive team culture over personal ego; provide a balanced perspective to issues and options.<br />
+&bull; Proactive approach in developing marketing plans that provide reliability, minimize surprises and fire drills, and help take organization to the next level; strong project management skills and passion for high quality service<br />
+&bull; BA in Marketing or related field; MBA preferred</p>
+<p>
+Blue Box Benefits Package:</p>
+<p>
+&bull; 15 days of PTO annually and 8 company paid holidays<br />
+&bull; Quarterly profit sharing plan<br />
+&bull; 401k plan with a fully vested company match<br />
+&bull; Medical, dental and vision coverage with 90% employer contribution towards employee premium, and 50% towards dependent premiums<br />
+&bull; Long Term and Short Term Disability plans<br />
+&bull; Life insurance<br />
+&bull; Discounted transit pass depending on region<br />
+&bull; Snacks and drinks provided in the Seattle office<br />
+&bull; Travel to industry conferences and continuing education opportunities</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blueboxgroup/ysrGyz"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130118002127_QRMZ8QE2CRNGBWOZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sales Executive]]></title>
+			<department><![CDATA[Sales & Marketing]]></department>
+			<team><![CDATA[Marketing/Sales]]></team>
+			<url><![CDATA[http://blueboxgroup.theresumator.com/apply/MtsLB5/Sales-Executive.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98101]]></postalcode>
+			<description><![CDATA[<p>
+About Us</p>
+<p>
+Founded in 2003, we focus on the needs of our customers instead of the whims of the market. We are immersed in the operations and systems world and focus on running the most streamlined setups out there. We are the perfect compliment to your development team.&nbsp; We have the tools and expertise to customize hybrid setups with our Blocks cloud product and dedicated database servers utilizing load balancing. We work closely with you to ensure your hosting environment meets your app&rsquo;s requirements.</p>
+<p>
+Job Summary</p>
+<p>
+Blue Box is looking for a tech-savvy sales person with a talent for business development who is excited about playing a pivotal role in the growth and success of our organization. We are looking for someone with the ability to drive the sales cycle from start to finish: cold calls, building pipelines, and closing business. This person will have a consultative sales approach, a drive to develop client relationships and understand client needs, and the ability to communicate how our hosted solutions can help.</p>
+<p>
+We&#39;re growing fast, and you have a chance to get in on the ground floor. If you&rsquo;re looking for an exciting sales opportunity that combines the sustainability of a company that&rsquo;s been around since 2003 with the excitement of a start-up, join us!</p>
+<p>
+Responsibilities:<br />
+&bull; The primary responsibility is identifying, qualifying, and closing new business for the company<br />
+&bull; Meet or exceed monthly goals for qualified prospects and closed sales<br />
+&bull; Track and report progress to management through Salesforce.com and other tools<br />
+&bull; Effectively communicate Blue Box&rsquo;s services and benefits to prospective customers by phone, Go-to-meeting, e-mail, and in person<br />
+&bull; Understand specific customer needs, and provide personalized assistance throughout the sales process.<br />
+&bull; Provide exceptional customer service to current and prospective customers<br />
+&bull; Assist creating promoter customers and works to identify new ways to leverage our product set in order to delight customers<br />
+&bull; Take full ownership of complete client engagement model from introduction to deal close, hand-off to implementation team and follow up</p>
+<p>
+Required Knowledge, Skills &amp; Abilities:<br />
+&bull; An enthusiastic, self-directed individual with an entrepreneurial spirit<br />
+&bull; A self-starter who is able to work well in a small team environment<br />
+&bull; Passionate about technology and cloud hosting<br />
+&bull; Strongly driven to beat targets, with a relentlessly positive attitude and incredible work ethic<br />
+&bull; Technologically savvy and able to communicate effectively with C-Level prospects as well as IT personnel<br />
+&bull; Master of effective oral and written communication to internal and external audiences</p>
+<p>
+Education &amp; Experience:<br />
+&bull; 5+ years of direct sales experience, preferably with a cloud or managed hosting background<br />
+&bull; A track record demonstrating success in completing the sales process from cold call to close<br />
+&bull; Significant industry knowledge with 2 years experience of selling managed services and or hosting where the environments involve a complexity of 2 servers and firewall and above<br />
+&bull; Strong understanding of the hosting, cloud and PaaS market and methods to sell to them<br />
+&bull; Travel, up to 50% of the time, will be part of this role<br />
+&bull; Able to thrive in a startup environment&mdash;moves quickly, thinks strategically, and is good at tactical execution<br />
+&bull; Solid writing skills (spelling, grammar, etc.) for creating agreements and managing correspondence<br />
+&bull; Exceptional verbal communication skills; an excellent speaking voice and proven telephone skills<br />
+&bull; Comfortable using technology to perform routine job tasks and demonstrate the product<br />
+&bull; Proficient with Salesforce.com<br />
+&bull; Proficient with Microsoft Windows Suite (Word, Excel, PowerPoint)<br />
+&bull; Bachelor&rsquo;s degree preferred</p>
+<p>
+Blue Box Benefits Package:</p>
+<p>
+&bull; 15 days of PTO annually and 8 company paid holidays<br />
+&bull; Quarterly profit sharing plan<br />
+&bull; 401k plan with a fully vested company match<br />
+&bull; Medical, dental and vision coverage with 90% employer contribution towards employee premium, and 50% towards dependent premiums<br />
+&bull; Long Term and Short Term Disability plans<br />
+&bull; Life insurance<br />
+&bull; Discounted transit pass depending on region<br />
+&bull; Snacks and drinks provided in the Seattle office<br />
+&bull; Travel to industry conferences and continuing education opportunities</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blueboxgroup/MtsLB5"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130131192712_T91HULBUZMQ9EJLG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Account Executive]]></title>
+			<department><![CDATA[Sales & Marketing]]></department>
+			<team><![CDATA[Marketing/Sales]]></team>
+			<url><![CDATA[http://blueboxgroup.theresumator.com/apply/JUrWgM/Account-Executive.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98101]]></postalcode>
+			<description><![CDATA[<p>
+Job Summary:</p>
+<p>
+Blue Box is looking for a tech-savvy sales person with a talent for customer development who is excited about playing a pivotal role in the growth and success of our organization. We are looking for an Account Executive who will be responsible for developing sales from our existing Blue Box customers and generate new leads and opportunities through developing relationships with clients across their markets.</p>
+<p>
+We&#39;re growing fast, and you have a chance to get in on the ground floor. If you&rsquo;re looking for an exciting sales opportunity that combines the sustainability of a company that&rsquo;s been around since 2003 with the excitement of a start-up, join us.</p>
+<p>
+Responsibilities:</p>
+<p>
+&bull; The primary responsibility is identifying, qualifying, and closing business that is driven from our existing customer accounts<br />
+&bull; Understand each account&rsquo;s key decision makers and players and leverage those relationships to grow the account footprint<br />
+&bull; Work along side Technical Account Managers to develop and support existing accounts<br />
+&bull; Meet and exceed monthly sales targets<br />
+&bull; Responsible for the full sales cycle from lead development to successful close<br />
+&bull; Work directly with the Director of Sales to identify and prioritize opportunities and to negotiate strategic key relationships<br />
+&bull; Participation in brand awareness building activities, including industry trade shows and community development efforts (developer groups, start up accelerators, start up communities)<br />
+&bull; Maintain a clear understanding of how existing customers are using Blue Box solutions<br />
+&bull; Work well with the sales team and solution engineers to design solutions accurately<br />
+&bull; Must a bring a high energy level and a positive attitude every day</p>
+<p>
+Job Requirements:</p>
+<p>
+The ideal candidate will have the following:<br />
+&bull; 5+ years of direct sales experience, preferably with a cloud or managed hosting background<br />
+&bull; Familiarity with how to strategically plan for account penetration and development<br />
+&bull; A track record demonstrating success in completing the sales process from cold call to close<br />
+&bull; Ability to thrive in a startup environment&mdash;moving quickly, thinking strategically, and using tactical execution<br />
+&bull; Bachelor&rsquo;s degree in business or marketing preferred<br />
+&bull; Experience of strategic selling at Executive and Board level<br />
+&bull; Sales experience in a technology related industry<br />
+&bull; B2B Sales experience<br />
+&bull; Understanding of professional sales training and sales process<br />
+&bull; Superior follow up skills with the ability to respond under pressure<br />
+&bull; Ability to work to a monthly target<br />
+&bull; Effectively communicate over the phone, through email and face-to-face<br />
+&bull; Superior negotiation skills<br />
+&bull; Strong presentation, written and verbal communication skills<br />
+&bull; Goal oriented with superior work ethic<br />
+&bull; Proven territory / vertical market sales development skills<br />
+&bull; Effective time management skills<br />
+&bull; Ability to generate and qualify excellent customer leads<br />
+&bull; Up to 50 % travel</p>
+<p>
+Blue Box Benefits Package:</p>
+<p>
+&bull; 15 days of PTO annually and 8 company paid holidays<br />
+&bull; Quarterly profit sharing plan<br />
+&bull; 401k plan with a fully vested company match<br />
+&bull; Medical, dental and vision coverage with 90% employer contribution towards employee premium, and 50% towards dependent premiums<br />
+&bull; Long Term and Short Term Disability plans<br />
+&bull; Life insurance<br />
+&bull; Discounted transit pass depending on region<br />
+&bull; Snacks and drinks provided in the Seattle office<br />
+&bull; Travel to industry conferences and continuing education opportunities</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blueboxgroup/JUrWgM"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130703221539_CNHQFJNSCVQSPXYY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Outbound Lead Generator]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[Marketing/Sales]]></team>
+			<url><![CDATA[http://blueboxgroup.theresumator.com/apply/OWol8U/Outbound-Lead-Generator.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98101]]></postalcode>
+			<description><![CDATA[<p>
+Blue Box is a managed hosting company that is growing fast. If you&rsquo;re looking for an exciting sales position and a way to gain experience in the technology industry, combining the sustainability of a company that&rsquo;s been around since 2003 with the excitement of a start-up, Blue Box is for you.</p>
+<p>
+The Outbound Lead Generator is primarily a communications position and requires outbound telephone-prospecting functions to our targeted prospects. The Outbound Lead Generator will utilize professional communication, research and interviewing skills, as well as marketing and sales skills.&nbsp; This individual will work closely with our Director of Sales and our Sales Team.&nbsp; If the ability to see your impact on a daily basis is something that you&rsquo;re interested in, then join us!</p>
+<p>
+<strong>Job Responsibilities:</strong></p>
+<ul>
+<li>
+Conduct outbound calls into companies across the US and speak to prospective clients about their business needs and initiatives.</li>
+<li>
+Identify who the most appropriate decision maker is in the company by speaking with multiple company representatives as described above.</li>
+<li>
+Initiate a conversation with the decision maker to introduce our products &amp; services</li>
+<li>
+Educate the decision maker on the value Blue Box Group can offer our prospects and then determine if the company would be a good fit for our Sales Executives to sell to.</li>
+<li>
+Once a sales-ready lead is identified, pass the lead to our Sales Executives for further qualification and follow up.</li>
+<li>
+Utilize phone and email to communicate with the companies that are assigned via Salesforce.com.</li>
+<li>
+Update SalesForce.com after each contact with prospective clients with clear and concise notes.</li>
+</ul>
+<p>
+<strong>Required Knowledge, Skiils &amp; Abilities:</strong></p>
+<ul>
+<li>
+Must have a college degree</li>
+<li>
+Customer service/Sales experience preferred</li>
+<li>
+Great verbal and written communication skills</li>
+<li>
+Ability to be assertive and persuasive without being aggressive</li>
+<li>
+Active listening skills</li>
+<li>
+Ability to learn and think quickly</li>
+<li>
+Inquisitive nature</li>
+<li>
+Ability to maintain confidentiality&nbsp;&nbsp;&nbsp;</li>
+<li>
+Goal oriented with a high level of self-motivation</li>
+</ul>
+<p>
+<strong>Blue Box Benefits Package:</strong></p>
+<ul>
+<li>
+15 days of PTO annually and 8 company paid holidays</li>
+<li>
+Quarterly profit sharing plan</li>
+<li>
+401k plan with a fully vested company match</li>
+<li>
+Medical, dental and vision coverage with 90% employer contribution towards employee premium, and 50% towards dependent premiums</li>
+<li>
+Long Term and Short Term Disability plans</li>
+<li>
+Life insurance</li>
+<li>
+Discounted transit pass depending on region</li>
+<li>
+Snacks and drinks provided in the Seattle office</li>
+<li>
+Travel to industry conferences and continuing education opportunities</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/blueboxgroup/OWol8U"></script>]]></buttons>
+		</job>
+	</jobs>

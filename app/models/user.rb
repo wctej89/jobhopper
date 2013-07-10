@@ -1,7 +1,7 @@
 class User < ActiveRecord::Base
   include Feed
 
-  attr_accessible :name, :email, :password, :password_confirmation
+  attr_accessible :name, :email, :password, :password_confirmation, :lat, :lng
   # has_secure_password 
   has_many :user_tags, :dependent => :destroy
   has_many :tags, :through => :user_tags
@@ -49,10 +49,9 @@ class User < ActiveRecord::Base
 
   def feed(location_array, page)
     # TODO begin rescue here
-    #CraigslistWorker.perform_in(3.hours, self.id)
     jobs_array = []
     self.tags.each {|tag| tag.jobs.each {|job| jobs_array << job }  }
-    final_result = remove_queued_jobs(sort_by_radius(jobs_array.uniq, self.location))
+    final_result = remove_queued_jobs(sort_by_radius(jobs_array.uniq, [self.lat, self.lng]))
     result = {}
     result[:total] = final_result.count
     start_index = (page-1)*10
@@ -64,7 +63,7 @@ class User < ActiveRecord::Base
 
   def remove_queued_jobs(job_hash)
     self.jobs.each do |job|
-       if job_hash.values.include?(job)
+      if job_hash.values.include?(job)
         x = job_hash.values.index(job)
         job_hash.delete(job_hash.keys[x])
       end
@@ -72,7 +71,11 @@ class User < ActiveRecord::Base
     job_hash
   end
 
-private
+  def add_location!(params)
+    self.update_attributes(:lat => params["lat"], :lng => params["lng"])
+  end
+
+  private
 
   def create_list
     List.create(:user_id => self.id)

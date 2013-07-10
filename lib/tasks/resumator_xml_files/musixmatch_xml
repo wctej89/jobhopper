@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[musixmatch]]></company>
+			<job>
+			<id><![CDATA[job_20120116221540_1DUEEHXJOH0YMG72]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[PHP & drupal senior engineer]]></title>
+			<department><![CDATA[IT]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://musixmatch.theresumator.com/apply/oFlWBi/PHP-Drupal-Senior-Engineer.html]]></url>
+			<city><![CDATA[Bologna]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Italy]]></country>
+			<postalcode><![CDATA[40137]]></postalcode>
+			<description><![CDATA[<p>
+	Location : Bologna (Italy)<br />
+	Type: Contract<br />
+	Experience: Mid-Senior level<br />
+	Functions: Engineering<br />
+	Industries: Music<br />
+	Compensation: 20,000 EUR &ndash; 35,000 EUR /year<br />
+	Employer Job ID: PHP-Sen</p>
+<p>
+	Job Description<br />
+	PHP &amp; Drupal Engineer will have to :   - Build Drupal &amp; Ad Server Modules for interfacing with our metadata  - Modify DRUPAL core for scaling with a db with &gt;5mln nodes  - Modify Apache, Drupal modules or Sphinx for interfacing with our metadata<br />
+	Skills<br />
+	Required Skills:   &middot; 3-4 years Drupal development experience  &middot; 3-4 years PHP development experience  &middot; 3-4 years MySQL or PostgreSQL development experience  &middot; Strong Object Oriented Analysis and Design experience  &middot; Strong familiarity with open source (LAMP) tools and development methodologies.  &middot; Strong experience building large, interactive web sites  &middot; Familiarity with Ajax technologies  &middot; XML &amp; XSLT experience  &middot; Strong communications skills needed to quickly interpret requirements and designs and carry out assigned development tasks.  &middot; Fully independent and time flexible  &middot; High capacity for multi-tasking and high productivity/output<br />
+	Additional Information<br />
+	We welcome local candidates and relocations to the Bologna Area, Italy.<br />
+	No third party applications.<br />
+	Apply for this position: Send an email with CV to</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/musixmatch/oFlWBi"></script>]]></buttons>
+		</job>
+	</jobs>

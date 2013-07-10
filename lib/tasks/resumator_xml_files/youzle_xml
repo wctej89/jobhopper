@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Youzle]]></company>
+			<job>
+			<id><![CDATA[job_20090926051726_G9UHOODIUFNBWNNC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Developer]]></title>
+			<department><![CDATA[Youzle]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://youzle.theresumator.com/apply/eEYsMk/Developer.html]]></url>
+			<city><![CDATA[Newcastle]]></city>
+			<state><![CDATA[New South Wales]]></state>
+			<country><![CDATA[Australia]]></country>
+			<postalcode><![CDATA[2298]]></postalcode>
+			<description><![CDATA[<p>A second developer is required to help speed up the development process. Once development is completed, the person will be given the option to stay on the team and co-found the project or move on.</p>
+<p> </p>
+<p><strong>Required skills:<br /></strong>- PHP<br />- MySQL<br />- Javascript (jQuery)</p>]]></description>
+			<type><![CDATA[Volunteer]]></type>
+			<experience><![CDATA[Student (High School)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/youzle/eEYsMk"></script>]]></buttons>
+		</job>
+	</jobs>

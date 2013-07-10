@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Simple Lifeforms]]></company>
+			<job>
+			<id><![CDATA[job_20110927154308_AWH9KY6HONMRXKWQ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Application Developer - Games]]></title>
+			<department><![CDATA[Developer]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://simplelifeforms.theresumator.com/apply/DKwSlD/Web-Application-Developer-Games.html]]></url>
+			<city><![CDATA[Dublin]]></city>
+			<state><![CDATA[Dublin]]></state>
+			<country><![CDATA[Ireland]]></country>
+			<postalcode><![CDATA[Dublin 2]]></postalcode>
+			<description><![CDATA[<p>
+	We are looking for an experienced web application developer to join our team and undertake day-to-day development on an exciting project for a young and ambitious start-up games company in Dublin. Ideally this is a full time permanent position but we are flexible.</p>
+<p>
+	We are developing a geo-location/check-in game that works across a number of platforms: Facebook, Google+, smartphones, tablet computers &amp; other devices.</p>
+<p>
+	<strong>About the Company</strong></p>
+<p>
+	Simple Lifeforms are an on-line game publisher working on the most dynamic game platforms in the world. We&#39;re based in the United Kingdom and Ireland.</p>
+<p>
+	We are a games company based in Ireland and London. You can find out more about us on our website www.simplelifeforms.com.</p>
+<p>
+	<strong>Responsibilities</strong></p>
+<p>
+	&bull; Develop new features for our flagship game project.<br />
+	&bull; Fix bugs, refactor and rewrite code based on feedback from our users.<br />
+	&bull; Stay abreast of developments in games, the web and technology advancements.</p>
+<p>
+	<strong>Required Skills</strong></p>
+<p>
+	&bull; Professional web application development experience.<br />
+	&bull; Strong (Object Oriented) PHP development experience.<br />
+	&bull; Strong working knowledge of design patterns, especially MVC.<br />
+	&bull; In depth knowledge of Javascript, more specifically, jQuery.<br />
+	&bull; Expert knowledge of HTML, CSS, XML and Web Services.<br />
+	&bull; Experience in game design and development (this does not have to be professional experience, but we do require that you show us assets from projects you took part in).<br />
+	&bull; Exceptional OOP design skills with strong adherence to coding standards and design process.<br />
+	&bull; Experience in agile/lean development as well as best practice in release management, source control and issue tracking.</p>
+<p>
+	<strong>Desirable Skills</strong></p>
+<p>
+	&bull; MySQL administration and database design.<br />
+	&bull; Experience of optimizing code, database tables/queries and performance.<br />
+	&bull; Experience using memcached.<br />
+	&bull; Experience in commercial games industry.</p>
+]]></description>
+			<type><![CDATA[Part Time to Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/simplelifeforms/DKwSlD"></script>]]></buttons>
+		</job>
+	</jobs>

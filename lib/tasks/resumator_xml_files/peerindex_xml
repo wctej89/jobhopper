@@ -1,0 +1,536 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[PeerIndex]]></company>
+			<job>
+			<id><![CDATA[job_20110725202730_2OAAUPMNTE2WLZE6]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Research Engineer]]></title>
+			<department><![CDATA[Development]]></department>
+			<team><![CDATA[Hadoop]]></team>
+			<url><![CDATA[http://peerindex.theresumator.com/apply/GWw4D7/Research-Engineer.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[London]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EC1Y 2BJ]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Introduction</strong></p>
+<p>
+	You:a &quot;big data&quot; coder who is tired of spinning up instances to calculate the &ldquo;Most Read Article&rdquo; from log files. You have the experience and ability to process huge amounts of data, and is interested in building a model for predicting who are the most influential people online. You enjoy working on problems that include:</p>
+<ul>
+	<li>
+		processing billions of facts from the social web, identifying conversations and their topics</li>
+	<li>
+		harvesting and analysing terabytes of data harvested from the social web to identify user interests and influencers by applying elegant maths that you and your buddies designed.</li>
+	<li>
+		arguing with your others on how important a retweet is over a +1 on Google+</li>
+</ul>
+<p>
+	<strong>Who Are We?</strong><br />
+	We are PeerIndex (www.peerindex.com) a company based at the heart of Silicon Roundabout leading the way to help companies and individuals understand and capitalise on the impact of their social influence on the web and off.</p>
+<p>
+	We are changing the face of social engagement and authority - we are about giving individuals ownership over their influence and the value of their data - and we are looking for people to join us in this adventure.</p>
+<p>
+	We are expanding our Data Engineering team - building an environment where the most creative of people can explore and build upon some of the largest data sets in the world -- elegantly creating meaning out of the social web.</p>
+<p>
+	Our team is bold and brilliant and are looking for like-minded people. And we are about changing the world - not about punching the clock.</p>
+<p>
+	<strong>Who Are You?</strong><br />
+	You are a graduate in computer science or of similar experiences (not all education happens in unis); has had previous experience in crunching through large data sets using tools like Hadoop or Mahout; and can argue the finer points of why Java is a better language than PHP or Python for &ldquo;big data&rdquo; efforts or vice versa.</p>
+<p>
+	You are about holding your own in a software architecture discussion and can sense when the solution presented is not the right way forward.</p>
+<p>
+	You are likely a closet maths geek (yes, you were calculating the odds of Spain winning the World Cup) - but your true calling is the ability to develop elegant code alongside other amazing people.</p>
+<p>
+	<strong>What About the Role?</strong><br />
+	You will be responsible for:</p>
+<ul>
+	<li>
+		Developing systems for identifying, evaluating and predicting influence in online and offline spheres</li>
+	<li>
+		Working closely with data scientists to build, implement and operationalize (at a large scale) algorithms to describe influence and contagion in networks</li>
+	<li>
+		Working as part of the wider development team across our data platform</li>
+</ul>
+<p>
+	We think our influence algorithms will take on the greater challenge - building the PageRank of People. Sure, you could go to Google, or you could be involved with the development and execution of a novel and groundbreaking service.</p>
+<p>
+	You will be a member of the Data Science Team working with others to test out models and use agile development techniques to improve and enhance with live data. You will work with the Product Team to bring your algorithm to light so that your mum might understand what you are working on and why Uncle Bob is an authority in Cheshire Cheese.</p>
+<p>
+	And you might add to the Apache Hadoop project - helping to grow the ecosystem that is &ldquo;big data&rdquo;.</p>
+<p>
+	While we are currently based at London&#39;s Old Street tech quarter, our organization is distributed over five time zones so we are also willing to speak with exceptional remotely located applicants.</p>
+<p>
+	<strong>What Must I Have?</strong><br />
+	At the very minimum, you must be able to work in the EU. Please - do not apply if you do not already have a valid work permit for the EU (unless you are from the US and then you could apply since our CTO is an American).</p>
+<p>
+	Additionally you must have:</p>
+<ul>
+	<li>
+		Excellent experience in coding &ldquo;big data&rdquo; solutions - with an emphasis in Hadoop / Mahoot solutions</li>
+</ul>
+<p>
+	Since we are doing some heavy analysis, you should have experience in two of the following four disciplines:</p>
+<ul>
+	<li>
+		Graph analysis: main social network analysis methods (such as calculating centralities, graph partitioning, community detection, modelling contagion)</li>
+	<li>
+		Data analysis: large scale data analysis and experience with machine learning techniques</li>
+	<li>
+		Natural language: natural language processing, text retrieval, web search, search of social networks</li>
+	<li>
+		Web Search: you know what we mean</li>
+</ul>
+<p>
+	To hold your own, you should have more than a year of experience in data analysis</p>
+<ul>
+	<li>
+		Oh, and having experience in Hadoop (or Nutch or Mahout) and Java is a major point.</li>
+</ul>
+<p>
+	<strong>Can I Get Bonus Points?</strong><br />
+	Sure - we would love it if you have an affection and experience in some of the functional languages that are making a splash (like Erlang and Scala). We also would like:</p>
+<ul>
+	<li>
+		A Computer Science or similar quantitative degree is desired - but some of the best developers are self-taught autodidacts</li>
+	<li>
+		Familiarity with C++, Python</li>
+	<li>
+		Experience in predictive modelling gained in a commercial-oriented technology business</li>
+	<li>
+		That you enjoy discussing the differences between the BrownCoats and the Empire.</li>
+</ul>
+<p>
+	<strong>Okay - so how much do I make?</strong><br />
+	Well, we would be telling if we told you the salary right off the bat. But you can be sure that pay is commiserate with experience and effort. And you will participate in the ownership of the company though our options package and other potential benefits.</p>
+<p>
+	So if your idea of fun is spinning up 20 cloud-based servers and pulling down gigabytes of data to process through Mongo and Hadoop, then we&#39;d really like to hear from you. Around here, we call that - a &#39;Wednesday&#39;.&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/PeerIndex/GWw4D7"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110809004519_GQWOLFVRNJPHV0ET]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[PHP Engineer]]></title>
+			<department><![CDATA[Development]]></department>
+			<team><![CDATA[PHP Team]]></team>
+			<url><![CDATA[http://peerindex.theresumator.com/apply/Y2mpl3/PHP-Engineer.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[London]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EC1Y 2BJ]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Introduction</strong><br />
+	You: a PHP guru who is sick of getting the call for &ldquo;yet another website&rdquo; that is more of brochure-ware and marketing glitz. You have been itching to build a solid Symfony2 solution which will serve billions of API requests per day and serve customers from around the world - all on the order of millisecond response times. &nbsp;</p>
+<p>
+	Heck, you might even be excited to build your own applications to earn some extra dosh on the side. You are looking at problems like:</p>
+<ul>
+	<li>
+		handling the mashing up of &quot;big data&quot; and the characteristics of it for regular customers and global brands to better understand their influence</li>
+	<li>
+		architecting&nbsp;a service oriented architecture (SOA)&nbsp;solution that handles the response rate of a widely-used API on the order of milliseconds</li>
+	<li>
+		making the architecture flexible enough for proper A/B testing on interface to develop more gamelike features (see the buzz word &quot;<a href="http://en.wikipedia.org/wiki/Gamification">gamification</a>&quot; - we want it better...)</li>
+	<li>
+		why companies use API management solution like Mashery and/or Apigee</li>
+	<li>
+		why the Symfony2&nbsp;framework is a hell of a lot better than Zend, Nuke or Cake (PHP 5.3)</li>
+</ul>
+<p>
+	<strong>Who Are We?</strong><br />
+	We are PeerIndex (<a href="http://www.peerindex.com">www.peerindex.com</a>), a company based at the heart of Silicon Roundabout leading the way to help companies and individuals understand and capitalise on the impact of their social influence on the web and off.</p>
+<p>
+	We are changing the face of social engagement and authority - we are about giving individuals ownership over their influence and the value of their data - and we are looking for people to join us in this adventure.</p>
+<p>
+	We are expanding our front end team to support our growing number of users of our API as well as building out applications to allow people to better understand this &ldquo;social influence&rdquo; thing we do.</p>
+<p>
+	Our team is bold and brilliant and are looking for like-minded people. And we are about changing the world - not about punching the clock.</p>
+<p>
+	<strong>Who Are You?</strong><br />
+	You are a graduate in computer science or a similar quantitative degree (our CTO is partial to EE or ME) and (hopefully) had previous experience in developing amazing applications for users to better understand data. While the role could be simply revamping the existing PHP codebase, we have bigger things in store.</p>
+<p>
+	Rather than have you simply draft PHP code, you will spend your time learning and growing the entire interface layer - from the datastore to the application widgets to the front-end - all via a high-performing REST API layer.</p>
+<p>
+	And you are one of those PHP guys (gender non-specific) who knows the strengths and weaknesses of different frameworks and is not afraid to argue the finer points of Symfony2. But when you defend your position, you have proof from your own code or experiences, not just opinions formed from reading Stack Overflow.</p>
+<p>
+	You are about holding your own in a software architecture discussion and can sense when the solution presented is not the right way forward.</p>
+<p>
+	You might be a closet maths geek (yes, you were calculating the odds of Spain winning the Women&rsquo;s World Cup) - but your true calling is the ability to develop elegant code alongside some amazing people.</p>
+<p>
+	<strong>What About the Role?</strong><br />
+	We have numerous responsibilities in the PHP Engineer role since no one person will be placed in one small role for the time. You could be responsible for:</p>
+<ul>
+	<li>
+		Developing in Symfony2 and Twig templates for our consumer-facing&nbsp;and client-facing interfaces</li>
+	<li>
+		Building the PeerIndex REST API which powers all requesters to the PeerIndex SOA</li>
+	<li>
+		Architecting and extending API services for those web applications that are dependent upon the PI data</li>
+	<li>
+		Working as part of the wider development team across our data platform</li>
+</ul>
+<p>
+	We like to think that our influence algorithms will take on the greater challenge - think of it as building the PageRank of People. Sure, you could go to Google,&nbsp;or you could be involved with the development and execution of a novel and groundbreaking service.</p>
+<p>
+	You will be a member of the PeerIndex Development Team bringing about a better way of controlling and accessing people&rsquo;s own &ldquo;social capital&rdquo;.</p>
+<p>
+	And you spend some of your &quot;copious spare time&quot; adding to various OSS projects to help grow those projects.</p>
+<p>
+	While we are currently based at London&#39;s Old Street tech quarter, our organization is distributed over five time zones so we are also willing to speak with exceptional remotely located applicants.</p>
+<p>
+	<strong>What Must I Have?</strong><br />
+	At the very minimum, you must be able to work in the EU. Please - do not apply if you do not already have a valid work permit for the EU (unless you are from the US and then you could apply since our CTO is an American).</p>
+<p>
+	Additionally you must have:</p>
+<ul>
+	<li>
+		Significant experience in developing solid PHP frameworks in an &ldquo;agile&rdquo; style - be able to work with the business side and be an advocate for both the technical issues and the customer issues</li>
+	<li>
+		Experience with Symfony2 or other similar MVC frameworks</li>
+	<li>
+		Expert at object-oriented programming concepts and design patterns</li>
+	<li>
+		Portfolio and code samples showing work that demonstrates OO PHP programming</li>
+</ul>
+<p>
+	You probably have strong experiences in:</p>
+<ul>
+	<li>
+		DVCS such as git or mercurial</li>
+	<li>
+		Unit testing and Continuous Integration</li>
+	<li>
+		Service-oriented architectures, web services, and Cloud technologies</li>
+	<li>
+		PHP 5.3 and all the new shiny stuff that comes with it (e.g., namespaces, closures, etc)</li>
+</ul>
+<p>
+	<strong>Can I Get Bonus Points?</strong><br />
+	Sure - we would love it if you have an affection and experience in some of the functional languages that are making a splash (like Erlang and Scala). We also would like:</p>
+<ul>
+	<li>
+		A Computer Science or similar quantitative degree is desired - but some of the best developers are self-taught autodidacts</li>
+	<li>
+		Experience in predictive modelling gained in a commercial-oriented technology business</li>
+	<li>
+		...and why you can install 16GB into the newest MacBook Pros and you know DAMN well how you are going to use it</li>
+</ul>
+<p>
+	<strong>Okay - so how much do I make?</strong><br />
+	Well, we would be telling if we told you the salary right off the bat. But you can be sure that pay is commensurate with your experience and effort. And yes, you will have ownership in the company through our options package and other potential benefits.</p>
+<p>
+	<strong>How Do I Apply?</strong><br />
+	Simple: fill in the questions to the right and submit your cover letter (something brief), your CV and (more importantly) - point us to your personal blog, your GitHub and/or SO profile, any meetups that you attend, and/or any OSS projects you contribute to or mashups you have built. You choose what we should look at.</p>
+<p>
+	So if your idea of fun is turning around a user interface component and seeing it deployed with your new features in less than a day, then we&#39;d really like to hear from you. Around here, we call that - a &#39;Tuesday&#39;.&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/PeerIndex/Y2mpl3"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110809005507_UXXJFLOACIJZ7OHP]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Hadoop / “Big Data” Engineer]]></title>
+			<department><![CDATA[Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://peerindex.theresumator.com/apply/YwYG0k/Hadoop-Big-Data-Engineer.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[London]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EC1Y 2BJ]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Introduction</strong><br />
+	You:a &quot;big data&quot; engineer who has the experience and ability to process huge amounts of data, and who is interested in building a model for predicting who are the most influential people online. You enjoy working on problems that include:</p>
+<ul>
+	<li>
+		processing billions of facts from the social web, identifying conversations and their topics</li>
+	<li>
+		harvesting and analysing&nbsp;terabytes of data harvested from the social web to identify user interests and influencers by applying elegant maths that you and your buddies designed.</li>
+	<li>
+		arguing with your others on how important a retweet is over a +1 on Google+</li>
+</ul>
+<p>
+	<strong>Who Are We?</strong><br />
+	We are PeerIndex (<a href="http://www.peerindex.com">www.peerindex.com</a>) a company based at the heart of Silicon Roundabout leading the way to help companies and individuals understand and capitalise on the impact of their social influence on the web and off.</p>
+<p>
+	We are changing the face of social engagement and authority - we are about giving individuals ownership over their influence and the value of their data - and we are looking for people to join us in this adventure.</p>
+<p>
+	We are expanding our Data Engineering team - building an environment where the most creative of people can explore and build upon some of the largest data sets in the world -- elegantly creating meaning out of the social web.</p>
+<p>
+	Our team is bold and brilliant and are looking for like-minded people. And we are about changing the world - not about punching the clock.</p>
+<p>
+	<strong>Who Are You?</strong><br />
+	You are a graduate in computer science or of similar experiences (not all education happens in unis); has had previous experience in crunching through large data sets using tools like Hadoop or Mahout; and can argue the finer points of why Java is a better language than PHP or Python for &ldquo;big data&rdquo; efforts or vice versa.</p>
+<p>
+	You are about holding your own in a software architecture discussion and can sense when the solution presented is not the right way forward.&nbsp;</p>
+<p>
+	You are likely a closet maths geek (yes, you were calculating the odds of Spain winning the World Cup) - but your true calling is the ability to develop elegant code alongside other amazing people.</p>
+<p>
+	<strong>What About the Role?</strong><br />
+	You will be responsible for:</p>
+<ul>
+	<li>
+		Building and operating our large scale data pipeline (we call is PISAE). This pipeline is designed to ingest and processes hundreds of millions of items from the social web every day</li>
+	<li>
+		Implementing and optimising&nbsp;our Hadoop stack (Hadoop, HDFS, Thrift, Hive, Pig, Azkaban) as well as enhancing&nbsp;these tools (contributing back to the open-source community)</li>
+	<li>
+		Operationalising&nbsp;the predictive analytics designed by our Data Engineering&nbsp;team</li>
+</ul>
+<p>
+	We think our influence algorithms will take on the greater challenge - building the PageRank of People. Sure, you could go to Google, or you could be involved with the development and execution of a novel and groundbreaking service.</p>
+<p>
+	While we are currently based at London&#39;s Old Street tech quarter, our organization is distributed over five time zones so we are also willing to speak with exceptional remotely located applicants.</p>
+<p>
+	<strong>What Must I Have?</strong><br />
+	At the very minimum, you must be able to work in the EU. Please - do not apply if you do not already have a valid work permit for the EU (unless you are from the US and then you could apply since our CTO is an American).</p>
+<p>
+	Additionally we would prefer that you would have some level experience in coding &ldquo;big data&rdquo; solutions - with an emphasis in Hadoop / Mahout solutions - or solid MapReduce solutions. &nbsp;Leveraging the Hadoop or Cloudera framework is desired, we also play around with EMR and enjoy a bit of PHP and Python coding as well.</p>
+<p>
+	Additionally we prefer you have:</p>
+<ul>
+	<li>
+		Java, Hadoop and Map-Reduce</li>
+	<li>
+		A DVCS (git or mercurial)</li>
+	<li>
+		Service-oriented architectures, web services, and Cloud technologies</li>
+</ul>
+<p>
+	<strong>Can I Get Bonus Points?</strong><br />
+	Sure - we would love it if you have an affection and experience in some of the functional languages that are making a splash (like Erlang and Scala). We also would like:</p>
+<ul>
+	<li>
+		A Computer Science or similar quantitative degree is desired - but some of the best developers are self-taught autodidacts</li>
+	<li>
+		Familiarity with languages like Grails, Haskell,&nbsp;Python, Scala, clojure</li>
+	<li>
+		Experience in predictive modelling gained in a commercial-oriented technology business</li>
+	<li>
+		Schema-less database architecture understanding, e.g. MongoDB, Cassandra, or CouchDB</li>
+	<li>
+		...and you enjoy discussing the differences between the BrownCoats and the Alliance.</li>
+</ul>
+<p>
+	<strong>Okay - so how much do I make?</strong><br />
+	Well, we would be telling if we told you the salary right off the bat. But you can be sure that pay is commensurate with your experience and effort. And yes, you will have ownership in the company through our options package and other potential benefits.</p>
+<p>
+	<strong>How Do I Apply?</strong><br />
+	Simple: fill in the elements on the right and submit your cover letter (something brief), your CV and (more importantly) - point us to your personal blog, your Github and/or StackOverflow profile, any meetups you attend, and/or any OSS projects you contribute to or mashups you have built. You choose what we should look at.</p>
+<p>
+	So if your idea of fun is spinning up 200 cloud-based servers and pulling down gigabytes of data to process through Mongo and Hadoop, then we&#39;d really like to hear from you. Around here, we call that - a &#39;Wednesday&#39;.&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/PeerIndex/YwYG0k"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120105124703_ZOFYMH84RBIT56UE]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sales Head and Account Managers (UK)]]></title>
+			<department><![CDATA[Commercial]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://peerindex.theresumator.com/apply/W8iY1e/Sales-Head-And-Account-Managers-UK.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EC1Y 2BJ]]></postalcode>
+			<description><![CDATA[<p>
+	You&rsquo;re one of the most successful Account Managers in your team regularly hitting sales targets and closing the deals that get you admiration from your bosses&rsquo; boss.</p>
+<br />
+<p>
+	You love working in digital sales and winning big accounts that you look after to ensure they keep coming back to buy from you, time and time again.<br />
+	<br />
+	You enjoy the challenge of developing new campaign ideas that deliver for your customers and in doing so, help you build lasting relationships that mean they come to you before your competitors.<br />
+	<br />
+	You know social advertising is going to be big and joining a company that gets it and has products that deliver is important to you.<br />
+	<br />
+	Now you&rsquo;re ready for the next move, to a role that will launch your career to a new level and really reward you for the results you deliver.<br />
+	<br />
+	<br />
+	<strong>Who we are</strong><br />
+	<br />
+	Social Advertising is exploding and is not only limited to Facebook or YouTube.<br />
+	<br />
+	We are PeerIndex (www.peerindex.com) a company based at the heart of Silicon Roundabout leading the way in helping people understand, take control and get rewarded for their online influence.<br />
+	<br />
+	We connect brands with ordinary people who have influence over friends and followers in their network. It is these people who are the &lsquo;affordable influencers&rsquo; more likely to spread an idea than celebrities, journalists and bloggers who often lack the trust of our nearest and dearest.<br />
+	<br />
+	<br />
+	<strong>What we&rsquo;re looking for</strong><br />
+	<br />
+	We&rsquo;re expanding our Commercial team to bring together the most successful sales people in media to build an unrivalled scalable social advertising proposition that competes with other forms of advertising.<br />
+	<br />
+	We&rsquo;re hiring both Account Managers and a Team Head to develop agency and client relationships in the UK.<br />
+	<br />
+	<br />
+	<strong>About you</strong><br />
+	<br />
+	You are already a successful Account Manager who is liked and respected by the people you work with.<br />
+	<br />
+	You have a strong track record of servicing media agencies and have great relationships with those that you work with.<br />
+	<br />
+	You are a confident pitcher of ideas to Marketing Managers at client level as well as to their Account Managers in the agency and your style is very consultative.<br />
+	<br />
+	You want to step up into management and work alongside smart and experienced managers that can help you grow.<br />
+	<br />
+	You want to be part of a team where everyone has your drive and passion to succeed.<br />
+	<br />
+	<br />
+	<strong>About the role</strong><br />
+	<br />
+	You will be based out of our London office servicing UK media agencies and clients.<br />
+	<br />
+	You will be out meeting potential customers and developing relationships most of the time.<br />
+	<br />
+	You will work alongside our experienced Commercial Director to build the PeerIndex sales pipeline and close deals to meet the targets.<br />
+	<br />
+	You will work with the commercial delivery team to oversee project management.<br />
+	<br />
+	You provide valuable feedback to the product team to help refine our offering.<br />
+	<br />
+	<br />
+	<strong>What you must have</strong><br />
+	<br />
+	Be able to demonstrate that you are a deal closer and target hitter.<br />
+	<br />
+	That you have online advertising sales experience.<br />
+	<br />
+	That you work successfully with media agencies in the UK.<br />
+	<br />
+	You live in the UK.<br />
+	<br />
+	<br />
+	<strong>What else you need to know</strong><br />
+	<br />
+	An excellent compensation package awaits the right person who can show us that they have the skills, drive and desire to be part of our successful team.<br />
+	<br />
+	You can read more about the area in which we operate and the company here:<br />
+	<br />
+	Understand and Unleash the Power of Word of Mouth Marketing - A report from Forrester that indicates the importance to marketers of influence marketing http://slidesha.re/xb92yd<br />
+	<br />
+	Welcome to the reputation economy &ndash; A recent CNBC article that outlines the market and opportunity with quotes from PeerIndex CEO http://bit.ly/A8usfT<br />
+	<br />
+	PeerIndex wins Grand Prix - A Reuters news report about PeerIndex picking up recent Europa awards http://bit.ly/siL7NT</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/PeerIndex/W8iY1e"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120117115318_IVX3N3UO820QLPVL]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Javascript Front End Engineer]]></title>
+			<department><![CDATA[Development]]></department>
+			<team><![CDATA[PHP Team]]></team>
+			<url><![CDATA[http://peerindex.theresumator.com/apply/9k4JHX/Javascript-Front-End-Engineer.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[London]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EC1Y 2BJ]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Introduction</strong><br />
+	You: a Javascript &quot;ninja&quot; (yeah, we hate saying it) who is sick of getting the call for &ldquo;yet another website&rdquo; that is more of brochure-ware and marketing glitz. You have been itching to prove that MVC works ont he front-end as well. &nbsp;You&#39;d love to create engaging interactions using HTML5/CSS3 solutions that run on the better browsers, iPads, mobile devices - so &nbsp;your friends and family can understand what it is you do beyond &ldquo;my son/daughter makes the Internet&rdquo;.</p>
+<p>
+	Heck, you might even be excited to <a href="http://burakkanber.com/balldeformation.html">build your own gaming applications</a> to earn some extra dosh on the side. You are looking at problems like:</p>
+<ul>
+	<li>
+		how to use protovis to make compelling visual presentations and allow a user to understand their own actions/interactions</li>
+	<li>
+		how to leverage HTML5/CSS3 extensions to make a website that is configuable on all platforms with elegance and scalability</li>
+</ul>
+<p>
+	<strong>Who Are We?</strong><br />
+	We are PeerIndex (<a href="http://www.peerindex.com">www.peerindex.com</a>), a company based at the heart of Silicon Roundabout leading the way to help companies and individuals understand and capitalise on the impact of their social influence on the web and off.</p>
+<p>
+	We are changing the face of social engagement and authority - we are about giving individuals ownership over their influence and the value of their data - and we are looking for people to join us in this adventure.</p>
+<p>
+	We are expanding our front end team to support our growing number of users of our API as well as building out applications to allow people to better understand this &ldquo;social influence&rdquo; thing we do.</p>
+<p>
+	Our team is bold and brilliant and are looking for like-minded people. And we are about changing the world - not about punching the clock.</p>
+<p>
+	<strong>Who Are You?</strong><br />
+	You are a graduate in computer science or a similar quantitative degree (our CTO is partial to EE or ME) and (hopefully) had previous experience in developing amazing applications for users to better understand data. While the role could be simply editing our Symfony2 templates, we have bigger things in store.</p>
+<p>
+	You will spend your time learning and growing the entire interface layer - building wdigets and front-end interactions - all via our flexible REST API layer.</p>
+<p>
+	And you are one of those Javascript/HTML guys (gender non-specific) who knows the strengths and weaknesses of different frameworks like dojo and jQuery. But when you defend your position, you have proof from your own &nbsp;experiences, not just opinions formed from reading Stack Overflow.</p>
+<p>
+	You are about holding your own in a software architecture discussion and can sense when the solution presented is not the right way forward.</p>
+<p>
+	You might be a closet maths geek (yes, you were calculating the odds of Spain winning the Women&rsquo;s World Cup) - but your true calling is the ability to develop elegant code alongside some amazing people.</p>
+<p>
+	<strong>What About the Role?</strong><br />
+	We have numerous responsibilities in the PHP Engineer role since no one person will be placed in one small role for the time. You could be responsible for:</p>
+<ul>
+	<li>
+		Developing in jQuery and/or backbone for our consumer-facing&nbsp;and client-facing interfaces</li>
+	<li>
+		Working with the&nbsp;PeerIndex REST API team to improve the offerings for our internal and external customers</li>
+	<li>
+		Designing and developing new interfaces for creating microsites, report generation, etc.</li>
+	<li>
+		Working as part of the wider development team across our data platform</li>
+</ul>
+<p>
+	We like to think that our influence algorithms will take on the greater challenge - think of it as building the PageRank of People. Sure, you could go to Google,&nbsp;or you could be involved with the development and execution of a novel and groundbreaking service.</p>
+<p>
+	You will be a member of the PeerIndex Development Team bringing about a better way of controlling and accessing people&rsquo;s own &ldquo;social capital&rdquo;.</p>
+<p>
+	And you spend some of your &quot;copious spare time&quot; adding to various OSS projects (like jQuery) to help grow those projects.</p>
+<p>
+	While we are currently based at London&#39;s Old Street tech quarter, our organization is distributed over five time zones so we are also willing to speak with exceptional remotely located applicants.</p>
+<p>
+	<strong>What Must I Have?</strong><br />
+	At the very minimum, you must be able to work in the EU. Please - do not apply if you do not already have a valid work permit for the EU (unless you are from the US and then you could apply since our CTO is an American).</p>
+<p>
+	Additionally you must have:</p>
+<ul>
+	<li>
+		Significant experience in developing&nbsp;in an &ldquo;agile&rdquo; style - be able to work with the business side and be an advocate for both the technical issues and the customer issues</li>
+	<li>
+		Strong experience with Javascript frameworks (e.g., jQuery, dojo, backbone, node.js)</li>
+	<li>
+		Solid, clean front-end code in HTML5 and CSS3</li>
+	<li>
+		Portfolio and code samples showing work that demonstrates your&nbsp;programming skills</li>
+</ul>
+<p>
+	You probably have experiences in:</p>
+<ul>
+	<li>
+		DVCS such as git or mercurial</li>
+	<li>
+		Unit testing and Continuous Integration</li>
+	<li>
+		Building well-structured, modular Javascript applications</li>
+</ul>
+<p>
+	<strong>Can I Get Bonus Points?</strong><br />
+	Sure - we would love it if you have an affection and experience in some of the functional languages that are making a splash (like Erlang and Scala). We also would like:</p>
+<ul>
+	<li>
+		A Computer Science or similar quantitative degree is desired - but some of the best developers are self-taught autodidacts</li>
+	<li>
+		Experience in predictive modelling gained in a commercial-oriented technology business</li>
+	<li>
+		...and why you can install 16GB into the newest MacBook Pros and you know DAMN well how you are going to use it</li>
+</ul>
+<p>
+	<strong>Okay - so how much do I make?</strong><br />
+	Well, we would be telling if we told you the salary right off the bat. But you can be sure that pay is commensurate with your experience and effort. And yes, you will have ownership in the company through our options package and other potential benefits.</p>
+<p>
+	<strong>How Do I Apply?</strong><br />
+	Simple: fill in the questions to the right and submit your cover letter (something brief), your CV and (more importantly) - point us to your personal blog, your GitHub and/or SO profile, any meetups that you attend, and/or any OSS projects you contribute to or mashups you have built. You choose what we should look at.</p>
+<p>
+	So if your idea of fun is turning around a user interface component and seeing it deployed with your new features in less than a day, then we&#39;d really like to hear from you. Around here, we call that - a &#39;Tuesday&#39;.&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/PeerIndex/9k4JHX"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Micello, Inc.]]></company>
+			<job>
+			<id><![CDATA[job_20110304185805_F7MSADDWHQKEAXMB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Ruby/JavaEE Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://micello.theresumator.com/apply/dbN2D1/RubyJavaEE-Engineer.html]]></url>
+			<city><![CDATA[Sunnyvale]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94086]]></postalcode>
+			<description><![CDATA[<p>
+	Micello is a fast growing, young software company. Think of us as &quot;Google Maps inside a building&quot;. We have figured out a really efficient/fast way of making maps of indoor places (shopping malls, airports, museums, college campuses, hospitals and more--- all the places where people get lost!</p>
+<p>
+	Micello is looking for a superb Ruby/JavaEE developer to help us build and grow Micello&rsquo;s server side software. We are looking for a motivated individual with at least 3+ years of work experience. The right candidate will play an integral part in the future expansion of our company.</p>
+<p>
+	You will be responsible for Micello&rsquo;s WebService API. You will design, implement and maintain Micello&rsquo;s back end services.&nbsp;</p>
+<p>
+	Requirements:<br />
+	&bull; 3+ years programming experience in Java EE development<br />
+	&bull; Must have Data Modeling, SQL skills<br />
+	&bull; Must have experience with Ruby/JRuby<br />
+	&bull; Must be experienced in application server administration<br />
+	&bull; Experience with REST Web Services a plus<br />
+	&bull; Experience with Unix/Linux System Administration is a plus<br />
+	&bull; Strong programming, code development, code debugging, testing and troubleshooting skills, required</p>
+<p>
+	What you&rsquo;ll get from us:<br />
+	&bull; A real say in the future of the company &ndash; you will be a valued member of the engineering team<br />
+	&bull; True startup experience &ndash; from launch all the way to the next great mapping company.<br />
+	&bull; Salary, stock options</p>
+<p>
+	To apply: Please visit http://micello.theresumator.com/apply<br />
+	&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/micello/dbN2D1"></script>]]></buttons>
+		</job>
+	</jobs>

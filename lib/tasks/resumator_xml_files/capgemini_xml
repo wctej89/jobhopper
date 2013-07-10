@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[capgemini india]]></company>
+			<job>
+			<id><![CDATA[job_20130507090234_IT79YSMKGNBZ4KMN]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[xyz]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://capgemini.theresumator.com/apply/PsyIdE/Xyz.html]]></url>
+			<city><![CDATA[kolk]]></city>
+			<state><![CDATA[wb]]></state>
+			<country><![CDATA[India]]></country>
+			<postalcode><![CDATA[27]]></postalcode>
+			<description><![CDATA[<p>
+hvu</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (High School)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/capgemini/PsyIdE"></script>]]></buttons>
+		</job>
+	</jobs>

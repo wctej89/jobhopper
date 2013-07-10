@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Rent Jungle]]></company>
+			<job>
+			<id><![CDATA[job_20130102160155_TXBRKH6USRNR4RDM]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[PHP Developer for a Pittsburgh Startup]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Programmers]]></team>
+			<url><![CDATA[http://rentjungle.theresumator.com/apply/fkPBbE/PHP-Developer-For-A-Pittsburgh-Startup.html]]></url>
+			<city><![CDATA[Pittsburgh]]></city>
+			<state><![CDATA[PA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[15212]]></postalcode>
+			<description><![CDATA[<p>
+We are looking for a talented, experienced PHP/MySQL programmer as we ramp up our web development efforts from our offices in Downtown Pittsburgh. You will be working with our Lead Developer and Project Lead to create a new customer facing web application.</p>
+<p>
+A strong understanding of PHP, Javascript, HTML, CSS and database technology is a must.&nbsp; You should also have experience with, or a strong desire to learn, CakePHP. If you do have CakePHP experience, please highlight this in your resume. Examples of previous work, professional or personal, are always encourged.</p>
+<p>
+We are a fast-paced, small, startup company. Developer must thrive in unstructured environments where deadlines and product requirements change frequently. We work long hours and have lots of fun doing it.</p>
+<p>
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+PHP</li>
+<li>
+CakePHP or other MVC architectures</li>
+<li>
+MySQL</li>
+<li>
+HTML/CSS</li>
+<li>
+JavaScript, specifically jQuery</li>
+<li>
+AJAX</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Great to have, but not required:</strong></p>
+<ul>
+<li>
+Python</li>
+<li>
+Linux/Apache Server Administration</li>
+<li>
+IPhone / Android development</li>
+<li>
+Amazon Web Services (S3/EC2)</li>
+<li>
+Basic web design (e.g., you are not just a backend developer)</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Salary and benefits:</strong></p>
+<ul>
+<li>
+Competitive salary</li>
+<li>
+Paid vacation</li>
+<li>
+Health Insurance (not offered quite yet, but coming very soon)</li>
+<li>
+Awesome working environment</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+Rent Jungle (http://www.rentjungle.com) is an online apartment search engine. We spider the internet for apartment listings from thousands of websites and aggregate them in one, easy-to-use interface.&nbsp; We are a 3 year old, 20 person, Pittsburgh based, startup company.</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/rentjungle/fkPBbE"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130102155525_OTAHOFPYXFZC8IQX]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Python Developer for Pittsburgh Startup]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Programmers]]></team>
+			<url><![CDATA[http://rentjungle.theresumator.com/apply/DjfIeM/Python-Developer-For-Pittsburgh-Startup.html]]></url>
+			<city><![CDATA[Pittsburgh]]></city>
+			<state><![CDATA[PA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[15212]]></postalcode>
+			<description><![CDATA[<p>
+We are looking for a talented&nbsp; Python developer as we expand our development efforts from our offices in Downtown Pittsburgh. You would own the majority of day-to-day coding for the backend systems that power Rent Jungle&rsquo;s data-gathering systems under the supervision of our Lead Developer and/or our Founder/CEO. Your primary responsibility will be to improve, update, and expand the spider behind rentjungle.com.</p>
+<p>
+A strong understanding of Python, unstructured data, spidering and search, and database technology is a plus. If you do have search experience, please highlight this in your resume. You should also have experience with, or a strong desire to learn, Python (since you&#39;ll be coding in Python). No Python experiance is necessary, just a willingness to learn.</p>
+<p>
+We are a fast-paced, small, startup company. As the perfect candidate, you must thrive in unstructured environments where deadlines and product requirements change frequently. We work long hours and have lots of fun doing it.</p>
+<p>
+Feel free to send over some examples of your code or to write something to send along with your application. If you love coding, and like to have fun and learn new things. Drop us a line. We always like meeting new people.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Work with our development team to make our spider more awesome.</li>
+<li>
+Update and maintain spidering systems on an ongoing basis.</li>
+<li>
+Be a critical voice in the direction of the product and implement company strategy into the user experience</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Python</li>
+<li>
+MySQL / PostgreSQL</li>
+<li>
+<strong>2 years</strong> or so of professional experience <strong>or equivalent project work</strong> that you can show us from your own hobbies or school assignments</li>
+<li>
+Easy going and comfortable with ambiguity and lack of structure (and the occasional monkey flying across the room)</li>
+<li>
+Familiarity with social networking platforms including Facebook (you&#39;ve heard of Facebook, right?), Twitter, LinkedIn, and Blogs.</li>
+<li>
+Passion for entrepreneurship</li>
+</ul>
+<p>
+<strong>Even Better</strong></p>
+<ul>
+<li>
+PHP</li>
+<li>
+Working knowledge of social network APIs</li>
+<li>
+Experience using Git, or other version control systems.</li>
+<li>
+Experience working with a startup.</li>
+<li>
+Linux/Apache Server Administration</li>
+<li>
+Knowledge of Amazon Web Services (S3, EC2, SQS, etc)</li>
+</ul>
+<p>
+<strong>Benefits</strong></p>
+<ul>
+<li>
+Competitive salary</li>
+<li>
+Paid vacation</li>
+<li>
+Health Insurance</li>
+<li>
+Awesome working environment</li>
+</ul>
+<p>
+Rent Jungle (http://www.rentjungle.com) is an online apartment search engine. We spider the internet for apartment listings from thousands of websites and aggregate them in one, easy-to-use interface.&nbsp; We are a 3 year old, 20 person, Pittsburgh based, startup company.</p>
+<p>
+All tenures are encouraged to apply.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/rentjungle/DjfIeM"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130122142432_HWLKXUSMEIMJ3DU9]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Developer who wants to learn Python]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Programmers]]></team>
+			<url><![CDATA[http://rentjungle.theresumator.com/apply/RIVlR9/Developer-Who-Wants-To-Learn-Python.html]]></url>
+			<city><![CDATA[Pittsburgh]]></city>
+			<state><![CDATA[PA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[15212]]></postalcode>
+			<description><![CDATA[<p>
+We are looking for a talented coder as we expand our development efforts from our offices in Downtown Pittsburgh. You would own the majority of day-to-day coding for the backend systems that power Rent Jungle&rsquo;s data-gathering systems under the supervision of our Lead Developer and/or our Founder/CEO. Your primary responsibility will be to improve, update, and expand the spider behind rentjungle.com.</p>
+<p>
+A strong understanding of server side development, unstructured data, spidering and search, and database technology is a plus. If you do have search experience, please highlight this in your resume. You should also have experience with, or a strong desire to learn, Python (since you&#39;ll be coding in Python). No Python experiance is necessary, just a willingness to learn.</p>
+<p>
+We are a fast-paced, small, startup company. As the perfect candidate, you must thrive in unstructured environments where deadlines and product requirements change frequently. We work long hours and have lots of fun doing it.</p>
+<p>
+Feel free to send over some examples of your code or to write something to send along with your application. If you love coding, and like to have fun and learn new things. Drop us a line. We always like meeting new people.</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Work with our development team to make our spider more awesome.</li>
+<li>
+Update and maintain spidering systems on an ongoing basis.</li>
+<li>
+Be a critical voice in the direction of the product and implement company strategy into the user experience</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+<strong>2 years</strong> or so of professional experience <strong>or equivalent project work</strong> that you can show us from your own hobbies or school assignments</li>
+<li>
+Easy going and comfortable with ambiguity and lack of structure (and the occasional monkey flying across the room)</li>
+<li>
+Familiarity with social networking platforms including Facebook (you&#39;ve heard of Facebook, right?), Twitter, LinkedIn, and Blogs.</li>
+<li>
+Passion for entrepreneurship</li>
+</ul>
+<p>
+<strong>Even Better</strong></p>
+<ul>
+<li>
+Python</li>
+<li>
+PHP</li>
+<li>
+MySQL or PostgreSQL</li>
+<li>
+Working knowledge of social network APIs</li>
+<li>
+Experience using Git, or other version control systems.</li>
+<li>
+Experience working with a startup.</li>
+<li>
+Linux/Apache Server Administration</li>
+<li>
+Knowledge of Amazon Web Services (S3, EC2, SQS, etc)</li>
+</ul>
+<p>
+<strong>Benefits</strong></p>
+<ul>
+<li>
+Competitive salary</li>
+<li>
+Paid vacation</li>
+<li>
+Health Insurance</li>
+<li>
+Awesome working environment</li>
+</ul>
+<p>
+Rent Jungle (http://www.rentjungle.com) is an online apartment search engine. We spider the internet for apartment listings from thousands of websites and aggregate them in one, easy-to-use interface.&nbsp; We are a 3 year old, 20 person, Pittsburgh based, startup company.</p>
+<p>
+All tenures are encouraged to apply.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/rentjungle/RIVlR9"></script>]]></buttons>
+		</job>
+	</jobs>

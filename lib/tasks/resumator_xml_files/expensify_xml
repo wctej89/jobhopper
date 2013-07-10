@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Expensify]]></company>
+			<job>
+			<id><![CDATA[job_20101206194239_XKLHRCG8V6ZGZNRU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Generalist Junior Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://expensify.theresumator.com/apply/0pi5Xi/Generalist-Junior-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94104]]></postalcode>
+			<description><![CDATA[<p>
+	8-person, early-stage, funded startup needs you!<br />
+	(Perfect for new college grads or people who are bored with school and want to get started in the real world!)</p>
+<p>
+	Hello, my name is David Barrett and I&#39;m the CEO of Expensify. We do &quot;expense reports that don&#39;t suck!&quot; (Google &quot;expensify&quot; to read more.) We&#39;re getting crushed under an ever-growing pile of super awesome work, and I need one bright soul to help us dig our way out. I can guarantee you fun, an amazing opportunity to learn, and the siren&#39;s call of distant riches. But only if you are all of the following:</p>
+<ul>
+	<li>
+		An incredibly hard worker, even when it&#39;s not so fun. There is a ton of work to do, and a lot of it downright sucks. After all &mdash; we do the sucky work so our customers won&#39;t need to. I need you to buck up and grind through server logs, user emails, source code, and bug reports, without complaint or supervision, and come back asking for more.</li>
+	<li>
+		A cool person to be with. Not a crazy party animal, just someone we can trust, rely upon, hang out with, bounce ideas off of, and generally interact with in a positive way, both personally and professionally. In fact, this is one of the most stringent requirements we have: would you be fun to hang out with day and night on some remote, exotic beach? This isn&#39;t a rhetorical question, either: every year we take the company overseas for a month (on your own dime, sorry) and work incredibly hard while having a ton of fun. We&#39;ve done Thailand, Mexico, India, and Turkey. In fact, I&#39;m writing this from a beach in the Philippines (with an approaching super-typhoon, no less). Where do you want to go next?</li>
+	<li>
+		Super talented, in a general way. We&#39;re going to throw a ton of work at you of every possible sort, and you need that magic skill of being able to figure it out even if you have no idea where to start. On any given day you might bounce between super low-level coding, super high-level technical support, marketing-driven datamining, updating our user documentation, inventing/designing/building some new feature, etc. This is not a code monkey job &mdash; you&#39;re going to be a full participant in the process, and you need to bring your own unique blend of skills to the table.</li>
+	<li>
+		Specifically talented in a programming way. You can instantly visualize solutions to problems big and small. Your code is always clean, well commented, has good nomenclature and indentation. You can switch on a dime between C++, PHP, Bash, Cron, HTML, CSS, JavaScript, jQuery, Dwoo, SQL &mdash; not because you know them all, but because you&#39;re the sort of person who can just pick it up and figure it out. If you&#39;re this sort of person, you&#39;ll know what I mean. If not, then this position isn&#39;t for you.</li>
+	<li>
+		Bonus points if you&#39;re an SQL data jockey. Not required, but if you love diving into oceans of data and surfacing pearls of wisdom, have we got some exciting things for you.</li>
+</ul>
+<p>
+	And there are a bunch more, but odds are if you got this far, nothing I can do would stop you from applying. That&#39;s a problem because while I know you are awesome, it&#39;s actually really hard and time consuming to find you in the midst of the literally hundreds of other applications I get from everyone else. So this is where I&#39;m going to ask my first favor: can you make it really easy and obvious how great you are, so I don&#39;t accidentally overlook you?</p>
+<p>
+	There are probably many ways to do that. But the easiest way is to help me out by answering the following questions:</p>
+<p>
+	1. What&#39;s the URL of your website? If you don&#39;t have one, stop now &mdash; please save us both the time by not applying.</p>
+<p>
+	2. When did you start programming? Tell me about your first project, what technologies you used, etc.</p>
+<p>
+	3. Why do you do it? Why programming instead of all the other exciting careers out there?</p>
+<p>
+	4. What was your last/current job, what was/is your total compensation package, and why did you / do you want to leave? Can I have the name and phone number of your last manager? It&#39;s cool if you left on bad terms &mdash; I got fired from my last job, after all &mdash; just tell me the story.</p>
+<p>
+	5. If you were rich, what would you do, and why?</p>
+<p>
+	6. Without doing any research or asking any friends, what language is each of the following code fragments, and what&#39;s wrong with each (if anything)?</p>
+<p>
+	&nbsp;&nbsp; &nbsp;.centered { text-align: center; vertical-align: center; }<br />
+	&nbsp;&nbsp; &nbsp;tail /var/log/syslog | grep warn</p>
+<p>
+	&nbsp;&nbsp; &nbsp;char* data&#91;&#93; = { &quot;foo&quot;, &quot;bar&quot;, 0 };<br />
+	&nbsp;&nbsp; &nbsp;int strlenSum = 0;<br />
+	&nbsp;&nbsp; &nbsp;do { strlenSum += strlen( *data ); } while( data++ );</p>
+<p>
+	&nbsp;&nbsp; &nbsp;The time is &lt;h;? time() &gt; o&#39;clock.</p>
+<p>
+	&nbsp;&nbsp; &nbsp;var a, b = { c: &quot;d&quot; };<br />
+	&nbsp;&nbsp; &nbsp;alert( a.c );</p>
+<p>
+	&nbsp;&nbsp; &nbsp;create table bar ( foo integer unique );<br />
+	&nbsp;&nbsp; &nbsp;insert into bar values ( 1, 2 );<br />
+	&nbsp;&nbsp; &nbsp;create table foo ( bar integer unique );<br />
+	&nbsp;&nbsp; &nbsp;insert into foo values ( 2, 3 );<br />
+	&nbsp;&nbsp; &nbsp;insert into foo ( bar ) select foo from bar on duplicate update foo=bar;</p>
+<p>
+	7. What&#39;s the biggest, coolest project you ever built from top-to-bottom? Not a component; a whole self-sufficient thing. Why do you want to work at Expensify, specifically? Not something general about startups overall; what is it about us in particular that interests you?</p>
+<p>
+	8. What&#39;s the catch? Everybody has strings attached &mdash; you&#39;ve got something you need to finish first, some big vacation commitment coming up, some particular fear you need addressed or requirement you need satisfied. It&#39;s fine. But what is it?</p>
+<p>
+	9. Bonus: We only hire generalists who can do everything, and nobody is ever pigeonholed. But what would you prefer to work on? Datamining? Customer support? Mobile? System administration? We&#39;ve got it all, let me know what you want.</p>
+<p>
+	Please send your answers to dbarrett@expensify.com. If you make an honest attempt at answering the questions above, I promise I&#39;ll respond personally &mdash; hopefully in a timely fashion, but definitely sometime.</p>
+<p>
+	I&#39;m genuinely excited to hear from you. I know there&#39;s someone out there who will be a perfect fit for our team. I really hope it&#39;s you, and I appreciate your help in patience while we figure that out together. Thanks!</p>
+<p>
+	David Barrett<br />
+	Founder and CEO of Expensify<br />
+	Follow us at http://twitter.com/expensify</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/expensify/0pi5Xi"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Square]]></company>
+			<job>
+			<id><![CDATA[job_20110131213406_RH4QYZLC07ZXGKJS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Android Engineer]]></title>
+			<department><![CDATA[Software Engineer - Web]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://square.theresumator.com/apply/zoU7rY/Android-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[63141]]></postalcode>
+			<description><![CDATA[<p>
+	Square quickly and securely processes millions of dollars worth of payments each week, fueling businesses and individual transactions of all shapes and sizes. Square&#39;s intuitive interface enhances these inherently social transactions with beautiful, interactive receipts and sales records. Square crunches and visualizes copious amounts of data to drive business decisions, facilitate customer service, and protect users.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/square/zoU7rY"></script>]]></buttons>
+		</job>
+	</jobs>

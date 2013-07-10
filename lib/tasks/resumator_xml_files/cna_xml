@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[CNA]]></company>
+			<job>
+			<id><![CDATA[job_20100329131119_V6G8YXJC9ZLWHLFE]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Java Developer]]></title>
+			<department><![CDATA[IT]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cna.theresumator.com/apply/9ciH0A/Java-Developer.html]]></url>
+			<city><![CDATA[Mumbai]]></city>
+			<state><![CDATA[DC]]></state>
+			<country><![CDATA[India]]></country>
+			<postalcode><![CDATA[10509]]></postalcode>
+			<description><![CDATA[<p>Require Java Developer with SCJP certification.</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cna/9ciH0A"></script>]]></buttons>
+		</job>
+	</jobs>

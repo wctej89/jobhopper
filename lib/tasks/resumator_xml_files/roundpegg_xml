@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[RoundPegg]]></company>
+			<job>
+			<id><![CDATA[job_20101030013147_EE5OCB6PBNGWHG1H]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Rails Engineer]]></title>
+			<department><![CDATA[The Pegg]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://roundpegg.theresumator.com/apply/tV6oYS/Rails-Engineer.html]]></url>
+			<city><![CDATA[Boulder]]></city>
+			<state><![CDATA[CO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[80302]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Tired of being a cog in the machine?</strong></p>
+<p>
+	If you&#39;re a creative problem solver and thrive in a small environment where you can make a difference every day then we should talk.</p>
+<p>
+	We&#39;re a TechStars 2010 team, we&#39;re funded, and we&#39;re growing. We all came together to make a difference in people&#39;s lives by quantifying company cultures so they can make better hires and draw out the strengths of every employee.</p>
+<p>
+	At our core we&#39;re a data company that specializes in optimization. It just happens to be optimizing human interactions. Psychology meets Technology. A nice hard problem to chew on.</p>
+<p>
+	Obviously, we want to ensure you have every opportunity to find your success. That starts by completing the <a href="http://roundpegg.com/signup">RoundPegg assessments</a> so we can see how your work style aligns with our own. After doing so, please email us at makeadifference@roundpegg.com with your thoughts and how you think we can improve. &nbsp;<br />
+	<br />
+	Tech you&#39;ll be working with:</p>
+<ul>
+	<li>
+		HAML</li>
+	<li>
+		SASS</li>
+	<li>
+		Cucumber</li>
+	<li>
+		Rspec</li>
+	<li>
+		Rails 3</li>
+	<li>
+		JQuery</li>
+	<li>
+		PostgreSQL</li>
+	<li>
+		Heroku</li>
+	<li>
+		CoffeeScript</li>
+	<li>
+		GitHub</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	Send us a link to your GitHub profile and show off some of your Rails work.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/roundpegg/tV6oYS"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20101116200541_QYXCYP3JBWX9ELAT]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[UX Magician]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://roundpegg.theresumator.com/apply/KvmZfI/UX-Magician.html]]></url>
+			<city><![CDATA[Boulder]]></city>
+			<state><![CDATA[CO]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[80302]]></postalcode>
+			<description><![CDATA[<p>
+	Are you a unique hybrid who can use both sides of your brain to design clean, highly functional websites and translate that into production-ready code? The RoundPegg team is looking for someone who can empathize with our customers and make it not just easy, but intuitive, to navigate the application and sort through reams of data to find the data relevant to them.</p>
+<p>
+	<br />
+	More needles, fewer haystacks.</p>
+<p>
+	<br />
+	Start the process by taking the RoundPegg assessments.<br />
+	Then email us at jobs |at| roundpegg |dot| com from the address with which you completed your assessments so we can invite you to the team to see how well you fit.</p>
+<p>
+	<br />
+	At RoundPegg, we:<br />
+	are a small team where your opinions matter</p>
+<p>
+	<br />
+	grapple with complex problems that require simple and elegant solutions</p>
+<p>
+	<br />
+	work hard, play hard (or at least used to), and love what we do</p>
+<p>
+	<br />
+	are looking to improve both ourselves and the product every single day</p>
+<p>
+	<br />
+	You possess:<br />
+	a strong portfolio with emphasis on interface design (that you&#39;ve actually done)</p>
+<p>
+	<br />
+	a solid understanding of UI/UX design but don&#39;t fall on your sword for the perfect solution</p>
+<p>
+	<br />
+	photoshop skills that would make the guy who doctored the first moon landing blush (but please, no conspiracy theorists)</p>
+<p>
+	<br />
+	data visualization experience and an ability to come up with simple solutions to complex problems</p>
+<p>
+	<br />
+	knowledge of versioning systems (e.g. Git)</p>
+<p>
+	<br />
+	the knowledge that HAML is not a pig with humps</p>
+<p>
+	<br />
+	capacity to write clean, simple, easy-to-read code and sometimes even do so</p>
+<p>
+	<br />
+	English as a second language to XHTML/CSS</p>
+<p>
+	<br />
+	more than the basics of JavaScript (some knowledge of objects is a must)</p>
+<p>
+	<br />
+	more than a few ounces of self-motivation and are willing to bust your hump</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/roundpegg/KvmZfI"></script>]]></buttons>
+		</job>
+	</jobs>

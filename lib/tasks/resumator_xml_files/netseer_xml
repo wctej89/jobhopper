@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[NetSeer]]></company>
+			<job>
+			<id><![CDATA[job_20120406202800_RZGMZHARDBN0QTP1]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://netseer.theresumator.com/apply/l9aWtD/Senior-Software-Engineer.html]]></url>
+			<city><![CDATA[Santa Clara]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[95054]]></postalcode>
+			<description><![CDATA[<p><strong>Primary Responsibilities:</strong></p><ul><li>&nbsp;&nbsp;&nbsp; Participate as lead member of an Engineering team, reporting to the Director or Vice President of Engineering.</li><li>&nbsp;&nbsp;&nbsp; Contribute to the design, implementation and deployment of high performance services and web applications.</li><li>&nbsp;&nbsp;&nbsp; Design, build and manage highly scalable systems targeting partners or a specific industry sector.</li><li>&nbsp;&nbsp;&nbsp; Implement business-critical internal web applications.</li><li>&nbsp;&nbsp;&nbsp; Deliver partner-facing web applications.</li><li>&nbsp;&nbsp;&nbsp; Developing software to build JSP /HTML/XHTML/CSS based dynamic web applications.</li></ul><p><strong>Qualifications:</strong></p><ul><li>&nbsp;&nbsp;&nbsp; BS/MS in Computer Science or related technical field.</li><li>&nbsp;&nbsp;&nbsp; 4+ years of software development experience, building and shipping Java (J2EE) web based applications.</li><li>&nbsp;&nbsp;&nbsp; 4+ years of experience with OOP, Javascript, CSS, HTML, DOM, AJAX, J2EE, JSP, Hibernate, JPA, Struts &amp; Web Services.</li><li>&nbsp;&nbsp;&nbsp; Experience developing cross-browser pages: Experience finding and working around browser bugs, layout bugs, etc.</li><li>&nbsp;&nbsp;&nbsp; Hands-on experience working with J2EE application servers &amp; Linux.</li><li>&nbsp;&nbsp;&nbsp; Strong attention to detail: Ability to implement code with corner cases covered first time.</li><li>&nbsp;&nbsp;&nbsp; Significant development experience in a Linux environment.</li><li>&nbsp;&nbsp;&nbsp; Experience in database design, SQL and object relational mapping.</li><li>&nbsp;&nbsp;&nbsp; Working knowledge of Internet protocols, networks, Python, Perl and/or Shell, Web services, SOAP, REST preferred.</li><li>&nbsp;&nbsp;&nbsp; Hands-on experience working with Java portlet and portal standards is a plus.</li></ul>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/netseer/l9aWtD"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120406205248_TILZLW0XZV4JBINB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Java/Backend Architect]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://netseer.theresumator.com/apply/P8ABHs/JavaBackend-Architect.html]]></url>
+			<city><![CDATA[Santa Clara]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[95054]]></postalcode>
+			<description><![CDATA[<p>You are skilled with test-driven development methodologies. You have received high marks from past supervisors for architecting scalable solutions and writing quality code. As a lead architect / senior software engineer, you are skilled in leading code reviews and in directing junior engineers/programmers. You can share stories of completing multiple projects utilizing Agile framework.</p><p>This is a high profile position with an outstanding compensation package. Generous base salary and bonus. Come join this winning team and share in their success.</p><p>&bull; BS or MS degree in Computer Science or related fields<br />&bull; 7+ years of experience in software development.<br />&bull; 5+ years of experience in design and development of large distributed enterprise applications (scalable, reliable, available, distributed)<br />&bull; Proven experience in leading architecture of highly reliable and scalable distributed products.<br />&bull; Experience with server-side architectures and application development frameworks such as Spring, Hibernate, Java/J2EE, REST, Service Oriented Architecture<br />&bull; Good knowledge of database concepts and databases Experience with related data access&nbsp; technologies(SQL &amp; Stored Procedures, Non-SQL based: Cassandra)<br />&bull; Ability to develop quick proof of concepts and prototypes<br />&bull; Ability to work on multiple projects and be able to change direction quickly based on business drivers<br />&bull; Strong analytical and troubleshooting skills.<br />&bull; Strong written and verbal communication skills, strong presentation skills.<br />&bull; Comfortable performing many roles: Architect, developer<br />&bull; Grew up through the SW development ranks<br />&bull; Architectural and Hands on skills:<br />o Solid Java&nbsp; and J2EE Experience<br />o Data Access (SQL &amp; Stored Procedures, Non-SQL based: Cassandra)<br />o Tomcat, SOA and Web Services<br />o Java Performance Tuning<br />o Design Patterns<br />o Data/ Information Security</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/netseer/P8ABHs"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120505000858_YASWBSPQVWWKNSA6]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Account Executive - New York]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[Sales-BizDev-AcccountManagement]]></team>
+			<url><![CDATA[http://netseer.theresumator.com/apply/WyqOZR/Account-Executive-New-York.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10011]]></postalcode>
+			<description><![CDATA[<p>&nbsp;</p><p>NetSeer is a technology company revolutionizing contextual display, mobile, and online video advertising. Its proprietary and patented &ldquo;Concept MappingTM&rdquo; engine goes beyond keyword and semantic targeting by classifying content and deriving intent from the relationships between &ldquo;Concepts.&rdquo; Its next-generation algorithm mimics how a human brain organizes and applies knowledge to establish the most relevant matches between advertising and editorial. As part of its process, NetSeer deploys industry-leading, brand-safety tools to keep advertising adjacent to appropriate content. The result is a contextual targeting solution that delivers the safest and most relevant media program, without waste.</p><p>This fast-growing technology company is seeking driven, self-starters who thrive on building businesses and telling great stories. The position reports to the Sales Director.</p><p>Responsibilities:<br />&bull; Represent NetSeer&rsquo;s array of digital marketing solutions in display, mobile and online video platforms<br />&bull; Prospect, access and develop relationships with clients and advertising agencies<br />&bull; Reach and exceed sales quotas while contributing to overall team goals<br />&bull; Provide superior customer service<br />&bull; Work collaboratively with internal account and ad operations teams to manage all aspects of the business<br />&bull; Track call and pipeline activity in Salesforce and provide updates to management</p><p>Requirements:<br />&bull; 2-4 years of online media sales experience with a proven track record of meeting and exceeding sales quotas<br />&bull; Proven track record working with major advertising agencies and direct clients<br />&bull; Proven negotiation skills and experience with a &ldquo;consultative&rdquo; selling approach<br />&bull; Ability to effectively manage time, reach key decision-makers and quickly assess the opportunity potential<br />&bull; Exceptional communications and presentation skills, both verbal and written<br />&bull; Strong PowerPoint, Excel and Salesforce.com skills<br />&bull; A strong understanding of the digital media landscape as well as a solid grasp of technology<br />&bull; A good working knowledge of ad networks, exchanges, and RTB-based buying<br />&bull; Fluency in the different pricing and optimization strategies (CPM/CPC/CPA)<br />&bull; Proven track record thriving in an unstructured, entrepreneurial environment<br />&bull; A team player with a passion for winning<br />&bull; Represent NetSeer with integrity and trustworthiness<br />&bull; BA/BS</p><p>&nbsp;</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/netseer/WyqOZR"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120525012025_XZXTJAQHFBCXFFCI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Data Scientist/Information Retrieval Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://netseer.theresumator.com/apply/OraFT5/Data-ScientistInformation-Retrieval-Engineer.html]]></url>
+			<city><![CDATA[Santa Clara]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[95054]]></postalcode>
+			<description><![CDATA[<p>Primary Responsibilities:</p><ul><li>&nbsp;&nbsp;&nbsp; Participate as member of an Engineering team, reporting to the Director or Vice President of Engineering.</li><li>&nbsp;&nbsp;&nbsp; Design and implement production quality code for mission critical NetSeer applications.</li><li>&nbsp;&nbsp;&nbsp; See a project through from the design stage to the finished product.</li><li>&nbsp;&nbsp;&nbsp; Design and implement novel large scale structured text processing and information retrieval tools</li></ul><p>Qualifications:</p><ul><li>&nbsp;&nbsp;&nbsp; MS/PhD in Computer Science, Statistics, or Electrical Engineering</li><li>&nbsp;&nbsp;&nbsp; 2+ years of experience in data mining, information retrieval, internet search, or related field or research in this area</li><li>&nbsp;&nbsp;&nbsp; Ability to work with big datasets with minimal engineering support</li><li>&nbsp;&nbsp;&nbsp; Strong knowledge of Java or C++ preferred</li><li>&nbsp;&nbsp;&nbsp; Highly motivated, self-driven, capable of defining own design and test scenarios</li><li>&nbsp;&nbsp;&nbsp; Experience with large scale data processing, data structure optimization and scalability of algorithms a plus</li><li>&nbsp;&nbsp;&nbsp; Experience with natural language processing, lexical analysis and semantic processing a plus</li><li>&nbsp;&nbsp;&nbsp; Experience with Hadoop and map/reduce a plus</li></ul>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/netseer/OraFT5"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120525012208_SGETOULQPBUEWGSD]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Data Scientist/Information Retrieval Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://netseer.theresumator.com/apply/hy8uPQ/Senior-Data-ScientistInformation-Retrieval-Engineer.html]]></url>
+			<city><![CDATA[Santa Clara]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[95054]]></postalcode>
+			<description><![CDATA[<p>Primary Responsibilities:</p><ul><li>&nbsp;&nbsp;&nbsp; Participate as member of an Engineering team, reporting to the Director or Vice President of Engineering.</li><li>&nbsp;&nbsp;&nbsp; Design and implement production quality code for mission critical NetSeer applications.</li><li>&nbsp;&nbsp;&nbsp; See a project through from the design stage to the finished product.</li><li>&nbsp;&nbsp;&nbsp; Design and implement novel large scale structured text processing and information retrieval tools</li></ul><p>Qualifications:</p><ul><li>&nbsp;&nbsp;&nbsp; MS/PhD in Computer Science, Statistics, or Electrical Engineering</li><li>&nbsp;&nbsp;&nbsp; 3+ years of experience in data mining, information retrieval, internet search, or related field</li><li>&nbsp;&nbsp;&nbsp; Hands-on experienced software developer, strong OOP practitioner</li><li>&nbsp;&nbsp;&nbsp; Strong knowledge of Java or C++ preferred</li><li>&nbsp;&nbsp;&nbsp; Proven track record of working on complex modular projects, and assuming a leading role in such projects</li><li>&nbsp;&nbsp;&nbsp; Highly motivated, self-driven, capable of defining own design and test scenarios</li><li>&nbsp;&nbsp;&nbsp; Experience with large scale data processing, data structure optimization and scalability of algorithms a plus</li><li>&nbsp;&nbsp;&nbsp; Experience with natural language processing, lexical analysis and semantic processing a plus</li><li>&nbsp;&nbsp;&nbsp; Experience with Hadoop and map/reduce a plus</li></ul>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/netseer/hy8uPQ"></script>]]></buttons>
+		</job>
+	</jobs>

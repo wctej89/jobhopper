@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Work Market]]></company>
+			<job>
+			<id><![CDATA[job_20120318015138_TBMXFSGYDJBMUGKC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[UX Designer]]></title>
+			<department><![CDATA[Product]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://workmarket.theresumator.com/apply/pVC582/UX-Designer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10014]]></postalcode>
+			<description><![CDATA[<p>
+	This is for a user experience designer or engineer.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/workmarket/pVC582"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120318001608_UCJRKSDJ3NTQ4FNZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Visual Designer]]></title>
+			<department><![CDATA[Product]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://workmarket.theresumator.com/apply/ennUXh/Visual-Designer.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10014]]></postalcode>
+			<description><![CDATA[<p>
+	You can enter a detailed, formatted, description of your position.</p>
+<p>
+	We have a full-featured WYSIWYG editor which enables you to craft that perfectly-formatted bulleted list. So go get that new candidate!</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/workmarket/ennUXh"></script>]]></buttons>
+		</job>
+	</jobs>

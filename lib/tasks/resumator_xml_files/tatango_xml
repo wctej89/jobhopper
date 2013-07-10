@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Tatango.com]]></company>
+			<job>
+			<id><![CDATA[job_20130317002519_1VWT3DENNL0PTLPF]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Rails Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://tatango.theresumator.com/apply/DmmVk9/Rails-Engineer.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98121]]></postalcode>
+			<description><![CDATA[<p>
+Tatango has a great opportunity for you at our fast growing company located near Pike Place Market in Seattle, WA. Don&#39;t know what we do at Tatango, check out this video <a href="http://www.tatango.com/resources/video-what-is-sms-marketing" target="_blank">http://www.tatango.com/resources/video-what-is-sms-marketing</a></p>
+<p>
+Tatango is a five person team, Angel-backed, profitable SMS marketing platform, that is used by thousands of customers, including fortune 500 brands, who send millions of messages monthly.</p>
+<p>
+You will be primarily responsible for development tasks that will add features to and help scale our SMS marketing platform.</p>
+<p>
+This position reports to the CTO.</p>
+<p>
+<strong>Company Perks</strong></p>
+<ul>
+<li>
+Small, agile team without a lot of red tape</li>
+<li>
+Office located in downtown Seattle near the Public Market</li>
+<li>
+3 Weeks paid vacation</li>
+<li>
+Generous computer &amp; hardware stipend</li>
+<li>
+100% Paid medical insurance</li>
+<li>
+Free parking</li>
+<li>
+Generous stock options</li>
+<li>
+Free daily lunch provided</li>
+<li>
+Free coffee &amp; hot drinks</li>
+</ul>
+<p>
+<strong>Required Skills</strong></p>
+<ul>
+<li>
+Strong functional web programming with Ruby on Rails, 4+ years</li>
+<li>
+Unit and functional testing within a TDD framework</li>
+<li>
+Relational database experience with MySQL or PostgreSQL</li>
+<li>
+HTML, CSS and jQuery</li>
+<li>
+Ability to use and effectively manage a Linux system</li>
+<li>
+Familiarity with source control and ticket systems such as GitHub and PivotalTracker</li>
+<li>
+Ability to manage a workload and work within a tightly knit team</li>
+<li>
+Strong communication skills and sense of accountability</li>
+</ul>
+<p>
+<strong>Preferred Skills</strong></p>
+<ul>
+<li>
+MongoDB, Redis or other NoSQL experience</li>
+<li>
+Worked in a hosted cloud environment such as AWS</li>
+<li>
+Strong front end skills with expertise in CSS and jQuery</li>
+<li>
+History with a SaaS platform</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/tatango/DmmVk9"></script>]]></buttons>
+		</job>
+	</jobs>

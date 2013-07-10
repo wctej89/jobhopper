@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Inno]]></company>
+			<job>
+			<id><![CDATA[job_20120216022652_66F8DCXBJIHONFRC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sr .NET/ASP Consultant]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://inno.theresumator.com/apply/jPvtqX/Sr-NETASP-Consultant.html]]></url>
+			<city><![CDATA[Chicago]]></city>
+			<state><![CDATA[IL]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[60629]]></postalcode>
+			<description><![CDATA[<p>
+	We have an immediate opening for Sr .NET developer in Chicago, IL.</p>
+<p>
+	---Local Candidates Only as FTF is a must--------</p>
+<p>
+	Term : 6 months contract with extension</p>
+<p>
+	Skills : ASP .NET, Visual Studio, JavaScript, Web app development</p>
+<p>
+	Must have solid ASP.NET experience</p>
+<p>
+	Data Base is SQL Server.</p>
+<p>
+	6+ years Business Intelligence Studio is optional</p>
+<p>
+	<br />
+	Must have strong communication skills.</p>
+<p>
+	******For fast response please submit your resume with rate expectation on W2/1099/CTC *********</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/Inno/jPvtqX"></script>]]></buttons>
+		</job>
+	</jobs>

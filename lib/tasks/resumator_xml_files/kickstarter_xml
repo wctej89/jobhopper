@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Kickstarter]]></company>
+			<job>
+			<id><![CDATA[job_20120804142707_N2MV5PDJMTMXJUEM]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Kickstarter Analyst]]></title>
+			<department><![CDATA[Operations]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://kickstarter.theresumator.com/apply/1mP9ap/Kickstarter-Analyst.html]]></url>
+			<city><![CDATA[New York]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10002]]></postalcode>
+			<description><![CDATA[<p>We&rsquo;re hiring a Kickstarter Analyst to join our Business Operations team. You have strong data skills and the ability to apply those skills to help us understand our site, service, and users. You can present information in a variety of formats suitable for different concerns and levels. You have three or more years of relevant experience.</p><p>Your responsibilities will include:</p><p>Acting as the authority on data and metrics related to Kickstarter&rsquo;s business<br />Answering data-related questions from various teams<br />Deriving insight from our data to inform business decisions and minimize risk<br />Querying our data stores and organizing the results in a usable and insightful format<br />Measuring and projecting growth<br />Market analysis<br />Bonus points:</p><p>Experience with R, Stata, SAS, MATLAB, Git, Python, or Ruby<br />GitHub profile</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/kickstarter/1mP9ap"></script>]]></buttons>
+		</job>
+	</jobs>

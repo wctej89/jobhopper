@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[ABB]]></company>
+			<job>
+			<id><![CDATA[job_20120620052946_NWCLTJHZ84WBRCIG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Recruiting Manager]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://abb.theresumator.com/apply/HuFVqw/Recruiting-Manager.html]]></url>
+			<city><![CDATA[beijing]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[China]]></country>
+			<postalcode><![CDATA[100000]]></postalcode>
+			<description><![CDATA[<p>recruiting stuff</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/ABB/HuFVqw"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120620055439_WVPK3FOC2UOEAXFK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Recruiting Lead 1]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://abb.theresumator.com/apply/bBrpHU/Recruiting-Lead-1.html]]></url>
+			<city><![CDATA[beijing]]></city>
+			<state><![CDATA[GA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[100000]]></postalcode>
+			<description><![CDATA[<p>recruiting staff</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/ABB/bBrpHU"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120727074219_1C1XZHBHXTY7BQT6]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[widget-test]]></title>
+			<department><![CDATA[design]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://abb.theresumator.com/apply/ZKvbdJ/Widgettest.html]]></url>
+			<city><![CDATA[beijing]]></city>
+			<state><![CDATA[beijing]]></state>
+			<country><![CDATA[China]]></country>
+			<postalcode><![CDATA[100000]]></postalcode>
+			<description><![CDATA[<p>good</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/ABB/ZKvbdJ"></script>]]></buttons>
+		</job>
+	</jobs>

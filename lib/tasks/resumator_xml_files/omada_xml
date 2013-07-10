@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Omada Health]]></company>
+			<job>
+			<id><![CDATA[job_20130215191159_ZGP30OYIG0D7T2TS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Ruby-on-Rails Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://omada.theresumator.com/apply/z6pNE4/Senior-RubyonRails-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94105]]></postalcode>
+			<description><![CDATA[<h1>
+RoR + Javascript Developer at Health/Tech Startup</h1>
+<p>
+Join Omada and help us build the future of high-impact health care, integrating the latest tools in education, social reinforcement and game mechanics in service of preventive medicine.</p>
+<p>
+Omada&rsquo;s first product, Prevent (https://preventnow.com), promotes positive lifestyle changes for people at risk of developing type-2 diabetes, a ridiculously prevalent and preventable disease. Based on research by the Center for Disease Control, targeted interventions can not only help our families and friends live happier, healthier lives, but can also save insurers, employers, and individual policy holders billions of dollars.</p>
+<p>
+We have our roots inside IDEO, so great design is in our blood. We&rsquo;re bringing top-shelf medical research to patients through beautifully designed experiences that engage users. We have terrific support from both the health care and technology investment communities.&nbsp; Today, health care is mostly reactive: diseases that could have been detected and reversed well before their onset are allowed to run their course until they cause significant bodily damage and require expensive, lifelong treatments to manage. We&rsquo;d like to change that, and we need the right people to do it.</p>
+<h1>
+Who we&rsquo;re looking for</h1>
+<p>
+We&rsquo;re looking for a skilled Ruby-on-Rails + Javascript developer to join us as our fifth software engineer. Our only hard criteria is that you&#39;ve had recent web-development experience with these languages so that you can hit the ground running. It&rsquo;s also important that you&rsquo;re comfortable with HTML and CSS.<br />
+Right now we&rsquo;re stacking JQuery, Backbone.js, RoR, and PostgreSQL... and we fully intend to extend into mobile once we complete our web app. We&rsquo;re fortunate to be in a spot where we get paid for results, not pageviews, so we look forward to experimenting with various delivery mechanisms.</p>
+<p>
+We value test-driven development and constant collaboration -- our team practices pair programming full time, so you&rsquo;ll have the opportunity to learn techniques from everyone as well as sharing your skills.</p>
+<h1>
+Compensation/benefits</h1>
+<p>
+Competitive salary and generous equity, health insurance, top-of-the-line Apple hardware, a brand-new set of BuckyBalls (don&rsquo;t tell the CPSC), and more.</p>
+<h1>
+Relocation</h1>
+<p>
+If you&rsquo;re talented, we&rsquo;ll move you to San Francisco. Please don&rsquo;t be shy if you&rsquo;re from out-of-town! Also, under certain circumstances, we may be open to working remotely. Let us know the best arrangement for you.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/omada/z6pNE4"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[SmartGrains]]></company>
+			<job>
+			<id><![CDATA[job_20101129184308_CT9FQSSHF2X54CB5]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Ingénieur de Développement systèmes embarqués / temps réel (H /F)]]></title>
+			<department><![CDATA[R&D]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://smartgrains.theresumator.com/apply/qwwhbC/Ingnieur-De-Dveloppement-Systmes-Embarqus-Temps-Rel-H-F.html]]></url>
+			<city><![CDATA[Paris]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[France]]></country>
+			<postalcode><![CDATA[75013]]></postalcode>
+			<description><![CDATA[<p>
+	<b>VOTRE MISSION</b></p>
+<p>
+	Sous la responsabilit&eacute; du Directeur Technique, vous int&eacute;grez une &eacute;quipe de 7 personnes et y devenez le r&eacute;f&eacute;rent en mati&egrave;re de d&eacute;veloppement embarqu&eacute;.<br />
+	Vous &ecirc;tes directement impliqu&eacute;(e) dans l&rsquo;optimisation des diff&eacute;rentes composantes du code embarqu&eacute; (algorithmes temps r&eacute;el employ&eacute;s dans les protocoles de communication, optimisation des pilotes logiciels, traitement du signal, OS embarqu&eacute;, etc.) dans un contexte contraint en taille de code et en capacit&eacute; &eacute;nerg&eacute;tique.<br />
+	Vous serez sollicit&eacute;(e) tant sur des am&eacute;liorations incr&eacute;mentales que sur de projets de d&eacute;veloppement de nouveaux produits.</p>
+<p>
+	<b>NIVEAUX D&rsquo;ETUDES</b></p>
+<p>
+	Formation sup&eacute;rieure en informatique, de type Ecole d&#39;ing&eacute;nieur ou Universitaire.&nbsp;</p>
+<p>
+	<b>VOS COMPETENCES</b></p>
+<p>
+	Vous poss&eacute;dez une solide exp&eacute;rience de la programmation sur microcontr&ocirc;leurs embarqu&eacute;s, notamment en mati&egrave;re de gestion du temps (gestion des timers, gestion des interruptions, etc.).</p>
+<p>
+	Muni(e) d&rsquo;une solide culture informatique, vous poss&eacute;dez une forte expertise en programmation C et en C embarqu&eacute;. Vous ma&icirc;trisez &eacute;galement un second langage de programmation.</p>
+<p>
+	Vous parlez anglais couramment.</p>
+<p>
+	Dot&eacute; d&rsquo;un bon relationnel, vous &ecirc;tes motiv&eacute;(e) &agrave; l&rsquo;id&eacute;e d&rsquo;int&eacute;grer une petite &eacute;quipe au sein d&rsquo;une entreprise en forte croissance.</p>
+<p>
+	<b>EXPERIENCE PROFESSIONNELLE </b></p>
+<p>
+	Vous justifiez d&rsquo;au moins 3 ans d&rsquo;exp&eacute;rience professionnelle construite sur de la programmation de syst&egrave;mes embarqu&eacute;s au sein d&rsquo;environnements exigeants.<br />
+	&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/smartgrains/qwwhbC"></script>]]></buttons>
+		</job>
+	</jobs>

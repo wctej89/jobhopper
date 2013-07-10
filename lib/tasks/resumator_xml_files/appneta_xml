@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[AppNeta, Inc.]]></company>
+			<job>
+			<id><![CDATA[job_20130122030115_CPCCZYJ758RAZOJZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior full-stack engineer]]></title>
+			<department><![CDATA[APM (Tracelytics)]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://appneta.theresumator.com/apply/QOcFNS/Senior-Fullstack-Engineer.html]]></url>
+			<city><![CDATA[Boston]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02111]]></postalcode>
+			<description><![CDATA[<p>
+Are you comfortable working from the database to the DOM?</p>
+<p>
+Our technology monitors the full stack, so we like engineers who can work across all its layers. You&#39;ll join our small, agile team and work to build smarter end-to-end web app performance monitoring.</p>
+<p>
+Our stack is a typical &quot;big data&quot; system: we have a data faucet and processing pipeline that does a ton of writes (Cassandra, Hadoop, MySQL, RabbitMQ, Python, C/C++), a backend that does a ton of reads (Python), and a powerful interface (Backbone, D3, jQuery). We use it to analyze and visualize the performance of web applications.</p>
+<p>
+We work on elegantly answering questions about performance that web developers face each day. Our work is distributed, agile, and test-driven. We&#39;re based in Boston, MA, with an office in Providence, RI. If you&#39;d like to join our team, please get in touch!</p>
+<p>
+For more information: http://www.tracelytics.com/jobs/full-stack-engineer/</p>
+<p>
+<strong>Job Responsibilities</strong></p>
+<ul>
+<li>
+Engineer new application features and the data processing to support them</li>
+<li>
+Design scalable, efficient data storage and retrieval systems</li>
+<li>
+Write maintainable code with tests to prove it</li>
+</ul>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Expert-level experience in building web applications, hopefully familiar with Python</li>
+<li>
+Experience with SQL (we use sharded MySQL)</li>
+<li>
+Familiar with NoSQL data stores</li>
+<li>
+Linux-based development/deployment experience</li>
+</ul>
+<p>
+<strong>Bonus</strong></p>
+<ul>
+<li>
+Proficient/expert in JS</li>
+<li>
+Math-y background, eg. working knowledge of statistics or machine learning</li>
+<li>
+Performance, ops, systems, and/or network experience</li>
+</ul>
+<p>
+<strong>About</strong></p>
+<ul>
+<li>
+Agile, flexible work environment &mdash; talented 7-person team</li>
+<li>
+Located one block from Boston South Station &mdash; Chinatown lunches!</li>
+<li>
+New engineers get a MBP Retina 15&quot; laptop with maxed-out RAM and CPU</li>
+<li>
+&quot;For nerds, by nerds&quot; product &mdash; we build an app for web developers &mdash; lots of fun to build tools for technical audience</li>
+<li>
+Startup environment within stable company, AppNeta</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appneta/QOcFNS"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130122032812_TM5WV3FXEHYGMYLI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Frontend engineer]]></title>
+			<department><![CDATA[APM (Tracelytics)]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://appneta.theresumator.com/apply/8GBjNi/Frontend-Engineer.html]]></url>
+			<city><![CDATA[Boston]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02111]]></postalcode>
+			<description><![CDATA[<p>
+At AppNeta, we strive to provide an elegant and powerful interface for exploring mountains of web application performance data. Summarizing and visualizing it all is a big challenge, and we&#39;re looking for a front-end engineer to help us develop new charts, visualizations, and features.</p>
+<p>
+We&#39;re looking for someone who is as passionate as we are about building clean interfaces (with Backbone, jQuery, LESS, HTML5) and cool charts and graphs (D3, Protovis, SVG). If you can dig into the backend occasionally (Python), or are interested in building your backend chops, that&#39;s great too. You&#39;ll join our small, agile team and work to build smarter end-to-end web app performance monitoring.</p>
+<p>
+We work on elegantly answering questions about performance that web developers face each day. Our work is distributed, agile, and test-driven. We&#39;re based in Boston, MA, with an office in Providence, RI. If you&#39;d like to join our team, please get in touch!</p>
+<p>
+For more information: http://www.tracelytics.com/jobs/front-end-developer/</p>
+<p>
+Job Responsibilities<br />
+- Build our frontend interface&#39;s application logic and data models (jQuery, Backbone)<br />
+- Implement charts, graphs, and other cool visualizations (D3, SVG, LESS)<br />
+- Work with design and engineering to bring data and features to life</p>
+<p>
+Requirements<br />
+- Front-end experience with substantive JS interface development<br />
+- Experience with the latest in web standards like HTML5, CSS, SVG, etc (no worrying about legacy browser clients: our product is for web developers)</p>
+<p>
+Bonus<br />
+- Proficient in Python, or fast learner<br />
+- D3, Protovis, or SVG experience<br />
+- You love and use Backbone.js</p>
+<p>
+About<br />
+- Agile, flexible work environment -- talented 7-person team<br />
+- Located one block from Boston South Station -- Chinatown lunches!<br />
+- New engineers get a MBP Retina 15&quot; laptop with maxed-out RAM and CPU<br />
+- &quot;For nerds, by nerds&quot; product -- we build an app for web developers -- lots of fun to build tools for technical audience<br />
+- Startup environment within stable company, AppNeta</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/appneta/8GBjNi"></script>]]></buttons>
+		</job>
+	</jobs>

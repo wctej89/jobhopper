@@ -1,0 +1,616 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Big Nerd Ranch]]></company>
+			<job>
+			<id><![CDATA[job_20121113032728_FRG8QWJGDULKMVWW]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Android Developer]]></title>
+			<department><![CDATA[Software Development and Training]]></department>
+			<team><![CDATA[Nerd Team]]></team>
+			<url><![CDATA[http://bignerdranch.theresumator.com/apply/Vpn4ca/Android-Developer.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Multiple Countries]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+Big Nerd Ranch is a team of expert developers, specializing in training and consulting on mobile development. Over the years, we&#39;ve hosted thousands of students at the Ranch, helped companies around the world realize their programming goals, and released new books in the Big Nerd Ranch Guide Series every year.</p>
+<p>
+Be aware: Knowledge is the head honcho around here. And <strong>smart, kind folks</strong> who want to make the world a little better through bad-ass development are the only nerds we need.</p>
+<p>
+So bring us your <strong>brilliant, hard-working</strong> brain! Your elegant non-leaky code! Your crazy passion for <strong>training, consulting and writing</strong> about cutting edge code! (Can you tell we get excited about finding new nerds to join our team?) We&rsquo;ll see if we can carve out a nice little spot for you amongst our nerds-in-residence.</p>
+<p>
+What you&#39;ll do (Responsibilities):</p>
+<ul>
+<li>
+Develop existing and new mobile applications for Big Nerd Ranch and for our clients</li>
+<li>
+Author stories (use cases, technical and functional requirements), tests and code</li>
+<li>
+Contribute to and participate in development meetings (stand-ups, kick-offs, retrospectives) and design sessions with teams and clients</li>
+<li>
+Collaborate with team members, consultants, designers and clients to provide accurate estimations, timelines and risks associated with development</li>
+<li>
+Contribute to the open-source community through code, documentation, teaching and speaking</li>
+<li>
+Write blog posts and code-review your teammates</li>
+</ul>
+<p>
+What you already need to know (Requirements):</p>
+<ul>
+<li>
+Core aspects of Android development including architecture, design, development, separation of layers, configuration, performance, integration and analytics</li>
+<li>
+Basic Android Development, tools, and how to submit an app to Google Play (Android Market)</li>
+<li>
+Written and verbal communication skills; strong interpersonal skills are key for success</li>
+</ul>
+<p>
+The benefits we offer:</p>
+<ul>
+<li>
+Health, dental, vision, life insurance; 401k matching, short- and long- term disability</li>
+<li>
+Unlimited vacation and a results-only work environment</li>
+<li>
+Apple laptop and workstation</li>
+<li>
+Free breakfast and all the caffeine you can consume</li>
+<li>
+Barista training (we love good espresso; we get ours from Octane Coffee)</li>
+<li>
+Admission and travel to a conference annually</li>
+<li>
+On-site personal trainer sessions</li>
+</ul>
+<p>
+And a little something extra:</p>
+<ul>
+<li>
+Super-flexible work hours. As long as you get your work done, you can work from the beach. Really.</li>
+<li>
+Quarterly team results celebrations like ziplining, rock climbing and more as a team</li>
+<li>
+Weekly food trucks</li>
+<li>
+Tech Talks every Friday to keep your skills sharp and teach you new ones</li>
+<li>
+Doing good in the community by performing service projects or working pro-bono for deserving charities</li>
+</ul>
+<p>
+At the Big Nerd Ranch, you&#39;ll be working hard to improve yourself, and how we work. You&#39;ll be rewarded by working with the smartest people on the planet. We help companies launch and build products that make the world more useful. Are you up to the challenge?</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bignerdranch/Vpn4ca"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121110210625_IKLZJOXT15QMRX4N]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[iOS Developer]]></title>
+			<department><![CDATA[Software Development and Training]]></department>
+			<team><![CDATA[Nerd Team]]></team>
+			<url><![CDATA[http://bignerdranch.theresumator.com/apply/YVuKnj/IOS-Developer.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Multiple Countries]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+Big Nerd Ranch is a team of expert developers, specializing in training and consulting on mobile development. Over the years, we&#39;ve hosted thousands of students at the Ranch, helped companies around the world realize their programming goals, and released new books in the Big Nerd Ranch Guide Series every year.</p>
+<p>
+Be aware: Knowledge is the head honcho around here. And <strong>smart, kind folks</strong> who want to make the world a little better through bad-ass development are the only nerds we need.</p>
+<p>
+So bring us your <strong>brilliant, hard-working</strong> brain! Your elegant non-leaky code! Your crazy passion for <strong>training, consulting and writing</strong> about cutting edge code! (Can you tell we get excited about finding new nerds to join our team?) We&rsquo;ll see if we can carve out a nice little spot for you amongst our nerds-in-residence.</p>
+<p>
+What you&#39;ll do (Responsibilities):</p>
+<ul>
+<li>
+Develop existing and new mobile applications for Big Nerd Ranch and for our clients</li>
+<li>
+Author stories (use cases, technical and functional requirements), tests and code</li>
+<li>
+Contribute to and participate in development meetings (stand-ups, kick-offs, retrospectives) and design sessions with teams and clients</li>
+<li>
+Collaborate with team members, consultants, designers and clients to provide accurate estimations, timelines and risks associated with development</li>
+<li>
+Contribute to the open-source community through code, documentation, teaching and speaking</li>
+<li>
+Write blog posts and code-review your teammates</li>
+</ul>
+<p>
+What you already need to know (Requirements):</p>
+<ul>
+<li>
+Core aspects of iOS development including architecture, design, development, separation of layers, configuration, performance, integration and analytics</li>
+<li>
+Basic iOS Development, tools, and how to &quot;submit an application&quot; to the App Store</li>
+<li>
+Written and verbal communication skills; strong interpersonal skills are key for success</li>
+</ul>
+<p>
+The benefits we offer:</p>
+<ul>
+<li>
+Health, dental, vision, life insurance; 401k matching, short- and long- term disability</li>
+<li>
+Unlimited vacation and a results-only work environment</li>
+<li>
+Apple laptop and workstation</li>
+<li>
+Free breakfast and all the caffeine you can consume</li>
+<li>
+Barista training (we love good espresso; we get ours from Octane Coffee)</li>
+<li>
+Admission and travel to a conference annually</li>
+<li>
+On-site personal trainer sessions</li>
+</ul>
+<p>
+And a little something extra:</p>
+<ul>
+<li>
+Super-flexible work hours. As long as you get your work done, you can work from the beach. Really.</li>
+<li>
+Quarterly team results celebrations like ziplining, rock climbing and more as a team</li>
+<li>
+Weekly food trucks</li>
+<li>
+Tech Talks every Friday to keep your skills sharp and teach you new ones</li>
+<li>
+Doing good in the community by performing service projects or working pro-bono for deserving charities</li>
+</ul>
+<p>
+At the Big Nerd Ranch, you&#39;ll be working hard to improve yourself, and how we work. You&#39;ll be rewarded by working with the smartest people on the planet. We help companies launch and build products that make the world more useful. Are you up to the challenge?</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bignerdranch/YVuKnj"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121128012858_ADEEZPUYEMZDG4GX]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Frontend HTML/Javascript Developer]]></title>
+			<department><![CDATA[Software Development and Training]]></department>
+			<team><![CDATA[Web]]></team>
+			<url><![CDATA[http://bignerdranch.theresumator.com/apply/kASa5q/Frontend-HTMLJavascript-Developer.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Multiple Countries]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+Big Nerd Ranch is a team of experts, specializing in training and consulting on mobile development. Over the years, we&#39;ve hosted thousands of students at the Ranch, helped companies around the world realize their programming goals, and released new books in the Big Nerd Ranch Guide Series every year.</p>
+<p>
+Be aware: Knowledge is the head honcho around here. And <strong>smart, kind</strong> folks who want to make the world a little better through bad-ass design are the only nerds we need.</p>
+<p>
+So bring us your <strong>brilliant, hard-working</strong> brain!Your elegant non-leaky code! Your crazy passion for <strong>training, consulting and writing</strong> about cutting edge code! (Can you tell we get excited about finding new nerds to join our team?) We&rsquo;ll see if we can carve out a nice little spot for you amongst our nerds-in-residence.</p>
+<p>
+What you&#39;ll do (Responsibilities):</p>
+<ul>
+<li>
+Develop existing and new HTML5 applications for Big Nerd Ranch and for our clients</li>
+<li>
+Build responsive web front-ends for desktop, tablet, and smartphone browsers</li>
+<li>
+Author stories (use cases, technical and functional requirements), tests and code</li>
+<li>
+Contribute to and participate in development meetings (stand-ups, kick-offs, retrospectives) and design sessions with teams and clients</li>
+<li>
+Collaborate with team members, consultants, designers and clients to provide accurate estimations, timelines and risks associated with development</li>
+<li>
+Contribute to the open-source community through code, documentation, teaching and speaking</li>
+<li>
+Write blog posts and code-review your teammates</li>
+</ul>
+<p>
+What you already need to know (Requirements):</p>
+<ul>
+<li>
+Core aspects of HTML5 application development including architecture, development, device testing, profiling, debugging, and documenting</li>
+<li>
+HTML5, CSS, Javascript and jQuery</li>
+<li>
+Able to communicate effectively with developers and clients, written and verbal</li>
+<li>
+Strong interpersonal skills are key for success</li>
+</ul>
+<p>
+The benefits we offer:</p>
+<ul>
+<li>
+Health, dental, vision, life insurance; 401k matching, short- and long- term disability</li>
+<li>
+Unlimited vacation and a results-only work environment</li>
+<li>
+Apple laptop and workstation</li>
+<li>
+Free breakfast and all the caffeine you can consume</li>
+<li>
+Barista training (we love good espresso; we get ours from Octane Coffee)</li>
+<li>
+Admission and travel to a conference annually</li>
+<li>
+On-site personal trainer sessions</li>
+</ul>
+<p>
+And a little something extra:</p>
+<ul>
+<li>
+Super-flexible work hours. As long as you get your work done, you can work from the beach. Really.</li>
+<li>
+Quarterly team results celebrations like ziplining, rock climbing and more as a team</li>
+<li>
+Weekly food trucks</li>
+<li>
+Tech Talks every Friday to keep your skills sharp and teach you new ones</li>
+<li>
+Doing good in the community by performing service projects or working pro-bono for deserving charities</li>
+</ul>
+<p>
+At the Big Nerd Ranch, you&#39;ll be working hard to improve yourself, and how we work. You&#39;ll be rewarded by working with the smartest people on the planet. We help companies launch and build products that make the world more useful. Are you up to the challenge?</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bignerdranch/kASa5q"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130422145228_87L3ZAUALAQTUYV5]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Open GL Developer]]></title>
+			<department><![CDATA[Software Development and Training]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://bignerdranch.theresumator.com/apply/bH72CZ/Open-GL-Developer.html]]></url>
+			<city><![CDATA[Atlanta]]></city>
+			<state><![CDATA[GA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[30317]]></postalcode>
+			<description><![CDATA[<p>
+OpenGL Developer</p>
+<p>
+Big Nerd Ranch is a team of expert developers, specializing in training and consulting on mobile development. Over the years, we&#39;ve hosted thousands of students at the Ranch, helped companies around the world realize their programming goals, and released new books in the Big Nerd Ranch Guide Series every year.</p>
+<p>
+Be aware: Knowledge is the head honcho around here. And smart, kind folks who want to make the world a little better through bad-ass development are the only nerds we need.</p>
+<p>
+So bring us your brilliant, hard-working brain! Your elegant non-leaky code! Your crazy passion for training, consulting and writing about cutting edge code! (Can you tell we get excited about finding new nerds to join our team?) We&rsquo;ll see if we can carve out a nice little spot for you amongst our nerds-in-residence.</p>
+<br />
+<p>
+What you&#39;ll do (Responsibilities):</p>
+<p>
+Learn how to develop existing and new mobile applications for Big Nerd Ranch and for our clients</p>
+<p>
+Learn how to author stories (use cases, technical and functional requirements), tests and code</p>
+<p>
+Learn how to contribute to and participate in development meetings (stand-ups, kick-offs, retrospectives) and design sessions with teams and clients</p>
+<p>
+Learn how to collaborate with team members, consultants, designers and clients to provide accurate estimations, timelines and risks associated with development</p>
+<p>
+Learn how to contribute to the open-source community through code, documentation, teaching and speaking</p>
+<p>
+Learn how to write blog posts and code-review your teammates</p>
+<p>
+What you already need to know or have experience doing (Requirements):</p>
+<p>
+Have shipped one or more reasonably sized OpenGL applications (desktop or mobile)<br />
+Experience with OpenGL ES 2.0 or OpenGL 3.0<br />
+Comfortable with GLSL shader programming and the programmable pipeline<br />
+Understand how OpenGL fits into a GUI framework and how to integrate event handling and 3D picking with the platform<br />
+Use of higher level scene graph libraries like SceneKit or OpenSceneGraph is a plus, as would experience with geometry shaders or OpenGL 4 feedback.</p>
+<p>
+The benefits we offer:</p>
+<p>
+Health, dental, vision, life insurance; 401k matching, short- and long- term disability</p>
+<p>
+Unlimited vacation and a results-only work environment</p>
+<p>
+Apple laptop and workstation</p>
+<p>
+Free breakfast and all the caffeine you can consume</p>
+<p>
+Barista training (we love good espresso; we get ours from Octane Coffee)</p>
+<p>
+Admission and travel to a conference annually</p>
+<p>
+On-site personal trainer sessions</p>
+<p>
+And a little something extra:</p>
+<p>
+Super-flexible work hours. As long as you get your work done, you can work from the beach. Really.</p>
+<p>
+Quarterly team results celebrations like ziplining, rock climbing and more as a team</p>
+<p>
+Weekly food trucks</p>
+<p>
+Tech Talks every Friday to keep your skills sharp and teach you new ones</p>
+<p>
+Doing good in the community by performing service projects or working pro-bono for deserving charities</p>
+<p>
+At the Big Nerd Ranch, you&#39;ll be working hard to improve yourself, and how we work. You&#39;ll be rewarded by working with the smartest people on the planet. We help companies launch and build products that make the world more useful. Are you up to the challenge?</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bignerdranch/bH72CZ"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130515223728_PRDLG3GOYGISZFLI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Business Development Representative]]></title>
+			<department><![CDATA[Sales and Marketing]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://bignerdranch.theresumator.com/apply/rGHqDg/Business-Development-Representative.html]]></url>
+			<city><![CDATA[Atlanta]]></city>
+			<state><![CDATA[GA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[30307]]></postalcode>
+			<description><![CDATA[<p>
+Big Nerd Ranch is a team of expert developers, specializing in training and consulting on mobile development. Over the years, we&#39;ve hosted thousands of students at the Ranch, helped companies around the world realize their programming goals, and released new books in the Big Nerd Ranch Guide Series every year.</p>
+<p>
+We are looking to grow our Sales/Marketing team to connect our excellent developers to companies who need our help. &nbsp;Do you like<strong> helping small and big companies solve problems</strong> via the best tools, people, and practices? &nbsp;You&#39;ll love this job.</p>
+<p>
+<b>What you&#39;ll do (Responsibilities):</b></p>
+<ul>
+<li>
+Forge Relationships and partnerships with both existing and potential clients</li>
+<li>
+Research companies, identify decision makers, and develop leads</li>
+<li>
+Qualify leads for the sales team</li>
+<li>
+Maintain expected personal metrics</li>
+<li>
+Meet with prospects and existing clients for proposal presentations and to foster relationships</li>
+<li>
+Update prospect interaction in SugarCRM</li>
+</ul>
+<p>
+<strong>What you already need to know (Requirements):</strong></p>
+<ul>
+<li>
+Skillfully composed on the telephone</li>
+<li>
+Excellent written and verbal communication skills; strong personal skills</li>
+<li>
+Proficient with email, voicemail, Microsoft Office and Mac</li>
+<li>
+CRM Experience is a plus</li>
+<li>
+BA/BS Degree</li>
+</ul>
+<p>
+<strong>The benefits we offer:</strong></p>
+<ul>
+<li>
+Health, dental, vision, life insurance;&nbsp;401k matching, short- and long- term disability</li>
+<li>
+Unlimited vacation and a results-only work environment with super flexibly hours</li>
+<li>
+Apple laptop and workstation</li>
+<li>
+Free breakfast&nbsp;and all the caffeine you can consume</li>
+<li>
+Barista training (we love good espresso; we get ours&nbsp;from Octane Coffee)</li>
+<li>
+Admission and travel to a conference annually</li>
+<li>
+On-site personal trainer sessions</li>
+</ul>
+<p>
+At the Big Nerd Ranch, you&#39;ll be working hard to improve yourself, and how we work. You&#39;ll be rewarded by working with the smartest people on the planet. We help companies launch and build products that make the world more useful. Are you up to the challenge?</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bignerdranch/rGHqDg"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130606170648_ILONHRSQK6QZDZJD]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[iOS Developer - Europe]]></title>
+			<department><![CDATA[Software Development and Training]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://bignerdranch.theresumator.com/apply/w5EpS5/IOS-Developer-Europe.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Multiple Countries]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+Big Nerd Ranch is a team of expert developers, specializing in training and consulting on mobile development. Over the years, we&#39;ve hosted thousands of students at the Ranch, helped companies around the world realize their programming goals, and released new books in the Big Nerd Ranch Guide Series every year.</p>
+<p>
+Be aware: Knowledge is the head honcho around here. And <strong>smart, kind folks</strong> who want to make the world a little better through bad-ass development are the only nerds we need.</p>
+<p>
+So bring us your <strong>brilliant, hard-working</strong> brain! Your elegant non-leaky code! Your crazy passion for <strong>training, consulting and writing</strong> about cutting edge code! (Can you tell we get excited about finding new nerds to join our team?) We&rsquo;ll see if we can carve out a nice little spot for you amongst our nerds-in-residence.</p>
+<p>
+What you&#39;ll do (Responsibilities):</p>
+<ul>
+<li>
+Develop existing and new mobile applications for Big Nerd Ranch and for our clients</li>
+<li>
+Author stories (use cases, technical and functional requirements), tests and code</li>
+<li>
+Contribute to and participate in development meetings (stand-ups, kick-offs, retrospectives) and design sessions with teams and clients</li>
+<li>
+Collaborate with team members, consultants, designers and clients to provide accurate estimations, timelines and risks associated with development</li>
+<li>
+Contribute to the open-source community through code, documentation, teaching and speaking</li>
+<li>
+Write blog posts and code-review your teammates</li>
+</ul>
+<p>
+What you already need to know (Requirements):</p>
+<ul>
+<li>
+Core aspects of iOS development including architecture, design, development, separation of layers, configuration, performance, integration and analytics</li>
+<li>
+Basic iOS Development, tools, and how to &quot;submit an application&quot; to the App Store</li>
+<li>
+Written and verbal communication skills; strong interpersonal skills are key for success</li>
+</ul>
+<p>
+The benefits we offer:</p>
+<ul>
+<li>
+Health, dental, vision, life insurance; 401k matching, short- and long- term disability</li>
+<li>
+Unlimited vacation and a results-only work environment with super flexipble work hours</li>
+<li>
+Apple laptop and workstation</li>
+<li>
+All the caffeine you can consume</li>
+<li>
+Admission and travel to a conference annually</li>
+</ul>
+<p>
+At the Big Nerd Ranch, you&#39;ll be working hard to improve yourself, and how we work. You&#39;ll be rewarded by working with the smartest people on the planet. We help companies launch and build products that make the world more useful. Are you up to the challenge?</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bignerdranch/w5EpS5"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130606170837_GU9H3JNKBRV7STNB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Android Developer - Europe]]></title>
+			<department><![CDATA[Software Development and Training]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://bignerdranch.theresumator.com/apply/ZiDydP/Android-Developer-Europe.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Multiple Countries]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+Big Nerd Ranch is a team of expert developers, specializing in training and consulting on mobile development. Over the years, we&#39;ve hosted thousands of students at the Ranch, helped companies around the world realize their programming goals, and released new books in the Big Nerd Ranch Guide Series every year.</p>
+<p>
+Be aware: Knowledge is the head honcho around here. And <strong>smart, kind folks</strong> who want to make the world a little better through bad-ass development are the only nerds we need.</p>
+<p>
+So bring us your <strong>brilliant, hard-working</strong> brain! Your elegant non-leaky code! Your crazy passion for <strong>training, consulting and writing</strong> about cutting edge code! (Can you tell we get excited about finding new nerds to join our team?) We&rsquo;ll see if we can carve out a nice little spot for you amongst our nerds-in-residence.</p>
+<p>
+What you&#39;ll do (Responsibilities):</p>
+<ul>
+<li>
+Develop existing and new mobile applications for Big Nerd Ranch and for our clients</li>
+<li>
+Author stories (use cases, technical and functional requirements), tests and code</li>
+<li>
+Contribute to and participate in development meetings (stand-ups, kick-offs, retrospectives) and design sessions with teams and clients</li>
+<li>
+Collaborate with team members, consultants, designers and clients to provide accurate estimations, timelines and risks associated with development</li>
+<li>
+Contribute to the open-source community through code, documentation, teaching and speaking</li>
+<li>
+Write blog posts and code-review your teammates</li>
+</ul>
+<p>
+What you already need to know (Requirements):</p>
+<ul>
+<li>
+Core aspects of Android development including architecture, design, development, separation of layers, configuration, performance, integration and analytics</li>
+<li>
+Basic Android Development, tools, and how to submit an app to Google Play (Android Market)</li>
+<li>
+Written and verbal communication skills; strong interpersonal skills are key for success</li>
+</ul>
+<p>
+The benefits we offer:</p>
+<ul>
+<li>
+Health, dental, vision, life insurance; 401k matching, short- and long- term disability</li>
+<li>
+Unlimited vacation and a results-only work environment</li>
+<li>
+Apple laptop and workstation</li>
+<li>
+All the caffeine you can consume</li>
+<li>
+Admission and travel to a conference annually</li>
+</ul>
+<p>
+At the Big Nerd Ranch, you&#39;ll be working hard to improve yourself, and how we work. You&#39;ll be rewarded by working with the smartest people on the planet. We help companies launch and build products that make the world more useful. Are you up to the challenge?</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bignerdranch/ZiDydP"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130606182514_VGTCW9YUQ4Z2POZS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Developer Internship-Fall 2013]]></title>
+			<department><![CDATA[Software Development and Training]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://bignerdranch.theresumator.com/apply/IC3CKQ/Developer-InternshipFall-2013.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Multiple Countries]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+Big Nerd Ranch is a team of expert developers, specializing in training and consulting on mobile development. Over the years, we&#39;ve hosted thousands of students at the Ranch, helped companies around the world realize their programming goals, and released new books in the Big Nerd Ranch Guide Series every year.</p>
+<p>
+Be aware: Knowledge is the head honcho around here. And <strong>smart, kind folks</strong> who want to make the world a little better through bad-ass development are the only nerds we need.</p>
+<p>
+So bring us your <strong>brilliant, hard-working</strong> brain! Your elegant non-leaky code! Your crazy passion for <strong>training, consulting and writing</strong> about cutting edge code! (Can you tell we get excited about finding new nerds to join our team?) We&rsquo;ll see if we can carve out a nice little spot for you amongst our nerds-in-residence.</p>
+<p>
+What you&#39;ll do (Responsibilities):</p>
+<ul>
+<li>
+Learn how to develop existing and new mobile applications for Big Nerd Ranch and for our clients</li>
+<li>
+Learn how to author stories (use cases, technical and functional requirements), tests and code</li>
+<li>
+Learn how to contribute to and participate in development meetings (stand-ups, kick-offs, retrospectives) and design sessions with teams and clients</li>
+<li>
+Learn how to collaborate with team members, consultants, designers and clients to provide accurate estimations, timelines and risks associated with development</li>
+<li>
+Learn how to contribute to the open-source community through code, documentation, teaching and speaking</li>
+<li>
+Learn how to write blog posts and code-review your teammates</li>
+</ul>
+<p>
+What you already need to know (Requirements):</p>
+<ul>
+<li>
+Core aspects of software development using technologies like HTML and a Database</li>
+<li>
+Experience in iOS (Objective-C), Android (Java), Ruby on Rails (Ruby), or other programming languages is a plus</li>
+<li>
+A sponge-like brain ready to pick up the skills necessary to develop, consult, and teach</li>
+<li>
+Written and verbal communication skills; strong interpersonal skills are key for success</li>
+</ul>
+<p>
+The benefits we offer:</p>
+<ul>
+<li>
+Health, dental, vision, life insurance; 401k matching, short- and long- term disability</li>
+<li>
+Unlimited vacation and a results-only work environment</li>
+<li>
+Apple laptop and workstation</li>
+<li>
+Free breakfast and all the caffeine you can consume</li>
+<li>
+Barista training (we love good espresso; we get ours from Octane Coffee)</li>
+<li>
+Admission and travel to a conference annually</li>
+<li>
+On-site personal trainer sessions</li>
+</ul>
+<p>
+And a little something extra:</p>
+<ul>
+<li>
+Super-flexible work hours. As long as you get your work done, you can work from the beach. Really.</li>
+<li>
+Quarterly team results celebrations like ziplining, rock climbing and more as a team</li>
+<li>
+Weekly food trucks</li>
+<li>
+Tech Talks every Friday to keep your skills sharp and teach you new ones</li>
+<li>
+Doing good in the community by performing service projects or working pro-bono for deserving charities</li>
+</ul>
+<p>
+At the Big Nerd Ranch, you&#39;ll be working hard to improve yourself, and how we work. You&#39;ll be rewarded by working with the smartest people on the planet. We help companies launch and build products that make the world more useful. Are you up to the challenge?</p>
+]]></description>
+			<type><![CDATA[Internship]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/bignerdranch/IC3CKQ"></script>]]></buttons>
+		</job>
+	</jobs>

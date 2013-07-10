@@ -1,0 +1,359 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[triggit]]></company>
+			<job>
+			<id><![CDATA[job_20110502221034_UYSV5S3N7CG0UJEZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Ad Operations Associate]]></title>
+			<department><![CDATA[Accounts]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://triggit.theresumator.com/apply/Bwmcl4/Ad-Operations-Associate.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+	<a href="http://triggit.com" rel="nofollow"><img src="http://triggit.com/images/logo.png" /></a></p>
+<h2 id="mktg-manager">
+	Ad Operations Associate</h2>
+<p>
+	Do you want to work on extremely hard problems, surrounded by a smart, passionate team in a fast-paced start-up environment? Triggit is hiring.</p>
+<p>
+	Triggit, an online advertising technology company based in SOMA (San Francisco) is hiring an Account Analyst to join our accounts team.</p>
+<p>
+	The Platform Operations Manager will oversee all Triggit campaign activity, monitor platform performance, and be ultimately responsible for executing client plans. There will be opportunity and expectation for growth within the company.</p>
+<p>
+	<strong>What You&#39;ll Do all Day</strong><br />
+	&bull; Lead Triggit RTB Platform operations<br />
+	&bull; Monitor, analyze, and optimize campaigns to achieve campaign performance goals and maintain client satisfaction<br />
+	&bull; Assist engineering to improve Platform performance<br />
+	&bull; Carry out QA for campaigns and technical integrations<br />
+	&bull; Whatever else is required to get the job done</p>
+<p>
+	<strong>Requirements</strong><br />
+	&bull; Excel mastery; capable of uncovering meaningful insights from large data sets<br />
+	&bull; Must be immediately comfortable with complex online interfaces<br />
+	&bull; 1+ years of ad operations or account management preferred but not required<br />
+	&bull; Hungry self-starter with a relentless work ethic who doesn&#39;t want or need to be micromanaged<br />
+	&bull; Detail-obsessed with a habit of being excessively thorough<br />
+	&bull; College degree with a solid GPA or equivalent work experience</p>
+<p>
+	<strong>To Apply:<br />
+	Please submit a cover letter answering the following questions and resume to jobs@triggit.com.</strong></p>
+<p>
+	1) If you had unlimited access to data on any one subject in the world, what subject would you choose to explore and what would you seek to uncover using the data?</p>
+<p>
+	2) If you could invite any 3 people to a dinner party (past, present, or future), who would you invite and why?</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/triggit/Bwmcl4"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110526003945_2369XKATFBWD42TV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sr. Ruby on Rails Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://triggit.theresumator.com/apply/rO5PLD/Sr-Ruby-On-Rails-Developer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<div>
+  <p><a href="http://triggit.com/" _cke_saved_href="http://triggit.com" rel="nofollow"><img style="border:0px" src="http://triggit.com/images/logo.png" _cke_saved_src="http://triggit.com/images/logo.png"></a><br>
+    <br>
+    <strong>Ruby on Rails Developer</strong><br>
+    <br>
+    Do you dream in code and want to invent and build game changing technologies? We'd love to hear from you!<br>
+    <br>
+    We are looking for a Ruby on Rails guru to lead the build of our interface for our real time bidding platform. You will work alongside a team of successful entrepreneurs and experienced developers in constantly pushing the boundary of innovation and possibility.<br>
+   <p><strong>Requirements:</strong>     
+  <ul><li>2+ years of experience building web sites with:
+  <ul style="margin-top:0px !important"><li>Ruby, a framework in of your choice: Rails, Sinatra, etc; a <span scaytid="2" scayt_word="Javascript">Javascript</span> toolkit, preferably <span scaytid="3" scayt_word="jQuery">jQuery</span>; AJAX; SQL; <span scaytid="4" scayt_word="Memcache">Memcache; </span><span scaytid="5" scayt_word="Nginx">Nginx; </span>    deployment tools (Capistrano, etc.)
+  </li></ul>
+<li>Competency with database schema design<br>
+</li>
+    <li>Experience in building dynamic, information rich sites at scale<br>
+    </li>
+    <li>Good design sense, experience working with a graphic designer and realizing complex mockups<br>
+    </li>
+    <li>An obsession with quality and correctness and a willingness to take full control of our front-end</li>
+  </ul><p><br>
+    <strong>Ideally the candidate has:</strong>
+</p>
+  <ul>
+    <li>Experience with ops / <span scaytid="6" scayt_word="sysadmin">sysadmin</span> tasks - we believe developers should play a serious roles in operations and deployment<br>
+    </li>
+    <li>Experience with <span scaytid="7" scayt_word="git">git</span><br>
+    </li>
+    <li>Some Flash / <span scaytid="8" scayt_word="ActionScript">ActionScript</span> experience<br>
+    </li>
+    <li>Interest in exploring the other technologies in our stack: C++/Java/<span scaytid="9" scayt_word="Hadoop">Hadoop</span> and distributed systems<br>
+    </li>
+  </ul>
+  <p><strong>To Apply:</strong><br>
+    <br>
+    Please submit a Resume &amp; Source Code examples of your work, (If this isn't possible, you may also submit an online portfolio of your work), to <span scaytid="1" scayt_word="jobs@triggit.com">jobs@triggit.com</span>.<br>
+    Compensation:<br>
+    <br>
+  Based on experience. Competitive salary, 401(k), Equity, and Healthcare.</p>
+<p><strong>Why Triggit</span>?</strong> </p>
+<ul>
+  <li>Every engineer gets their own office.  With a door. </li>
+  <li>The engineering challenges include massive distributed systems,  leveraging hundreds of <span scaytid="21" scayt_word="terrabytyes">terrabytyes</span> of<span scaytid="24" scayt_word="datas"> datas, at scale, in real-time, all day, everyday. </span></li>
+  <li>We invent data-driven technologies that make online media buying more efficient and more effective<br>
+  </li>
+  <li>We make our clients happy, which makes us happy<br>
+  </li>
+  <li>We have a foosball table, an espresso machine and a fridge full of beer. Our offices are in the heart of SOMA and our neighborhood bar is Zeitgeist. You get the picture. </li>
+</ul>
+  <p><strong>About Triggit: </strong></p>
+  <p>Triggit is the leading developer of technologies for buying media using real time bidding. Triggit works with innovative marketers and their agencies to deliver unparalleled scale, efficiency and effectiveness in media buying. Based in San Francisco, Triggit is backed by Foundry Group, Spark Capital and industry angel investors. For more information visit http://www.triggit.com. <br>
+    <br>
+  </p>
+</div>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/triggit/rO5PLD"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110607180156_TRLD2S6XHKFJYGFO]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Wearer of Many Hats]]></title>
+			<department><![CDATA[Operations]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://triggit.theresumator.com/apply/Lt9uEx/Wearer-Of-Many-Hats.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+	<a href="http://triggit.com" rel="nofollow"><img src="http://triggit.com/images/logo.png" /></a></p>
+<h2 id="mktg-manager">
+	Operations Associate -&quot;Wearer of Many Hats&quot;</h2>
+<p>
+	&nbsp;</p>
+<p>
+	Do you wonder what it&rsquo;s like to work at tech start-up in San Francisco? Are you drawn to the idea of entrepreneurship and changing the world? Triggit is hiring.</p>
+<p>
+	Triggit is looking for a passionate entry-level self starter to join our growing team. As an operations associate you&#39;ll do a little bit of everything in helping Triggit grow.</p>
+<p>
+	We cherish individuals who are intelligent, curious and fiercely independent. We get excited about personalities that light up when discussing the merits of ideas and are always exploring the next angle, and the next layer. We hire people who want the opportunity to have a direct impact on the performance of our company, who take pride in their work, and at the end of the day, are always up for a little more fun.</p>
+<p>
+	<strong>What You&rsquo;ll do All Day: </strong></p>
+<ul>
+	<li>
+		As Triggit&rsquo;s Operations Associate you&#39;ll also be our wearer of many hat and you&rsquo;ll be put to work across an array of tasks and projects:
+		<ul>
+			<li>
+				You&rsquo;ll be our social media guru and build our identity on Facebook, Twitter, and our Blog</li>
+			<li>
+				You&#39;ll assist operations working in HR, A/R, and more</li>
+			<li>
+				You&#39;ll be called on to help Sales and Marketing source leads, build collateral, and research market trends</li>
+			<li>
+				You&rsquo;ll also have the opportunity to build Triggit things like a propriety lunch ordering schedule and execute on varied admin tasks throughout the day.</li>
+		</ul>
+	</li>
+</ul>
+<p>
+	<strong>We Offer You: </strong></p>
+<ul>
+	<li>
+		10-12 week contract-to-hire position with chance of full-time employment at end of term.</li>
+	<li>
+		Insight into the inner workings of a VC funded start-up</li>
+	<li>
+		Opportunity to engage with every level of the company &ndash; you&rsquo;ll have the chance to listen in on sales calls, learn about fundraising strategies and generally soak up knowledge from the inside out.</li>
+	<li>
+		You&rsquo;ll get your hands dirty and make a real contribution to moving Triggit forward.</li>
+	<li>
+		The opportunity to grow within the company based on commitment and dedication to our product, and our team.</li>
+</ul>
+<p>
+	<strong>To Apply:</strong></p>
+<p>
+	Please write a Cover Letter (Essay) answering the following question:</p>
+<p>
+	<em>If you could invite any 3 people (past, present or future) to a dinner party who would you invite and why? </em></p>
+<p>
+	<em>If you had unlimited access to data on any one subject in the world, what subject would you choose to explore and what would you seek to discover with the data?</em></p>
+<p>
+	In your email, please also include your resume, college transcript and SAT scores.</p>
+<p>
+	<strong>Compensation</strong>:<br />
+	Based on experience. Contract-To-Hire position w/competitive wage. Salary, 401(k), Equity, and Healthcare if and when a full time offer is extended.</p>
+<p>
+	<strong>About Triggit: </strong></p>
+<p>
+	Triggit is a venture-funded advertising technology start-up and a leader on the real-time advertising exchanges. Triggit was founded in 2006 and has an office in SOMA, San Francisco, CA. For additional information, pictures of our swanky start-up offices, and more visit Triggit Jobs.</p>
+<p>
+	<strong>Top 7 Reasons to Work at Triggit: </strong></p>
+<p>
+	1. We invent game-changing technologies and actually make money from them.<br />
+	2. We are a team of passionate personalities who work hard, and play harder.<br />
+	3. Breakfast and lunch are catered with food from local hipster restaurants and food carts like Chairman Bao. If you work through dinner, we&#39;ll pay for that too.<br />
+	4. Shelves are stocked with snacks, the espresso machine is fancy, and the fridge will have beer you actually like.<br />
+	5. Our offices are in SOMA, an easy bike ride from anywhere in the City, and a simple commute from East Bay or down South.<br />
+	6. Our neighborhood bar is Zeitgeist, we celebrate there often after big wins or awesome product releases.<br />
+	7. And yes, we even have a foosball table. We are that &#39;clich&eacute;&#39;.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/triggit/Lt9uEx"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110526004751_RDWX0Z2YJ23ANZOL]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Inside Sales]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[Sales & Marketing]]></team>
+			<url><![CDATA[http://triggit.theresumator.com/apply/bN751J/Inside-Sales.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<p>
+	<a href="http://triggit.com" rel="nofollow"><img src="http://triggit.com/images/logo.png" /></a></p>
+<p>
+	<strong>Inside Sales</strong></p>
+<p>
+	Do you want to help sell an amazing product and be surrounded by a smart, passionate team in a fast-paced start-up environment? Triggit is hiring.&nbsp;</p>
+<p>
+	<strong>About You:&nbsp;</strong><br />
+	You know you can sell.&nbsp;&nbsp;&nbsp; And you enjoy it.<br />
+	You&#39;re a hungry self-starter with a relentless work ethic who doesn&#39;t want or need to be micromanaged.&nbsp;<br />
+	You&rsquo;re motivated by making large quantities of money.&nbsp; And you&rsquo;ll work for it. OTE is $100K+ for top earners.&nbsp;&nbsp;<br />
+	You&rsquo;re never afraid to pick up a phone and cold call.&nbsp; And you&rsquo;re relentless enough that you&rsquo;ll never quit.&nbsp;&nbsp;<br />
+	You understand that finding the right person to talk to is as important as saying the right thing.&nbsp;&nbsp; And you&rsquo;ll pound the pavement, or weave the Internet, to source the right lead.&nbsp;&nbsp;<br />
+	You&rsquo;re fascinated by technology.&nbsp; And selling groundbreaking ideas and products excites you.</p>
+<p>
+	<strong>Requirements:&nbsp;&nbsp;&nbsp;</strong><br />
+	2+ years of integrated media/digital sales and or agency experience, or a way to prove you don&rsquo;t need it.&nbsp;&nbsp;<br />
+	Ability to understand and communicate complex technologies.&nbsp;<br />
+	You understand Triggit&rsquo;s core business propositions and technologies. And will be ready to communicate this understanding during your first call.&nbsp;<br />
+	You can identify and close deals with digital brands and advertising agencies to achieve Triggit&rsquo;s and individual&rsquo;s quarterly and annual sales goals.&nbsp;<br />
+	Excited to work in a fast paced, rapidly changing, start-up environment.&nbsp;<br />
+	Ability/willingness to travel as needed.<br />
+	College degree with a solid GPA or equivalent work experience.&nbsp;</p>
+<p>
+	<strong>To Apply:&nbsp;&nbsp;<br />
+	Please submit a Resume and Cover Letter answering the following questions to Triggit Jobs (jobs@triggit.com):&nbsp;</strong>&nbsp;</p>
+<p>
+	When our CEO Zach was 16 he rode his bike from Minnesota to the Atlanta Olympics and traded enough pins, and scalped enough tickets, to pay for his entire trip, attend dozens of events and deposit $5G into his bank account.&nbsp;&nbsp; What&rsquo;s your sales story?</p>
+<p>
+	<strong>Compensation:</strong></p>
+<div>
+	<p>
+		Competitive pay depending on experience. Package will include stock equity, 401k, health/dental/vision insurance, plus breakfast, lunch, and snacks every day.</p>
+</div>
+<p>
+	<strong>About Triggit: </strong></p>
+<p>
+	Triggit is a venture-funded advertising technology start-up and a leader on the real-time advertising exchanges. Triggit was founded in 2006 and has an office in SOMA, San Francisco, CA. For additional information, pictures of our swanky start-up offices, and more visit triggit.com.&nbsp;<br />
+	<br />
+	<strong>Top 7 Reasons to Work at Triggit: </strong><br />
+	1. We invent game-changing technologies and actually make money from them.<br />
+	2. Days often end with a very competitive game of Bond, Nintendo 64 edition.<br />
+	3. Breakfast and lunch are catered with food like Chairman Bao &amp; if you work through dinner, we&#39;ll pay for that too.<br />
+	4. Shelves are stocked with snacks, the espresso machine is fancy, and the fridge will have beer you actually like.<br />
+	5. Our offices are in SOMA, an easy bike ride from anywhere in the City, and a simple commute from East Bay or down South.<br />
+	6. Our neighborhood bar is Zeitgeist, &amp; we celebrate there often after big wins or awesome product releases.<br />
+	7. And yes, we even have a foosball table. We are that clich&eacute;.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/triggit/bN751J"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110527212537_IVI1AVC5MWOVAKWG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Director of Marketing]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[Mgmt]]></team>
+			<url><![CDATA[http://triggit.theresumator.com/apply/Cw0DH4/Director-Of-Marketing.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94103]]></postalcode>
+			<description><![CDATA[<h2>
+	Director of Marketing</h2>
+<p>
+	Triggit&#39;s is growing fast and is on the prowl for an ambitious, self-starter to lead our PR and Marketing efforts.</p>
+<p>
+	<br />
+	You&#39;re an experienced marketing professional with a passion for start-ups and the efforts required to make them work. You want to work with directly with an executive team to develop key messages and marketing materials such as case studies, blog posts, and sales collateral. You want to use the inherent capabilities of social marketing to develop a community of followers, increasing marketplace reputation and assisting sales efforts. You want to create product positioning statements and lead PR planning for product/feature launches, develop case studies analyzing their performance and publicize the results. All in all you want to lead the marketing efforts of an up and coming, vc funded, advertising technology company. You want to Market Triggit.<br />
+	Salary and Equity package will be very aggressive and encourage groundbreaking strategy, concepts, and performance.</p>
+<p>
+	<strong>Responsibilities include:</strong></p>
+<ul>
+	<li>
+		Articulating key messages through the triggit.com website, blogs posts, press releases and more</li>
+	<li>
+		Writing sales collateral and marketing docs; building decks, fact sheets, case studies, etc.</li>
+	<li>
+		Leading PR efforts including building and maintaining relationships with print and online reporters</li>
+	<li>
+		Building Triggit&#39;s social presence using creative marketing techniques</li>
+	<li>
+		Developing metrics to measure PR and Marketing success</li>
+</ul>
+<p>
+	<strong>Qualifications:</strong></p>
+<ul>
+	<li>
+		2-5 years of marketing experience at a technology start-up</li>
+	<li>
+		A portfolio of past marketing materials to demonstrate competencies</li>
+	<li>
+		Thrive in an ownership culture</li>
+	<li>
+		High level of organization and attention to detail.</li>
+	<li>
+		Passion for communication - written and verbal.</li>
+	<li>
+		The ability to think big and be creative.</li>
+	<li>
+		Capability to work calmly and quickly in a fast-paced environment.</li>
+	<li>
+		4-year college degree, or similar work experience</li>
+</ul>
+<p>
+	<strong>To Apply:</strong><br />
+	Please submit a Resume and Cover Letter answering the following to susan@triggit.com:</p>
+<p>
+	<em>1. What is your favorite technical innovation of the past decade, and why?</em></p>
+<p>
+	<em>2. If you could invite any 3 people to a dinner party (past, present or future) who would you invite and why?</em></p>
+<div>
+	<strong>Compensation:</strong></div>
+<div>
+	&nbsp;</div>
+<div>
+	Competitive pay depending on experience. Package will include stock equity, 401k, health/dental/vision insurance, plus breakfast, lunch, and snacks every day.</div>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>About Triggit:&nbsp;</strong></p>
+<p>
+	Triggit is a venture-funded advertising technology start-up and a leader on the real-time advertising exchanges. Triggit was founded in 2006 and has an office in SOMA, San Francisco, CA. For additional information, pictures of our swanky start-up offices, and more visit triggit.com.&nbsp;<br />
+	<br />
+	<strong>Top 7 Reasons to Work at Triggit: </strong><br />
+	1. We invent game-changing technologies and actually make money from them.<br />
+	2. Days often end with a very competitive game of Bond, Nintendo 64 edition.<br />
+	3. Breakfast and lunch are catered with food like Chairman Bao &amp; if you work through dinner, we&#39;ll pay for that too.<br />
+	4. Shelves are stocked with snacks, the espresso machine is fancy, and the fridge will have beer you actually like.<br />
+	5. Our offices are in SOMA, an easy bike ride from anywhere in the City, and a simple commute from East Bay or down South.<br />
+	6. Our neighborhood bar is Zeitgeist, &amp; we celebrate there often after big wins or awesome product releases.<br />
+	7. And yes, we even have a foosball table. We are that clich&eacute;.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/triggit/Cw0DH4"></script>]]></buttons>
+		</job>
+	</jobs>

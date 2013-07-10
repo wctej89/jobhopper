@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[CitizenNet Inc]]></company>
+			<job>
+			<id><![CDATA[job_20110804204954_GCH09H10YYYTBK0M]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[PHP Web Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://citizennet.theresumator.com/apply/71vutY/PHP-Web-Developer.html]]></url>
+			<city><![CDATA[Los Angeles]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90034]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>CitizenNet is building the world&rsquo;s first Desktop Marketing tool:</strong></p>
+<p>
+	A&nbsp;fully integrated, self-serve platform for market research and ad&nbsp;campaign management. With a massive data set of the world&rsquo;s interests&nbsp;and attitudes, CitizenNet&rsquo;s large scale computing is able to&nbsp;understand and make decisions about crafting the perfect marketing&nbsp;campaign.</p>
+<p>
+	In less time, and at lower cost, the CitizenNet application&nbsp;usually outperforms even the most experienced agencies. For the first&nbsp;time, enterprise-grade marketing is accessible at the fingertips of&nbsp;any business owner.</p>
+<p>
+	Plus, we&#39;re a pretty awesome place to work --&nbsp;check out <a href="http://www.citizennet.com">http://www.citizennet.com</a>.</p>
+<p>
+	<u><strong>Candidates</strong></u></p>
+<p>
+	Are you a passionate PHP Web developer in LA? &nbsp;<em><strong>Join a smart, cutting&nbsp;edge startup right in Culver City.</strong></em></p>
+<p>
+	What we are looking for:</p>
+<ul>
+	<li>
+		PHP/HTML/JS experience, 3yrs+</li>
+	<li>
+		BSCS or equivalent</li>
+	<li>
+		- MVC experience, Zend or Symfony a plus</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/citizennet/71vutY"></script>]]></buttons>
+		</job>
+	</jobs>

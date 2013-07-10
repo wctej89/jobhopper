@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Jahia]]></company>
+			<job>
+			<id><![CDATA[job_20130418204825_YMZUB7DM8MCJACPM]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Software developer]]></title>
+			<department><![CDATA[R&D]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://jahia.theresumator.com/apply/v5VQrU/Senior-Software-Developer.html]]></url>
+			<city><![CDATA[Toronto]]></city>
+			<state><![CDATA[Ontario]]></state>
+			<country><![CDATA[Canada]]></country>
+			<postalcode><![CDATA[M6K1P4]]></postalcode>
+			<description><![CDATA[<p>
+Job Description<br />
+Jahia&#39;s R&amp;D team is our soul, and we are looking for a talented senior developer to help us rack our brains.<br />
+The most important criteria for joining our R&amp;D team are:</p>
+<p>
+Desire to work in a team of seasoned developers and architect that live for and by high tech and innovative software applications<br />
+Excellent J2EE skills, and knowledge of J2EE Open Source frameworks<br />
+Firm grasp of how the web works, networking and software products<br />
+If you&#39;ve got experience with Jahia, that&#39;s definitely a plus. We are also very interested in individuals who have a track record of finding creative solutions to unique problems, and who will thrive in challenging situations.<br />
+The Senior Developer is responsible for providing high-quality JahiApps and core development for the Jahia software dedicated to our customers around the world. This person will also work on other programming and documentation projects as required. The Senior Developer may also deliver effective technical customer support to our rapidly growing customer base, delivering solutions to technical experts from our customers and partners organization, while also supporting a wide range of technologies.</p>
+<p>
+Function</p>
+<p>
+Provide high-quality code for our core Content Composite Platform and our JahiApps. In this position you will work closely with the Product and the R&amp;D teams to come up with innovative solutions to complex problems. Your typical co-worker may be a developer, a product manager or a system integrator.<br />
+The successful Candidate will have to demonstrate ability to understand and communicate technical information, analyze and solve complex problems and strong team skills.<br />
+Other responsibilities include training, and to occasionally work with the professional Services team as an advisor for customer delivery projects.<br />
+More detailed tasks</p>
+<p>
+Take ownership of assigned tasks ensuring delivery as per the SCRUM (agile) methodology<br />
+Define action plans to reach successful &quot;story&quot; closure and ensure teamates are completely satisfied with your code output.<br />
+Report design, reliability and maintenance problems or bugs to peers.<br />
+Ensure product fixes are delivered to customers in a timely manner.<br />
+Help the continual review of business processes and procedures to ensure the goal of persistently improving product -and to a lesser extend customer service.<br />
+Participate in the software release of hotfixes and Service Packs.<br />
+Maintain documentation of new and existing software interfaces and API, incorporating changes as needed.<br />
+Create documentation and maintenance procedures for the software.<br />
+Skills</p>
+<p>
+5 years of J2EE development experience<br />
+Strong knowledge in Java/JSP/GWT and most mature J2EE Open Source Frameworks<br />
+Strong knowledge in technical problem solving and software development,<br />
+Desirable: Strong knowledge of Content Management Systems<br />
+Desirable: Strong knowledge of Enterprise Application Server such as IBM Websphere, Oracle Weblogic or JBoss<br />
+Personal profile</p>
+<p>
+Candidate must be comfortable working distantly with an international team and with customers spread out throughout the Americas, Europe and Asia<br />
+English fluency is necessary</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/jahia/v5VQrU"></script>]]></buttons>
+		</job>
+	</jobs>

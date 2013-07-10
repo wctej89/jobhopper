@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Insync]]></company>
+			<job>
+			<id><![CDATA[job_20100314144522_PDK5FRIGRN9WSKCW]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[iOS Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://insync.theresumator.com/apply/cLp2YV/IOS-Engineer.html]]></url>
+			<city><![CDATA[Quezon City]]></city>
+			<state><![CDATA[Metro Manila]]></state>
+			<country><![CDATA[Philippines]]></country>
+			<postalcode><![CDATA[1109]]></postalcode>
+			<description><![CDATA[<p>
+<strong>What is Insync?</strong></p>
+<p>
+Cloud storage is the center of our data universe. We make software that makes your cloud storage do more for you.</p>
+<p>
+Insync makes it easy to store your stuff and get your stuff out of Google Drive storage. We build useful features so you can get more out of Google Drive with an initial target of business and power users.</p>
+<p>
+We are backed by the same investors in Facebook, LinkedIn, Skype and Twitter.</p>
+<p>
+<strong>What does a Mobile Engineer (*) do (here&#39;s a typical week):</strong></p>
+<ul>
+<li>
+Make scrolling faster and more efficient</li>
+<li>
+Optimize memory usage</li>
+<li>
+Make sure networking via WiFi or cellular networks is robust</li>
+<li>
+Crash reporting issues</li>
+<li>
+Talk to user X about his issues</li>
+<li>
+Follow UI guidelines</li>
+</ul>
+<p>
+<strong>What skills do I need?</strong></p>
+<p>
+Objective-C, Cocoa&nbsp;and the usual (but not necessary) but key is being able to learn new things quickly, get shit done and being resourceful. We look for doers.</p>
+<p>
+<strong>What do I get?</strong></p>
+<p>
+Free food, competitive salary, stock options and work with awesome people.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/insync/cLp2YV"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110529065856_IDOOOEE8NH5EZHIW]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://insync.theresumator.com/apply/vUVhwd/Web-Engineer.html]]></url>
+			<city><![CDATA[Quezon City]]></city>
+			<state><![CDATA[Metro Manila]]></state>
+			<country><![CDATA[Philippines]]></country>
+			<postalcode><![CDATA[1109]]></postalcode>
+			<description><![CDATA[<p>
+<strong>What is Insync?</strong></p>
+<p>
+Cloud storage is the center of our data universe. We make software that makes your cloud storage do more for you.</p>
+<p>
+Insync makes it easy to store your stuff and get your stuff out of Google Drive storage. We build useful features so you can get more out of Google Drive with an initial target of business and power users.</p>
+<p>
+We are backed by the same investors in Facebook, LinkedIn, Skype and Twitter.</p>
+<p>
+<strong>What does a Web Engineer do (here&#39;s a typical week):</strong></p>
+<ul>
+<li>
+Re-design signup page</li>
+<li>
+Fix the pages to work on IE 7.0</li>
+<li>
+Change MySQL schema</li>
+<li>
+Use Redis for data store for this page</li>
+<li>
+Re-configure nginx</li>
+<li>
+Write Python code to grab all user activities</li>
+<li>
+Use jQuery to do sorting of user list</li>
+<li>
+Use our Python/CherryPy login to work with the Vanilla PHP forum software</li>
+</ul>
+<p>
+<strong>What skills do I need?</strong></p>
+<p>
+Python, JavaScript and the usual suspects but key is being able to learn new things quickly, get shit done and being resourceful. We look for doers.</p>
+<p>
+<strong>What do I get?</strong></p>
+<p>
+Free food, competitive salary, stock options and work with awesome people.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/insync/vUVhwd"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130108015040_UEXCWGA2XW5SGYCK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Desktop Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://insync.theresumator.com/apply/V9S60z/Desktop-Engineer.html]]></url>
+			<city><![CDATA[Quezon City]]></city>
+			<state><![CDATA[Metro Manila]]></state>
+			<country><![CDATA[Philippines]]></country>
+			<postalcode><![CDATA[1109]]></postalcode>
+			<description><![CDATA[<p>
+<strong>What is Insync?</strong></p>
+<p>
+Cloud storage is the center of our data universe. We make software that makes your cloud storage do more for you.</p>
+<p>
+Insync makes it easy to store your stuff and get your stuff out of Google Drive storage. We build useful features so you can get more out of Google Drive with an initial target of business and power users.</p>
+<p>
+We are backed by the same investors in Facebook, LinkedIn, Skype and Twitter.</p>
+<p>
+<strong>What does a Desktop Engineer do (here&#39;s a typical week)?:</strong></p>
+<ul>
+<li>
+Spinning beachball when I do Z</li>
+<li>
+Optimize memory usage on OS X</li>
+<li>
+Why does Finder hang on badging for 1% of the users?</li>
+<li>
+Test on 1 million files</li>
+<li>
+Talk to user X about his issues</li>
+<li>
+Include dynamic rendering of context menus</li>
+</ul>
+<p>
+<strong>What skills do I need?</strong></p>
+<p>
+You will be a &quot;generic&quot; desktop engineer in that you will get to work on Windows, Mac and Linux platforms.</p>
+<p>
+So if you have Python, C / C++, Win32 API and Objective-C skills, that&#39;s a big plus. But the key is being able to learn new things quickly, get shit done and being resourceful. We look for doers.</p>
+<p>
+<strong>What do I get?</strong></p>
+<p>
+Free food, competitive salary, stock options, work with awesome people.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/insync/V9S60z"></script>]]></buttons>
+		</job>
+	</jobs>

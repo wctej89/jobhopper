@@ -1,4 +1,3 @@
-!!!
 %html
   %head
     %title JobHopper
@@ -14,6 +13,23 @@
     #wrapper
       =render 'shared/header'
       .container
+        :javascript
+          if (navigator.geolocation)
+          {
+            navigator.geolocation.getCurrentPosition(sendPositionToServer);
+          }
+          else
+          {
+            x.innerHTML="Geolocation is not supported by this browser.";
+          }
+          function sendPositionToServer(position)
+          {
+            $.ajax({
+              method: 'post',
+              url: '/user_locations',
+              data: { "lat":"" + position.coords.latitude + "", "lng": "" + position.coords.longitude + "" }
+            })
+          }
         .notifications
           =render :partial => 'notifications/dropdown', locals: {user: current_user }
         =render :partial => 'static_pages/queue', locals: {user: current_user}

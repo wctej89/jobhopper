@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[ClickTime]]></company>
+			<job>
+			<id><![CDATA[job_20120726032355_USSVKEZXCNWPRYX9]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Marketing Analyst]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://clicktime.theresumator.com/apply/WYTRsO/Marketing-Analyst.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94105]]></postalcode>
+			<description><![CDATA[<h2>Marketing Analyst (Full-time)</h2><p>We&#39;re looking for a versatile analyst to assume a substantial role in our online and offline marketing efforts. The position has three major areas of responsibility: SEO/SEM, List development for direct marketing, and analytical support of our business development efforts. For at least the short term, this position will report directly to the CEO.</p><h2>Responsibilities:</h2><ul><li>Track performance and effectiveness of SEO and SEM campaigns</li><li>Adjust online ad spending to optimize conversions</li><li>Create and test new ads</li><li>Perform A/B testing for user interface designs</li><li>Write copy for offline advertising and collateral</li><li>Assist sales team with statistical analysis as needed</li><li>Support Business Development effort by analyzing opportunities for integrating ClickTime with other products</li><li>Track competing products and market messaging</li><li>Create custom reports and spreadsheets for ClickTime customers</li><li>Make constructive suggestions to improve the efficiency, usability, and quality of our products</li></ul><p><em>&#91;Since we&#39;re a small company (&sim;20 people), the right candidate will be willing to pitch in to assist other departments throughout the company.&#93;</em></p><h2>Requirements:</h2><ul><li>Bachelors or equivalent in Business, Accounting, Math, Stat, Engineering, or similar</li><li>1-2 years of professional experience (Strong entry-level candidates will also be considered)</li><li>Superb skills in Microsoft Excel</li><li>Great written and verbal communications</li><li>Brilliant web-search skills</li><li>Basic familiarity with SEO concepts</li><li>Web authoring skills - HTML, CSS, maybe some JavaScript</li><li>QuickBooks or other accounting software experience is a plus</li><li>Some knowledge of basic IT concepts</li></ul>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/clicktime/WYTRsO"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120726024556_CYONLAVWXYE6AGYU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software QA Tester]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://clicktime.theresumator.com/apply/Df7zES/Software-QA-Tester.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94105]]></postalcode>
+			<description><![CDATA[<p>ClickTime is looking for an awesome QA Tester to help us deliver high-quality web-based software products to our customers. <strong>We&#39;re considering both part-time and full-time candidates</strong>.</p><h3>About us</h3><p style="margin-left: 40px; ">Since 1999, ClickTime has been a leading provider of web-based applications, most notably the ClickTime Web Timesheet. For thousands of users in over 50 countries, ClickTime is the web&#39;s easiest way to track employee time and expenses.</p><h3>Job Description</h3><p style="margin-left: 40px; ">As a QA (Quality Assurance) tester, you will help us test our software products as they are being developed. You will work closely with engineers and product managers to identify bugs and test fixes. More advanced candidates will also assist with scripting our automated testing tools and developing test cases; others may participate in usability testing.</p><p style="margin-left: 40px; ">This is an excellent position for a student interested in the technical aspects of the software business.</p><p style="margin-left: 40px; ">Our office is in downtown San Francisco, near BART and Muni.</p><h3>Qualifications:</h3><ul style="margin-left: 40px; "><li>At least 2 years of college completed</li><li>Fluent spoken and written English</li><li>Some programming experience (Java, C, RoR, etc.)</li><li>Good knowledge of HTML, browsers, Win/Mac usage</li><li>Javascript a plus</li><li>Selenium a big plus</li></ul><p>Full time candidates will be 40 hours per week. For part timers, this position would approximately half-time (20-25 hours per week),</p><p><strong>Please send a resume and cover letter to the address shown</strong></p>]]></description>
+			<type><![CDATA[Part Time to Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/clicktime/Df7zES"></script>]]></buttons>
+		</job>
+	</jobs>

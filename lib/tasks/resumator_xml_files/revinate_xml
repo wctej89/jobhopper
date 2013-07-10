@@ -1,0 +1,639 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Revinate]]></company>
+			<job>
+			<id><![CDATA[job_20100316210743_09AKDDOCM3SXX0XW]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer - Applications]]></title>
+			<department><![CDATA[(E1) Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://revinate.theresumator.com/apply/aDSYu4/Software-Engineer-Applications.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94129]]></postalcode>
+			<description><![CDATA[<p>
+<span style="font-size: 14px; line-height: 18px; white-space: pre-wrap; "><strong>About Revinate </strong></span></p>
+<p>
+<span style="font-size: 14px; line-height: 18px; color: #39381e; white-space: pre-wrap;">Revinate is an innovative, fast-growing company that is developing the ultimate social media solution for hotels (and more!). Customers include Rosewood, Trump Hotels, Kimpton, Andaz, Joie de Vivre and many more properties, brands and management companies. <a style="outline-width: 0px; outline-style: initia&lt;mce:script type="> </a></span></p>
+<p>
+&nbsp;</p>
+<p>
+<span style="font-size: 14px; line-height: 18px; white-space: pre-wrap; "><strong>Position </strong></span></p>
+<p>
+<span style="font-size: 14px; line-height: 18px; white-space: pre-wrap; ">Revinate is looking for software engineers to focus on front-end development of its flagship social media management application. We use an agile development methodology, develop quickly and iteratively, and produce very high quality software. You should be passionate about social media, have ideas about how the hospitality industry can best leverage various social media technologies, and be able to produce elegant, responsive, and high quality software. </span></p>
+<p>
+&nbsp;</p>
+<p>
+<span style="font-size: 14px; line-height: 18px; white-space: pre-wrap; "><strong>Responsibilities</strong></span></p>
+<ul>
+<li>
+<span style="font-size: 14px; line-height: 18px;">Write front-end code using PHP, HTML/CSS, and Javascript</span></li>
+<li>
+<span style="font-size: 14px; line-height: 18px; ">Implement new features and improve/optimize existing features</span></li>
+<li>
+<span style="font-size: 14px; line-height: 18px; ">Work closely with our product and design teams to incorporate feedback and help shape the product</span></li>
+<li>
+<span style="font-size: 14px; line-height: 18px; ">Rapidly troubleshoot and fix bugs and problems</span></li>
+<li>
+<span style="font-size: 14px; line-height: 18px; ">Be proactive in improving the product as well as development processes</span></li>
+</ul>
+<div style="text-align: left;">
+&nbsp;</div>
+<p>
+<span style="font-size: 14px; line-height: 18px;"><strong>Qualifications</strong></span></p>
+<ul>
+<li>
+<span style="font-size: 14px; line-height: 18px;">Experience developing scalable, highly-performant web applications</span></li>
+<li>
+<span style="font-size: 14px; line-height: 18px;">Expert Javascript developer</span></li>
+<li>
+<span style="font-size: 14px; line-height: 18px;">Expert object-oriented software development in PHP, Ruby, Python or Java</span></li>
+<li>
+<span style="font-size: 14px; line-height: 18px;">Good understanding of web technologies and Linux</span></li>
+<li>
+<span style="font-size: 14px; line-height: 18px;">Excellent written and verbal communication skills</span></li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<span style="font-size: 14px; line-height: 18px;"><strong>Additional Considerations</strong></span></p>
+<ul>
+<li>
+<span style="font-size: 14px; line-height: 18px;">B.S. or higher in Computer Science or equivalent discipline</span></li>
+<li>
+<span style="font-size: 14px; line-height: 18px;">Willingness to work in an agile development environment</span></li>
+<li>
+<span style="font-size: 14px; line-height: 18px;">Familiarity with unit test and automated testing frameworks</span></li>
+<li>
+<span style="font-size: 14px; line-height: 18px;">Comfortable with HTML/CSS</span></li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/revinate/aDSYu4"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110930005913_5SE8FFLFJBVCAKJK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front End Engineer]]></title>
+			<department><![CDATA[Product Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://revinate.theresumator.com/apply/D84Ue3/Front-End-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94129]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About Revinate</strong><br />
+Backed by top tier venture firms (Benchmark Capital and Formation 8) and headquartered in the Presidio of San Francisco at the Letterman Digital Arts Center, Revinate (<a href="http://www.revinate.com">http://www.revinate.com</a>) develops innovative solutions for the world&#39;s leading hotels. Social media has changed the game for hoteliers. Slick ads no longer fill rooms. Guests now use TripAdvisor and Yelp for recommendations, and tap their networks on Facebook and Twitter. Comment cards on nightstands are nice, but public, online feedback is much richer.</p>
+<p>
+This new world presents serious challenges, and major opportunities, for hotels across the globe. Revinate is the leading provider of social media solutions for hotels, and we&#39;re just getting started. We&#39;ve got a great, experienced team. Our historic offices are in San Francisco&#39;s Presidio, surrounded by a national park. We offer competitive salaries, stock options and rich benefits, and we value our challenging, fun and balanced culture. We&#39;ve been featured in the New York Times, Wall Street Journal, NBC News and many other publications. We&#39;re growing quickly and our customers include many of the world&#39;s leading hotels.</p>
+<p>
+<br />
+<strong>Position</strong><br />
+Revinate is looking for a Front End Engineer who is passionate about creating and building beautiful and intuitive web-based social products across a variety of different platforms, and can produce elegant front-end code.</p>
+<p>
+A successful candidate will build out solid front-end code as well as working with product, engineering and design teams to ensure that users have a quality experience. Our highly efficient and collaborative team uses an agile development methodology so we develop and iterate quickly - it&rsquo;s more important to get features in front of users for feedback than it is to try and define the perfect specification from the start. You should also be passionate about social media, have ideas about how the hospitality industry can best leverage various social media technologies, and also have a strong eye for visual design.</p>
+<p>
+We&#39;re a small team and this is a chance to work in a highly productive environnent. You&#39;ll not only build out front-end features, but drive design and product decisions, and define features from the ground up.&nbsp;</p>
+<p>
+<br />
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Create functional mockups from wireframes and product specifications</li>
+<li>
+Design, specify and help drive the development of new features &amp; enhancements</li>
+<li>
+Assist in the creation of&nbsp;new features and enhancements from conception to launch</li>
+<li>
+Be proactive in improving the product as well as our development processes</li>
+</ul>
+<p>
+<br />
+<strong>Qualifications</strong></p>
+<ul>
+<li>
+Expert in browser standards and cross-browser design</li>
+<li>
+Expert in producing clear, concise, and correct markup, as well as corresponding styling</li>
+<li>
+Experience with social media products</li>
+<li>
+Passionate about social media and staying abreast of current trends</li>
+<li>
+Ability to work independently and with small teams</li>
+<li>
+Excellent written and oral communication skills</li>
+<li>
+Excellent visual design</li>
+<li>
+Obsession with user interaction and user experience<br />
+&nbsp;</li>
+</ul>
+<p>
+<strong>Additional Considerations</strong></p>
+<ul>
+<li>
+Experience with Javascript and the jQuery/jQuery UI frameworks</li>
+<li>
+Experience with PHP</li>
+<li>
+Experience with git<br />
+&nbsp;</li>
+</ul>
+<p>
+This is a full-time job located at our San Francisco headquarters, though for exceptional people we will consider remote candidates. To apply, please submit your resume along with a cover letter explaining why you are ideal for this role, and please include links to your portfolio.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/revinate/D84Ue3"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130311215146_QGPHEBPMZBPGZ2IA]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Director of Sales, Asia]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://revinate.theresumator.com/apply/GM4FHb/Director-Of-Sales-Asia.html]]></url>
+			<city><![CDATA[Hong Kong]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Hong Kong]]></country>
+			<postalcode><![CDATA[Hong Kong]]></postalcode>
+			<description><![CDATA[<p>
+ABOUT REVINATE</p>
+<p>
+Revinate (www.revinate.com) is a web-based software solution that gives hotels and restaurants the ability to listen, learn, act and profit from online reputation. Developed exclusively for the hospitality industry (for both individual properties and corporate groups of all sizes),Revinate allows hotels and restaurants to turn qualitative data into actionable plans to quickly respond to competitive and market demands, increase customer satisfaction and loyalty, and drive profit by lowering costs and increasing revenue.</p>
+<p>
+JOB SUMMARY</p>
+<p>
+The Senior Sales Rep (SSR) is responsible for the strategic objective of maximizing revenue generation within hospitality companies throughout Asia. &nbsp;As a SSR, you will be responsible for identifying, prospecting, closing and growing new account business within your region.&nbsp; You will create a business plan for success that includes marketing activities, pipeline development with the supporting sales team and strategic selling.&nbsp;</p>
+<p>
+RESPONSIBILITIES</p>
+<ul>
+<li>
+Execute a sales plan, generating, and qualifying leads within the region.</li>
+<li>
+Build a healthy and sustainable pipeline to meet aggressive monthly quotas.</li>
+<li>
+Achieve a monthly revenue number as well as a monthly new business business number.</li>
+<li>
+Lead a team of other Revinate team members (with different responsibilities) to create and/or manage the relationship between the customer and Revinate.</li>
+<li>
+Provide hand-off for the post-sale client services team.</li>
+<li>
+Overseeing the customer proposal process and ensuring that the proposal addresses customer requirements.</li>
+<li>
+Contribute to the public face of Revinate, attending industry functions, and generally promoting Revinate value.</li>
+<li>
+Allocate a minimum of 50% of time to prospecting new account opportunities.</li>
+<li>
+Manage and maintain all pipeline/sales related activity within Salesforce.com.</li>
+<li>
+Work as part of an &lsquo;Integrated Account Team&rsquo; to define and deliver a premium customer experience over multiple year engagements.</li>
+</ul>
+<p>
+SKILLS &amp; EXPERIENCE</p>
+<ul>
+<li>
+Five or more years in system/solution sales within hi-tech accounts.</li>
+<li>
+Fluent in English&nbsp;with Cantonese, Mandarin, Thai or&nbsp;Japanese&nbsp;a plus</li>
+<li>
+Ideal candidates will bring with them a range of hospitality industry-related contacts and relationships.</li>
+<li>
+Demonstrable and proven track record in over-achieving monthly, quarterly and annual quota.</li>
+<li>
+Must have strong knowledge of social media business related concepts and demonstrate the ability to discuss them with intelligence and conviction.</li>
+<li>
+Experience in successfully executing complex sales cycles with key decision makers.</li>
+<li>
+Formal sales training a must: Solution-Selling and/or Value Selling training preferred.</li>
+<li>
+Strong team player that also excels as a high-performing individual performer/contributor.</li>
+<li>
+Must have high ethics, integrity, and humility and have a desire to be part of a world-class sales and support organization.</li>
+<li>
+Ability to sell software as a service solution offering (cloud based).</li>
+<li>
+Ability to turn solutions and Revinate offerings into the proper customer value proposition.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/revinate/GM4FHb"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130320182607_0JM1Q1LMPFUKN3LC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[Data Operations]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://revinate.theresumator.com/apply/QUj897/Software-Engineer.html]]></url>
+			<city><![CDATA[Munich]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Germany]]></country>
+			<postalcode><![CDATA[80992]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About Revinate</strong></p>
+<p>
+Revinate is an innovative, fast-growing company and we are the leading provider of social media solutions for the hospitality industry. We process millions of online reviews and social media mentions daily, storing, analyzing and serving up terabytes of data to our globally diverse client base. We offer competitive salaries, stock options, and rich benefits, and we value our challenging, fun, and balanced culture.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Position</strong></p>
+<p>
+We&rsquo;re looking for software engineers to focus on the development of information retrieval systems using distributed computing and large-scale system design. This will be specifically for spider and ETL technology for aggregating and processing data from social media sites, review sites, and internal data sources. The software engineers should be experienced in distributed systems and building scalable and reliable backend services. Our platform processes tens of millions of pieces of content daily and must be highly performant and resilient to failure, and also scale with our rapid growth. We use an agile development methodology, develop quickly and iteratively, and produce very high quality software. We look for engineers with a passion for solving complex problems and pushing technology to the next level.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Optimize and improve existing spider technology for speed, efficiency, and quality.</li>
+<li>
+Build highly modular and distributed applications</li>
+<li>
+Be able to prototype quickly and also develop large-scale robust solutions for production</li>
+<li>
+Able to quickly and accurately analyze web and internal data sources for extracting all relevant data to configure tools and write scripts for specific crawl jobs</li>
+<li>
+Profile application code to identify bottlenecks and inefficient algorithms, heuristics, and data queries</li>
+<li>
+Optimize application caching, cache invalidation, and data querying strategies</li>
+<li>
+Analyze data models and their relationships to identify inefficiencies</li>
+<li>
+Ensure graceful degradation of the application in the event of systems failures</li>
+<li>
+Identify systems more prone to failure and identify suitable replacement or develop solutions to improve fault tolerance and resiliency</li>
+<li>
+Rapidly troubleshoot and fix bugs and problems</li>
+<li>
+Be proactive in improving the product as well as development processes</li>
+<li>
+Design, implement and maintain RESTful backend services</li>
+<li>
+Refactor and improve the maintainability of the codebase</li>
+<li>
+Participate in design and code reviews</li>
+<li>
+Work with our Operations team to implement proper capacity planning procedures</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Qualifications</strong></p>
+<ul>
+<li>
+B.S. or higher in Degree educated in a relevant technical subject, such as Computer</li>
+<li>
+Science, Physics, Mathematics or Engineering</li>
+<li>
+3+ years of relevant work experience in software development</li>
+<li>
+Experience developing scalable, highly-performant web applications</li>
+<li>
+Superior Java developer</li>
+<li>
+Working knowledge of Linux</li>
+<li>
+Consolidated knowledge of software design patterns</li>
+<li>
+Excellent (English) written and verbal communication skills</li>
+<li>
+Self-motivated, loves a challenge, and desire to work in a young dynamic company</li>
+<li>
+Understanding of networks and distributed computing</li>
+<li>
+Knowledge of at least one scripting language</li>
+<li>
+Advanced knowledge of web technologies i.e. REST, JSON, HTTP, DOM HTML, Javascript</li>
+<li>
+Advanced knowledge of SQL and Databases</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Desired Skills</strong></p>
+<ul>
+<li>
+Willingness to work in an agile development environment</li>
+<li>
+Experience with some of the following: PHP, Ruby/Rails. Groovy/Grails, Python</li>
+<li>
+Familiarity with unit test and automated testing frameworks</li>
+<li>
+Experience with performance tuning and optimization</li>
+<li>
+Affinity for open source projects and preferably a regular committer</li>
+<li>
+Proficiency with git</li>
+<li>
+Familiarity with NoSQL and related data stores i.e. MongoDB</li>
+<li>
+Experience with Elastic Search</li>
+<li>
+Constantly learning new platforms, tools, and frameworks</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>To Apply</strong></p>
+<p>
+This is a full-time job located at our Munich office in Germany. To apply, please submit your resume along with a cover letter explaining why you are ideal for this role, and please include links to your portfolio.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/revinate/QUj897"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130524231532_SGBTYHVJK5SDD55S]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Product Manager]]></title>
+			<department><![CDATA[(C2) Product Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://revinate.theresumator.com/apply/x7AeMh/Product-Manager.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94129]]></postalcode>
+			<description><![CDATA[<p>
+Revinate is growing rapidly and we&rsquo;re looking for an experienced, talented and passionate Product Manager to lead development of product initiatives from concept to execution. You will drive multiple initiatives across platforms, collaborating closely with engineering, sales, design and client service colleagues.</p>
+<p>
+Our highly efficient and collaborative team uses agile development methods to build and iterate quickly. We innovate rapidly and we ship products and features continuously. We&rsquo;re looking for the right person to define new products and initiatives. You will play a key role in building and inveting the future of our company. You&rsquo;ll get the context and vision you need from our world-class team, collaborate closely with hotels across the globe, and you&rsquo;ll bring us new ideas, a passion for execution, and the freedom and responsibility to create great products. You&#39;ll need to to think hard, act quickly and be truly passionate about Revinate and our opportunity.</p>
+<p>
+The right person will love, and thrive in, our transparent, flexible and positive team culture. We want you to join our team and make us even better.</p>
+<br />
+<p>
+<strong>Responsibilities</strong></p>
+<ul>
+<li>
+Lead the ideation, definition and launch of innovative products</li>
+<li>
+Understand Revinate&rsquo;s strategic and competitive position and deliver best-in-class products which help us win new customers&nbsp;and delight existing customers</li>
+<li>
+Establish shared vision across the company by building consensus on priorities leading to product execution</li>
+<li>
+Drive product development with a team of world-class engineers and designers</li>
+<li>
+Integrate usability studies, research and market analysis into product requirements to enhance user satisfaction</li>
+<li>
+Define and analyze metrics that inform the success of products</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Product management or product design experience</li>
+<li>
+A true love of transparency, execution, accountability, and the ability to have fun and engage the team</li>
+<li>
+A desire to see projects from start to finish, from concept to specification, mockups and final execution during development</li>
+<li>
+A jack-of-all trades attitude, we all pitch in wherever we&rsquo;re needed</li>
+<li>
+Exceptional communication and presentation skills</li>
+<li>
+Exceptional organizational and analytical skills</li>
+<li>
+Understanding of the technical architecture of complex and highly scalable web applications and/or media products</li>
+<li>
+Experience designing simple and intuitive user interfaces through wire frames and mock ups</li>
+<li>
+Experience developing social products, technologies and platforms is strongly desired</li>
+<li>
+BA/BS in Computer Science or related technical field</li>
+<li>
+Technical chops and experience with enterprise software are a huge plus</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>To Apply</strong></p>
+<p>
+Please submit your resume or LinkedIn profile, along with a cover letter explaining why you are ideal for this role, and why you are passionate about Revinate and our opportunity. (Principals only - no recruiters please.)</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>About Revinate</strong><br />
+Headquartered in San Francisco, Revinate (http://www.revinate.com) is the leading provider of social media solutions for hospitality industry. We&#39;ve got a great, experienced team from leading Silicon Valley companies and continue to get better with each hire. We offer competitive salaries and great benefits. We value our challenging, fun and balanced culture. We&#39;ve been featured in the New York Times, Wall Street Journal, NBC News and many other publications. We&#39;re growing quickly and our customers include many of the world&#39;s leading hospitality companies such as Hyatt, Four Seasons, Wyndham, Kimpton, Peninsula and many more.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/revinate/x7AeMh"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130620230450_TGI8WM7AUOEKGQSZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Staff Accountant]]></title>
+			<department><![CDATA[Finance]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://revinate.theresumator.com/apply/TIh9Fm/Staff-Accountant.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94129]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About Revinate</strong></p>
+<p>
+Headquartered in the Presidio of San Francisco at the Letterman Digital Arts Center, Revinate (http://www.revinate.com ) develops innovative solutions for the world&#39;s leading hotels. We&rsquo;re the leading provider of social media solutions for hotels, with a great, experienced team. We offer competitive salaries, stock options and rich benefits, and we value our challenging, fun and balanced culture. We&#39;ve been featured in the New York Times, Wall Street Journal, NBC News and many other publications. We&#39;re growing quickly and our customers include many of the world&#39;s leading hotels.</p>
+<p>
+<br />
+<strong>Position</strong></p>
+<p>
+We&rsquo;re looking for an experienced staff accountant to assist with billing, collection, A/R and A/P duties, with opportunities for advancement. The ideal candidate will be extremely detail oriented, trustworthy and reliable, and will care deeply about maximizing customer satisfaction. We&rsquo;re not looking for a number-cruncher who will work in isolation; in addition to having exceptional accounting experience, you&rsquo;ll need to be very collaborative, have very strong communication skills and be passionate about the mission of our company.</p>
+<p>
+<br />
+<strong>Responsibilities</strong></p>
+<p>
+&bull; Monitor new and changed customer information in Salesforce.com.<br />
+&bull; Assist with processing a high volume of monthly invoices using an automated system.<br />
+&bull; Help make sure all billing questions and issues are answered and addressed rapidly, accurately and pleasantly.<br />
+&bull; Post payments received from customers.<br />
+&bull; Contact customers to collect outstanding bills.<br />
+&bull; Collaborate closely with our Client Services team.<br />
+&bull; Enter payables into accounting system (Quickbooks).</p>
+<p>
+<br />
+<strong>Qualifications</strong></p>
+<p>
+&bull; BA degree in accounting or finance, or equivalent experience.<br />
+&bull; 4+ years of accounting experience.<br />
+&bull; Experience working for SaaS companies.<br />
+&bull; Experience using Quickbooks and Salesforce.com.<br />
+&bull; Advanced Excel skills, strong analytical skills and exceptional attention to detail.<br />
+&bull; Excellent communication skills and a passion for collaborating with colleagues in all departments.</p>
+<p>
+<br />
+<strong>To Apply</strong></p>
+<p>
+Please submit your resume along with a cover letter explaining why you are the right candidate for this role. (Principals only, no recruiters please.)</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/revinate/TIh9Fm"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130620230755_XCHHZH7TZJQNZZQD]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[GL Accountant]]></title>
+			<department><![CDATA[Finance]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://revinate.theresumator.com/apply/z2jKu1/GL-Accountant.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94129]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About Revinate</strong></p>
+<p>
+Headquartered in the Presidio of San Francisco at the Letterman Digital Arts Center, Revinate (http://www.revinate.com ) develops innovative solutions for the world&#39;s leading hotels. We&rsquo;re the leading provider of social media solutions for hotels, with a great, experienced team. We offer competitive salaries, stock options and rich benefits, and we value our challenging, fun and balanced culture. We&#39;ve been featured in the New York Times, Wall Street Journal, NBC News and many other publications. We&#39;re growing quickly and our customers include many of the world&#39;s leading hotels.</p>
+<p>
+<br />
+<strong>Position</strong></p>
+<p>
+We&rsquo;re looking for an experienced GL accountant to handle monthly closings, posting entries to our accounting system (Quickbooks), reconciling balance sheet accounts, generating monthly financial statements, and analyzing financial performance, with opportunities for advancement. The ideal candidate will have significant accounting experience, be detail oriented, trustworthy and reliable, and able to take responsibility for producing accurate, timely financial statements.&nbsp; You&rsquo;ll need to be very collaborative, have very strong communication skills and be passionate about the mission of our company.</p>
+<p>
+<br />
+<strong>Responsibilities</strong></p>
+<p>
+&bull; Post entries for G/L, reconcile accounts, and prepare monthly financial statements.<br />
+&bull; Handle A/R and A/P processes.<br />
+&bull; Assist in the budgeting process, and analyze variances to monthly budgets.<br />
+&bull; Assist with processing a high volume of monthly invoices using an automated system.<br />
+&bull; Contact customers to collect outstanding bills.</p>
+<p>
+<br />
+<strong>Qualifications</strong></p>
+<p>
+&bull; BA degree in accounting or finance, or equivalent experience.<br />
+&bull; 6+ years of accounting experience, including preparation of financial statements.<br />
+&bull; Experience working for SaaS companies.<br />
+&bull; Experience using Quickbooks and Salesforce.com.<br />
+&bull; Advanced Excel skills, strong analytical skills and exceptional attention to detail.<br />
+&bull; Excellent communication skills and a passion for collaborating with colleagues in all departments.</p>
+<p>
+<br />
+<strong>To Apply</strong></p>
+<p>
+Please submit your resume along with a cover letter explaining why you are the right candidate for this role. (Principals only, no recruiters please.)</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/revinate/z2jKu1"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130709133246_OWDNDN52XJS75KMS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sales Representative, Germany]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://revinate.theresumator.com/apply/EXqYkR/Sales-Representative-Germany.html]]></url>
+			<city><![CDATA[Amsterdam]]></city>
+			<state><![CDATA[Noord Holland]]></state>
+			<country><![CDATA[Netherlands]]></country>
+			<postalcode><![CDATA[1016]]></postalcode>
+			<description><![CDATA[<p>
+Revinate offers an exciting work environment with a small team of highly skilled and successful Sales Representatives and Customer Service Representatives. With an extreme level of flexibility our Sales Reps are well paid and highly motivated to &ldquo;control their own destiny.&rdquo; You will work directly with your highly experienced sales manager and you will receive thorough introductory and ongoing training to continue to grow your sales skills while beating the competition and contributing to the growth of Revinate in the European markets.&nbsp; We trust and empower our Sales Reps with the independence to &ldquo;manage their own business&rdquo; while using best practices perfected over 4 yrs of market domination.&nbsp; Our team thrives by building market knowledge and creating new sales strategies in a fun and face paced atmosphere.<br />
+&nbsp;&nbsp;&nbsp;<br />
+The ideal candidate has 3+ years of sales experience and speaks fluent/native German.&nbsp; The Sales Representative for Germany will be responsible for selling Revinate into all German-speaking markets.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>
+Under the direction of the Managing Director the Sales Representative will focus on generating qualified sales meetings and closing transactions using lead generation and prospecting skills such as cold calling and emailing.</p>
+<p>
+Our office is located on a beautiful canal in the heart of Amsterdam.</p>
+<p>
+RESPONSIBILITIES<br />
+&bull; Cold calls<br />
+&bull; Generate sales leads and set up sales meetings<br />
+&bull; Perform sales presentations<br />
+&bull; Close transactions<br />
+&bull; Find creative avenues to gain access to decision makers<br />
+&bull; Provide hand-off for the post-sale client services team.<br />
+&bull; Continually look for ways to improve lead generation and prospecting efforts<br />
+&bull; Prepare and submit your business plan of how you will achieve your quota<br />
+&bull; Required to participate in tradeshows and other corporate promotional programs.</p>
+<p>
+SKILLS &amp; EXPERIENCE<br />
+&bull; 3+ years of quota carrying sales experience<br />
+&bull; Fluent/Native German language skills<br />
+&bull; Results oriented, recognizing that success is based on results<br />
+&bull; Strong team player that also excels as a high-performing individual contributor<br />
+&bull; Superb organizational and tracking skills<br />
+&bull; Exceptional and innovative approaches to calling and emailing<br />
+&bull; Excellent communication and computer skills<br />
+&bull; Previous experience with social media (for business) is preferred<br />
+&bull; Knowledge of the hospitality industry is a plus<br />
+&bull; University degree or equivalent experience</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/revinate/EXqYkR"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130709225101_99VEJNQ5AGGEBOPY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Product Marketing Manager]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://revinate.theresumator.com/apply/mkmZUF/Product-Marketing-Manager.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94129]]></postalcode>
+			<description><![CDATA[<p>
+Revinate is an innovative, rapidly-growing company that is developing industry leading social media and guest feedback solutions for the hospitality industry. Venture-backed by leading VC&#39;s, Benchmark Capital and Formation 8, Revinate is a 4-year old company that is experiencing tremendous worldwide growth. We&rsquo;re looking for a passionate and collaborative Product Marketing Manager to lead the development and implementation of go-to-market plans for new products and features.</p>
+<p>
+Reporting to the Director of Product Marketing, the Product Marketing Manager will work in a fast-paced environment to grow our base of 20K+ Revinate customers and upsell new products to them.&nbsp; A successful Product Marketing Manager will partner with the product team to assess customer needs and impact as features are being developed and when ready, bring them to market, which could include &ndash; competitive research and assessment, defining the target market, managing the pilot program and developing sales materials - all with a focus on growing market share and revenue.</p>
+<p>
+<u><strong>Responsibilities</strong></u></p>
+<ul>
+<li>
+Partner closely with product management to influence the development of products and features.</li>
+<li>
+Develop go-to-market plan for new products and features including &ndash; pricing, naming, and positioning to enable sales organization success.</li>
+<li>
+Develop launch materials e.g. detailed features and functionality, brochures, demo guides and powerpoint slides.</li>
+<li>
+Conduct competitive analysis and develop competitive positioning.</li>
+<li>
+Train sales, marketing and account management. Ensure team members can clearly communicate product positioning and messaging.</li>
+<li>
+Lead pilot programs and post-launch optimization efforts.</li>
+</ul>
+<p>
+<u><strong>Requirements</strong></u></p>
+<p>
+&nbsp;</p>
+<ul>
+<li>
+5+ years of experience in product marketing within the software or SaaS (software as a service) industry</li>
+<li>
+Excellent interpersonal skills, with a proven track record of establishing credibility with customers and colleagues</li>
+<li>
+The ability to influence without having direct authority</li>
+<li>
+Strong verbal and written communication skills with ability to work cross-functionally across teams</li>
+<li>
+Strong analytical mindset, ability to draw relevant inferences from data and think/plan strategically</li>
+<li>
+Results-driven, ability to prioritize</li>
+<li>
+Experience with the hospitality industry desired</li>
+<li>
+Positive, flexible, can-do attitude</li>
+<li>
+BA/BS in Marketing or related field</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/revinate/mkmZUF"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Sopogy]]></company>
+			<job>
+			<id><![CDATA[job_20101211015125_2QYASDWMS8Y03W65]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[SENIOR CONTROLS AND EMBEDDED ENGINEER]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://sopogy.theresumator.com/apply/oucbrd/SENIOR-CONTROLS-AND-EMBEDDED-ENGINEER.html]]></url>
+			<city><![CDATA[San Jose]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[95101]]></postalcode>
+			<description><![CDATA[<p>
+	<b>Essential Duties and Responsibilities<br />
+	Sopogy has immediate need for an individual with a strong, varied background in electronics and controls to support many facets of the organization, including product development, project design and site implementation. Knowledge of embedded, networked microcontroller systems is essential. Networked Architecture development required as part of this as well as GUI and HMI design, development and testing. Candidate will be required to perform software development in C and C++ and other languages as determined for best approach. Education in EE, CS or equivalent combination is also a requirement. This position requires management of the business aspects of the controls with responsibility for development of BoMs, and documentation for procurement.</b></p>
+<p>
+	Responsibilities:<br />
+	&bull; Product Development<br />
+	o Design, prototype, and manufacture custom electronics to support solar thermal collector fields<br />
+	o Maintain existing solar tracking system as technology roadmap evolves<br />
+	 Microcontroller programming, QA and testing<br />
+	 Create procedures for repair and rework failed components<br />
+	 Provide customer support via phone and email<br />
+	 Direct on-site repair and upgrade support as required<br />
+	o Research and develop next-generation solar tracking system<br />
+	 Focus on Cost Reduction, Reliability, and Scalability<br />
+	 Extensive knowledge of networked system architecture to fully develop and implement state of the art large field solar tracking applications.<br />
+	 Knowledge of PLC for P&amp;ID site integration and programming as needed<br />
+	 Create and document support and maintenance procedures<br />
+	o Cost of ownership management<br />
+	 Implement product lifecycle<br />
+	 Work with mechanical group to optimize parts assemblies and perform best in class cost as well as technical implementation<br />
+	 Process Improvement Process (PIP)management<br />
+	 Continuous Improvement Process (CIP) Management including feedback to design based on field implementations.</p>
+<p>
+	&bull; Project Design Support<br />
+	o Create electrical drawings, plans and documentation to support solar thermal projects<br />
+	o Provide electrical requirements to planners and customers<br />
+	o High-voltage (power) and low-voltage (control and communication) electrical design experience a plus.</p>
+<p>
+	&bull; Control Systems Support<br />
+	o Provide design guidance for plant automation components<br />
+	o Specify requirements for control system hardware and software<br />
+	o Provide programming support to integrate solar tracking into control systems as required</p>
+<p>
+	&bull; Travel as required to customer sites (domestic and international) for implementation and support.</p>
+<p>
+	&bull; Other duties as assigned<br />
+	&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/sopogy/oucbrd"></script>]]></buttons>
+		</job>
+	</jobs>

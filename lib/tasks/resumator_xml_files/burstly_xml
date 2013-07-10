@@ -1,0 +1,455 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Burstly]]></company>
+			<job>
+			<id><![CDATA[job_20110826015052_GZ39BNEMJVBQK8EX]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Technical Intern]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://burstly.theresumator.com/apply/67FknP/Technical-Intern.html]]></url>
+			<city><![CDATA[Santa Monica]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90401]]></postalcode>
+			<description><![CDATA[<p>
+Burstly is seeking a technical intern to make an immediate impact with our largest partners. In this role, you&rsquo;ll have the opportunity to work with some of the largest app developers on iPhone and Android and assist in the technical implementation of the Burstly SDK into their apps. The ideal candidate has an understanding of the iOS or Android SDK, is a quick learner and problem solver, and has excellent communication skills.</p>
+<p>
+We are an innovative mobile startup that builds monetization tools for app developers. Our offices are located on the 3rd St Promenade in beachfront Santa Monica, CA. The founders have sold previous startups to MTVN/Viacom and Uproar/ Vivendi Universal. Our team consists of over 15 people and we range from surfers to chess wizards to scotch connoisseurs. We are a hard working team in a non-stop environment that occasionally catches their breath. We are experiencing explosive growth along with our partners, who are some of the premier apps on the iPhone and Android markets. If you ever meet us for an interview and don&#39;t happen to have one of our client&#39;s apps on your phone, we&#39;ll buy you a shot (any liquid of choice).</p>
+<p>
+Your presence will be felt and you can have an immediate impact on the company. This is not some numbed-down organization where you get anywhere by following an org chart. Beyond internally, you have an opportunity to be a part of the most explosive market of all-time: mobile. We are at the epicenter of this opportunity and it&#39;s ours to lose. You can be front and center as we move at a jaw dropping pace that is unlike anything we have ever seen before. We are tackling a young but massive market that has difficult product, engineering and operational challenges. If you can maneuver tough challenges in fast paced environments, you&#39;ll love it here.</p>
+<p>
+Responsibilities:</p>
+<ul>
+<li>
+Managing installation of apps on devices.</li>
+<li>
+Creating and managing library builds.</li>
+<li>
+Testing builds, and 3rd party apps.</li>
+<li>
+Assist engineering staff with miscellaneous tasks.</li>
+</ul>
+<p>
+Requirements:</p>
+<ul>
+<li>
+Proficient with Windows and Mac operating systems as well as command line interfaces.</li>
+<li>
+Must have good communication skills and flexible hours.</li>
+<li>
+Must be familiar with mobile devices.</li>
+<li>
+Some programming experience&nbsp;</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/burstly/67FknP"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120305065355_GFVIMPFNS95PW1JJ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Database Administrator]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://burstly.theresumator.com/apply/ciN5Tt/Database-Administrator.html]]></url>
+			<city><![CDATA[Santa Monica]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90401]]></postalcode>
+			<description><![CDATA[<p>
+Burstly is seeking a database engineer / administrator with media industry and/or analytics experience and a love for big data.&nbsp; Our database engineer will assist in producing end-user facing reporting tools, internal controls, and the design of optimal schema creation for distributing information from our massive and growing data store.<br />
+<br />
+Who is Burstly?&nbsp; We are an innovative mobile startup that builds a comprehensive toolset for app developers. Our offices are located on the 2nd St in beachfront Santa Monica, CA. The founders have sold previous startups to MTVN/Viacom and Uproar/ Vivendi Universal. Our team consists of over 25 people and we range from surfers to chess wizards to scotch connoisseurs. We are a hard working team in a non-stop environment that occasionally catches their breath. We are experiencing explosive growth along with our partners, who are some of the premier apps on the iPhone and Android markets. If you ever meet us for an interview and don&#39;t happen to have one of our client&#39;s apps on your phone, we&#39;ll buy you a shot (any liquid of choice).<br />
+<br />
+Your presence will be felt and you can have an immediate impact on the company. This is not some numbed-down organization where you get anywhere by following an org chart.&nbsp; Beyond internally, you have an opportunity to be a part of the most explosive market of all-time: mobile. We are at the epicenter of this opportunity and it&#39;s ours to lose. You can be front and center as we move at a jaw dropping pace that is unlike anything we have ever seen before. We are tackling a young but massive market that has difficult product, engineering and operational challenges. If you can maneuver tough challenges in fast paced environments, you&#39;ll love it here.<br />
+<br />
+Responsibilities:<br />
+<br />
+Build optimized schema for user-facing reports and APIs<br />
+Work on building distributed across multiple datacenters data layer<br />
+Transform data from multiple sources to provide a comprehensive view of app performance<br />
+Work unilaterally and within teams to improve the back-end platform<br />
+Build custom reports to provide maximum transparency to enterprise clients<br />
+Proactively monitor and come up with suggestion on improving data layer<br />
+Define and drive disaster recovery strategy<br />
+<br />
+Requirements:<br />
+<br />
+BS in Computer Science or related field or equivalent work experience<br />
+Proficiency in Database design, T-SQL development, MS SQL Server administration<br />
+Experience in high transaction, highly available MS SQL environments, including clustering, mirroring, partitioning<br />
+Good understanding of the Project management System, including Work Items and Source Code management systems, etc<br />
+Understanding of one of following; .NET, C#, Java, Python, Django, a double plus<br />
+Self-driven, motivated and organized personality<br />
+Strong problem solving &amp; collaborations skills<br />
+Creative approach to complicated problems<br />
+Metric and KPI driven decision making<br />
+Passion for technology and ability to learn quick<br />
+Understanding of the Cloud limitations and advantages<br />
+<br />
+Nice to have:<br />
+<br />
+Experience with one or more Cloud provides, like; Amazon, Rackspace, Azure<br />
+Knowledge of one or more no-sql environments, Ryak, Elastic Search, MongoDB a plus<br />
+Understanding of&nbsp; Big data solutions, Hadoop, Hive<br />
+Knowledge of OLAP, MS AS Server<br />
+Understanding of Mobile Advertisement platforms</p>
+<p>
+&nbsp;</p>
+<p>
+&nbsp;</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/burstly/ciN5Tt"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120305170609_7ZYSZAP26YAUGQZA]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Ad Platform Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://burstly.theresumator.com/apply/FPWYNV/Ad-Platform-Engineer.html]]></url>
+			<city><![CDATA[Santa Monica]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90401]]></postalcode>
+			<description><![CDATA[<p>
+	Burstly is seeking an Advertising Platform Engineer to work collaboratively with the advertising technology team, our enterprise clients, and our internal account team. &nbsp;Our Ad Platform Engineer will help author tools, configure custom ad campaigns, design and execute test plans, and conduct various data analyses.</p>
+<p>
+	Who is Burstly?&nbsp; We are an innovative mobile startup that builds a comprehensive toolset for app developers. Our offices are located on the 3rd St Promenade in beachfront Santa Monica, CA. The founders have sold previous startups to MTVN/Viacom and Uproar/ Vivendi Universal. Our team consists of over 25 people and we range from surfers to chess wizards to scotch connoisseurs. We are a hard working team in a non-stop environment that occasionally catches their breath. We are experiencing explosive growth along with our partners, who are some of the premier apps on the iPhone and Android markets. If you ever meet us for an interview and don&#39;t happen to have one of our client&#39;s apps on your phone, we&#39;ll buy you a shot (any liquid of choice).</p>
+<p>
+	Your presence will be felt and you can have an immediate impact on the company. This is not some numbed-down organization where you get anywhere by following an org chart.&nbsp; Beyond internally, you have an opportunity to be a part of the most explosive market of all-time: mobile. We are at the epicenter of this opportunity and it&#39;s ours to lose. You can be front and center as we move at a jaw dropping pace that is unlike anything we have ever seen before. We are tackling a young but massive market that has difficult product, engineering and operational challenges. If you can maneuver tough challenges in fast paced environments, you&#39;ll love it here.</p>
+<p>
+	Responsibilities:</p>
+<ul>
+	<li>
+		Build internal- and external-facing tools to support publishing clients and internal accounts team</li>
+	<li>
+		Assist in flighting customized ad campaigns and creatives</li>
+	<li>
+		Gain comprehensive knowledge of ad serving platform and assist in development and maintenance</li>
+	<li>
+		Develop high availability web services and integrate with various systems</li>
+</ul>
+<p>
+	Requirements</p>
+<ul>
+	<li>
+		BS/BA Degree or equivalent experience</li>
+	<li>
+		Proficiency in T-SQL</li>
+	<li>
+		Excellent communication skills a must</li>
+	<li>
+		Expertise in C#, Python, Django a plus</li>
+</ul>
+<p>
+	&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/burstly/FPWYNV"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120305195858_4ACMOQIPYO8Y66ER]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[UI / Front End Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://burstly.theresumator.com/apply/wa0sRE/UI-Front-End-Developer.html]]></url>
+			<city><![CDATA[Santa Monica]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90401]]></postalcode>
+			<description><![CDATA[<p>
+	Burstly is looking for a creative and innovative Front End Engineer to work closely with both the product and technical teams and help realize the visual dimension of our innovative tools. The ideal candidate will have experience in both traditional web and mobile app design and implementation experience. Additionally, the ideal candidate has a strong understanding of industry standards in both fields, and a dedicated passion to bringing passionately blending creativity, design, and smart, functional implementation.</p>
+<p>
+	Who is Burstly?&nbsp; We are an innovative mobile startup that builds a comprehensive toolset for app developers. Our offices are located on the 3rd St Promenade in beachfront Santa Monica, CA. The founders have sold previous startups to MTVN/Viacom and Uproar/ Vivendi Universal. Our team consists of over 30 people and we range from surfers to chess wizards to scotch connoisseurs. We are a hard working team in a non-stop environment that occasionally catches their breath. We are experiencing explosive growth along with our partners, who are some of the premier apps on the iPhone and Android markets. If you ever meet us for an interview and don&#39;t happen to have one of our client&#39;s apps on your phone, we&#39;ll buy you a shot (any liquid of choice). &nbsp;Oh, and did we mention that TestFlight is now part of our product suite? &nbsp;This team is set to dominate the mobile media space.</p>
+<p>
+	Your presence will be felt and you can have an immediate impact on the company. This is not some numbed-down organization where you get anywhere by following an org chart.&nbsp; Beyond internally, you have an opportunity to be a part of the most explosive market of all-time: mobile. We are at the epicenter of this opportunity and it&#39;s ours to lose. You can be front and center as we move at a jaw dropping pace that is unlike anything we have ever seen before. We are tackling a young but massive market that has difficult product, engineering and operational challenges. If you can maneuver tough challenges in fast paced environments, you&#39;ll love it here.</p>
+<p>
+	Responsibilities:</p>
+<ul>
+	<li>
+		Website and Mobile App design implementation</li>
+	<li>
+		Contribution to HTML/CSS Style Guides and their development</li>
+	<li>
+		CSS/HTML/CSS/AJAX language experience</li>
+	<li>
+		JavaScript library Implementation</li>
+	<li>
+		Extensive cross-browser and cross-platform tool development</li>
+</ul>
+<p>
+	Requirements:&nbsp;</p>
+<ul>
+	<li>
+		Adobe Creative Suite - Design + Web</li>
+	<li>
+		A passion and knowledge for UI Design</li>
+	<li>
+		A love for teamwork and consensus building around designs</li>
+	<li>
+		&nbsp;.Net Experience a plus</li>
+	<li>
+		Experience with Bug Management system (Jira a plus)</li>
+	<li>
+		Experience with Source Control tools a plus</li>
+	<li>
+		Knowledge of mobile / online display advertising a plus</li>
+	<li>
+		Great visual eye and a knowledge of typography, color, and composition</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/burstly/wa0sRE"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121107162134_P6HIFKT4ZWSPY5W9]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sr. System Engineer (DevOps)]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://burstly.theresumator.com/apply/tvDLCh/Sr-System-Engineer-DevOps.html]]></url>
+			<city><![CDATA[Santa Monica]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90401]]></postalcode>
+			<description><![CDATA[<p>
+Burstly is seeking a System engineer / administrator with media industry and/or analytics experience and a love for high traffic, big data systems.&nbsp; Our System engineer will assist in improving and maintain robust, self-maintain, geo-distributed and reliable infrastructure for hundreds millions mobile devices.<br />
+<br />
+Who is Burstly?&nbsp; We are an innovative mobile startup that builds a comprehensive toolset for app developers. Our offices are located on the 2nd St in beachfront Santa Monica, CA. The founders have sold previous startups to MTVN/Viacom and Uproar/ Vivendi Universal. Our team consists of over 25 people and we range from surfers to chess wizards to scotch connoisseurs. We are a hard working team in a non-stop environment that occasionally catches their breath. We are experiencing explosive growth along with our partners, who are some of the premier apps on the iPhone and Android markets. If you ever meet us for an interview and don&#39;t happen to have one of our client&#39;s apps on your phone, we&#39;ll buy you a shot (any liquid of choice).<br />
+<br />
+Your presence will be felt and you can have an immediate impact on the company. This is not some numbed-down organization where you get anywhere by following an org chart.&nbsp; Beyond internally, you have an opportunity to be a part of the most explosive market of all-time: mobile. We are at the epicenter of this opportunity and it&#39;s ours to lose. You can be front and center as we move at a jaw dropping pace that is unlike anything we have ever seen before. We are tackling a young but massive market that has difficult product, engineering and operational challenges. If you can maneuver tough challenges in fast paced environments, you&#39;ll love it here.<br />
+<br />
+Responsibilities:<br />
+<br />
+Design and implement self-maintained, scaleable and reliable infrastructure<br />
+Work on building distributed infrastructure across multiple datacenters and cloud providers<br />
+Define and implement monitoring KPIs for overall health of the platform<br />
+Define and provide regular availability, health reports on the platform<br />
+Work unilaterally and within teams to improve the back-end platform<br />
+Proactively monitor and come up with suggestion on improving infrastructure availability and reliability<br />
+Provide feedback in sprint planning sessions, design and specification reviews<br />
+Participate and provide feedback on Architecture design discussions<br />
+Gain comprehensive knowledge of ad serving platform and assist in development and maintenance<br />
+Maintain and contribute into internal knowledge base<br />
+Participate in daily project meetings<br />
+Maintain and assist in deploying builds to the test/production environments<br />
+Define and drive disaster recovery strategy<br />
+<br />
+Requirements:<br />
+<br />
+BS in Computer Science or related field or equivalent work experience<br />
+Proficiency in Windows Server, MS SQL Server administration<br />
+Experience in high transaction, highly available Windows, IIS, MS SQL environments, including clustering, mirroring, partitioning<br />
+Strong understanding of IP, DNS, HTTP, iSCSI, FTP<br />
+Experience with one or more monitoring systems; SCOM, Site Scope, Nagios<br />
+Strong desire and experience building self-healing, self-maintained system, taking most advantage of automation, PowerShell, VBScript, Shell scripts<br />
+Good understanding of deployment strategies, servers imaging (sysprep), unattended installs<br />
+Self-driven, motivated and organized personality<br />
+Strong problem solving &amp; collaborations skills<br />
+Creative approach to complicated problems<br />
+Metric and KPI driven decision making<br />
+Passion for technology and ability to learn quick<br />
+Understanding of the Cloud limitations and advantages<br />
+Strong understanding of the Project management System, including Work Items and Source Code management systems (SVN, Git, Jira, TFS, Redmine)<br />
+<br />
+Nice to have:<br />
+<br />
+Experience with one or more Cloud provides, like; Amazon, Rackspace, Azure<br />
+Understanding of one of following; ASP.NET, C#, Java, Python, Django, a double plus<br />
+Knowledge of one or more no-sql environments, Ryak, Elastic Search, MongoDB a plus<br />
+Understanding of&nbsp; Big data solutions, Hadoop, Hive<br />
+Understanding of Mobile Advertisement platforms</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/burstly/tvDLCh"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121107162347_QUZXXPYWFU0GTYBN]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior .NET Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://burstly.theresumator.com/apply/yopigC/Senior-NET-Engineer.html]]></url>
+			<city><![CDATA[Santa Monica]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90401]]></postalcode>
+			<description><![CDATA[<p>
+Burstly is seeking an .NET Platform Engineer to work collaboratively with the advertising technology team, our enterprise clients, and our internal account team.&nbsp; Our Ad Platform Engineer will help author tools, configure custom ad campaigns, design and execute unit test, and conduct various data analyses.<br />
+<br />
+Who is Burstly?&nbsp; We are an innovative mobile startup that builds a comprehensive toolset for app developers. Our offices are located on the 2nd St in beachfront Santa Monica, CA. The founders have sold previous startups to MTVN/Viacom and Uproar/ Vivendi Universal. Our team consists of over 25 people and we range from surfers to chess wizards to scotch connoisseurs. We are a hard working team in a non-stop environment that occasionally catches their breath. We are experiencing explosive growth along with our partners, who are some of the premier apps on the iPhone and Android markets. If you ever meet us for an interview and don&#39;t happen to have one of our client&#39;s apps on your phone, we&#39;ll buy you a shot (any liquid of choice).<br />
+<br />
+Your presence will be felt and you can have an immediate impact on the company. This is not some numbed-down organization where you get anywhere by following an org chart.&nbsp; Beyond internally, you have an opportunity to be a part of the most explosive market of all-time: mobile. We are at the epicenter of this opportunity and it&#39;s ours to lose. You can be front and center as we move at a jaw dropping pace that is unlike anything we have ever seen before. We are tackling a young but massive market that has difficult product, engineering and operational challenges. If you can maneuver tough challenges in fast paced environments, you&#39;ll love it here.<br />
+<br />
+Responsibilities:<br />
+<br />
+Build internal- and external-facing tools to support publishing clients and internal accounts team<br />
+Provide feedback in sprint planning sessions, design and specification reviews<br />
+Participate and provide feedback on Architecture designs discussion<br />
+Develop high availability web services and integrate with various systems<br />
+Gain comprehensive knowledge of ad serving platform and assist in development and maintenance<br />
+Maintain and contribute into internal knowledge base<br />
+Participate in daily project meetings<br />
+Maintain and assist in deploying builds to the test/production environments<br />
+<br />
+Requirements:<br />
+<br />
+Strong foundation in SDLC and overall Software Design<br />
+Expertise in ASP.NET, C#, MVC, AppFabric<br />
+Proficiency in Database design and T-SQL<br />
+Strong knowledge and experience in one or more of the following; .NET, C#, VB.NET, SQL, HTML, JS, Java, Objective C, Python, RabbitMQ, ZeroMQ<br />
+Strong understanding of the Project management System, including Work Items and Source Code management systems (SVN, Git, Jira, TFS, Redmine)<br />
+Self-driven, motivated and organized personality<br />
+Strong problem solving &amp; collaborations skills<br />
+Creative approach to complicated problems<br />
+Metric and KPI driven decision making<br />
+Passion for technology and ability to learn quick<br />
+Excellent communication skills a must<br />
+Understanding of the Cloud limitations and advantages<br />
+<br />
+Nice to have:<br />
+<br />
+Experience with high scale, high traffic online applications<br />
+Experience with one or more Cloud provides, like; Amazon, Rackspace, Azure<br />
+Knowledge of one or more no-sql environments, Ryak, Elastic Search, MongoDB a plus<br />
+Understanding of&nbsp; Big data solutions, Hadoop, Hive<br />
+Knowledge of OLAP, MS AS Server<br />
+Understanding of Mobile Advertisement platforms</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/burstly/yopigC"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130215202601_JYRBRZYMW1CKPMVC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer in Test]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://burstly.theresumator.com/apply/uHWvud/Software-Engineer-In-Test.html]]></url>
+			<city><![CDATA[Santa Monica]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90401]]></postalcode>
+			<description><![CDATA[<p>
+Burstly is looking for a Test Development Associate to be responsible for test automation, developing &amp; executing test cases and daily participation in the software test process. Excellent opportunity to join a leader in the mobile world. Work with and learn from the best.</p>
+<p>
+Responsibilities:</p>
+<p>
+Develop automated tests for various Burstly products, including Mobile, Web and more<br />
+Write, execute, and maintain test cases for all phases of testing<br />
+Report, investigate and troubleshoot issues<br />
+Provide input for improvements in testing and automation<br />
+Constantly learn in order to understand and discuss technical and product issues</p>
+<p>
+<br />
+Requirements:</p>
+<p>
+1+ years QA or Software development experience<br />
+Experience with QA Automation (preferably with open-source tools)<br />
+Testing experience - cross-platform mobile software environments (iOS, Android, Windows Phone)<br />
+Testing experience - web services + cross-browser web environments (Chrome, Firefox, IE)<br />
+Mobile app development experience a plus<br />
+Understanding of one or more of the following; .NET, C#, VB.NET, SQL, HTML, JS, Java, JUnit, Objective C, Python<br />
+Experience with bug tracking &amp; source code management tools (Git, SVN, Jira, TFS, Bugzilla, Redmina)<br />
+Self-driven, motivated and organized personality<br />
+Strong problem solving &amp; collaborations skills<br />
+Good verbal communication and written skills<br />
+Degree in Computer Science preferred</p>
+<p>
+<br />
+Nice to have:</p>
+<p>
+Experience with high scale, high traffic online applications<br />
+Experience with one or more of the following : MS Visual Studio, MS Visual Studio Testing Tools (Web Testing, Load Testing, etc), Eclipse, UI Automation, Robotium, Sikuli, Selenium or another similar Testing toolset</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/burstly/uHWvud"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130507163731_DBLJTYU0VVSBLEAT]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Junior Software Engineer]]></title>
+			<department><![CDATA[Operations]]></department>
+			<team><![CDATA[Operations]]></team>
+			<url><![CDATA[http://burstly.theresumator.com/apply/nxlXtf/Junior-Software-Engineer.html]]></url>
+			<city><![CDATA[Santa Monica]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90401]]></postalcode>
+			<description><![CDATA[<p>
+An exciting opportunity for a Junior Software Engineer to join the Burstly team. We build advertising, analytics and beta-testing tools for some of the most popular mobile apps in the world. You&rsquo;ll have opportunities to learn and develop a wide range of technologies across multiple iOS, Android, Web and Server-Side products. The ideal candidate is a solid generalist with great technical chops, one who understands client-server architectures and has an interest in learning mobile platforms.</p>
+<p>
+Who is Burstly?&nbsp; We are an innovative mobile startup that builds a comprehensive toolset for app developers. Our products include:</p>
+<p>
+Burstly - Mobile advertising</p>
+<p>
+Testflight - Mobile beta-testing</p>
+<p>
+Flightpath - Mobile analytics</p>
+<p>
+If you ever meet us for an interview and don&#39;t happen to have one of our client&#39;s apps on your phone, we&#39;ll buy you a shot (any liquid of choice).&nbsp; The founders have sold previous startups to MTVN/Viacom and Uproar/ Vivendi Universal.&nbsp;</p>
+<p>
+Our beautiful offices are located in beachfront Santa Monica, CA, with a view of the Santa Monica Pier.&nbsp; Here you will enjoy a fully stocked kitchen, large game room and outdoor patios where you can work under the sun.</p>
+<p>
+Your presence will be felt and you can have an immediate impact on the company with opportunities to work across multiple teams. You can be front and center as we move at a jaw dropping pace that is unlike anything we have ever seen before. We are tackling a young but massive market that has difficult product, engineering and operational challenges. If you can maneuver tough challenges in fast paced environments, you&#39;ll love it here.</p>
+<p>
+Requirements</p>
+<p>
+BS/BA in Computer Science or equivalent experience</p>
+<p>
+Excellent communication skills a must</p>
+<p>
+Expertise in Java, Objective-C, C++, Open GL a plus</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/burstly/nxlXtf"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130703230617_UBPHNLJVTU036KFE]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Python/Django Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://burstly.theresumator.com/apply/SQyLn2/PythonDjango-Developer.html]]></url>
+			<city><![CDATA[Santa Monica]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90401]]></postalcode>
+			<description><![CDATA[<p>
+Responsibilities</p>
+<p>
+Build web applications on top of our real-time analytics platform that provides mobile developers with unprecedented insight into the behavior of their users.&nbsp; You&rsquo;ll work with an amazing team to produce leading edge software working with a Big Data platform.</p>
+<p>
+Requirements</p>
+<p>
+4+ Years working with Python/Django or other MVC framework<br />
+Knowledge of cloud storage solutions and deployment models<br />
+Familiarity with TDD practices<br />
+General interest in data structures, algorithms, and solving scalability problems<br />
+Strong customer focus, ownership, urgency and drive.<br />
+Strong Object Oriented design experience<br />
+Excellent communication skills and the ability to work well in a team.<br />
+Bachelor&rsquo;s degree in Computer Science or related area of study</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/burstly/SQyLn2"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,379 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Duedil]]></company>
+			<job>
+			<id><![CDATA[job_20100513192642_X5QTHYLZZXM3NFKR]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Core Product Developer]]></title>
+			<department><![CDATA[Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://duedil.theresumator.com/apply/x1qmvh/Core-Product-Developer.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[London]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[W1F 8HT]]></postalcode>
+			<description><![CDATA[<p>
+<u><strong>Core Product Developer</strong></u></p>
+<p>
+We need you to help us continue building a platform that answers the needs of the largest user base of business-to-business decision makers in the UK, and with it become the data backbone of business. We&rsquo;ve just opened up data in 20 new countries, closed a $5m Series A funding round, taken over a floor at the awesome new Warner Yard space in Clerkenwell and are growing in every way possible.</p>
+<p>
+We&rsquo;re looking for a developer to build the core products that drive the decisions of hundreds of thousands of business professionals every day. You&rsquo;ll bring key user features from concept to deployment and in the process develop new methods for delivering data, transforming the way business information in accessed. As we&rsquo;re still a startup in growth stage you&rsquo;ll get your teeth stuck into everything, learn plenty, and see your input reflected immediately.</p>
+<p>
+<u><strong>Responsibilities and experience:</strong></u></p>
+<p>
+- Developing application components in PHP<br />
+- Developing the site interface in HTML5, CSS &amp; Javascript<br />
+- Familiarity with release engineering (deployment, build systems)<br />
+- Modern Framework experience (Symfony/Zend preferred)<br />
+- Linux and/or other Unix exposure<br />
+- Working knowledge of relational databases (Postgres) and familiarity with key-value stores<br />
+- A clear understanding of RESTful principles</p>
+<p>
+<u><strong>Bonus points if you can demonstrate:</strong></u></p>
+<p>
+- RESTful API implementation experience<br />
+- E-commerce experience<br />
+- Familiarity with Python</p>
+<p>
+<u><strong>Why work at Duedil?</strong></u></p>
+<p>
+Become part of the Duedil team and you&rsquo;ll receive all the tech equipment you need to do the best work possible, whether you&rsquo;re an Apple fanboy or some sort of strange Windows user.<br />
+We believe that sometimes you need to work from home (no Marissa Meyer here) and that you might need to leave early/get in late to let the cat out or whatever. That&rsquo;s cool.<br />
+You&rsquo;ll get lunch paid for every day by the boss and if you&rsquo;re lucky, someone might have baked a cake.<br />
+We have *lots* of Nerf guns.<br />
+Basically, we&rsquo;re awesome. Come work for us.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/duedil/x1qmvh"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110222174655_DIVQRJVDY1HLDAWF]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front-end Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://duedil.theresumator.com/apply/UdBoYA/Frontend-Developer.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EC1R 5EY]]></postalcode>
+			<description><![CDATA[<p>
+<u><strong>Front-end Developer</strong></u></p>
+<p>
+We need you to help us continue building a platform that answers the needs of the largest user base of business-to-business decision makers in the UK, and with it become the data backbone of business. We&rsquo;ve just opened up data in 20 new countries, closed a $5m Series A funding round, taken over a floor at the awesome new Warner Yard space in Clerkenwell and are growing in every way possible.</p>
+<p>
+Duedil is looking for a creative front-end engineer with a passion for great design and experience wth data visualisation. This is a dynamic role with plenty of opportunity to work creatively and lead your own projects. We need someone that has a keen eye for detail, loves working with huge amounts of data and always has the end user in mind.</p>
+<p>
+<u><strong>Responsibilities and experience:</strong></u></p>
+<p>
+- Excellent HTML/CSS skills (including HTML5 &amp; CSS3)<br />
+- Experience with JavaScript, including popular libraries such as jQuery and D3. Client-side JavaScript frameworks would be a plus.<br />
+- PHP and experience with an MVC framework.<br />
+- Experience developing UI that works across all major browsers and degrades gracefully.<br />
+- Passionate about user experience and accessibility.<br />
+- Ability to implement clean, visually appealing, user interfaces.<br />
+- Excellent written and spoken English.<br />
+<br />
+<u><strong>Bonus points if you can demonstrate:</strong></u></p>
+<p>
+- Mobile app development experience.<br />
+- UI/UX design skills.</p>
+<p>
+<u><strong>Why work at Duedil?</strong></u></p>
+<p>
+Become part of the Duedil team and you&rsquo;ll receive all the tech equipment you need to do the best work possible, whether you&rsquo;re an Apple fanboy or some sort of strange Windows user.<br />
+We believe that sometimes you need to work from home (no Marissa Meyer here) and that you might need to leave early/get in late to let the cat out or whatever. That&rsquo;s cool.<br />
+You&rsquo;ll get lunch paid for every day by the boss and if you&rsquo;re lucky, someone might have baked a cake.<br />
+We have *lots* of Nerf guns.<br />
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/duedil/UdBoYA"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110711085813_FHCFOHR2Q1ZZFDVA]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Data Scientist]]></title>
+			<department><![CDATA[Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://duedil.theresumator.com/apply/v0vpJy/Data-Scientist.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[London]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EC1R 5EY]]></postalcode>
+			<description><![CDATA[<p>
+<u><strong>Data Scientist</strong></u></p>
+<p>
+We need you to help us continue building a platform that answers the needs of the largest user base of business-to-business decision makers in the UK, and with it become the data backbone of business. We&rsquo;ve just opened up data in 20 new countries, closed a $5m Series A funding round, taken over a floor at the awesome new Warner Yard space in Clerkenwell and are growing in every way possible.</p>
+<p>
+As a data scientist at Duedil, you will take part in developing classification and predictive models, and methods that leverage and effectively analyse linked, large scale business data. You&rsquo;ll be working with other teams including product designers and senior management to make product decisions based on measures and metrics, and with software engineers to build recommendation systems, personalise user pages and collect and aggregate data from various sources.</p>
+<p>
+<u><strong>What we look for:</strong></u></p>
+<p>
+- M.S. or Ph.D.&nbsp; in a quantitative field (eg. computer science, mathematics, physics) or 4+ years of experience in a data mining/analysis oriented role<br />
+- Experience in collecting, aggregating and matching structured/unstructured, highly dimensional data from various sources, and analyzing that data at scale<br />
+- Passionate about tackling difficult questions and building innovative data services using large datasets<br />
+- Experience in Python, Java or C++<br />
+- Experience in working with Matlab/R or a similar numerical analysis tool<br />
+- Experience in working with SQL and NoSQL databases<br />
+- Extensive knowledge of one of the following areas: Machine Learning, Natural Language Processing, Network Science, Computational Finance<br />
+<br />
+<u><strong>Bonus points if you can demonstrate:</strong></u></p>
+<p>
+- Experience with Hadoop, MapReduce, Hive, Hbase, Pig<br />
+- Experience with Bulk Synchronous Parallel, Giraph, Pregel etc</p>
+<p>
+<u><strong>Why work at Duedil?</strong></u></p>
+<p>
+Become part of the Duedil team and you&rsquo;ll receive all the tech equipment you need to do the best work possible, whether you&rsquo;re an Apple fanboy or some sort of strange Windows user.<br />
+We believe that sometimes you need to work from home (no Marissa Meyer here) and that you might need to leave early/get in late to let the cat out or whatever. That&rsquo;s cool.<br />
+You&rsquo;ll get lunch paid for every day by the boss and if you&rsquo;re lucky, someone might have baked a cake.<br />
+We have *lots* of Nerf guns.<br />
+Basically, we&rsquo;re awesome. Come work for us.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/duedil/v0vpJy"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130313093137_4TS0RVK58TJKAZIA]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sales Engineer]]></title>
+			<department><![CDATA[Business Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://duedil.theresumator.com/apply/z9l5Tk/Sales-Engineer.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[W1F 8HT]]></postalcode>
+			<description><![CDATA[<p>
+We need you to help us continue building a platform that answers the needs of the largest user base of business-to-business decision makers in the UK, and with it become the data backbone of business. We&rsquo;ve just opened up data in 20 new countries, closed a $5m Series A funding round, taken over a floor at the awesome new Warner Yard space in Clerkenwell and are growing in every way possible.</p>
+<p>
+We are now on the hunt for a sales engineer to focus on the technical aspects of pre/post sales support. Our ideal candidate will likely be an ex developer or someone with a high degree of technical knowledge. They will be able to support our business development director in meetings requiring discussion of technical integration points, and work directly with account managers, developers, and clients to gather additional information and work closely with them to troubleshoot, test and, resolve issues.</p>
+<p>
+<strong>Responsibilities:</strong><br />
+- Support sales process at all stages<br />
+- Manage and actively respond to client escalations and queries relating to all of Duedil&rsquo;s products<br />
+- Improve product feature offerings by providing partner feedback to internal cross-functional teams including product and engineering/developers<br />
+- Be available to participate in on-site and quarterly business reviews with clients to review technical issues<br />
+- Guarantee the technical aspects of a partner&rsquo;s API integration (both new and ongoing) by providing necessary documentation and technical guidance<br />
+- Engage developer community and promote use of Duedil&rsquo;s API by attending/hosting events and hacks</p>
+<p>
+<strong>Desired Experience:</strong><br />
+- Full working knowledge of API functionality and management<br />
+- Superior communication skills and confidence to present to senior level clients.<br />
+- Firm grasp of the tech ecosystem and experience working with sellers, buyers, and data providers<br />
+- Flexible, startup mindset and proven success in fast-paced environments, with the ability to juggle multiple client deadlines<br />
+- Capacity to work with all teams, including sales, marketing, business development, product, and engineering<br />
+- B.A. or B.S. in a quantitative or technical field (e.g. math, statistics, computer science, etc.)</p>
+<p>
+<strong>Why work at Duedil?</strong></p>
+<p>
+Become part of the Duedil team and you&rsquo;ll receive all the tech equipment you need to do the best work possible, whether you&rsquo;re an Apple fanboy or some sort of strange Windows user.<br />
+We believe that sometimes you need to work from home (no Marissa Meyer here) and that you might need to leave early/get in late to let the cat out or whatever. That&rsquo;s cool.<br />
+You&rsquo;ll get lunch paid for every day by the boss and if you&rsquo;re lucky, someone might have baked a cake.<br />
+We have *lots* of Nerf guns.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/duedil/z9l5Tk"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130313093348_WHE5LPHG46LPYMND]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Account Manager]]></title>
+			<department><![CDATA[Business Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://duedil.theresumator.com/apply/AmNpnW/Account-Manager.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EC1R 5EY]]></postalcode>
+			<description><![CDATA[<p>
+We need you to help us continue building a platform that answers the needs of the largest user base of business-to-business decision makers in the UK, and with it become the data backbone of business. We&rsquo;ve just opened up data in 20 new countries, closed a $5m Series A funding round, taken over a floor at the awesome new Warner Yard space in Clerkenwell and are growing in every way possible.</p>
+<p>
+We are looking for a talented Account Manager to join our rapidly growing sales team in London. Primarily responsible for the softer side of pre/post sales, the Account Manager will initially focus on domain rather than functional specialization. The role will suit entrepreneurial, self-starting and experienced sales representatives with significant B2B and accounting/law/finance experience.<br />
+<br />
+<strong>Responsibilities:</strong></p>
+<p>
+- Proactively hunt for new business to call on, via phone, email and face-to-face, employing a balanced contact plan to generate prospects<br />
+- Develop and maintain knowledge of competition and industry trends<br />
+- Developing a high and positive profile within the market.<br />
+- Proactive identification of up-sell opportunities or quality issues<br />
+- Build close relationships with business contacts and attend conferences and events.<br />
+- Negotiate contract renewals and partnership expansions<br />
+- Work cross-functionally with multiple departments (tech, product etc)</p>
+<p>
+<strong>Desired Experience:</strong></p>
+<p>
+- Excellent communication skills. Ability to build trust and forge strong, long-lasting relationships<br />
+- Ability to work well independently and under pressure<br />
+- A &ldquo;roll up your sleeves&rdquo; attitude<br />
+- Excellent organizational skills, results oriented and good attention to detail<br />
+- Team player with strong work ethic and ability to adapt to change<br />
+- Strong analytical and problem solving skills<br />
+- Fully competent with Salesforce CRM system</p>
+<p>
+<strong>Why work at Duedil?</strong></p>
+<p>
+Become part of the Duedil team and you&rsquo;ll receive all the tech equipment you need to do the best work possible, whether you&rsquo;re an Apple fanboy or some sort of strange Windows user.<br />
+We believe that sometimes you need to work from home (no Marissa Meyer here) and that you might need to leave early/get in late to let the cat out or whatever. That&rsquo;s cool.<br />
+You&rsquo;ll get lunch paid for every day by the boss and if you&rsquo;re lucky, someone might have baked a cake.<br />
+We have *lots* of Nerf guns.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/duedil/AmNpnW"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130405150032_F8MYWNQHIVLM1NRK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[New Business Manager]]></title>
+			<department><![CDATA[Business Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://duedil.theresumator.com/apply/XB1b6p/New-Business-Manager.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EC1R 5EY]]></postalcode>
+			<description><![CDATA[<p>
+We need you to help us continue building a platform that answers the needs of the largest user base of business-to-business decision makers in the UK, and with it become the data backbone of business. We&rsquo;ve just opened up data in 20 new countries, closed a $5m Series A funding round, taken over a floor at the awesome new Warner Yard space in Clerkenwell and are growing in every way possible.</p>
+<p>
+We are looking for a talented New Business Manager to join our rapidly growing sales team in London. Primarily responsible for the softer side of pre/post sales, the New Business Manager will initially focus on domain rather than functional specialization. The role will suit entrepreneurial, self-starting and experienced sales representatives with significant B2B and accounting/law/finance experience.<br />
+<br />
+<strong>Responsibilities:</strong></p>
+<p>
+- Proactively hunt for new business to call on, via phone, email and face-to-face, employing a balanced contact plan to generate prospects<br />
+- Develop and maintain knowledge of competition and industry trends<br />
+- Developing a high and positive profile within the market.<br />
+- Proactive identification of up-sell opportunities or quality issues<br />
+- Build close relationships with business contacts and attend conferences and events.<br />
+- Negotiate contract renewals and partnership expansions<br />
+- Work cross-functionally with multiple departments (tech, product etc)</p>
+<p>
+<strong>Desired Experience:</strong></p>
+<p>
+- Excellent communication skills. Ability to build trust and forge strong, long-lasting relationships<br />
+- Ability to work well independently and under pressure<br />
+- A &ldquo;roll up your sleeves&rdquo; attitude<br />
+- Excellent organizational skills, results oriented and good attention to detail<br />
+- Team player with strong work ethic and ability to adapt to change<br />
+- Strong analytical and problem solving skills<br />
+- Fully competent with Salesforce CRM system</p>
+<p>
+<strong>Why work at Duedil?</strong></p>
+<p>
+Become part of the Duedil team and you&rsquo;ll receive all the tech equipment you need to do the best work possible, whether you&rsquo;re an Apple fanboy or some sort of strange Windows user.<br />
+We believe that sometimes you need to work from home (no Marissa Meyer here) and that you might need to leave early/get in late to let the cat out or whatever. That&rsquo;s cool.<br />
+You&rsquo;ll get lunch paid for every day by the boss and if you&rsquo;re lucky, someone might have baked a cake.<br />
+We have *lots* of Nerf guns.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/duedil/XB1b6p"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130531091523_4U2VVC9JSEJVUPOU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Data Scientist - Growth Hacker]]></title>
+			<department><![CDATA[Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://duedil.theresumator.com/apply/01KAgv/Data-Scientist-Growth-Hacker.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EC1R 5EY]]></postalcode>
+			<description><![CDATA[<p>
+<u><strong>Data Scientist - Growth Hacker</strong></u></p>
+<p>
+We need you to help us continue building a platform that answers the needs of the largest user base of business-to-business decision makers in the UK, and with it become the data backbone of business. We&rsquo;ve just opened up data in 20 new countries, closed a $5m Series A funding round, taken over a floor at the awesome new Warner Yard space in Clerkenwell and are growing in every way possible.</p>
+<p>
+We&rsquo;re looking for a Growth Hacker Data Scientist to join our team and drive Duedil&rsquo;s expansion. You will lead the analysis of our rich, abundant data in order to find scalable, repeatable and sustainable ways of improving our products and growing the business. You&rsquo;ll be working with our CEO, Marketing and Sales Directors and key team members across the entire business to extract actionable insights from this data, which will be used to improve every aspect of our service, grow our user base and increase revenue. Working in a successful start-up company in its growth stage, you&rsquo;ll have the opportunity to learn loads, and see your work put to use immediately across the business.</p>
+<p>
+<u><strong>What we look for:</strong></u></p>
+<p>
+- B.S., M.S. or Ph.D. in a quantitative discipline (e.g. computer science, mathematics, physics) or 4+ years of experience in a data mining/analysis oriented role.<br />
+- You will lead the acquisition, management, analysis and interpretation of user-behaviour and other relevant data.<br />
+- You are excited by the prospect of using data to understand customer journey funnels and the company&rsquo;s performance, and of using this understanding to grow and improve all aspects of the business.<br />
+- You possess an analytical mind. You frame and approach problems from an analytical perspective, and you thrive on using real data to find answers to these questions.<br />
+- You have a strong grasp of statistics. You are comfortable performing statistical analyses and connecting the results of these analyses to real-world actions and events.<br />
+- You are proactive, inquisitive and have a strong drive to see ideas through from conception to realization.<br />
+- You have experience of information retrieval, data mining, data visualization, and related topics.<br />
+- You have excellent programming skills (e.g. Python, Matlab, R, SQL) and a keen interest in acquiring new ones.<br />
+- You have very strong written, verbal and visual communication skills. You are able to formulate ideas and conclusions clearly and to present them effectively to team members across the entire organisation, technical and non-technical alike.</p>
+<p>
+<u><strong>Bonus points if you can demonstrate:</strong></u></p>
+<p>
+- Proficiency with web programming.<br />
+- Experience of analyzing user data (data logging, visualization, dashboard creation, etc).<br />
+- Experience of generating growth within an organization.<br />
+- Experience of optimizing some aspect of an organization&rsquo;s performance.<br />
+- Experience of using distributed computing tools (Hadoop, MapReduce, Hive, Hbase, Pig) for processing and analysing large data sets.</p>
+<p>
+<u><strong>Why work at Duedil?</strong></u></p>
+<p>
+Become part of the Duedil team and you&rsquo;ll receive all the tech equipment you need to do the best work possible, whether you&rsquo;re an Apple fanboy or some sort of strange Windows user.<br />
+We believe that sometimes you need to work from home (no Marissa Meyer here) and that you might need to leave early/get in late to let the cat out or whatever. That&rsquo;s cool.<br />
+You&rsquo;ll get lunch paid for every day by the boss and if you&rsquo;re lucky, someone might have baked a cake.<br />
+We have *lots* of Nerf guns.<br />
+Basically, we&rsquo;re awesome. Come work for us.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/duedil/01KAgv"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130603100446_N5HC9RP8NADPJVR7]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front-end Developer - HCI/D3.js]]></title>
+			<department><![CDATA[Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://duedil.theresumator.com/apply/jSZKQ0/Frontend-Developer-HCID3js.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[EC1R 5EY]]></postalcode>
+			<description><![CDATA[<p>
+<u><strong>Front-end Developer - HCI</strong></u></p>
+<p>
+We need you to help us continue building a platform that answers the needs of the largest user base of business-to-business decision makers in the UK, and with it become the data backbone of business. We&rsquo;ve just opened up data in 20 new countries, closed a $5m Series A funding round, taken over a floor at the awesome new Warner Yard space in Clerkenwell and are growing in every way possible.</p>
+<p>
+We&rsquo;re looking for a Front-end Developer with UX experience who is passionate about developing innovative products and great user interfaces with beautiful front-end code.You will be involved in all aspects of the product design process, from design and visualisation of new features to actively implementing them. This is a technical role as much as a design role, meaning you will produce creative concepts and prototypes to communicate solutions to the team, as well as creating complex interfaces and real applications that reach hundreds of thousands of business professionals each day.</p>
+<p>
+<u><strong>Responsibilities:</strong></u></p>
+<p>
+- Be involved in the product design process from conceptualisation, user interface and interaction design, to implementation and usability testing<br />
+- Bring strong creative, conceptual and problem-solving skills to translate conceptual ideas (business needs and user goals) into interaction and design solutions<br />
+- Work closely with our design, development and data science teams, along with Duedil users<br />
+- Be responsible for providing design recommendations to the development teams<br />
+- Create compelling data visualisations that help users to make good decisions<br />
+- Build user interfaces for new features on Duedil<br />
+- Redesign and enhance existing features</p>
+<p>
+<u><strong>Required Skills:</strong></u></p>
+<p>
+- Building interactive solutions using standard web technologies: Expert knowledge of HTML, CSS and Javascript and knowledge of any server side language.</p>
+<p>
+<u><strong>Bonus Points:</strong></u></p>
+<p>
+- Portfolio of all of your projects that demonstrates your skills.<br />
+- Creating data visualisations with use of visualisation libraries such as D3.js, Processing.js, InfoViz etc.<br />
+- BA or MA preferred in Human Factors, Human-Computer Interaction, Industrial Design or a related field, or demonstrated comparable experience designing commercial software products.</p>
+<p>
+<u><strong>Why work at Duedil?</strong></u></p>
+<p>
+Become part of the Duedil team and you&rsquo;ll receive all the tech equipment you need to do the best work possible, whether you&rsquo;re an Apple fanboy or some sort of strange Windows user.<br />
+We believe that sometimes you need to work from home (no Marissa Meyer here) and that you might need to leave early/get in late to let the cat out or whatever. That&rsquo;s cool.<br />
+You&rsquo;ll get lunch paid for every day by the boss and if you&rsquo;re lucky, someone might have baked a cake.<br />
+We have *lots* of Nerf guns.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/duedil/jSZKQ0"></script>]]></buttons>
+		</job>
+	</jobs>

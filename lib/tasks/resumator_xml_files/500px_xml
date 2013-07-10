@@ -1,0 +1,272 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[500px Inc.]]></company>
+			<job>
+			<id><![CDATA[job_20120405202848_U7BKARDILE64QYNP]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://500px.theresumator.com/apply/N9l8cp/Software-Engineer.html]]></url>
+			<city><![CDATA[Toronto]]></city>
+			<state><![CDATA[Ontario]]></state>
+			<country><![CDATA[Canada]]></country>
+			<postalcode><![CDATA[M5V1P9]]></postalcode>
+			<description><![CDATA[<p>
+Software Engineers at 500px create services to solve our technical problems, and develop world-class applications atop our&nbsp;platform.</p>
+<p>
+Typical challenges include:</p>
+<ul>
+<li>
+Optimizing our system at the application, client, and infrastructure level to deliver results with minimum latency</li>
+<li>
+Applying machine learning to our data set to help our users better discover beautiful photographs</li>
+<li>
+Developing algorithms to improve a photograph&#39;s Pulse, based on large numbers of votes and favourites, in real-time</li>
+<li>
+Architecting our real-time search system to deliver the most relevant results rapidly</li>
+<li>
+Working with UI/UX Designers to fuse industrial-grade backend services with world-class UIs</li>
+</ul>
+<p>
+We&#39;re looking for people with:</p>
+<ul>
+<li>
+A Bachelors or Masters&nbsp;degree in Computer Science or Engineering (PhDs or PhD dropouts are a bonus)</li>
+<li>
+Extraordinary software engineering talent</li>
+<li>
+Knowledge of Ruby, Python, JavaScript and C, or the ability to learn them quickly</li>
+<li>
+Experience with web applications, databases, distributed systems and machine learning</li>
+<li>
+A love of photography</li>
+</ul>
+<p>
+Our company has a strong engineering culture, and takes a systems approach to reign in complexity and build robust services.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/500px/N9l8cp"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120731222606_E3G8ARCJWWKHBXPL]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior System Administrator]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://500px.theresumator.com/apply/5G9sYQ/Senior-System-Administrator.html]]></url>
+			<city><![CDATA[Toronto]]></city>
+			<state><![CDATA[Ontario]]></state>
+			<country><![CDATA[Canada]]></country>
+			<postalcode><![CDATA[M5V1P9]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Requirements</strong></p>
+<ul>
+<li>
+Linux &mdash;&nbsp;a solid understanding of command line Linux focusing on deb based distributions.</li>
+<li>
+Networking &mdash;&nbsp;Experience and understanding of networking protocols and troubleshooting.</li>
+<li>
+Knowledge of, but not limited to, iproute2, pcap, iptables, nginx.</li>
+<li>
+Databases &mdash; A solid understanding of MySQL and/or MongoDB&nbsp;redundant setups and troubleshooting failures.</li>
+<li>
+Documentation &mdash; Excellent oral and written English is required.</li>
+<li>
+Fluent in a technical documentation language, such as Latex, POD, XML, etc.</li>
+</ul>
+<p>
+<strong>Test</strong></p>
+<p>
+Please fill in the following questions to the best of your ability. Be creative and effective.</p>
+<p>
+<strong>Linux &amp; Networking</strong></p>
+<ol>
+<li>
+Provide two methods of temporarily adding the IP 192.168.32.12/14 to interface tap0.</li>
+<li>
+An application is failing to start and the log files contain no errors. What steps do you take to troubleshoot the issue?</li>
+<li>
+You wish to dump an AXFR record to file. How do you go about doing this?</li>
+<li>
+You have to retrieve the contents of the root crontab files on 192.168.15.2-192.168.15.35. How would you do this?</li>
+</ol>
+<p>
+<strong>Database</strong></p>
+<ol>
+<li>
+A developer comes to you saying that the &quot;photos from new users&quot; page is running slow. He shows you the query that he thinks is responsible. Describe what steps he should take to speed up this query. State all assumptions.</li>
+<li>
+A developer wants a query that will return the last photo a user took. Assuming that there is a user table and a photo table how would you write the query?</li>
+</ol>
+<p>
+<strong>Documentation</strong> &mdash; please write a document for use by the networking staff to replicate the following install.</p>
+<ol>
+<li>
+Installing MySQL on two servers (ServerA and ServerB)</li>
+<li>
+Configure ServerA to be a master.</li>
+<li>
+Configure ServerB to be a slave.</li>
+<li>
+Create a database containing example data on ServerA.</li>
+<li>
+Replicate the data on ServerB</li>
+<li>
+How to verify the setup is functional.</li>
+</ol>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/500px/5G9sYQ"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121204190942_JOHY5AAC2UU4SKBO]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer, Test]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://500px.theresumator.com/apply/8hvQGZ/Software-Engineer-Test.html]]></url>
+			<city><![CDATA[Toronto]]></city>
+			<state><![CDATA[Ontario]]></state>
+			<country><![CDATA[Canada]]></country>
+			<postalcode><![CDATA[M5V1P9]]></postalcode>
+			<description><![CDATA[<p>
+QA Software Engineers at 500px perform white-box testing against all our services and products to maintain perfection in our user experience.</p>
+<p>
+Typical challenges include:</p>
+<ul>
+<li>
+Working with Software Engineers to ensure all code is unit and integration tested</li>
+<li>
+Developing interface tests for mobile platforms</li>
+<li>
+Load testing and security testing of new services</li>
+<li>
+Debugging intermittent errors in complex systems</li>
+</ul>
+<p>
+We&#39;re looking for people with:</p>
+<ul>
+<li>
+A Bachelors or Masters degree in Computer Science or Engineering (PhDs or PhD dropouts are a bonus)</li>
+<li>
+Extraordinary software engineering talent</li>
+<li>
+Knowledge of Ruby, Python, JavaScript and C, or the ability to learn them quickly</li>
+<li>
+Experience with web applications, databases, distributed systems and test engineering</li>
+<li>
+A love of photography<br />
+&nbsp;</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/500px/8hvQGZ"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121204191842_KENFYAQZDHMRD1IJ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer, Mobile]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://500px.theresumator.com/apply/YiIWfi/Software-Engineer-Mobile.html]]></url>
+			<city><![CDATA[Toronto]]></city>
+			<state><![CDATA[Ontario]]></state>
+			<country><![CDATA[Canada]]></country>
+			<postalcode><![CDATA[M5V1P9]]></postalcode>
+			<description><![CDATA[<p>
+Mobile software engineers at 500px create native applications to showcase the world&#39;s best photographs.</p>
+<p>
+Typical challenges include:</p>
+<ul>
+<li>
+Knowing the strengths and limitations of mobile SDKs inside and out, to deliver the best experience possible on a mobile device</li>
+<li>
+Working with UI/UX Designers to fuse industrial-grade backend services with world-class UIs</li>
+</ul>
+<p>
+We&#39;re looking for people with:</p>
+<ul>
+<li>
+Expert knowledge of Java and&nbsp;the Android SDK; and/or Objective C and the iOS SDK; and/or C# and Windows</li>
+<li>
+Extraordinary software engineering talent</li>
+<li>
+Knowledge of Ruby, Python and Javascript (as a plus)</li>
+<li>
+Previously published mobile applications</li>
+<li>
+A love of photography</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/500px/YiIWfi"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130620180021_O0ULV3KGBSUICDKW]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Product Manager]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://500px.theresumator.com/apply/dd2zyP/Senior-Product-Manager.html]]></url>
+			<city><![CDATA[Toronto]]></city>
+			<state><![CDATA[Ontario]]></state>
+			<country><![CDATA[Canada]]></country>
+			<postalcode><![CDATA[M5V1P9]]></postalcode>
+			<description><![CDATA[<p>
+Product manager at 500px is responsible for <strong>taking product ideas from concept to delivery</strong>. Product managers will be asked to <strong>organize teams</strong> and schedules to ensure project deadlines are met for web and mobile platforms. This involves <strong>leading small teams</strong>, communicating with the founders, team, business and end-customers, organizing the work, and adhering to the product specifications and deadlines.</p>
+<p>
+Product managers must be able to <strong>share in the vision of 500px.</strong> Projects are dynamic and require a level of flexibility due to the nature of a maturing startup environment.</p>
+<p>
+Product Managers must be able to recognize missing competencies in teams and have the ability to identify suitable candidates for both <strong>skills required</strong> and <strong>positive team dynamic</strong>, as such, Product Mangers will be deeply <strong>involved in hiring decisions</strong>.</p>
+<p>
+Ideal candidates will have <strong>4+ years of product management </strong>experience, coming from <strong>software engineering background</strong> with strong knowledge of RoR, Python, MongoDB, and front-end technologies. The candidate has a <strong>passion for photography</strong> and understands the needs of photographers.</p>
+<p>
+&nbsp;</p>
+<p>
+<strong>Typical challenges include:</strong></p>
+<ul>
+<li>
+Working with small dynamic team of developers and designers on frequently evolving product</li>
+<li>
+Adapting and changing the product to the realities of photo-sharing space</li>
+<li>
+Analyzing and formulating features through communication with founders, customers, and business and technical teams.</li>
+<li>
+Interacting with hundreds of customers to formulate required features</li>
+<li>
+Working with team on wireframes and product specification</li>
+<li>
+Scoping projects accurately and structuring development sprints correctly to keep development teams excited and efficient</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+<strong>We are looking for people with:</strong></p>
+<ul>
+<li>
+Strong product manager experience with software engineering background</li>
+<li>
+Extraordinary communication skills</li>
+<li>
+Knowledge of Ruby, Python, JavaScript, HAML, SASS, etc.</li>
+<li>
+Strong knowledge of agile project management software, such as Pivotal Tracker</li>
+<li>
+Experience of working with several teams on cross-platform features</li>
+<li>
+A love of photography</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Senior Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/500px/dd2zyP"></script>]]></buttons>
+		</job>
+	</jobs>

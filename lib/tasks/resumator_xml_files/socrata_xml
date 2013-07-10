@@ -1,0 +1,601 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Socrata]]></company>
+			<job>
+			<id><![CDATA[job_20130603162502_KNCG8UTZYTDO2ZYI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Customer Experience Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://socrata.theresumator.com/apply/V3mMsj/Customer-Experience-Developer.html]]></url>
+			<city><![CDATA[]]></city>
+			<state><![CDATA[(Multiple States)]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+Have a passion for creating innovative and beautiful websites, mobile apps, and data visualizations? Are you interested in helping the world&rsquo;s most influential organizations be more transparent and have a bigger impact? Want to join a small, rapidly growing company, a fun and supportive work environment, and a great group of smart people? If so, read on&hellip;</p>
+<p>
+We are seeking a Customer Experience Developer. This position will be responsible for all of the design and technical aspects of bringing a customer onto the Socrata Open Data Platform&trade;, and ultimately through launch. You will work closely with the customer and our account manager to design and build a visual theme for the site, to set up custom site templates, and to assist customers in importing complex data.</p>
+<p>
+Socrata is the recognized leader in the fast-growing Open Data market. We develop and operate cloud-based SaaS solutions that enable customers to transform their data into accessible resources that can be easily explored, shared and reused. Our customers include standard-setting federal, state and local government organizations such as Data.gov, World Bank, the United Nations, State of Oregon, Kenya, Seattle and Chicago. We are a venture-backed startup, based in Pioneer Square in Seattle.</p>
+<p>
+As this position covers a lot of ground and will be among the first contact a new customer has with our team, we are looking for someone who excels at communicating with customer stakeholders, and is not only comfortable with, but eager to grow into new roles on a daily basis. The ideal candidate will have the following attributes:</p>
+<ul>
+<li>
+Demonstrated proficiency with using HTML/CSS/Javascript/JQuery/AJAX in a production, cross-browser compliant environment</li>
+<li>
+Experience rapid prototyping / lo-fi tools (balsamiq, fireworks, any kind of wireframing)</li>
+<li>
+Exceptional proficiency with XML and/or JSON</li>
+<li>
+Moderate proficiency with at least one programming language (like Java or PHP)</li>
+<li>
+Experience with using at least one scripting language (Ruby, Python, Perl, etc.) to manipulate large datasets</li>
+<li>
+Experience developing applications using a UI framework is a plus</li>
+<li>
+Familiarity with standard design tools such as Adobe Photoshop and Illustrator</li>
+<li>
+Ability to work to customer design specifications, and to work creatively without them when necessary</li>
+<li>
+Enthusiasm for and comfort with working directly with customers</li>
+<li>
+Experience with web development using a content management system a plus</li>
+<li>
+Willingness to learn and apply technical concepts</li>
+<li>
+Ability to wear many hats, or at least a good hat rack</li>
+</ul>
+<p>
+A bachelor&rsquo;s degree in a technical field, or in design is preferred. If you are an accomplished Web developer and designer with the experience and drive to succeed in a fast-paced environment, please submit your resume online. Openings for this position are available in both our Seattle and Washington DC offices.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/socrata/V3mMsj"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130625225946_WUQS1YGXQ3ITJORQ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Director of Engineering]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://socrata.theresumator.com/apply/eyvwL5/Director-Of-Engineering.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About Socrata</strong><br />
+Socrata is the first and only software company in history to focus exclusively on enabling governments to open and &quot;ʺconsumerize&quot;ʺ their vast reserves of untapped data for radically innovative public and internal user experiences. At the city, county, state and national levels of public institutions globally, Socrata software products are providing 21st century data-&shy;‐‑driven web and mobile experiences for improving transparency, measuring performance, and facilitating a new era of fact-&shy;‐‑based decision-&shy;‐‑making. Deploying new inventions in open, scalable, cloud software and providing affordable access with monthly software-&shy;‐‑as-&shy;‐‑a-&shy;‐‑service (SaaS) pricing plans, Socrata solutions shatter legacy cost barriers and deliver significant budget relief for government IT departments.</p>
+<p>
+<br />
+<strong>The Director of Engineering Role</strong><br />
+Socrata is a fast growing company that is in the pole position for open data solutions. We&rsquo;re looking for a strong and seasoned Director of Engineering to run product delivery. If you are interested in managing a talented team of engineers, driving product delivery for a company going through &ldquo;hockey stick&rdquo; growth while at the same time growing the engineering team, this is the job for you.<br />
+We are in an exciting phase of growth, where we are evolving our internal processes and increasing our engineering throughout to match the explosive growth of our business. The Director of Engineering will be responsible for owning the development process. This includes working directly with engineers for building out new features and products as well as working directly with the product management team to keep product direction and schedule in sync.</p>
+<p>
+<strong>Duties and Responsibilities</strong></p>
+<ul>
+<li>
+Reporting to the CTO, lead a talented group of driven engineers to create the next generation of cloud based apps aimed at changing the way people interact with their government.</li>
+<li>
+Grow team rapidly over the next couple years to match the business growth while increasing our ability to release new features.</li>
+<li>
+Coach and grow employees to be both better individual contributors as well as better leads and managers.</li>
+<li>
+Provide visibility and insight across the leadership team into the development velocity and progress.</li>
+</ul>
+<p>
+<strong>Required Skills</strong></p>
+<ul>
+<li>
+At least 5 years of software development experience.</li>
+<li>
+5-10 years of managing a development team.</li>
+<li>
+Experience working in a SaaS service.</li>
+<li>
+Strong communications and analytic skills.</li>
+<li>
+Passion for technology and building software and services.</li>
+<li>
+Experience working on distributed systems or large data systems.</li>
+</ul>
+<p>
+<strong>Desired Skills</strong></p>
+<ul>
+<li>
+Experience working across several types of development processes, and insight about when each works and doesn&rsquo;t.</li>
+<li>
+Experience leading a development group through a high growth phase</li>
+<li>
+Understanding of how modern NoSQL databases work, and what they are good at.</li>
+<li>
+Understanding of how modern SQL databases work, and what they are good at.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/socrata/eyvwL5"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130703185304_01CWBDVJSFSGK1GR]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Federal Partner Manager]]></title>
+			<department><![CDATA[Emerging Markets]]></department>
+			<team><![CDATA[Emerging Markets]]></team>
+			<url><![CDATA[http://socrata.theresumator.com/apply/TQbZ6I/Federal-Partner-Manager.html]]></url>
+			<city><![CDATA[Washington DC]]></city>
+			<state><![CDATA[DC]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Federal Partner Manager Job Description</strong><br />
+<strong>About Socrata</strong></p>
+<p>
+Socrata (www.socrata.com) is a Seattle-based cloud software company, focused exclusively on democratizing access to government data. We help public sector organizations improve transparency, citizen service and fact-based decision-making by efficiently delivering data to citizens, employees and developers in a user-friendly experience on web, mobile and machine-to-machine interfaces.&nbsp;</p>
+<p>
+Ecstatic Socrata customers include: the US Federal Government; many US federal agencies including CDC, the Consumer Financial Protection Bureau, Medicare and SAMHSA; a number of states including Illinois, Maryland, New York, Oregon, Oklahoma, Washington and Colorado; most major US cities including NYC, Chicago, SF, Seattle, Austin, Boston, Atlanta, New Orleans, Dallas and Baltimore; many counties; several foreign governments including the Country of Kenya, Lombardia Italy and Edmonton, AB, Canada; and the most recognizable and prestigious NGOs including the World Bank, the World Food Programme and the United Nations.</p>
+<p>
+Socrata has 48 employees and is headquartered in a vibrant and creative workspace in the Pioneer Square neighborhood in Seattle, WA. The company also has a regional office less than a mile from the White House in Washington.&nbsp;</p>
+<p>
+<strong>The Federal Partner Manager Role</strong><br />
+We&rsquo;re looking for a dynamic, charismatic, enthusiastic individual with a proven track record creating and sustaining a successful partner program focused on selling and delivering technology to the Federal marketplace. &nbsp;</p>
+<p>
+<strong>Duties and Responsibilities</strong></p>
+<ul>
+<li>
+Achieve company&rsquo;s targets for new, indirect customer acquisition and related revenue capture for Federal market</li>
+<li>
+Develop and execute an effective Federal partner strategy</li>
+<li>
+Work directly with and through partners for partner identification, sourcing, assessment and recruitment</li>
+<li>
+Manage, grow, nurture and sustain relationships</li>
+<li>
+Build messaging and materials focused on partner recruitment and enablement</li>
+<li>
+Drive, contribute and develop partner facing marketing content</li>
+<li>
+Refine and convey the Socrata value proposition to partners</li>
+<li>
+Ignite new business with partners</li>
+<li>
+Participate in joint marketing initiatives and events</li>
+<li>
+Advocate and assess partner needs and requests</li>
+</ul>
+<p>
+The scope of the role spans the range of company products and services.&nbsp;&nbsp; Key outcomes include identifying and maximizing partner opportunities for business leverage, scale and revenue growth.&nbsp; Success will be determined by achievement of revenue, customer acquisition and partner recruitment targets and objectives.&nbsp; Collaborating internally, cross-team to coordinate the involvement of Marketing, Sales, Client Services, is of paramount importance.</p>
+<p>
+<strong>Qualifications and Requirements</strong></p>
+<ul>
+<li>
+Demonstrated success in recruiting and working with partners in the Federal marketplace</li>
+<li>
+Experience selling to the public sector and selling through partners at the Federal level</li>
+<li>
+Direct understanding of Federal contracting and procurement</li>
+<li>
+Expertise in and a passion for open data, data visualization, performance management</li>
+<li>
+Demonstrated ability to understand customer needs and articulate technology solutions</li>
+<li>
+Proven success working with senior technology leaders in the Federal IT space</li>
+<li>
+Exceptional organizational and communication skills</li>
+<li>
+A bachelor&rsquo;s degree is required. A bachelor&rsquo;s degree in computer science, information technology, or business preferred.&nbsp;</li>
+<li>
+5+ years partner channel experience in technology industry</li>
+</ul>
+<p>
+<strong>Compensation</strong><br />
+Socrata offers a competitive salary including a generous stock option package and full employee benefits.<br />
+This role is based in Washington D.C. office.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/socrata/TQbZ6I"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130630143641_LUMM0PGW2EZ1UCC1]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Project Manager - Seattle]]></title>
+			<department><![CDATA[Client Services]]></department>
+			<team><![CDATA[Client Services]]></team>
+			<url><![CDATA[http://socrata.theresumator.com/apply/r5TG9Q/Project-Manager-Seattle.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98103]]></postalcode>
+			<description><![CDATA[<p>
+Socrata is seeking a project manager with open data, data visualization, and user experience expertise to join our Seattle office. In this role you will lead high-profile open data, transparency, data visualization, and related projects. You will manage schedule, scope, budget, quality &amp; rollout activities. You will lead user experience tasks to understand users, create wireframes, and manage graphic design deliverables. You will help build and launch innovative data portals and data visualization applications. You will work with influential customers like the World Bank, Data.gov, New York City, Baltimore, Seattle, Hawaii, Maryland, New York State, USAID, Health and Human Services, the United Nations, and numerous other public sector organizations. You will work with an amazing group of talented people in a fast-paced technology startup environment.</p>
+<p>
+Responsibilities:</p>
+<ul>
+<li>
+Ensure customer satisfaction of solutions by managing client expectations with regard to schedule, scope, quality, risks and budget.</li>
+<li>
+Provide day-to-day management and status activities between project team and client.</li>
+<li>
+Develop, track, and update project schedules and budgets for clients.</li>
+<li>
+Monitor project status and manage tasks, scope, and deliverables</li>
+<li>
+Facilitate communication within the development team about risks, issues, and approaches.</li>
+<li>
+Lead UX tasks such as user research, information architecture, wireframes, content strategy, etc.</li>
+<li>
+Provide project status reports to management team and clients describing the state of the project.</li>
+<li>
+Understand customer priorities and keep teams focused on the big picture, while keeping track of important details.</li>
+</ul>
+<p>
+Qualifications:</p>
+<ul>
+<li>
+Must possess at least 2 years of technical project management experience.</li>
+<li>
+Must have some UX experience for web or mobile application development.</li>
+<li>
+Must have experience in and a passion for open data, data visualization or related topics.</li>
+<li>
+Must have experience with managing customers.</li>
+<li>
+Must be detail oriented.</li>
+<li>
+Requires an understanding of basic Internet technologies.</li>
+<li>
+Requires an understanding of project management techniques and tools.</li>
+<li>
+Requires proven ability to work well independently as well as part of a team.</li>
+<li>
+Requires strong communication(verbal and written) skills with other team members and clients.</li>
+<li>
+Requires discipline to keep estimates,documentation, and timekeeping up to date.</li>
+<li>
+Experience working with an agency or professional services firm in a consulting environment a plus.</li>
+<li>
+Previous experience as a developer with hands on development experience (in technologies such as PHP,MySQL, --AJAX, JavaScript, HTML and CSS) a plus.</li>
+<li>
+Experience with waterfall and agile project methodologies is a plus</li>
+<li>
+Must be eligible to work in the US.</li>
+</ul>
+<p>
+This postion is in Seattle, WA</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/socrata/r5TG9Q"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130621182221_2VIYBJXCN41IFSOS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Project Manager - Washington, DC]]></title>
+			<department><![CDATA[Client Services]]></department>
+			<team><![CDATA[Client Services]]></team>
+			<url><![CDATA[http://socrata.theresumator.com/apply/PaswMV/Project-Manager-Washington-DC.html]]></url>
+			<city><![CDATA[Washington]]></city>
+			<state><![CDATA[DC]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[20002]]></postalcode>
+			<description><![CDATA[<p>
+Socrata is seeking a project manager with open data, data visualization, and user experience expertise to join our DC office. In this role you will lead high-profile open data, transparency, data visualization, and related projects. You will manage schedule, scope, budget, quality &amp; rollout activities. You will lead user experience tasks to understand users, create wireframes, and manage graphic design deliverables. You will help build and launch innovative data portals and data visualization applications. You will work with influential customers like the World Bank, Data.gov, New York City, Baltimore, Maryland, New York State, USAID, Health and Human Services, the United Nations, and numerous other public sector organizations. You will work with an amazing group of talented people in a fast-paced technology startup environment.</p>
+<p>
+Responsibilities:</p>
+<p>
+-Ensure customer satisfaction of solutions by managing client expectations with regard to schedule, scope, quality, risks and budget.<br />
+-Provide day-to-day management and status activities between project team and client.<br />
+-Develop, track, and update project schedules and budgets for clients.<br />
+-Monitor project status and manage tasks, scope, and deliverables<br />
+-Facilitate communication within the development team about risks, issues, and approaches.<br />
+-Lead UX tasks such as user research, information architecture, wireframes, content strategy, etc.<br />
+-Provide project status reports to management team and clients describing the state of the project.<br />
+-Understand customer priorities and keep teams focused on the big picture, while keeping track of important details.</p>
+<p>
+Qualifications:</p>
+<p>
+-Must possess at least 2 years of technical project management experience.<br />
+-Must have some UX experience for web or mobile application development.<br />
+-Must have experience in and a passion for open data, data visualization or related topics.<br />
+-Must have experience with managing customers.<br />
+-Must be detail oriented.<br />
+-Requires an understanding of basic Internet technologies.<br />
+-Requires an understanding of project management techniques and tools.<br />
+-Requires proven ability to work well independently as well as part of a team.<br />
+-Requires strong communication(verbal and written) skills with other team members and clients.<br />
+-Requires discipline to keep estimates,documentation, and timekeeping up to date.<br />
+-Experience working with an agency or professional services firm in a consulting environment a plus.<br />
+-Previous experience as a developer with hands on development experience (in technologies such as PHP,MySQL, --AJAX, JavaScript, HTML and CSS) a plus.<br />
+-Experience with waterfall and agile project methodologies is a plus<br />
+-Must be eligible to work in the US.</p>
+<p>
+This postion is in Seattle, WA or Washington, DC</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/socrata/PaswMV"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130705183848_3UGIWID6VFTULXAA]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Regional Director Client Services]]></title>
+			<department><![CDATA[Client Services]]></department>
+			<team><![CDATA[Client Services]]></team>
+			<url><![CDATA[http://socrata.theresumator.com/apply/kZ7xWW/Regional-Director-Client-Services.html]]></url>
+			<city><![CDATA[Washington]]></city>
+			<state><![CDATA[DC]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[20002]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Job Description</strong></p>
+<p>
+Socrata (www.socrata.com) is seeking an experienced project director to join our DC office to oversee a portfolio of high-profile open data, transparency, data visualization, and related projects. In this role you will work with influential customers like the World Bank, Data.gov, New York City, USAID, Health and Human Services, the United Nations, and numerous other high-profile public sector organizations doing cool and important work. You will work with an amazing group of talented people in a fast-paced technology startup environment with tremendous growth opportunities.</p>
+<p>
+<br />
+<strong>Responsibilities:</strong></p>
+<ul>
+<li>
+Oversee a team and ensure the success of a portfolio of high-profile projects focused on open data, data visualization and data-driven performance management.</li>
+<li>
+Ensure customer satisfaction by managing client expectations with regard to schedule, scope, quality, risks and budget.</li>
+<li>
+Understand key customer objectives and keep project teams focused on the big picture.</li>
+<li>
+Support project managers and other team members and ensure their success in managing detailed tasks, ensuring quality, and delivering on time and on budget.</li>
+<li>
+Proactively communicate with customers, keeping them informed and engaged throughout projects, resolving issues, and responding to customer requests.</li>
+<li>
+Support the Director of Client Services in continually improving the company&#39;s approach to delivery.</li>
+</ul>
+<p>
+<strong>Desired Skills, Experience, and&nbsp;</strong><strong>Qualifications:</strong></p>
+<ul>
+<li>
+Must possess at least 10 years of technical project management experience</li>
+<li>
+Must have 5 years experience managing a team and overseeing direct reports.</li>
+<li>
+Must have experience with managing clients in a vendor / customer relationship.</li>
+<li>
+Must be an expert in various project management methodologies and tools, and have the ability to apply them flexibly to meet the needs of a given engagement or customer.</li>
+<li>
+Must have demonstrated experience with and a passion for data, transparency, data visualization, mapping, and related topics.</li>
+<li>
+Must have strong communication (verbal and written) skills with other team members and clients.</li>
+<li>
+Must have demonstrated experience to managing budgets and project schedules.</li>
+<li>
+Experience working with an agency or professional services firm in a consulting environment a plus.</li>
+<li>
+Domain expertise in health, international development, intelligence, and related sectors a plus</li>
+<li>
+Must be eligible to work in the US.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Senior Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/socrata/kZ7xWW"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130510220507_OKZHULHF9YJEPF32]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Site Reliability Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://socrata.theresumator.com/apply/OhhgXE/Site-Reliability-Engineer.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98104]]></postalcode>
+			<description><![CDATA[<p>
+&nbsp;</p>
+<p>
+Socrata is a Data Experience company. A significant part of that job is to keep our servers up, our operations smooth and to be able to react to issues quickly. We believe the best way to get rid of human errors in operations is to get rid of humans in operations. We&rsquo;re looking for an enthusiastic operations engineer, with a penchant for automating everything.</p>
+<ul>
+<li>
+At least 4 years of professional software engineering experience or operations experience.</li>
+<li>
+Demonstrated proficiency with Chef or Puppet.</li>
+<li>
+Proficiency with at least one dynamically typed scripting language like Ruby, Python, or Perl.</li>
+<li>
+Demonstrated excellence working with traditional RDBMS and NoSQL database technologies including PostgreSQL, Cassandra, Redis, etc.</li>
+<li>
+Extensive experience with Linux, TCP/IP, load balancing, and production web services.</li>
+<li>
+Familiarity with queueing services such as ActiveMQ, 0MQ, etc.</li>
+<li>
+Comfort working with physical hardware (This position requires occasional visits to datacenters, including heavy lifting of server hardware for mounting.)</li>
+<li>
+Comfortable working in a heterogeneous development environment where you&rsquo;ll be working with multiple development languages and technologies.</li>
+<li>
+Comfortable working occasionally on the front-end, including javascript, HTML and CSS.</li>
+<li>
+Self starter who&rsquo;s anxious to start producing.</li>
+</ul>
+<p>
+This position is based in our office in Seattle, WA.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/socrata/OhhgXE"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130626233252_EH0NESELXIKNSIK4]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[UX Designer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://socrata.theresumator.com/apply/heacN1/UX-Designer.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98108]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About Socrata</strong></p>
+<p>
+Socrata is the first and only software company in history to focus exclusively on enabling governments to open and &quot;consumerizeʺ their vast reserves of untapped data for radically innovative public and internal user experiences. At the city, county, state and national levels of public institutions globally, Socrata software products are providing 21st century data-driven web and mobile experiences for improving transparency, measuring performance, and facilitating a new era of fact-based decision-making. Deploying new inventions in open, scalable, cloud software and providing affordable access with monthly software-as-a-service (SaaS) pricing plans, Socrata solutions shatter legacy cost barriers and deliver significant budget relief for government IT departments.</p>
+<p>
+<strong>The UX Designer Role</strong></p>
+<p>
+Socrata is a fast growing company that is in the pole position for open data solutions.&nbsp; The open data movement is growing incredibly fast, and many impressive customers are throwing their weight (and their data) behind it.&nbsp; Names such as: Chicago, Seattle, New York, the White House, World Bank and other institutions you would have heard of.&nbsp;</p>
+<p>
+We believe the next phase of open data is not just about adding more data to the mix.&nbsp; Instead, it is about introducing the applications and consumer UI that will make this data relevant to both constituents as well as government workers.</p>
+<p>
+We are looking for a UI Designer to help create the consumer interface on mountains of data being opened up every day by governments and other public institutions.</p>
+<p>
+Responsibilities:</p>
+<ul>
+<li>
+Work with program and product management to distill product. requirements into UI concepts and designs.</li>
+<li>
+Prototype and iterate over new designs for the suite of Socrata products.</li>
+<li>
+Build design and user flows to hand off to development.</li>
+<li>
+Work with users to improve usability and product feel.</li>
+<li>
+Be a force for constant UI improvement across all Socrata products.</li>
+</ul>
+<p>
+Required skills:</p>
+<ul>
+<li>
+At least 5 years in the technology industry, designing customer-facing applications.</li>
+<li>
+Strong design sense, backed up by a killer portfolio.</li>
+<li>
+Great communication, and desire to work collaboratively with people across the company.</li>
+<li>
+Self starter who&rsquo;s anxious to start producing.</li>
+<li>
+Strong CSS + HTML skills.</li>
+<li>
+Experience building UI through user testing and iterative design.</li>
+<li>
+Familiarity with JQuery and Javascript strongly desired.</li>
+</ul>
+<p>
+This position is based in our Seattle offices.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/socrata/heacN1"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130621234415_NVLCMJI1CGV0ZECE]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[VP of Marketing]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Executive]]></team>
+			<url><![CDATA[http://socrata.theresumator.com/apply/4XtCr3/VP-Of-Marketing.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98104]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About Socrata</strong><br />
+Socrata is the first and only software company in history to focus exclusively on enabling governments to open and &quot;consumerize&quot; their vast reserves of untapped data for radically innovative public and internal user experiences. At the city, county, state and national levels of public institutions globally, Socrata software products are providing 21st century data-driven web and mobile experiences for improving transparency, measuring performance, and facilitating a new era of fact-based decision-making. Deploying new inventions in open, scalable, cloud software and providing affordable access with monthly software-as-a-service (SaaS) pricing plans, Socrata solutions shatter legacy cost barriers and deliver significant budget relief for government IT departments.&nbsp;</p>
+<p>
+<br />
+Ecstatic Socrata customers include: the US Federal Government; many US federal agencies including CDC, the Consumer Financial Protection Bureau, Medicare and SAMHSA; a number of states including Illinois, Maryland, New York, Oregon, Oklahoma, Washington and Colorado; most major US cities including NYC, Chicago, SF, Seattle, Austin, Boston, Atlanta, New Orleans, Dallas and Baltimore; many counties; several foreign governments including the Country of Kenya, Lombardia Italy and Edmonton, AB, Canada; and the most recognizable and prestigious NGOs including the World Bank, the World Food Programme and the United Nations.</p>
+<p>
+<br />
+Socrata has 48 employees and is headquartered in a vibrant and creative workspace in the Pioneer Square neighborhood in Seattle, WA. The company also has a regional office less than a mile from the White House in Washington, DC. Socrata has raised $25M in venture backing to date, from OpenView Venture Partners, Morgenthaler Ventures and Frazier Technology Ventures. You can learn more about Socrata at www.socrata.com.</p>
+<p>
+<br />
+<strong>The VP of Marketing Role</strong><br />
+Socrata is looking for a distinguished VP of Marketing, to lead and oversee all of the company&rsquo;s marketing activities. We seek an accomplished marketing executive whose efforts have helped grow revenues significantly over a sustained period of time. The overarching goal of the marketing team is to &ldquo;make sales easy&rdquo; &ndash; whether those sales come from our direct sales team, our partner channels or self-selection through our website.&nbsp; We seek a unique, talented and capable individual who brings both the ability to help define, shape and lead the strategic, long-term marketing direction, but also someone who will be hands on executing the tactics that align to the marketing strategy and the company&rsquo;s business goals.</p>
+<p>
+<br />
+The VP of Marking position is an important and strategic executive leadership role reporting directly to the CEO with significant visibility and interaction with the company&rsquo;s Board of Directors and advisors. We exclusively seek an individual who has the intellect, drive, passion, energy and experience to lead the company to success via creative and cost effective marketing programs. We are looking for someone who is mentally and physically prepared to make the undivided and unequivocal commitment to ensure that success is achieved.&nbsp; The position is based in our headquarters in Seattle, WA.</p>
+<p>
+<br />
+<strong>Duties and Responsibilities</strong><br />
+&bull; Partner with the CEO and leadership team with the sole ambition of leading the company to enormous success. This definition of the role trumps all others<br />
+&bull; Set the market positioning and messaging for the company ensuring and extending a strong brand for the company and its products<br />
+&bull; Increase the brand awareness perception in our target customer segments<br />
+&bull; Create the company&rsquo;s content strategy, supported by a content marketing factory that consistently creates and publishes meaningful content &ndash; on our website, distributed broadly and for use internally<br />
+&bull; Iteratively revamp our website so that it supports our target customer segments and target buyer profiles and makes it easy to add content aimed at specific targets (from the factory) to our website<br />
+&bull; Set the marketing strategy, leadership and direction for effective inbound (SEO, social media, specific forums, etc.) lead generation<br />
+&bull; Set the marketing strategy, leadership and direction for effective outbound demand generation to create more leads<br />
+&bull; Partner with our VP of Products to create a &quot;friction free&quot; approach to get interested people that come to our website to be able to easily try and, perhaps, buy some basic products<br />
+&bull; Drive influencers (writers, editors, industry luminaries, key customers, industry analysts, etc.) to speak, write, and recommend the company and its products<br />
+&bull; Partner with the VP of Sales and VP of Public Sector to identify and prioritize the sales enablement tools and materials required for the direct sales unit to be successful<br />
+&bull; Devise effective partner marketing and field marketing efforts for our North American and International public sector markets&nbsp;</p>
+<p>
+<br />
+<strong>Qualifications and Requirements</strong><br />
+&bull; Proven leadership experience as a marketing executive in a fast-paced, preferably venture-backed company with overall responsibility for meeting the company&rsquo;s marketing objectives, leading its marketing strategy and setting its marketing vision and direction<br />
+&bull; Quantifiable evidence of your marketing leadership resulting in sustained, strong revenue and pipeline growth over a multi-year period (provide details)<br />
+&bull; A complete marketing mix of experience &ndash; Demand Generation, Lead Generation, Partner Marketing, Field Marketing, Analyst Relations, Online, Advertising, Media, Promotions and PR<br />
+&bull; 10+ years of marketing leadership experience with preferably a minimum of 4 years in a SaaS business, with significant focus on lead generation development<br />
+&bull; Experience marketing software products to public sector organizations is strongly preferred<br />
+&bull; Exceptional written and verbal communications skills and a proven track record of managing clear and compelling content creation for non-technical audiences (provide samples)<br />
+&bull; Experience setting marketing strategy and direction for software products offered within the US as well as internationally<br />
+&bull; Ability to drive targeted traffic to the website<br />
+&bull; Demonstrated ability to develop effective lead generation programs<br />
+&bull; Strategic positioning experience, ideally in an aggressive, ever changing environment<br />
+&bull; Proven track record of recruiting, developing, managing and mentoring a professional team of marketing professionals<br />
+&bull; Ability to ramp up quickly during periods of rapid growth<br />
+&bull; Must be able to demonstrate creative thinking with analytical rigor and a commitment to meet the financial goals and other key performance indicators (qualified leads, conversion rates, etc.) of the company<br />
+&bull; Demonstrates a &ldquo;time is of the essence&rdquo; mentality resulting in a sense of urgency in driving meaningful and measurable results<br />
+&bull; Extensive network of marketing services providers/contractors<br />
+&bull; BA/BS degree or equivalent (MBA is a plus)</p>
+<p>
+<br />
+<strong>Compensation</strong><br />
+Socrata offers a competitive salary including a generous stock option package and full employee benefits including relocation reimbursement, if necessary.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Executive]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/socrata/4XtCr3"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130309005135_UHIMXOYEPSIKULAZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web UI Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://socrata.theresumator.com/apply/8X0gSd/Web-UI-Developer.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98104]]></postalcode>
+			<description><![CDATA[<p>
+If you really like building beautiful, effective user experiences and are excited by a product that is used by many different types of people, you should talk to us. We host a lot of important data and want to build the best ways for people to interact with that data. For some people, this means creating the pages and visualizations to tell a story with their data, for others this means having pre-built UIs to help them answer important questions.</p>
+<p>
+We&rsquo;re looking for an exceptionally strong and accomplished software engineer with significant experience and passion for building deep meaningful user experiences:</p>
+<ul>
+<li>
+Proficiency in Javascript, JQuery, HTML and CSS</li>
+<li>
+Proficiency in some server-side programming, e.g. Node, Ruby on Rails, Java</li>
+<li>
+Comfortable both designing UX as well as building UI</li>
+<li>
+Comfortable working with JSON</li>
+<li>
+Knowledge of version control, especially Git</li>
+<li>
+Excellent communicator</li>
+<li>
+Natural mentor and teacher</li>
+<li>
+Self starter who&rsquo;s anxious to start producing</li>
+<li>
+If you can ride a unicycle or juggle or have other krazy circus skilz, you&rsquo;ll probably fit right in</li>
+</ul>
+<p>
+This position is based in our office in Seattle, WA. If you have the drive and experience to succeed at Socrata, apply here.&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/socrata/8X0gSd"></script>]]></buttons>
+		</job>
+	</jobs>

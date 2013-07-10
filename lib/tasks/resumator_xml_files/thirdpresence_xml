@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[ThirdPresence]]></company>
+			<job>
+			<id><![CDATA[job_20120222122811_E0RTFX3VKBLMRJFQ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Mobile and Front-end Developer]]></title>
+			<department><![CDATA[R&D]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://thirdpresence.theresumator.com/apply/hgDbpQ/Mobile-And-Frontend-Developer.html]]></url>
+			<city><![CDATA[Helsinki]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Finland]]></country>
+			<postalcode><![CDATA[00240]]></postalcode>
+			<description><![CDATA[<p>
+We are looking for a front-end and mobile developer to help us build our next-generation multi-platform video publishing solutions.</p>
+<p>
+Our job is to help our customers publish their video content on any device, anywhere in the world. You will have the opportunity to work in a diverse field of content management solutions, mobile websites, mobile apps and ConnectedTVs.</p>
+<p>
+Your responsibilities will include creating new video player concepts and user interfaces, designing and implementing web-based user-interfaces and integrating our publishing technology with existing content management and ad serving platforms.</p>
+<p>
+You must be prepared to work with a set of different technologies and languages including iOS, Android, Windows Phone, Javascript, Actionscript, HTML5, CSS, JQuery, GWT, Ajax and JSON.</p>
+<p>
+The ideal candidate we are looking for</p>
+<ul>
+<li>
+has a start-up attitude and wants to be part of a great story</li>
+<li>
+has the flexibility required by a fast-paced, constantly evolving environment</li>
+<li>
+has experience in developing multi-platform applications and user interfaces</li>
+</ul>
+<p>
+Knowledge of video and streaming technologies is a plus.</p>
+<p>
+The position offers a compensation package consisting of salary and stock options. Other benefits include a mobile phone, health care plan and paid holidays.</p>
+<p>
+About ThirdPresence</p>
+<p>
+ThirdPresence is a cloud-based Software-as-a-Service (SaaS) platform that enables media companies and online video publishers to stream video-on-demand, podcasts and live video content to any video-capable mobile phone or tablet, including the Apple iPhone, iPad, Android, BlackBerry and Windows Phone &ndash;based devices. ThirdPresence also enables monetization of the content either by advertising, subscription or pay-per-view, and provides detailed tracking of content usage.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/thirdpresence/hgDbpQ"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120412080135_EBOYYI4FHDLBKYRA]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Video Engineer]]></title>
+			<department><![CDATA[R&D]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://thirdpresence.theresumator.com/apply/Nta6oi/Video-Engineer.html]]></url>
+			<city><![CDATA[Helsinki]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[Finland]]></country>
+			<postalcode><![CDATA[00240]]></postalcode>
+			<description><![CDATA[<p>
+	We are looking for a video engineer to help us build our next-generation multi-platform video publishing solutions.</p>
+<p>
+	Our job is to help our customers publish and monetize their video content on any device, anywhere in the world. You will have the opportunity to work in a diverse field of content management solutions, mobile websites, mobile apps and ConnectedTVs.</p>
+<p>
+	You must be prepared to work with a wide range of video and audio encoding technologies, delivery protocols and publishing tools. You also know your way around Linux, MySQL and Java. Previous experience with cloud-based solutions is a plus but not a requirement.</p>
+<p>
+	Your responsibilities will include creating new encoding workflows and content management practices, optimizing the flow of content from our customers to end-users and ensuring great end-user experiences for millions of people across the world.</p>
+<p>
+	The position offers a compensation package consisting of salary and stock options. Other benefits include a mobile phone, health care plan and paid holidays.</p>
+<p>
+	The ideal candidate we are looking for</p>
+<ul>
+	<li>
+		has a start-up attitude and wants to be part of a great story</li>
+	<li>
+		has the flexibility required by a fast-paced, constantly evolving environment</li>
+	<li>
+		has experience in video technologies across different device categories</li>
+</ul>
+<p>
+	About ThirdPresence</p>
+<p>
+	ThirdPresence is a cloud-based Software-as-a-Service (SaaS) platform that enables media companies and online video publishers to stream video-on-demand, podcasts and live video content to any video-capable mobile phone or tablet, including the Apple iPhone, iPad, Android, BlackBerry and Windows Phone &ndash;based devices. ThirdPresence also enables monetization of the content either by advertising, subscription or pay-per-view, and provides detailed tracking of content usage.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/thirdpresence/Nta6oi"></script>]]></buttons>
+		</job>
+	</jobs>

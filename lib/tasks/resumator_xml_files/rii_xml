@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Rhode Island Interactive / NIC / RI.gov]]></company>
+			<job>
+			<id><![CDATA[job_20121030180442_48Q6IBJAQPJCHSLE]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Application Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://rii.theresumator.com/apply/KAP2T5/Web-Application-Developer.html]]></url>
+			<city><![CDATA[Providence]]></city>
+			<state><![CDATA[RI]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[02908]]></postalcode>
+			<description><![CDATA[<p>
+Rhode Island Interactive would like to add an additional Web developer and operations specialist to its small team in Providence, RI. A subsidiary of NIC, Inc. &#91;Nasdaq:EGOV&#93;, we make award-winning online services for the state of Rhode Island and manage the RI.gov portal.</p>
+<p>
+Working here in our Providence office, you&#39;ll be programming in the Ruby language using the Rails framework and test-driven development practices to build complex Web applications. Your applications will have an immediate impact, helping our state government serve its citizens and business efficiently.</p>
+<p>
+Applicants should have experience with Ruby on Rails, be comfortable managing code with git and writing automated tests using RSpec, MiniTest and Capybara. You&#39;ll be provided opportunities to build on your current skills, but you get some bonus points for experience with MongoDB, Oracle, Java, Perl, PHP, Puppet. Strong communications skills are also an important trait, as you will be collaborating with our team and state decision makers to map out the best way to bring an offline paper process online.</p>
+<p>
+Benefits include a comprehensive health package for employee and spouse/dependents, matching 401k contributions, and attendance to training sessions and conferences. Additional advancement opportunities are available if you are interested in relocating to other NIC operations around the country.</p>
+<p>
+If this sounds like a career you would enjoy, please send a resume and cover letter via e-mail in response to this post. Include URLs and information about projects you have worked on, any open source contributions you have made, and your Github profile or other appropriate CV links as applicable.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/rii/KAP2T5"></script>]]></buttons>
+		</job>
+	</jobs>

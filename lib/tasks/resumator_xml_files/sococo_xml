@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Sococo]]></company>
+			<job>
+			<id><![CDATA[job_20120402214740_MLRJVZEODEMFKT5L]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[C++ Client Platform Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://sococo.theresumator.com/apply/95YBZh/C-Client-Platform-Engineer.html]]></url>
+			<city><![CDATA[Mountain View, CA]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94041]]></postalcode>
+			<description><![CDATA[<h2>Responsibilities</h2><p>Join our client platform team in building out Sococo&#39;s mission critical real-time communication technologies. The Sococo Client Platform currently runs on Linux, Mac, Windows &amp; iOS. The voice and video engine are based on the internals of Google&#39;s WebRTC family of technologies. Work with some of the smartest people in the industry on tough problems related to dynamic topology management, enterprise firewall traversal and audio &amp; video signal processing.</p><h4>Must Have</h4><ul><li>5+ years experience writing multi-threaded applications (prefer media-related)</li><li>Multi-platform (Linux, Mac, Windows, iOS)&nbsp;programming&nbsp;experience</li><li>Experience with profiling and optimization</li><li>Ability to do network &amp; bandwidth usage analysis (wireshark, netmon, tcpdump, packet parsers etc)</li><li>Fluent&nbsp;in C and&nbsp;C++</li></ul><h4>Should Have</h4><ul><li>Experience with audio &amp; video signal processing</li><li>Good understanding of UDP-based streaming media protocols</li><li>Good understanding of STUN, firewall traversal</li></ul><h4>Nice to Have</h4><ul><li>Experience with mobile or embedded native media applications on 3G/4G networks</li><li>Experience WebRTC family of technologies</li><li>Good understanding of streaming media encryption schemes</li><li>Experience embedding scripting systems such as Google V8, Python, or Lua</li><li>Experience with SIP &amp; RTP</li></ul><br /><h4>About Sococo</h4><p>Our first product, Team Space, is a mission critical communications platform for distributed teams. We&#39;ve been covered by folks like Mashable, WSJ, VentureBeat, Gartner, CIO, and the Silicon Valley Business Journal.</p><p><strong>Work with the best people</strong>. We&#39;re smart, focused and we come into work fired up. We want to fundamentally change the way people communicate.</p><p><strong>Be valued.</strong> We offer highly competitive salary, stock options, comprehensive benefits, 401k savings plans, and generous vacation. Every employee has the power to have a broad impact on Sococo.</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/sococo/95YBZh"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20111216002815_E8B14KJRJPJBINRZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[iOS Application Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://sococo.theresumator.com/apply/hOFxhm/IOS-Application-Developer.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94041]]></postalcode>
+			<description><![CDATA[<h2>Responsibilities</h2><p>Sococo is seeking a full-time iOS developer who has a passion for user interfaces. We&#39;re deploying the first mobile version of Sococo Team Space to the iPad and we are looking for a creative and flexible engineer to help us get there.</p><p>You&#39;ll be working with our cross-platform team to help integrate our real-time voice, video, and presence engine with an interface designed from the ground up to be a native iPad experience.</p><h4>Must Have</h4><ul><li>At least 2 years experience in Objective-C, iOS/MacOS</li><li>An eye for beautiful UI, and the tenacity to get it right</li><li>Delivered a consumer product on iOS</li></ul><h4>Should Have</h4><ul><li>Experience with CALayers or lower rendering tech</li><li>pthread-level multi-threaded programming experience</li></ul><h4>Nice to Have</h4><ul><li>Experience with streaming voice and video</li></ul><br /><h4>About Sococo</h4><p>Our first product, Team Space, is a mission critical communications platform for distributed teams. We&#39;ve been covered by folks like Mashable, WSJ, VentureBeat, Gartner, CIO, and the Silicon Valley Business Journal.&nbsp;</p><p><strong>Work with the best people.</strong> We&#39;re smart, focused and we come into work fired up. We want to fundamentally change the way people communicate.</p><p><strong>Be valued. </strong>We offer highly competitive salary, stock options, comprehensive benefits, 401k savings plans, and generous vacation. Every employee has the power to have a broad impact on Sococo.</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/sococo/hOFxhm"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20111215201431_L1T67NHMKPD2OG7S]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Java Server Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://sococo.theresumator.com/apply/mjz2Tz/Java-Server-Engineer.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94041]]></postalcode>
+			<description><![CDATA[<h2>Responsibilities</h2><p>Sococo is looking for an experienced Java software engineer to join our team of industry veterans. The Sococo server platform enables real-time distributed communication and collaboration applications such as our Sococo Team Space service. The ideal candidate will have experience with Java server technologies, SQL databases and a solid understanding of multi-threaded real time programming techniques.</p><h4>Must Have</h4><ul><li>3 or more years developing commercial grade software</li><li>BS in Computer Science or equivalent experience</li><li>Experience with Java enterprise technologies (JEE 5 or 6, EJB3)</li></ul><h4>Should Have</h4><ul><li>Worked with scalable and high availability systems</li><li>Experience with network programming or real-time systems</li><li>Experience with SQL</li><li>Experience with JMS</li></ul><h4>Nice To Have</h4><ul><li>Specific experience with JBoss, MySQL, Hibernate</li><li>Experience with scale database design and architecture</li></ul><h4>Perks</h4><ul><li>Passionate, engaged people and a friendly work environment</li><li>Competitive comp including 401k, stock options, and comprehensive benefits</li><li>Great downtown Mountain View location (delicious food, good weather, startup environment)</li></ul><br /><h4>About Sococo</h4><p>Our first product, Team Space, is a mission critical communications platform for distributed teams. We&#39;ve been covered by folks like Mashable, WSJ, VentureBeat, Gartner, CIO, and the Silicon Valley Business Journal.&nbsp;</p><p><strong>Work with the best people.</strong> We&#39;re smart, focused and we come into work fired up. We want to fundamentally change the way people communicate.</p><p><strong>Be valued. </strong>We offer highly competitive salary, stock options, comprehensive benefits, 401k savings plans, and generous vacation. Every employee has the power to have a broad impact on Sococo.</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/sococo/mjz2Tz"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120507152653_7KZJJYBT69R3GVEE]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Javascript Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://sococo.theresumator.com/apply/xRBuaC/Senior-Javascript-Developer.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94041]]></postalcode>
+			<description><![CDATA[<h2>
+	What</h2>
+<ul>
+	<li>
+		Play a crucial role in building out Sococo&#39;s next generation of web based real-time communication technologies.</li>
+	<li>
+		Be passionate about and have experience developing responsive, highly interactive javascript applications, start to finish.</li>
+	<li>
+		Work directly with our design team breaking down specs and providing your expertise and insight in building beautiful and usable interfaces.</li>
+</ul>
+<h2>
+	How</h2>
+<ul>
+	<li>
+		Backbone for client-side MVC</li>
+	<li>
+		LESS for CSS</li>
+	<li>
+		JSON w/ our REST API</li>
+</ul>
+<h2>
+	Team</h2>
+<p>
+	I am committed to building a team of forward looking individuals interested in <strong>modern web development</strong> using the best tools for the job. You&#39;ll get to participate in growing our web platform components from the ground up, which will include real-time audio, video, chat, and screen share.</p>
+<h2>
+	Must Have</h2>
+<ul>
+	<li>
+		Extensive experience in&nbsp;HTML/CSS (including best practices)</li>
+	<li>
+		Great visual eye and a knowledge of typography, color, and composition</li>
+	<li>
+		Passionate and knowledgeable about UX/UI</li>
+	<li>
+		High degree of comfort with javascript without the need to rely on specific libraries</li>
+	<li>
+		Deep understanding of interacting with REST APIs</li>
+	<li>
+		Experience with asset pipeline management</li>
+	<li>
+		Experience w/ a source control tool (we use&nbsp;git)</li>
+</ul>
+<h2>
+	Should Have</h2>
+<ul>
+	<li>
+		Experience with Backbone or Spine for client side MVC</li>
+	<li>
+		Experience with real-time web technologies (websockets, socket.io, etc.)</li>
+	<li>
+		Experience with selenium/sauce labs, browserstack or other automated browser testing framework</li>
+</ul>
+<h2>
+	Nice to Have</h2>
+<ul>
+	<li>
+		WebGL and Canvas experience on a production application</li>
+	<li>
+		Experience with Flash AS3 streaming video, audio</li>
+</ul>
+<br />
+<h2>
+	About Sococo</h2>
+<p>
+	Our first product, Team Space, is a mission critical communications platform for distributed teams. We&#39;ve been covered by folks like Mashable, WSJ, VentureBeat, Gartner, CIO, and the Silicon Valley Business Journal.&nbsp;</p>
+<p>
+	<strong>Work with the best people.</strong> We&#39;re smart, focused and we come into work fired up. We want to fundamentally change the way people communicate.</p>
+<p>
+	<strong>Be valued. </strong>We offer highly competitive salary, stock options, comprehensive benefits, 401k savings plans, and generous vacation. Every employee has the power to have a broad impact on Sococo.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/sococo/xRBuaC"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20111216095302_24PCMOKMZFWLM5AL]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Test Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://sococo.theresumator.com/apply/VfJBwp/Software-Test-Engineer.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94041]]></postalcode>
+			<description><![CDATA[<h2>Responsibilities</h2><p>Sococo is looking for a highly motivated and dynamic&nbsp;Software Test Engineer&nbsp;who&nbsp;will own the quality of our&nbsp;mission critical communication service.&nbsp;This person will be responsible for developing&nbsp;a&nbsp;QA and test&nbsp;strategy, including designing and developing the QA infrastructure, automation, and related processes.&nbsp;This person will work closely with engineers&nbsp;and architects to ensure&nbsp;quality is designed into the system.</p><h4>Must Have</h4><ul><li>3 or more years experience&nbsp;doing quality assurance for commercial&nbsp;software on Windows or Mac platforms</li></ul><h4>Should Have</h4><ul><li>At least 1 year experience using automated testing tools</li><li>At least 1 year experience writing code in C/C++, Objective C, C#,&nbsp;or Java</li><li>Proficiency in at least one scripting language (e.g. Perl, JavaScript, shell scripts)</li></ul><h4>Nice To Have</h4><ul><li>Experience with unit testing infrastructure like CPPUnit or JUnit</li><li>Knowledgeable with Linux/Unix shell usage</li><li>Experience maintaining Continuous Integration systems</li><li>Experience working with security technologies (e.g. certificates, encryption, firewalls, Active Directory)</li></ul><h4>Perks</h4><ul><li>Passionate, engaged people and a friendly work environment</li><li>Competitive comp including 401k, stock options, and comprehensive benefits</li><li>Great downtown Mountain View location (delicious food, good weather, startup environment)</li></ul><br /><h4>About Sococo</h4><p>Our first product, Team Space, is a mission critical communications platform for distributed teams. We&#39;ve been covered by folks like Mashable, WSJ, VentureBeat, Gartner, CIO, and the Silicon Valley Business Journal.</p><p><strong>Work with the best people.</strong> We&#39;re smart, focused and we come into work fired up. We want to fundamentally change the way people communicate.</p><p><strong>Be valued. </strong>We offer highly competitive salary, stock options, comprehensive benefits, 401k savings plans, and generous vacation. Every employee has the power to have a broad impact on Sococo.</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/sococo/VfJBwp"></script>]]></buttons>
+		</job>
+	</jobs>

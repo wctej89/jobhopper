@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Taskforce iT Consulting Inc]]></company>
+			<job>
+			<id><![CDATA[job_20100922155202_K3PVTCGKDVERJ7CE]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[test]]></title>
+			<department><![CDATA[test]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://taskforce.theresumator.com/apply/mfzkRd/Test.html]]></url>
+			<city><![CDATA[la]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[90064]]></postalcode>
+			<description><![CDATA[<p>
+	test</p>
+]]></description>
+			<type><![CDATA[Internship]]></type>
+			<experience><![CDATA[Student (High School)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/taskforce/mfzkRd"></script>]]></buttons>
+		</job>
+	</jobs>

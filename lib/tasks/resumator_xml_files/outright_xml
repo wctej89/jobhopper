@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Outright.com]]></company>
+			<job>
+			<id><![CDATA[job_20100203224905_JW5ZA7OL1497TYAN]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://outright.theresumator.com/apply/Mj837R/Web-Engineer.html]]></url>
+			<city><![CDATA[Mountain View]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94041]]></postalcode>
+			<description><![CDATA[<p>Outright.com is one of the fastest growing startups on the Internet dedicated to revolutionizing business finances for the self-employed. We are automating and providing business insight into the finances of small business around the world.</p>
+<p>We're looking for someone great to join our small, hardcore team that manages over 1 billion dollars of transaction on behalf or our users; someone who would take pride in the very high standards we set for production quality and reliability.</p>
+<p>We are an agile development shop who has a healthy practice of pair programming, test driven development, and collaboration. We truly believe that greatness can only be achieved by working closely as a team to push ourselves and to deliver the impossible.</p>
+<p>This is a salaried full-time position with benefits. Salary will be based on experience.</p>
+<h2>Role &amp; Responsibilities</h2>
+<ul>
+<li>Developing new web-based features and interfaces.</li>
+<li>Working with a team of developers to maintain and update Outright.com.</li>
+<li>Enhancing our web-based administration and customer support interfaces.</li>
+<li>Working with the team to continuously improve the presentation and mining of important company, product and user metrics.</li>
+</ul>
+<h2>Requirements</h2>
+<ul>
+<li>Bachelor's degree in Computer Science.</li>
+<li>Excellent work ethic and attention to detail. Very organized.</li>
+<li>Fast learner.</li>
+<li>Passionate and obsessive about quality and correctness.</li>
+<li>Significant experience developing database-backed websites and web services using modern web standards.</li>
+<li>Experience with a web MVC framework (Rails, Pylons, Django).</li>
+<li>A strong portfolio of past work.</li>
+<li>XHTML, CSS, and Javascript expert. Expert with AJAX.</li>
+<li>Experience with one page application and Gears.</li>
+<li>Proficient in Ruby, Rails or equivalent.</li>
+<li>Proficient in Dojo, SproutCore, JavascriptMVC, Mootools, JQuery, or equivalent.</li>
+<li>Proficient in MySQL.</li>
+<li>Good design sense, experience working with a graphic designer and realizing complex mockups.</li>
+<li>Knowledgeable about browser-specific issues and incompatibilities.</li>
+<li>Experience testing for the web (unit tests, Selenium, webrat etc.)</li>
+<li>Excellent written and verbal communication skills.</li>
+<li>Understands web security issues.</li>
+</ul>
+<h2>Nice to Have</h2>
+<ul>
+<li>Startup experience.</li>
+<li>Experience with Photoshop.</li>
+<li>Experience with Fireworks.</li>
+<li>Familiarity with the engineering world class web applications.</li>
+<li>Experience with distributed version control systems (Git, Mercurial)</li>
+</ul>
+<h2>About Outright.com</h2>
+<p>The online back-office for the more than 21 million, U.S., self employed individuals and micro-businesses is innovating quickly; looking for highly skilled professionals to join our team.</p>
+<p>Backed by top early stage investors, Sequoia Capital, Shasta Ventures, First Round Capital, and SoftTech VC, Outright is streamlining the work involved with owning a business, helping entrepreneurs pay the right taxes, record financial transactions, and keep their businesses on track and growing. If you have strong vision and the skills to execute, help us redefine bookkeeping.</p>
+<p>Our offices will be located in downtown Mountain View, CA. (We are moving from Campbell, CA by April)</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/outright/Mj837R"></script>]]></buttons>
+		</job>
+	</jobs>

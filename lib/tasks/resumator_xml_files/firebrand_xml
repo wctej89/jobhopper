@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Firebrand]]></company>
+			<job>
+			<id><![CDATA[job_20120906094342_GKCWMUUGTKPFKENQ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Danseur de rue]]></title>
+			<department><![CDATA[Creation]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://firebrand.theresumator.com/apply/1XgRxn/Danseur-De-Rue.html]]></url>
+			<city><![CDATA[Paris]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[France]]></country>
+			<postalcode><![CDATA[75017]]></postalcode>
+			<description><![CDATA[<p>
+	Savori danser</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/firebrand/1XgRxn"></script>]]></buttons>
+		</job>
+	</jobs>

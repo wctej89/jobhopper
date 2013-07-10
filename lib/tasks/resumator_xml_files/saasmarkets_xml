@@ -1,0 +1,370 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[SaaS Markets]]></company>
+			<job>
+			<id><![CDATA[job_20130708163309_GIXMLQISKC1LWBMN]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[DevOps Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://saasmarkets.theresumator.com/apply/q5XlgO/DevOps-Engineer.html]]></url>
+			<city><![CDATA[San Mateo]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94402]]></postalcode>
+			<description><![CDATA[<p>
+<u>Job Opportunity:</u></p>
+<p>
+We are recruiting for a talented Sys Admin / DevOps Engineer passionate about scalable multitenant SaaS applications and operating large-scale distributed Linux systems. The company is a fast-growing SaaS company looking for a talented ops engineer to work closely with our growing development team to help maintain uptime as company continues to acquire new customers and scale systems.<br />
+<br />
+You will be responsible for the overall health and performance of the company&rsquo;s platform, and work will include tool development and contribution to the overall design of new platform features. You should have proven capabilities and deep Linux expertise and you will take primary responsibility for scaling the fast-growing analytics platform (built in Linux/Grails), while also improving security and redundancy.<br />
+<br />
+The ideal candidate is someone passionate about problem solving with a proven record of learning and implementing new technologies.<br />
+<br />
+<u>Responsibilities:</u></p>
+<ul>
+<li>
+Ensure our systems are up and running well (99% uptime)</li>
+<li>
+Explore ways to improve our infrastructure</li>
+<li>
+Promote a culture of designing/building with testing and monitoring in mind</li>
+<li>
+Learn and implement new technologies or build them yourself in order to help us achieve unparalleled reliability</li>
+<li>
+Identify potential scaling issues in our infrastructure and help define how to monitor and fix them</li>
+</ul>
+<p>
+<br />
+<u>Requirements:</u></p>
+<ul>
+<li>
+Deep expertise with Linux</li>
+<li>
+Experience deploying and maintaining cloud-based systems (e.g., Rackspace, Amazon EC2)</li>
+<li>
+Experience with CDN&#39;s</li>
+<li>
+Experience with infrastructure monitoring software (e.g., Nagios)</li>
+<li>
+Experience working closely with a development team</li>
+<li>
+Operations experience</li>
+</ul>
+<p>
+<br />
+<u>Bonus:</u></p>
+<ul>
+<li>
+Experience setting up and maintaining Hadoop clusters</li>
+<li>
+Experience with build systems like Ant, Maven, Gradle</li>
+<li>
+Experience with Puppet or Chef</li>
+<li>
+Experience with at least one scripting language (Perl, Python, Ruby, Groovy, etc.)</li>
+<li>
+Experience with database administration (Postgres and/or MySQL)</li>
+<li>
+Experience with Git/GitHub</li>
+<li>
+Understanding of networking principles like load balancing and proxying</li>
+<li>
+Background in security</li>
+<li>
+Experience with continuous integration tools like Jenkins, Hudson, or Teamcity</li>
+<li>
+Experience with log management</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/saasmarkets/q5XlgO"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130104201628_MZ5AJCV2CXWJ9VGY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Groovy on Grails Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://saasmarkets.theresumator.com/apply/nNrvje/Groovy-On-Grails-Developer.html]]></url>
+			<city><![CDATA[San Mateo]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94402]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Position:&nbsp;</strong><strong>Object-Oriented Developer ~ Java, Groovy, Grails</strong><br />
+Location: San Mateo, CA<br />
+Salary: Open and flexible depending on experience<br />
+Experience: 5+ years<br />
+Education: BS/MS CS or related field</p>
+<p>
+<strong>The company: </strong>SaaS Markets. We are setting the pace for the rapidly<br />
+emerging markets of creating App Stores for small and medium sized<br />
+businesses shopping for SaaS applications and the creation of<br />
+enterprise app stores. We are building a SaaS platform to support the<br />
+rapid growth that&nbsp;we are experiencing in this marketplace.</p>
+<p>
+<strong>Role:</strong><br />
+We are looking for experienced developers who can come in and take<br />
+ownership of significant portions of the system and hit the ground running!<br />
+You will write elegant, maintainable, reusable code in Groovy, Grails and<br />
+Java. We are creating a new platform to support large scale, multi-tenanted<br />
+applications and need expertise in building out the framework and APIs<br />
+to support an evolving set of customer needs.</p>
+<p>
+<br />
+<strong>Technical skills</strong></p>
+<p>
+<strong>Required:</strong></p>
+<p>
+<strong>Strong skills in Groovy/Grails, XML/JSON REST use and development, Web services</strong></p>
+<ul>
+<li>
+Strong skills in Java programming, Java design patterns and server side Java</li>
+<li>
+Experience with Spring Framework, Hibernate, JPA</li>
+<li>
+Strong experience with object-oriented analysis, design and programming&nbsp;&nbsp;</li>
+<li>
+Caching (memcached, ehcache, etc)</li>
+<li>
+Relational Databases (Postgres, MySQL, etc)</li>
+<li>
+Cloud based Linux servers as deployment environment</li>
+<li>
+Experience building software that&rsquo;s successfully deployed and running at scale.</li>
+</ul>
+<p>
+<strong>Bonus Points:</strong></p>
+<ul>
+<li>
+Hadoop, &quot;big data&quot; analysis</li>
+<li>
+NoSQL (MongoDB, Cassandra, etc)</li>
+<li>
+Understanding (and love) of Git</li>
+<li>
+Proponent of Agile methodologies and experience with Scrum</li>
+</ul>
+<p>
+<strong>How to Apply:</strong></p>
+<p>
+Applications without cover letters will not be considered. We need people who can communicate in code and in English.&nbsp; Write whatever you like, but we&#39;d prefer it if you could explain why you are excited to join a startup and/or tell us about something that you&#39;ve done that you are particularly proud of.</p>
+<p>
+We are an equal opportunity employer. Local SF Bay Area candidates only. Principals only - no recruiters/agencies.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/saasmarkets/nNrvje"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130708055503_9UJGPR5PQZE7DO04]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Lead Software Test Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://saasmarkets.theresumator.com/apply/e6EIZ8/Lead-Software-Test-Engineer.html]]></url>
+			<city><![CDATA[San Mateo]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94402]]></postalcode>
+			<description><![CDATA[<p>
+<u>About SaaS Markets: </u></p>
+<p>
+We are setting the pace for the rapidly emerging markets of creating App Stores for small and medium sized businesses shopping for SaaS applications and the creation of enterprise app stores. We are building a SaaS platform to support the rapid growth that we are experiencing in this marketplace.</p>
+<p>
+<u>About the Lead QA Engineer Position:</u></p>
+<p>
+We are looking for a talented engineer to help build and lead a QA team and help maintain and grow our culture of quality throughout the development process. You must enjoy breaking things on purpose and helping others to make sure they don&#39;t break again.</p>
+<p>
+<u>Responsibilities:</u></p>
+<ul>
+<li>
+Develop and refine QA testing process</li>
+<li>
+Work in a highly interactive, team-oriented environment</li>
+<li>
+Create authoring methodology for use cases and user stories</li>
+<li>
+Collaborate with product and development teams to author use cases and user stories</li>
+<li>
+Participate in code reviews</li>
+<li>
+Work with development and product teams to identify/communicate defects and monitor resolutions</li>
+<li>
+Collect, analyze, track and report product and process metrics</li>
+<li>
+Create and execute unit, fixture, end-to-end, load, and heartbeat tests, both manually and automated</li>
+<li>
+Participate in group scrum and sprint development cycles</li>
+</ul>
+<p>
+<u>Requirements:</u></p>
+<ul>
+<li>
+5+ years experience in Java software engineering, including J2EE technologies (whitebox testing required)</li>
+<li>
+3+ years experience in testing high availability, database-driven web applications</li>
+<li>
+3+ years experience developing and testing large relational and NoSQL databases (Postgres and/or MySQL preferred)</li>
+<li>
+Hands on mastery of testing automation including: JUnit, TestNG, JMeter, HtmlUnit, Selenium or other testing frameworks</li>
+<li>
+Strong working knowledge of Java 1.5+</li>
+<li>
+Deep knowledge of white/gray/black box testing methodolies with hands-on experience</li>
+<li>
+Experience with cross-browser testing and knowledge of common issues in different browsers</li>
+<li>
+Experience with front-end web technologies, such as JSP, GWT, JSTL, JavaScript, AJAX, JQuery, CSS, HTML, etc.</li>
+<li>
+Experience with XML technologies: XPATH, DOM, SAX, XSD</li>
+<li>
+Working knowledge of UNIX or Linux</li>
+<li>
+Experience with Git (GitHub) and Jenkins build and continuous integration technologies</li>
+<li>
+Excellent verbal and written communication skills</li>
+<li>
+Be self-motivated, organized, detail-oriented and possess strong analytical skills</li>
+<li>
+Comfortable working in a fast-paced, dynamic environment while juggling multiple projects</li>
+<li>
+BS or MS in Computer Science or a related field</li>
+<li>
+Eligibility to work in the US without sponsorship</li>
+</ul>
+<p>
+<u>Preferred Qualifications:</u></p>
+<ul>
+<li>
+Familiarity with Groovy and Grails</li>
+<li>
+Knowledge of application development frameworks, such as Spring</li>
+<li>
+Experience with ORM solutions, such as Hibernate</li>
+</ul>
+<p>
+We are an equal opportunity employer. Local San Francisco Bay Area candidates only. Principals only.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/saasmarkets/e6EIZ8"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130708172348_0Z8HRRCXEOIKIDJU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Partner Manager (SaaS)]]></title>
+			<department><![CDATA[Application Partner Management Team]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://saasmarkets.theresumator.com/apply/bxj5rI/Partner-Manager-SaaS.html]]></url>
+			<city><![CDATA[San Mateo]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94402]]></postalcode>
+			<description><![CDATA[<p>
+<strong>About SaaS Markets:</strong><br />
+SaaS Markets is the leading enterprise app store company. We build, brand and launch custom app stores for leading financial services, tech., and retail companies around the world, as well as service providers, business associations and chambers of commerce. &nbsp;<span style="font-size: 12px;">Recently, Saas Markets was voted the #5 &ldquo;Hot Cloud Startup to Watch&rdquo; by CIO Magazine.&nbsp; There has never been a better time to join our great company, as we anticipate significant growth and new opportunities in the months ahead. &nbsp;</span><span style="font-size: 12px;">Over the past two years, SaaS Markets has emerged as the leader in the rapidly-evolving enterprise app store market, partnering with the worlds best Software-as-a-Service (SaaS) application companies to deliver world class app stores for our customers.</span></p>
+<p>
+<strong>The Role:</strong><br />
+SaaS Markets is looking for an enthusiastic, hard working Partner Manager to work directly with the companies that are leading the SaaS space. From market leaders, such as Dropbox, Constant Contact and Basecamp, to emerging stars in niche industry verticals.&nbsp; Your role will be to engage these companies to share the many benefits of working with us as a channel to bring their product(s) to a qualified business audience.&nbsp; We do this through our MarketMaker app store platform and the SaaS Commerce Network&mdash;the world&rsquo;s largest network of business app stores.</p>
+<p>
+<strong>Working at SaaS Markets:</strong><br />
+SaaS Markets offers a great work environment with competitive salaries and benefits, including healthcare, vision, dental, a 401(k) and more. We offer the chance to work with talented, passionate people, a complimentary on-site fitness facility, free snacks and as much Starbucks coffee as you can drink. Regular team events include our &lsquo;Wine &amp; Cheese Fridays&rsquo; to wrap up the week.</p>
+<p>
+<strong>Desired Skills &amp; Experience:</strong><br />
+-We need a high energy self-starter who enjoys the role of building partnerships.&nbsp; You will be an experienced Partner Manager who understands the SaaS industry.<br />
+-You will be the point person for prospective SaaS application partners that want to understand more about what we do, as well as the person who reaches out to strategic partners that we have identified.<br />
+-You will work closely with the Relationship Management Team to ensure that new app partners are onboarded with SaaS Markets and are fully briefed about our capabilities as a strategic channel partner.<br />
+-You will have an entrepreneurial passion for your role and be excited about working as a key player at a leading company in a rapidly expanding market.<br />
+-You have the ability to think strategically and solve challenges to ensure that the app partnering process is as seamless as possible.<br />
+-Occasional travel may be required to meet with partners. You will be comfortable presenting to one person or a room of five hundred as required.&nbsp; You have the confidence that experience in a similar role has brought you.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/saasmarkets/bxj5rI"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130104185354_NKTKWEXBQMJXIDBH]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Application Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://saasmarkets.theresumator.com/apply/ItXKaV/Web-Application-Developer.html]]></url>
+			<city><![CDATA[San Mateo]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94402]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Position: Web Application Developer</strong><br />
+Location: San Mateo, CA<br />
+Salary: Open and flexible depending on experience<br />
+Experience: 5+ years<br />
+Education: BS/MS CS or related field</p>
+<p>
+<strong>The company: </strong>SaaS Markets. We are setting the pace for the rapidly<br />
+emerging markets of creating App Stores for small and medium sized<br />
+businesses shopping for SaaS applications and the creation of<br />
+enterprise app stores. We are building a SaaS platform to support the<br />
+rapid growth that we are experiencing in this marketplace.</p>
+<p>
+<strong>Role:</strong><br />
+We are looking for experienced developers who can come in and take<br />
+ownership of significant portions of the system and hit the ground running!<br />
+You will bring our interface designs to life and make them exciting and fun<br />
+to interact with across a broad range of browsers and devices.<br />
+We are creating a new platform to support large scale, multi-tenanted applications<br />
+and need expertise in building compelling application storefronts and comparison<br />
+shopping interfaces. You will be in that critical role between the graphic designers<br />
+and the server engineers, taking wireframes and mocks and using your<br />
+knowledge of JS, CSS, tag libraries and web development to make<br />
+beautiful, responsive, and dynamic interfaces.</p>
+<p>
+<br />
+<strong>Technical skills</strong></p>
+<p>
+<strong>Required:</strong></p>
+<ul>
+<li>
+Expert Javascript and 3rd party Javascript libraries: jQuery, Boostrap, JQuery-UI, jQuery Databases, etc.</li>
+<li>
+Advanced HTML/HTML5, CSS/CSS3, AJAX, JSON, XML, Oauth, sencha, etc.</li>
+<li>
+Solid knowledge of and experience with tag libraries, including JSP, GSP, Spring, etc.</li>
+<li>
+Experience using browser development tools : Chrome Dev Tools and Firebug / Firefox Dev Tools</li>
+<li>
+Ability to create modern web interfaces that work across a broad range of browser/OS/device targets</li>
+<li>
+Familiarity with application interaction, interface &amp; responsive design</li>
+<li>
+Ability to work as a member of a development team (i.e. graphic designers, server engineers, product team, etc.)</li>
+</ul>
+<p>
+<strong>Bonus Points:</strong></p>
+<ul>
+<li>
+Knowledge of Groovy, Java, Grails, PHP</li>
+<li>
+Understanding (and love) of Git</li>
+<li>
+Proponent of Agile methodologies and experience with Scrum</li>
+<li>
+Bring your tool bag of technologies and techniques and make us smarter!</li>
+</ul>
+<p>
+<strong>How to Apply:</strong></p>
+<p>
+Applications without cover letters will not be considered. We need people who can communicate in code and in English.&nbsp; Write whatever you like, but we&#39;d prefer it if you could explain why you are excited to join a startup and/or tell us about something you&#39;ve done you are particularly proud of.</p>
+<p>
+We are an equal opportunity employer. Local San Francisco Bay Area candidates only. Principals only.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/saasmarkets/ItXKaV"></script>]]></buttons>
+		</job>
+	</jobs>

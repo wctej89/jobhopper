@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[P1]]></company>
+			<job>
+			<id><![CDATA[job_20120802032810_BHLU4CX94VO9B85W]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[backend developer]]></title>
+			<department><![CDATA[Product]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://p1.theresumator.com/apply/NeoPrC/Backend-Developer.html]]></url>
+			<city><![CDATA[Beijing]]></city>
+			<state><![CDATA[Beijing]]></state>
+			<country><![CDATA[China]]></country>
+			<postalcode><![CDATA[100020]]></postalcode>
+			<description><![CDATA[<p>We at P1 are building the best social lifestyle platform to date.</p><p>We need skilled people to help us realize our visions about how tomorrows social media landscape could look like.<br /><br />Your responsibilities as &quot;senior back end developer&quot; will include designing, modifying, developing, writing, and implementing engineering projects, and ensuring that designs are well documented and that they meet performance and scalability requirements. In addition, you will provide an overview of technical designs and issues as necessary to third parties, communicate progress and achievements, and lead by example.</p><p><strong>Requirements:</strong><br />Passionate about social web, mobile technologies<br />5 years experience in web development, cloud computing environment<br />Expert in PHP and MySQL and fluent HTML/CSS/JS<br />Familiar with OO programming<br />Experience with jQuery is a big plus<br />Interested in learning GO is a plus<br />NoSQL experience is a plus</p><p>&nbsp;</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/p1/NeoPrC"></script>]]></buttons>
+		</job>
+	</jobs>

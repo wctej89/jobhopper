@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Reality Check Network]]></company>
+			<job>
+			<id><![CDATA[job_20100719184827_HYVML3LCM6M5D7QG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[RAILs Developer]]></title>
+			<department><![CDATA[Reality Check Network]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://rcn.theresumator.com/apply/4FgA74/RAILs-Developer.html]]></url>
+			<city><![CDATA[NYC]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[11201]]></postalcode>
+			<description><![CDATA[<div class="content">
+<p>Reality Check Network (http://www.realitychecknetwork.com) is looking for a Ruby on Rails developer. The perfect  candidate would be someone who is extremely motivated, and loves to take  ideas from concept to finished product. The candidate should have UI  experience and be comfortable with AJAX, common JS libraries (jQuery), and developing APIs to link the front-end to our automation backend.</p>
+<h4><br /></h4>
+<h4>Technical Skills</h4>
+<p>- Ruby on RAILs<br /> - CSS<br /> - XHTML<br /> - Javascript<br /> - AJAX<br /> - UI/UX (a plus)<br /> - Apple iPhone/iPad Development (a plus)</p>
+<h4><br /></h4>
+<h4>Position</h4>
+<p>Full-time</p>
+<h4><br /></h4>
+<h4>Benefits</h4>
+<p>Free gym membership<br /> Free MetroCard<br /> Free soft drinks and snacks<br /> Comprehensive health insurance plan (no out of pocket expense)<br /> 401(k) retirement plan with matching (4%)<br /> Fun and engaging work atmosphere<br /> iMacs only (no windows)</p>
+<p> </p>
+<h4>Application</h4>
+<p>Please send your resumes as PDF. Do not send cover letters, instead,  please list your experience with the technologies outlined above. Link  projects that show your experience.</p>
+</div>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/rcn/4FgA74"></script>]]></buttons>
+		</job>
+	</jobs>

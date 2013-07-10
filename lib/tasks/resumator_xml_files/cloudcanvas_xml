@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[CloudCanvas]]></company>
+			<job>
+			<id><![CDATA[job_20110203184533_MIE4MQLDAOPWMVV2]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Front-End Web Application Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudcanvas.theresumator.com/apply/dDm7JT/FrontEnd-Web-Application-Developer.html]]></url>
+			<city><![CDATA[San Diego]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[92130]]></postalcode>
+			<description><![CDATA[<p>
+	One of the hottest startups in the HTML5 space is looking for talented front end developers with experience in JS, jQuery, YUI, AJAX, RaphaelJS, SVG, Canvas, Flash and ActionScript and any other web based graphics technologies.</p>
+<p>
+	We are building &quot;The Adobe of the Internet&quot;, and you will help us make it the best creative app suite entirely in the browser.</p>
+<p>
+	We are located in San Diego, but will consider telecommuting for exceptional candidates.</p>
+<p>
+	If you&#39;ve got design skills that is certainly a plus.</p>
+<p>
+	Please, no recruiters.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudcanvas/dDm7JT"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110203185059_Y9PQTHWRF3KUQO9C]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Back-End Web Application Developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudcanvas.theresumator.com/apply/1gm6iW/BackEnd-Web-Application-Developer.html]]></url>
+			<city><![CDATA[San Diego]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[92130]]></postalcode>
+			<description><![CDATA[<p>
+	One of the hottest startups in the HTML5 space is looking for talented Back-End developers with experience in Python/Django, PHP, MySQL, Google App Engine, Google and other public APIs, system administration, Amazon EC2 and other web server technologies.</p>
+<p>
+	We are building &quot;The Adobe of the Internet&quot;, and you will help us make it the best creative app suite built entirely in the browser.</p>
+<p>
+	We are located in San Diego, but will consider telecommuting for exceptional candidates.</p>
+<p>
+	Please, no recruiters.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudcanvas/1gm6iW"></script>]]></buttons>
+		</job>
+	</jobs>

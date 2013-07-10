@@ -10,9 +10,9 @@ class Notification < ActiveRecord::Base
 
   private
 
-  def ping_twilio
-    TwilioWorker.perform_async(self)
-  end
+  # def ping_twilio
+  #   TwilioWorker.perform_async(self)
+  # end
 
   def send_email
     NotificationMailer.notification_email(self).deliver

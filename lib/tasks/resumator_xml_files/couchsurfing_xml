@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[CouchSurfing International]]></company>
+			<job>
+			<id><![CDATA[job_20110708053513_9W4RUM019PESKKAS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[iPhone/Android Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://couchsurfing.theresumator.com/apply/DMcw1b/IPhoneAndroid-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94120]]></postalcode>
+			<description><![CDATA[<p>
+	CouchSurfing is an international network that connects travelers with locals in over 230 countries around the world. Since 2004, members have been using our system to come together for cultural exchange, friendship, and learning experiences. Today, almost four million people who might otherwise never meet are able to share hospitality and cultural understanding all over the world.<br />
+	<br />
+	Our mission as an organization is to create inspiring experiences: cross-cultural encounters that are fun, engaging, and illuminating. These experiences take many forms. CouchSurfing&#39;s initial focus was on hosting and &#39;surfing&#39; (staying with a local as a guest in their home). Alongside these core experiences, we now also facilitate a growing array of activities and events.</p>
+<p>
+	We are opening up a new office in San Francisco and are looking for talented inspiring new colleagues to help out in this incredible mission! Look at our website for more information: CouchSurfingJobs.com</p>
+<p>
+	currently we are looking for:</p>
+<p>
+	<strong>MOBILE DEVELOPERS (Multiple Persons)</strong></p>
+<p>
+	<strong>Purpose</strong></p>
+<ul>
+	<li>
+		As a Mobile Application Developer, for the iPhone and Android platform, you will be part of a team responsible for the design, documentation, development, and implementation of a transactional software solution. In this position you need to be able to work independently, but follow directions and schedules laid out for the project. Work needs to be thorough, timely, and of a high quality.</li>
+</ul>
+<p>
+	<strong>Responsibilities</strong></p>
+<ul>
+	<li>
+		Develop and maintain Android Applications</li>
+	<li>
+		Develop and maintain iPhone Applications</li>
+	<li>
+		Integrate Mobile Apps (iPhone, Android) with RESTful Web Services</li>
+	<li>
+		Document Apps and developer guide for other developers to use</li>
+</ul>
+<p>
+	<strong>Minimum Required Experience &amp; Education</strong></p>
+<ul>
+	<li>
+		A computer science or engineering Bachelor&#39;s degree (or equivalent experience)</li>
+	<li>
+		2-5 years experience in hands-on, mobile application software development for the iPhone and Android Platform</li>
+	<li>
+		1+ years professional experience architecting entire applications</li>
+	<li>
+		Experience integrating mobile applications to Web Services</li>
+	<li>
+		Solid working knowledge of REST, JSON, XML, Web Services and object-oriented techniques</li>
+	<li>
+		Demonstrated design, development, coding, and testing of mobile applications on the iPhone and Android platform</li>
+	<li>
+		A portfolio of mobile apps on the iPhone and Android</li>
+	<li>
+		Familiar with XML, HTTP, HTTPS, Google APIs, creating JAR libraries and other common mobile functions</li>
+	<li>
+		Excellent written and oral communications skills</li>
+	<li>
+		Excellent software design, coding, and unit testing skills</li>
+	<li>
+		A will to create *Best in Class* Mobile Applications</li>
+</ul>
+<p>
+	<strong>Supplemental Skills &amp; Experience</strong></p>
+<ul>
+	<li>
+		Qualified persons will thrive both in an independent and team environment. You must be able to take ownership of projects and complete those projects accurately and efficiently.</li>
+</ul>
+<p>
+	<strong>Hours we provide</strong></p>
+<ul>
+	<li>
+		40 hours (Full time)</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/couchsurfing/DMcw1b"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20120202140621_GBIIYQMDZD1VLOTG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Operations Engineer]]></title>
+			<department><![CDATA[Web Operations Team]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://couchsurfing.theresumator.com/apply/cvoqQB/Operations-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94120]]></postalcode>
+			<description><![CDATA[<p>
+	CouchSurfing is an international network that connects travelers with locals in over 230 countries around the world. Since 2004, members have been using our system to come together for cultural exchange, friendship, and learning experiences. Today, almost four million people who might otherwise never meet are able to share hospitality and cultural understanding all over the world.</p>
+<p>
+	Our mission as an organization is to create inspiring experiences: cross-cultural encounters that are fun, engaging, and illuminating. These experiences take many forms. CouchSurfing&#39;s initial focus was on hosting and &#39;surfing&#39; (staying with a local as a guest in their home). Alongside these core experiences, we now also facilitate a growing array of activities and events.</p>
+<p>
+	We have a new office in San Francisco and are looking for talented inspiring new colleagues to help out in this incredible mission! Look at our website for more information: CouchSurfingJobs.com</p>
+<p>
+	<br />
+	Currently we are looking for an&nbsp;<strong>OPERATIONS ENGINEER</strong><br />
+	&nbsp;</p>
+<p>
+	Do you get excited by taking responsibility for mission-critical infrastructure and making sure it never, ever goes down? Do you scoff at anything less than tens of millions of rows in your database? When you&rsquo;re faced with a problem, is &ldquo;automate it out of existence&rdquo; your first response? Can you solve transaction deadlocks in your sleep? Are you pretty sure your site runs better than just about anything else out there?</p>
+<p>
+	If so, you might just be what we&rsquo;re looking for at CouchSurfing. Our site is built by a crack team of amazing engineers that add new functionality to it on a daily basis, and we&rsquo;re looking for someone with the same passion for site operations, reliability, and performance as some of our JavaScript whizzes have for UI. You&rsquo;ll have full reign over every system, from databases and memcache instances up through the entire application stack to the UI itself, with the charter to make CouchSurfing ever more scalable, reliable, robust, and better performing than ever.</p>
+<p>
+	<br />
+	<strong>Who are we looking for?</strong></p>
+<p>
+	We&rsquo;re looking for folks who have at least a few years&rsquo; experience running scalable, large real-world websites &mdash; exactly what kind is less important than that it worked, all the time. We&rsquo;re looking for amazing operations engineers, so whether you&rsquo;re used to MySQL, PostgreSQL, Oracle or the like is less important to us than whether you know your stuff cold. We&rsquo;re also looking for folks for whom teamwork is the norm, not the exception; we communicate constantly and work together to make sure things stay up all the time.</p>
+<p>
+	Particular skills that we&rsquo;re interested in:</p>
+<ul>
+	<li>
+		Unix/Linux where you don&rsquo;t even think about it;</li>
+	<li>
+		Web tools and techniques, from HTTP to proxies to caching and so forth;</li>
+	<li>
+		Memcached, Redis, Hadoop or Map/Reduce, NoSQL;</li>
+	<li>
+		Relational databases (particular flavor isn&rsquo;t important, although MySQL is a bonus);</li>
+	<li>
+		Email/SMTP infrastructure (sending millions of messages per day when required);</li>
+	<li>
+		Dynamic programming languages (like Python, Perl, PHP, Ruby, etc.);</li>
+	<li>
+		Firewalls, load balancers, and all other varieties of network infrastructure.</li>
+</ul>
+<p>
+	<br />
+	<strong>What will you do?</strong></p>
+<p>
+	We believe that in order to make the biggest impact, our operations engineers need to be able to work on any part of the system that affects their job. As a result, the entirety of CouchSurfing will be your domain; as a member of an amazing team of operations engineers, and supporting a world-class team of programmers, you&rsquo;ll be able to help determine infrastructure, architecture, storage and processing of every component of the site. We&rsquo;ll ask you for input on problems large and small, listen to your earned expertise, and give you full authority to go solve problems to the best of your ability.</p>
+<p>
+	Specific things you just might get to attack:</p>
+<ul>
+	<li>
+		Scaling our site to thousands of Web requests per second;</li>
+	<li>
+		Expanding our database storage &mdash; via MySQL and/or new tools you may come up with &mdash; to handle the huge increase in volume required;</li>
+	<li>
+		Figuring out how to get email into the hands of millions of members, when they want it, while avoiding spam traps and other pitfalls;</li>
+	<li>
+		Keeping our servers responding to requests in fractions of a second, optimizing throughput and latency at the same time;</li>
+	<li>
+		Helping our engineers keep our site reliable and robust for our millions of users<br />
+		&nbsp;</li>
+</ul>
+<p>
+	<strong>Minimum Required Experience &amp; Education</strong></p>
+<ul>
+	<li>
+		Bachelor&#39;s Degree in Science strongly preferred</li>
+	<li>
+		2+ years experience as a WebOps Engineer</li>
+</ul>
+<p>
+	<br />
+	This is a full-time position in San Francisco, CA.</p>
+<p>
+	<strong>I&rsquo;m sold. How do I get started?</strong></p>
+<p>
+	See that form to the right? Spend a quick moment to fill it in, and we&rsquo;ll get back to you within a couple days &mdash; or less!</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/couchsurfing/cvoqQB"></script>]]></buttons>
+		</job>
+	</jobs>

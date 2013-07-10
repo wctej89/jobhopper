@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[ImFuna]]></company>
+			<job>
+			<id><![CDATA[job_20100610171004_P4SERRYDLNRQIVZS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Software Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://imfuna.theresumator.com/apply/ksKFHn/Senior-Software-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94105]]></postalcode>
+			<description><![CDATA[<p>Are you looking for an opportunity to be an impact player in the growing mobile application platform market?  We want to talk to you. Our company is an early-stage  Mobile Application Platform  funded startup located in SOMA.  We are looking for someone to be one of our first full time employees as we move development from a contracted group to in-house engineering team that will help provide guidance in this transition.  We're looking for passionate and motivated developers who love to collaborate and take pride in their craft. Benefits include a health plan, opportunity  for career growth as the company grows and conveniently located in downtown San Francisco. Don't have a lot of experience with all of the technologies below? No problem. If you have the aptitude and are psyched about learning, we still want to talk to you.</p>
+<p> </p>
+<p>General Requirements and Expectations</p>
+<ul>
+<li> Deep understanding of web application development</li>
+<li> Experience building public APIs for mobile devices</li>
+<li> Great communication and collaboration skills</li>
+<li> Test driven development</li>
+<li> A check-your-ego-at-the-door attitude</li>
+<li> Ability to work in a small team in a start-up environment</li>
+<li> Experience delivering software daily and deploying at least weekly</li>
+<li> 5 years or more of professional software development</li>
+</ul>
+<p><br />Technical Skills and Tools</p>
+<ul>
+<li> Ruby on Rails</li>
+<li> JavaScript + jQuery</li>
+<li> iPhone Development + Objective-C </li>
+<li> MySQL</li>
+<li> HTML and CSS</li>
+<li> Git</li>
+<li> EngineYard cloud deployment</li>
+<li> Amazon S3</li>
+</ul>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/imfuna/ksKFHn"></script>]]></buttons>
+		</job>
+	</jobs>

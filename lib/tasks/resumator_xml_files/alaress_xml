@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Alaress]]></company>
+			<job>
+			<id><![CDATA[job_20120308005630_0RFMIWXSUZUPCV68]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[PHP Web Developer]]></title>
+			<department><![CDATA[Production]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://alaress.theresumator.com/apply/m9bq55/PHP-Web-Developer.html]]></url>
+			<city><![CDATA[Melbourne]]></city>
+			<state><![CDATA[VIC]]></state>
+			<country><![CDATA[Australia]]></country>
+			<postalcode><![CDATA[3124]]></postalcode>
+			<description><![CDATA[<p>
+	Bang</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/alaress/m9bq55"></script>]]></buttons>
+		</job>
+	</jobs>

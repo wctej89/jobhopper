@@ -1,0 +1,652 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Onswipe]]></company>
+			<job>
+			<id><![CDATA[job_20110506155013_W13HBMFURTR5KGKW]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Lead PHP Engineer for Advertising Operations]]></title>
+			<department><![CDATA[Engineering – Advertising]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://onswipe.theresumator.com/apply/lWI6Rl/Lead-PHP-Engineer-For-Advertising-Operations.html]]></url>
+			<city><![CDATA[New York City]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10003]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Onswipe&nbsp;has an immediate opening for a lead PHP engineer for our advertising operations.</strong> As a lead engineer for our advertising operations, you&#39;ll be building out our advertising system for display advertising on tablet devices.&nbsp;</p>
+<p style="margin-top:15px;">
+	<span class="Apple-style-span" style="font-size: 18px; font-weight: bold; ">Four things that would make us </span><span class="Apple-style-span" style="font-size: 18px; font-weight: bold; "><em>love</em></span><span class="Apple-style-span" style="font-size: 18px; font-weight: bold; "> you</span></p>
+<div>
+	<ol>
+		<li>
+			You&#39;ve built ad serving technology and know how to scale to billions of ads served.</li>
+		<li>
+			You&#39;ve worked at either Quattro, Admob, Doubleclick, Medialets, or any other ad technology company.</li>
+		<li>
+			You have a passion for making ads beautiful, and want to scale the engine behind that.</li>
+		<li>
+			You know how to work with large sets of data to behaviorally target ads, preferably based upon content preferences.</li>
+	</ol>
+	<p style="margin-top:15px;">
+		<span class="Apple-style-span" style="font-size: 18px; font-weight: bold; ">Responsibilities</span></p>
+	<ul>
+		<li>
+			Participate in designing and developing&nbsp;Onswipe&#39;s advertising operations from the ground up.</li>
+		<li>
+			Establish the fundamental design decisions for our advertising platform.</li>
+		<li>
+			Be ready to manage a future advertising operations engineering team.</li>
+		<li>
+			Be ready to learn the ins and outs of how advertising ties into Onswipe&#39;s system.</li>
+	</ul>
+	<p style="margin-top:15px;">
+		<span class="Apple-style-span" style="font-size: 18px; font-weight: bold; ">Requirements</span></p>
+	<ul>
+		<li>
+			Extremely strong proficiency in PHP</li>
+		<li>
+			Extremely strong proficiency in MySQL</li>
+		<li>
+			Strong knowledge of Linux</li>
+		<li>
+			Previous experience designing advertising systems from the ground up</li>
+		<li>
+			University-level degree in computer science, or you did something awesome in place of one</li>
+		<li>
+			NoSQL&nbsp;experience a plus</li>
+		<li>
+			Quickly adapt to and learn in a new environment</li>
+	</ul>
+</div>
+<p style="margin-top:15px;">
+	<span class="Apple-style-span" style="font-size: 18px; font-weight: bold; ">Why work at Onswipe?</span></p>
+<p>
+	<strong><a href="http://blog.onswipe.com/jobs/9-reasons-why-you-need-to-work-at-onswipe">Our CEO, Jason, wrote a post called &quot;9 Reasons Why You Need To Work At Onswipe&quot; that you should read.</a></strong> We put a lot of emphasis on promoting entrepreneurship in our workplace, and we want entrepreneurial team members that have world-changing dreams and ambitions. <strong>We believe that we should contribute as much to your personal development as you contribute to the company.</strong></p>
+<p>
+	Working with us, you will learn, take risks and push the limits with a group of dedicated entrepreneurs, experienced mentors, advisors and investors.&nbsp;Onswipe is backed by leading investment firms (Spark Capital, BetaWorks, TechStars, Eniac), and led by experienced serial entrepreneurs (Cloudomatic, Grooveshark)</p>
+<p>
+	<strong>Benefits and Perks:</strong></p>
+<ul>
+	<li>
+		Startup/entrepreneur mentorship</li>
+	<li>
+		Medical coverage</li>
+	<li>
+		Apple equipment of your choosing</li>
+	<li>
+		Company-provided iPhone and iPad (yeah!)</li>
+	<li>
+		Stock options</li>
+	<li>
+		Flexible hours</li>
+	<li>
+		Travel/Training budget</li>
+	<li>
+		Relocation Allowance</li>
+</ul>
+<p>
+	<strong>Who we are looking for</strong>:</p>
+<ul>
+	<li>
+		Entrepreneurial, Ambitious and Passionate</li>
+	<li>
+		Driven to learn and push the limits of what&rsquo;s possible</li>
+	<li>
+		Experience leading and managing people</li>
+	<li>
+		Able to work independently with minimal top-down instruction</li>
+	<li>
+		Startup experience a plus</li>
+	<li>
+		Bilingual a plus</li>
+</ul>
+<p>
+	<strong>In your application, please also list:</strong></p>
+<ul>
+	<li>
+		Github username if you have open-source work</li>
+	<li>
+		Hacker News username if you participate in Hacker News</li>
+	<li>
+		Social profiles, if they help to substantiate your experience</li>
+	<li>
+		Your favorite thing you hacked on</li>
+	<li>
+		Your experience in the advertising space</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/onswipe/lWI6Rl"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110506150716_H8FUBKL62U6NFNWM]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior PHP Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://onswipe.theresumator.com/apply/PMTSeA/Senior-PHP-Engineer.html]]></url>
+			<city><![CDATA[New York City]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10003]]></postalcode>
+			<description><![CDATA[<p>
+	Do social algorithms tied in with caching and scaling of content give you a warm and fuzzy feeling? &nbsp;Then we&#39;re looking for you. Yeah, yeah, PHP, may not be the coolest thing out there (unless you think COBOL is cool, in which case, why are you here instead of updating JCPenney&#39;s point of sale system?), but you absolutely love it and know how to make it purr.</p>
+<p>
+	<strong>Onswipe has an immediate opening for a senior PHP engineer </strong>that will be working on our management system for publications on Onswipe, content fetching for publication data, and other engineering operations related to delivering publication content on touch interfaces.</p>
+<p style="margin-top:15px;">
+	<span class="Apple-style-span" style="font-size: 18px; font-weight: bold; ">Four things that would make us <em>love</em> you</span></p>
+<div>
+	<ol>
+		<li>
+			You&#39;re familiar with Zend PHP framework.</li>
+		<li>
+			You understand how to scale and cache content coming from multiple data points.</li>
+		<li>
+			You understand how to mine and filter content based upon interest data from Facebook and other sources.</li>
+		<li>
+			You think in terms of building a platform that will be used by tens of thousands of developers, not just your internal team.</li>
+	</ol>
+</div>
+<div>
+	<p style="margin-top:15px;">
+		<span class="Apple-style-span" style="font-size: 18px; font-weight: bold; ">Responsibilities</span></p>
+	<ul>
+		<li>
+			Participate in designing and developing&nbsp;Onswipe&#39;s&nbsp;backend content collection, API access, and publisher-facing administration system.</li>
+		<li>
+			Establish the fundamental design decisions for our content collection system.</li>
+		<li>
+			Be ready to work with our backend engineering team.</li>
+		<li>
+			Be ready to learn the ins and outs of how our backend system ties into Onswipe&#39;s publishing platform.</li>
+	</ul>
+	<p style="margin-top:15px;">
+		<span class="Apple-style-span" style="font-size: 18px; font-weight: bold; ">Requirements</span></p>
+	<ul>
+		<li>
+			Extremely strong proficiency in PHP</li>
+		<li>
+			Extremely strong proficiency in MySQL</li>
+		<li>
+			Strong knowledge of Linux</li>
+		<li>
+			Strong knowledge of Zend</li>
+		<li>
+			Previous experience in content/data collection, APIs, and scraping a plus</li>
+		<li>
+			University-level degree in computer science, or you did something awesome in place of one</li>
+		<li>
+			Quickly adapt to and learn in a new environment</li>
+	</ul>
+</div>
+<p style="margin-top:15px;">
+	<span class="Apple-style-span" style="font-size: 18px; font-weight: bold; ">Why work at Onswipe?</span></p>
+<p>
+	<strong><a href="http://blog.onswipe.com/jobs/9-reasons-why-you-need-to-work-at-onswipe">Our CEO, Jason, wrote a post called &quot;9 Reasons Why You Need To Work At Onswipe&quot; that you should read.</a></strong> We put a lot of emphasis on promoting entrepreneurship in our workplace, and we want entrepreneurial team members that have world-changing dreams and ambitions. <strong>We believe that we should contribute as much to your personal development as you contribute to the company.</strong></p>
+<p>
+	Working with us, you will learn, take risks and push the limits with a group of dedicated entrepreneurs, experienced mentors, advisors and investors.&nbsp;Onswipe is backed by leading investment firms (Spark Capital, BetaWorks, TechStars, Eniac), and led by experienced serial entrepreneurs (Cloudomatic, Grooveshark)</p>
+<p>
+	<strong>Benefits and Perks:</strong></p>
+<ul>
+	<li>
+		Startup/entrepreneur mentorship</li>
+	<li>
+		Medical coverage</li>
+	<li>
+		Apple equipment of your choosing</li>
+	<li>
+		Company-provided iPhone and iPad (yeah!)</li>
+	<li>
+		Stock options</li>
+	<li>
+		Flexible hours</li>
+	<li>
+		Travel/Training budget</li>
+	<li>
+		Relocation Allowance</li>
+</ul>
+<p>
+	<strong>Who we are looking for</strong>:</p>
+<ul>
+	<li>
+		Entrepreneurial, Ambitious and Passionate</li>
+	<li>
+		Driven to learn and push the limits of what&rsquo;s possible</li>
+	<li>
+		Experience leading and managing people</li>
+	<li>
+		Able to work independently with minimal top-down instruction</li>
+	<li>
+		Startup experience a plus</li>
+	<li>
+		Bilingual a plus</li>
+</ul>
+<p>
+	<strong>In your application, please also list:</strong></p>
+<ul>
+	<li>
+		Github username if you have open-source work</li>
+	<li>
+		Hacker News username if you participate in Hacker News</li>
+	<li>
+		Social profiles, if they help to substantiate your experience</li>
+	<li>
+		Your favorite thing you&#39;ve hacked on</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/onswipe/PMTSeA"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110506152755_WFFOHANK8FQ96ZXK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Systems Administrator]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://onswipe.theresumator.com/apply/YqvQGS/Senior-Systems-Administrator.html]]></url>
+			<city><![CDATA[New York City]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10003]]></postalcode>
+			<description><![CDATA[<p>
+	Does the opportunity of managing the delivery of content to millions of readers interest you? We&#39;re looking for someone that can architect an in-depth systems that delivers content quickly to millions of readers on touch enabled devices.</p>
+<p style="margin-top:15px;">
+	<span class="Apple-style-span" style="font-size: 18px; font-weight: bold; ">Three things that would make us </span><span class="Apple-style-span" style="font-size: 18px; font-weight: bold; "><em>love</em></span><span class="Apple-style-span" style="font-size: 18px; font-weight: bold; "> you</span></p>
+<div>
+	<ol>
+		<li>
+			You&#39;ve worked on managing very modularized systems with a lot of moving parts.&nbsp;</li>
+		<li>
+			You have dealt specifically with APIs being an integral part of the system.</li>
+		<li>
+			You have experience in managing servers on EC2.</li>
+	</ol>
+</div>
+<div>
+	<p style="margin-top:15px;">
+		<span class="Apple-style-span" style="font-size: 18px; font-weight: bold; ">Responsibilities</span></p>
+	<ul>
+		<li>
+			Help build a scalable infrastructure using the LEMP (Linux (e)nginx MySQL PHP) stack and Amazon EC2.</li>
+		<li>
+			Help put together and execute security protocols.</li>
+		<li>
+			Help put together the overall deployment process for testing and production.</li>
+		<li>
+			Help put together and execute backup and reliability plans.</li>
+	</ul>
+	<p style="margin-top:15px;">
+		<span class="Apple-style-span" style="font-size: 18px; font-weight: bold; ">Requirements</span></p>
+	<ul>
+		<li>
+			Master of all things Linux</li>
+		<li>
+			Understands network architecture and how to calculate throughput</li>
+		<li>
+			Deep expertise working with CDNs</li>
+		<li>
+			Deep expertise working with solely cloud based systems</li>
+		<li>
+			Prior experience working with large content based sites</li>
+		<li>
+			Comfortable with PHP and MySQL</li>
+		<li>
+			Understanding of load balancing and a distributed architecture</li>
+	</ul>
+	<span class="Apple-style-span" style="font-size: 18px; font-weight: bold; ">Why work at Onswipe?</span>
+	<p>
+		<strong><a href="http://blog.onswipe.com/jobs/9-reasons-why-you-need-to-work-at-onswipe">Our CEO, Jason, wrote a post called &quot;9 Reasons Why You Need To Work At Onswipe&quot; that you should read.</a></strong> We put a lot of emphasis on promoting entrepreneurship in our workplace, and we want entrepreneurial team members that have world-changing dreams and ambitions. <strong>We believe that we should contribute as much to your personal development as you contribute to the company.</strong></p>
+	<p>
+		Working with us, you will learn, take risks and push the limits with a group of dedicated entrepreneurs, experienced mentors, advisors and investors.&nbsp;Onswipe is backed by leading investment firms (Spark Capital, BetaWorks, TechStars, Eniac), and led by experienced serial entrepreneurs (Cloudomatic, Grooveshark)</p>
+	<p>
+		<strong>Benefits and Perks:</strong></p>
+	<ul>
+		<li>
+			Startup/entrepreneur mentorship</li>
+		<li>
+			Medical coverage</li>
+		<li>
+			Apple equipment of your choosing</li>
+		<li>
+			Company-provided iPhone and iPad (yeah!)</li>
+		<li>
+			Stock options</li>
+		<li>
+			Flexible hours</li>
+		<li>
+			Travel/Training budget</li>
+		<li>
+			Relocation Allowance</li>
+	</ul>
+	<p>
+		<strong>Who we are looking for</strong>:</p>
+	<ul>
+		<li>
+			Entrepreneurial, Ambitious and Passionate</li>
+		<li>
+			Driven to learn and push the limits of what&rsquo;s possible</li>
+		<li>
+			Experience leading and managing people</li>
+		<li>
+			Able to work independently with minimal top-down instruction</li>
+		<li>
+			Startup experience a plus</li>
+		<li>
+			Bilingual a plus</li>
+	</ul>
+</div>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/onswipe/YqvQGS"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110506160450_OVNFONABQNXIGN0J]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Lead Touch Interaction Designer]]></title>
+			<department><![CDATA[Design and Interface]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://onswipe.theresumator.com/apply/McFmkE/Lead-Touch-Interaction-Designer.html]]></url>
+			<city><![CDATA[New York City]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10003]]></postalcode>
+			<description><![CDATA[<p>
+	You have a chance to have the biggest impact on the Internet since it was first created. &nbsp;We&#39;re redesigning everything from the ground up and Onswipe is leading the charge. &nbsp;If you know how to make <strong>interactions specifically for content on tablet devices</strong>, you need to apply.</p>
+<p>
+	<span class="Apple-style-span" style="font-size: 18px; font-weight: bold; ">Three things that would make us <em>love</em>&nbsp;you</span></p>
+<div>
+	<ol>
+		<li>
+			You own an iPad and have a careful critique of content applications.</li>
+		<li>
+			You understand that the tablet works way different than the point and click web.</li>
+		<li>
+			You have a deep understanding of how typography can make things beautiful.</li>
+	</ol>
+	<span class="Apple-style-span" style="font-size: 18px; font-weight: bold; ">Responsibilities</span>
+	<ul>
+		<li>
+			Help shape future designs and themes from a touch interaction standpoint for Onswipe</li>
+		<li>
+			Help set guidelines and build the initial theme garden community.</li>
+		<li>
+			Help work on other interfaces such as the Publisher dashboard.</li>
+		<li>
+			Help lead overall branding and creative direction.</li>
+		<li>
+			Work with CXO to think of new gestures for interacting with content.</li>
+	</ul>
+	<p style="margin-top:15px;">
+		<span class="Apple-style-span" style="font-size: 18px; font-weight: bold; ">Requirements</span></p>
+	<ul>
+		<li>
+			You have designed for interaction, not just making things pretty.</li>
+		<li>
+			Past experience in designing for touch interfaces, hopefully tablets.</li>
+		<li>
+			Knowledge of how CSS and HTML work.</li>
+		<li>
+			You have worked with designing for content, not just web applications ie- content would be New York Times and web application would be Facebook.</li>
+		<li>
+			Light knowledge of javascript.</li>
+	</ul>
+</div>
+<p style="margin-top:15px;">
+	<span class="Apple-style-span" style="font-size: 18px; font-weight: bold; ">Why work at Onswipe?</span></p>
+<p>
+	<strong><a href="http://blog.onswipe.com/jobs/9-reasons-why-you-need-to-work-at-onswipe">Our CEO, Jason, wrote a post called &quot;9 Reasons Why You Need To Work At Onswipe&quot; that you should read.</a></strong> We put a lot of emphasis on promoting entrepreneurship in our workplace, and we want entrepreneurial team members that have world-changing dreams and ambitions. <strong>We believe that we should contribute as much to your personal development as you contribute to the company.</strong></p>
+<p>
+	Working with us, you will learn, take risks and push the limits with a group of dedicated entrepreneurs, experienced mentors, advisors and investors.&nbsp;Onswipe is backed by leading investment firms (Spark Capital, BetaWorks, TechStars, Eniac), and led by experienced serial entrepreneurs (Cloudomatic, Grooveshark)</p>
+<p>
+	<strong>Benefits and Perks:</strong></p>
+<ul>
+	<li>
+		Startup/entrepreneur mentorship</li>
+	<li>
+		Medical coverage</li>
+	<li>
+		Apple equipment of your choosing</li>
+	<li>
+		Company-provided iPhone and iPad (yeah!)</li>
+	<li>
+		Stock options</li>
+	<li>
+		Flexible hours</li>
+	<li>
+		Travel/Training budget</li>
+	<li>
+		Relocation Allowance</li>
+</ul>
+<p>
+	<strong>Who we are looking for</strong>:</p>
+<ul>
+	<li>
+		Entrepreneurial, Ambitious and Passionate</li>
+	<li>
+		Driven to learn and push the limits of what&rsquo;s possible</li>
+	<li>
+		Experience leading and managing people</li>
+	<li>
+		Able to work independently with minimal top-down instruction</li>
+	<li>
+		Startup experience a plus</li>
+	<li>
+		Bilingual a plus</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/onswipe/McFmkE"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110506161729_PWPPSIWGSHUIJLHY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Lead Data Scientist]]></title>
+			<department><![CDATA[Engineering – Analytics and Data]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://onswipe.theresumator.com/apply/CF9Uc3/Lead-Data-Scientist.html]]></url>
+			<city><![CDATA[New York City]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10003]]></postalcode>
+			<description><![CDATA[<p>
+	Do you want to deal with one of the most robust sets of content data on the planet? &nbsp;We&#39;re looking for someone to help us do two things as Lead Data Scientist: &nbsp;help us provide better content+advertising recs and interpret the entire analytics of the platform.</p>
+<p>
+	Onswipe has an immediate opening for a lead data scientist that will work with, interpret, and use the data (for good only&mdash;no evil) available on the&nbsp;<span class="Apple-style-span" style="white-space: nowrap;">Onswipe platform, to a) make Onswipe&nbsp;better and b) understand the data across our platform.</span></p>
+<p>
+	<span class="Apple-style-span" style="font-size: 18px; font-weight: bold; ">Four things that would make us <em>love</em> you</span></p>
+<div>
+	<ol>
+		<li>
+			Working on personalization and content recommendations is your dream.</li>
+		<li>
+			You love large datasets that can be mined for improving the experience of a user.</li>
+		<li>
+			You know how to tell which points of data are important to record as analytics to improve the platform as a whole.</li>
+		<li>
+			You believe that content and advertising are one in the same, so that your code treats content recs&nbsp;in a similar manner to advertising targeting.</li>
+	</ol>
+</div>
+<p>
+	<span class="Apple-style-span" style="font-size: 18px; font-weight: bold; ">Responsibilities</span></p>
+<ul>
+	<li>
+		Coming up with data mining and recommendation algorithms for the entire platform.</li>
+	<li>
+		Deciding which analytics are most important for the tablet environment.</li>
+	<li>
+		Constantly analyzing data to decide how to provide a better experience.</li>
+	<li>
+		Working on behavioral targeting based upon the readergraph for advertising targeting.</li>
+</ul>
+<p style="margin-top:15px;">
+	<span class="Apple-style-span" style="font-size: 18px; font-weight: bold; ">Requirements</span></p>
+<ul>
+	<li>
+		Artificial intelligence and data mining background.</li>
+	<li>
+		Previous experience at companies that analyzed content for better recommendations.</li>
+	<li>
+		Data driven.</li>
+	<li>
+		Ability to correlate data to a better experience.</li>
+</ul>
+<p style="margin-top:15px;">
+	<span class="Apple-style-span" style="font-size: 18px; font-weight: bold; ">Why work at Onswipe?</span></p>
+<p>
+	<strong><a href="http://blog.onswipe.com/jobs/9-reasons-why-you-need-to-work-at-onswipe">Our CEO, Jason, wrote a post called &quot;9 Reasons Why You Need To Work At Onswipe&quot; that you should read.</a></strong> We put a lot of emphasis on promoting entrepreneurship in our workplace, and we want entrepreneurial team members that have world-changing dreams and ambitions. <strong>We believe that we should contribute as much to your personal development as you contribute to the company.</strong></p>
+<p>
+	Working with us, you will learn, take risks and push the limits with a group of dedicated entrepreneurs, experienced mentors, advisors and investors.&nbsp;Onswipe is backed by leading investment firms (Spark Capital, BetaWorks, TechStars, Eniac), and led by experienced serial entrepreneurs (Cloudomatic, Grooveshark)</p>
+<p>
+	<strong>Benefits and Perks:</strong></p>
+<ul>
+	<li>
+		Startup/entrepreneur mentorship</li>
+	<li>
+		Medical coverage</li>
+	<li>
+		Apple equipment of your choosing</li>
+	<li>
+		Company-provided iPhone and iPad (yeah!)</li>
+	<li>
+		Stock options</li>
+	<li>
+		Flexible hours</li>
+	<li>
+		Travel/Training budget</li>
+	<li>
+		Relocation Allowance</li>
+</ul>
+<p>
+	<strong>Who we are looking for</strong>:</p>
+<ul>
+	<li>
+		Entrepreneurial, Ambitious and Passionate</li>
+	<li>
+		Driven to learn and push the limits of what&rsquo;s possible</li>
+	<li>
+		Experience leading and managing people</li>
+	<li>
+		Able to work independently with minimal top-down instruction</li>
+	<li>
+		Startup experience a plus</li>
+	<li>
+		Bilingual a plus</li>
+</ul>
+<p>
+	<strong>In your application, please also list:</strong></p>
+<ul>
+	<li>
+		Your favorite thing you&#39;ve worked on related to data science and interpretation</li>
+	<li>
+		Your experience with data science</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/onswipe/CF9Uc3"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110506172630_NMGASS7CENDD6Y8A]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Frontend HTML5/Javascript Touch Developer]]></title>
+			<department><![CDATA[Frontend]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://onswipe.theresumator.com/apply/CDFSLP/Frontend-HTML5Javascript-Touch-Developer.html]]></url>
+			<city><![CDATA[New York City]]></city>
+			<state><![CDATA[NY]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[10003]]></postalcode>
+			<description><![CDATA[<p>
+	We are looking for someone who loves Javascript, and stays framework agnostic. Someone who dreams in HTML5 and sees the world in CSS3 Gradients. Above all, we need a self starter who wants to be a part of designing and creating excellence.</p>
+<p style="text-align: left;">
+	<strong><em>Four Things That Would Make Us LOVE You</em></strong></p>
+<ol>
+	<li>
+		You have built an app specifically for the touch web before.</li>
+	<li>
+		You understand how to use HTML5 capabilities such as offline caching and geo location.</li>
+	<li>
+		You know how to make webkit transforms blow a user away.</li>
+	<li>
+		You know how to make Javascript work smoothly in conjunction with beautiful design. ie- effects that aren&rsquo;t just thrown in.</li>
+</ol>
+<div>
+	<span class="Apple-style-span" style="font-size: 18px; font-weight: bold; ">Responsibilities</span>
+	<ul>
+		<li>
+			Develop and implement HTML5-based layouts&nbsp;</li>
+		<li>
+			Create touch interactions with the content</li>
+		<li>
+			Have free reign with the blank canvas of the tablet browser</li>
+		<li>
+			Work with our team, which includes our lead experience fellow, who has a Master&#39;s in multitouch interfaces. (you can get those?)</li>
+	</ul>
+	<p style="margin-top:15px;">
+		<span class="Apple-style-span" style="font-size: 18px; font-weight: bold; ">Requirements</span></p>
+	<ul>
+		<li>
+			Extensive knowledge of HTML, especially&nbsp;HTML5.</li>
+		<li>
+			Extensive knowledge of CSS, especially CSS3.</li>
+		<li>
+			Extensive knowledge of Javascript.</li>
+		<li>
+			Touch experience with Javascript a must.</li>
+	</ul>
+</div>
+<h2>
+	Why work at OnSwipe?</h2>
+<p>
+	<a href="http://blog.onswipe.com/jobs/9-reasons-why-you-need-to-work-at-onswipe">Our CEO wrote a post called &quot;9 Reasons Why You Need To Work At Onswipe&quot; that you should read.</a> We put a lot of emphasis on promoting entrepreneurship in our workplace, and we want entrepreneurial team members that have world-changing dreams and ambitions. we believe that we should contribute as much to your personal development as you contribute to the company. &nbsp;Working with us, you will learn, take risks and push the limits with a group of dedicated entrepreneurs, experienced mentors, advisors and investors. Onswipe is backed by leading investment firms (Spark Capital, BetaWorks, Techstars, Eniac), and led by experienced serial entrepreneurs (Cloudomatic, Grooveshark)</p>
+<p>
+	<strong>Benefits and Perks:</strong></p>
+<ul>
+	<li>
+		Startup/Entrepreneur Mentorship</li>
+	<li>
+		Medical Coverage</li>
+	<li>
+		Apple Equipment of your Choosing</li>
+	<li>
+		Company Provided iPhone and iPad</li>
+	<li>
+		Stock Options</li>
+	<li>
+		Flexible Hours</li>
+	<li>
+		Travel/Training Budget</li>
+	<li>
+		All The Latest Touch Interface Gadgets (iOS, Android, BB, etc.)</li>
+	<li>
+		Relocation Allowance</li>
+</ul>
+<p>
+	<strong>Who We Are Looking For</strong>:</p>
+<ul>
+	<li>
+		Entrepreneurial, Ambitious and Passionate</li>
+	<li>
+		Driven To Learn And Push The Limits Of What&rsquo;s Possible</li>
+	<li>
+		Experience Leading And Managing People</li>
+	<li>
+		Bi-Lingual A Plus</li>
+	<li>
+		Able To Work Independently With Minimal Top-Down Instruction</li>
+	<li>
+		Startup Experience A Plus</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/onswipe/CDFSLP"></script>]]></buttons>
+		</job>
+	</jobs>

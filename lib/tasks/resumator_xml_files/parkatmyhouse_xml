@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[ParkatmyHouse]]></company>
+			<job>
+			<id><![CDATA[job_20100802124732_BOWECH0O3FILPEUZ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Lead developer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://parkatmyhouse.theresumator.com/apply/gtg6uc/Lead-Developer.html]]></url>
+			<city><![CDATA[London]]></city>
+			<state><![CDATA[]]></state>
+			<country><![CDATA[United Kingdom]]></country>
+			<postalcode><![CDATA[W1D 5BE]]></postalcode>
+			<description><![CDATA[<div><strong>Benefits of working at ParkatmyHouse</strong></div>
+<div>·<span style="white-space: pre;"> </span>Get in at an early stage of an exciting company</div>
+<div>·<span style="white-space: pre;"> </span>Flexibility to choose the tools you want to get the job done</div>
+<div>·<span style="white-space: pre;"> </span>Remote working available</div>
+<div>·<span style="white-space: pre;"> </span>Competitive salary</div>
+<div>·<span style="white-space: pre;"> </span>Flexible hours</div>
+<div><br /></div>
+<div><strong>Responsibilities</strong></div>
+<div><br /></div>
+<div>You will be working within a small team to develop and iterate the ParkatmyHouse (<a href="http://www.parkatmyhouse.co.uk" target="_blank">www.parkatmyhouse.co.uk</a>) web application, with varied responsibilities including the following:</div>
+<div><br /></div>
+<div>·<span style="white-space: pre;"> </span>Develop new features for the ParkatmyHouse web application</div>
+<div>·<span style="white-space: pre;"> </span>Develop the supporting infrastructure and in-house development processes</div>
+<div>·<span style="white-space: pre;"> </span>Diagnose performance bottlenecks and implement optimizations</div>
+<div><br /></div>
+<div><strong>Requirements</strong></div>
+<div><br /></div>
+<div>·<span style="white-space: pre;"> </span>Solid design, programming, and debugging skills</div>
+<div>·<span style="white-space: pre;"> </span>A demonstrated expert-level proficiency in <strong>Python/Django</strong></div>
+<div>·<span style="white-space: pre;"> </span>A strong understanding of SQL and database design</div>
+<div>·<span style="white-space: pre;"> </span>Experienced in the use of appropriate development tools including source code management (Git is preferred) and the Linux command line</div>
+<div>·<span style="white-space: pre;"> </span>Excellent technical communication, both verbal and written</div>
+<div>·<span style="white-space: pre;"> </span>Ridiculous attention to detail</div>
+<div>·<span style="white-space: pre;"> </span>Focus on customers’ needs and desire to build technology solutions to address them.</div>
+<div>·<span style="white-space: pre;"> </span>Have experience or feel they can quickly learn:</div>
+<div>
+<ul>
+<li>SQLAlchemy interfacing with Postgres + PostGIS (via GeoAlchemy)</li>
+<li>jinja2 templates</li>
+<li>Solr</li>
+<li>RabbitMQ</li>
+<li>Memcached</li>
+<li>Apache/WSGI</li>
+<li>HAProxy</li>
+</ul>
+</div>
+<div><br /></div>
+<div><strong>About you</strong></div>
+<div><br /></div>
+<div>We are looking for the kind of people that thrive in a startup environment – those who love taking responsibility for their work, understanding and solving problems.</div>
+<div><br /></div>
+<div>·<span style="white-space: pre;"> </span>You are a highly motivated self-starter who can work independently with minimal supervision</div>
+<div>·<span style="white-space: pre;"> </span>You don't give up at challenging tasks</div>
+<div>·<span style="white-space: pre;"> </span>You care about code quality and design and take pride ensuring your code is stable and secure</div>
+<div>·<span style="white-space: pre;"> </span>You are eager to learn from others and to share skills with your colleagues</div>
+<div>·<span style="white-space: pre;"> </span>You want to have fun producing software for the consumer internet market where people you know will want to use the things you create</div>
+<div>·<span style="white-space: pre;"> </span>You are horrified if you miss a deadline</div>
+<div><br /></div>
+<div><strong>Extra Credit</strong></div>
+<div><br /></div>
+<div>·<span style="white-space: pre;"> </span>Previous experience in a startup or similarly agile company</div>
+<div>·<span style="white-space: pre;"> </span>Active in the community – open source etc.</div>
+<div>·<span style="white-space: pre;"> </span>Understanding of SEO, SEM and other online marketing strategies</div>
+<div>·<span style="white-space: pre;"> </span>A dab hand at Photoshop</div>
+<div>·<span style="white-space: pre;"> </span>Have used our service before :-)</div>
+<div><br /></div>]]></description>
+			<type><![CDATA[Contracted to Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/parkatmyhouse/gtg6uc"></script>]]></buttons>
+		</job>
+	</jobs>

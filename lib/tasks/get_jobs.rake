@@ -57,7 +57,7 @@ namespace :jobs do
   desc "Get jobs from Resumator"
   task :resumator => :environment do
     #File.read('resumator_clients.txt').split("\n").each do |company_name|
-    xml_dir = 'lib/resumator_xmls/resumator_xml_files'
+    xml_dir = 'lib/tasks/resumator_xml_files'
     Dir.foreach(xml_dir) do |filename|
       next if filename == '.' or filename == '..'
       company_data_xml = open("#{xml_dir}/#{filename}").read

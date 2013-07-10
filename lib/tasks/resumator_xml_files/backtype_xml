@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[BackType Inc.]]></company>
+			<job>
+			<id><![CDATA[job_20090726181659_ZPJLHTAHEQVPOVHW]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[BackType]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://backtype.theresumator.com/apply/DNFiF7/Software-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<div id="wikipage" class="box wikistyle">
+<div id="wikipage-inner">
+<p><a href="http://www.backtype.com/" target="_blank">BackType</a> is a social media analytics company founded in June, 2008.    We develop products that help companies understand their social impact.</p>
+<p>We're a small team (<a href="http://twitter.com/golda" target="_blank">Chris</a>, <a href="http://twitter.com/nathanmarz" target="_blank">Nathan</a>, and <a href="http://twitter.com/michaelmontano">Mike</a>), who love building great   products and pushing code every single day. By leveraging technologies   like EC2, Clojure, Thrift and Hadoop to the fullest extent we're able  to  test new ideas and ship new products faster than teams ten times our   size. Also, unlike most companies, we don't just talk the talk when it  comes to open-source. Not only is BackType built on open-source  software, but we're also very active contributors:</p>
+<p><a href="http://tech.backtype.com/">http://tech.backtype.com/</a><br /><a href="http://www.backtype.com/opensource">http://www.backtype.com/opensource</a></p>
+<p>We believe in creating an environment that attracts a rare type of     person — the type of person that wants to change the world and takes a     radically different approach to responsibility. We don’t believe in     managing each other or have BS meetings: the best ideas and solutions  win, regardless of    seniority. Working with us means you’ll have a  significant impact on the    way we think, what we make, and where we  go. We’re committed to bringing together    amazing people to do amazing  things, and we work tirelessly to pursue    our goals.</p>
+<p> </p>
+<p><span style="font-weight: bold;">Role   &amp; Responsibilities</span></p>
+<ul>
+<li>Immediately make significant contributions to our technology</li>
+<li>Design, develop and deploy beautiful, useful products</li>
+<li>Help scale our existing products that serve over 500M monthly   requests </li>
+<li>Maintain ownership of large portions of product and infrastructure</li>
+</ul>
+<p><span style="font-weight: bold;">Requirements</span></p>
+<ul>
+<li>You're a hacker that gets things done: a real doer, not just a     thinker</li>
+<li>An engineering mindset; constantly trying to improve systems</li>
+<li>You're someone who loves picking up new languages and technologies</li>
+<li>Make decisions independently and iterate rapidly</li>
+<li>Comfortable working in chaos and uncertainty</li>
+<li>Prepared to make this start-up the primary focus of your life</li>
+</ul>
+<p><span style="font-weight: bold;">Perks</span></p>
+<ul>
+<li>Working alongside world class engineers that are extremely     passionate about their work</li>
+<li>Great compensation; equity, salary and benefits</li>
+<li>Start-up atmosphere and environment in the leading location for     technology innovation </li>
+</ul>
+<p> </p>
+<p><span style="font-weight: bold;">Application</span></p>
+<p>A cover letter is not necessary. To stand out, please include links   to work/projects you've done that show off your skillset. We're looking  for people that build things. Also, if  you're  a member of <a href="http://news.ycombinator.com/">Hacker News</a>, <a href="http://github.com/">Github</a> or <a href="http://twitter.com/"> Twitter</a>,   please include your username(s).</p>
+<p><span style="font-weight: bold;">About   BackType</span></p>
+<p style="text-align: left;"><a href="http://www.backtype.com/">BackType</a> is a  technology start-up with seed funding from <a href="http://ycombinator.com/">Y   Combinator</a> and <a href="http://www.trueventures.com/">True Ventures</a>. Since   launching   publicly in August, 2008, BackType has been used by hundreds   of   thousands of people all over the world; <a href="http://www.backtype.com/developers">our API</a> serves tens   of  millions of requests every single day. We also get to  collaborate   and  partner with <a title="How Are Companies Using BackType's API?" href="http://blog.backtype.com/2009/07/how-are-companies-using-backtypes-api/">lots     of cool companies</a>. We've been <a title="BackType Press" href="http://www.backtype.com/press">mentioned</a> in publications    like  The New York Times, TechCrunch and BusinessWeek.</p>
+</div>
+</div>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/backtype/DNFiF7"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20091111205126_HQRSODVXINEOQ3LU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Developer]]></title>
+			<department><![CDATA[BackType]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://backtype.theresumator.com/apply/ij7NWJ/Web-Developer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p><a href="http://www.backtype.com/" target="_blank">BackType</a> is a social media analytics company founded in June, 2008.   We develop products that help companies understand their social impact.</p>
+<p>We're a small team (<a href="http://twitter.com/golda" target="_blank">Chris</a>, <a href="http://twitter.com/nathanmarz" target="_blank">Nathan</a>, and <a href="http://twitter.com/michaelmontano" target="_blank">Mike</a>), who love building great  products and pushing code every single day. By leveraging technologies  like EC2, Clojure, Thrift and Hadoop to the fullest extent we're able to  test new ideas and ship new products faster than teams ten times our  size.</p>
+<p>We believe in creating an environment that attracts a rare type of    person — the type of person that wants to change the world and takes a    radically different approach to responsibility. We don’t believe in    managing each other: the best ideas and solutions win, regardless of    seniority. If you work with us, you’ll have a significant impact on the    way we think, what we make, and where we go. We’re bringing together    amazing people to do amazing things, and we work tirelessly to pursue    our goals.</p>
+<p> </p>
+<p><span style="font-weight: bold;">Role   &amp; Responsibilities</span></p>
+<ul>
+<li>Immediately make significant contributions to our technology</li>
+<li>Design, develop and deploy beautiful, useful products</li>
+<li>Help scale our existing products that serve over 500M monthly  requests </li>
+</ul>
+<p><span style="font-weight: bold;">Requirements</span></p>
+<ul>
+<li>You're a hacker that gets things done: a real doer, not just a    thinker</li>
+<li>You have an incredible design aesthetic, but can also get down with  technologies like Thrift, Twisted, and Comet </li>
+<li>You're someone who loves picking up new languages and technologies</li>
+<li>Passionate about user experience, information design, and usability</li>
+<li>Obsessed with learning; willing to use tools like Mixpanel and  Kissmetrics to improve your products </li>
+<li>Make decisions independently and iterate rapidly</li>
+<li>Comfortable working in chaos and uncertainty</li>
+<li>Prepared to make this start-up the primary focus of your life</li>
+</ul>
+<p><span style="font-weight: bold;">Perks</span></p>
+<ul>
+<li>Working alongside world class engineers that are extremely    passionate about their work</li>
+<li>Great compensation; flexible hours and attire</li>
+<li>Start-up atmosphere and environment in the leading location for    technology innovation</li>
+<li>Potential to develop into a full-time role as an early employee</li>
+</ul>
+<p> </p>
+<p><span style="font-weight: bold;">Application</span></p>
+<p>Links, links, links!!! We're looking for people who build things —  show us what you're proud of. Also, if  you're  a member of <a href="http://news.ycombinator.com/">Hacker News</a>, <a href="http://github.com/">Github</a> or <a href="http://twitter.com/"> Twitter</a>,   please include your username(s).</p>
+<p><span style="font-weight: bold;">About   BackType</span></p>
+<p style="text-align: left;"><a href="http://www.backtype.com/">BackType</a> is a  technology start-up with seed funding from <a href="http://ycombinator.com/">Y   Combinator</a> and <a href="http://www.trueventures.com/">True Ventures</a>. Since   launching  publicly in August, 2008, BackType has been used by hundreds   of  thousands of people all over the world; <a href="http://www.backtype.com/developers">our API</a> serves tens   of millions of requests every single day. We also get to  collaborate   and partner with <a title="How Are Companies Using BackType's API?" href="http://blog.backtype.com/2009/07/how-are-companies-using-backtypes-api/">lots    of cool companies</a>. We've been <a title="BackType Press" href="http://www.backtype.com/press">mentioned</a> in publications   like  The New York Times, TechCrunch and BusinessWeek.</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/backtype/ij7NWJ"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20090922215004_HBL6O8TQPE6ODYLV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Developer - Intern]]></title>
+			<department><![CDATA[BackType]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://backtype.theresumator.com/apply/F38wS3/Software-Developer-Intern.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p><em>Note: This is a paid internship  position</em></p>
+<p>BackType is a social media analytics company founded in June, 2008.  We develop products that help companies understand their social impact.</p>
+<p>We believe in creating an environment that attracts a rare type of   person — the type of person that wants to change the world and takes a   radically different approach to responsibility. We don’t believe in   managing each other: the best ideas and solutions win, regardless of   seniority. If you work with us, you’ll have a significant impact on the   way we think, what we make, and where we go. We’re bringing together   amazing people to do amazing things, and we work tirelessly to pursue   our goals.</p>
+<p>We're obsessed with learning about our customers and creating  incredibly beautiful and useful products. By using tools like Clojure,  Thrift, and Hadoop, we're able to ship products and test new ideas  several times a week,  rather than every few months.</p>
+<p>If you’re wondering what it’s like to work for a fast growing,   venture funded start-up in Silicon Valley, this is the opportunity for   you.</p>
+<p> </p>
+<p><span style="font-weight: bold;">Role  &amp; Responsibilities</span></p>
+<ul>
+<li>Immediately make significant contributions to our technology</li>
+<li>Design, develop and deploy scalable real-time analytics products</li>
+</ul>
+<p><span style="font-weight: bold;">Requirements</span></p>
+<ul>
+<li>You're a hacker that gets things done: a real doer, not just a   thinker</li>
+<li>Desire to solve exceptionally hard problems that have never been   solved before</li>
+<li>Happy to tackle problems outside your core competencies</li>
+<li>You're someone who loves picking up new languages and technologies</li>
+<li>Make decisions independently and iterate rapidly</li>
+<li>Comfortable working in chaos and uncertainty</li>
+<li>Prepared to make this start-up the primary focus of your life</li>
+</ul>
+<p><span style="font-weight: bold;">Perks</span></p>
+<ul>
+<li>Working alongside world class engineers that are extremely   passionate about their work</li>
+<li>Great compensation</li>
+<li>Start-up atmosphere and environment in the leading location for   technology innovation</li>
+<li>Potential to develop into a full-time role as an early employee</li>
+</ul>
+<p> </p>
+<p><span style="font-weight: bold;">Application</span></p>
+<p>We're not really interested in reading standard cover letters.   Instead, tell us why you to work at an early stage  start-up rather than  a large incumbent like Google or Microsoft. We're looking for people  who love building things — so link us to things you're proud of. Also,  if  you're a member of <a href="http://news.ycombinator.com/">Hacker News</a>, <a href="http://github.com/">Github</a> or <a href="http://twitter.com/"> Twitter</a>,  please include your username(s).</p>
+<p><span style="font-weight: bold;">About  BackType</span></p>
+<p style="text-align: left;"><a href="http://www.backtype.com/">BackType</a> is a  technology start-up with seed funding from <a href="http://ycombinator.com/">Y  Combinator</a> and <a href="http://www.trueventures.com/">True Ventures</a>. Since  launching  publicly in August, 2008, BackType has been used by hundreds  of  thousands of people all over the world; <a href="http://www.backtype.com/developers">our API</a> serves tens  of millions of requests every single day. We also get to  collaborate  and partner with <a title="How Are Companies Using BackType's API?" href="http://blog.backtype.com/2009/07/how-are-companies-using-backtypes-api/">lots   of cool companies</a>. We've been <a title="BackType Press" href="http://www.backtype.com/press">mentioned</a> in publications  like  The New York Times, TechCrunch and BusinessWeek.</p>
+<p> </p>]]></description>
+			<type><![CDATA[Internship]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/backtype/F38wS3"></script>]]></buttons>
+		</job>
+	</jobs>

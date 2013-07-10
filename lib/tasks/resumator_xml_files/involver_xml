@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Involver]]></company>
+			<job>
+			<id><![CDATA[job_20100618171620_QOJCO97TBR0PJFIF]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Ruby on Rails Devs]]></title>
+			<department><![CDATA[Involver]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://involver.theresumator.com/apply/rXfLDC/Ruby-On-Rails-Devs.html]]></url>
+			<city><![CDATA[Austin]]></city>
+			<state><![CDATA[TX]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[78701]]></postalcode>
+			<description><![CDATA[<p><!--StartFragment--></p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; mso-pagination: none; mso-layout-grid-align: none; text-autospace: none;"><span style="font-size: 16.0pt; font-family: Arial; mso-bidi-font-family: Arial;">Ruby on Rails Programmer</span></p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; mso-pagination: none; mso-layout-grid-align: none; text-autospace: none;"><span style="font-family: Arial; mso-bidi-font-family: Arial;">Type: Full time Experience: Mid-level to experienced</span></p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; mso-pagination: none; mso-layout-grid-align: none; text-autospace: none;"><span style="font-family: Arial; mso-bidi-font-family: Arial;">We are a Rails (and Sinatra) shop with lots of cool technical challenges like:</span></p>
+<p class="MsoNormal" style="margin-left: .5in; text-indent: -.5in; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: 11.0pt .5in; mso-layout-grid-align: none; text-autospace: none;"><span style="font-family: Arial; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial;"><span style="mso-list: Ignore;">•<span style="font: 7.0pt "> </span></span></span><span style="font-family: Arial; mso-bidi-font-family: Arial;">Handling superbowl-scale loads on a daily basis</span></p>
+<p class="MsoNormal" style="margin-left: .5in; text-indent: -.5in; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: 11.0pt .5in; mso-layout-grid-align: none; text-autospace: none;"><span style="font-family: Arial; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial;"><span style="mso-list: Ignore;">•<span style="font: 7.0pt "> </span></span></span><span style="font-family: Arial; mso-bidi-font-family: Arial;">Customizing experiences for major brands</span></p>
+<p class="MsoNormal" style="margin-left: .5in; text-indent: -.5in; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: 11.0pt .5in; mso-layout-grid-align: none; text-autospace: none;"><span style="font-family: Arial; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial;"><span style="mso-list: Ignore;">•<span style="font: 7.0pt "> </span></span></span><span style="font-family: Arial; mso-bidi-font-family: Arial;">Loading hundreds of thousands of pieces of content from different sources every day</span></p>
+<p class="MsoNormal" style="margin-left: .5in; text-indent: -.5in; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: 11.0pt .5in; mso-layout-grid-align: none; text-autospace: none;"><span style="font-family: Arial; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial;"><span style="mso-list: Ignore;">•<span style="font: 7.0pt "> </span></span></span><span style="font-family: Arial; mso-bidi-font-family: Arial;">Trialing new APIs from companies like FB before they become public</span></p>
+<p class="MsoNormal" style="margin-left: .5in; text-indent: -.5in; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: 11.0pt .5in; mso-layout-grid-align: none; text-autospace: none;"><span style="font-family: Arial; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial;"><span style="mso-list: Ignore;">•<span style="font: 7.0pt "> </span></span></span><span style="font-family: Arial; mso-bidi-font-family: Arial;">Using document-oriented databases for achieving large data scales</span></p>
+<p class="MsoNormal" style="margin-left: .5in; text-indent: -.5in; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: 11.0pt .5in; mso-layout-grid-align: none; text-autospace: none;"><span style="font-family: Arial; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial;"><span style="mso-list: Ignore;">•<span style="font: 7.0pt "> </span></span></span><span style="font-family: Arial; mso-bidi-font-family: Arial;">Managing a large AWS infrastructure</span></p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; mso-pagination: none; mso-layout-grid-align: none; text-autospace: none;"><span style="font-size: 16.0pt; font-family: Arial; mso-bidi-font-family: Arial;">Role:</span></p>
+<p class="MsoNormal" style="margin-left: .5in; text-indent: -.5in; mso-pagination: none; mso-list: l1 level1 lfo2; tab-stops: 11.0pt .5in; mso-layout-grid-align: none; text-autospace: none;"><span style="font-family: Arial; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial;"><span style="mso-list: Ignore;">•<span style="font: 7.0pt "> </span></span></span><span style="font-family: Arial; mso-bidi-font-family: Arial;">Build new experiences for connecting brands and people</span></p>
+<p class="MsoNormal" style="margin-left: .5in; text-indent: -.5in; mso-pagination: none; mso-list: l1 level1 lfo2; tab-stops: 11.0pt .5in; mso-layout-grid-align: none; text-autospace: none;"><span style="font-family: Arial; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial;"><span style="mso-list: Ignore;">•<span style="font: 7.0pt "> </span></span></span><span style="font-family: Arial; mso-bidi-font-family: Arial;">Work with Fortune 500 companies to define and implement new features</span></p>
+<p class="MsoNormal" style="margin-left: .5in; text-indent: -.5in; mso-pagination: none; mso-list: l1 level1 lfo2; tab-stops: 11.0pt .5in; mso-layout-grid-align: none; text-autospace: none;"><span style="font-family: Arial; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial;"><span style="mso-list: Ignore;">•<span style="font: 7.0pt "> </span></span></span><span style="font-family: Arial; mso-bidi-font-family: Arial;">Ensure scalability for our millions of users</span></p>
+<p class="MsoNormal" style="margin-left: .5in; text-indent: -.5in; mso-pagination: none; mso-list: l1 level1 lfo2; tab-stops: 11.0pt .5in; mso-layout-grid-align: none; text-autospace: none;"><span style="font-family: Arial; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial;"><span style="mso-list: Ignore;">•<span style="font: 7.0pt "> </span></span></span><span style="font-family: Arial; mso-bidi-font-family: Arial;">Report to our CTO, one of inc.com's Top 30 Entrepreneurs Under 30</span></p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; mso-pagination: none; mso-layout-grid-align: none; text-autospace: none;"><span style="font-size: 16.0pt; font-family: Arial; mso-bidi-font-family: Arial;">Key Qualifications:</span></p>
+<p class="MsoNormal" style="margin-left: .5in; text-indent: -.5in; mso-pagination: none; mso-list: l2 level1 lfo3; tab-stops: 11.0pt .5in; mso-layout-grid-align: none; text-autospace: none;"><span style="font-family: Arial; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial;"><span style="mso-list: Ignore;">•<span style="font: 7.0pt "> </span></span></span><span style="font-family: Arial; mso-bidi-font-family: Arial;">Love of programming. You need to consider coding your craft, and always be seeking to hone your skills</span></p>
+<p class="MsoNormal"><span style="font-family: Arial; mso-bidi-font-family: Arial;">Independent and driven. You will be given areas to own and drive forward, and need to be able to do it without close supervision</span></p>
+<!--EndFragment-->
+<p> </p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/involver/rXfLDC"></script>]]></buttons>
+		</job>
+	</jobs>

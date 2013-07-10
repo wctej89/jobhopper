@@ -1,0 +1,2278 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Cloudera]]></company>
+			<job>
+			<id><![CDATA[job_20100126231339_LMBANULWAMIMBONA]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Distributed Systems Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudera.theresumator.com/apply/ZeAur3/Senior-Distributed-Systems-Engineer.html]]></url>
+			<city><![CDATA[Palo Alto or San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94306]]></postalcode>
+			<description><![CDATA[<p>
+	Cloudera is looking for a Senior Systems Engineer who wants to own major components of our data processing platform designed for petabytes of data. You will be dedicated to systems architecture, capacity, security, stability, and data flow issues throughout our high performance data pipelines. An analytical approach with deep understanding of all computer system layers is critical for success in this role.</p>
+<p>
+	<strong>Responsibilities</strong></p>
+<ul>
+	<li>
+		Build large distributed systems that scale well &ndash; to petabytes of data and tens of thousands of nodes.</li>
+	<li>
+		Understand performance bottlenecks, failure points, and security holes in such large scale systems, then design and implement software that avoids them.</li>
+	<li>
+		Develop tools that automate the operations, administration, and tuning of large Hadoop clusters.</li>
+	<li>
+		Develop tools that facilitate the tuning, development, debugging, and profiling of jobs running on such large clusters.</li>
+	<li>
+		Develop tools to enable the development and optimization of data work flow pipelines on top of Hadoop clusters.</li>
+	<li>
+		Profile and optimize large Hadoop clusters, at the application, operating system, file system, server and network levels.</li>
+	<li>
+		Administer application-level knowledge of back-end systems architecture, as well as contribution to the overall design to monitor and sustain our high standards of availability, security and performance</li>
+</ul>
+<p>
+	<strong>Qualifications</strong></p>
+<ul>
+	<li>
+		4+ years software development experience with a highly-scalable, distributed, large multi-node environment (1000+ nodes)</li>
+	<li>
+		6+ years of Unix environment experience (Red Hat Linux, FreeBSD) including shell scripting</li>
+	<li>
+		Extensive software development experience in C++, Java, and Python (Django is a strong plus)</li>
+	<li>
+		Custom network monitoring and application instrumentation experience</li>
+	<li>
+		System performance debugging and kernel forensics experience</li>
+	<li>
+		Strong troubleshooting and performance tuning skills (TCP/IP, DNS, File system, Load balancing, etc)</li>
+	<li>
+		Sufficient understanding of Grid computing, Map-Reduce, advanced server clustering and distributed programming</li>
+	<li>
+		Strong knowledge of RDBMS concepts and SQL</li>
+	<li>
+		Knowledge of file system, kernel and database internals &ndash; latency, throughput, reliability, availability, consistency, security, etc.</li>
+	<li>
+		Familiarity with the issues surrounding cross data center replication.</li>
+	<li>
+		Familiarity with virtual machine technologies</li>
+	<li>
+		Systems monitoring and management for grid computing.</li>
+	<li>
+		Provisioning and operating a large-scale compute/storage systems.</li>
+	<li>
+		Working knowledge of distributed file systems (development knowledge is a strong plus).</li>
+	<li>
+		Excellent communication skills</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudera/ZeAur3"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20100129224416_WKDAY3BLUYQJD9LX]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Hadoop Systems Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudera.theresumator.com/apply/BNi7Aj/Senior-Hadoop-Systems-Developer.html]]></url>
+			<city><![CDATA[Palo Alto or San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94306]]></postalcode>
+			<description><![CDATA[<p>
+	Cloudera is looking for a Senior Hadoop Systems Engineer who wants to own major components of the Apache Hadoop distributed data processing system, designed for petabytes of data. As a leading member of the Cloudera Hadoop development team, you will redefine the Hadoop architecture into components and services, enhancing the agility and pace of development as we scale up and leverage cloud computing technologies to support our customers. You will be dedicated to improving the Hadoop system architecture to improve its scalability, security, and stability. An analytical approach with deep understanding of Hadoop and all computer system layers is critical for success in this role.</p>
+<p>
+	<strong>Responsibilities:</strong></p>
+<ul>
+	<li>
+		Architectural leadership, broad knowledge of cloud/web services in general, and the Hadoop distributed system in particular.</li>
+	<li>
+		You will need to clearly articulate your design choices, mentoring and educating our engineering community</li>
+	<li>
+		Hands on coding of the key objects and interfaces that define the architectural boundaries of Hadoop components and services</li>
+	<li>
+		Re-organizing the Hadoop code base to create re-usable components and simplify the build process</li>
+	<li>
+		Build large distributed systems that scale well &ndash; to petabytes of data and thousands of nodes.</li>
+	<li>
+		Understand critical performance bottlenecks in those systems, and the ability to design software that avoids them.</li>
+	<li>
+		Develop tools (Java/Python) to automate the deployment, administration and performance monitoring of large Hadoop clusters, at the application, operating system, server and network levels.</li>
+	<li>
+		Administer application-level knowledge of back-end systems architecture, as well as contributing to their overall design to monitor and sustain our high standards of availability, security, and performance</li>
+</ul>
+<p>
+	<strong>Qualifications:</strong></p>
+<ul>
+	<li>
+		Solid understanding of the Hadoop distributed system internals with more than two years of working experience.</li>
+	<li>
+		Solid understanding of the Amazon Web Services EC2 platform and associated technologies.</li>
+	<li>
+		5+ years of distributed systems development experience</li>
+	<li>
+		5+ years of Unix environment experience (Red Hat Linux, FreeBSD) including Shell scripting</li>
+	<li>
+		Mastery of object oriented architecture and design in Java</li>
+	<li>
+		Software development experience in Python (Django is a strong plus)</li>
+	<li>
+		Experience with high-traffic, highly scalable, multi-threaded distributed software design patterns</li>
+	<li>
+		Significant troubleshooting and performance tuning skills/experience (TCP/IP, DNS, Load balancing, Kernel, Filesystem, etc)</li>
+	<li>
+		Deep conceptual understanding of scalability, performance, queuing, availability, coherence, caching, and synchronization techniques.</li>
+	<li>
+		Depth of understanding of Grid computing, Hadoop, advanced server clustering and distributed programming</li>
+	<li>
+		Expert Knowledge of RDBMS concepts and fluency in SQL</li>
+	<li>
+		Expertise in the evolution of persistent storage: Sharding, Hadoop, Eventual Consistency, SimpleDB, Dynamo</li>
+	<li>
+		Knowledge of file system and database kernel internals &ndash; latency, throughput, reliability, availability.</li>
+	<li>
+		Systems monitoring and management for large grid computing.</li>
+	<li>
+		Familiarity with the issues surrounding cross data center replication.</li>
+	<li>
+		Expertise with provisioning and operations of a large-scale compute/storage cluster.</li>
+	<li>
+		Demonstrated ability to publish and present your ideas via conference presentations, technical blog postings, or published books/papers</li>
+	<li>
+		A Bachelors or Masters in Computer Science or equivalent engineering discipline</li>
+	<li>
+		Excellent communication skills including the ability to handle stress, self starting ability, and multi-tasking</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudera/BNi7Aj"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20100814041942_L2WY4GDEIKPOM5ZD]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Customer Operations Engineer]]></title>
+			<department><![CDATA[Cloudera Customer Solutions]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudera.theresumator.com/apply/AxjrOQ/Customer-Operations-Engineer.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94114]]></postalcode>
+			<description><![CDATA[<p>
+	<span style="font-family: Calibri;"><span style="font-family: Calibri; font-size: 11pt; color: #000000;">Does your passion for Hadoop come second only to your desire to make people successful? If so, Cloudera wants you to join our Customer Operations team. &nbsp;As part of Customer Solutions, our Customer Ops team provides ongoing operational support for some of the largest Hadoop clusters in the world. This role requires in-depth knowledge of Hadoop operations, including higher level projects such as Hive, Pig, HBase and Zookeeper. &nbsp;We use Hadoop internally to improve our own processes and to help support our customers.</span></span></p>
+<div style="text-indent: 0pt;">
+	&nbsp;</div>
+<div style="text-indent: 0pt;">
+	<span style="font-family: Calibri;"><span style="font-family: Calibri; font-size: 11pt; color: #000000;">Responsibilities</span></span></div>
+<div style="text-indent: 0pt;">
+	<ul>
+		<li>
+			<span style="font-family: Calibri;"><span style="font-family: Calibri; font-size: 11pt; color: #000000;">Ensure that customers can meet high SLAs and avoid pitfalls that bring down Hadoop and disrupt service</span></span></li>
+	</ul>
+</div>
+<div style="text-indent: 0pt;">
+	<ul>
+		<li>
+			<span style="font-family: Calibri;"><span style="font-family: Calibri; font-size: 11pt; color: #000000;">Work with customers to understand their operational needs</span></span></li>
+	</ul>
+</div>
+<div style="text-indent: 0pt;">
+	<ul>
+		<li>
+			<span style="font-family: Calibri;"><span style="font-family: Calibri; font-size: 11pt; color: #000000;">Help define requirements for our product and training teams</span></span></li>
+	</ul>
+</div>
+<div style="text-indent: 0pt;">
+	<ul>
+		<li>
+			<span style="font-family: Calibri;"><span style="font-family: Calibri; font-size: 11pt; color: #000000;">Encourage customers to create and maintain good practices for Hadoop development and deployment</span></span></li>
+	</ul>
+</div>
+<div style="text-indent: 0pt;">
+	<ul>
+		<li>
+			<span style="font-family: Calibri;"><span style="font-family: Calibri; font-size: 11pt; color: #000000;">Create and deliver guides for operational processes including upgrades, patches, and maintenance</span></span></li>
+	</ul>
+</div>
+<div style="text-indent: 0pt;">
+	<ul>
+		<li>
+			<span style="font-family: Calibri;"><span style="font-family: Calibri; font-size: 11pt; color: #000000;">Investigate issues with Hadoop as required for individual customers and across common trends</span></span></li>
+	</ul>
+</div>
+<div style="text-indent: 0pt;">
+	&nbsp;</div>
+<div style="text-indent: 0pt;">
+	<span style="font-family: Calibri;"><span style="font-family: Calibri; font-size: 11pt; color: #000000;">Qualifications</span></span></div>
+<div style="text-indent: 0pt;">
+	<ul>
+		<li>
+			<span style="font-family: Calibri;"><span style="font-family: Calibri; font-size: 11pt; color: #000000;">Operational experience setting up and managing Hadoop clusters</span></span></li>
+	</ul>
+</div>
+<div style="text-indent: 0pt;">
+	<ul>
+		<li>
+			<span style="font-family: Calibri;"><span style="font-family: Calibri; font-size: 11pt; color: #000000;">Java MapReduce code development</span></span></li>
+	</ul>
+</div>
+<div style="text-indent: 0pt;">
+	<ul>
+		<li>
+			<span style="font-family: Calibri;"><span style="font-family: Calibri; font-size: 11pt; color: #000000;">Familiarity with HQL, PigLatin, SQL and Python</span></span></li>
+	</ul>
+</div>
+<div style="text-indent: 0pt;">
+	<ul>
+		<li>
+			<span style="font-family: Calibri;"><span style="font-family: Calibri; font-size: 11pt; color: #000000;">Unix and systems administration experience</span></span></li>
+	</ul>
+</div>
+<div style="text-indent: 0pt;">
+	<ul>
+		<li>
+			<span style="font-family: Calibri;"><span style="font-family: Calibri; font-size: 11pt; color: #000000;">Network monitoring and application instrumentation experience</span></span></li>
+	</ul>
+</div>
+<div style="text-indent: 0pt;">
+	<ul>
+		<li>
+			<span style="font-family: Calibri;"><span style="font-family: Calibri; font-size: 11pt; color: #000000;">Strong troubleshooting and performance tuning skills</span></span></li>
+	</ul>
+</div>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudera/AxjrOQ"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20100827051017_6TPKIAS61APHV55P]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Product Manager]]></title>
+			<department><![CDATA[Product]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudera.theresumator.com/apply/wgphuh/Product-Manager.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94306]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>The Role</strong></p>
+<p>
+	Cloudera is looking for a Product Manager to join its growing team. As a Product Manager you will work on multiple products and components and be involved in all aspects of product development. Specific responsibilities include:</p>
+<ul>
+	<li>
+		Developing product &amp; market strategy: researching market segments, creating decision frameworks, formulating hypotheses &amp; advocating direction.</li>
+	<li>
+		Customer research: in person and virtual interviews to understand users, priorities and design considerations.</li>
+	<li>
+		Product design: functional analysis that identifies the best options for compelling, easy to use software.</li>
+	<li>
+		Prioritization: relentless prioritization across several competing objectives to make the optimal use of time and resources</li>
+	<li>
+		Launch &amp; promotion: prepare conference presentations, train partners and support sales opportunities.</li>
+	<li>
+		Whatever else is required: Write a test case, make a sandwich run. Do whatever is needed at the time to get great product to market quickly.</li>
+</ul>
+<p>
+	<strong>Qualifications</strong></p>
+<p>
+	The role is a mix of business and technical so the candidate should have some prior experience in both. Examples would include someone with market strategy experience and a CS undergraduate degree or a former engineer who has made the transition to a business role (marketing, sales, etc).</p>
+<p>
+	More important are the candidate&rsquo;s attributes. We are looking for:</p>
+<ul>
+	<li>
+		Business judgment &ndash; someone who is constantly able to assess the top priorities for the product and for their own time.</li>
+	<li>
+		High energy &ndash; keeps a fast pace and encourages others to keep up with them.</li>
+	<li>
+		Persistence &ndash; can visualize what a win looks like and won&rsquo;t accept less than that.</li>
+	<li>
+		Structured thinking &ndash; organizes questions, issues &amp; ideas into logically consistent frameworks that quickly generate defensible conclusions from limited amounts of data.</li>
+	<li>
+		Attention to detail &ndash;keep focus on a bug or design issue until everyone&rsquo;s satisfied they&rsquo;ve found the optimal solution.</li>
+	<li>
+		Maturity &amp; presence &ndash; can earn respect in an executive audience that may include customer employees, Cloudera employees or Cloudera investors.</li>
+</ul>
+<p>
+	<strong>About Cloudera</strong></p>
+<p>
+	Cloudera provides software and services for Hadoop, the leading platform for petabyte scale data management. Founded in 2008, Cloudera has more than 50 customers including Visa, eBay, and Groupon. Cloudera is backed by leading institutional and individual investors including Accel Partners, Greylock Ventures, Diane Greene and Martin Mickos.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudera/wgphuh"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20100827052941_DRUYTJEGASA87AJL]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[User Experience Designer]]></title>
+			<department><![CDATA[Product]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudera.theresumator.com/apply/OU4nDX/User-Experience-Designer.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94306]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>The Role</strong></p>
+<p>
+	<br />
+	Cloudera is looking for a User Experience Designer to join its growing team. This role has a unique opportunity not only to create some great products but also to set the standard for Cloudera&rsquo;s overall interaction design.</p>
+<p>
+	Responsibilities include:</p>
+<ul>
+	<li>
+		User research: organizing end user interviews and usability tests as input into the design process.</li>
+	<li>
+		Interaction design: work with product management to take high level requirements or use cases and elaborate those as process flows &amp; wireframes.</li>
+	<li>
+		User interfaces design: create the reference UI patterns that will create the visual signature for all of Cloudera&rsquo;s products. Evolve wireframes into high fidelity mockups.</li>
+	<li>
+		Product design: collaborate with product management and engineering on various aspects of the product design &amp; development process</li>
+</ul>
+<p>
+	<strong>Qualifications</strong></p>
+<p>
+	For this role, some prior experience in user and interaction design is a firm requirement. The ideal candidate is someone who has done user or interaction design before as part of a larger team and is ready to step up into a leadership role. More important are the candidate&rsquo;s attributes. We are looking for:</p>
+<ul>
+	<li>
+		Analytical rigor &ndash; someone who understands design as a method &amp; data driven, not a &ldquo;flash of brilliance&rdquo; driven activity</li>
+	<li>
+		High energy &ndash; keeps a fast pace and encourages others to keep up with them</li>
+	<li>
+		Nosy &ndash; knows enough about product management to call out bad inputs. Knows enough about UI software development to call out bad outputs.</li>
+	<li>
+		Persistence &ndash; can visualize what a win looks like and won&rsquo;t accept less than that</li>
+	<li>
+		Attention to detail &ndash;keeps iterating on an issue until they&rsquo;re satisfied they&rsquo;ve found the optimal solution for the user</li>
+	<li>
+		Good taste</li>
+</ul>
+<p>
+	Interested candidates should submit a resume and some screenshots of past work. No cover letter necessary.</p>
+<p>
+	<strong>About Cloudera</strong></p>
+<p>
+	Cloudera provides software and services for Hadoop, the leading platform for petabyte scale data management. Founded in 2008, Cloudera has more than 50 customers including Visa, eBay, Bank of America, Netflix and Groupon. Cloudera is backed by leading institutional and individual investors including Accel Partners, Greylock Ventures, Diane Greene and Martin Mickos.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudera/OU4nDX"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20101025080631_2ZYK7SBJG6L664MF]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Applications Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudera.theresumator.com/apply/EzMCHH/Applications-Software-Engineer.html]]></url>
+			<city><![CDATA[Palo Alto or San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94306]]></postalcode>
+			<description><![CDATA[<p>
+	Cloudera is looking for experienced and passionate developers to join&nbsp;our engineering team. You&#39;ll be responsible for architecting and&nbsp;implementing a diverse set of applications built as part of Cloudera Enterprise.</p>
+<p>
+	Ideal candidates will be well-rounded, comfortable working anywhere&nbsp;across a deep and varied software stack, and will have experience&nbsp;shipping production code.</p>
+<p>
+	On the job, you&#39;ll likely interact with the Hadoop ecosystem, Java&nbsp;servers, external/partner systems, databases, Linux, Python/Django web&nbsp;applications, and JavaScript/Mootools UIs. You&#39;ll find yourself&nbsp;pitching new ideas to customers, debugging hard-to-reproduce bugs, and&nbsp;building out new products and features.</p>
+<p>
+	<strong>Required Skills:</strong></p>
+<ul>
+	<li>
+		B.S. in Computer Science or equivalent experience</li>
+	<li>
+		4+ years experience building shipping software in at least two</li>
+	<li>
+		languages in a production environment.</li>
+	<li>
+		Strong understanding of systems, databases, and the web world.</li>
+	<li>
+		Experience with &quot;data-center scale&quot; computing.</li>
+	<li>
+		Excellent interpersonal and teamwork skills.</li>
+	<li>
+		Excellent analytical and problem solving skills.</li>
+	<li>
+		Ability and desire to work in a fast paced, test-driven, agile,&nbsp;collaborative and iterative programming environment.</li>
+	<li>
+		The Startup Spark: desire to create new things, dive in wherever&nbsp;there&#39;s a need, and learn new things.</li>
+	<li>
+		Deep understanding of some (any) large, complicated system.</li>
+</ul>
+<p>
+	<strong>Strong Plus:</strong></p>
+<ul>
+	<li>
+		Expertise with internals of data storage systems (databases, filesystems).</li>
+	<li>
+		Experience with distributed systems and RPC frameworks</li>
+</ul>
+<p>
+	<br />
+	<strong>Obligatory Buzz-words:</strong></p>
+<p>
+	Speak some of these? Hate some of them with a vengeance?</p>
+<p>
+	Protocol Buffers, JDBC, Hibernate, Java EE, AWS, SOA, Linux, CentOS,&nbsp;<br />
+	RHEL, Hadoop, Hive, ZooKeeper, Paxos, Python, Puppet, bcfg, SQL</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudera/EzMCHH"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20101109034051_GQV1HDI4FRLNEAR1]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Product Marketing Manager]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudera.theresumator.com/apply/ZDiSlz/Senior-Product-Marketing-Manager.html]]></url>
+			<city><![CDATA[Palo Alto or San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94306]]></postalcode>
+			<description><![CDATA[<p>
+<!--&#91;if gte mso 9&#93;><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="--"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><!&#91;endif&#93;--><!--&#91;if gte mso 9&#93;><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><!&#91;endif&#93;--><!--&#91;if gte mso 10&#93;>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+</style>
+<!&#91;endif&#93;--></p>
+<h1>
+	Description</h1>
+<p class="MsoNormal" style="line-height: 121%;">
+	<o:p>&nbsp;</o:p>Reporting to the VP of Marketing, the senior product marketing manager is responsible for messaging and positioning, sales enablement including sales tools/collateral creation and sales training, market and competitive analysis for Cloudera products.<span style="">&nbsp; </span></p>
+<h1>
+	Job responsibilities include</h1>
+<ul type="disc">
+	<li class="MsoNormal" style="">
+		Develop sales tools and other marketing collateral</li>
+	<li class="MsoNormal" style="">
+		Define product messaging and value propositions</li>
+	<li class="MsoNormal" style="">
+		Identify top customer success stories to support value propositions</li>
+	<li class="MsoNormal" style="">
+		Provide sales training in person, via webinars, recorded sessions, etc.</li>
+	<li class="MsoNormal" style="">
+		Deliver presentations to prospects, customer groups, analyst sessions, events, etc.</li>
+	<li class="MsoNormal" style="">
+		Conduct product and industry-based competitive analysis</li>
+	<li class="MsoNormal" style="">
+		Work with product management team to create product demos and other technical sales tools</li>
+	<li class="MsoNormal" style="">
+		Support demand generation initiatives and programs including webinars, tradeshows, and events</li>
+</ul>
+<h1>
+	Must have</h1>
+<ul style="margin-top: 0in;" type="disc">
+	<li class="MsoNormal" style="">
+		Based in the San Francisco bay area</li>
+	<li class="MsoNormal" style="">
+		Bachelor&#39;s degree in business or technology field</li>
+	<li class="MsoNormal" style="">
+		5+ years experience in software product marketing</li>
+	<li class="MsoNormal" style="">
+		Solid ability to understand and work with technical products</li>
+	<li class="MsoNormal" style="">
+		Demonstrated experience developing unique selling proposition and maintaining knowledge about primary competitor&rsquo;s products and services</li>
+	<li class="MsoNormal" style="">
+		Demonstrated experience delivering sales enablement tools (competitive research, white papers, data sheets, presentations, etc.)</li>
+	<li class="MsoNormal" style="">
+		Experience in database or other infrastructure s/w (in preferred order)</li>
+	<li class="MsoNormal" style="">
+		Excellent written, verbal, presentation communication skills</li>
+	<li class="MsoNormal" style="">
+		Ability to travel as required</li>
+</ul>
+<h1>
+	Nice To Have</h1>
+<ul style="margin-top: 0in;" type="disc">
+	<li class="MsoNormal" style="">
+		Early stage company experience</li>
+	<li class="MsoNormal" style="">
+		Sales engineering or consulting experience</li>
+	<li class="MsoNormal" style="">
+		Open Source software experience</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudera/ZDiSlz"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20101122231904_KFSGPHREBPZMGPPC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Instructor]]></title>
+			<department><![CDATA[Training]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudera.theresumator.com/apply/ZHUl20/Instructor.html]]></url>
+			<city><![CDATA[Any Location]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94063]]></postalcode>
+			<description><![CDATA[<p>
+	Do you enjoy teaching people? Can you explain&nbsp;highly technical topics in layman&#39;s terms? Do you like traveling the<br />
+	world? This is the job for you!</p>
+<p>
+	Cloudera is looking for instructors to teach public and private classes on Hadoop and related technologies.</p>
+<p>
+	<strong>Responsibilities:</strong></p>
+<ul>
+	<li>
+		Delivering various Cloudera training courses on technical topics&nbsp;including Hadoop development and administration</li>
+	<li>
+		Assist with creating and maintaining curriculum</li>
+	<li>
+		Work with customers to evaluate training needs</li>
+	<li>
+		Up to 75% travel required</li>
+	<li>
+		Candidate can live anywhere in the US</li>
+</ul>
+<p>
+	<strong>Qualifications:</strong></p>
+<ul>
+	<li>
+		Teaching experience</li>
+	<li>
+		Good written and verbal communication skills</li>
+	<li>
+		Experience with Linux administration</li>
+	<li>
+		Strong programming&nbsp;skills (preferably Java)</li>
+	<li>
+		Knowledge of SQL</li>
+</ul>
+<p>
+	<strong>Nice to have:</strong></p>
+<ul>
+	<li>
+		Knowledge about Hadoop, MapReduce, databases, distributed systems, networking, hardware</li>
+	<li>
+		BS in Computer Science</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudera/ZHUl20"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20101205221856_2UEJQ6WIETKIX9L3]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Support Engineer]]></title>
+			<department><![CDATA[Cloudera Customer Solutions]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudera.theresumator.com/apply/IDBOBX/Support-Engineer.html]]></url>
+			<city><![CDATA[Palo Alto or San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94114]]></postalcode>
+			<description><![CDATA[<p>
+	&nbsp;</p>
+<p>
+	<span style="border-collapse: separate; color: rgb(0, 0, 0); font-family: Arial; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: 10pt;"><span>Cloudera</span><span>&nbsp;</span>is looking for a Support Engineer who has a passion for making customers successful. You will join a team of highly skilled engineers who are responsible for delivering<span>&nbsp;</span><span>Cloudera&#39;s</span><span>&nbsp;</span>support services including assistance during engineering and operations of distributed systems and mission critical response for production customers. Strong communications and troubleshooting skills are critical for success in this role.<br />
+	<br />
+	<strong>Responsibilities</strong></span></p>
+<ul>
+	<li>
+		Ensure that critical customer issues are addressed&nbsp; quickly and effectively.</li>
+	<li>
+		Triage, diagnose and potentially escalate customer inquiries during their engineering and operations efforts.</li>
+	<li>
+		Investigate product related issues both for individual customers and for common trends that may arise.</li>
+	<li>
+		Study and understand critical system components and large cluster operations.</li>
+	<li>
+		Differentiate between issues that arise in operations, user code, third party libraries or product.</li>
+	<li>
+		Manage the day to day interactions with our customers.</li>
+	<li>
+		Identify requirements for additional focused services engagements.</li>
+	<li>
+		Coordinate enhancement and feature requests with product management and<span>&nbsp;</span><span>Cloudera</span>engineering.</li>
+	<li>
+		Facilitate upgrades, patches and maintenance to customer systems.</li>
+</ul>
+<p>
+	<br />
+	<strong>Qualifications</strong></p>
+<ul>
+	<li>
+		1+ years deployment experience with a highly-scalable, distributed, multi-node environment (10+ nodes).</li>
+	<li>
+		4+ years of<span>&nbsp;</span><span>Unix</span><span>&nbsp;</span>environment experience (Red Hat<span>&nbsp;</span><span>Linux</span>) including shell scripting.</li>
+	<li>
+		2+ years software development experience in<span>&nbsp;</span><span>C</span>++ or Java and Python.</li>
+	<li>
+		Network monitoring and application instrumentation experience.</li>
+	<li>
+		System performance debugging and kernel forensics experience.</li>
+	<li>
+		Strong troubleshooting and performance tuning skills (TCP/<span>IP</span>,<span>&nbsp;</span><span>DNS</span>, File system, Load balancing, etc).</li>
+	<li>
+		Understanding of Grid computing, Map-Reduce, advanced server clustering and distributed programming.</li>
+	<li>
+		Systems monitoring and management for grid computing.</li>
+	<li>
+		Provisioning and operating a large-scale compute/storage systems.</li>
+	<li>
+		Excellent communication skills.</li>
+</ul>
+<p>
+	<br />
+	<strong>Pluses</strong></p>
+<ul>
+	<li>
+		Knowledge of file system, kernel and database internals &ndash; latency, throughput, reliability, availability, consistency, security, etc.</li>
+	<li>
+		Familiarity with the issues surrounding cross data center replication.</li>
+	<li>
+		Strong knowledge of<span>&nbsp;</span><span>RDBMS</span><span>&nbsp;</span>concepts and SQL.</li>
+	<li>
+		Familiarity with virtual machine technologies.</li>
+	<li>
+		Working knowledge of distributed file systems (development knowledge is a strong plus).</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudera/IDBOBX"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20101228012951_FJYYWZDKWXVH3ZI7]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Data Integration Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudera.theresumator.com/apply/y8aKOi/Senior-Data-Integration-Developer.html]]></url>
+			<city><![CDATA[Palo Alto or San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94306]]></postalcode>
+			<description><![CDATA[<p>
+	Cloudera is looking for an engineer who can integrate our data processing platform with the Business Intelligence (BI) ecosystem via standards-compliant interfaces. You will build reliable, high-performance, resource-aware data access software, understanding both the high-level systems architecture and key details. A love of debugging hard problems in complex client-server and multi-tiered systems is critical for success in this role.</p>
+<p>
+	<strong>Responsibilities:</strong></p>
+<ul>
+	<li>
+		Develop next-generation data access and database connectivity technologies.</li>
+	<li>
+		Map standards-based data access APIs to next generation platform interfaces via software frameworks like&nbsp;&nbsp; Apache Thrift, Apache Avro, Protocol Buffers, and ONC RPC.</li>
+</ul>
+<p>
+	<strong>Qualifications:</strong></p>
+<ul>
+	<li>
+		4+ years experience with Windows API and POSIX programming interfaces.</li>
+	<li>
+		Experience with MSVC and the GNU toolchains. Familiarity with MINGW a plus.</li>
+	<li>
+		Ability to write systems software in C. Experience porting a non-trivial C and/or C++ application to Windows.</li>
+	<li>
+		Solid understanding of core systems concepts: networking, linking/loading, threads, code-generation, etc.</li>
+	<li>
+		You can debug hard problems in a client-server environment that require digging into low-level systems details, interpreting a stack trace, for example.</li>
+	<li>
+		Solid understanding of basic DB connectivity performance, eg statement and connection pooling.</li>
+	<li>
+		Solid understanding of SQL92, ODBC, JDBC, and DataDirect</li>
+	<li>
+		Strong knowledge of RDBMS concepts</li>
+	<li>
+		Understanding of bulk data loading APIs and protocols a plus</li>
+	<li>
+		Understanding of database client protocols (TDS, Ora, DB2, MySQL) a plus</li>
+	<li>
+		Experience working in Open Source development and communities a plus</li>
+	<li>
+		Hadoop, Hive and HBase experience a plus</li>
+	<li>
+		Excellent communication skills</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudera/y8aKOi"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110113225020_XAVU2HEGTTJB9MJ9]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Quality Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudera.theresumator.com/apply/gfrICE/Software-Quality-Engineer.html]]></url>
+			<city><![CDATA[Palo Alto or San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94306]]></postalcode>
+			<description><![CDATA[<p>
+	Cloudera is looking for a Software Engineer to join our Quality Team to help ensure the high quality of our distributed data processing platform built on Apache Hadoop and a number of related components. You will be responsible for designing and implementing tests for functionality, security, reliability, and scalability.&nbsp; You will be working closely<br />
+	with the development team to understand requirements, architecture, design, and implementation details of various components up and down the software stack.&nbsp; You will work with test automation and test frameworks, and will be troubleshooting and debugging challenging problems in complex distributed systems with massive scale.&nbsp; You will<br />
+	be coding tests primarily in Java.&nbsp; Attention to detail and good communication skills are required.<br />
+	<br />
+	If you enjoy taking things apart to see how they work and finding flaws in them and if you can spot edge conditions and corner cases easily, this may be a good job for you.<br />
+	<br />
+	Responsibilities</p>
+<ul>
+	<li>
+		Plan, design and implement functional, system, and regression tests within an automation test framework.</li>
+	<li>
+		Collaborate with developers and product management to understand requirements, use cases, and features</li>
+	<li>
+		.Analyze, isolate, and identify bugs, and track the issues to resolution.</li>
+	<li>
+		Manually execute test scenarios where automation is not available and help build automation so manual testing can be minimized</li>
+</ul>
+<p>
+	Qualifications</p>
+<ul>
+	<li>
+		A passion for product quality</li>
+	<li>
+		Strong Java coding skills</li>
+	<li>
+		Experience with large-scale distributed systems and/or data management systems</li>
+	<li>
+		Experience with testing automation tools and frameworks</li>
+	<li>
+		Experience working in a Unix environment (Red Hat, Ubuntu, etc.)</li>
+	<li>
+		Attention to detail</li>
+	<li>
+		Excellent verbal and written communication skills</li>
+	<li>
+		Eagerness and curiosity to learn new technologies</li>
+	<li>
+		Self-motivated, innovative, and proactive</li>
+	<li>
+		Experience with Apache <span>Hadoop</span> and its related technologies a big plus.&nbsp; You must have the ability and desire to learn it quickly if you don&#39;t already know it.</li>
+	<li>
+		Experience with open source automation tools (<span>JUnit</span>, <span>TestNG</span>, Selenium, <span>JMeter</span>, etc.) a plus.</li>
+	<li>
+		Experience with code coverage tools (Clover, <span>Cobertura</span>, etc.) a plus.</li>
+	<li>
+		Experience with <span>Git</span>, Maven, Ant a plus.</li>
+	<li>
+		Experience with Python a plus.</li>
+	<li>
+		Knowledge of <span>RDBMS</span> concepts and SQL a plus</li>
+</ul>
+<p>
+	<br />
+	<br />
+	<br />
+	&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudera/gfrICE"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110124054310_SWSOH5JLDNIOXORD]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Inside Sales Representative]]></title>
+			<department><![CDATA[Corporate Sales]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudera.theresumator.com/apply/vVzJkL/Inside-Sales-Representative.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94306]]></postalcode>
+			<description><![CDATA[<p>
+	The Inside Sales Representative is responsible for identifying and developing new opportunities for Cloudera&#39;s products with prospective customers, and for negotiating and closing deals that fall below a certain threshold. Deals above that threshold are passed to an Account Executive, and the Account Executive and Inside Sales Representative cooperate to close the larger opportunity. An Inside Sales Rep cooperates with product marketing and our account execs to increase the number of deals that Cloudera wins, shorten our sales cycle and negotiates agreements that deliver value to our customers and to Cloudera.</p>
+<p>
+	This position does not require travel. Sales activity is by telephone, Web and email. We&#39;re looking for hardworking, smart and ethical candidates who love to win.</p>
+<p>
+	Responsibilities-<br />
+	&bull; Primary driver for run-rate transactional business within territory<br />
+	&bull; Solution selling to existing customer base and new prospects<br />
+	&bull; Forecasting and managing account/opportunity detail using Salesforce.com<br />
+	&bull; Needs to be a high-energy, motivated self-starter and team player</p>
+<p>
+	Requirements-<br />
+	&bull; At least two years of sales experience selling enterprise software<br />
+	&bull; Experience with high-transaction sales (high volume deals)<br />
+	&bull; Significant track record of quota over-achievement versus peers<br />
+	&bull; Consistent achievement with a background in exceeding quota<br />
+	&bull; Knowledge in selling complex products<br />
+	&bull; Excellent written and verbal communication skills</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudera/vVzJkL"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110204075351_8DMKJ2UEZ7FYMCPI]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Solutions Architect]]></title>
+			<department><![CDATA[Customer Solutions]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudera.theresumator.com/apply/MU3hKy/Solutions-Architect.html]]></url>
+			<city><![CDATA[Any location]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94306]]></postalcode>
+			<description><![CDATA[<p>
+	We are currently seeking a Solutions Architect to join our team. Solutions Architects work on the consulting team as part of our Customer Solutions group. However, the SAs does not act as typical consultants. Instead, they function as Hadoop Team leads at our client locations for short term engagements and do everything from getting the product up and running to training and hiring a team to support our product. We have multiple positions open to support our clients throughout the United States.</p>
+<p>
+	&nbsp;</p>
+<p>
+	We are seeking exceptional individuals with strong client consulting experience. Must have the following skills and experience:</p>
+<ul>
+	<li>
+		Working knowledge of setting up and running Hadoop clusters</li>
+	<li>
+		Knowledge on how to create and debug Hadoop jobs</li>
+	<li>
+		Consulting background and/or comfort in working with customers</li>
+	<li>
+		Must have demonstrated experience gathering and understanding customer business requirements</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	Qualifications:</p>
+<p>
+	The candidate we are seeking will have experience with most of the following:</p>
+<ul>
+	<li>
+		&nbsp;One or more of Oracle, MySQL, PostgreSQL.</li>
+	<li>
+		&nbsp;Familiarity with data warehousing concepts.</li>
+	<li>
+		Knowledge of distributed system:</li>
+	<li>
+		Concurrency and synchronization</li>
+	<li>
+		Fallacies of distributed computing</li>
+	<li>
+		Common IPC/RPC methods and patterns</li>
+	<li>
+		High availability and business continuity</li>
+	<li>
+		&nbsp;Knowledge of complex data pipelines and ETL</li>
+	<li>
+		Queuing patterns and pipeline design</li>
+	<li>
+		Batch operations</li>
+	<li>
+		&nbsp;Messaging systems and patterns&nbsp;</li>
+	<li>
+		Knowledge of common ETL packages / libraries</li>
+	<li>
+		Solid OS / networking fundamentals</li>
+	<li>
+		Virtual memory management</li>
+	<li>
+		File system design</li>
+	<li>
+		&nbsp;Optimization and troubleshooting</li>
+	<li>
+		System administration knowledge.</li>
+	<li>
+		Understanding of configuration management systems (e.g. Puppet, Chef) and concepts behind mass configuration</li>
+	<li>
+		&nbsp;L2 vs. L3 networking, network architecture, VLANs, hardware device design basics.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudera/MU3hKy"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110608044507_FXLY7WTX2M8O7JIL]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Certification and Curriculum Developer]]></title>
+			<department><![CDATA[Training]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudera.theresumator.com/apply/RWpmw1/Certification-And-Curriculum-Developer.html]]></url>
+			<city><![CDATA[Any Location]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94306]]></postalcode>
+			<description><![CDATA[<p>
+	We are currently seeking a Certification and Curriculum Developer to join Cloudera&rsquo;s Educational Services team. The successful candidate will be responsible for helping to create and maintain our certification programs and our curriculum of training courses.</p>
+<p>
+	Job responsibilities include generating material for our certification exams (both text-based and hands-on); updating existing course materials; creating new courses; and liaising with instructors. A candidate who is willing to teach courses from time to time would be preferred.</p>
+<p>
+	This job will require some travel.</p>
+<p>
+	Required Skills<br />
+	&bull; Very strong grasp of the English language<br />
+	&bull; Strong knowledge of Linux<br />
+	&bull; Knowledge of Java<br />
+	&bull; Experience with data management systems (relational databases etc)<br />
+	&bull; Knowledge of at least one additional programming language<br />
+	&bull; Ability to learn new technologies quickly<br />
+	&bull; Ability to explain extremely technical concepts clearly and concisely<br />
+	&bull; Ability to create compelling exam content and courseware &ndash; both written materials and hands-on exercises<br />
+	&bull; Ability to work on your own initiative<br />
+	&bull; Fanatical attention to detail</p>
+<p>
+	Nice to have<br />
+	&bull; Knowledge of Hadoop<br />
+	&bull; Previous experience creating certification programs<br />
+	&bull; Experience as an IT instructor<br />
+	&bull; Willingness to teach courses from time to time<br />
+	&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudera/RWpmw1"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110222220928_ZKVUHNFWJB6ZHAEU]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Solutions Architect]]></title>
+			<department><![CDATA[Customer Solutions]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudera.theresumator.com/apply/E9qR4K/Solutions-Architect.html]]></url>
+			<city><![CDATA[Chicago]]></city>
+			<state><![CDATA[IL]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94306]]></postalcode>
+			<description><![CDATA[<p>
+	We are currently seeking a Solutions Architect to join our team. Solutions Architects work on the consulting team as part of our Customer Solutions group. However, the SAs does not act as typical consultants. Instead, they function as Hadoop Team leads at our client locations for short term engagements and do everything from getting the product up and running to training and hiring a team to support our product. We have multiple positions open to support our clients throughout the United States.</p>
+<p>
+	&nbsp;</p>
+<p>
+	We are seeking exceptional individuals with strong client consulting experience. Must have the following skills and experience:</p>
+<ul>
+	<li>
+		Working knowledge of setting up and running Hadoop clusters</li>
+	<li>
+		Knowledge on how to create and debug Hadoop jobs</li>
+	<li>
+		Consulting background and/or comfort in working with customers</li>
+	<li>
+		Must have demonstrated experience gathering and understanding customer business requirements</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	Qualifications:</p>
+<p>
+	The candidate we are seeking will have experience with most of the following:</p>
+<ul>
+	<li>
+		&nbsp;One or more of Oracle, MySQL, PostgreSQL.</li>
+	<li>
+		&nbsp;Familiarity with data warehousing concepts.</li>
+	<li>
+		Knowledge of distributed system:</li>
+	<li>
+		Concurrency and synchronization</li>
+	<li>
+		Fallacies of distributed computing</li>
+	<li>
+		Common IPC/RPC methods and patterns</li>
+	<li>
+		High availability and business continuity</li>
+	<li>
+		&nbsp;Knowledge of complex data pipelines and ETL</li>
+	<li>
+		Queuing patterns and pipeline design</li>
+	<li>
+		Batch operations</li>
+	<li>
+		&nbsp;Messaging systems and patterns&nbsp;</li>
+	<li>
+		Knowledge of common ETL packages / libraries</li>
+	<li>
+		Solid OS / networking fundamentals</li>
+	<li>
+		Virtual memory management</li>
+	<li>
+		File system design</li>
+	<li>
+		&nbsp;Optimization and troubleshooting</li>
+	<li>
+		System administration knowledge.</li>
+	<li>
+		Understanding of configuration management systems (e.g. Puppet, Chef) and concepts behind mass configuration</li>
+	<li>
+		&nbsp;L2 vs. L3 networking, network architecture, VLANs, hardware device design basics.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudera/E9qR4K"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110222221307_K5HQSJYN0MQCPWIS]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Solutions Architect]]></title>
+			<department><![CDATA[Customer Solutions]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudera.theresumator.com/apply/Smisou/Solutions-Architect.html]]></url>
+			<city><![CDATA[Any location]]></city>
+			<state><![CDATA[MA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94306]]></postalcode>
+			<description><![CDATA[<p>
+	We are currently seeking a Solutions Architect to join our team. Solutions Architects work on the consulting team as part of our Customer Solutions group. However, the SAs does not act as typical consultants. Instead, they function as Hadoop Team leads at our client locations for short term engagements and do everything from getting the product up and running to training and hiring a team to support our product. We have multiple positions open to support our clients throughout the United States.</p>
+<p>
+	&nbsp;</p>
+<p>
+	We are seeking exceptional individuals with strong client consulting experience. Must have the following skills and experience:</p>
+<ul>
+	<li>
+		Working knowledge of setting up and running Hadoop clusters</li>
+	<li>
+		Knowledge on how to create and debug Hadoop jobs</li>
+	<li>
+		Consulting background and/or comfort in working with customers</li>
+	<li>
+		Must have demonstrated experience gathering and understanding customer business requirements</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	Qualifications:</p>
+<p>
+	The candidate we are seeking will have experience with most of the following:</p>
+<ul>
+	<li>
+		&nbsp;One or more of Oracle, MySQL, PostgreSQL.</li>
+	<li>
+		&nbsp;Familiarity with data warehousing concepts.</li>
+	<li>
+		Knowledge of distributed system:</li>
+	<li>
+		Concurrency and synchronization</li>
+	<li>
+		Fallacies of distributed computing</li>
+	<li>
+		Common IPC/RPC methods and patterns</li>
+	<li>
+		High availability and business continuity</li>
+	<li>
+		&nbsp;Knowledge of complex data pipelines and ETL</li>
+	<li>
+		Queuing patterns and pipeline design</li>
+	<li>
+		Batch operations</li>
+	<li>
+		&nbsp;Messaging systems and patterns&nbsp;</li>
+	<li>
+		Knowledge of common ETL packages / libraries</li>
+	<li>
+		Solid OS / networking fundamentals</li>
+	<li>
+		Virtual memory management</li>
+	<li>
+		File system design</li>
+	<li>
+		&nbsp;Optimization and troubleshooting</li>
+	<li>
+		System administration knowledge.</li>
+	<li>
+		Understanding of configuration management systems (e.g. Puppet, Chef) and concepts behind mass configuration</li>
+	<li>
+		&nbsp;L2 vs. L3 networking, network architecture, VLANs, hardware device design basics.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudera/Smisou"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110317160710_NYENVNSVPUU4TQ3W]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Strategic ISV Alliances Manager]]></title>
+			<department><![CDATA[Business Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudera.theresumator.com/apply/Gk4BHV/Strategic-ISV-Alliances-Manager.html]]></url>
+			<city><![CDATA[Palo Alto or San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94306]]></postalcode>
+			<description><![CDATA[<p>
+<!--&#91;if gte mso 9&#93;><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><!&#91;endif&#93;--><!--&#91;if gte mso 9&#93;><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+  </w:Compatibility>
+  <w:DoNotOptimizeForBrowser/>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="--"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><!&#91;endif&#93;--><!--&#91;if gte mso 9&#93;><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="0" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><!&#91;endif&#93;--><!--&#91;if gte mso 10&#93;>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Cambria","serif";
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;}
+</style>
+<!&#91;endif&#93;--></p>
+<p class="MsoNormal" style="line-height: 15.6pt;">
+	<strong><span style="font-family: ; font-size: 8pt;">The Strategic ISV Alliances Manager is responsible for Cloudera&rsquo;s partner strategy and execution for ISVs in the database, data integration, BI, analytics and systems management markets.</span></strong></p>
+<ul>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<b><span style="font-family: ; font-size: 8pt;">Responsibilities</span></b></li>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">Create, launch, and manage an ISV partner program. Size the opportunity, build a strategy, define initiatives and objectives, and budget resources against it.</span></li>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">Work closely with technical personnel. Identify areas for integration and deliver these to market in the form of joint solutions.&nbsp;Bring a technically grounded approach to drive the creation of product roadmap alignment.</span></li>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">Develop a partner marketing strategy to drive partner leads, sales referrals and attributed revenue.&nbsp;The plan should be based on a deep understanding of the ISV, their products, their strategies, and their customers.&nbsp;</span></li>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">Serve as the team-lead for alliances, engineering marketing, and sales across the partnership.</span></li>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">Foster and deliver design wins that increase the utility and visibility of the Cloudera platform. <span>&nbsp;</span></span></li>
+</ul>
+<p class="MsoNormal" style="line-height: 15.6pt;">
+	<b><span style="font-family: ; font-size: 8pt;">Knowledge, Skills, Abilities Desired</span></b></p>
+<ul>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">Capacity to spot and then execute revenue-generating relationships with target partners.</span></li>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">Ability to recognize opportunities for technical integration, define the must-have components, help product management and engineering to deliver integrations in priority order, and then programmatically repeat.</span></li>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">Direct experience with enterprise software channel development.</span></li>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">Skills, knowledge, and energy to meet with individuals and large groups equally well to train sales staff, connect individual deals, and detect opportunities early between Cloudera and partner.</span></li>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">Ability to set priorities, focus on details, and motivate internal and external teams to deliver agreed upon goals. Find and develop new relationships across a partner organization in both known and new corners.</span></li>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">Stand-out communication skills:<span>&nbsp; </span>clearly explain ideas to different people with different viewpoints.</span></li>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">High energy.</span></li>
+</ul>
+<p class="MsoNormal" style="line-height: 15.6pt;">
+	<b><span style="font-family: ; font-size: 8pt;">Minimum Experience &amp; Education</span></b></p>
+<ul>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">10+ years of enterprise software product management, marketing, sales or partner management experience required, especially in the area of data management software.</span></li>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">Ability</span><span class="Apple-style-span" style="font-size: 11px;"> to negotiate and close a variety of partnership deals (OEM, marketing, technical integration, etc.)</span></li>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">Understanding of data management software businesses. Proven ability to drive new business within ISV organizations.</span></li>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">BA/BS degree required. Technical experience strongly preferred.</span></li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudera/Gk4BHV"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110317161357_U058DUXLVMUFVGFH]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Strategic IHV Alliances Manager]]></title>
+			<department><![CDATA[Business Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudera.theresumator.com/apply/ZJRj9p/Strategic-IHV-Alliances-Manager.html]]></url>
+			<city><![CDATA[Palo Alto or San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94306]]></postalcode>
+			<description><![CDATA[<p>
+<!--&#91;if gte mso 9&#93;><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><!&#91;endif&#93;--><!--&#91;if gte mso 9&#93;><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+  </w:Compatibility>
+  <w:DoNotOptimizeForBrowser/>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="--"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><!&#91;endif&#93;--><!--&#91;if gte mso 9&#93;><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="0" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><!&#91;endif&#93;--><!--&#91;if gte mso 10&#93;>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Cambria","serif";
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;}
+</style>
+<!&#91;endif&#93;--></p>
+<p class="MsoNormal" style="line-height: 15.6pt;">
+	<strong><span style="font-family: ; font-size: 8pt;">The Strategic IHV Alliances Manager is responsible for Cloudera&rsquo;s partner strategy and execution for IHVs in the server, networking, component manufacturer, cloud hosting and OS vendor market.</span></strong></p>
+<p>
+	<b><span style="font-family: ; font-size: 8pt;">&nbsp;</span></b><b><span style="font-family: ; font-size: 8pt;">Responsibilities</span></b></p>
+<ul>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">Create, launch, and manage an IHV partner program. Size the opportunity, build a strategy, define initiatives and objectives, and budget resources against it.&nbsp;</span></li>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">Work closely with technical personnel. Identify areas for integration and deliver these to market in the form of joint solutions.&nbsp;Bring a technically grounded approach to drive the creation of product roadmap alignment.</span></li>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">Develop a partner marketing strategy to drive partner leads, sales referrals and attributed revenue.&nbsp;The plan should be based on a deep understanding of the IHV, their products, their strategies, and their customers.&nbsp;</span></li>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">Serve as the team-lead for alliances, engineering marketing, and sales across the partnership</span></li>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">Foster and deliver design wins that increase the utility and visibility of the Cloudera platform. <span>&nbsp;</span></span></li>
+</ul>
+<p class="MsoNormal" style="line-height: 15.6pt;">
+	<b><span style="font-family: ; font-size: 8pt;">&nbsp;</span></b><b><span style="font-family: ; font-size: 8pt;">Knowledge, Skills, Abilities Desired</span></b></p>
+<ul>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">Capacity to spot and then execute revenue-generating relationships with target partners.</span></li>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">Ability to recognize opportunities for technical integration, define the must-have components, help product management and engineering to deliver integrations in priority order, and then programmatically repeat.</span></li>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">Direct experience with enterprise software channel development.</span></li>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">Skills, knowledge, and energy to meet with individuals and large groups equally well to train sales staff, connect individual deals, and detect opportunities early between Cloudera and partner.</span></li>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">Ability to set priorities, focus on details, and motivate internal and external teams to deliver agreed upon goals. Find and develop new relationships across a partner organization in both known and new corners.</span></li>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">Stand-out communication skills:<span>&nbsp; </span>clearly explain ideas to different people with different viewpoints.</span></li>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">High energy.</span></li>
+</ul>
+<p class="MsoNormal" style="line-height: 15.6pt;">
+	<b><span style="font-family: ; font-size: 8pt;">&nbsp;</span></b><b><span style="font-family: ; font-size: 8pt;">Minimum Experience &amp; Education</span></b></p>
+<ul>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">10+ years of enterprise software product management, marketing, sales or partner management experience required, especially in the area of hardware manufacturing.</span></li>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">Ability to negotiate and close a variety of partnership deals (OEM, marketing, technical integration, etc.)</span></li>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">Understanding of hardware manufacturing businesses. Proven ability to drive new business within IHV organizations.</span></li>
+	<li class="MsoNormal" style="line-height: 15.6pt;">
+		<span class="Apple-style-span" style="font-size: 11px;">BA/BS degree required. Technical experience strongly preferred.</span></li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudera/ZJRj9p"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110707212800_DN4TGNDZVJCWJCOT]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Payroll Accountant]]></title>
+			<department><![CDATA[Accounting/Finance]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudera.theresumator.com/apply/ekkYC5/Senior-Payroll-Accountant.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94306]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Description:</strong></p>
+<p>
+	<span data-scayt_word="Cloudera" data-scaytid="1">Cloudera</span> is looking for an experienced and passionate senior accountant to join our finance team. You will be the key owner of payroll, stock administration, variable compensation and benefit calculations, and cash management.<br />
+	Ideal candidates will have applicable experience in a high-growth enterprise software company, focused on producing high-quality and timely financials for a wide variety of stakeholders (management, investors, auditors, customers). Come join us in the challenge!<br />
+	<br />
+	<strong>Required Skills:</strong></p>
+<ul>
+	<li>
+		Degree in Accounting or equivalent experience</li>
+	<li>
+		4+ years experience in general accounting, ideally with direct experience in payroll, stock administration, and account reconciliations</li>
+	<li>
+		Experience with <span data-scayt_word="Paychex" data-scaytid="2">Paychex</span> payroll/benefits system</li>
+	<li>
+		Experience in working with external auditors</li>
+	<li>
+		Strong understanding of <span data-scayt_word="GAAP" data-scaytid="3">GAAP</span></li>
+	<li>
+		Experience with <span data-scayt_word="Quickbooks" data-scaytid="4">Quickbooks</span></li>
+	<li>
+		Excellent interpersonal and teamwork skills</li>
+	<li>
+		Excellent analytical and problem solving skills</li>
+	<li>
+		Ability and desire to work in a fast paced, startup environment, helping wherever needed, learning new skills, and adapting to change</li>
+</ul>
+<p>
+	<strong>Strong Plus:</strong></p>
+<ul>
+	<li>
+		Experience with equity accounting and <span data-scayt_word="FAS" data-scaytid="5">FAS</span> <span data-scayt_word="123R" data-scaytid="6">123R</span></li>
+	<li>
+		Experience with options tracking software</li>
+	<li>
+		Experience with international payroll administration</li>
+	<li>
+		Membership in APA&nbsp;</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudera/ekkYC5"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20110707215750_IQHAGMUWI9XVBLYR]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Accountant]]></title>
+			<department><![CDATA[Accounting/Finance]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://cloudera.theresumator.com/apply/oyvk6n/Senior-Accountant.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94306]]></postalcode>
+			<description><![CDATA[<p>
+	<strong>Description:</strong></p>
+<p>
+	<span data-scayt_word="Cloudera" data-scaytid="1">Cloudera</span> is looking for an experienced and passionate senior accountant to join our finance team. You will be the key owner of functions such as accounts receivable, invoicing, general ledger, and cash management.<br />
+	Ideal candidates will have applicable experience in a high-growth enterprise software company, focused on producing high-quality and timely financials for a wide variety of stakeholders (management, investors, auditors, customers). Come join us in the challenge!<br />
+	<br />
+	<strong>Required Skills:</strong></p>
+<ul>
+	<li>
+		Degree in Accounting or equivalent experience</li>
+	<li>
+		4+ years experience in general accounting, ideally with direct experience in accounts receivable and account reconciliations</li>
+	<li>
+		Experience in working with external auditors</li>
+	<li>
+		Strong understanding of <span data-scayt_word="GAAP" data-scaytid="2">GAAP</span></li>
+	<li>
+		Experience with <span data-scayt_word="Quickbooks" data-scaytid="3">Quickbooks</span> and other accounting systems</li>
+	<li>
+		Excellent interpersonal and teamwork skills</li>
+	<li>
+		Excellent analytical and problem solving skills</li>
+	<li>
+		Ability and desire to work in a fast paced, startup environment, helping wherever needed, learning new skills, and adapting to change</li>
+</ul>
+<p>
+	<strong>Strong Plus:</strong></p>
+<ul>
+	<li>
+		Exposure to the principles of revenue recognition under SOP 97-2</li>
+	<li>
+		Experience with multi-state/international software invoicing</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/cloudera/oyvk6n"></script>]]></buttons>
+		</job>
+	</jobs>

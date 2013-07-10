@@ -1,0 +1,585 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Reply! Inc.]]></company>
+			<job>
+			<id><![CDATA[job_20121025190524_EET1WVTITLLKY7BV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Linux Systems Administrator]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://reply.theresumator.com/apply/gItnc0/Linux-Systems-Administrator.html]]></url>
+			<city><![CDATA[San Ramon]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94583]]></postalcode>
+			<description><![CDATA[<p>
+Reply.com, an online marketing firm is seeking a Linux Systems Administrator, for our San Ramon office, to maintain Reply.com&#39;s Linux platform. This position requires installation of new systems and setting up proper monitoring for systems stability along with availability and properly addresses systems capacity problems. This person will have strong troubleshooting skills that are required to handle network/system issues. At Reply.com, we value our employees&#39; contributions, and are committed to their professional development and personal success.</p>
+<p>
+Responsibilities:</p>
+<ul>
+<li>
+Monitoring servers for stability and taking both proactive and reactive measures to correct and prevent issues.</li>
+<li>
+Provide fellow system administrators with technical support and guidance.</li>
+<li>
+Install, configure, update, and troubleshoot services using Apache, Lighttpd, and MySQL.</li>
+<li>
+Providing technical support via helpdesk.</li>
+<li>
+Support other functions of the IT team as required.</li>
+<li>
+Handle system outages and restore services after-hours and over the weekends if incidents occur.</li>
+</ul>
+<p>
+Qualifications:</p>
+<ul>
+<li>
+Minimum of 4 years&#39; experience in Linux Systems Administration.</li>
+<li>
+Network Monitoring: Munin, Nagios or Orion.</li>
+<li>
+Knowledge of Ubuntu, Redhat or Centos Linux.</li>
+<li>
+Must have experience working with VMware vSphere.</li>
+<li>
+Experience in network service administration including: MTA&#39;s, web servers (Apache and Lighttpd) and relevant protocols (SMTP, HTTP, SSL, DNS, NFS).</li>
+<li>
+Strong understanding of TCP/IP and experience with configuring Linux Load Balancers and Firewalls.</li>
+<li>
+General networking knowledge.</li>
+<li>
+Scripting skills with Python/Perl.</li>
+<li>
+Basic MySQL and Postgres database administration skills.</li>
+<li>
+Knowledge of Mac OSX Administration.</li>
+<li>
+Knowledge of Haproxy, Heartbeat, Squid, Memcache and Postfix email.</li>
+</ul>
+<p>
+Personal attributes of the ideal candidate include:<br />
+A guerilla sensibility, an appetite for risk, a big thinker: Reply.com needs someone with experience but who is still open-minded and crazy enough to be innovative.<br />
+Strong work ethic: this position is at the center of Reply&#39;s business. It&#39;s a big market, so we can&#39;t go home at night wondering if our competitors want it more than we do.<br />
+Team attitude: a willingness to roll up your sleeves, a service approach to leadership, a history of respect for all colleagues, and intolerance for politics.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/reply/gItnc0"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121025190946_2HASUIWVQYNOJY8W]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Director of Business Development]]></title>
+			<department><![CDATA[Business Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://reply.theresumator.com/apply/LWL7jb/Director-Of-Business-Development.html]]></url>
+			<city><![CDATA[San Ramon]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94583]]></postalcode>
+			<description><![CDATA[<p>
+Reply! Inc., a rapidly growing company located in San Ramon, has an exciting opportunity for a bright, savvy, business development executive to join our team. This is a senior level position reporting directly to the CEO. The Director of Business Development will be responsible for establishing new strategic revenue-generating business relationships, growing many of Reply!&rsquo;s most important existing business partnerships, and developing a robust and diverse network of publishers.</p>
+<p>
+Responsibilities:</p>
+<ul>
+<li>
+Source, close, and manage key strategic partnerships in a manner that will maximize the long-term value to both companies.</li>
+<li>
+Develop a deep understanding of Reply! services and technology.</li>
+<li>
+Establish and maintain rapport and trust with Reply! business partners.</li>
+<li>
+Interface with all departments in the organization to drive strategic initiatives.</li>
+<li>
+Develop and implement a plan aimed at maximizing the value of your portfolio of managed relationships</li>
+<li>
+Analyze the financial drivers of the business and present creative proposals to grow the business.</li>
+<li>
+Establish reporting tools that provide insight into the trends within the business.</li>
+</ul>
+<p>
+Qualifications:</p>
+<ul>
+<li>
+BS/BA degree required, MBA preferred.</li>
+<li>
+Highly knowledgeable in online marketing with experience working with both advertisers and publishers.</li>
+<li>
+Ability to excel in a fast-paced, dynamic, entrepreneurial environment.</li>
+<li>
+Resourceful with a &ldquo;do what it takes&rdquo; attitude.</li>
+<li>
+Detail-oriented with strong analytical skills. Ability to analyze and understand the financial drivers of the business.</li>
+<li>
+Excellent written and oral communications.</li>
+<li>
+Strong technical aptitude.</li>
+<li>
+Advanced proficiency in Microsoft Excel and PowerPoint.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/reply/LWL7jb"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121026132535_AKCEJZUJSJP24KC8]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sales Executive – Major Accounts]]></title>
+			<department><![CDATA[Business Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://reply.theresumator.com/apply/Pu86hX/Sales-Executive-Major-Accounts.html]]></url>
+			<city><![CDATA[San Ramon]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94583]]></postalcode>
+			<description><![CDATA[<p>
+Reply! Inc., a rapidly growing company located in San Ramon, has an exciting opportunity for a bright, savvy, Sales Executive to join our team. This person will play a critical role in driving Reply!&rsquo;s growth working with large national and regional advertisers in the home services industry. The ideal candidate will have extensive experience in direct sales growing revenue and profitability quickly through the sourcing, development, and proactive management of business relationships with major online advertisers and marketers.</p>
+<p>
+Responsibilities &amp; Requirements:</p>
+<ul>
+<li>
+Originate, close, and manage key national and regional advertisers in a manner that will maximize growth and profitability.</li>
+<li>
+Develop a deep understanding of Reply! services and technology.</li>
+<li>
+Establish and maintain a strong sales pipeline.</li>
+<li>
+Negotiate and review new contractual agreements.</li>
+<li>
+Ongoing development, growth, and management of strategic corporate relationships.</li>
+</ul>
+<p>
+This position will require a high volume of outbound cold calls.</p>
+<p>
+Experience and Education:</p>
+<ul>
+<li>
+Requires 3+ years in consultative sales/business development.</li>
+<li>
+BS/BA degree required, MBA preferred.</li>
+<li>
+Experience in the online marketing industry, preferably in a company that provides traffic or leads to large enterprise customers.</li>
+<li>
+Ability to excel in a fast paced, dynamic, entrepreneurial environment.</li>
+<li>
+Resourceful with a &ldquo;do what it takes&rdquo; attitude.</li>
+<li>
+Excellent written and oral communication and presentation skills.</li>
+<li>
+Detail-oriented with strong analytical skills.</li>
+<li>
+Strong time management and prioritization skills.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/reply/Pu86hX"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121026134312_FG8SXNVYX1R3OULM]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[.NET Software Engineer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://reply.theresumator.com/apply/ksxdqh/NET-Software-Engineer.html]]></url>
+			<city><![CDATA[San Ramon]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94583]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Reply! Inc., the leading online marketplace for locally-targeted advertising, is looking for a diligent, hard-working, self-starting .NET Software Engineer with a desire to help create world-class consumer and B2B web applications.&nbsp; This person will work closely with Product Management and Marketing in a fast-paced, business-driven Agile environment. We are growing fast! If you&#39;re looking for a great opportunity to work for one of the fastest growing companies in the local market, come check us out. If you have strong skills in the areas listed below, you may have what it takes.</strong><br />
+<br />
+Minimum Requirements:<br />
+At Least 3 Years of Experience in the Following Areas:</p>
+<ul>
+<li>
+&nbsp;NET 2.0 through 4.0 - C#</li>
+<li>
+&nbsp;JavaScript including jQuery</li>
+<li>
+&nbsp;T-SQL</li>
+</ul>
+<p>
+Additional Experience in the Following Areas:</p>
+<ul>
+<li>
+&nbsp;Webservice and API Development Using SOAP and JSON</li>
+<li>
+&nbsp;Front-End UI Development in ASP.NET WebForms, Razor, MVC, HTML, CSS</li>
+<li>
+&nbsp;Interpreting Business Requirements and Translating into Software Solutions</li>
+<li>
+&nbsp;VB and VBScript</li>
+<li>
+&nbsp;Caching Strategies</li>
+<li>
+&nbsp;N-Tier Application Structuring</li>
+<li>
+&nbsp;Large, Enterprise-Level Systems</li>
+</ul>
+<p>
+&nbsp;</p>
+<p>
+Personal Attributes of the Ideal Candidate Include:</p>
+<ul>
+<li>
+&nbsp;A willingness to learn, a flexibility to adapt, an appetite for risk: Reply.com needs someone who can work within a team structure yet is open-minded and crazy enough to be innovative.</li>
+<li>
+&nbsp;High competitive metabolism and strong work ethic: this position is at the center of Reply!&rsquo;s business. Our challenge is not to find a revenue model that works having established the winning strategy we need people who can help us execute&hellip; so we can&rsquo;t go home at night wondering if our competitors want it more than we do</li>
+<li>
+&nbsp;Team attitude: a willingness to roll up your sleeves, a service approach to leadership, a history of respect for all colleagues and intolerance for politics</li>
+<li>
+&nbsp;Strong Interpersonal and Collaborative Skills</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/reply/ksxdqh"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121203185341_BN6PJKYOUG9UNNL5]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sales Executive – Major Accounts Real Estate]]></title>
+			<department><![CDATA[Business Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://reply.theresumator.com/apply/Q1N0ne/Sales-Executive-Major-Accounts-Real-Estate.html]]></url>
+			<city><![CDATA[San Ramon]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94583]]></postalcode>
+			<description><![CDATA[<p>
+Reply! Inc., a rapidly growing company located in San Ramon, has an exciting opportunity for a bright, savvy, Sales Executive to join our team. This person will play a critical role in driving Reply!&rsquo;s growth working with large national and regional advertisers in the home services industry. The ideal candidate will have extensive experience in direct sales growing revenue and profitability quickly through the sourcing, development, and proactive management of business relationships with major online advertisers and marketers.</p>
+<p>
+Responsibilities &amp; Requirements:</p>
+<ul>
+<li>
+Originate, close, and manage key national and regional advertisers in a manner that will maximize growth and profitability.</li>
+<li>
+Develop a deep understanding of Reply! services and technology.</li>
+<li>
+Establish and maintain a strong sales pipeline.</li>
+<li>
+Negotiate and review new contractual agreements.</li>
+<li>
+Ongoing development, growth, and management of strategic corporate relationships.</li>
+</ul>
+<p>
+This position will require a high volume of outbound cold calls.</p>
+<p>
+Experience and Education:</p>
+<ul>
+<li>
+Requires 3+ years in consultative sales/business development.</li>
+<li>
+BS/BA degree required, MBA preferred.</li>
+<li>
+Experience in the online marketing industry, preferably in a company that provides traffic or leads to large enterprise customers.</li>
+<li>
+Ability to excel in a fast paced, dynamic, entrepreneurial environment.</li>
+<li>
+Resourceful with a &ldquo;do what it takes&rdquo; attitude.</li>
+<li>
+Excellent written and oral communication and presentation skills.</li>
+<li>
+Detail-oriented with strong analytical skills.</li>
+<li>
+Strong time management and prioritization skills.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/reply/Q1N0ne"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130221011154_BCARDPQUWBAINUDH]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[PYTHON DEVELOPER]]></title>
+			<department><![CDATA[San Ramon Corporate Headquarters]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://reply.theresumator.com/apply/UPuAJ4/PYTHON-DEVELOPER.html]]></url>
+			<city><![CDATA[San Ramon]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94583]]></postalcode>
+			<description><![CDATA[<p>
+<br />
+<strong>Reply! Inc., is the leading online marketplace for locally-targeted advertising. We are an exciting Pre-IPO company that was recently ranked #28 on Red Herring&rsquo;s list of the Top 100 Private Companies in the Nation. We are looking for a diligent, hard-working, self-starting Python Web/Application Developer with a desire to help create world-class consumer and B2B web applications.&nbsp; This person will work closely with Product Management and Marketing in a fast-paced, business-driven Agile environment. We are growing fast! If you&#39;re looking for a great opportunity to work for one of the fastest growing companies in the local market, come check us out. If you have strong skills in the areas listed below, you may have what it takes.</strong></p>
+<p>
+<strong>General Description:</strong><br />
+Designing, developing and testing new software in an Agile environment<br />
+Working closely with the core development team to prioritize work flow on a daily basis.<br />
+Effectively managing products at any point in their lifecycle.<br />
+Translate product vision and requirements into software design<br />
+Write clean maintainable code following best practices (unit testing, source control, continuous integration, automation, design patterns, etc.)<br />
+Collaborate with other developers, testers, and system engineers to ensure quality product enhancements.</p>
+<p>
+<strong>Minimum Requirements:</strong><br />
+4+ years&rsquo; experience working within a software engineering environment.<br />
+3+ years of Python development experience<br />
+3+ years experience with web technologies such as Javascript, HTML and CSS<br />
+Experience with design principles (patterns, cohesion/coupling, etc.)<br />
+Experience with good engineering practices (test driven development, continuous integration and pair programming, etc.)<br />
+Bachelor&#39;s degree (B.A./B.S.) from a four-year college or university; or equivalent combination of education and experience. Degree in Computer Science is a plus.<br />
+Additional Experience in the Following Areas are a huge plus:<br />
+Front-End UI Development in HTML, CSS, jQuery, javascript<br />
+Python Frameworks such as Zope<br />
+Interpreting Business Requirements and Translating into Software Solutions<br />
+Large, Enterprise-Level Systems<br />
+Personal Attributes of the Ideal Candidate Include:<br />
+A willingness to learn, a flexibility to adapt, an appetite for risk: Reply.com needs someone who can work within a team structure yet is open-minded and crazy enough to be innovative.<br />
+High competitive metabolism and strong work ethic: this position is at the center of Reply!&rsquo;s business. Our challenge is not to find a revenue model that works having, established the winning strategy, we need people who can help us execute&hellip; so we can&rsquo;t go home at night wondering if our competitors want it more than we do<br />
+Team attitude: a willingness to roll up your sleeves, a service approach to leadership, a history of respect for all colleagues and intolerance for politics<br />
+Strong Interpersonal and Collaborative Skills</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/reply/UPuAJ4"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130423185233_MZD7D1LK9Y92WUK8]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Account Manager]]></title>
+			<department><![CDATA[Home Improvement Service]]></department>
+			<team><![CDATA[Portland]]></team>
+			<url><![CDATA[http://reply.theresumator.com/apply/VqBHhj/Account-Manager.html]]></url>
+			<city><![CDATA[Portland]]></city>
+			<state><![CDATA[OR]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[97211]]></postalcode>
+			<description><![CDATA[<p>
+Description:</p>
+<p>
+Our Account Managers have a positive mindset and strive to hit weekly goals in an effort to ultimately impact the company bottom line. They also enjoy spending much of the time talking on the telephone with customers and contractors/shops across the country. Account Managers are service minded and friendly but are also efficient with their time in order to reach personal and company-wide goals.</p>
+<p>
+An ideal canidate for Account Manager would be someone who:</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Is passionate about ensuring a successful customer experience</li>
+<li>
+&nbsp;&nbsp;&nbsp; Will drive yourself to exceed all realistic expectations!</li>
+<li>
+&nbsp;&nbsp;&nbsp; Understands proactive Account Management</li>
+<li>
+&nbsp;&nbsp;&nbsp; Can instruct without condescending</li>
+<li>
+&nbsp;&nbsp;&nbsp; Can handle challenging customers with a smile in their voice</li>
+<li>
+&nbsp;&nbsp;&nbsp; Approach their objectives intelligently</li>
+</ul>
+<p>
+Responsibilities:</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Make outbound calls, send emails &amp; faxes, do telephone presentations/instruction to existing customers in your assigned states.</li>
+<li>
+&nbsp;&nbsp;&nbsp; Take inbound calls from existing contractors and respond to their needs and challenges as they occur.</li>
+<li>
+&nbsp;&nbsp;&nbsp; Present relevant information to contractors, (e.g. &quot;how to get started you&#39;re the sales leads coming your way, Putting Reply! Best Practices to use for effective selling and positive ROI&quot;)</li>
+<li>
+&nbsp;&nbsp;&nbsp; Add to the growing list of active contractors by reaching out to those that have discontinued our service temporarily, and by getting referrals from existing customers that you can hand off to the sales team as warm leads to follow up on.</li>
+<li>
+&nbsp;&nbsp;&nbsp; Enter data into the CRM software for each point of contact (phone call, email, mail, etc.). Keep info up to date for tracking and reporting purposes</li>
+<li>
+&nbsp;&nbsp;&nbsp; Work as a member of the team in support of your teammates when their load gets heavy or when they have to be away from the office.</li>
+<li>
+&nbsp;&nbsp;&nbsp; Actively participate in making improvements to the Account Management process for the team</li>
+</ul>
+<p>
+Preferred:</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Account Management/Customer Support experience</li>
+<li>
+&nbsp;&nbsp;&nbsp; Demonstrable integrity</li>
+<li>
+&nbsp;&nbsp;&nbsp; Consultative or Strategic Sales training</li>
+</ul>
+<p>
+Requirements:</p>
+<ul>
+<li>
+&nbsp;&nbsp;&nbsp; Effective and active listening</li>
+<li>
+&nbsp;&nbsp;&nbsp; Organization and the ability to multitask</li>
+<li>
+&nbsp;&nbsp;&nbsp; Technological adeptness (Office software, CRM, et al)</li>
+<li>
+&nbsp;&nbsp;&nbsp; Ability to work independently to achieve targeted objectives</li>
+<li>
+&nbsp;&nbsp;&nbsp; Excellent communication, time management, and organizational skills</li>
+<li>
+&nbsp;&nbsp;&nbsp; Able to effectively and professionally represent Employer and its products</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/reply/VqBHhj"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130522235959_CVB91VY6Z4YPKCPV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Manager, Accounting]]></title>
+			<department><![CDATA[Finance]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://reply.theresumator.com/apply/Jd7SFU/Senior-Manager-Accounting.html]]></url>
+			<city><![CDATA[San Ramon]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94583]]></postalcode>
+			<description><![CDATA[<p>
+Reply! Inc., an online marketing firm is seeking a Senior Manager of Accounting who will fit in to a very fun and fast paced environment and has the ability to be very hands-on and a team player.&nbsp; At Reply! we value our employee&#39;s contributions to our growth and profitability and are committed to our team member&#39;s professional development and personal success.</p>
+<p>
+Responsibilities:<br />
+&bull; Act as the primary liaison with the external auditors on quarterly reviews and annual financial audits.&nbsp; ;<br />
+&bull; Manage Federal and State tax returns including compliance with sales and use tax and property tax filings. Work with external tax consultants.<br />
+&bull; Responsible for monthly close process including managing monthly close calendar, financial consolidation, review of expenses, preparation and review of journal transactions including accruals and reserves, maintenance of the chart of accounts and reconciliation of balance sheet accounts.<br />
+&bull; Maintain Fixed Asset System and internally developed software<br />
+&bull; Account for stock based compensation<br />
+&bull; Assist in day to day transaction<br />
+&bull;&nbsp; Support and participate in other projects as needed</p>
+<p>
+Requirements:<br />
+&bull; Bachelor&rsquo;s degree in Accounting<br />
+&bull; CPA preferred<br />
+&bull; At least 7 years of accounting experience, Public Auditing experience a plus<br />
+&bull; Proficiency in applying GAAP and SEC accounting and disclosure rules<br />
+&bull; Working knowledge of major financial system and adept at report development and production<br />
+&bull; Advanced Microsoft Excel Skills<br />
+&bull; Ability to work with large volumes of transactional data<br />
+&bull; Can do attitude, and a willingness to roll your sleeves up and get the job done<br />
+&bull; Ability to work in a dynamic and fast paced environment</p>
+<p>
+<br />
+Desired skills:<br />
+Looking for the ideal candidate with a combination of strong communication, organization, and partnering skills in conjunction with technical experience<br />
+&bull; Strong collaboration and teamwork skills<br />
+&bull; Ability to organize and prioritize responsibilities effectively in order to meet deadlines<br />
+&bull; Ability to think through new situations and evaluate data, draw valid conclusions, and effectively present information to management<br />
+&bull; Demonstrated ability to work cross functionally and at various levels within a company</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/reply/Jd7SFU"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130620170353_WTXMQJ1PKCXHUNF3]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[SEM Specialist]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://reply.theresumator.com/apply/UhjTty/SEM-Specialist.html]]></url>
+			<city><![CDATA[Portland]]></city>
+			<state><![CDATA[OR]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[97211]]></postalcode>
+			<description><![CDATA[<p>
+Reply.com seeks to hire an enthusiastic Search Engine Marketing who will assist in the management of Reply&rsquo;s Search Engine Marketing (SEM) and Pay-Per-Click (PPC) efforts in the home improvement vertical. Candidates should demonstrate a proven track record for driving online consumer traffic and delivering positive ROI.</p>
+<p>
+Responsibilities:</p>
+<p>
+<br />
+&bull; Plan and implement SEM campaigns. Grow successful and profitable search engine marketing traffic acquisition opportunities.<br />
+&bull; Set-up bulk sheets, write ad copy, maximize CTR and increase quality scores through optimization techniques.<br />
+&bull; Develop, expand and optimize campaigns &amp; ad groups, keyword lists, improve ad copy titles and descriptions.<br />
+&bull; Desire to stay on top of competitor&#39;s strategies and keyword portfolios<br />
+&bull; Daily reporting and in-depth quantitative analyses of KPIs and actions to improve daily performance<br />
+&bull; Provide analysis and risk vs. reward modeling on both engine and keyword expansion and volume expectations<br />
+&bull; Assist with conversion optimization strategies and A/B landing page testing to improve performance</p>
+<p>
+Qualifications:</p>
+<p>
+<br />
+&bull; Bachelor&#39;s degree required<br />
+&bull; Advanced proficiency in Excel required<br />
+&bull; 1 year of SEM experience including campaign development and analytic analysis<br />
+&bull; Financial analysis skills a strong plus<br />
+&bull; Experience with high budget accounts a strong plus</p>
+<p>
+Personal Attributes:&nbsp;</p>
+<p>
+&bull; A guerrilla sensibility, an appetite for risk, a big thinker: Reply.com needs someone with experience but who is still open-minded enough to be innovative. In other words, we need someone who knows a lot, but knows he or she doesn&#39;t know it all</p>
+<p>
+&bull; High competitive metabolism and strong work ethic</p>
+<p>
+&bull; Self-motivated and self-directed</p>
+<p>
+&bull;&nbsp; Strong communication skills and a positive attitude</p>
+<p>
+&bull; Team attitude: a history of respect for all colleagues</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/reply/UhjTty"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130621184801_MUBU0OABFG33KYCB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sales Executive]]></title>
+			<department><![CDATA[Business Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://reply.theresumator.com/apply/6sp5Qi/Sales-Executive.html]]></url>
+			<city><![CDATA[San Ramon]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94583]]></postalcode>
+			<description><![CDATA[<p>
+Reply! Inc., a rapidly growing company located in San Ramon, has an exciting opportunity for a bright, savvy, Sales Executive to join our team. This person will play a critical role in driving Reply!&rsquo;s growth working with large national and regional advertisers in the home services industry.</p>
+<p>
+Responsibilities &amp; Requirements:</p>
+<ul>
+<li>
+Originate, close, and manage key national and regional advertisers in a manner that will maximize growth and profitability.</li>
+<li>
+Develop a deep understanding of Reply! services and technology.</li>
+<li>
+Establish and maintain a strong sales pipeline.</li>
+<li>
+Negotiate and review new contractual agreements.</li>
+<li>
+Ongoing development, growth, and management of strategic corporate relationships.</li>
+<li>
+This position will require a high volume of outbound cold calls.</li>
+</ul>
+<p>
+Desired Skills &amp; Experience<br />
+Skills</p>
+<ul>
+<li>
+Ability to research and prospect using telephone, email and online networking sites</li>
+<li>
+Excellent oral and written communication skills</li>
+<li>
+A positive, self-starter attitude, and desire to exceed expectations at every opportunity</li>
+<li>
+Attention to detail, strong organizational skills, and an absolute focus on quality of work</li>
+</ul>
+<p>
+Education and Training</p>
+<ul>
+<li>
+Bachelor&rsquo;s degree</li>
+<li>
+Proficient MS Office experience or Google Docs</li>
+</ul>
+<p>
+Experience</p>
+<ul>
+<li>
+0-2 years sales experience</li>
+<li>
+Prior experience with Salesforce CRM preferred</li>
+<li>
+Previous account entry and lead qualification experience preferred</li>
+<li>
+Marketing services sales experience desired</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/reply/6sp5Qi"></script>]]></buttons>
+		</job>
+	</jobs>

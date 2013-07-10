@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Smartbuzz]]></company>
+			<job>
+			<id><![CDATA[job_20100106095726_LTAPGVQZHCQBBWEJ]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Web Developer]]></title>
+			<department><![CDATA[Web Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://smartbuzz.theresumator.com/apply/RDb5gU/Web-Developer.html]]></url>
+			<city><![CDATA[Chandigarh]]></city>
+			<state><![CDATA[Chd]]></state>
+			<country><![CDATA[India]]></country>
+			<postalcode><![CDATA[160017]]></postalcode>
+			<description><![CDATA[<p>We have an opening for the PHP Web developer in the Smartbuzz Chandigarh Branch</p>]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/smartbuzz/RDb5gU"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,350 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[360pi]]></company>
+			<job>
+			<id><![CDATA[job_20120222233049_O9PH5YXDNEHMFCCY]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Developer - Data Movement]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Development & QA]]></team>
+			<url><![CDATA[http://360pi.theresumator.com/apply/zaqUxO/Software-Developer-Data-Movement.html]]></url>
+			<city><![CDATA[Ottawa]]></city>
+			<state><![CDATA[Ontario]]></state>
+			<country><![CDATA[Canada]]></country>
+			<postalcode><![CDATA[K1Z 6X3]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Do you want to be part of the next big startup?</strong><br />
+360pi is an award-winning price intelligence engine that helps retailers and manufacturers monitor pricing to increase sales and margins and optimize product mix. We help big retailers know exactly what their competition is doing, every day.</p>
+<p>
+You&#39;re a developer; you want to know what&#39;s under the hood. How about this:<br />
+&bull; Advanced artificial intelligence algorithms that pull structured data out of the web<br />
+&bull; A 100% cloud based infrastructure<br />
+&bull; A NoSQL database that stores a million new price points every single day: Big Data, very Big Data<br />
+&bull; A&nbsp; MapReduce based analytical engine for summarizing, slicing and dicing our vast information store<br />
+&bull; A web based portal, putting reports and visualizations into the hands of our customers</p>
+<p>
+We&#39;re building a product using the latest technologies. We need smart people to take it further.</p>
+<p>
+<strong>Work With Us and Get</strong><br />
+&bull; Responsibility: what you do here will have a direct impact on our growth<br />
+&bull; Flexible working hours: we focus on results, not punching a clock<br />
+&bull; Work remotely: everything we do is in the cloud, so our office is wherever you are<br />
+&bull; Great hardware: a Macbook Pro, 27 inch display, SSD<br />
+&bull; Location: We&#39;re nestled in Westboro, a great neighbourhood to walk around<br />
+&bull; Team activities: climb a wall, spike a volleyball&hellip; we play as hard as we work</p>
+<p>
+<strong>We Need People To</strong><br />
+&bull; Improve and automate our data import and validation capabilities<br />
+&bull; Help architect and implement our data transformation architecture<br />
+&bull; Keep abreast of the latest in Big Data developments: NoSQL databases, map/reduce, horizontal scalability</p>
+<p>
+<strong>We&#39;d Like You To Have:</strong><br />
+&bull; A keen interest in startups with the desire to take the initiative<br />
+&bull; Be self-motivated, really self-motivated, with a &ldquo;customer-first&rdquo; attitude.<br />
+&bull; Did we say be self-motivated already? Ever built your own software apps for fun?<br />
+&bull; Prior experience in writing database applications in Python, Ruby, Java, or C#.<br />
+&bull; An understanding of standard development lifecycle processes and methodologies.<br />
+&bull; Basic knowledge of XML.<br />
+&bull; Basic knowledge of object oriented programming.<br />
+&bull; Experience with databases and schemas<br />
+&bull; A degree in computer science, engineering, math, or physics.</p>
+<p>
+<strong>And It Would Be Cool if You Had:</strong><br />
+&bull; Cloud Computing (Google AppEngine, Amazon AWS).<br />
+&bull; Experience and/or familiarity with MongoDB or other non-SQL database systems.<br />
+&bull; Experience with sub-version, git or other source control system.<br />
+&bull; Familiarity with web user experience design principles.<br />
+&bull; Experience with cloud computing: Google App Engine, Amazon EC2, Amazon S3.<br />
+&bull; Experience in machine learning and data mining algorithms.</p>
+<p>
+If this sounds like a perfect fit for you, we would love to hear from you!<br />
+While we appreciate all submissions, we will only respond to those we are considering for interviews.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/360pi/zaqUxO"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130510184300_KN6YDIXVOSY5HGC6]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Cloud Data Developer]]></title>
+			<department><![CDATA[Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://360pi.theresumator.com/apply/6ZH81q/Senior-Cloud-Data-Developer.html]]></url>
+			<city><![CDATA[Ottawa]]></city>
+			<state><![CDATA[Ontario]]></state>
+			<country><![CDATA[Canada]]></country>
+			<postalcode><![CDATA[K1Z 6X3]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Do you want to be part of the next big startup?</strong><br />
+360pi is an award-winning price intelligence engine that helps retailers and manufacturers monitor pricing to increase sales and margins and optimize product mix. We help big retailers know exactly what their competition is doing, every day.</p>
+<p>
+You&#39;re a developer; you want to know what&#39;s under the hood. How about this:<br />
+&bull; Advanced artificial intelligence algorithms that pull structured data out of the web<br />
+&bull; A 100% cloud based infrastructure<br />
+&bull; A NoSQL database that stores a million new price points every single day: Big Data, very Big Data<br />
+&bull; A&nbsp; MapReduce based analytical engine for summarizing, slicing and dicing our vast information store<br />
+&bull; A web based portal, putting reports and visualizations into the hands of our customers</p>
+<p>
+We&#39;re building a product using the latest technologies. We need smart people to take it further.</p>
+<p>
+<strong>Work With Us and Get</strong><br />
+&bull; Responsibility: what you do here will have a direct impact on our growth<br />
+&bull; Flexible working hours: we focus on results, not punching a clock<br />
+&bull; Work remotely: everything we do is in the cloud, so our office is wherever you are<br />
+&bull; Great hardware: a Macbook Pro, 27 inch display, SSD<br />
+&bull; Location: We&#39;re nestled in Westboro, a great neighbourhood to walk around</p>
+<p>
+&bull; Team activities: climb a wall, spike a volleyball&hellip; we play as hard as we work</p>
+<p>
+<strong>We are looking</strong> for an experienced developer to help architect our cloud based platform and take it to the next level. Someone who is passionate about creating rock solid, performant, scalable databases and with an interest in newer technologies like cloud computing, NoSQL, map/reduce and Big Data.</p>
+<p>
+We need the following:</p>
+<ul>
+<li>
+5+ years of experience in database development</li>
+<li>
+Strong architectural skills using Python, Java, C#, Ruby or other object oriented languages</li>
+<li>
+Experience in administration of MySQL, SQL Server, Oracle or other databases</li>
+<li>
+Deep knowledge of how indexes, schema design, and server platforms influence performance</li>
+<li>
+Ability to detect and troubleshoot CPU,memory,I/O, disk space and other resource contention.</li>
+<li>
+Strong knowledge of backup, restore, fail over and other administrative tasks</li>
+<li>
+Expert experience in implementing operational automation</li>
+</ul>
+<p>
+Having experience in any the following would be tremendous assets:</p>
+<ul>
+<li>
+NoSQL database platforms like MongoDB, HBase, Couchbase, Cassandra, Riak</li>
+<li>
+Business intelligence technology: OLAP, columnar databases, BI client software</li>
+<li>
+Experience with cloud platforms like Amazon EC2, Rackspace, Openstack</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/360pi/6ZH81q"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121217191617_JG156SP5FGWLVCWD]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Manager of Finance]]></title>
+			<department><![CDATA[Finance & Administration]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://360pi.theresumator.com/apply/iJcYpI/Manager-Of-Finance.html]]></url>
+			<city><![CDATA[Ottawa]]></city>
+			<state><![CDATA[Ontario]]></state>
+			<country><![CDATA[Canada]]></country>
+			<postalcode><![CDATA[K1Z 6X3]]></postalcode>
+			<description><![CDATA[<p>
+360pi is an award-winning price intelligence engine that helps retailers monitor pricing to increase sales and margins, and optimize their product mix.</p>
+<p>
+We are looking for self-starters that enjoy working in a dynamic environment and are motivated by challenging work. We&rsquo;re creating and marketing a very innovative product into the huge retail market, and we need driven team members who are passionate about creating and launching disruptive new technology.&nbsp; If you are looking for a fast-paced and dynamic work environment, then 360pi is the place for you!</p>
+<p>
+This is a unique opportunity for a Manager of Finance &amp; Administration / Controller to position themselves at the forefront of their field in a rapidly growing company.</p>
+<p>
+<br />
+<strong>Your responsibilities will include:</strong></p>
+<p>
+<em>Financial</em></p>
+<ul>
+<li>
+Report to the CEO, but functionally to the company&rsquo;s virtual CFO.</li>
+<li>
+Maintain the company&rsquo;s financial system (currently Simply Accounting).</li>
+<li>
+Establish Contract acceptance, Invoicing &amp; Deferred Revenue system.</li>
+<li>
+Manage the credit &amp; collection system.</li>
+<li>
+HST filings &amp; compliance.</li>
+<li>
+Prepare Monthly, Quarterly &amp; Annual Financial Reports.</li>
+<li>
+Work with and support operational mangers in terms of their F&amp;A requirements.</li>
+<li>
+Preparation of yearend audit files as required.</li>
+<li>
+Preparation of support data &amp; documents for the annual Tax Return and SR&amp;ED filings.</li>
+<li>
+Support Due Diligence effort by potential investors.</li>
+<li>
+Manage near-term cash flow, including payables management.</li>
+<li>
+Manage grant/subsidy submissions &amp; compliance.</li>
+<li>
+Assist in the finalization of the budget &amp; implementation of the budget into the reporting system.</li>
+<li>
+Functional supervision and mentoring of Finance &amp;&nbsp;Administration staff.</li>
+<li>
+In collaboration with the CFO and/or CEO, review, source and maintain company insurance policies.</li>
+<li>
+Assist the CFO and CEO in preparing updates for the Board of Directors, and to current and prospective investors.</li>
+</ul>
+<p>
+<strong>We genuinely would like you to have all of these:</strong></p>
+<ul>
+<li>
+A college degree or equivalent.</li>
+<li>
+At least 5 years of accounting experience, of which at least 3 in a knowledge-based industry.</li>
+<li>
+Strong familiarity with Simply Accounting and/or other PC based accounting packages.</li>
+<li>
+Strong computer skills including Excel and Word programs and email at a highly proficient level</li>
+<li>
+Be professional and self-motivated, with extraordinary drive and initiative.</li>
+<li>
+Be prepared to work part-time or as a consultant for the first 6-12 months.</li>
+</ul>
+<p>
+<br />
+While we appreciate all submissions, we will only respond to those we are considering for interviews.</p>
+]]></description>
+			<type><![CDATA[Part Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/360pi/iJcYpI"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130108165210_ZDNGCKMVEJAK3V27]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[User Experience Designer]]></title>
+			<department><![CDATA[Product  management]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://360pi.theresumator.com/apply/7JRXIn/User-Experience-Designer.html]]></url>
+			<city><![CDATA[Ottawa]]></city>
+			<state><![CDATA[Ontario]]></state>
+			<country><![CDATA[Canada]]></country>
+			<postalcode><![CDATA[K1Z 6X3]]></postalcode>
+			<description><![CDATA[<p>
+Do you want to be part of the next big startup? 360pi is an award-winning price intelligence engine that helps retailers and manufacturers monitor pricing to increase sales and margins and optimize product mix. We help big retailers know exactly what their competition is doing, every day.</p>
+<p>
+Work With Us and Get</p>
+<ul>
+<li>
+ Responsibility: what you do here will have a direct impact on our growth </li>
+<li>
+Flexible working hours: we focus on results, not punching a clock &bull; Location: We&#39;re nestled in Westboro, a great neighbourhood to walk around</li>
+<li>
+ Team activities: climb a wall, spike a volleyball&hellip; we play as hard as we work</li>
+</ul>
+<p>
+We Need People To</p>
+<ul>
+<li>
+ Help define the next generation user experience for 360pi </li>
+<li>
+Enhance our reporting and visualization capabilities</li>
+<li>
+ Keep abreast of new UI paradigms in mobile and web</li>
+</ul>
+<p>
+We&#39;d Like You To Have:</p>
+<ul>
+<li>
+ Passion to deliver a great user experience</li>
+<li>
+A gift for design that balances users, customers, and development effort</li>
+<li>
+Experience in business applications, making reporting and analysis engaging and exciting</li>
+<li>
+Ability to work with product management to translate requirements into effective human interface designs</li>
+<li>
+Familiarity with human interfaces tailored to both mobile and web</li>
+<li>
+ An understanding of standard development lifecycle</li>
+<li>
+ Modern Web 2.0 design skills. Think GMail vs Hotmail circa 1998. </li>
+</ul>
+<p>
+And It Would Be Cool if You Had:</p>
+<ul>
+<li>
+Experience working at a fast-growing startup</li>
+<li>
+A degree or significant experience in interaction design </li>
+<li>
+Graphic design skills: Adobe Creative Suite or similar </li>
+<li>
+Basic web development and JavaScript knowledge, so you can hold you own with our geeks </li>
+</ul>
+<p>
+If this sounds like a perfect fit for you, we would love to hear from you! </p>
+<p>
+While we appreciate all submissions, we will only respond to those we are considering for interviews.</p>
+]]></description>
+			<type><![CDATA[Contracted]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/360pi/7JRXIn"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130628162808_UQYBRQGI5LGAMTHM]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Lead Development Representative]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[Marketing]]></team>
+			<url><![CDATA[http://360pi.theresumator.com/apply/nmd1hX/Lead-Development-Representative.html]]></url>
+			<city><![CDATA[Ottawa]]></city>
+			<state><![CDATA[Ontario]]></state>
+			<country><![CDATA[Canada]]></country>
+			<postalcode><![CDATA[K1Z 6X3]]></postalcode>
+			<description><![CDATA[<p>
+360pi is an award-winning price intelligence platform that helps retailers and manufacturers monitor competitive pricing to increase sales and margins and optimize product mix.</p>
+<p>
+<br />
+Nestled in the trendy Westboro area in Ottawa, we are looking for self-starters who enjoy working in a creative environment and are motivated by challenging work. We&rsquo;re creating and marketing a very innovative product into the huge retail market, and we need team members who are driven and passionate about creating and launching disruptive new technology.&nbsp; If you love demand generation, e-commerce, retail and cutting edge technology, and are looking for a fast-paced and dynamic work environment, then 360pi is the place for you!</p>
+<p>
+<br />
+This is a unique opportunity for a versatile individual to position themselves at the forefront of their field in a rapidly growing company. The perfect opportunity to start a career in marketing or sales. The Lead Development Representative is responsible for generating new business opportunities by engaging with both cold and warm prospects. The successful candidate will research key accounts, follow up with prospects who have shown interest through marketing campaigns, and help educate prospects with relevant content.&nbsp; Working closely with the Marketing and Sales teams, the person in this role will be assigned specific call objectives, including cold calling, in order to assist in creating opportunities for Sales.</p>
+<p>
+<br />
+<strong>Your responsibilities will include:</strong><br />
+<br />
+&bull; Being proactive, persistent and self-motivated to meet outbound call objectives<br />
+&bull; Respond, in a timely manner, to information requests from prospects<br />
+&bull; Identify prospect pains and communicate these to marketing, sales and project management<br />
+&bull; Facilitate communication of prospect intelligence to marketing, sales and product management<br />
+&bull; Learn and maintain an in-depth knowledge of 360pi products and services, industry trends, and competition and record them in our competitive tracking tool<br />
+&bull; Keep the marketing database up-to-date and list imports<br />
+&bull; Report on marketing campaign performance using Salesforce.com and Marketo<br />
+&bull; Educate prospects and facilitate access to educational resources about price intelligence<br />
+&bull; Discover, qualify and pass new opportunities to Sales<br />
+<br />
+<strong>We genuinely would like you to have all of these:</strong><br />
+<br />
+&bull; Ability to develop relationships with senior-level technical and business decision makers<br />
+&bull; Enjoy speaking to people over the phone<br />
+&bull; Have a strong interest in technology<br />
+&bull; Demonstrated &quot;people&quot; skills, and exceptionally organized with the ability to multi-task<br />
+&bull; Strong team player with excellent communication skills<br />
+&bull; Proficiency with Microsoft Office products<br />
+&bull; Passion for lead generation, marketing, the web, and e-commerce<br />
+&bull; Self-motivated, with strong initiative and drive<br />
+&bull; Excellent verbal and written communication skills<br />
+&bull; Motivated by challenge, and with a strong understanding and liking for the startup experience<br />
+&bull; Strong business and task orientation; focused on execution, excels at getting things done<br />
+&bull; Ability to work well in a team with others, striving to meet common goals<br />
+<br />
+<strong>And it would be really cool if you have any of these:</strong><br />
+<br />
+&bull; University/college degree in business<br />
+&bull; Interest in sales/marketing<br />
+&bull; Retail marketing experience<br />
+&bull; Experience with SalesForce, Jigsaw or Marketo</p>
+<p>
+<span style="font-size: 12px;">While we appreciate all submissions, we will only respond to those we would like to interview.</span></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/360pi/nmd1hX"></script>]]></buttons>
+		</job>
+	</jobs>

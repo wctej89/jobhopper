@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Jiff]]></company>
+			<job>
+			<id><![CDATA[job_20120924175852_ROYBE09UFMA1CRSV]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Ruby On Rails Developer]]></title>
+			<department><![CDATA[Engineering]]></department>
+			<team><![CDATA[Engineering]]></team>
+			<url><![CDATA[http://jiff.theresumator.com/apply/6EWyXQ/Senior-Ruby-On-Rails-Developer.html]]></url>
+			<city><![CDATA[Palo Alto]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94301]]></postalcode>
+			<description><![CDATA[<p>
+Health care needs to change. Rather than a stale, passive experience focused on the<em> healthcare system</em>, we at Jiff believe it should be focused on the <em>healthcare consumer</em>, and that experience can be fun, rewarding, and beautiful.</p>
+<p>
+We&#39;re looking for a Senior Ruby On Rails developer to join our engineering team and help provide secure, robust REST services which are the foundation of our patient-focused platform.</p>
+<p>
+Located in downtown Palo Alto, about a block from CalTrain, Jiff presents an opportunity to work on the latest mobile and web technology, in a great location, with a group of like-minded, fun-loving, and hard working people.</p>
+<p>
+The type of person we are looking for is passionate about technology, and as demonstrated that passion by working on open source projects (hint: send us a link to your GitHub account for bonus points) and as contributed to the community in forums, gem creation, or code samples. Maybe you have a side project that excites you and you use to push the boundaries of your knowledge and learn new things. If this is you, you&#39;re already a fit.</p>
+<p>
+<strong>Requirements</strong>:</p>
+<ul>
+<li>
+5-10 years overall experience with Web Development, including experience with another programming language and/or Web Application Framework outside of RoR</li>
+<li>
+3+ years of web development experience with RoR</li>
+<li>
+Mid-to-upper level Rails developer</li>
+<li>
+Experience in developing first-class, enterprise-level Rails applications</li>
+</ul>
+<p>
+<strong>Things We&#39;re Looking For</strong>:&nbsp;&nbsp;</p>
+<ul>
+<li>
+You like to discuss the pros and cons of ActiveRecord and debate database design. You have an opinion on NoSQL and SQL databases and have thought, at least once, &quot;<em>I think we&#39;re over-normalizing</em>&quot;</li>
+<li>
+You understand startups and startup life, and want to embrace the opportunity, not run from it.</li>
+<li>
+Agile is your friend, but you&#39;re not religious about it. You&#39;d like to merge the best of Agile, TDD, and other processes to come up with a method that best fits the team culture.</li>
+<li>
+You believe healthcare in the US, from wellness to chronic care, needs to be improved and fixed, and you want to be part of the solution.</li>
+<li>
+Skilled in both areas of Ruby and Rails.</li>
+<li>
+You &quot;been there, done that&quot; with Rails-based web apps in other industries who realize what a hot field digital health is.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/jiff/6EWyXQ"></script>]]></buttons>
+		</job>
+	</jobs>

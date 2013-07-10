@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[Whatever]]></company>
+			<job>
+			<id><![CDATA[job_20110405164719_KRIIMAA6GEJDG4BC]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sales Executive]]></title>
+			<department><![CDATA[Sales]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://whatever.theresumator.com/apply/ZcEBXk/Sales-Executive.html]]></url>
+			<city><![CDATA[Detroit]]></city>
+			<state><![CDATA[MI]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[55555]]></postalcode>
+			<description><![CDATA[<p>
+	Test test test</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/whatever/ZcEBXk"></script>]]></buttons>
+		</job>
+	</jobs>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[NA]]></company>
+			<job>
+			<id><![CDATA[job_20121109103334_TTBIUGDR7COP2N6Z]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[COntent Analyst]]></title>
+			<department><![CDATA[SW]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://doodle.theresumator.com/apply/bluUGG/COntent-Analyst.html]]></url>
+			<city><![CDATA[Fremont]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94153]]></postalcode>
+			<description><![CDATA[<p>
+TEST</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Student (College)]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/doodle/bluUGG"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20121103092559_HQAMICXBM3G3M6II]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer]]></title>
+			<department><![CDATA[UI Development]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://doodle.theresumator.com/apply/NxNT4n/Software-Engineer.html]]></url>
+			<city><![CDATA[Fremont]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[95153]]></postalcode>
+			<description><![CDATA[<p>
+TBD</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/doodle/NxNT4n"></script>]]></buttons>
+		</job>
+	</jobs>

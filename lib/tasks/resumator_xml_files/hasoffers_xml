@@ -1,0 +1,598 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[HasOffers]]></company>
+			<job>
+			<id><![CDATA[job_20130709221040_HYZYWKVRCWSVPQAM]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Linux Systems Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://hasoffers.theresumator.com/apply/EoB7v4/Linux-Systems-Engineer.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98121]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Help us build, manage, and scale an innovative realtime tracking and attribution analytics technology for online and mobile performance advertising!</strong></p>
+<p>
+Our unbiased, flexible, and cloud-based software has been a catalyst for industry-wide evolution, enabling our customers to establish and manage advertising relationships with a focus on measuring performance. In response to a major need among our mobile industry customers, we recently launched MobileAppTracking. MobileAppTracking is now used by the highest grossing mobile app producers and their advertising partners.</p>
+<p>
+HasOffers is undoubtedly one of the fastest growing software companies in Seattle! As we experience exponential growth, we need you to stretch your abilities as a Linux and AWS oriented Systems Engineer. You&#39;ll resourcefully research and strategically engineer cutting edge solutions that solve highly complex technical challenges.</p>
+<p>
+<strong>Here&#39;s what we look for in a candidate:</strong></p>
+<ul>
+<li>
+Experience designing, engineering, configuring auto-scalable Amazon Web Services (AWS) cloud deployments.</li>
+<li>
+Extensive knowledge/experience with Linux-based systems engineering &amp; management (RedHat, CentOS, etc.</li>
+<li>
+Server Management Scripting (Puppet, Chef, etc)</li>
+<li>
+Scripting proficiency with Python or Perl.</li>
+<li>
+Firm working understanding of the idiosyncrasies separating MySQL and NoSQL.</li>
+<li>
+Keen understanding of Load Balancing</li>
+<li>
+Working knowledge of enterprise storage technologies (SAN, NFS, ICSI, RAID)</li>
+<li>
+Excellent TCP/IP, DNS, DHCP, NFS and networking knowledge and experience.</li>
+</ul>
+<p>
+<strong>The HasOffers Experience:</strong></p>
+<p>
+We offer a competitive salary, bonus opportunities, stock options, and an onsite organic chef (free to all employees)! We respect the tech with 30+ inch monitors, Bose noise-cancelling headphones (for those times when you want to focus), and good times with good people who love amazing technology.</p>
+<p>
+Check out this behind the scenes video: <a href="http://www.hasoffers.com/hiring">http://www.hasoffers.com/hiring</a></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/hasoffers/EoB7v4"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130530192056_HTPRHHFRWTAOG0JE]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Software Engineer for Successful Startup]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Recruiting]]></team>
+			<url><![CDATA[http://hasoffers.theresumator.com/apply/Yv2ag6/Software-Engineer-For-Successful-Startup.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98121]]></postalcode>
+			<description><![CDATA[<p>
+<strong>Build a cloud-based software product/service to trigger industry-wide evolution!</strong></p>
+<p>
+<a href="http://hasoffers.com">HasOffers </a>produces real-time tracking &amp; attribution analytics technology for online and mobile advertising. Since inception, our <em>unbiased</em>, flexible, and cloud-based software has been a catalyst for industry-wide evolution, enabling our customers to establish and manage advertising relationships, with a focus on accurately measuring performance. &nbsp; In light of a booming mobile industry, we recently launched <a href="http://mobileapptracking.com">MobileAppTracking,</a> an innovative performance tracking technology that is now used by the world&#39;s most popular mobile app producers and their advertising partners.</p>
+<p>
+As we continue to innovate, we are looking for a <u><em>Senior Software Engineer </em></u>like you. &nbsp;As a senior-level contributor, we want you to contribute expertise during design discussions, help with code reviews, and lead brilliate though less-experienced programmers.&nbsp;</p>
+<p>
+<strong>What we look for:</strong></p>
+<ul>
+<li>
+Industry proven&nbsp;software engineering experience (over 5 years of professional experience)</li>
+<li>
+Experience with (or strong interest in)&nbsp;working in PHP / LAMP stack technologies. (We&#39;ll consider&nbsp;experts in Java, C/C++, etc -- We know that a great programmer can learn new languages)</li>
+<li>
+Computer Science or Mathematics academic background (or truly great experience)</li>
+<li>
+Must be comfortable with backend programming</li>
+<li>
+Web Services or API creation</li>
+<li>
+<em>Extensive knowledge of common design patterns</em>, and how and when to apply them.</li>
+</ul>
+<p>
+<strong>Here&#39;s what sets our environment apart:</strong></p>
+<ul>
+<li>
+Opportunity to strongly impact or lead our most strategic engineering initiatives.</li>
+<li>
+A fun, creative, and focused team that learns through challenges and collaboration.</li>
+<li>
+A strong compensation package, full-benefts,&nbsp;bonus opportunities.</li>
+<li>
+Respect for the tech w/ 30 inch monitors, Bose Noise canceling headphones, fast machines, etc</li>
+<li>
+Fast yet strategic company growth</li>
+<li>
+<u>An on-site organic chef providing free meals (2 per day)</u></li>
+</ul>
+<p>
+<strong>For a video tour:</strong></p>
+<p>
+Visit our hiring page at <a href="http://hasoffers.com/hiring">HasOffers.com/hiring</a>.</p>
+<p>
+<strong>Need to relocate for this role?</strong></p>
+<p>
+<em>Relocation packages are available for candidates outside of the Seattle area.&nbsp;</em></p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/hasoffers/Yv2ag6"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130619233336_ZNJR0K6UEULM4WL0]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Linux Big Data Software Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Recruiting]]></team>
+			<url><![CDATA[http://hasoffers.theresumator.com/apply/qVpE6l/Linux-Big-Data-Software-Engineer.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98121]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Company:</strong></p>
+<p>
+HasOffers is the producer of a realtime tracking, analytics, and reporting technology for online and mobile advertising/marketing. Our cloud-based affiliate management software (SaaS) has been a catalyst for industry-wide evolution. Our product is reliable, flexible, and scalable for our client&#39;s growing demands. With over 12,000+ businesses engaged, we are tracking more than 375+ million dollars in ad-spend per year. &nbsp;In response to a major need among our mobile customers, we recently launched MobileAppTracking, an innovative performance tracking technology that is now used by the world&#39;s most popular mobile app producers and their advertising partners.</p>
+<p>
+<strong>The Big Data Software Engineer Opportunity:</strong></p>
+<p>
+This is an integral role that will focus on design and hands-on programming, in tight-partnership with our CTO. &nbsp;With two products experiencing massive growth, this person will work on our most complex Big Data and Distributed Processing / Computing projects. We capture, analyze, and present massive amounts of data in realtime. &nbsp;Given our processing demands, inefficient and non-scalable code is quickly exposed. This person is passionate about the science of programming, and the rapid innovation happening within Big Data.</p>
+<p>
+<strong>Qualifications:</strong></p>
+<ul>
+<li>
+At least 3 years of &quot;Big&nbsp;Data&quot; oriented&nbsp;software design and&nbsp;engineering experience</li>
+<li>
+Over 5+ years of overall software engineering experience</li>
+<li>
+Experience programming with multiple core languages (C/C++, Java,&nbsp;etc) in a professional environment.</li>
+<li>
+Experience with Hadoop, Cassandra, Pig, MapReduce, Linux, etc.</li>
+<li>
+Python proficiency (or similar scripting language)</li>
+<li>
+Experience w/ distributed processing &amp; low-latency systems creation.</li>
+<li>
+BA/BS in computer science, applied mathematics or related discipline (Please note:&nbsp;<em><u>truly equivalent</u></em> work experience will suffice)</li>
+<li>
+Bonus: cloud infrastructure knowledge (AWS, Rackspace, etc)</li>
+</ul>
+<p>
+<strong>The HasOffers Experience:</strong></p>
+<p style="text-align: left; ">
+Our company is full of passionate folks who love to see the impact of their work (whether technical or non-technical). We&#39;re focused yet light-hearted. &nbsp;Intelligent...yet humble. &nbsp;We enjoy the evolutionary process that comes from research, trial, error, research, trail #2 or 3, and success. &nbsp;We constantly look for ways to improve our industry through great software.</p>
+<p style="text-align: left; ">
+We respect the tech with 30&quot; monitors, Bose noise-canceling headphones, and a free onsite chef who cooks incredible food with organic and locally sourced ingredients :) &nbsp;<em>You will feel awesome because you eat awesome-ness. &nbsp;We offer great compensation and full benefits.</em></p>
+<p style="text-align: left; ">
+&nbsp;</p>
+<p style="text-align: left; ">
+&nbsp;</p>
+<p style="text-align: left; ">
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/hasoffers/qVpE6l"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130710000606_0QSTJKIPQ9QPIRDP]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Desktop Support for Successful Startup!]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://hasoffers.theresumator.com/apply/7l3hzx/Desktop-Support-For-Successful-Startup.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98121]]></postalcode>
+			<description><![CDATA[<p>
+<br />
+<strong>Help us build, manage, and scale an IT Department as a&nbsp;<em>Desktop Support specialist</em>!</strong></p>
+<p>
+Our unbiased, flexible, and cloud-based software has been a catalyst for industry-wide evolution, enabling our customers to establish and manage advertising relationships with a focus on measuring performance. In response to a major need among our mobile industry customers, we recently launched MobileAppTracking. MobileAppTracking is now used by the highest grossing mobile app producers and their advertising partners.</p>
+<p>
+As we continue to expand and open offices across the US, we are looking for someone to specialize in Desktop Support, in an effort to support technical and non-technical employees with their IT needs.</p>
+<p>
+<strong>Skills &amp; Requirements:</strong></p>
+<ul>
+<li>
+2-3 years of relevant IT/computing work experience with emphasis in the support of desktop computers and telephones</li>
+<li>
+Demonstrated expertise supporting both Windows,Linux, and Mac desktop operating systems</li>
+<li>
+TCP/IP networking experience</li>
+<li>
+Layer 2/3 troubleshooting</li>
+<li>
+serving as point of contact for internet service providers</li>
+<li>
+Experience with networked printers and print servers</li>
+<li>
+Experience with Remote Desktop Administration</li>
+<li>
+Experience with VPN and remote access systems</li>
+<li>
+Experience with Active Directory and GPO</li>
+</ul>
+<p>
+<strong>Nice To Haves:</strong></p>
+<ul>
+<li>
+Experience with managed switches/Firewalls (Cisco/HP)</li>
+<li>
+Experience with Virtualization Technology (VMware/Hyper-V)</li>
+</ul>
+<p>
+<strong>Non-Technical Traits:</strong></p>
+<ul>
+<li>
+A true customer service mindset, including strong communication skills, both verbal and written, and the ability to work productively as a member of a team</li>
+<li>
+Ability to organize and manage multiple projects with competing priorities and deadlines.</li>
+<li>
+Problem-solving experience and troubleshooting abilities</li>
+<li>
+Must be able to work independently with minimal guidance and have a strong attention to detail.</li>
+<li>
+Professionalism, dependability, and punctuality.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Manager/Supervisor]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/hasoffers/7l3hzx"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130708213350_N1XWTRG3NTIXZRHR]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Marketing Programs Manager, Online Advertising]]></title>
+			<department><![CDATA[Marketing]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://hasoffers.theresumator.com/apply/Kc8gZz/Marketing-Programs-Manager-Online-Advertising.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98121]]></postalcode>
+			<description><![CDATA[<p>
+<strong>POSITION SUMMARY</strong></p>
+<p>
+The HasOffers Marketing Programs Manager is a strategic, metric-driven B2B marketer responsible for developing, tracking and managing the execution of the marketing programs plan. This role will work collaboratively with the marketing team to develop and execute a comprehensive marketing plan to increase market awareness and drive demand generation and lead development. The qualified candidate will be able to demonstrate a successful history in a marketing role for a software company with responsibilities in assisting with programs that reach new customers, and expanding customer retention and revenue growth within the existing customer base.</p>
+<p>
+<strong>ESSENTIAL DUTIES AND RESPONSIBILITIES INCLUDE:</strong></p>
+<ul>
+<li>
+Develop and manage offline and online marketing programs with the purpose of generating new sales leads for the company</li>
+<li>
+Manage day-to-day marketing activities from concept/research to implementation, to deliver optimal leads into the sales funnel</li>
+<li>
+Grow our database and deepen our relationship with current database members through optimal communication methods.</li>
+<li>
+Ensure product positioning is effectively communicated and reaches the appropriate target audience.</li>
+<li>
+Brief Sales team members on marketing programs, providing the right tools to follow up as required</li>
+<li>
+Consistently iterate and improve marketing and lead nurturing activities through measurement and optimization</li>
+<li>
+Represent HasOffers at local, national, and international events.</li>
+<li>
+Collect information and data to produce monthly campaign metrics. This will include reporting on new registrants, outbound sales efforts, and lead generation results</li>
+<li>
+Assist in partner marketing programs, working with channel resellers of our products</li>
+</ul>
+<p>
+<strong>QUALIFICATIONS:</strong></p>
+<ul>
+<li>
+At least 4 years of B2B or SaaS marketing experience. Mobile experience a plus.</li>
+<li>
+CRM and marketing automation systems proficiency, with desire to learn new systems.</li>
+<li>
+Experience with managing external vendor / partner relationships, ensuring high-quality and on-time deliverables.</li>
+<li>
+Demonstrated ability to manage multiple projects, programs, and priorities </li>
+<li>
+Self-motivated and results-oriented</li>
+<li>
+Creative with a solutions-oriented focus</li>
+<li>
+Great attention to detail combined with the ability to prioritize and meet aggressive deadlines</li>
+<li>
+Proven ability to work independently and as part of a team.</li>
+</ul>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/hasoffers/Kc8gZz"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130709205357_MIXHMNVQCRQKH0WF]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Data Scientist for Booming/Mature startup!]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://hasoffers.theresumator.com/apply/pK8p51/Data-Scientist-For-BoomingMature-Startup.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98121]]></postalcode>
+			<description><![CDATA[<p>
+<a href="http://hasoffers.com">HasOffers</a> produces real-time tracking &amp; attribution analytics technology for online and mobile advertising. Since inception, our unbiased, flexible, and cloud-based software has been a catalyst for industry-wide evolution, enabling our customers to establish and manage advertising relationships, with a focus on accurately measuring performance.&nbsp;&nbsp; In light of a booming mobile industry, we recently launched <a href="http://mobileapptracking.com">MobileAppTracking</a>, an innovative performance tracking technology that is now used by the world&#39;s most popular mobile app producers and their advertising partners.</p>
+<p>
+<strong>We are looking for a <u><em>Data Scientist&nbsp;</em></u>who will be responsible for the following:</strong></p>
+<ul>
+<li>
+Analyzing large data sets, producing decision-driving insight.</li>
+<li>
+Prototyping and/or developing new reporting methods.</li>
+<li>
+Developing queries and outlining processes for new reports.</li>
+<li>
+Altering production statistics / logs to rectify attribution / tracking bugs.</li>
+<li>
+Analyzing publishing partner data discrepancies.</li>
+<li>
+Developing queries to support company and department KPIs.</li>
+<li>
+Analyzing client data with accounting team to find revenue opportunities.</li>
+<li>
+Analyzing client data with marketing team to find growth opportunities.</li>
+<li>
+Documenting insights on captured-yet-anonymized data for white papers.</li>
+<li>
+Developing and maintaining Tableau integration.</li>
+</ul>
+<p>
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+Proven industry experience in Business Intelligence / Data Analytics</li>
+<li>
+Background in Statistical Analysis, Quantitative Analysis, Predictive Analytics, etc.</li>
+<li>
+Experience with data modeling, schema design, analysis, and reporting</li>
+<li>
+Extremely confident alerting / updating production data</li>
+<li>
+Extensive experience with relational database systems (MySQL preferred)</li>
+<li>
+Python scripting</li>
+<li>
+Used Tableau or other business intelligence / analytics software.</li>
+<li>
+Bachelors degree in related field.</li>
+</ul>
+<p>
+<strong>What set&#39;s HasOffers apart:</strong></p>
+<p>
+You&#39;ll have the opportunity to impact our most strategic initiatives. We honor a creative, open-minded, and focused team that learns through challenges and collaboration. &nbsp;We offer a strong compensation package, full benefits and bonus opportunities. &nbsp;We are what we eat, and we eat amazingly well, with an on-site organic chef providing breakfast and lunch each day.</p>
+<p>
+For a video tour, recently shot at HasOffers, see our hiring page: <a href="http://www.hasoffers.com/hiring">hasoffers.com/hiring</a></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Mid Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/hasoffers/pK8p51"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130709212337_JX1Z4ZADQTHO9NCG]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Sales Executive, Online Advertising Industry]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://hasoffers.theresumator.com/apply/zn32wI/Sales-Executive-Online-Advertising-Industry.html]]></url>
+			<city><![CDATA[Tel Aviv]]></city>
+			<state><![CDATA[Tel Aviv]]></state>
+			<country><![CDATA[Israel]]></country>
+			<postalcode><![CDATA[61999]]></postalcode>
+			<description><![CDATA[<p>
+<b>Fuel the growth of an innovative Software-as-a-Service (SaaS) product within Online Advertising!</b></p>
+<p>
+Our unbiased, flexible, and cloud-based software has been a catalyst for industry-wide evolution, enabling our customers to establish and manage advertising relationships with a focus on measuring performance. In response to a major need among our mobile industry customers, we recently launched MobileAppTracking. MobileAppTracking is now used by the highest grossing mobile app producers and their advertising partners.&nbsp;</p>
+<p>
+As <em>Sales Executive&nbsp;for HasOffers</em>,&nbsp;you will be responsible for full life-cycle sales, from sourcing through establishing terms &amp; onboarding. &nbsp;You&#39;ll need a core understanding of online advertising industry monetization models, and you must be able to forge industry relationships, pitch/position, and negotiate closing terms with new clients. &nbsp;You&#39;ll interact with potential clients and industry leaders at conferences. &nbsp;You&#39;ll continually work with account management and Sales Engineers to ensure clients are well supported and that inside sales opportunities are realized.&nbsp;</p>
+<p>
+<strong>We look for...</strong></p>
+<ul>
+<li>
+Strong knowledge of Online Advertising, Performance Advertising and/or Affiliate Marketing.</li>
+<li>
+At least 2 years of Business Development experience, preferrably selling a SaaS product.</li>
+<li>
+Extensive Sales Training and proven negotiation skills</li>
+<li>
+Relentless and calculated approach to achieving sales&nbsp;goals.&nbsp;</li>
+<li>
+Background in mobile games&nbsp;or an app-centric business model&nbsp;is ideal.</li>
+</ul>
+<p>
+<strong>Interested?</strong></p>
+<p>
+We offer strong compensation, full benefits, long-term equity opportunity, and a massive opportunity for career progression!</p>
+<p>
+<u><em>Shoot us your resume, and let&#39;s make amazing things happen!</em></u></p>
+<p>
+&nbsp;</p>
+<p>
+&nbsp;</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/hasoffers/zn32wI"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130709221351_EQDMPJY1YG2U3JXO]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Payroll & Benefits Administrator]]></title>
+			<department><![CDATA[Human Resources]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://hasoffers.theresumator.com/apply/Kbhhm9/Payroll-Benefits-Administrator.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98121]]></postalcode>
+			<description><![CDATA[<p>
+<a href="http://hasoffers.com">HasOffers</a> produces real-time tracking &amp; attribution analytics technology for online and mobile advertising. Since inception, our unbiased, flexible, and cloud-based software has been a catalyst for industry-wide evolution, enabling our customers to establish and manage advertising relationships, with a focus on accurately measuring performance.&nbsp;&nbsp; In light of a booming mobile industry, we recently launched <a href="http://mobileapptracking.com">MobileAppTracking</a>, an innovative performance tracking technology that is now used by the world&#39;s most popular mobile app producers and their advertising partners.</p>
+<p>
+<em>HasOffers is looking for a Payroll &amp; Benefits Administrator.&nbsp; </em>In this role, you&rsquo;ll administer payroll, track benefits, and assist in HR administration.&nbsp; We&rsquo;re currently at 80 employees, though we are expanding rapidly, after landing 9.4 million dollars in funding.&nbsp; That said, you&rsquo;ll be an integral part of managing that growth!&nbsp;</p>
+<p>
+<strong>Key Responsibilities:</strong></p>
+<ul>
+<li>
+Prepare and process multi-state payroll</li>
+<li>
+Run &amp; review payroll audit reports to ensure 100% accuracy in payroll processing</li>
+<li>
+Prepare manual payroll checks as needed</li>
+<li>
+Ensure company compliance with all payroll, best practices,&nbsp; legalities and regulations</li>
+<li>
+Maintain basic HR files for employees (this is all electronic)</li>
+<li>
+Work with payroll vendor to insure timely W2/tax reporting, quarterly and annually.</li>
+<li>
+Assist in the support of the annual financial statement and 401K audits.</li>
+</ul>
+<p>
+<strong>Requirements:</strong></p>
+<ul>
+<li>
+Minimum of 2-3 years of recent full-process payroll experience (Paylocity/ADP/Paychex experience preferred)</li>
+<li>
+Associates degree in Accounting or related field, Bachelor&rsquo;s degree preferred.</li>
+<li>
+Experience and understanding of 1099/W2 reporting</li>
+<li>
+Solid understanding and working experience with Excel.</li>
+<li>
+Must be organized!</li>
+<li>
+Certified Payroll Professional (CPP) certification highly desirable.</li>
+</ul>
+<p>
+<strong>Interested?</strong></p>
+<p>
+We offer an onsite chef, strong compensation, full benefits, and day-to-day engagement with an amazing team!&nbsp; Check out a video of our office at <a href="http://hasoffers.com/hiring">hasoffers.com/hiring</a>!</p>
+<p>
+<em>Send us your resume!</em></p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/hasoffers/Kbhhm9"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130709222634_8DS7KQNB9CWY3JZB]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Executive Assistant for Booming Startup!]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://hasoffers.theresumator.com/apply/1F4tQs/Executive-Assistant-For-Booming-Startup.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+Want to be the Executive Assistant &nbsp;for a company that has two innovative software products within online advertising?</p>
+<p>
+HasOffers is the producer of a real-time tracking, analytics, and reporting technology for online and mobile advertising/marketing. It is reliable, flexible, streamlined, and available at a scalable cost to our customers. With over 12,000 businesses onboard, we are tracking more than 375+ million dollars in ad spend per year!</p>
+<p>
+As we continue to innovate and grow, our company is looking for an <u>Executive Assistant</u>&nbsp;like you, to help manage the administration of our San Francisco office. &nbsp;</p>
+<p>
+<strong>The Background We&#39;re Looking For:</strong></p>
+<ul>
+<li>
+Experience managing and completing multiple administrative projects in a fast paced environment.</li>
+<li>
+Proficiency of Microsoft Office software: Word and Excel (intermediate level)</li>
+<li>
+Working knowledge of office equipment: fax, copier, phones</li>
+<li>
+Ability to be detail oriented and well-organized, while honoring an appropriate level of urgency.</li>
+<li>
+Demonstrated great written and oral communication skills</li>
+<li>
+Punctuality, dependability and accuracy in every aspects of your work</li>
+<li>
+Ability in setting priorities and meeting deadlines</li>
+<li>
+Experience providing administrative support to an executvie team</li>
+<li>
+Bachelor&#39;s degree from a university or equivalent vocational training.</li>
+</ul>
+<p>
+<strong>Here&#39;s what sets our environment apart:</strong></p>
+<ul style="">
+<li>
+Opportunity to strongly impact or lead strategic operational initiatives.</li>
+<li>
+A fun, creative, and focused team that learns through challenges and collaboration.</li>
+<li>
+A strong compensation package, bonus opportunities, full-benefts, paid-time off.</li>
+</ul>
+<p>
+<b>Interested in joining our team?</b></p>
+<p>
+Send us your resume today!</p>
+<p>
+&nbsp;</p>
+<p>
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/hasoffers/1F4tQs"></script>]]></buttons>
+		</job>
+			<job>
+			<id><![CDATA[job_20130709223209_EIXI8VNHXXMV5QHP]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Linux Big Data Software Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[Recruiting]]></team>
+			<url><![CDATA[http://hasoffers.theresumator.com/apply/BKiH2n/Linux-Big-Data-Software-Engineer.html]]></url>
+			<city><![CDATA[Seattle]]></city>
+			<state><![CDATA[WA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[98121]]></postalcode>
+			<description><![CDATA[<p>
+<strong>The Company:</strong></p>
+<p>
+HasOffers is the producer of a realtime tracking, analytics, and reporting technology for online and mobile advertising/marketing. Our cloud-based affiliate management software (SaaS) has been a catalyst for industry-wide evolution. Our product is reliable, flexible, and scalable for our client&#39;s growing demands. With over 12,000+ businesses engaged, we are tracking more than 375+ million dollars in ad-spend per year. &nbsp;In response to a major need among our mobile customers, we recently launched MobileAppTracking, an innovative performance tracking technology that is now used by the world&#39;s most popular mobile app producers and their advertising partners.</p>
+<p>
+<strong>The Big Data Software Engineer Opportunity:</strong></p>
+<p>
+This is an integral role that will focus on design and hands-on programming, in tight-partnership with our CTO. &nbsp;With two products experiencing massive growth, this person will work on our most complex Big Data and Distributed Processing / Computing projects. We capture, analyze, and present massive amounts of data in realtime. &nbsp;Given our processing demands, inefficient and non-scalable code is quickly exposed. This person is passionate about the science of programming, and the rapid innovation happening within Big Data.</p>
+<p>
+<strong>Qualifications:</strong></p>
+<ul>
+<li>
+At least 3 years of &quot;Big&nbsp;Data&quot; oriented&nbsp;software design and&nbsp;engineering experience</li>
+<li>
+Over 5+ years of overall software engineering experience</li>
+<li>
+Experience programming with multiple core languages (C/C++, Java,&nbsp;etc) in a professional environment.</li>
+<li>
+Experience with Hadoop, Cassandra, Pig, MapReduce, Linux, etc.</li>
+<li>
+Python proficiency (or similar scripting language)</li>
+<li>
+Experience w/ distributed processing &amp; low-latency systems creation.</li>
+<li>
+BA/BS in computer science, applied mathematics or related discipline (Please note:&nbsp;<em><u>truly equivalent</u></em> work experience will suffice)</li>
+<li>
+Bonus: cloud infrastructure knowledge (AWS, Rackspace, etc)</li>
+</ul>
+<p>
+<strong>The HasOffers Experience:</strong></p>
+<p style="text-align: left; ">
+Our company is full of passionate folks who love to see the impact of their work (whether technical or non-technical). We&#39;re focused yet light-hearted. &nbsp;Intelligent...yet humble. &nbsp;We enjoy the evolutionary process that comes from research, trial, error, research, trail #2 or 3, and success. &nbsp;We constantly look for ways to improve our industry through great software.</p>
+<p style="text-align: left; ">
+We respect the tech with 30&quot; monitors, Bose noise-canceling headphones, and a free onsite chef who cooks incredible food with organic and locally sourced ingredients :) &nbsp;<em>You will feel awesome because you eat awesome-ness. &nbsp;We offer great compensation and full benefits.</em></p>
+<p style="text-align: left; ">
+&nbsp;</p>
+<p style="text-align: left; ">
+&nbsp;</p>
+<p style="text-align: left; ">
+&nbsp;</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Experienced]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/hasoffers/BKiH2n"></script>]]></buttons>
+		</job>
+	</jobs>

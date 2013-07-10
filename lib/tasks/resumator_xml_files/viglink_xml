@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jobs>
+	<publisher>The Resumator</publisher>
+	<publisherurl>http://app.theresumator.com</publisherurl>
+	<lastBuildDate>Wed, 10 Jul 2013 11:11:11 GMT</lastBuildDate>
+	<company><![CDATA[VigLink]]></company>
+			<job>
+			<id><![CDATA[job_20110131001813_IZVL05HXA8TX8YXK]]></id>
+			<status><![CDATA[Open]]></status>
+			<title><![CDATA[Senior Software Engineer]]></title>
+			<department><![CDATA[]]></department>
+			<team><![CDATA[]]></team>
+			<url><![CDATA[http://viglink.theresumator.com/apply/yHHN3N/Senior-Software-Engineer.html]]></url>
+			<city><![CDATA[San Francisco]]></city>
+			<state><![CDATA[CA]]></state>
+			<country><![CDATA[United States]]></country>
+			<postalcode><![CDATA[94107]]></postalcode>
+			<description><![CDATA[<p>
+	VigLink is looking for an exceptional engineer with strong Java skills and a well-rounded background in computer science, including algorithm design and programming languages. You should have a proven track record of delivering robust, high-availability applications and understand the ins and outs of scalable data processing and storage. You must be capable of designing new data models, developing high-performance software, and architecting web-scale infrastructure.</p>
+<h5>
+	Challenges</h5>
+<p>
+	A few of the hard problems we&#39;re working on:</p>
+<dl>
+	<dt>
+		Semantic Search</dt>
+	<dd>
+		Develop or license a catalog that asserts that URL A on Merchant 1 and URL B on Merhant 2 sell &#39;the same&#39; product (with all the nuances and edge cases that implies.) Extract related metadata like pricing information</dd>
+	<dt>
+		Data Mining</dt>
+	<dd>
+		Analyze historical buying behavior across millions of transactions to identify relevant factors in customer merchant preference and expected revenue by merchant and product.</dd>
+	<dt>
+		Real Time Auctions</dt>
+	<dd>
+		Build a real-time auction comparing expected revenue per merchant calculated across dozens of factors and return a result in 200ms.</dd>
+</dl>
+<h5>
+	Requirements</h5>
+<ul>
+	<li>
+		BA/BS degree in Computer Science preferred with a strong academic record (MS/PhD or equivalent a plus).</li>
+	<li>
+		At least 3 years of multi-threaded server-side web application programming experience using agile development techniques.</li>
+	<li>
+		Strong Java skills and object oriented design experience, including working knowledge of core libraries, design patterns, and Hibernate. Experience with Spring MVC is a plus.</li>
+	<li>
+		Excellent database development skills including advanced SQL programming, a solid understanding of database technologies, and logical and physical data modeling.</li>
+	<li>
+		Experience with Hadoop MapReduce and Cassandra (or a different NoSQL technology) is desirable.</li>
+</ul>
+<p>
+	Please include descriptions of or (preferably) pointers to code you&#39;ve written.</p>
+<p>
+	<strong>Bonus points:</strong> Links to your GitHub account, open source contributions or personal code projects.</p>
+<h5>
+	About You</h5>
+<ul>
+	<li>
+		You&#39;ve substantially built something you can point to. Merely following instructions is not enough. We need people who <b>build things.</b></li>
+	<li>
+		<b>You work for startups.</b> Not as an aspiration but as a way of life.</li>
+	<li>
+		You can communicate the good work you&#39;ve done to us and to the other <b>rockstars</b> you&#39;ll be recruiting in your first week.</li>
+	<li>
+		You&#39;re <b>fun to be around</b> and you appreciate other people who are the same.</li>
+</ul>
+<h3>
+	About VigLink</h3>
+<p>
+	VigLink is the pioneer and market leader in automated affiliate marketing. We offer web publishers large and small a suite of technologies to drive incremental non-advertising revenue from existing content with zero ongoing time investment and little to no impact on their site. We are looking for highly talented, motivated and visionary people who want to build something great that defines an industry. We&#39;re building a high-volume, low-margin system focused on revenue and performance, operating in real-time and at web-scale. We currently handle more than 3.5B pageviews a month and 2M clicks a day through our network and we&#39;re just getting started.</p>
+<p>
+	The company has been funded by <a href="http://www.google.com/ventures/">Google Ventures</a>, <a href="http://www.firstround.com/">First Round Capital</a> and some <a href="/about#angels">stellar angels</a> including Reid Hoffman, but the team is young and small enough that we are still giving out meaningful equity. You will have a substantial role in defining what the company is, does and feels like.</p>
+]]></description>
+			<type><![CDATA[Full Time]]></type>
+			<experience><![CDATA[Entry Level]]></experience>
+			<buttons><![CDATA[<script type="text/javascript" src="http://app.theresumator.com/widgets/buttons/create/viglink/yHHN3N"></script>]]></buttons>
+		</job>
+	</jobs>
