@@ -8,11 +8,11 @@
 } 
 
 .left {
-  width: 55%;
+  
 }
 
 .left, .right, .container, #wrapper, body, html {
-  height: 100%;
+ 
 }
 
 .left {
@@ -23,11 +23,8 @@ html {
   overflow-x: hidden;
   overflow-y: hidden;
 }
-body {
-  padding-top: 0px !important;
-  background-color: white;
-  background-image: url(http://hdwallpapers-desktop.com/Animals-Desktop-Wallpapers/images/Kangaroo%20Silhouettes.jpeg)
-}
+
+
 
 #wrapper {
   width: 100%;

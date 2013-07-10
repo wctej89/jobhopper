@@ -18,7 +18,14 @@
 //     .marketing#2
 //     .marketing#3
 :css
-
+  body {
+    padding-top: 0px !important;
+    background-color: white;
+    background-image: url(http://hdwallpapers-desktop.com/Animals-Desktop-Wallpapers/images/Kangaroo%20Silhouettes.jpeg);
+    height: 100%;
+    width: 100%;
+    background-size: 100% 111%;
+  }
   .stuff {
     font-family: "Helvetica Neue",Arial,sans-serif;
     position:fixed;
@@ -39,23 +46,22 @@
   }
 
   .buttons {
-    position: fixed;
   }
 
   .linkedin_button, .facebook_button, .google_button{
-    position: fixed;
-    height: 55px;
-    width: 344px;
-    left: 57%;
+    / position: fixed;
+    / height: 55px;
+    / width: 344px;
+    / left: 57%;
     top: 24%;
-    background-color: #325C99;
-    border-radius: 6px;
-    height: 57px;
-    font-family: "Helvetica Neue",Arial,sans-serif;
+    background-color: rgb(55, 58, 61);
+    / border-radius: 6px;
+    / height: 57px;
+    / font-family: "Helvetica Neue",Arial,sans-serif;
   }
 
   .facebook_button {
-    top: 31%;
+    / top: 31%;
   }
 
   .linkedin_button:active {
@@ -63,26 +69,30 @@
   }
 
   .google_button {
-    top: 38%;
+    / top: 38%;
     padding-left: 5px;
     padding-right: 5px;
+    color: white;
   }
-  .icon-linkedin-sign {
-    background-color: #325C99;
+  .icon-linkedin {
+    color: white;
     padding-left: 5px;
     padding-right: 5px;
+    margin-left: 10px;
   }
-  .icon-facebook-sign {
-    background-color: #325C99;
+  .icon-facebook {
+    color: white;
     padding-left: 5px;
     padding-right: 5px;
+    margin-left: 10px;
   }
 
   span.crap {
-    font-size: 1.6em;
+    font-size: 22px;
     font-weight: bold;
     color: white;
     line-height: 55px;
+    font-family: 'Lato', sans-serif;
   }
 
   .google_button > span {
@@ -91,14 +101,35 @@
 
   h1 {
     position: fixed;
-    left: 4%;
-    top: 7%;
-    font-family: 'Average', serif;
+    left: 64%;
+    top: 4%;
+    font-family: 'Montserrat Subrayada', sans-serif;
     color: white;
-    background-color: rgba(184, 42, 59, 0.76);
     width: 180px; 
     text-align: center;
-    font-size: 30px;
+    font-size: 60px;
+    }
+
+  #bryant {
+    border-radius: 3px;
+    margin-top: 4%;
+    box-shadow: 1px 1px 1px rgb(56, 54, 54);
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+  }
+
+  #bryant:hover {
+    background-color: #02678b;
+  }
+
+  .ninja {
+    margin-top: 100%;
+    margin-left: 9%;
+    width: 106%;
+  }
+
+  .icon-google-plus {
+    margin-left: 10px;
   }
 
 .left
@@ -106,19 +137,19 @@
 .left
   .stuff
     .signup
-      Sign up for JobHopper 
-    %h2.below Jobhopper is your best source for jobs.
-  .ninja{style: "position: fixed;"}
-    .linkedin_button    
-      %i.icon-linkedin-sign.icon-2x
+    /   Sign up for JobHopper 
+    / %h2.below Jobhopper is your best source for jobs.
+  .ninja
+    .linkedin_button{:id => "bryant"}    
+      %i.icon-linkedin.icon-2x
       %span.crap Sign up with LinkedIn
 
-    .facebook_button
-      %i.icon-facebook-sign.icon-2x
+    .facebook_button{:id => "bryant"}
+      %i.icon-facebook.icon-2x
       %span.crap Sign up with Facebook
 
-    .google_button
-      %i.icon-google-plus-sign.icon-2x
+    .google_button{:id => "bryant"}
+      %i.icon-google-plus.icon-2x
       %span.crap Sign up with Google
 
   .aispfu
@@ -129,7 +160,7 @@
 :javascript
   document.onclick = function(event) {
     var el = event.target;
-    if (el.className == "crap" || el.className == "linkedin_button");
+    if (el.className == "crap" || el.className == "linkedin_button") {
         window.location.href = '/auth/linkedin';
     }
   };
