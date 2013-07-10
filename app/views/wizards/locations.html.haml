@@ -1,14 +1,15 @@
 .wizard_container
-  .location
-    %h3= @user.location
   .new_skills
     %h3 Pick locations you're interested in
+    %a{href: '/'}
+      %button Finished
     = form_tag search_locations_path, :class => "user_tags", :method => "get" do
-      = text_field_tag :search, params[:search], :placeholder => "Search for Locations", :class => "wizard-search", :style => "border:none; width: 20%;"
-  %ul.search_results
+      = text_field_tag :search, params[:search], :placeholder => "Search for Locations", :class => "wizard-search"
+    %ul.tag_results
   .skills
+    %h3 Current Locations
     %ul.skills-list
-    -@user_locs.each do |loc|
-      %li
-        %button=loc.name 
-        %a.delete{:id => loc.id, :href => '#'} X 
+      -@user_locs.each do |loc|
+        %li
+          %button=loc.name 
+          %a.delete{:id => loc.id, :href => '#'} X 

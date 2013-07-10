@@ -1,9 +1,11 @@
 .wizard_container
   .new_skills
     %h3 Add New Skills
+    %a{href: '/wizards/locations'}
+      %button Next
     = form_tag search_tags_path, :class => "user_tags", :method => "get" do
-      = text_field_tag :search, params[:search], :placeholder => "Search For Skills", :class => "wizard-search", :style => "border: none; width: 20%;"
-  %ul.search_results
+      = text_field_tag :search, params[:search], :placeholder => "Search", :class => "wizard-search"
+    %ul.tag_results
   .skills
     %h3 Current Skills
     %ul.skills-list

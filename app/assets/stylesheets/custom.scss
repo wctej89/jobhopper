@@ -152,12 +152,42 @@ p {
 
 .wizard_container {
   margin-top: 4%;
-  margin-left: 10%;
-  margin-right: 10%;
-  padding: 2%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 1%;
   background-image:url('https://abs.twimg.com/a/1372759208/t1/img/wash-white-30.png');
   border-radius: 8px;
   min-height:600px;
+  position: absolute;
+  width: 90%;
+}
+
+.tag-info{ 
+  float: left;
+  width: 100%;
+  border-radius: 7px;
+  padding: 1%;
+  background-image:url("https://abs.twimg.com/a/1372759208/t1/img/wash-white-30.png");
+  border-bottom: 5px;
+  margin-bottom: 10px;
+}
+
+.tag-name {
+  float: left;
+  width: 50%;
+}
+
+.tag-buttons {
+  float: right;
+  width: 50%;
+}
+
+
+.wizard-search {
+  width: 100%;
+  font-size:24px !important;
+  height:60px !important;
+  border-radius: 5px;
 }
 
 .wizard_container h1 {
@@ -182,15 +212,20 @@ ul.skills-list li{
   display: inline;
 }
 
+.tag_results {
+  list-style:none;
+}
+
 .new_skills {
   float:left;
-  width:48%;
+  width:45%;
   border-radius: 6px;
   padding-top: 1%;
   padding-left: 1%;
   padding-right: 1%;
   background-color: #333;
   padding-top:10px;
+  height: 50%;
 }
 
 .new_skills h3{

@@ -1,17 +1,16 @@
 $(document).ready(function(){
 
-  $(document).on('click', 'button.add_to_queue', function(e){
+  $('.tag_results').on('click', 'button.add_to_queue', function(e){
     e.preventDefault();
     var $target = e.target;
     e.preventDefault();
-    console.log($($target));
     $.ajax({
       method: 'post',
       url: '/user_tags/',
       data: {"id":$(this).attr('id')}
     }).success(function(response){
       $($target).closest('li').fadeOut();
-      $('.skills-list').append('<button>' + $($target).parent().parent().find('h1').text() +'</button>');
+      $('.skills-list').append('<button>' + $($target).parent().parent().find('.tag-name').text() +'</button>');
     });
   });
 
@@ -19,7 +18,7 @@ $(document).ready(function(){
       e.preventDefault();
     if(e.keyCode == 8)
       {
-        $('.search_results').html('');
+        $('.tag_results').html('');
       }
       else
       {
@@ -31,8 +30,8 @@ $(document).ready(function(){
         console.log(response);
         for(i=0;i<=response.length;i++)
         {
-          $('.search_results').append(
-            '<li><div class="job-info"><h1>' + response[i].name + '</h1><div class="buttons"><button id='+ response[i].id +' class="add_to_queue" href="/user_tags/">Add Location</button></div></li>'
+          $('.tag_results').append(
+            '<li><div class="tag-info"><div class="tag-name"><h3>' + response[i].name + '</h3></div><div class="tag-buttons"><button id='+ response[i].id +' class="add_to_queue" href="/user_tags/">Add Location</button></div></li>'
             );
         }
       });
