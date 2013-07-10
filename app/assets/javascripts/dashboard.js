@@ -1,13 +1,11 @@
 $(document).ready(function(){
 //commit
 
-  $(document).on('click', '#clickme', function(){
+  $(document).on('click', '.crazy', function(){
     if($(this).parent().css("right") == "-1000px"){
         $(this).parent().animate({right:'0px'}, {queue: false, duration: 500});
     }else {
         $(this).parent().animate({right:'-1000px'}, {queue: false, duration: 500});
-        
-
     }
   });
   

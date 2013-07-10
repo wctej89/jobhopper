@@ -6,7 +6,7 @@ body {
 #slideout {
   padding-top: 20px;
 	background: rgb(241, 141, 47);
-	position: absolute;
+	position: fixed;
 	width: 1000px;
 	height: 480px;
 	top: 45%;
@@ -16,12 +16,29 @@ body {
 	z-index: 5;
 }
     
-#clickme {
+.crazy {
     position: absolute;
-    top: 10; left: -20px;
-    height: 20px;
-    width: 20px;
-    z-index: 5;
+		margin-top: 80px;
+		width: 150px;
+		background-color: #e74c3c;
+		height: 50px;
+		border-radius: 5px;
+		text-align: center;
+		padding-top: 10px;
+		margin-left: -100px;
+		-webkit-transform: rotate(-90deg);
+		top: 30px;
+}
+
+#baz {
+    color: white;
+    font-size: 2em;
+    /*padding: auto;*/
+    font-family: 'Lato', sans-serif;
+}
+
+.crazy:hover {
+    background-color: rgb(168, 54, 43);
 }
 
 #slidecontent {
@@ -45,9 +62,9 @@ body {
 					</li>
 				<%end%>
 	    </div>
-	    <div id="clickme">
-	        <img src="http://www151.lunapic.com/editor/working/137332895218618?784046650">
-	    </div>
+	    <div class="crazy">
+    		<a id="baz">Queue</a>
+			</div>
 	</div>
 </body>
 </div>
