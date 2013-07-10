@@ -7,7 +7,6 @@ function getNewPage(){
       url: "/feed",
       data: "page=" + page_num
     }).done(function(response){
-      console.log(response.results);
       var jobs = prepareResponse(response);
       var filledTemplate = Mustache.render($("#results").html(),{jobs: jobs.results});
       $('.jobs').append(filledTemplate);
@@ -22,6 +21,8 @@ function getResults(page){
     method: 'get',
     url: '/feed?page=' + page
   }).done(function(jobs){
+    console.log('EHRMAHGERD!');
+    console.log(jobs);
     var response = prepareResponse(jobs);
     removeKangaroo();
     var list = Mustache.render($('#results').html(),{jobs:response.results});

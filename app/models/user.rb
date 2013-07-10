@@ -53,11 +53,12 @@ class User < ActiveRecord::Base
     self.tags.each {|tag| tag.jobs.each {|job| jobs_array << job }  }
     final_result = remove_queued_jobs(sort_by_radius(jobs_array.uniq, [self.lat, self.lng]))
     result = {}
-    result[:total] = final_result.count
+    final_result_count = final_result[:location_available].count + final_result[:location_unavailable].count
+    result[:total] = final_result_count
     start_index = (page-1)*10
-    result[:total_pages] = final_result.count/10
-    result[:results] = final_result.values[start_index...start_index+10]
-    result[:miles] = final_result.keys[start_index...start_index+10]
+    result[:total_pages] = final_result_count/10
+    result[:results] = final_result[:location_available].values << final_result[:location_unavailable].values
+    result[:miles] = final_result[:location_available].keys
     result
   end
 
