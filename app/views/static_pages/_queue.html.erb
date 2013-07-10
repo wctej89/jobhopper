@@ -7,29 +7,27 @@ body {
   padding-top: 20px;
 	background-image:url('/assets/navy_blue.png');
 	position: fixed;
-	width: 298px;
-	height: 600px;
-	top: 30%;
-	right: -285px;
+	width: 350px;
+	/*height: 480px;*/
+	top: 45%;
+	right: -340px;
 	padding-left: 0px;
 	margin-top: -200px;
 	z-index: 5;
 	border-radius: 5px;
 	opacity: 0.98;
-	overflow-y: scroll;
-	overflow-x: hidden;
 }
     
 .crazy {
-    position: fixed;
-		margin-top: 82px;
+    position: absolute;
+		margin-top: 80px;
 		width: 150px;
 		background-color: #e74c3c;
 		height: 50px;
 		border-radius: 5px;
 		text-align: center;
 		padding-top: 10px;
-		margin-left: 93%;
+		margin-left: -100px;
 		-webkit-transform: rotate(-90deg);
 		top: 30px;
 }
@@ -53,7 +51,7 @@ body {
 .queued-job {
 	border-bottom: 1px dotted white;
 	width: 310px;
-	min-height: 110px;
+	min-height: 100px;
 	margin-left: 20px;
 }
 /*.queued-job p{
@@ -77,23 +75,24 @@ body {
 
 </style>
 <body>
-	  <div class="crazy">
-    	<a id="baz">Queue</a>
-	  </div>
-		<div id="slideout">
-		    <div id="slidecontent">
-					<% user.jobs.each do |job| %>
-						<li class="queued-job" style="list-style: none;">
-							<div>
-								<h5 style="color: white; font-family: 'Lato', sans-serif;"><%= job.name %></h5>
-								<p style="color: white; font-family: 'Lato', sans-serif;"><%= job.company %></p>
-							</div>
-							<div class="buttons">
-								<button>Apply</button>
-							</div>
-						</li>
-					<%end%>
-		    </div>
-		</div>
+
+	<div id="slideout">
+	    <div id="slidecontent">
+				<% user.jobs.each do |job| %>
+					<li class="queued-job">
+						<div>
+							<h5 style="color: white; font-family: 'Lato', sans-serif;"><%= job.name %></h5>
+							<p style="color: white; font-family: 'Lato', sans-serif;"><%= job.company %></p>
+						</div>
+						<div class="buttons">
+							<button>Apply</button>
+						</div>
+					</li>
+				<%end%>
+	    </div>
+	    <div class="crazy">
+    		<a id="baz">Queue</a>
+			</div>
+	</div>
 </body>
 </div>

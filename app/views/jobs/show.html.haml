@@ -8,8 +8,19 @@
       -else
         %a{href: "/add_to_queue/#{@job.id}"}
           %button{:class => 'show_add_to_queue', :id => @job.id} Add To Queue 
+
   .job-description
     %h4.company_name= @job.company
     %p.description= @job.description
   %p Apply here:
   %a{:href => @job.source_url, :target => :_blank }=@job.source_url
+
+.wrapper-dropdown-1{:id => "dd", :tabindex => "1"}
+  %span Status
+  %ul.dropdown{:tabindex => "1"}
+    %li
+      %a{:href => "#"} Pending
+    %li
+      %a{:href => "#"} Applied
+    %li
+      %a{:href => "#"} Reply
