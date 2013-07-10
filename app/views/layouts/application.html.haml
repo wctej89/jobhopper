@@ -12,7 +12,9 @@
   %body
     #wrapper
       =render 'shared/header'
-      .container  
+      .container
+        .notifications
+          =render :partial => 'notifications/dropdown', locals: {user: current_user }
         =render :partial => 'static_pages/queue', locals: {user: current_user}
         =render 'shared/alerts'
         = yield

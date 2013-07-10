@@ -360,14 +360,36 @@ ul.skills-list li{
 
 /* notifications */
 
-.notifications_container{
-  margin-top: 4%;
-  margin-left: 20%;
-  margin-right: 20%;
-  padding: 2%;
-  background-image:url('https://abs.twimg.com/a/1372759208/t1/img/wash-white-30.png');
-  border-radius: 8px;
+.notifications {
+    display:none;
+    float: right;
+    margin-top: 3%;
+    margin-right: 9%;
+    background-image: url('/assets/navy_blue.png');
+    list-style: none;
+    width: 17%;
+    padding-left: 1%;
+    padding-top: 1%;
+    border-radius: 6px;
+    position:absolute;
+    left: 74%;
+    overflow-y: visible;
+}
+
+.notification_list{
+  list-style: none;
+  float:left;
+}
+
+li.notification {
   float: left;
-  width: 60%
+  background-color: #E6E6E6;
+  height: 50px;
+  width: 102%;
+  padding-top: 7%;
+  padding-left: 10px;
+  border-bottom: 1px solid #ccc;
+  border-radius: 6px;
+  margin-bottom: 5px;
 }
 
