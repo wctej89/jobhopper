@@ -7,20 +7,22 @@
         %button{:class => 'remove_from_queue', :id => @job.id} Remove
       -else
         %a{href: "/add_to_queue/#{@job.id}"}
-          %button{:class => 'show_add_to_queue', :id => @job.id} Add To Queue 
+          / %button{:class => 'show_add_to_queue', :id => @job.id} Add To Queue 
+  .wrapper-dropdown-1{:id => "dd", :tabindex => "1", style: "margin-left: 0;"}
+    %span Status
+    %ul.dropdown{:tabindex => "1", style: "background-color: #95a5a6; color: white;"}
+      %li{style: "list-style: none;"}
+        %a{:href => "#", style: "color: white;"} Pending
+      %li{style: "list-style: none;"}
+        %a{:href => "#", style: "color: white;"} Applied
+      %li{style: "list-style: none;"}
+        %a{:href => "#", style: "color: white;"} Reply      
 
   .job-description
     %h4.company_name= @job.company
     %p.description= @job.description
+  %br
   %p Apply here:
   %a{:href => @job.source_url, :target => :_blank }=@job.source_url
 
-.wrapper-dropdown-1{:id => "dd", :tabindex => "1"}
-  %span Status
-  %ul.dropdown{:tabindex => "1"}
-    %li
-      %a{:href => "#"} Pending
-    %li
-      %a{:href => "#"} Applied
-    %li
-      %a{:href => "#"} Reply
+
