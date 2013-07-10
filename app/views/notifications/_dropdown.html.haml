@@ -1,5 +1,5 @@
 %ul.notification_list
   -current_user.notifications.each do |n|
-    %li.notification
+    %li.notification{:id => n.id}
       %a{:href => "/jobs/#{n.job_id}"}
         = n.subject

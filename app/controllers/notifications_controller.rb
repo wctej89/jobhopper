@@ -8,4 +8,9 @@ class NotificationsController < ApplicationController
     end
   end
 
+  def destroy
+    notification = Notification.find(params[:id])
+    Notification.destroy(notification)
+    render :json => current_user.notifications.count
+  end
 end
