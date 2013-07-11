@@ -2,13 +2,8 @@ class CraigslistWorker
   include Sidekiq::Worker
   sidekiq_options retry: false
 
-  def perform(user_id)
-    # current_user = User.find(user_id)
-    # tags = current_user.skills
-    # location = current_user.location
-    # zip = check_tags(location)
-    # url = get_craigslist_url(zip)
-    Tag.all.each {|tag| scrape('http://sfbay.craigslist.org/search/jjj?zoomToPosting?&query=' << tag.name.parameterize('+') << '&srchType=A') }
+  def perform
+    Tag.all[0..5].each {|tag| scrape('http://sfbay.craigslist.org/search/jjj?zoomToPosting?&query=' << tag.name.parameterize('+') << '&srchType=A') }
   end
 
   # def check_tags(location)

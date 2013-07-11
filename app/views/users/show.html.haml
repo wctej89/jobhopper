@@ -3,8 +3,7 @@
 .user_container
   %h1{style: "font-family: 'Lato', sans-serif;"} Dashboard
   %p= @user.bio
-  %h3{style: "font-family: 'Lato', sans-serif;"} Add Skills
-  
+  %h3{style: "font-family: 'Lato', sans-serif;"} Add Skills or Locations
   =render :partial => 'wizards/search', :locals => {:skills => @user.tags, header_1: "Search Skills and Locations", header_2: "Current Skills and Locations", back: '/', feed: 'Back to Feed'  }
 
   .float_clear{style: "clear: both;"}
