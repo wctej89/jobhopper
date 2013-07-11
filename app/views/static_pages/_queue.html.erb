@@ -58,6 +58,7 @@ body {
 	width: 310px;
 	min-height: 100px;
 	margin-left: 20px;
+	float: left;
 }
 /*.queued-job p{
 	border: 1px dotted white;
@@ -86,13 +87,13 @@ body {
 	<div id="slideout">
 	    <div id="slidecontent">
 				<% user.jobs.each do |job| %>
-					<li class="queued-job">
+					<li class="queued-job" style="list-style: none;">
 						<div>
 							<h5 style="color: white; font-family: 'Lato', sans-serif;"><a href="/jobs/<%=job.id%>"><%= job.name %></a></h5>
 							<p style="color: white; font-family: 'Lato', sans-serif;"><%= job.company %></p>
 						</div>
 						<div class="buttons">
-							<button>Apply</button>
+							<p style="color: white;">Status: <%=JobList.find_by_job_id_and_list_id(job.id, current_user.list.id).status%></p>
 						</div>
 					</li>
 				<%end%>
