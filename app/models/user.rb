@@ -49,9 +49,7 @@ class User < ActiveRecord::Base
 
   def feed(location_array, page)
     # TODO begin rescue here
-    jobs_array = []
-    self.tags.each {|tag| tag.jobs.each {|job| jobs_array << job }  }
-    final_result = remove_queued_jobs(sort_by_radius(jobs_array.uniq, [self.lat, self.lng]))
+    final_result = remove_queued_jobs(sort_by_radius(Job.includes(:city).joins(:tags => :users).where("users.id =?", self.id).uniq, [self.lat, self.lng]))
     result = {}
     final_result_count = final_result[:location_available].count + final_result[:location_unavailable].count
     result[:total] = final_result_count
