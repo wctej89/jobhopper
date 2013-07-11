@@ -50,13 +50,14 @@ class User < ActiveRecord::Base
   def feed(location_array, page)
     # TODO begin rescue here
     final_result = remove_queued_jobs(sort_by_radius(Job.includes(:city).joins(:tags => :users).where("users.id =?", self.id).uniq, [self.lat, self.lng]))
+    complete_values = remove_queued_jobs(final_result[:location_available].values + final_result[:location_unavailable].values)
     sleep(1)
     result = {}
     final_result_count = final_result[:location_available].count + final_result[:location_unavailable].count
     result[:total] = final_result_count
     start_index = (page-1)*10
     result[:total_pages] = final_result_count/10
-    result[:results] = remove_queued_jobs((final_result[:location_available].values + final_result[:location_unavailable].values)[start_index...start_index+10])
+    result[:results] = complete_values[start_index...start_index+10]
     result[:miles] = final_result[:location_available].keys
     result
   end

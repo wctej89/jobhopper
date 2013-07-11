@@ -37,4 +37,15 @@ $(document).ready(function(){
       });
     }
   }, 300));
+
+  // $('.next').on('click', function(e){
+  //   e.preventDefault();
+  //   $.ajax({
+  //     method: 'get',
+  //     url: '/wizards/locations'
+  //   }).success(function(response){
+  //     console.log(response);
+  //     $('html').html(response);
+  //   });
+  // });
 });

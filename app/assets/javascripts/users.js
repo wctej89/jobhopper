@@ -33,7 +33,7 @@ function getResults(page){
     }
     else
     {
-      $('.jobs_header').html('<h1>No Results Available: <a href="/wizards/skills">Add more Skills</a></h1>');
+      $('.feed').append('<h1 style="color: white;">No Results Available: <a href="/wizards/skills">Add more Skills</a></h1>');
     }
   });
 }
