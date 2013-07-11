@@ -11,7 +11,7 @@ $(document).ready(function(){
       data: {"id":$(this).attr('id')}
     }).success(function(response){
       $($target).closest('li').fadeOut();
-      $('.skills-list').append('<button>' + $($target).parent().parent().find('h1').text() +'</button>');
+      $('.skills-list').append('<button>' + $($target).parent().parent().find('h3').text() +'</button>');
     });
   });
 
@@ -37,4 +37,15 @@ $(document).ready(function(){
       });
     }
   }, 300));
+
+  // $('.next').on('click', function(e){
+  //   e.preventDefault();
+  //   $.ajax({
+  //     method: 'get',
+  //     url: '/wizards/locations'
+  //   }).success(function(response){
+  //     console.log(response);
+  //     $('html').html(response);
+  //   });
+  // });
 });

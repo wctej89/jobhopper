@@ -4,7 +4,6 @@ class WizardsController < ApplicationController
   def skills
     @skills = current_user.skills
     # @tags = Tag.all.select { |tag| !tag.is_location? }
-    @tags = Tag.limit(10)
   end
 
   def locations

@@ -6,11 +6,11 @@
   %a{href: "#{back}"}
     %button{:class => "next large expand"}
       = feed
-  %ul.tag_results
+    %ul.tag_results
 .skills
   %h3=header_2
   %ul.skills-list
     -skills.each do |skill|
       %li
-        %button=skill.name 
         %a.delete{:id => skill.id, :href => '#'} 
+          %button=skill.name 

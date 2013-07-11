@@ -312,6 +312,7 @@ ul.skills-list li{
   padding: 2%;
   background-image:url('https://abs.twimg.com/a/1372759208/t1/img/wash-white-30.png');
   border-radius: 8px;
+  position: absolute;
 }
 
 .job-info {
@@ -371,7 +372,7 @@ ul.skills-list li{
     margin-right: 9%;
     background-image: url('/assets/navy_blue.png');
     list-style: none;
-    width: 17%;
+    width: 20%;
     padding-left: 1%;
     padding-top: 1%;
     border-radius: 6px;
@@ -389,12 +390,13 @@ li.notification {
   float: left;
   background-color: #E6E6E6;
   height: 50px;
-  width: 102%;
+  width: 100%;
   padding-top: 7%;
   padding-left: 10px;
   border-bottom: 1px solid #ccc;
   border-radius: 6px;
   margin-bottom: 5px;
+  min-height:100px;
 }
 
 .wrapper-dropdown-1 {

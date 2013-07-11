@@ -3,7 +3,7 @@ require 'debugger'
 
 module Craigslist
 
-  def scrape(urlTag)
+  def scrape(url)
     agent = Mechanize.new
     index_page = agent.get(url)
     rows = agent.page.parser.css('.row')
@@ -25,7 +25,7 @@ module Craigslist
       email = job_page.links[6].node.children.text
       title = agent.page.parser.css('h2').text.strip
       description = agent.page.parser.css('#postingbody').text
-      Job.create(:source_url => url, :email => email, :description => description, :name => name)
+      Job.create(:source_url => url, :email => email, :description => description, :name => title, :lat => 37.7750, :lng => -122.4183)
     end
     scrape(next_link) if next_link
   end

@@ -21,14 +21,20 @@ function getResults(page){
     method: 'get',
     url: '/feed?page=' + page
   }).done(function(jobs){
-    console.log('EHRMAHGERD!');
-    console.log(jobs);
     var response = prepareResponse(jobs);
     removeKangaroo();
-    var list = Mustache.render($('#results').html(),{jobs:response.results});
-    $('.jobs').append(list);
-    $('.desc').each(function(){$(this).text($(this).text().split(' ').slice(0,20).join(' ').concat('...'))});
-    $('.more_info').each(function(){bindFirstLinkClick($(this))});
+    console.log(jobs);
+    if(jobs['results'].length > 0)
+    {
+      var list = Mustache.render($('#results').html(),{jobs:response.results});
+      $('.jobs').append(list);
+      $('.desc').each(function(){$(this).text($(this).text().split(' ').slice(0,20).join(' ').concat('...'))});
+      $('.more_info').each(function(){bindFirstLinkClick($(this))});
+    }
+    else
+    {
+      $('.feed').append('<h1 style="color: white;">No Results Available: <a href="/wizards/skills">Add more Skills</a></h1>');
+    }
   });
 }
 
