@@ -1,3 +1,5 @@
+=javascript_include_tag "wizards"
+=javascript_include_tag "locations"
 .wizard_container
   .new_skills
     %h3 Pick locations you're interested in
@@ -11,4 +13,4 @@
     %ul.skills-list
       -@user_locs.each do |loc|
         %li
-          %button=loc.name 
+          %button=loc.name

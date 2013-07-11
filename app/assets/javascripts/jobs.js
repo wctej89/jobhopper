@@ -1,55 +1,26 @@
 $(document).ready(function(){
+  $("#queue_buttons").hover(function() { $(this).css("color", "#c0392b"); }, function(){$(this).css("color","rgb(90, 90, 90)")});
 
-  $('.job_show').on('click', '.show_add_to_queue', function(e){
-    e.preventDefault();
-    $target = $(this);
-    $.ajax({
-      method: 'post',
-      url: $(this).parent().attr('href')
-    }).success(function(response){
-      console.log(response);
-      $($target).removeClass('show_add_to_queue');
-      $($target).addClass('remove_from_queue');
-      $($target).text('Remove');
+    $('#queue_buttons').on("click",function(){
+       var $statusButton = $(this);
+       console.log($statusButton);
+      if($(this).attr("class") == "icon-ban-circle") {
+        $.ajax({
+          type: 'delete',
+          url: '/remove_from_queue/' + $(".remove_from_queue").attr('id')
+        }).success(function(response){
+          $statusButton.attr("class", "icon-plus");
+          $('#dd').css("display", "block");
+        });
+      } else {
+        $.ajax({
+          method: 'post',
+          url: '/add_to_queue/' + $(".remove_from_queue").attr('id')
+        }).success(function(response){
+          $statusButton.attr("class", "icon-ban-circle");
+          $('#dd').css("display", "none");
+
+        });
+      }
     });
   });
-
-  $('.job_show').on('click', 'button.remove_from_queue', function(e){
-    e.preventDefault();
-    $removeButton = $(this);
-    $.ajax({
-      method: 'post',
-      url: '/remove_from_queue/' + $(this).attr('id')
-    }).success(function(response){
-      $($removeButton).removeClass('remove_from_queue');
-      $($removeButton).addClass('show_add_to_queue');
-      $($removeButton).text('Add To Queue');
-    });
-  });
-
-  // $('button.remove_from_queue').on('click', function(){
-  //   $removeButton = $(this);
-  //   $.ajax({
-  //     method: 'post',
-  //     url: '/remove_from_queue/' + $(this).attr('id')
-  //   }).success(function(response){
-  //     $($removeButton).removeClass('.remove_from_queue');
-  //     $($removeButton).addClass('.show_add_to_queue');
-  //     $($removeButton).text('Add To Queue');
-  //   });
-  // });
-
-  // $('button.show_add_to_queue').on('click', function(e){
-  //   e.preventDefault();
-  //   $target = $(this);
-  //   $.ajax({
-  //     method: 'post',
-  //     url: $(this).parent().attr('href')
-  //   }).success(function(response){
-  //     console.log(response);
-  //     $($target).removeClass('.show_add_to_queue');
-  //     $($target).addClass('.remove_from_queue');
-  //     $($target).text('Remove');
-  //   });
-  // });
-});

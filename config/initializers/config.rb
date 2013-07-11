@@ -13,5 +13,7 @@ LINKEDIN_CONFIGURATION = { :site => 'https://api.linkedin.com',
 Geokit::default_units = :miles
 Geokit::default_formula = :sphere
 
-# LINKEDIN ACCESS KEYS
-["3c3257fd-a3a9-4224-979d-6c65d173e346", "9f9ebc18-4e5b-4744-8f76-83eed0e55f00"]
+# config.action_mailer.delivery_method = :sendmail
+# config.action_mailer.perform_deliveries = true
+# config.action_mailer.raise_delivery_errors = true
+# config.action_mailer.default_options = {from: 'admin@jobhopper.co'}

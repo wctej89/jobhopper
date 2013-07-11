@@ -1,4 +1,4 @@
- class Tag < ActiveRecord::Base
+class Tag < ActiveRecord::Base
   include Tire::Model::Search
   include Tire::Model::Callbacks
   attr_accessible :name, :tag_type
@@ -10,17 +10,32 @@
   validates :name, :uniqueness => true
   validates :name, presence: true
 
-  def self.search(params)
-    tire.search(load: true) do
+
+mapping do
+  indexes :tag_type, type: 'string'
+end
+
+  def self.search_all(params)
+    results = tire.search(load: true) do
       query { string params["search"], default_operator: "AND" } if params["search"].present?
     end
+    results
   end
 
-  def self.search_location
-    tire.search(load: true) do 
-      # TODO filter by location tag
-      query { string 'tag_type:LocationTag' } if params["search"].present
+  def self.search(params)
+   results = tire.search(load: true) do
+      query { string params["search"], default_operator: "AND" } if params["search"].present?
     end
+    results.to_a.each { |result| results.delete(result) if result.tag_type == 'LocationTag' }
+    results
+  end
+
+  def self.search_location(params)
+    results = tire.search(load: true) do 
+      query { string params["search"], default_operator: "AND" } if params["search"].present?
+    end
+    results.to_a.each { |result| results.delete(result) if result.tag_type != 'LocationTag' }
+    results
   end
 
   def self.location_create(location_string)

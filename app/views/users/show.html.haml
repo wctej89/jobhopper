@@ -1,23 +1,10 @@
+=javascript_include_tag "wizards"
+=javascript_include_tag "users_show"
 .user_container
   %h1{style: "font-family: 'Lato', sans-serif;"} Dashboard
   %p= @user.bio
   %h3{style: "font-family: 'Lato', sans-serif;"} Add Skills
-
-  / .skills
-  /   %h4{style: "color: white; font-family: 'Lato', sans-serif;"} Skills
-  /   -@skills.each do |skill|
-  /     -if skill.tag_type == "SkillTag"
-  /       %button.remove_tag{:id => skill.id}
-  /         %span= skill.name
-  /       %a.delete{:id => skill.id, :href => '#'}
-  /   %h4{style: "color: white; font-family: 'Lato', sans-serif;"} Locations
-  /   -@skills.each do |skill|      
-  /     -if skill.tag_type == "LocationTag"
-  /       %button.remove_tag{:id => skill.id}= skill.name 
-  /       %a.delete{:id => skill.id, :href => '#'}
-
-
-  / .new_skills
+  
   =render :partial => 'wizards/search', :locals => {:skills => @user.tags, header_1: "Search Skills and Locations", header_2: "Current Skills and Locations", back: '/', feed: 'Back to Feed'  }
 
   .float_clear{style: "clear: both;"}
