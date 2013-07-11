@@ -2,5 +2,8 @@
 
 FactoryGirl.define do
   factory :city do
+    name "new york, ny"
+    latitude "40.7143528"
+    longitude "-74.0059731"
   end
 end

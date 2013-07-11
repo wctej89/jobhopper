@@ -8,8 +8,6 @@ describe User do
 
   it { should respond_to(:name)}
   it { should respond_to(:email)}
-  it { should respond_to(:password)}
-  it { should respond_to(:password_confirmation)}
 
   describe "accessible attributes" do
 
@@ -34,13 +32,6 @@ describe User do
       end
     end
 
-    describe "when password isn't present" do 
-      it "should not be a valid user" do
-        user = build(:user, :password => "")
-        expect(user).to_not be_valid
-      end
-    end
-
     describe "when email address is already taken" do
       before do 
         user_with_same_email = user.dup
@@ -57,17 +48,6 @@ describe User do
         user.email = mixed_case_email
         user.save
         user.reload.email.should == mixed_case_email.downcase
-      end
-    end
-
-    describe "password encryption" do 
-      let(:unencrypted_password) { 'bamboozle' }
-
-      it "should encrypt the password before saving" do
-        user.password = unencrypted_password
-        user.password_confirmation = unencrypted_password
-        user.save
-        user.reload.password != unencrypted_password
       end
     end
 
@@ -91,6 +71,29 @@ describe User do
         linkedin_user = User.from_omniauth(@auth_hash)
         linkedin_user.tags
       end
+    end
+  end
+
+  describe "skills" do
+    let(:tag) { build(:tag) }
+    before do
+      user.tags << tag
+    end
+
+    it "should pass back an array of skills" do
+      user.skills.should == [tag]
+    end
+  end
+
+  describe "locations" do
+    let(:tag) { build(:tag, :tag_type => 'LocationTag') }
+
+    before do 
+      user.tags << tag
+    end
+
+    it "should pass back an array of locations" do
+      user.locations.should == [tag]
     end
   end
 end

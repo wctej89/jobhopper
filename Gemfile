@@ -20,6 +20,7 @@ gem 'geokit'
 gem 'tire'  
 gem 'sidekiq'
 gem 'mechanize'
+gem 'heroku'
 #############################
 # Environment-specific gems #
 #############################
@@ -57,4 +58,5 @@ group :test, :development do
   gem 'rspec_api_documentation'                   # API doc generation
   gem 'factory_girl_rails'                      # Factories for creating test objects
   gem 'faker'
+  gem 'simplecov', :require => false
 end

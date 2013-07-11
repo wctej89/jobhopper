@@ -2,5 +2,8 @@
 
 FactoryGirl.define do
   factory :notification do
+    subject "foo"
+    job
+    user
   end
 end
