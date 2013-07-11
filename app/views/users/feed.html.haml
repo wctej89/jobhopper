@@ -2,8 +2,6 @@
 .feed_container
   .feed
     %ul.jobs
-      .jobs_header 
-        %h3 Jobs
   %script{:id => "results", :type => "template"}
     {{#jobs}}
     %li{:id => "{{id}}", :class => 'feed-job'}
