@@ -1,5 +1,4 @@
 $(document).ready(function(){
-//commit
 
   $(document).on('click', '.crazy', function(){
     if($("#slideout").css("right") == "-285px"){

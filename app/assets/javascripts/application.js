@@ -12,9 +12,12 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require jquery.timeago
 //= require foundation
-//= require_tree .
+//= require notifications
+//= require dashboard
 //= require mustache
+//= require shared
 //= require underscore  
 //= require chosen.jquery.js
 
@@ -26,9 +29,5 @@
 /*global define: false*/
 
 $(function(){ $(document).foundation(); });
-
-$(function(){
-  $('.chzn-select').chosen();
-});
 
 $("abbr.timeago").timeago();
