@@ -13,15 +13,15 @@
       -if current_user
         %li.divider
         %li.has-flyout
-          %a{:href => '#' }
+          %a{:href => '#', style: "font-family: 'Lato', sans-serif;" }
             Notifications
             %span.notification_count 0
         %li.divider
         %li
-          %a{href: user_path(current_user)} Me
+          %a{href: user_path(current_user), style: "font-family: 'Lato', sans-serif;"} Me
         %li.divider  
         %li 
-          %a{href: signout_path} Sign Out 
+          %a{href: signout_path, style: "font-family: 'Lato', sans-serif;"} Sign Out 
       -else
         %li
           %a{href: '/auth/linkedin'} Sign In

@@ -110,7 +110,7 @@ $(document).ready(function(){
       url: $($target).attr('href')
     }).success(function(response){
       $($target).closest('li').fadeOut();
-      $('#slidecontent').append("<li class='queued-job' style='list-style: none;'><div><h5><a href='/jobs/" + job_id + "'>" + job_title + "</a></h5><p style='color: white;'>" + company_name + "</p></div><div class='buttons'><p style='color: white;'>Status: pending</p></div></li>");
+      $('#slidecontent').append("<li class='queued-job' style='list-style: none;'><div><h5><a href='/jobs/" + job_id + "'>" + job_title + "</a></h5><p style='color: white;'>" + company_name + "</p></div><div class='buttons'><p style='color: white; margin-top: 5px;'>Status: pending</p></div></li>");
       setTimeout(function() {
         $( ".crazy" ).effect( "pulsate", {times: 1},1200);
       }, 1000);

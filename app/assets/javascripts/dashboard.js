@@ -78,12 +78,15 @@ $(document).ready(function(){
  $(".status-change-menu").on('click', '.status-change', function(e){
     e.preventDefault();
     var $job = $(this).parent();
+    var message = $(this).text().trim().toLowerCase();
+    var job_id = $(".remove_from_queue").attr('id');
     $.ajax({
       type: 'put',
       url: '/jobs/'+ $job.attr('id'),
       data: {status:$(this).text().trim()}
     }).success(function(response){
-      $('.applied').append($job)
+      $('.applied').append($job);
+      $('#slidecontent').find("#"+job_id).children().last().html("<p style='color: white; margin-top: 5px;'>Status: " + message + "</p>")
     });
   });
 });
