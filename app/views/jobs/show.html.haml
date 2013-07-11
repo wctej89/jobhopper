@@ -1,24 +1,57 @@
-.job_show
-  .title
-    %h1.job_title= @job.name
-    .add_button
-      %a{href: "/add_to_queue/#{@job.id}"}
-      -if current_user.jobs.include?(@job)
-        %button{:class => 'remove_from_queue', :id => @job.id} Remove
-      -else
-        %a{href: "/add_to_queue/#{@job.id}"}
-          / %button{:class => 'show_add_to_queue', :id => @job.id} Add To Queue 
-  .wrapper-dropdown-1{:id => "dd", :tabindex => "1", style: "margin-left: 0;"}
-    %span Status
-    %ul.dropdown{:tabindex => "1", style: "background-color: #95a5a6; color: white;"}
-      %li{style: "list-style: none;"}
-        %a{:href => "#", style: "color: white;"} Pending
-      %li{style: "list-style: none;"}
-        %a{:href => "#", style: "color: white;"} Applied
-      %li{style: "list-style: none;"}
-        %a{:href => "#", style: "color: white;"} Reply      
+:javascript
+  $(document).ready(function() {
+    $("#queue_buttons").hover(function() { $(this).css("color", "#c0392b"); }, function(){$(this).css("color","rgb(90, 90, 90)")})
 
+    $('#queue_buttons').on("click",function(){
+       var $statusButton = $(this) 
+       console.log($statusButton)
+      if($(this).attr("class") == "icon-ban-circle") {
+        $.ajax({
+          type: 'delete',
+          url: '/remove_from_queue/' + $(".remove_from_queue").attr('id')
+        }).success(function(response){
+          $statusButton.attr("class", "icon-plus")
+          $('#dd').css("display", "block")
+        });
+      } else {
+        $.ajax({
+          method: 'post',
+          url: '/add_to_queue/' + $(".remove_from_queue").attr('id')
+        }).success(function(response){
+          $statusButton.attr("class", "icon-ban-circle")
+          $('#dd').css("display", "none")
+
+        });
+      }
+    });
+  })
+        
+:css
+  #queue_buttons:hover {
+    cursor: pointer;
+  }
+
+.job_show
+
+  .title
+    %h1.job_title{style: "display: inline"}= @job.name
+    -if current_user.jobs.include?(@job)
+      %i.icon-ban-circle{id: "queue_buttons", style: "margin-left: 20px; font-size: 37px; color: rgb(90, 90, 90);"}
+    -else
+      %i.icon-plus{id: "queue_buttons", style: "margin-left: 20px; font-size: 37px; color: rgb(90, 90, 90);"}
+
+  -if current_user.jobs.include?(@job) 
+    .wrapper-dropdown-1{:id => "dd", :tabindex => "1", style: "margin-left: -2px; margin-top: 25px; display: block;"}
+      %span Status: 
+      %ul.dropdown.status-change-menu{:tabindex => "1", style: "background-color: #95a5a6; color: white;", id: @job.id}
+        %li.status-change{style: "list-style: none;"}
+          %a{:href => "#", style: "color: white;"} Pending
+        %li.status-change{style: "list-style: none;"}
+          %a{:href => "#", style: "color: white;"} Applied
+        %li.status-change{style: "list-style: none;"}
+          %a{:href => "#", style: "color: white;"} Reply      
   .job-description
+    %button{:class => 'remove_from_queue', :id => @job.id, style: "visibility: hidden; position: absolute;"}
     %h4.company_name= @job.company
     %p.description= @job.description
   %br
@@ -26,3 +59,6 @@
   %a{:href => @job.source_url, :target => :_blank }=@job.source_url
 
 
+%div{:id => "queue_stuff", :style => "display:none"}
+  %i.icon-plus{id: "queue_buttons", style: "margin-left: 20px; font-size: 37px; color: rgb(90, 90, 90);"}
+  %i.icon-ban-circle{id: "queue_buttons", style: "margin-left: 20px; font-size: 37px; color: rgb(90, 90, 90);"}

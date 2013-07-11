@@ -2,12 +2,12 @@ $(document).ready(function(){
 //commit
 
   $(document).on('click', '.crazy', function(){
-    if($("#slideout").css("right") == "-340px"){
-        $(this).animate({right:'286px'}, {queue: false, duration: 500});
+    if($("#slideout").css("right") == "-285px"){
         $("#slideout").animate({right:'0px'}, {queue: false, duration: 500});
+        $(this).animate({right:'245px'}, {queue: false, duration: 500});
     }else {
-        $(this).animate({right:'298px'}, {queue: false, duration: 500});
-        $("#slideout").animate({right:'-340px'}, {queue: false, duration: 500});
+        $(this).animate({right:'-37px'}, {queue: false, duration: 500});
+        $("#slideout").animate({right:'-285px'}, {queue: false, duration: 500});
     }
   });
 
@@ -76,11 +76,13 @@ $(document).ready(function(){
     });
   });
 
- $(document).on('click', '.apply', function(e){
+ $(".status-change-menu").on('click', '.status-change', function(e){
+    e.preventDefault();
     var $job = $(this).parent();
     $.ajax({
       type: 'put',
-      url: '/jobs/'+ $job.attr('id')
+      url: '/jobs/'+ $job.attr('id'),
+      data: {status:$(this).text().trim()}
     }).success(function(response){
       $('.applied').append($job)
     });

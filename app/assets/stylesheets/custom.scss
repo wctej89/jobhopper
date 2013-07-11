@@ -357,8 +357,8 @@ ul.skills-list li{
 
 .company_name {
   font-weight: 200;
-  margin-top: -3%;
-  margin-left: 2px;
+  margin-top: -5%;
+  margin-left: -2px;
 }
 
 /* notifications */
@@ -461,5 +461,9 @@ li.notification {
 .wrapper-dropdown-1.active {
   background: #34495e;
   background: linear-gradient(to right, #34495e 0%, #34495e 78%, #ffffff 78%, #ffffff 100%);
+}
+
+.icon-ban-circle:hover {
+  color: red;
 }
 
