@@ -94,6 +94,8 @@ $(document).ready(function(){
   $('.jobs').append('<img class="kangaroo" src="/assets/kangourous-11.gif" style="margin-left: 157px;">');
   getResults(page_num);
   $('.feed_container').on('click', 'button.add_to_queue', function(e){
+    debugger
+    var job_id = $(this).parent().parent().attr('id')
     var job_title = $(this).parent().parent().children().last().find('h1').text().trim()
     var company_name = $(this).parent().parent().children().last().find('h3').text().trim()
     var $target = e.target;
@@ -103,7 +105,8 @@ $(document).ready(function(){
       url: $($target).attr('href')
     }).success(function(response){
       $($target).closest('li').fadeOut();
-      $('#slidecontent').append("<li class='queued-job' style='list-style: none;'><div><h5 style='color: white; font-family: 'Lato', sans-serif;'>" + job_title + "</h5><p style='color: white; font-family: 'Lato', sans-serif;'>" + company_name + "</p></div><div class='buttons'><button>Apply</button></div></li>");
+      $('#slidecontent').append("<li class='queued-job' style='list-style: none;'><div><h5 style='color: white; font-family: 'Lato', sans-serif;'><a href='/jobs/" + job_id + "''>" + job_title + "</a></h5><p style='color: white; font-family: 'Lato', sans-serif;'>" + company_name + "</p></div><div class='buttons'><button>Apply</button></div></li>");
+      $( ".crazy" ).effect( "pulsate", {times: 1},1200);
    });
   });
   

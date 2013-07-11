@@ -10,7 +10,7 @@ $(document).ready(function(){
           url: '/remove_from_queue/' + $(".remove_from_queue").attr('id')
         }).success(function(response){
           $statusButton.attr("class", "icon-plus");
-          $('#dd').css("display", "block");
+          $('#dd').css("display", "none");
         });
       } else {
         $.ajax({
@@ -18,8 +18,8 @@ $(document).ready(function(){
           url: '/add_to_queue/' + $(".remove_from_queue").attr('id')
         }).success(function(response){
           $statusButton.attr("class", "icon-ban-circle");
-          $('#dd').css("display", "none");
-
+          $('#dd').css("display", "block");
+          $( ".crazy" ).effect( "pulsate", {times: 1},1200);
         });
       }
     });

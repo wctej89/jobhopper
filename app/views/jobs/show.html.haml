@@ -15,6 +15,16 @@
 
   -if current_user.jobs.include?(@job) 
     .wrapper-dropdown-1{:id => "dd", :tabindex => "1", style: "margin-left: -2px; margin-top: 25px; display: block;"}
+      %span= "Status: #{JobList.find_by_job_id_and_list_id(@job.id, current_user.list.id).status}"
+      %ul.dropdown.status-change-menu{:tabindex => "1", style: "background-color: #95a5a6; color: white;", id: @job.id}
+        %li.status-change{style: "list-style: none;"}
+          %a{:href => "#", style: "color: white;"} Pending
+        %li.status-change{style: "list-style: none;"}
+          %a{:href => "#", style: "color: white;"} Applied
+        %li.status-change{style: "list-style: none;"}
+          %a{:href => "#", style: "color: white;"} Reply
+  -else
+    .wrapper-dropdown-1{:id => "dd", :tabindex => "1", style: "margin-left: -2px; margin-top: 25px; display: none;"}
       %span Status: 
       %ul.dropdown.status-change-menu{:tabindex => "1", style: "background-color: #95a5a6; color: white;", id: @job.id}
         %li.status-change{style: "list-style: none;"}
@@ -22,7 +32,7 @@
         %li.status-change{style: "list-style: none;"}
           %a{:href => "#", style: "color: white;"} Applied
         %li.status-change{style: "list-style: none;"}
-          %a{:href => "#", style: "color: white;"} Reply      
+          %a{:href => "#", style: "color: white;"} Reply  
   .job-description
     %button{:class => 'remove_from_queue', :id => @job.id, style: "visibility: hidden; position: absolute;"}
     %h4.company_name= @job.company

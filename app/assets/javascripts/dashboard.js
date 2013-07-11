@@ -5,7 +5,7 @@ $(document).ready(function(){
         $("#slideout").animate({right:'0px'}, {queue: false, duration: 500});
         $(this).animate({right:'245px'}, {queue: false, duration: 500});
     }else {
-        $(this).animate({right:'-37px'}, {queue: false, duration: 500});
+        $(this).animate({right:'243px'}, {queue: false, duration: 500});
         $("#slideout").animate({right:'-285px'}, {queue: false, duration: 500});
     }
   });
