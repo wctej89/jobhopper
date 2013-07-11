@@ -56,19 +56,19 @@ class User < ActiveRecord::Base
     result[:total] = final_result_count
     start_index = (page-1)*10
     result[:total_pages] = final_result_count/10
-    result[:results] = (final_result[:location_available].values + final_result[:location_unavailable].values)[start_index...start_index+10]
+    result[:results] = remove_queued_jobs((final_result[:location_available].values + final_result[:location_unavailable].values)[start_index...start_index+10])
     result[:miles] = final_result[:location_available].keys
     result
   end
 
-  def remove_queued_jobs(job_hash)
-    self.jobs.each do |job|
-      if job_hash.values.include?(job)
-        x = job_hash.values.index(job)
-        job_hash.delete(job_hash.keys[x])
+  def remove_queued_jobs(job_array)
+    job_array.each do |job|
+      if self.jobs.include?(job)
+        puts job
+        job_array.delete(job)
       end
     end
-    job_hash
+    job_array
   end
 
   def add_location!(params)

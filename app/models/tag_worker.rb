@@ -5,7 +5,7 @@ class TagWorker
   def perform(id)
     job = Job.find(id)
     tag_by_name(job.id)
-    tag_by_description(job.id)
+    # tag_by_description(job.id)
   end
 
   def tag_by_name(id)
