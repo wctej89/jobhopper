@@ -75,7 +75,7 @@ namespace :jobs do
       else
         job = jobs_hash
         job['description'] = job['description'].strip_tags if job['description']
-        Job.create(:name => job['title'], :description => job['description'],
+        Job.create(:name => job['title'],  :description => job['description'],
           :company => company, :source_url => job['url'])
       end
     end

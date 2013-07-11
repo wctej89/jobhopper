@@ -11,7 +11,19 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130709080629) do
+ActiveRecord::Schema.define(:version => 20130710235447) do
+
+  create_table "cities", :force => true do |t|
+    t.string   "name"
+    t.float    "latitude"
+    t.float    "longitude"
+    t.datetime "created_at", :null => false
+    t.datetime "updated_at", :null => false
+  end
+
+  add_index "cities", ["id"], :name => "index_cities_on_id"
+  add_index "cities", ["latitude"], :name => "index_cities_on_latitude"
+  add_index "cities", ["longitude"], :name => "index_cities_on_longitude"
 
   create_table "job_lists", :force => true do |t|
     t.integer  "list_id"
@@ -30,6 +42,10 @@ ActiveRecord::Schema.define(:version => 20130709080629) do
     t.datetime "updated_at", :null => false
   end
 
+  add_index "job_tags", ["id"], :name => "index_job_tags_on_id"
+  add_index "job_tags", ["job_id"], :name => "index_job_tags_on_job_id"
+  add_index "job_tags", ["tag_id"], :name => "index_job_tags_on_tag_id"
+
   create_table "jobs", :force => true do |t|
     t.string   "name"
     t.text     "description"
@@ -40,7 +56,12 @@ ActiveRecord::Schema.define(:version => 20130709080629) do
     t.datetime "updated_at",  :null => false
     t.float    "lat"
     t.float    "lng"
+    t.integer  "city_id"
   end
+
+  add_index "jobs", ["city_id"], :name => "index_jobs_on_city_id"
+  add_index "jobs", ["id"], :name => "index_jobs_on_id"
+  add_index "jobs", ["name"], :name => "index_jobs_on_name"
 
   create_table "lists", :force => true do |t|
     t.integer  "user_id"
@@ -63,6 +84,9 @@ ActiveRecord::Schema.define(:version => 20130709080629) do
     t.datetime "updated_at", :null => false
     t.string   "tag_type"
   end
+
+  add_index "tags", ["id"], :name => "index_tags_on_id"
+  add_index "tags", ["name"], :name => "index_tags_on_name"
 
   create_table "user_tags", :force => true do |t|
     t.integer  "user_id"

@@ -16,4 +16,16 @@ module Addlocation
       end
     end
   end
+
+  def populate_angellist
+    Job.where("source_url LIKE '%angel%'").each do |job|
+      job.tags.each do |tag|
+        if tag.tag_type == 'LocationTag'
+          puts tag.name
+        end
+      end
+    end
+  end
 end
+
+
