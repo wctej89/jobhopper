@@ -3,5 +3,6 @@
 FactoryGirl.define do
   factory :tag do
     name "TAG"
+    tag_type "SkillTag"
   end
 end

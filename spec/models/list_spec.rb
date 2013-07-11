@@ -1,14 +1,16 @@
 require 'spec_helper'
 
 describe List do
-  let(:list) { FactoryGirl.create(:list) }
+  
+  let(:user) { FactoryGirl.create(:user) }
+  let(:list) { user.list }
 
   describe "accessible attributes" do
     subject { list }
 
-    it { should respond_to (:user) }
-    it { should respond_to (:job_lists)}
-    it { should respond_to(:jobs)}
+    it { should respond_to(:user) }
+    it { should respond_to(:job_lists) }
+    it { should respond_to(:jobs) }
   end
 
   describe "#add_job" do
@@ -28,7 +30,7 @@ describe List do
     end
 
     it "should remove the job from the list" do
-      list.remove_job(job.id)
+      list.remove!(job.id)
       list.jobs.should be_empty
     end
   end
