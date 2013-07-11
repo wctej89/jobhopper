@@ -4,7 +4,7 @@ module Feed
     distance_hash[:location_available] = {}
     distance_hash[:location_unavailable] = {}
     j = 0
-    City.find(jobs_array.pluck(:city_id))
+    
     jobs_array.each do |job|
       if job.has_city?
         job_coordinates = [job.city.latitude, job.city.longitude]

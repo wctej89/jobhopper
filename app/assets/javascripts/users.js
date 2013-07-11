@@ -1,7 +1,7 @@
 function getNewPage(){
   var page_num = parseInt($.cookie('page_num')) + 1
   $.cookie('page_num',page_num+1);
-  if($(window).height() + $(window).scrollTop() + 150 > $(document).height()){
+  if($(window).height() + $(window).scrollTop() + 100 > $(document).height()){
     $.ajax({
       method: "get",
       url: "/feed",

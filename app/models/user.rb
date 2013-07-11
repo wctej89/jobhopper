@@ -55,7 +55,7 @@ class User < ActiveRecord::Base
     result[:total] = final_result_count
     start_index = (page-1)*10
     result[:total_pages] = final_result_count/10
-    result[:results] = final_result[:location_available].values << final_result[:location_unavailable].values
+    result[:results] = (final_result[:location_available].values + final_result[:location_unavailable].values)[start_index...start_index+10]
     result[:miles] = final_result[:location_available].keys
     result
   end
