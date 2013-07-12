@@ -11,3 +11,10 @@ test: &test
   host: localhost
   encoding: UTF8
   min_messages: WARNING
+
+production:
+  adapter: postgresql
+  database: jobhopper_test
+  host: localhost
+  encoding: UTF8
+  min_messages: WARNING
