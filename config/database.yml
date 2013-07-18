@@ -14,7 +14,7 @@ test: &test
 
 production:
   adapter: postgresql
-  database: jobhopper_test
+  database: jobhopper_production
   host: localhost
   encoding: UTF8
   min_messages: WARNING
