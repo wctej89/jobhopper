@@ -14,19 +14,21 @@ gem 'omniauth-linkedin'
 gem 'heroku'
 gem 'faraday'
 gem 'linkedin'
-gem 'compass'
-gem 'zurb-foundation'
 gem 'geokit'
 gem 'tire'  
 gem 'sidekiq'
 gem 'mechanize'
 gem 'heroku'
+gem 'compass-rails'
+gem 'zurb-foundation'
+gem 'sass-rails',   '~> 3.2.6'                # syntatically awesome stylesheets - sass-lang.com for more info
+gem 'uglifier', '>= 1.0.3'
+gem 'pg'
 #############################
 # Environment-specific gems #
 #############################
 
 group :development, :production do 
-  gem 'pg'
 end
 
 #monitoring sidekiq
@@ -35,9 +37,6 @@ gem 'slim', '>= 1.1.0'   #for monitoring sidekiq
 
 # The :assets group is for building static assets
 group :assets do
-  gem 'sass-rails',   '~> 3.2.3'                # syntatically awesome stylesheets - sass-lang.com for more info
-  gem 'therubyracer', :require => 'v8'                            # javascript runtime to support coffeescript
-  gem 'uglifier', '>= 1.0.3'
 end
 
 group :test do
@@ -57,6 +56,10 @@ group :test, :development do
   gem 'bson_ext'                                # improves mongo performance
   gem 'rspec_api_documentation'                   # API doc generation
   gem 'factory_girl_rails'                      # Factories for creating test objects
+  gem 'faker'
+  gem 'simplecov', :require => false
+end
+rails'                      # Factories for creating test objects
   gem 'faker'
   gem 'simplecov', :require => false
 end
