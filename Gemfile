@@ -59,7 +59,3 @@ group :test, :development do
   gem 'faker'
   gem 'simplecov', :require => false
 end
-rails'                      # Factories for creating test objects
-  gem 'faker'
-  gem 'simplecov', :require => false
-end
