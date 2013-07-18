@@ -18,10 +18,9 @@ gem 'geokit'
 gem 'tire'  
 gem 'sidekiq'
 gem 'mechanize'
-gem 'heroku'
+gem 'sass-rails',   '~> 3.2.6'                # syntatically awesome stylesheets - sass-lang.com for more info
 gem 'compass-rails'
 gem 'zurb-foundation'
-gem 'sass-rails',   '~> 3.2.6'                # syntatically awesome stylesheets - sass-lang.com for more info
 gem 'uglifier', '>= 1.0.3'
 gem 'pg'
 #############################

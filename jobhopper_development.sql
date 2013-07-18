@@ -29,7 +29,7 @@ SET default_tablespace = '';
 SET default_with_oids = false;
 
 --
--- Name: job_lists; Type: TABLE; Schema: public; Owner: Neil; Tablespace: 
+-- Name: job_lists; Type: TABLE; Schema: public; Owner: TJ; Tablespace: 
 --
 
 CREATE TABLE job_lists (
@@ -42,10 +42,10 @@ CREATE TABLE job_lists (
 );
 
 
-ALTER TABLE public.job_lists OWNER TO "Neil";
+ALTER TABLE public.job_lists OWNER TO "TJ";
 
 --
--- Name: job_lists_id_seq; Type: SEQUENCE; Schema: public; Owner: Neil
+-- Name: job_lists_id_seq; Type: SEQUENCE; Schema: public; Owner: TJ
 --
 
 CREATE SEQUENCE job_lists_id_seq
@@ -56,17 +56,17 @@ CREATE SEQUENCE job_lists_id_seq
     CACHE 1;
 
 
-ALTER TABLE public.job_lists_id_seq OWNER TO "Neil";
+ALTER TABLE public.job_lists_id_seq OWNER TO "TJ";
 
 --
--- Name: job_lists_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: Neil
+-- Name: job_lists_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: TJ
 --
 
 ALTER SEQUENCE job_lists_id_seq OWNED BY job_lists.id;
 
 
 --
--- Name: job_tags; Type: TABLE; Schema: public; Owner: Neil; Tablespace: 
+-- Name: job_tags; Type: TABLE; Schema: public; Owner: TJ; Tablespace: 
 --
 
 CREATE TABLE job_tags (
@@ -78,10 +78,10 @@ CREATE TABLE job_tags (
 );
 
 
-ALTER TABLE public.job_tags OWNER TO "Neil";
+ALTER TABLE public.job_tags OWNER TO "TJ";
 
 --
--- Name: job_tags_id_seq; Type: SEQUENCE; Schema: public; Owner: Neil
+-- Name: job_tags_id_seq; Type: SEQUENCE; Schema: public; Owner: TJ
 --
 
 CREATE SEQUENCE job_tags_id_seq
@@ -92,17 +92,17 @@ CREATE SEQUENCE job_tags_id_seq
     CACHE 1;
 
 
-ALTER TABLE public.job_tags_id_seq OWNER TO "Neil";
+ALTER TABLE public.job_tags_id_seq OWNER TO "TJ";
 
 --
--- Name: job_tags_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: Neil
+-- Name: job_tags_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: TJ
 --
 
 ALTER SEQUENCE job_tags_id_seq OWNED BY job_tags.id;
 
 
 --
--- Name: jobs; Type: TABLE; Schema: public; Owner: Neil; Tablespace: 
+-- Name: jobs; Type: TABLE; Schema: public; Owner: TJ; Tablespace: 
 --
 
 CREATE TABLE jobs (
@@ -119,10 +119,10 @@ CREATE TABLE jobs (
 );
 
 
-ALTER TABLE public.jobs OWNER TO "Neil";
+ALTER TABLE public.jobs OWNER TO "TJ";
 
 --
--- Name: jobs_id_seq; Type: SEQUENCE; Schema: public; Owner: Neil
+-- Name: jobs_id_seq; Type: SEQUENCE; Schema: public; Owner: TJ
 --
 
 CREATE SEQUENCE jobs_id_seq
@@ -133,17 +133,17 @@ CREATE SEQUENCE jobs_id_seq
     CACHE 1;
 
 
-ALTER TABLE public.jobs_id_seq OWNER TO "Neil";
+ALTER TABLE public.jobs_id_seq OWNER TO "TJ";
 
 --
--- Name: jobs_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: Neil
+-- Name: jobs_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: TJ
 --
 
 ALTER SEQUENCE jobs_id_seq OWNED BY jobs.id;
 
 
 --
--- Name: lists; Type: TABLE; Schema: public; Owner: Neil; Tablespace: 
+-- Name: lists; Type: TABLE; Schema: public; Owner: TJ; Tablespace: 
 --
 
 CREATE TABLE lists (
@@ -154,10 +154,10 @@ CREATE TABLE lists (
 );
 
 
-ALTER TABLE public.lists OWNER TO "Neil";
+ALTER TABLE public.lists OWNER TO "TJ";
 
 --
--- Name: lists_id_seq; Type: SEQUENCE; Schema: public; Owner: Neil
+-- Name: lists_id_seq; Type: SEQUENCE; Schema: public; Owner: TJ
 --
 
 CREATE SEQUENCE lists_id_seq
@@ -168,17 +168,17 @@ CREATE SEQUENCE lists_id_seq
     CACHE 1;
 
 
-ALTER TABLE public.lists_id_seq OWNER TO "Neil";
+ALTER TABLE public.lists_id_seq OWNER TO "TJ";
 
 --
--- Name: lists_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: Neil
+-- Name: lists_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: TJ
 --
 
 ALTER SEQUENCE lists_id_seq OWNED BY lists.id;
 
 
 --
--- Name: notifications; Type: TABLE; Schema: public; Owner: Neil; Tablespace: 
+-- Name: notifications; Type: TABLE; Schema: public; Owner: TJ; Tablespace: 
 --
 
 CREATE TABLE notifications (
@@ -192,10 +192,10 @@ CREATE TABLE notifications (
 );
 
 
-ALTER TABLE public.notifications OWNER TO "Neil";
+ALTER TABLE public.notifications OWNER TO "TJ";
 
 --
--- Name: notifications_id_seq; Type: SEQUENCE; Schema: public; Owner: Neil
+-- Name: notifications_id_seq; Type: SEQUENCE; Schema: public; Owner: TJ
 --
 
 CREATE SEQUENCE notifications_id_seq
@@ -206,17 +206,17 @@ CREATE SEQUENCE notifications_id_seq
     CACHE 1;
 
 
-ALTER TABLE public.notifications_id_seq OWNER TO "Neil";
+ALTER TABLE public.notifications_id_seq OWNER TO "TJ";
 
 --
--- Name: notifications_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: Neil
+-- Name: notifications_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: TJ
 --
 
 ALTER SEQUENCE notifications_id_seq OWNED BY notifications.id;
 
 
 --
--- Name: schema_migrations; Type: TABLE; Schema: public; Owner: Neil; Tablespace: 
+-- Name: schema_migrations; Type: TABLE; Schema: public; Owner: TJ; Tablespace: 
 --
 
 CREATE TABLE schema_migrations (
@@ -224,10 +224,10 @@ CREATE TABLE schema_migrations (
 );
 
 
-ALTER TABLE public.schema_migrations OWNER TO "Neil";
+ALTER TABLE public.schema_migrations OWNER TO "TJ";
 
 --
--- Name: tags; Type: TABLE; Schema: public; Owner: Neil; Tablespace: 
+-- Name: tags; Type: TABLE; Schema: public; Owner: TJ; Tablespace: 
 --
 
 CREATE TABLE tags (
@@ -239,10 +239,10 @@ CREATE TABLE tags (
 );
 
 
-ALTER TABLE public.tags OWNER TO "Neil";
+ALTER TABLE public.tags OWNER TO "TJ";
 
 --
--- Name: tags_id_seq; Type: SEQUENCE; Schema: public; Owner: Neil
+-- Name: tags_id_seq; Type: SEQUENCE; Schema: public; Owner: TJ
 --
 
 CREATE SEQUENCE tags_id_seq
@@ -253,17 +253,17 @@ CREATE SEQUENCE tags_id_seq
     CACHE 1;
 
 
-ALTER TABLE public.tags_id_seq OWNER TO "Neil";
+ALTER TABLE public.tags_id_seq OWNER TO "TJ";
 
 --
--- Name: tags_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: Neil
+-- Name: tags_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: TJ
 --
 
 ALTER SEQUENCE tags_id_seq OWNED BY tags.id;
 
 
 --
--- Name: user_tags; Type: TABLE; Schema: public; Owner: Neil; Tablespace: 
+-- Name: user_tags; Type: TABLE; Schema: public; Owner: TJ; Tablespace: 
 --
 
 CREATE TABLE user_tags (
@@ -276,10 +276,10 @@ CREATE TABLE user_tags (
 );
 
 
-ALTER TABLE public.user_tags OWNER TO "Neil";
+ALTER TABLE public.user_tags OWNER TO "TJ";
 
 --
--- Name: user_tags_id_seq; Type: SEQUENCE; Schema: public; Owner: Neil
+-- Name: user_tags_id_seq; Type: SEQUENCE; Schema: public; Owner: TJ
 --
 
 CREATE SEQUENCE user_tags_id_seq
@@ -290,17 +290,17 @@ CREATE SEQUENCE user_tags_id_seq
     CACHE 1;
 
 
-ALTER TABLE public.user_tags_id_seq OWNER TO "Neil";
+ALTER TABLE public.user_tags_id_seq OWNER TO "TJ";
 
 --
--- Name: user_tags_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: Neil
+-- Name: user_tags_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: TJ
 --
 
 ALTER SEQUENCE user_tags_id_seq OWNED BY user_tags.id;
 
 
 --
--- Name: users; Type: TABLE; Schema: public; Owner: Neil; Tablespace: 
+-- Name: users; Type: TABLE; Schema: public; Owner: TJ; Tablespace: 
 --
 
 CREATE TABLE users (
@@ -319,10 +319,10 @@ CREATE TABLE users (
 );
 
 
-ALTER TABLE public.users OWNER TO "Neil";
+ALTER TABLE public.users OWNER TO "TJ";
 
 --
--- Name: users_id_seq; Type: SEQUENCE; Schema: public; Owner: Neil
+-- Name: users_id_seq; Type: SEQUENCE; Schema: public; Owner: TJ
 --
 
 CREATE SEQUENCE users_id_seq
@@ -333,17 +333,17 @@ CREATE SEQUENCE users_id_seq
     CACHE 1;
 
 
-ALTER TABLE public.users_id_seq OWNER TO "Neil";
+ALTER TABLE public.users_id_seq OWNER TO "TJ";
 
 --
--- Name: users_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: Neil
+-- Name: users_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: TJ
 --
 
 ALTER SEQUENCE users_id_seq OWNED BY users.id;
 
 
 --
--- Name: zips; Type: TABLE; Schema: public; Owner: Neil; Tablespace: 
+-- Name: zips; Type: TABLE; Schema: public; Owner: TJ; Tablespace: 
 --
 
 CREATE TABLE zips (
@@ -353,10 +353,10 @@ CREATE TABLE zips (
 );
 
 
-ALTER TABLE public.zips OWNER TO "Neil";
+ALTER TABLE public.zips OWNER TO "TJ";
 
 --
--- Name: zips_id_seq; Type: SEQUENCE; Schema: public; Owner: Neil
+-- Name: zips_id_seq; Type: SEQUENCE; Schema: public; Owner: TJ
 --
 
 CREATE SEQUENCE zips_id_seq
@@ -367,80 +367,80 @@ CREATE SEQUENCE zips_id_seq
     CACHE 1;
 
 
-ALTER TABLE public.zips_id_seq OWNER TO "Neil";
+ALTER TABLE public.zips_id_seq OWNER TO "TJ";
 
 --
--- Name: zips_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: Neil
+-- Name: zips_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: TJ
 --
 
 ALTER SEQUENCE zips_id_seq OWNED BY zips.id;
 
 
 --
--- Name: id; Type: DEFAULT; Schema: public; Owner: Neil
+-- Name: id; Type: DEFAULT; Schema: public; Owner: TJ
 --
 
 ALTER TABLE ONLY job_lists ALTER COLUMN id SET DEFAULT nextval('job_lists_id_seq'::regclass);
 
 
 --
--- Name: id; Type: DEFAULT; Schema: public; Owner: Neil
+-- Name: id; Type: DEFAULT; Schema: public; Owner: TJ
 --
 
 ALTER TABLE ONLY job_tags ALTER COLUMN id SET DEFAULT nextval('job_tags_id_seq'::regclass);
 
 
 --
--- Name: id; Type: DEFAULT; Schema: public; Owner: Neil
+-- Name: id; Type: DEFAULT; Schema: public; Owner: TJ
 --
 
 ALTER TABLE ONLY jobs ALTER COLUMN id SET DEFAULT nextval('jobs_id_seq'::regclass);
 
 
 --
--- Name: id; Type: DEFAULT; Schema: public; Owner: Neil
+-- Name: id; Type: DEFAULT; Schema: public; Owner: TJ
 --
 
 ALTER TABLE ONLY lists ALTER COLUMN id SET DEFAULT nextval('lists_id_seq'::regclass);
 
 
 --
--- Name: id; Type: DEFAULT; Schema: public; Owner: Neil
+-- Name: id; Type: DEFAULT; Schema: public; Owner: TJ
 --
 
 ALTER TABLE ONLY notifications ALTER COLUMN id SET DEFAULT nextval('notifications_id_seq'::regclass);
 
 
 --
--- Name: id; Type: DEFAULT; Schema: public; Owner: Neil
+-- Name: id; Type: DEFAULT; Schema: public; Owner: TJ
 --
 
 ALTER TABLE ONLY tags ALTER COLUMN id SET DEFAULT nextval('tags_id_seq'::regclass);
 
 
 --
--- Name: id; Type: DEFAULT; Schema: public; Owner: Neil
+-- Name: id; Type: DEFAULT; Schema: public; Owner: TJ
 --
 
 ALTER TABLE ONLY user_tags ALTER COLUMN id SET DEFAULT nextval('user_tags_id_seq'::regclass);
 
 
 --
--- Name: id; Type: DEFAULT; Schema: public; Owner: Neil
+-- Name: id; Type: DEFAULT; Schema: public; Owner: TJ
 --
 
 ALTER TABLE ONLY users ALTER COLUMN id SET DEFAULT nextval('users_id_seq'::regclass);
 
 
 --
--- Name: id; Type: DEFAULT; Schema: public; Owner: Neil
+-- Name: id; Type: DEFAULT; Schema: public; Owner: TJ
 --
 
 ALTER TABLE ONLY zips ALTER COLUMN id SET DEFAULT nextval('zips_id_seq'::regclass);
 
 
 --
--- Data for Name: job_lists; Type: TABLE DATA; Schema: public; Owner: Neil
+-- Data for Name: job_lists; Type: TABLE DATA; Schema: public; Owner: TJ
 --
 
 COPY job_lists (id, list_id, job_id, status, created_at, updated_at) FROM stdin;
@@ -456,14 +456,14 @@ COPY job_lists (id, list_id, job_id, status, created_at, updated_at) FROM stdin;
 
 
 --
--- Name: job_lists_id_seq; Type: SEQUENCE SET; Schema: public; Owner: Neil
+-- Name: job_lists_id_seq; Type: SEQUENCE SET; Schema: public; Owner: TJ
 --
 
 SELECT pg_catalog.setval('job_lists_id_seq', 8, true);
 
 
 --
--- Data for Name: job_tags; Type: TABLE DATA; Schema: public; Owner: Neil
+-- Data for Name: job_tags; Type: TABLE DATA; Schema: public; Owner: TJ
 --
 
 COPY job_tags (id, job_id, tag_id, created_at, updated_at) FROM stdin;
@@ -13217,14 +13217,14 @@ COPY job_tags (id, job_id, tag_id, created_at, updated_at) FROM stdin;
 
 
 --
--- Name: job_tags_id_seq; Type: SEQUENCE SET; Schema: public; Owner: Neil
+-- Name: job_tags_id_seq; Type: SEQUENCE SET; Schema: public; Owner: TJ
 --
 
 SELECT pg_catalog.setval('job_tags_id_seq', 13327, true);
 
 
 --
--- Data for Name: jobs; Type: TABLE DATA; Schema: public; Owner: Neil
+-- Data for Name: jobs; Type: TABLE DATA; Schema: public; Owner: TJ
 --
 
 COPY jobs (id, name, description, email, company, source_url, created_at, updated_at, lat, lng) FROM stdin;
@@ -14868,14 +14868,14 @@ COPY jobs (id, name, description, email, company, source_url, created_at, update
 
 
 --
--- Name: jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: Neil
+-- Name: jobs_id_seq; Type: SEQUENCE SET; Schema: public; Owner: TJ
 --
 
 SELECT pg_catalog.setval('jobs_id_seq', 1710, true);
 
 
 --
--- Data for Name: lists; Type: TABLE DATA; Schema: public; Owner: Neil
+-- Data for Name: lists; Type: TABLE DATA; Schema: public; Owner: TJ
 --
 
 COPY lists (id, user_id, created_at, updated_at) FROM stdin;
@@ -14884,14 +14884,14 @@ COPY lists (id, user_id, created_at, updated_at) FROM stdin;
 
 
 --
--- Name: lists_id_seq; Type: SEQUENCE SET; Schema: public; Owner: Neil
+-- Name: lists_id_seq; Type: SEQUENCE SET; Schema: public; Owner: TJ
 --
 
 SELECT pg_catalog.setval('lists_id_seq', 4, true);
 
 
 --
--- Data for Name: notifications; Type: TABLE DATA; Schema: public; Owner: Neil
+-- Data for Name: notifications; Type: TABLE DATA; Schema: public; Owner: TJ
 --
 
 COPY notifications (id, subject, user_id, created_at, updated_at, job_id, read) FROM stdin;
@@ -14899,14 +14899,14 @@ COPY notifications (id, subject, user_id, created_at, updated_at, job_id, read) 
 
 
 --
--- Name: notifications_id_seq; Type: SEQUENCE SET; Schema: public; Owner: Neil
+-- Name: notifications_id_seq; Type: SEQUENCE SET; Schema: public; Owner: TJ
 --
 
 SELECT pg_catalog.setval('notifications_id_seq', 406, true);
 
 
 --
--- Data for Name: schema_migrations; Type: TABLE DATA; Schema: public; Owner: Neil
+-- Data for Name: schema_migrations; Type: TABLE DATA; Schema: public; Owner: TJ
 --
 
 COPY schema_migrations (version) FROM stdin;
@@ -14933,7 +14933,7 @@ COPY schema_migrations (version) FROM stdin;
 
 
 --
--- Data for Name: tags; Type: TABLE DATA; Schema: public; Owner: Neil
+-- Data for Name: tags; Type: TABLE DATA; Schema: public; Owner: TJ
 --
 
 COPY tags (id, name, created_at, updated_at, tag_type) FROM stdin;
@@ -17096,14 +17096,14 @@ COPY tags (id, name, created_at, updated_at, tag_type) FROM stdin;
 
 
 --
--- Name: tags_id_seq; Type: SEQUENCE SET; Schema: public; Owner: Neil
+-- Name: tags_id_seq; Type: SEQUENCE SET; Schema: public; Owner: TJ
 --
 
 SELECT pg_catalog.setval('tags_id_seq', 2155, true);
 
 
 --
--- Data for Name: user_tags; Type: TABLE DATA; Schema: public; Owner: Neil
+-- Data for Name: user_tags; Type: TABLE DATA; Schema: public; Owner: TJ
 --
 
 COPY user_tags (id, user_id, tag_id, created_at, updated_at, applied) FROM stdin;
@@ -17123,30 +17123,30 @@ COPY user_tags (id, user_id, tag_id, created_at, updated_at, applied) FROM stdin
 
 
 --
--- Name: user_tags_id_seq; Type: SEQUENCE SET; Schema: public; Owner: Neil
+-- Name: user_tags_id_seq; Type: SEQUENCE SET; Schema: public; Owner: TJ
 --
 
 SELECT pg_catalog.setval('user_tags_id_seq', 73, true);
 
 
 --
--- Data for Name: users; Type: TABLE DATA; Schema: public; Owner: Neil
+-- Data for Name: users; Type: TABLE DATA; Schema: public; Owner: TJ
 --
 
 COPY users (id, name, email, password_digest, created_at, updated_at, provider, uid, location, bio, lat, lng) FROM stdin;
-4	Neil Shah	neil.shah86@gmail.com	\N	2013-07-09 22:54:03.493596	2013-07-09 22:54:03.493596	linkedin	ek7bE2SKod	San Francisco Bay Area, US	I'm an incredibly passionate Software Engineer that values team building and building innovating products. I understand the balance between technology and business needs, and can maintain the delicate balance between the two. \n\nI believe in Test Driven Development, lean prototyping, and quality code, and work for teams that embody these ideals. \n\n\nI mostly enjoy full stack feature development in eCommerce using tools like MySQL, PHP, Zend, Magento, Ruby, Rails, jQuery, Javascript, Coffeescript, and have experience integrating third party tools and services, including multiple ad partners, social networks, and supply chain and logistics providers. \n \nI can communicate technical and business tradeoffs in both directions and can articulate the need to develop quality software to business teams.	\N	\N
+4	TJ Shah	TJ.shah86@gmail.com	\N	2013-07-09 22:54:03.493596	2013-07-09 22:54:03.493596	linkedin	ek7bE2SKod	San Francisco Bay Area, US	I'm an incredibly passionate Software Engineer that values team building and building innovating products. I understand the balance between technology and business needs, and can maintain the delicate balance between the two. \n\nI believe in Test Driven Development, lean prototyping, and quality code, and work for teams that embody these ideals. \n\n\nI mostly enjoy full stack feature development in eCommerce using tools like MySQL, PHP, Zend, Magento, Ruby, Rails, jQuery, Javascript, Coffeescript, and have experience integrating third party tools and services, including multiple ad partners, social networks, and supply chain and logistics providers. \n \nI can communicate technical and business tradeoffs in both directions and can articulate the need to develop quality software to business teams.	\N	\N
 \.
 
 
 --
--- Name: users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: Neil
+-- Name: users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: TJ
 --
 
 SELECT pg_catalog.setval('users_id_seq', 4, true);
 
 
 --
--- Data for Name: zips; Type: TABLE DATA; Schema: public; Owner: Neil
+-- Data for Name: zips; Type: TABLE DATA; Schema: public; Owner: TJ
 --
 
 COPY zips (id, zip_code, url) FROM stdin;
@@ -50114,14 +50114,14 @@ COPY zips (id, zip_code, url) FROM stdin;
 
 
 --
--- Name: zips_id_seq; Type: SEQUENCE SET; Schema: public; Owner: Neil
+-- Name: zips_id_seq; Type: SEQUENCE SET; Schema: public; Owner: TJ
 --
 
 SELECT pg_catalog.setval('zips_id_seq', 32960, true);
 
 
 --
--- Name: job_lists_pkey; Type: CONSTRAINT; Schema: public; Owner: Neil; Tablespace: 
+-- Name: job_lists_pkey; Type: CONSTRAINT; Schema: public; Owner: TJ; Tablespace: 
 --
 
 ALTER TABLE ONLY job_lists
@@ -50129,7 +50129,7 @@ ALTER TABLE ONLY job_lists
 
 
 --
--- Name: job_tags_pkey; Type: CONSTRAINT; Schema: public; Owner: Neil; Tablespace: 
+-- Name: job_tags_pkey; Type: CONSTRAINT; Schema: public; Owner: TJ; Tablespace: 
 --
 
 ALTER TABLE ONLY job_tags
@@ -50137,7 +50137,7 @@ ALTER TABLE ONLY job_tags
 
 
 --
--- Name: jobs_pkey; Type: CONSTRAINT; Schema: public; Owner: Neil; Tablespace: 
+-- Name: jobs_pkey; Type: CONSTRAINT; Schema: public; Owner: TJ; Tablespace: 
 --
 
 ALTER TABLE ONLY jobs
@@ -50145,7 +50145,7 @@ ALTER TABLE ONLY jobs
 
 
 --
--- Name: lists_pkey; Type: CONSTRAINT; Schema: public; Owner: Neil; Tablespace: 
+-- Name: lists_pkey; Type: CONSTRAINT; Schema: public; Owner: TJ; Tablespace: 
 --
 
 ALTER TABLE ONLY lists
@@ -50153,7 +50153,7 @@ ALTER TABLE ONLY lists
 
 
 --
--- Name: notifications_pkey; Type: CONSTRAINT; Schema: public; Owner: Neil; Tablespace: 
+-- Name: notifications_pkey; Type: CONSTRAINT; Schema: public; Owner: TJ; Tablespace: 
 --
 
 ALTER TABLE ONLY notifications
@@ -50161,7 +50161,7 @@ ALTER TABLE ONLY notifications
 
 
 --
--- Name: tags_pkey; Type: CONSTRAINT; Schema: public; Owner: Neil; Tablespace: 
+-- Name: tags_pkey; Type: CONSTRAINT; Schema: public; Owner: TJ; Tablespace: 
 --
 
 ALTER TABLE ONLY tags
@@ -50169,7 +50169,7 @@ ALTER TABLE ONLY tags
 
 
 --
--- Name: user_tags_pkey; Type: CONSTRAINT; Schema: public; Owner: Neil; Tablespace: 
+-- Name: user_tags_pkey; Type: CONSTRAINT; Schema: public; Owner: TJ; Tablespace: 
 --
 
 ALTER TABLE ONLY user_tags
@@ -50177,7 +50177,7 @@ ALTER TABLE ONLY user_tags
 
 
 --
--- Name: users_pkey; Type: CONSTRAINT; Schema: public; Owner: Neil; Tablespace: 
+-- Name: users_pkey; Type: CONSTRAINT; Schema: public; Owner: TJ; Tablespace: 
 --
 
 ALTER TABLE ONLY users
@@ -50185,7 +50185,7 @@ ALTER TABLE ONLY users
 
 
 --
--- Name: zips_pkey; Type: CONSTRAINT; Schema: public; Owner: Neil; Tablespace: 
+-- Name: zips_pkey; Type: CONSTRAINT; Schema: public; Owner: TJ; Tablespace: 
 --
 
 ALTER TABLE ONLY zips
@@ -50193,26 +50193,26 @@ ALTER TABLE ONLY zips
 
 
 --
--- Name: index_job_lists_on_job_id_and_list_id; Type: INDEX; Schema: public; Owner: Neil; Tablespace: 
+-- Name: index_job_lists_on_job_id_and_list_id; Type: INDEX; Schema: public; Owner: TJ; Tablespace: 
 --
 
 CREATE UNIQUE INDEX index_job_lists_on_job_id_and_list_id ON job_lists USING btree (job_id, list_id);
 
 
 --
--- Name: unique_schema_migrations; Type: INDEX; Schema: public; Owner: Neil; Tablespace: 
+-- Name: unique_schema_migrations; Type: INDEX; Schema: public; Owner: TJ; Tablespace: 
 --
 
 CREATE UNIQUE INDEX unique_schema_migrations ON schema_migrations USING btree (version);
 
 
 --
--- Name: public; Type: ACL; Schema: -; Owner: Neil
+-- Name: public; Type: ACL; Schema: -; Owner: TJ
 --
 
 REVOKE ALL ON SCHEMA public FROM PUBLIC;
-REVOKE ALL ON SCHEMA public FROM "Neil";
-GRANT ALL ON SCHEMA public TO "Neil";
+REVOKE ALL ON SCHEMA public FROM "TJ";
+GRANT ALL ON SCHEMA public TO "TJ";
 GRANT ALL ON SCHEMA public TO PUBLIC;
 
 

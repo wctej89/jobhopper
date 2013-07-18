@@ -52,8 +52,9 @@ ActiveRecord::Schema.define(:version => 20130710235447) do
     t.string   "email"
     t.string   "company"
     t.string   "source_url"
-    t.datetime "created_at",  :null => false
-    t.datetime "updated_at",  :null => false
+    t.integer  "angellist_id"
+    t.datetime "created_at",   :null => false
+    t.datetime "updated_at",   :null => false
     t.float    "lat"
     t.float    "lng"
     t.integer  "city_id"
