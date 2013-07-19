@@ -17133,11 +17133,6 @@ SELECT pg_catalog.setval('user_tags_id_seq', 73, true);
 -- Data for Name: users; Type: TABLE DATA; Schema: public; Owner: TJ
 --
 
-COPY users (id, name, email, password_digest, created_at, updated_at, provider, uid, location, bio, lat, lng) FROM stdin;
-4	TJ Shah	TJ.shah86@gmail.com	\N	2013-07-09 22:54:03.493596	2013-07-09 22:54:03.493596	linkedin	ek7bE2SKod	San Francisco Bay Area, US	I'm an incredibly passionate Software Engineer that values team building and building innovating products. I understand the balance between technology and business needs, and can maintain the delicate balance between the two. \n\nI believe in Test Driven Development, lean prototyping, and quality code, and work for teams that embody these ideals. \n\n\nI mostly enjoy full stack feature development in eCommerce using tools like MySQL, PHP, Zend, Magento, Ruby, Rails, jQuery, Javascript, Coffeescript, and have experience integrating third party tools and services, including multiple ad partners, social networks, and supply chain and logistics providers. \n \nI can communicate technical and business tradeoffs in both directions and can articulate the need to develop quality software to business teams.	\N	\N
-\.
-
-
 --
 -- Name: users_id_seq; Type: SEQUENCE SET; Schema: public; Owner: TJ
 --

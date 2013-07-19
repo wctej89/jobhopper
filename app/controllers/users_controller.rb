@@ -78,4 +78,8 @@ class UsersController < ApplicationController
     @user = User.find(params[:id])
   end
 
+  def queue
+    @queue = current_user.jobs
+  end
+
 end
