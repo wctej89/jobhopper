@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130719041614) do
+ActiveRecord::Schema.define(:version => 20130719062240) do
 
   create_table "cities", :force => true do |t|
     t.string   "name"
@@ -28,10 +28,11 @@ ActiveRecord::Schema.define(:version => 20130719041614) do
   create_table "job_lists", :force => true do |t|
     t.integer  "list_id"
     t.integer  "job_id"
-    t.datetime "created_at",                  :null => false
-    t.datetime "updated_at",                  :null => false
+    t.datetime "created_at",                        :null => false
+    t.datetime "updated_at",                        :null => false
     t.text     "notes",      :default => " "
     t.integer  "status_id"
+    t.string   "status",     :default => "pending"
   end
 
   add_index "job_lists", ["job_id", "list_id"], :name => "index_job_lists_on_job_id_and_list_id", :unique => true

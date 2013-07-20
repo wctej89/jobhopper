@@ -9,6 +9,7 @@ OptionsIo::Application.routes.draw do
   resources :job_tags
   resources :notifications, :only => [:index,:destroy]
 
+  match 'joblists/add', to: 'job_lists#add'
   match '/users/:id/queue', to: 'users#queue', as: 'queue_user'
   match '/auth/:provider/callback', to: 'omniauth_callbacks#all'
   match '/signout', to: 'sessions#destroy'

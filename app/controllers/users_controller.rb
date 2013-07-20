@@ -43,12 +43,12 @@ class UsersController < ApplicationController
     cookies[:page_num] = 1
     @queue = []
     @applied = []
-    list_id = current_user.list.id
-    job_list = JobList.where(list_id: list_id)
-    job_pending = job_list.where(status: "pending")
-    job_pending.each {|item| @queue << Job.find(item.job_id)}
-    job_applied = job_list.where(status: "applied")
-    job_applied.each {|item| @applied << Job.find(item.job_id)}
+    # list_id = current_user.list.id
+    # job_list = JobList.where(list_id: list_id)
+    # job_pending = job_list.where(status: "pending")
+    # job_pending.each {|item| @queue << Job.find(item.job_id)}
+    # job_applied = job_list.where(status: "applied")
+    # job_applied.each {|item| @applied << Job.find(item.job_id)}
   end
 
   def feed_results

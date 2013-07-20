@@ -402,7 +402,8 @@ li.notification {
 .wrapper-dropdown-1 {
   position: relative;
   width: 200px;
-  padding: 10px;
+  padding: 6px;
+  height: 29px;
   margin: 0 auto;
   background: #34495e;
   color: #fff;
@@ -453,6 +454,8 @@ li.notification {
 .wrapper-dropdown-1.active .dropdown {
   opacity: 1;
   pointer-events: auto;
+  z-index: 9;
+  
 }
 
 .wrapper-dropdown-1.active:after {

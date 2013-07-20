@@ -1,5 +1,5 @@
 class JobList < ActiveRecord::Base
-  attr_accessible :job_id, :list_id, :notes
+  attr_accessible :job_id, :list_id, :notes, :status
   belongs_to :job
   belongs_to :list
   has_many :statuses
