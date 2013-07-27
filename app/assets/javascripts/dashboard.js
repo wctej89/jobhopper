@@ -12,11 +12,11 @@ $(document).ready(function(){
 
   $(function() {
  
-    var dd = new DropDown( $('#dd') );
- 
-    $(document).click(function() {
+    $('.current-jobs').on('click', '.wrapper-dropdown-1', function() {
         // all dropdowns
-        $('.wrapper-dropdown-1').removeClass('active');
+        dd = new DropDown( $(this) );
+        console.log("aofaflnlknln")
+        $(this).toggleClass('active');
     });
   });
   
@@ -85,7 +85,7 @@ $(document).ready(function(){
       url: '/jobs/'+ $job.attr('id'),
       data: {status:$(this).text().trim()}
     }).success(function(response){
-      $('.applied').append($job);
+      // $('.applied').append($job);
       $('#slidecontent').find("#"+job_id).children().last().html("<p style='color: white; margin-top: 5px;'>Status: " + message + "</p>")
     });
   });

@@ -1,0 +1,159 @@
+:css
+  .notes {
+    height: 24%;
+    display: inline-block;
+  }
+  .organizer {
+    width: 80%;
+    background-color: white;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+  .job-list {
+    list-style: none;
+    font-size: 30px;
+    border-bottom: 1px solid gray;
+    margin-bottom: 5px;
+    font-family: 'lato';
+  }
+  .icon-plus {
+    margin-left: 20px;
+    font-size: 25px;
+    color: rgb(90, 90, 90);
+    padding-right: 10px;
+    cursor: pointer;
+  }
+  .status-font {
+    font-size: 15px
+  }
+  .organizer-dropdown {
+    padding-left: 65px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .statuses {
+    width: 40%;
+    display: inline-block;
+    position: relative;
+    left: 17%;
+    font-size: 20px;
+    top: -25px;
+  }
+  .testing {
+    width: 40%;
+    display: inline-block;
+  }
+  .current-status {
+    float:right; 
+    padding-right: 10px;
+  }
+  .icon-ban-circle {
+    margin-left: 20px;
+    font-size: 30px;
+    color: rgb(90, 90, 90);
+    display: none;
+  }
+  #queue_buttons:hover {
+    cursor: pointer;
+  }
+
+.organizer
+  %h1 Organizer
+  %form.scrape
+    %input.link{type: 'text', placeholder: "Paste a LinkedIn or Craigslist URL", name: 'url'}
+
+  .current-jobs
+    -current_user.jobs.each do |job|
+      %li.job-list
+        %span
+          %i.icon-plus
+          %span.current-status= "#{JobList.find_by_job_id_and_list_id(job.id, current_user.list.id).status}"
+          =link_to job.company, job.source_url
+          %i.icon-ban-circle{id: "queue_buttons"}
+        .organizer-dropdown{style: 'display: none;'}
+          .testing
+            %form.custom-status{autocomplete: 'on', style: 'margin-bottom: 7px;'}
+              %input.new-status{type: 'text', name: 'status', placeholder: 'Write new status', style: 'margin-bottom: 0px;'}
+            %textarea.notes{id: job.id, rows: '10', cols: '50', placeholder: "Write your notes here", value: JobList.find_by_list_id_and_job_id(current_user.list.id, job.id).notes}
+          .statuses
+            -JobList.find_by_list_id_and_job_id(current_user.list.id, job.id).statuses.each do |status|
+              %p= "#{status.date}- #{status.status}"
+
+:javascript
+  $(".icon-ban-circle").hover(function() { $(this).css("color", "#c0392b"); }, function(){$(this).css("color","rgb(90, 90, 90)")});
+
+  $('.current-jobs').on('click', '.icon-ban-circle', function() {
+    var job = $(this).parent().parent()
+    var jobId = $(this).parent().siblings().children().first().find('.notes').attr('id')
+    $.ajax({
+      type: 'delete',
+      url: '/remove_from_queue/' + jobId,
+    }).success(function(response) {
+      job.fadeOut();
+    })
+  })
+
+  $(document).ready(function() {
+    $('.notes').each(function() {
+      var text = $(this).attr('value');
+      if (text != " ") {
+        $(this).val(text);
+      }
+    })
+  })
+
+  function errorhandler() {
+    $(".scrape").prepend("<h3 class='error' style='color: red;'>Problem with the link provided</h3>");
+  }
+
+  $('.scrape').on('submit', function(e) {
+    e.preventDefault();
+    if ($('.link').val().search("www.linkedin.com") != -1 || $('.link').val().search("craigslist.org") != -1) {
+      $.ajax({
+        method: 'POST',
+        url: '/joblists/add',
+        data: $(this).serialize(),
+      }).success(function(response) {
+        $('.error').remove();
+        $(".current-jobs").prepend("<li class='job-list' style='display: none;'><span><i class='icon-plus' style='padding-right: 13px;'></i><span class='current-status'>pending</span><a href=" + response.source + ">" + response.company + "</a><i class= 'icon-ban-circle' id= 'queue_buttons'></i></span><div class='organizer-dropdown' style='display: none;'><div class='testing'><form class='custom-status' autocomplete='on' style= 'margin-bottom: 7px;'><input class='new-status' type='text' name='status' placeholder='Write new status' style='margin-bottom: 0px;'></form><textarea class='notes' id=" + response.job_id + "rows='10' cols='50' placeholder='Write your notes here'></textarea></div><div class='statuses'></div></div></li>");
+        $('.job-list').first().fadeIn();
+      })
+    } else {
+      $(".scrape").prepend("<h3 class='error' style='color: red;'>INVALID LINK BRO!</h3>");
+    }
+  })
+
+  $('.current-jobs').on('click', '.icon-plus',function () {
+    $(this).siblings().last().toggle('fast')
+    $(this).siblings().first().toggle('fast')
+    $(this).toggleClass('icon-minus');
+    $(this).parent().siblings().toggle('fast');
+  })
+
+  $('.current-jobs').on('keyup', '.notes', _.debounce(function() {
+    var notes = {job_id: $(this).attr('id'), note: $(this).val()}
+    $.ajax({
+      dataType: 'JSON',
+      method: 'POST',
+      url: '/joblists/notes',
+      data: notes
+    })
+  }, 1000));
+
+  $('.current-jobs').on('submit', '.custom-status', function(e) {
+    e.preventDefault();
+    debugger
+    $that = $(this)
+    var job_id = $that.siblings().attr('id')
+    $.ajax({
+      type: "put",
+      url: '/jobs/' + job_id,
+      data: $(this).serialize()
+    }).success(function(response) {
+      $($that.parent().parent().siblings().children()[1]).text($that.children().first().val());
+      $('.new-status').val('');
+      $that.closest('.organizer-dropdown').find('.statuses').append('<p>' + response + '</p>');
+    })
+  })
+

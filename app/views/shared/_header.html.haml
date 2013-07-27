@@ -13,9 +13,8 @@
       -if current_user
         %li.divider
         %li.has-flyout
-          %a{:href => '#', style: "font-family: 'Lato', sans-serif;" }
-            Notifications
-            %span.notification_count 0
+          %a{:href => queue_user_path(current_user), style: "font-family: 'Lato', sans-serif;" }
+            Organizer
         %li.divider
         %li
           %a{href: user_path(current_user), style: "font-family: 'Lato', sans-serif;"} Me
