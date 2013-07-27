@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20130719062240) do
+ActiveRecord::Schema.define(:version => 20130720034903) do
 
   create_table "cities", :force => true do |t|
     t.string   "name"
@@ -31,7 +31,6 @@ ActiveRecord::Schema.define(:version => 20130719062240) do
     t.datetime "created_at",                        :null => false
     t.datetime "updated_at",                        :null => false
     t.text     "notes",      :default => " "
-    t.integer  "status_id"
     t.string   "status",     :default => "pending"
   end
 
@@ -84,8 +83,9 @@ ActiveRecord::Schema.define(:version => 20130719062240) do
   create_table "statuses", :force => true do |t|
     t.string   "status"
     t.string   "date"
-    t.datetime "created_at", :null => false
-    t.datetime "updated_at", :null => false
+    t.integer  "job_list_id"
+    t.datetime "created_at",  :null => false
+    t.datetime "updated_at",  :null => false
   end
 
   create_table "tags", :force => true do |t|

@@ -1,3 +1,4 @@
+require 'mechanize'
 class ApplicationController < ActionController::Base
   protect_from_forgery
 
@@ -44,6 +45,25 @@ class ApplicationController < ActionController::Base
       end
     end
     location
+  end
+
+  def scrape_for_organizer(url)
+    agent = Mechanize.new
+    job_page = agent.get(url)
+    source = url
+    if url.include?('linkedin.com/jobs')
+      company = agent.page.parser.css('.company-location').children.children[0].text
+      info = job_page.title.gsub!(/- Job \| LinkedIn/, "")
+      # description = agent.page.parser.css('.job-description').children[3].text
+      # city = agent.page.parser.css('.company-location').children.children[2].text.strip
+    elsif url.include?('craigslist.org')
+      company = agent.page.parser.css('h2').text.strip
+      info = "test"
+      # description = agent.page.parser.css('#postingbody').text
+    end
+    job = Job.find_or_create_by_source_url(source, name: info, company: company, source_url: source, description: 'test')
+    current_user.list.jobs << job
+    render json: {info: info, company: company, source: source, job_id: job.id}
   end
 
   helper_method :current_user

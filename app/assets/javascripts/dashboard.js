@@ -12,10 +12,9 @@ $(document).ready(function(){
 
   $(function() {
  
-    var dd = new DropDown( $('#dd') );
- 
     $('.current-jobs').on('click', '.wrapper-dropdown-1', function() {
         // all dropdowns
+        dd = new DropDown( $(this) );
         console.log("aofaflnlknln")
         $(this).toggleClass('active');
     });
@@ -78,7 +77,6 @@ $(document).ready(function(){
 
  $(".status-change-menu").on('click', '.status-change', function(e){
     e.preventDefault();
-    console.log("ZZZZZZZZZZZZ")
     var $job = $(this).parent();
     var message = $(this).text().trim().toLowerCase();
     var job_id = $(".remove_from_queue").attr('id');
@@ -87,7 +85,7 @@ $(document).ready(function(){
       url: '/jobs/'+ $job.attr('id'),
       data: {status:$(this).text().trim()}
     }).success(function(response){
-      $('.applied').append($job);
+      // $('.applied').append($job);
       $('#slidecontent').find("#"+job_id).children().last().html("<p style='color: white; margin-top: 5px;'>Status: " + message + "</p>")
     });
   });

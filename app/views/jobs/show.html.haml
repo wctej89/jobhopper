@@ -37,9 +37,9 @@
     %button{:class => 'remove_from_queue', :id => @job.id, style: "visibility: hidden; position: absolute;"}
     %h4.company_name= @job.company
     %p.description= @job.description
-  %br
-  %p Apply here:
-  %a{:href => @job.source_url, :target => :_blank }=@job.source_url
+    %br
+    %p Apply here:
+    %a{:href => @job.source_url, :target => :_blank }=@job.source_url[0..30]
 
 
 %div{:id => "queue_stuff", :style => "display:none"}

@@ -7,7 +7,6 @@ $(document).ready(function(){
        console.log(job_id);
        var job_title = $("h1").last().text();
        var company_name = $("h4").last().text();
-       debugger
       if($(this).attr("class") == "icon-ban-circle") {
         $.ajax({
           type: 'delete',

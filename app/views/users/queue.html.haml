@@ -1,4 +1,8 @@
 :css
+  .notes {
+    height: 24%;
+    display: inline-block;
+  }
   .organizer {
     width: 80%;
     background-color: white;
@@ -9,8 +13,7 @@
   .job-list {
     list-style: none;
     font-size: 30px;
-    border: 1px solid gray;
-    border-radius: 5px;
+    border-bottom: 1px solid gray;
     margin-bottom: 5px;
     font-family: 'lato';
   }
@@ -29,50 +32,128 @@
     padding-top: 5px;
     padding-bottom: 5px;
   }
+  .statuses {
+    width: 40%;
+    display: inline-block;
+    position: relative;
+    left: 17%;
+    font-size: 20px;
+    top: -25px;
+  }
+  .testing {
+    width: 40%;
+    display: inline-block;
+  }
+  .current-status {
+    float:right; 
+    padding-right: 10px;
+  }
+  .icon-ban-circle {
+    margin-left: 20px;
+    font-size: 30px;
+    color: rgb(90, 90, 90);
+    display: none;
+  }
+  #queue_buttons:hover {
+    cursor: pointer;
+  }
 
-%div.organizer
-  %h1 Queue
+.organizer
+  %h1 Organizer
   %form.scrape
-    %input.link{type: 'text', placeholder: "Paste LinkedIn Url", name: 'url'}
+    %input.link{type: 'text', placeholder: "Paste a LinkedIn or Craigslist URL", name: 'url'}
 
-  %div.current-jobs
+  .current-jobs
     -current_user.jobs.each do |job|
       %li.job-list
         %span
           %i.icon-plus
-          %span{style: "float:right; padding-right: 10px;"}= "#{JobList.find_by_job_id_and_list_id(job.id, current_user.list.id).status}"
-          =job.company
-        %div.organizer-dropdown{style: 'display: none;'}
-          .status-font=link_to job.name, job.source_url
-          .wrapper-dropdown-1{:id => "dd", :tabindex => "1", style: "margin-left: -2px; margin-top: 6px; display: block;"}
-            %span.status-font= "Status: #{JobList.find_by_job_id_and_list_id(job.id, current_user.list.id).status}"
-            %ul.dropdown.status-change-menu{:tabindex => "1", style: "background-color: #95a5a6; color: white;", id: job.id}
-              %li.status-change{style: "list-style: none;"}
-                %a.status-font{:href => "#", style: "color: white;"} pending
-              %li.status-change{style: "list-style: none;"}
-                %a.status-font{:href => "#", style: "color: white;"} applied
-              %li.status-change{style: "list-style: none;"}
-                %a.status-font{:href => "#", style: "color: white;"} reply
+          %span.current-status= "#{JobList.find_by_job_id_and_list_id(job.id, current_user.list.id).status}"
+          =link_to job.company, job.source_url
+          %i.icon-ban-circle{id: "queue_buttons"}
+        .organizer-dropdown{style: 'display: none;'}
+          .testing
+            %form.custom-status{autocomplete: 'on', style: 'margin-bottom: 7px;'}
+              %input.new-status{type: 'text', name: 'status', placeholder: 'Write new status', style: 'margin-bottom: 0px;'}
+            %textarea.notes{id: job.id, rows: '10', cols: '50', placeholder: "Write your notes here", value: JobList.find_by_list_id_and_job_id(current_user.list.id, job.id).notes}
+          .statuses
+            -JobList.find_by_list_id_and_job_id(current_user.list.id, job.id).statuses.each do |status|
+              %p= "#{status.date}- #{status.status}"
 
 :javascript
-  $('form').on('submit', function(e) {
+  $(".icon-ban-circle").hover(function() { $(this).css("color", "#c0392b"); }, function(){$(this).css("color","rgb(90, 90, 90)")});
+
+  $('.current-jobs').on('click', '.icon-ban-circle', function() {
+    var job = $(this).parent().parent()
+    var jobId = $(this).parent().siblings().children().first().find('.notes').attr('id')
+    $.ajax({
+      type: 'delete',
+      url: '/remove_from_queue/' + jobId,
+    }).success(function(response) {
+      job.fadeOut();
+    })
+  })
+
+  $(document).ready(function() {
+    $('.notes').each(function() {
+      var text = $(this).attr('value');
+      if (text != " ") {
+        $(this).val(text);
+      }
+    })
+  })
+
+  function errorhandler() {
+    $(".scrape").prepend("<h3 class='error' style='color: red;'>Problem with the link provided</h3>");
+  }
+
+  $('.scrape').on('submit', function(e) {
     e.preventDefault();
-    if ($('.link').val().search("www.linkedin.com") != -1) {
+    if ($('.link').val().search("www.linkedin.com") != -1 || $('.link').val().search("craigslist.org") != -1) {
       $.ajax({
-        method: 'post',
+        method: 'POST',
         url: '/joblists/add',
-        data: $(this).serialize()
+        data: $(this).serialize(),
       }).success(function(response) {
-        $('#error').remove();
-        $(".current-jobs").prepend("<li class='job-list'><span><i class='icon-plus'></i>" + response.company + "</span><div style='display: none;'><p>" + response.info + "</p></li>");
+        $('.error').remove();
+        $(".current-jobs").prepend("<li class='job-list' style='display: none;'><span><i class='icon-plus' style='padding-right: 13px;'></i><span class='current-status'>pending</span><a href=" + response.source + ">" + response.company + "</a><i class= 'icon-ban-circle' id= 'queue_buttons'></i></span><div class='organizer-dropdown' style='display: none;'><div class='testing'><form class='custom-status' autocomplete='on' style= 'margin-bottom: 7px;'><input class='new-status' type='text' name='status' placeholder='Write new status' style='margin-bottom: 0px;'></form><textarea class='notes' id=" + response.job_id + "rows='10' cols='50' placeholder='Write your notes here'></textarea></div><div class='statuses'></div></div></li>");
+        $('.job-list').first().fadeIn();
       })
     } else {
-      $(".scrape").prepend("<h3 id='error' style='color: red;'>LINKEDIN ONLY BRO!</h3>");
+      $(".scrape").prepend("<h3 class='error' style='color: red;'>INVALID LINK BRO!</h3>");
     }
   })
 
   $('.current-jobs').on('click', '.icon-plus',function () {
+    $(this).siblings().last().toggle('fast')
+    $(this).siblings().first().toggle('fast')
     $(this).toggleClass('icon-minus');
     $(this).parent().siblings().toggle('fast');
+  })
+
+  $('.current-jobs').on('keyup', '.notes', _.debounce(function() {
+    var notes = {job_id: $(this).attr('id'), note: $(this).val()}
+    $.ajax({
+      dataType: 'JSON',
+      method: 'POST',
+      url: '/joblists/notes',
+      data: notes
+    })
+  }, 1000));
+
+  $('.current-jobs').on('submit', '.custom-status', function(e) {
+    e.preventDefault();
+    debugger
+    $that = $(this)
+    var job_id = $that.siblings().attr('id')
+    $.ajax({
+      type: "put",
+      url: '/jobs/' + job_id,
+      data: $(this).serialize()
+    }).success(function(response) {
+      $($that.parent().parent().siblings().children()[1]).text($that.children().first().val());
+      $('.new-status').val('');
+      $that.closest('.organizer-dropdown').find('.statuses').append('<p>' + response + '</p>');
+    })
   })
 

@@ -3,6 +3,7 @@ class CreateStatuses < ActiveRecord::Migration
 		create_table :statuses do |t|
 			t.string :status
 			t.string :date
+      t.integer :job_list_id
 
 			t.timestamps
 		end

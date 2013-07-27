@@ -24,9 +24,10 @@ class JobsController < ApplicationController
   def update
     list_id = current_user.list.id
     job = JobList.find_by_list_id_and_job_id(list_id, params[:id])
+    status = Status.create(status: params[:status], date: Date.today.to_s.slice(5..9).gsub(/-/,'/'), job_list_id: job.id)
     job.status = params[:status]
     job.save
-    render :text => "fuck yeah"
+    render :text => "#{status.date}- #{status.status}"
   end
 
   def get_job
