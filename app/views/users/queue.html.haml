@@ -61,7 +61,7 @@
 .organizer
   %h1 Organizer
   %form.scrape
-    %input.link{type: 'text', placeholder: "Paste a LinkedIn or Craigslist URL", name: 'url'}
+    %input.link{type: 'text', placeholder: "Paste a LinkedIn job listing URL", name: 'url'}
 
   .current-jobs
     -current_user.jobs.each do |job|
