@@ -7,10 +7,7 @@ class ApplicationController < ActionController::Base
   end
 
   def current_user
-    if cookies[:user_id]
-      current_user = User.find(cookies[:user_id])
-    end
-    current_user
+      current_user = User.find(5)
   end
 
   def sign_out
